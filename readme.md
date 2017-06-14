@@ -30,7 +30,7 @@
   
 The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn_anything)  as well as [searched through](https://learn-anything.xyz). 🔎
   
-When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
+When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. Nodes with 🗺 let you travel to other mind maps.
   
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. Just [click on the 🦄](http://i.imgur.com/Qpi9xZK.png) and say what you wish was added or changed.
 
@@ -41,7 +41,7 @@ The [main goal of this project](https://learn-anything.github.io/future/2017/05/
 
 <h2 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h2>
 
-Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/learn-anything-search) or create a study group for any branch in the mind map and learn together. 
+Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/learn-anything/search-engine) or create a study group for any branch in the mind map and learn together. 
 
 <h2 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h2>
 
@@ -77,9 +77,9 @@ Also if there is a free version of the book available, please say it. In a perfe
 
 ## Help with developing the search engine for mind maps on the web 🔎 
 
-We are currently attempting to move [our current renderer for mind maps](https://github.com/learn-anything/react-mindmap) to [D3.js](https://github.com/d3/d3) in our plans to fully open source and ease contribution and user experience of exploring the mind maps. 
+We are currently attempting sto move [our current renderer for mind maps](https://github.com/learn-anything/react-mindmap) to [D3.js](https://github.com/d3/d3) in our plans to fully open source and ease contribution and user experience of exploring the mind maps. 
 
-If you want to help, that's great. Join our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas and work on it together. 💚
+If you want to help, that's great. There is a [list of issues](https://github.com/learn-anything/search-engine/issues) available. Just see what you think is interesting, join our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas and work on it together. 💚
 
 <h2 align="center"> Future 🚀 </h2>
 
