@@ -79,7 +79,7 @@ Also if there is a free version of the book available, please say it. In a perfe
 
 ## Help with developing the search engine for mind maps on the web 🔎 
 
-We are currently attempting sto move [our current renderer for mind maps](https://github.com/learn-anything/react-mindmap) to [D3.js](https://github.com/d3/d3) in our plans to fully open source and ease contribution and user experience of exploring the mind maps. 
+We are currently attempting to move [our current renderer for mind maps](https://github.com/learn-anything/react-mindmap) to [D3.js](https://github.com/d3/d3) in our plans to fully open source and ease contribution and user experience of exploring the mind maps. 
 
 If you want to help, that's great. There is a [list of issues](https://github.com/learn-anything/search-engine/issues) available. Just see what you think is interesting, join our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas and work on it together. 💚
 
@@ -88,6 +88,8 @@ If you want to help, that's great. There is a [list of issues](https://github.co
 We [plan to ease the contributing process](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) as much as possible so there is no friction in proposing to add changes and integrating them into the mind maps. 
 
 Each mind map will also have [flash cards](https://github.com/learn-anything/flashcards) that you can use to consolidate this knowledge.
+
+There will also be an ability to create a custom theme for the mind maps or choose any of the [community created themes](https://github.com/learn-anything/themes). 🖌
 
 The focus of the search engine is to search through an [open index of knowledge that all can see and explore and contribute to](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html). It should categorise knowledge in a way that allows linear progression of learning each of the topics. There should be no black box where everything is hidden behind a search bar, if you want to explore, [you can](https://learn-anything.xyz/learn_anything). 
 
