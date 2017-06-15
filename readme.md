@@ -63,9 +63,9 @@ You can then read [our article](https://learn-anything.github.io/2017/06/15/cont
 We [wrote an article](https://learn-anything.github.io/2017/06/15/roadmap.html) outlying all the steps we hope to take to make this dream of making a community powered Search Engine and Mind Maps come true.
 
 
-<h2 align="center"><a href="https://www.patreon.com/nikitavoloboev">Keep this project going 🎊</a></h2>
+<h1 align="center"><a href="https://www.patreon.com/nikitavoloboev">Keep this project going 🎊</a></h1>
 
-This project is built by the community, for the community and in our goals to make the most efficient path and the best user experience possible in exploring the mind maps and finding the resources you need, we can only rely on donations made by our users.
+This project is built by the community, for the community and in our goals to make the most efficient path and the best user experience possible in exploring the mind maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
 
 We do not want to put any advertisements nor do we want to put any sponsored content in this Search Engine as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
  
@@ -73,8 +73,7 @@ We have created a [Patreon page](https://www.patreon.com/nikitavoloboev) where y
 
 Thank you. 💚
 
-
-<h3 align="center"><a href="https://github.com/learn-anything/books">Books 📚</a> + <a href="https://github.com/learn-anything/courses">Courses 📝</a> + <a href="https://github.com/learn-anything/research-papers">Research Papers 📄</a> + <a href="https://github.com/learn-anything/blogs">Blogs 🗃️</a> + <a href="https://github.com/learn-anything/flashcards">Flashcards 🎴</a> + <a href="https://github.com/learn-anything/humans">Humans 🌍</a> + <a href="https://github.com/learn-anything/command-line-tools">CLI 🐚</a> + <a href="https://github.com/learn-anything/podcasts">Podcasts 🎙</a> + <a href="https://github.com/learn-anything/alfred-workflows">Alfred 🎩</a> + <a href="https://github.com/learn-anything/images">Images 🎨</a></h3>
+<h2 align="center"><a href="https://github.com/learn-anything/books">Books 📚</a> + <a href="https://github.com/learn-anything/courses">Courses 📝</a> + <a href="https://github.com/learn-anything/research-papers">Research Papers 📄</a> + <a href="https://github.com/learn-anything/blogs">Blogs 🗃️</a> + <a href="https://github.com/learn-anything/flashcards">Flashcards 🎴</a> + <a href="https://github.com/learn-anything/humans">Humans 🌍</a> + <a href="https://github.com/learn-anything/command-line-tools">CLI 🐚</a> + <a href="https://github.com/learn-anything/podcasts">Podcasts 🎙</a> + <a href="https://github.com/learn-anything/alfred-workflows">Alfred 🎩</a> + <a href="https://github.com/learn-anything/images">Images 🎨</a></h2>
 
 There is also a [list of books](https://github.com/learn-anything/books), [free courses](https://github.com/learn-anything/courses), [research papers](https://github.com/learn-anything/research-papers), [blogs](https://github.com/learn-anything/blogs), [user curated flashcards](https://github.com/learn-anything/flashcards), [interesting humans](https://github.com/learn-anything/humans), [command line tools](https://github.com/learn-anything/command-line-tools), [podcasts](https://github.com/learn-anything/podcasts), [alfred workflows](https://github.com/learn-anything/alfred-workflows) and [images](https://github.com/learn-anything/humans) you can take a look at and help improve. 💚
 
