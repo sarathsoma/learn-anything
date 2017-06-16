@@ -69,7 +69,7 @@ This project is built by the community, for the community and in our goals to ma
 
 We do not want to put any advertisements nor do we want to put any sponsored content in this Search Engine as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
  
-We have created a [Patreon page](https://www.patreon.com/nikitavoloboev) where you can support this work, if you wish. Any donation that you make to this project is greatly appreciated and we also have some awesome rewards that come with your support. 
+We have created a [Patreon page](https://www.patreon.com/nikitavoloboev) where you can support this work, if you wish. Any donation that you make to this project is greatly appreciated. We also have some awesome rewards that come with your support. 
 
 Thank you. 💚
 
