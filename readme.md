@@ -23,7 +23,7 @@
   <br>
   </div>
   
-  <h2 align="center"><a href="http://quick.as/evd2h5qqo">Demonstration ☘</a></h2>
+  <h2 align="center"><a href="http://quick.as/evd2h5qqo">Demonstration ☘</a> + <a href="http://quick.as/gl1bhng1l">Advanced Use ⌨</a></h2>
   <div>
   <p align="center"><img src="https://raw.githubusercontent.com/learn-anything/img/master/i_want_to_learn.mp4.gif" alt="img" width="600"></p>
   </div>
