@@ -6,11 +6,11 @@
 	<a href="https://twitter.com/learnanything_">
 		<img src="https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square">
 	</a>
-	<a href="https://www.patreon.com/nikitavoloboev">
-		<img src="https://img.shields.io/badge/patreon-115$-red.svg">
+	<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/patreon-116$-ff69b4.svg">
 	</a>
 	<a href="http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7">
-		<img src="https://img.shields.io/badge/Newsletter-Sign%20up-ff69b4.svg">
+		<img src="https://img.shields.io/badge/Newsletter-Sign%20up-red.svg">
 	</a>
 	<a href="https://github.com/nikitavoloboev/learn-anything/blob/master/LICENSE">
 		<img src="https://img.shields.io/github/license/mashape/apistatus.svg">
@@ -29,21 +29,21 @@
   </div>
   
 The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn_anything) as well as [searched through](https://learn-anything.xyz). 🔎
-  
-When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. 
 
-Just search for what you wish to learn. Nodes with 🗺 let you travel to other mind maps.
+There are **many mind maps inside** and if you click any of the ones that have 🗺 attached, the **best step by step guides you can use to learn the subject in depth** will be shown. 
+  
+Just search for what you wish to learn or [simply explore](https://learn-anything.xyz/learn-anything). 
   
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. Just [click on the 🦄](http://i.imgur.com/Qpi9xZK.png) and say what you wish was added or changed.
 
-The search engine is [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙</p>
+The search engine is [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙
 
-The [main goal of this project](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html) is to expose human knowledge in a visual and structured way to accelerate learning. 🚀
+The [main goal of this project](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html) is to **expose human knowledge in a visual and structured way to accelerate learning**. 🚀
 
 
 <h1 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h1>
 
-Both this project and the search engine [is in active development](https://github.com/learn-anything/search-engine). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [Search Engine](https://github.com/learn-anything/search-engine) or create a study group for any branch in the mind map and learn together.  
+Both this project and the search engine [is in active development](https://github.com/learn-anything/search-engine). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to our [Search Engine](https://github.com/learn-anything/search-engine) or create a study group for any branch in the mind map and learn together.  
 
 <h2 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h2>
 
@@ -58,18 +58,18 @@ There are many ways in which you can help. But before you do, it is best to read
 You can then read [our article](https://learn-anything.github.io/2017/06/15/contributing.html) that goes over all the different ways in which you can contribute to this project. 💙
 
 
-<h1 align="center"> <a href="https://learn-anything.github.io/2017/06/15/roadmap.html">Our Roadmap 🚀</a> </h1>
+<h1 align="center"> <a href="https://learn-anything.github.io/2017/06/15/roadmap.html">Our Roadmap 🔭</a> </h1>
 
 We [wrote an article](https://learn-anything.github.io/2017/06/15/roadmap.html) outlying all the steps we hope to take to make this dream of making a community powered Search Engine and Mind Maps come true.
 
 
-<h1 align="center"><a href="https://www.patreon.com/nikitavoloboev">Keep this project going 🎊</a></h1>
+<h1 align="center"><a href="https://www.patreon.com/learnanything">Keep this project going 💚</a></h1>
 
-This project is built by the community, for the community and in our goals to make the most efficient path and the best user experience possible in exploring the mind maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
+This project is **built by the community, for the community** and in our goals to make the most efficient path and the best user experience possible in exploring the mind maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
 
-We do not want to put any advertisements nor do we want to put any sponsored content in this Search Engine as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
+There are **no advertisements** and **no sponsored content** in this Search Engine as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
  
-We have created a [Patreon page](https://www.patreon.com/nikitavoloboev) where you can support this work, if you wish. Any donation that you make to this project is greatly appreciated. We also have some awesome rewards that come with your support. 
+We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.  
 
 Thank you. 💚
 
@@ -77,17 +77,16 @@ Thank you. 💚
 
 There is also a [list of books](https://github.com/learn-anything/books), [free courses](https://github.com/learn-anything/courses), [research papers](https://github.com/learn-anything/research-papers), [blogs](https://github.com/learn-anything/blogs), [user curated flashcards](https://github.com/learn-anything/flashcards), [interesting humans](https://github.com/learn-anything/humans), [command line tools](https://github.com/learn-anything/command-line-tools), [podcasts](https://github.com/learn-anything/podcasts), [alfred workflows](https://github.com/learn-anything/alfred-workflows) and [images](https://github.com/learn-anything/humans) you can take a look at and help improve. 💚
 
+<h2 align="center"><a href="https://github.com/learn-anything/ama">Ask Us Anything 💬</a></h2>
+
+If you have some specific questions about this project our about our team. We would love to hear them and you can ask them either in our [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) or [in our GitHub AMA](https://github.com/learn-anything/ama/issues/new). 
+
 
 <h2 align="center"> Stay in touch 📮 </h2>
 
-Aside from the [active slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and [Twitter](https://twitter.com/learnanything_), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project as well as [our own reddit subreddit](https://www.reddit.com/r/knowledgemap/) where you can talk and share your discoveries or ask questions. 
+Aside from our [active Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and [Twitter](https://twitter.com/learnanything_), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project as well as [our own reddit subreddit](https://www.reddit.com/r/knowledgemap/) where you can talk and share your discoveries or ask questions. 
 
 Fun fact. 💡 This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big. 
-
-
-<h2 align="center"> Ask 💬</h2>
-
-If you have some specific questions about this project. I would love to hear them and you can ask them either in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) or [in my GitHub ama](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
 
 
 <h1 align="center"> Join our team 🚀 </h1>
