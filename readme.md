@@ -30,9 +30,11 @@
   
 The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn_anything) as well as [searched through](https://learn-anything.xyz). 🔎
 
-There are **many mind maps inside** and if you click any of the ones that have 🗺 attached, the **best step by step guides you can use to learn the subject in depth** will be shown. 
+There are **many mind maps inside** witch show the **best step by step guides you can use to learn the subject in depth**. 
   
-Just search for what you wish to learn or [simply explore](https://learn-anything.xyz/learn-anything). 
+Each node with a link has an emoji attached to show where this node leads on the internet. Nodes with 🗺 are other mind maps. 
+
+Just search for what you wish to learn or [simply explore](https://learn-anything.xyz/learn-anything).
   
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. Just [click on the 🦄](http://i.imgur.com/Qpi9xZK.png) and say what you wish was added or changed.
 
