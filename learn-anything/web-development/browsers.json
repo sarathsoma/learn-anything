@@ -1,0 +1,284 @@
+{
+  "title": "learn anything - web development - browsers",
+  "nodes": [
+    {
+      "text": "web browser",
+      "url": "http://www.wikiwand.com/en/Web_browser",
+      "note": "",
+      "fx": 100.15905743263625,
+      "fy": -291.5467811468709,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 690.236235119047,
+      "fy": -184.30691964285728
+    },
+    {
+      "text": "safari  ️",
+      "url": "/id/vzpg628sGAz3c67v6eKCsqxzth9QNHpm4sHdZyzy",
+      "fx": -256.5461874166565,
+      "fy": -69.69237795869185,
+      "category": "mindmap"
+    },
+    {
+      "text": "google chrome  ️",
+      "url": "/id/3uqHrLo8E7tCqznyNp2xtCLsWkT9qRtpwwFyYTTR",
+      "fx": -133.6728210607605,
+      "fy": -68.69768134156539,
+      "category": "mindmap"
+    },
+    {
+      "text": "brave",
+      "url": "http://www.wikiwand.com/en/Brave_(web_browser)",
+      "fx": 77.47180557250977,
+      "fy": -66.28694915771484,
+      "category": "wiki"
+    },
+    {
+      "text": "firefox",
+      "url": "http://www.wikiwand.com/en/Firefox",
+      "fx": 210.53131064812715,
+      "fy": -63.910092394017965,
+      "category": "wiki"
+    },
+    {
+      "text": "tor browser",
+      "url": "https://www.torproject.org/projects/torbrowser.html.en",
+      "fx": 342.56393608633266,
+      "fy": -61.05542530150882
+    },
+    {
+      "text": "microsoft edge",
+      "url": "http://www.wikiwand.com/en/Microsoft_Edge",
+      "fx": 502.14220330231535,
+      "fy": -60.804166227901476,
+      "category": "wiki"
+    },
+    {
+      "text": "Blink",
+      "url": "http://www.wikiwand.com/en/Blink_(web_engine)",
+      "fx": 248.11796171171022,
+      "fy": 53.79884572070114,
+      "category": "wiki"
+    },
+    {
+      "text": "Gecko",
+      "url": "http://www.wikiwand.com/en/Gecko_(software)",
+      "fx": 376.4443271396465,
+      "fy": 54.43581081079242,
+      "category": "wiki"
+    },
+    {
+      "text": "Chakra",
+      "url": "http://www.wikiwand.com/en/Chakra_(JavaScript_engine)",
+      "fx": 525.7693829114039,
+      "fy": 55.266218354422676,
+      "category": "wiki"
+    },
+    {
+      "text": "Chrome V8  ️",
+      "url": "/id/SZxDsZmsX4p4TE4vp8zJrfWPsQpq12qZfAu8W4Tz",
+      "fx": 43.189177458709196,
+      "fy": 57.59433065876408,
+      "category": "mindmap"
+    },
+    {
+      "text": "WebKit",
+      "url": "http://www.wikiwand.com/en/WebKit",
+      "fx": -106.44995777027157,
+      "fy": 58.18897804052119,
+      "category": "wiki"
+    },
+    {
+      "text": "javascript engines",
+      "url": "http://www.wikiwand.com/en/JavaScript_engine",
+      "fx": 197.65024833650978,
+      "fy": 196.64963854728865,
+      "category": "wiki"
+    },
+    {
+      "text": "headless browser",
+      "url": "http://www.wikiwand.com/en/Headless_browser",
+      "fx": 492.2284165174583,
+      "fy": 206.61349678228856,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "11: how browsers work: behind the scenes of modern web browsers",
+      "url": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
+      "fx": 371.15905743263625,
+      "fy": -299.5467811468709,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "web browser"
+    },
+    {
+      "text": "awesome browser extensions and apps",
+      "url": "https://github.com/vitalets/awesome-browser-extensions-and-apps",
+      "fx": 827.236235119047,
+      "fy": -183.80691964285728,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "list of all headless web browsers",
+      "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
+      "fx": 778.2284165174583,
+      "fy": 220.61349678228856,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "headless browser"
+    }
+  ],
+  "connections": [
+    {
+      "source": "web browser",
+      "target": "safari  ️",
+      "curve": {
+        "x": -246.888,
+        "y": 109.677
+      }
+    },
+    {
+      "source": "web browser",
+      "target": "google chrome  ️",
+      "curve": {
+        "x": -112.416,
+        "y": 111.424
+      }
+    },
+    {
+      "source": "web browser",
+      "target": "brave",
+      "curve": {
+        "x": -28.0937,
+        "y": 112.63
+      }
+    },
+    {
+      "source": "web browser",
+      "target": "firefox",
+      "curve": {
+        "x": 39.1861,
+        "y": 113.818
+      }
+    },
+    {
+      "source": "web browser",
+      "target": "tor browser",
+      "curve": {
+        "x": 110.452,
+        "y": 113.996
+      }
+    },
+    {
+      "source": "javascript engines",
+      "target": "WebKit",
+      "curve": {
+        "x": -183.05,
+        "y": -70.4803
+      }
+    },
+    {
+      "source": "WebKit",
+      "target": "safari  ️",
+      "curve": {
+        "x": -72.2981,
+        "y": -62.6907
+      }
+    },
+    {
+      "source": "javascript engines",
+      "target": "Chrome V8  ️",
+      "curve": {
+        "x": -91.7305,
+        "y": -69.5277
+      }
+    },
+    {
+      "source": "Chrome V8  ️",
+      "target": "google chrome  ️",
+      "curve": {
+        "x": -80.181,
+        "y": -63.146
+      }
+    },
+    {
+      "source": "javascript engines",
+      "target": "Blink",
+      "curve": {
+        "x": -4.01614,
+        "y": -71.4254
+      }
+    },
+    {
+      "source": "Blink",
+      "target": "brave",
+      "curve": {
+        "x": -83.5731,
+        "y": -60.0429
+      }
+    },
+    {
+      "source": "Blink",
+      "target": "google chrome  ️",
+      "curve": {
+        "x": -167.895,
+        "y": -61.2483
+      }
+    },
+    {
+      "source": "javascript engines",
+      "target": "Gecko",
+      "curve": {
+        "x": 64.147,
+        "y": -71.1069
+      }
+    },
+    {
+      "source": "Gecko",
+      "target": "firefox",
+      "curve": {
+        "x": -84.4565,
+        "y": -59.173
+      }
+    },
+    {
+      "source": "web browser",
+      "target": "microsoft edge",
+      "curve": {
+        "x": 205.241,
+        "y": 115.371
+      }
+    },
+    {
+      "source": "javascript engines",
+      "target": "Chakra",
+      "curve": {
+        "x": 140.06,
+        "y": -70.6917
+      }
+    },
+    {
+      "source": "Chakra",
+      "target": "microsoft edge",
+      "curve": {
+        "x": 5.68641,
+        "y": -58.0352
+      }
+    },
+    {
+      "source": "help",
+      "target": "web browser",
+      "curve": {
+        "x": -225.479,
+        "y": -11.6824
+      }
+    }
+  ]
+}

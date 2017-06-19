@@ -1,0 +1,108 @@
+{
+  "title": "learn anything - web development - progressive web apps",
+  "nodes": [
+    {
+      "text": "progressive web apps",
+      "url": "http://www.wikiwand.com/en/Progressive_web_app",
+      "fx": -189.328125,
+      "fy": -128.9765625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -4.1159557540479454,
+      "fy": -21.61044043427364
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -138.61775708680898,
+      "fy": 81.77638533661764
+    },
+    {
+      "text": "offline first",
+      "url": "https://github.com/pazguille/offline-first",
+      "fx": -221.74569235588967,
+      "fy": 194.08290256892235,
+      "category": "github"
+    },
+    {
+      "text": "service workers",
+      "url": "https://developers.google.com/web/fundamentals/getting-started/primers/service-workers",
+      "fx": -235.55448382456063,
+      "fy": 327.95231072793774
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome progressive web apps",
+      "url": "https://github.com/TalAter/awesome-progressive-web-apps",
+      "fx": 132.88404424595205,
+      "fy": -10.110440434273642,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. what progressive web apps are",
+      "url": "https://developers.google.com/web/progressive-web-apps/",
+      "fx": 43.38224291319102,
+      "fy": 79.27638533661764,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. your first progressive web app",
+      "url": "https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/",
+      "fx": 43.38224291319102,
+      "fy": 113.27638533661764,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "awesome service workers",
+      "url": "https://github.com/TalAter/awesome-service-workers",
+      "fx": 3.4455161754393657,
+      "fy": 339.45231072793774,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "service workers"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "progressive web apps",
+      "curve": {
+        "x": -45.3561,
+        "y": -52.433
+      }
+    },
+    {
+      "source": "progressive web apps",
+      "target": "basics",
+      "curve": {
+        "x": -17.1448,
+        "y": 104.127
+      }
+    },
+    {
+      "source": "basics",
+      "target": "offline first",
+      "curve": {
+        "x": -32.564,
+        "y": 57.4033
+      }
+    },
+    {
+      "source": "offline first",
+      "target": "service workers",
+      "curve": {
+        "x": -1.6544,
+        "y": 65.6847
+      }
+    }
+  ]
+}

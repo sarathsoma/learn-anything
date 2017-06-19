@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - operating systems - unix - shells - fish",
+  "nodes": [
+    {
+      "text": "fish shell",
+      "url": "https://fishshell.com/",
+      "note": "",
+      "fx": -91.15361721611714,
+      "fy": -430.91635686923297
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -6.2360598647096595,
+      "fy": -315.21697092825053
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "fx": 109.84638278388286,
+      "fy": -419.41635686923297,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "fish shell"
+    },
+    {
+      "text": "awesome fish",
+      "url": "https://github.com/jbucaran/awesome-fish",
+      "fx": 130.76394013529034,
+      "fy": -303.71697092825053,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "fish shell",
+      "curve": {
+        "x": -32.9588,
+        "y": -57.8496
+      }
+    }
+  ]
+}

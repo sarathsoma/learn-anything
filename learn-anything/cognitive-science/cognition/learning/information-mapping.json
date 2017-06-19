@@ -1,0 +1,30 @@
+{
+  "title": "learn anything - cognitive science - cognition - learning - information mapping",
+  "nodes": [
+    {
+      "text": "information mapping",
+      "url": "http://www.wikiwand.com/en/Information_mapping",
+      "fx": -124.5,
+      "fy": -192.9140625,
+      "category": "wiki"
+    },
+    {
+      "text": "mind maps  ️",
+      "url": "/id/aegyjzupkXw6Q1fsfak7JTVrnsPp94FXAP5uD1RM",
+      "fx": -155.99555468708195,
+      "fy": -26.455123910394946,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "information mapping",
+      "target": "mind maps  ️",
+      "curve": {
+        "x": -43.9978,
+        "y": 81.9795
+      }
+    }
+  ]
+}

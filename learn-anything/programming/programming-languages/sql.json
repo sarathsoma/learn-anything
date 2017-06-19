@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - programming - programming languages - sql",
+  "nodes": [
+    {
+      "text": "SQL",
+      "url": "http://www.wikiwand.com/en/SQL",
+      "fx": -55,
+      "fy": -204.97265625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 52.93843460083008,
+      "fy": -117.88249683380127
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -54.50784154236317,
+      "fy": -22.19662857055664
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/SQL/",
+      "fx": 112,
+      "fy": -190.97265625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "SQL"
+    },
+    {
+      "text": "awesome SQL",
+      "url": "https://github.com/danhuss/awesome-sql",
+      "fx": 189.93843460083008,
+      "fy": -106.38249683380127,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. SQL tutorial",
+      "url": "https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/",
+      "fx": 127.49215845763683,
+      "fy": -7.696628570556641,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "SQL",
+      "curve": {
+        "x": -46.4692,
+        "y": -42.2951
+      }
+    },
+    {
+      "source": "SQL",
+      "target": "basics",
+      "curve": {
+        "x": -2.50392,
+        "y": 90.138
+      }
+    }
+  ]
+}

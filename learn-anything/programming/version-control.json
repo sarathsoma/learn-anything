@@ -1,0 +1,30 @@
+{
+  "title": "learn anything - programming - version control",
+  "nodes": [
+    {
+      "text": "version control",
+      "url": "http://www.wikiwand.com/en/Version_control",
+      "fx": -259.8684593023256,
+      "fy": -211.91960392441854,
+      "category": "wiki"
+    },
+    {
+      "text": "git  ️",
+      "url": "/id/dzhbs3FRB4z143969SjnPEDspe1Gp3SEppissAqy",
+      "fx": -206.00224173717334,
+      "fy": -106.87925619005063,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "version control",
+      "target": "git  ️",
+      "curve": {
+        "x": -0.56689,
+        "y": 52.5202
+      }
+    }
+  ]
+}

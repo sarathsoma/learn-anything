@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - mathematics - chaos theory",
+  "nodes": [
+    {
+      "text": "chaos theory",
+      "url": "http://www.wikiwand.com/en/Chaos_theory",
+      "fx": -128.875,
+      "fy": -193.53125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -95.55078125,
+      "fy": -48.2265625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering",
+      "url": "http://www.goodreads.com/book/show/116164.Nonlinear_Dynamics_and_Chaos",
+      "fx": 86.44921875,
+      "fy": -69.2265625,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "chaos theory",
+      "target": "basics",
+      "curve": {
+        "x": -5.33789,
+        "y": 71.4023
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "title": "learn anything - web development - javascript libraries - jquery",
+  "nodes": [
+    {
+      "text": "jQuery",
+      "url": "https://github.com/jquery/jquery",
+      "fx": -17.816129330026456,
+      "fy": -190.35314430048652,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 67.99449936224369,
+      "fy": -86.9592633928533
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -27.82676977040819,
+      "fy": 83.2426658163281
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "10 things I learned from the jQuery source",
+      "url": "https://www.youtube.com/watch?v=i_qE1iAmjFg",
+      "fx": 204.9944993622437,
+      "fy": -126.4592633928533,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome jQuery",
+      "url": "https://github.com/petk/awesome-jquery",
+      "fx": 204.9944993622437,
+      "fy": -64.4592633928533,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "jQuery tips everyone should know",
+      "url": "https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know",
+      "fx": 204.9944993622437,
+      "fy": -24.459263392853302,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. jQuery on code academy",
+      "url": "https://www.codecademy.com/learn/jquery",
+      "fx": 154.1732302295918,
+      "fy": 80.7426658163281,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. jquery tutorial",
+      "url": "https://www.w3schools.com/jquery/",
+      "fx": 154.1732302295918,
+      "fy": 114.7426658163281,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "jQuery",
+      "target": "basics",
+      "curve": {
+        "x": -5.00532,
+        "y": 136.798
+      }
+    },
+    {
+      "source": "help",
+      "target": "jQuery",
+      "curve": {
+        "x": -30.9053,
+        "y": -50.4469
+      }
+    }
+  ]
+}

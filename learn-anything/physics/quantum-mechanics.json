@@ -1,0 +1,267 @@
+{
+  "title": "learn anything - physics - quantum mechanics",
+  "nodes": [
+    {
+      "text": "quantum mechanics",
+      "url": "http://www.wikiwand.com/en/Quantum_mechanics",
+      "fx": -151.20295009328368,
+      "fy": -220.2465107377514,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 38.68817825005385,
+      "fy": -85.5804092795841
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 310.81055320507176,
+      "fy": 95.05074352144538
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -108.70632938191409,
+      "fy": 261.69943643569763
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 473.27157360406136,
+      "fy": 275.2538071065991
+    },
+    {
+      "text": "uncertainty principle  ️",
+      "url": "/id/pq6ekc4v4qo1ULkjydHqr5w8XnydW9uzMqsePwNs",
+      "fx": -1345.203789893615,
+      "fy": 418.875486625034,
+      "category": "mindmap"
+    },
+    {
+      "text": "quantum gravity  ️",
+      "url": "/id/7Bw1MZp2zoHfV8zkdPE6zsQp7NgtmfE8QGju2cSU",
+      "fx": -1571.714727722773,
+      "fy": 421.40702351485186,
+      "category": "mindmap"
+    },
+    {
+      "text": "quantum suicide and immortality",
+      "url": "http://www.wikiwand.com/en/Quantum_suicide_and_immortality",
+      "fx": -1065.587218036569,
+      "fy": 410.2745390786607,
+      "category": "wiki"
+    },
+    {
+      "text": "quantum information  ️",
+      "url": "/id/6nxrnv5quSLhpb7nwdAJ2BiaKFDxE6oQeeoHcW69",
+      "fx": -801.0602982442308,
+      "fy": 426.9973390168666,
+      "category": "mindmap"
+    },
+    {
+      "text": "quantum computing  ️",
+      "url": "/id/F8ubCrxApr7pFiW8TxvNyyzD51WqHkzVDFMN4cyp",
+      "note": "studies theoretical computation systems (quantum computers) that make direct use of quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data  they are different from binary digital electronic computers based on transistors  whereas common digital computing requires that the data be encoded into binary digits (bits), each of which is always in one two definite states (0 or 1), quantum computation uses quantum bits, which can be in superpositions of states  a quantum turing machine is a theoretical model of such computer, and is also known as the universal quantum computer   a single quit can represent a one, a zero, or any quantum superposition of those two quit states",
+      "fx": -522.0552255433371,
+      "fy": 427.19825194804446,
+      "category": "mindmap"
+    },
+    {
+      "text": "quantum field theory  ️",
+      "url": "/id/gDAemvFSLEMi7g9ozVTKp7yW2onyv76X5cspxeVQ",
+      "note": "is the theoretical framework for constructing quantum mechanical models of subatomic particles in particle physics and quasiparticles in condensed matter physics  it treats particles as excited states of the underlying physical field, so these are called field quanta",
+      "fx": -225.06361462777136,
+      "fy": 427.80017176418426,
+      "category": "mindmap"
+    },
+    {
+      "text": "quantum entanglement  ️",
+      "url": "/id/PyWDaJAKxGEsAoSUaEuXk6sBm7EHxiMzxsDzmeqJ",
+      "fx": 70.22394147220984,
+      "fy": 429.26751587373565,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "kindergarten quantum mechanics lecture notes",
+      "url": "http://www.cs.ox.ac.uk/bob.coecke/VaxjoProc.pdf",
+      "fx": 175.68817825005385,
+      "fy": -138.0804092795841,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "lecture notes on quantum mechanics",
+      "url": "http://www.colorado.edu/physics/phys7270/phys7270_fa16/lecnotes.html",
+      "fx": 175.68817825005385,
+      "fy": -82.0804092795841,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "lecture notes on quantum field theory at Cambridge",
+      "url": "http://www.damtp.cam.ac.uk/user/tong/qft.html",
+      "fx": 175.68817825005385,
+      "fy": -26.080409279584103,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "videos",
+      "url": "http://www.damtp.cam.ac.uk/user/tong/qftvids.html",
+      "fx": 497.68817825005385,
+      "fy": -15.080409279584103,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "lecture notes on quantum field theory at Cambridge"
+    },
+    {
+      "text": "13: how quantum field theory becomes “effective”  ️",
+      "url": "http://www.preposterousuniverse.com/blog/2013/06/20/how-quantum-field-theory-becomes-effective/",
+      "fx": 472.81055320507176,
+      "fy": 44.55074352144538,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: space emerging from quantum mechanics  ️",
+      "url": "http://www.preposterousuniverse.com/blog/2016/07/18/space-emerging-from-quantum-mechanics/",
+      "fx": 472.81055320507176,
+      "fy": 106.55074352144538,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: quantum suicide  ️",
+      "url": "https://thoughtexperiments.net/quantum-suicide/",
+      "fx": 472.81055320507176,
+      "fy": 168.55074352144538,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. visualisation of quantum physics",
+      "url": "https://www.youtube.com/watch?v=p7bzE1E5PMY",
+      "note": "final section about momentum shows that increasing the mass scales the velocity function, so that its uncertainty becomes negligible once the the mass is high enough",
+      "fx": 73.29367061808591,
+      "fy": 231.19943643569763,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. is this what quantum mechanics looks like?",
+      "url": "https://www.youtube.com/watch?v=WIyTZDHuarQ",
+      "fx": 73.29367061808591,
+      "fy": 293.19943643569763,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "what would a very simple quantum program look like?   ️",
+      "url": "https://cstheory.stackexchange.com/questions/9381/what-would-a-very-simple-quantum-program-look-like",
+      "fx": 664.2715736040614,
+      "fy": 275.7538071065991,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "quantum mechanics",
+      "target": "basics",
+      "curve": {
+        "x": -13.5017,
+        "y": 240.974
+      }
+    },
+    {
+      "source": "help",
+      "target": "quantum mechanics",
+      "curve": {
+        "x": -51.4456,
+        "y": -66.0831
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -171.567,
+        "y": -56.0509
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum computing  ️",
+      "curve": {
+        "x": -168.175,
+        "y": 83.9994
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum field theory  ️",
+      "curve": {
+        "x": -55.2806,
+        "y": 84.3003
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum suicide and immortality",
+      "curve": {
+        "x": -532.522,
+        "y": 55.9762
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum entanglement  ️",
+      "curve": {
+        "x": 102.201,
+        "y": 86.5859
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum information  ️",
+      "curve": {
+        "x": -378.001,
+        "y": 74.9257
+      }
+    },
+    {
+      "source": "basics",
+      "target": "uncertainty principle  ️",
+      "curve": {
+        "x": -821.144,
+        "y": 42.3278
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum gravity  ️",
+      "curve": {
+        "x": -943.474,
+        "y": 1.05208
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "articles",
+      "curve": {
+        "x": -88.4805,
+        "y": -90.1015
+      }
+    }
+  ]
+}

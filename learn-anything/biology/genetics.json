@@ -1,0 +1,81 @@
+{
+  "title": "learn anything - biology - genetics",
+  "nodes": [
+    {
+      "text": "genetics",
+      "url": "http://www.wikiwand.com/en/Genetics",
+      "note": "",
+      "fx": -125.86033183643667,
+      "fy": -271.4728545874893,
+      "category": "wiki"
+    },
+    {
+      "text": "CRISPR  ️",
+      "url": "/id/Hc2RYicxJSQwMmsTS4dfVyDhAbmKbkJYkxcy4Dsk",
+      "fx": 15.010806497790213,
+      "fy": -139.20463843680216,
+      "category": "mindmap"
+    },
+    {
+      "text": "DNA  ️",
+      "url": "/id/jCBnzdtWzgAzTymbiFrE2kz2dZprYfyqcXVvdRKj",
+      "note": "short for deoxyribonucleic acid, is the molecule that contains the genetic code of organisms, includes animals, plants, protists, archaea and bacteria, DNA is in each cell in the organism and tells cells what proteins to make",
+      "fx": -41.17821792660948,
+      "fy": -9.73761643134651,
+      "category": "mindmap"
+    },
+    {
+      "text": "GMOs",
+      "url": "http://www.wikiwand.com/en/Genetically_modified_organism",
+      "fx": -114.2206297379895,
+      "fy": 109.7922587281065,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/genetics/",
+      "fx": 103.13966816356333,
+      "fy": -257.4728545874893,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "genetics"
+    },
+    {
+      "text": "are GMOs good or bad? genetic engineering &amp; our food",
+      "url": "https://www.youtube.com/watch?v=7TmcXYp8xu4",
+      "fx": 71.7793702620105,
+      "fy": 112.7922587281065,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "GMOs"
+    }
+  ],
+  "connections": [
+    {
+      "source": "genetics",
+      "target": "CRISPR  ️",
+      "curve": {
+        "x": 69.9356,
+        "y": 66.1341
+      }
+    },
+    {
+      "source": "genetics",
+      "target": "DNA  ️",
+      "curve": {
+        "x": -0.202357,
+        "y": 152.707
+      }
+    },
+    {
+      "source": "genetics",
+      "target": "GMOs",
+      "curve": {
+        "x": -84.8928,
+        "y": 230.616
+      }
+    }
+  ]
+}

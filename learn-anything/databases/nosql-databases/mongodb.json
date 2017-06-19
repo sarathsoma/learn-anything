@@ -1,0 +1,80 @@
+{
+  "title": "learn anything - databases - nosql databases - mongodb",
+  "nodes": [
+    {
+      "text": "mongoDB",
+      "url": "http://www.wikiwand.com/en/MongoDB",
+      "fx": -142.94140625,
+      "fy": -269.765625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -14.58984375,
+      "fy": -153.51171875
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -123.05078125,
+      "fy": -75.421875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://github.com/mongodb/mongo",
+      "fx": 77.05859375,
+      "fy": -255.765625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "mongoDB"
+    },
+    {
+      "text": "awesome mongoDB",
+      "url": "https://github.com/ramnes/awesome-mongodb",
+      "fx": 122.41015625,
+      "fy": -159.01171875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "mongoDB university",
+      "url": "https://university.mongodb.com/?_ga=1.59703789.1760068318.1441899177",
+      "fx": 122.41015625,
+      "fy": -119.01171875,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. mongoDB for developers",
+      "url": "https://university.mongodb.com/courses/M101P/about",
+      "fx": 58.94921875,
+      "fy": -63.921875,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "mongoDB",
+      "curve": {
+        "x": -43.4258,
+        "y": -56.877
+      }
+    },
+    {
+      "source": "mongoDB",
+      "target": "basics",
+      "curve": {
+        "x": -6.05469,
+        "y": 95.9219
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - physics - quantum mechanics - quantum computing",
+  "nodes": [
+    {
+      "text": "quantum computing",
+      "url": "http://www.wikiwand.com/en/Quantum_computing",
+      "fx": 136.87890625,
+      "fy": -257.4375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 202.51743521341473,
+      "fy": -99.77829649390242
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. quantum computers explained – limits of human technology",
+      "url": "https://www.youtube.com/watch?v=JhHMJCUmq28",
+      "fx": 384.51743521341473,
+      "fy": -119.27829649390242,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. quantum computation",
+      "url": "https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/",
+      "fx": 384.51743521341473,
+      "fy": -57.77429869116804,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "quantum computing",
+      "target": "basics",
+      "curve": {
+        "x": -5.68074,
+        "y": 77.5796
+      }
+    }
+  ]
+}

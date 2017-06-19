@@ -1,0 +1,47 @@
+{
+  "title": "learn anything - programming - programming languages - applescript",
+  "nodes": [
+    {
+      "text": "applescript",
+      "url": "http://www.wikiwand.com/en/AppleScript",
+      "note": "",
+      "fx": -112.32856172360255,
+      "fy": -229.31012228260863,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 0.1351416925463127,
+      "fy": -110.07531055903485
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "applescript examples",
+      "url": "http://osxnotes.net/applescript.html",
+      "fx": 137.1351416925463,
+      "fy": -112.57531055903485,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "applescript language guide",
+      "url": "https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983-CH208-SW1",
+      "fx": 137.1351416925463,
+      "fy": -78.57531055903485,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "applescript",
+      "curve": {
+        "x": -33.7319,
+        "y": -58.3674
+      }
+    }
+  ]
+}

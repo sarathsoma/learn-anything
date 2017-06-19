@@ -1,0 +1,112 @@
+{
+  "title": "learn anything - web development - javascript libraries - rxjs",
+  "nodes": [
+    {
+      "text": "RxJS",
+      "url": "https://github.com/Reactive-Extensions/RxJS",
+      "fx": 86.04676635177054,
+      "fy": -325.5427695380317,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 218.31478147153507,
+      "fy": -219.19216784724495
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 332.7790781656903,
+      "fy": -59.3186211541846
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 67.47152780603471,
+      "fy": 47.33833885192871
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "how to think majorly in terms of streams",
+      "url": "https://github.com/staltz/ama/issues/24",
+      "fx": 355.31478147153507,
+      "fy": -277.69216784724495,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "introduction to reactive programming you've been missing",
+      "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+      "fx": 355.31478147153507,
+      "fy": -215.69216784724495,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "RxMarbles",
+      "url": "http://rxmarbles.com/",
+      "fx": 355.31478147153507,
+      "fy": -131.69216784724495,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "15: what if the user was a function?",
+      "url": "https://www.youtube.com/watch?v=1zj7M1LnJV4",
+      "fx": 472.7790781656903,
+      "fy": -78.8186211541846,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "16: you will learn RxJS",
+      "url": "https://www.youtube.com/watch?v=uQ1zhJHclvs",
+      "fx": 472.7790781656903,
+      "fy": -16.818621154184598,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "1. learn RxJS",
+      "url": "https://www.learnrxjs.io/",
+      "fx": 249.47152780603471,
+      "fy": 58.83833885192871,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "RxJS",
+      "curve": {
+        "x": -56.634,
+        "y": -51.9253
+      }
+    },
+    {
+      "source": "RxJS",
+      "target": "basics",
+      "curve": {
+        "x": -14.0376,
+        "y": 185.19
+      }
+    },
+    {
+      "source": "talks",
+      "target": "help",
+      "curve": {
+        "x": -57.9821,
+        "y": -79.9368
+      }
+    }
+  ]
+}

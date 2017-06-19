@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - psychology - decision making - problem solving",
+  "nodes": [
+    {
+      "text": "problem solving",
+      "url": "http://www.wikiwand.com/en/Problem_solving",
+      "note": "",
+      "fx": -191.03326416015625,
+      "fy": -162.53204345703125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -86.4100514144867,
+      "fy": -32.61015847000306
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "XY problem",
+      "url": "http://www.perlmonks.org/?node_id=542341",
+      "fx": 50.5899485855133,
+      "fy": -18.110158470003057,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "problem solving",
+      "curve": {
+        "x": -19.0616,
+        "y": -63.7109
+      }
+    }
+  ]
+}

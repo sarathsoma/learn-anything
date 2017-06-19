@@ -1,0 +1,109 @@
+{
+  "title": "learn anything - programming - programming languages - ocaml",
+  "nodes": [
+    {
+      "text": "OCaml",
+      "url": "http://www.wikiwand.com/en/OCaml",
+      "fx": -53.71902561187744,
+      "fy": -47.22029983997345,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 44.49429848080581,
+      "fy": 58.891426994687095
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 83.32562637329102,
+      "fy": 159.6791592552549
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -35.343179198762755,
+      "fy": 277.7126207253664
+    },
+    {
+      "text": "reason  ️",
+      "url": "/id/6ptBAZDfr2nkjfSKFDrzhXA4sSaFE45dsFogq4ug",
+      "fx": -92.3017578125,
+      "fy": 427.533203125,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome ocaml",
+      "url": "https://github.com/rizo/awesome-ocaml",
+      "fx": 181.4942984808058,
+      "fy": 70.3914269946871,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "type systems",
+      "url": "https://github.com/tomprimozic/type-systems",
+      "note": "",
+      "fx": 274.325626373291,
+      "fy": 171.1791592552549,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. learn OCaml",
+      "url": "https://try.ocamlpro.com/learn-ocaml-demo/#tutorial%3Dfeatures-3-12%26step%3D0%26activity%3Dtryocaml",
+      "fx": 120.65682080123725,
+      "fy": 272.2126207253664,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. real world OCaml",
+      "url": "https://realworldocaml.org/v1/en/html/index.html",
+      "fx": 120.65682080123725,
+      "fy": 306.2126207253664,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "OCaml",
+      "curve": {
+        "x": -35.8567,
+        "y": -51.8059
+      }
+    },
+    {
+      "source": "OCaml",
+      "target": "basics",
+      "curve": {
+        "x": 0.687919,
+        "y": 161.216
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -32.9157,
+        "y": -50.3939
+      }
+    },
+    {
+      "source": "basics",
+      "target": "reason  ️",
+      "curve": {
+        "x": -27.4793,
+        "y": 74.9103
+      }
+    }
+  ]
+}

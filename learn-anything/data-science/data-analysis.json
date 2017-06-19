@@ -1,0 +1,94 @@
+{
+  "title": "learn anything - data science - data analysis",
+  "nodes": [
+    {
+      "text": "data analysis",
+      "url": "http://www.wikiwand.com/en/Data_analysis",
+      "note": "",
+      "fx": -28.6484375,
+      "fy": -241.1875,
+      "category": "wiki"
+    },
+    {
+      "text": "analytics  ️",
+      "url": "/id/jLrJECLwYCzh99b5YNUehkkgfs9HpVLptnWuBA5D",
+      "fx": -281.74388586956525,
+      "fy": -137.22214673913044,
+      "category": "mindmap"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 93.0187181525074,
+      "fy": -129.0655861066017
+    },
+    {
+      "text": "time series analysis  ️",
+      "url": "/id/CTbgZy8G2yGs7x4wdpzeQ5Ffwi7dMuSSPUoQ91ih",
+      "fx": -238.69343517788388,
+      "fy": -29.305490217042745,
+      "category": "mindmap"
+    },
+    {
+      "text": "pandas  ️",
+      "url": "/id/ypjyzY5mTyzWdjVy17YNhxMwGxF3jdadaZnsCqsx",
+      "fx": 16.582221549604185,
+      "fy": 24.034686888615113,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome analytics",
+      "url": "https://github.com/onurakpolat/awesome-analytics",
+      "fx": 230.0187181525074,
+      "fy": -137.5655861066017,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "notes on data analysis  ️",
+      "url": "http://frnsys.com/ai_notes/in_practice/process.html",
+      "fx": 230.0187181525074,
+      "fy": -97.5655861066017,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "data analysis",
+      "curve": {
+        "x": -34.0836,
+        "y": -54.811
+      }
+    },
+    {
+      "source": "data analysis",
+      "target": "pandas  ️",
+      "curve": {
+        "x": -36.7318,
+        "y": 142.644
+      }
+    },
+    {
+      "source": "data analysis",
+      "target": "time series analysis  ️",
+      "curve": {
+        "x": -104.522,
+        "y": 104.691
+      }
+    },
+    {
+      "source": "data analysis",
+      "target": "analytics  ️",
+      "curve": {
+        "x": -150.048,
+        "y": 50.7327
+      }
+    }
+  ]
+}

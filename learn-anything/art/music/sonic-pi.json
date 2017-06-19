@@ -1,0 +1,97 @@
+{
+  "title": "learn anything - art - music - sonic pi",
+  "nodes": [
+    {
+      "text": "sonic pi",
+      "url": "http://sonic-pi.net/",
+      "fx": -19.409104567307622,
+      "fy": -147.28740985576923
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 78.39520615797778,
+      "fy": -60.94555414028662
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -21.652233911825874,
+      "fy": 47.24396098960915
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/samaaron/sonic-pi",
+      "fx": 148.59089543269238,
+      "fy": -135.78740985576923,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "sonic pi"
+    },
+    {
+      "text": "preparations  ️",
+      "url": "https://aimxhaisse.com/aerodynamic-preparations-en.html",
+      "fx": 215.39520615797778,
+      "fy": -89.44555414028662,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "sonic pi tutorials",
+      "url": "https://github.com/rbnpi/SonicPi-Tutorials",
+      "fx": 215.39520615797778,
+      "fy": -49.44555414028662,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "sonic pi shortcuts",
+      "url": "https://github.com/samaaron/sonic-pi/blob/master/etc/doc/tutorial/10.2-Shortcut-Cheatsheet.md",
+      "fx": 215.39520615797778,
+      "fy": -9.445554140286617,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introduction",
+      "url": "http://www.daveconservatoire.org/lesson/introduction-to-sonic-pi",
+      "fx": 160.34776608817413,
+      "fy": 41.74396098960915,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. getting started with sonic pi",
+      "url": "https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/worksheet/",
+      "fx": 160.34776608817413,
+      "fy": 81.74396098960915,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "sonic pi",
+      "target": "basics",
+      "curve": {
+        "x": -4.12156,
+        "y": 97.2657
+      }
+    },
+    {
+      "source": "help",
+      "target": "sonic pi",
+      "curve": {
+        "x": -41.1522,
+        "y": -43.1709
+      }
+    }
+  ]
+}

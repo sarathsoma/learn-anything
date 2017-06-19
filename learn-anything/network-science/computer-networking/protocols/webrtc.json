@@ -1,0 +1,77 @@
+{
+  "title": "learn anything - network science - computer networking - protocols - webrtc",
+  "nodes": [
+    {
+      "text": "WebRTC",
+      "url": "http://www.wikiwand.com/en/WebRTC",
+      "note": "",
+      "fx": -52.09375,
+      "fy": -149.43359375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 107.06283378601074,
+      "fy": -26.739169597625732
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -13.74609375,
+      "fy": 72.66796875
+    },
+    {
+      "text": "WebTorrent  ️",
+      "url": "/id/DxJEY6vdpFtbP4cAb7eURnLNPbugzrZy1UqBzft6",
+      "fx": -162.68608566810326,
+      "fy": 192.81270204741395,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "everything about WebRTC",
+      "url": "https://github.com/muaz-khan/WebRTC-Experiment",
+      "fx": 244.06283378601074,
+      "fy": -15.239169597625732,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introduction",
+      "url": "https://codelabs.developers.google.com/codelabs/webrtc-web/#0",
+      "fx": 142.25390625,
+      "fy": 87.16796875,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "WebRTC",
+      "curve": {
+        "x": -61.3283,
+        "y": -60.0972
+      }
+    },
+    {
+      "source": "WebRTC",
+      "target": "basics",
+      "curve": {
+        "x": -0.826172,
+        "y": 109.801
+      }
+    },
+    {
+      "source": "basics",
+      "target": "WebTorrent  ️",
+      "curve": {
+        "x": -55.72,
+        "y": 61.3224
+      }
+    }
+  ]
+}

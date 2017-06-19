@@ -1,0 +1,120 @@
+{
+  "title": "learn anything - chemistry - drugs - psychedelic - dmt",
+  "nodes": [
+    {
+      "text": "DMT",
+      "url": "https://psychonautwiki.org/w/index.php/DMT",
+      "fx": 23.75411739864876,
+      "fy": -220.80373733108107,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 135.67928437928913,
+      "fy": -111.59653233193058
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 221.49721041606097,
+      "fy": 39.417714085052694
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 14.876063192177753,
+      "fy": 215.49685225209913
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/DMT/",
+      "fx": 194.75411739864876,
+      "fy": -206.80373733108107,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "DMT"
+    },
+    {
+      "text": "DMT nexus",
+      "url": "https://www.dmt-nexus.me/forum/",
+      "fx": 272.67928437928913,
+      "fy": -97.09653233193058,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "13: the neuropsychological and evolutionary implications of the astonishing effects of DMT",
+      "url": "https://drive.google.com/file/d/0B9XWsRMWmi0qdHdnVTlacmNRdkk/view",
+      "fx": 412.49721041606097,
+      "fy": -64.0822859149473,
+      "category": "paper",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "12: Terrence McKenna describes DMT trip",
+      "url": "https://www.youtube.com/watch?v=VavdCpewQbA",
+      "fx": 412.49721041606097,
+      "fy": 19.917714085052694,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "14: moving into the scared wold of DMT  ️",
+      "url": "http://psychedelicfrontier.com/moving-sacred-world-dmt-nick-sand/",
+      "fx": 412.49721041606097,
+      "fy": 81.9177140850527,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "16: DMT: experiencing the impossible",
+      "url": "https://www.youtube.com/watch?v=i2nbnJzervs&amp;t=390s",
+      "fx": 412.49721041606097,
+      "fy": 143.9177140850527,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. how does DMT work  ️",
+      "url": "http://www.thinkingzygote.com/2012/02/how-dmt-works.html",
+      "fx": 170.87606319217775,
+      "fy": 226.99685225209913,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "DMT",
+      "curve": {
+        "x": -47.4626,
+        "y": -53.3536
+      }
+    },
+    {
+      "source": "DMT",
+      "target": "basics",
+      "curve": {
+        "x": -8.18902,
+        "y": 216.901
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -56.409,
+        "y": -75.5072
+      }
+    }
+  ]
+}

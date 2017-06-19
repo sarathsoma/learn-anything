@@ -1,0 +1,88 @@
+{
+  "title": "learn anything - programming - programming languages - perl",
+  "nodes": [
+    {
+      "text": "perl",
+      "url": "http://www.wikiwand.com/en/Perl",
+      "fx": -75.63250968992259,
+      "fy": -205.43662185077517,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 1.8986191860464032,
+      "fy": -102.04548207364331
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -86.21311773255854,
+      "fy": 16.061349321694024
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/perl/",
+      "fx": 85.36749031007741,
+      "fy": -191.43662185077517,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "perl"
+    },
+    {
+      "text": "awesome perl",
+      "url": "https://github.com/hachiojipm/awesome-perl",
+      "fx": 138.8986191860464,
+      "fy": -107.54548207364331,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "perl tutorials",
+      "url": "https://learn.perl.org/tutorials/",
+      "fx": 138.8986191860464,
+      "fy": -67.54548207364331,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. get started",
+      "url": "http://perldoc.perl.org/perlintro.html",
+      "fx": 95.78688226744146,
+      "fy": 10.561349321694024,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. modern perl",
+      "url": "http://modernperlbooks.com/books/modern_perl_2016/index.html",
+      "fx": 95.78688226744146,
+      "fy": 44.561349321694024,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "perl",
+      "curve": {
+        "x": -32.7655,
+        "y": -50.4455
+      }
+    },
+    {
+      "source": "perl",
+      "target": "basics",
+      "curve": {
+        "x": -13.0403,
+        "y": 109.499
+      }
+    }
+  ]
+}

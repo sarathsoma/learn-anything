@@ -1,0 +1,30 @@
+{
+  "title": "learn anything - mathematics - calculus - differential calculus",
+  "nodes": [
+    {
+      "text": "differential calculus",
+      "url": "http://www.wikiwand.com/en/Differential_calculus",
+      "fx": 302.6635044642858,
+      "fy": -45.14676339285717,
+      "category": "wiki"
+    },
+    {
+      "text": "derivatives  ️",
+      "url": "/id/uq1xfrUGoreAjpkUgexeKmp7yusxeRCtC5pzy2K2",
+      "fx": 274.90837221784034,
+      "fy": 89.30754499157717,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "differential calculus",
+      "target": "derivatives  ️",
+      "curve": {
+        "x": -32.6276,
+        "y": 67.2272
+      }
+    }
+  ]
+}

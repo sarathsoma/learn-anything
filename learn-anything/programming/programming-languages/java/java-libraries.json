@@ -1,0 +1,104 @@
+{
+  "title": "learn anything - programming - programming languages - java - java libraries",
+  "nodes": [
+    {
+      "text": "java libraries",
+      "url": "http://www.wikiwand.com/en/Java_Class_Library",
+      "note": "",
+      "fx": 57.2265625,
+      "fy": -77.70703125,
+      "category": "wiki"
+    },
+    {
+      "text": "database",
+      "url": "",
+      "fx": -91.49339122497338,
+      "fy": 24.292995575010423
+    },
+    {
+      "text": "web",
+      "url": "",
+      "fx": 146.92578125,
+      "fy": 61.41796875
+    },
+    {
+      "text": "hibernate ORM  ️",
+      "url": "/id/Ani7WwNHos8JexqWCcsSHBmtfj2xzu9z6opjmH2x",
+      "fx": -254.55242322166345,
+      "fy": 132.28748653945485,
+      "category": "mindmap"
+    },
+    {
+      "text": "dropwizard  ️",
+      "url": "/id/9744Zsq3ZUU2H8GwB97PskTosTpa5NHHKkQ7sLbf",
+      "fx": 251.7452565476018,
+      "fy": 150.8425255459474,
+      "category": "mindmap"
+    },
+    {
+      "text": "spring  ️",
+      "url": "/id/pPHve7k8EUpnEYDcqFCwivq4CNeqGDDB4fDEFkbW",
+      "fx": 198.97221404973163,
+      "fy": 275.19000095017213,
+      "category": "mindmap"
+    },
+    {
+      "text": "spark  ️",
+      "url": "/id/wwLQURAiEZE7WtMVy22LzVcsy3oVQUxEyzPA6Fd1",
+      "fx": 140.3426705953682,
+      "fy": 394.5246948827978,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "web",
+      "target": "dropwizard  ️",
+      "curve": {
+        "x": 67.9097,
+        "y": 44.7123
+      }
+    },
+    {
+      "source": "web",
+      "target": "spring  ️",
+      "curve": {
+        "x": 14.8467,
+        "y": 118.208
+      }
+    },
+    {
+      "source": "web",
+      "target": "spark  ️",
+      "curve": {
+        "x": -44.2072,
+        "y": 193.051
+      }
+    },
+    {
+      "source": "java libraries",
+      "target": "web",
+      "curve": {
+        "x": 19.8496,
+        "y": 68.3125
+      }
+    },
+    {
+      "source": "java libraries",
+      "target": "database",
+      "curve": {
+        "x": -94.36,
+        "y": 49.75
+      }
+    },
+    {
+      "source": "database",
+      "target": "hibernate ORM  ️",
+      "curve": {
+        "x": -81.5295,
+        "y": 53.9972
+      }
+    }
+  ]
+}

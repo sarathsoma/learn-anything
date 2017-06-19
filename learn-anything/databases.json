@@ -1,0 +1,186 @@
+{
+  "title": "learn anything - databases",
+  "nodes": [
+    {
+      "text": "database",
+      "url": "http://www.wikiwand.com/en/Database",
+      "fx": 18.027658871334324,
+      "fy": -432.8098971539046,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 151.12141927082894,
+      "fy": -314.51936848958337
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 21.890589344574096,
+      "fy": -187.9086332104127
+    },
+    {
+      "text": "relational databases  ️",
+      "url": "/id/y48JgLrYtbyNrsKyRze4WHzhYVrGZks9N9pvsekp",
+      "fx": -404.2229881286621,
+      "fy": 42.566781997680664,
+      "category": "mindmap"
+    },
+    {
+      "text": "noSQL databases  ️",
+      "url": "/id/mLEApxUMnfyeMpB7WzzkUdUNAweVk9WWJZpXgsh6",
+      "fx": -146.53618621826172,
+      "fy": 42.56679153442383,
+      "category": "mindmap"
+    },
+    {
+      "text": "database caching",
+      "url": "http://www.wikiwand.com/en/Database_caching",
+      "fx": 92.73653017241418,
+      "fy": 44.745100350215694,
+      "category": "wiki"
+    },
+    {
+      "text": "graph databases  ️",
+      "url": "/id/kAMXBibSaps4PdfxkB4jBoYBxWBfMbk1eYEzo6Cz",
+      "fx": 337.3810663926288,
+      "fy": 45.590967695758195,
+      "category": "mindmap"
+    },
+    {
+      "text": "distributed database",
+      "url": "http://www.wikiwand.com/en/Distributed_database",
+      "fx": -701.6680094524933,
+      "fy": 49.99716034033611,
+      "category": "wiki"
+    },
+    {
+      "text": "time series database  ️",
+      "url": "/id/2MSAaYJ2x3CT9sXdNWJV8hupqHhykRxy3MAVikaZ",
+      "fx": -969.2688419117649,
+      "fy": 53.066176470588175,
+      "category": "mindmap"
+    },
+    {
+      "text": "blockchain  ️",
+      "url": "/id/Cqy6H5RRvkwBTFEsTFH1eW8zQFA5Gzvoq6ssjFxc#447.8,99.7,2",
+      "fx": -660.5833395652535,
+      "fy": 170.13252202162528,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Database/",
+      "fx": 229.02765887133432,
+      "fy": -438.8098971539046,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "database"
+    },
+    {
+      "text": "️",
+      "url": "https://dba.stackexchange.com/",
+      "fx": 229.02765887133432,
+      "fy": -398.8098971539046,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "database"
+    },
+    {
+      "text": "awesome db",
+      "url": "https://github.com/numetriclabz/awesome-db",
+      "fx": 288.12141927082894,
+      "fy": -303.01936848958337,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. databases from Stanford",
+      "url": "https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about",
+      "fx": 203.8905893445741,
+      "fy": -176.4086332104127,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "database",
+      "target": "basics",
+      "curve": {
+        "x": -5.06861,
+        "y": 122.451
+      }
+    },
+    {
+      "source": "basics",
+      "target": "relational databases  ️",
+      "curve": {
+        "x": -182.556,
+        "y": 115.238
+      }
+    },
+    {
+      "source": "basics",
+      "target": "noSQL databases  ️",
+      "curve": {
+        "x": -57.9634,
+        "y": 115.238
+      }
+    },
+    {
+      "source": "basics",
+      "target": "database caching",
+      "curve": {
+        "x": 65.6727,
+        "y": 117.577
+      }
+    },
+    {
+      "source": "basics",
+      "target": "distributed database",
+      "curve": {
+        "x": -322.779,
+        "y": 120.203
+      }
+    },
+    {
+      "source": "distributed database",
+      "target": "blockchain  ️",
+      "curve": {
+        "x": -1.20766,
+        "y": 60.0677
+      }
+    },
+    {
+      "source": "basics",
+      "target": "graph databases  ️",
+      "curve": {
+        "x": 172.495,
+        "y": 116.75
+      }
+    },
+    {
+      "source": "help",
+      "target": "database",
+      "curve": {
+        "x": -48.0469,
+        "y": -57.8953
+      }
+    },
+    {
+      "source": "basics",
+      "target": "time series database  ️",
+      "curve": {
+        "x": -583.767,
+        "y": 116.663
+      }
+    }
+  ]
+}

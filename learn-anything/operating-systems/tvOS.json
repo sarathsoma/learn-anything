@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - operating systems - tvOS",
+  "nodes": [
+    {
+      "text": "tvOS",
+      "url": "http://www.wikiwand.com/en/TvOS",
+      "note": "",
+      "fx": -37.81388608870964,
+      "fy": -283.23336693548384,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 12.416940789473756,
+      "fy": -176.01747532894734
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome tvOS",
+      "url": "https://github.com/sanketfirodiya/tvOS",
+      "fx": 149.41694078947376,
+      "fy": -164.51747532894734,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "tvOS",
+      "curve": {
+        "x": -16.3654,
+        "y": -52.3579
+      }
+    }
+  ]
+}

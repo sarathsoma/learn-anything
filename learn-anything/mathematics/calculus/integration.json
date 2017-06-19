@@ -1,0 +1,99 @@
+{
+  "title": "learn anything - mathematics - calculus - integration",
+  "nodes": [
+    {
+      "text": "integration",
+      "url": "http://www.wikiwand.com/en/Integral",
+      "fx": 64.88629153584486,
+      "fy": -41.069662480376564,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 94.93515897212535,
+      "fy": 88.68265461671115
+    },
+    {
+      "text": "Lebesgue integration  ️",
+      "url": "/id/gkqLVirT2GTGWevXssPg4Vy4ykoosLsAH1o8u6Hc",
+      "fx": 166.0836966323718,
+      "fy": 253.86025829479905,
+      "category": "mindmap"
+    },
+    {
+      "text": "multiple integrals  ️",
+      "url": "/id/Gps36QpS1LESSFXQs67sRujS6sGsTDqLq2eNudny",
+      "fx": -324.8292170698926,
+      "fy": 254.09181787634395,
+      "category": "mindmap"
+    },
+    {
+      "text": "integral transform",
+      "url": "http://www.wikiwand.com/en/Integral_transform",
+      "fx": -93.10693979263306,
+      "fy": 254.32902908325195,
+      "category": "wiki"
+    },
+    {
+      "text": "Laplace transform  ️",
+      "url": "/id/MX14wgJ59Bx3dqAgrq7NuNvzgaS1VMSC323BSPpN",
+      "fx": 442.1620278857321,
+      "fy": 256.0906014082463,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. integration and the fundamental theorem of calculus",
+      "url": "https://www.youtube.com/watch?v=rfG8ce4nNh0",
+      "fx": 250.93515897212535,
+      "fy": 89.18265461671115,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "basics",
+      "target": "Laplace transform  ️",
+      "curve": {
+        "x": 185.305,
+        "y": 80.0868
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Lebesgue integration  ️",
+      "curve": {
+        "x": 68.5741,
+        "y": 82.5888
+      }
+    },
+    {
+      "source": "basics",
+      "target": "integral transform",
+      "curve": {
+        "x": -61.7714,
+        "y": 84.0732
+      }
+    },
+    {
+      "source": "integration",
+      "target": "basics",
+      "curve": {
+        "x": -1.47557,
+        "y": 63.6262
+      }
+    },
+    {
+      "source": "basics",
+      "target": "multiple integrals  ️",
+      "curve": {
+        "x": -186.632,
+        "y": 82.7046
+      }
+    }
+  ]
+}

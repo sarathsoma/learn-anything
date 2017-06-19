@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - philosophy - philosophy of mind - metaphysics",
+  "nodes": [
+    {
+      "text": "metaphysics",
+      "url": "http://www.wikiwand.com/en/Metaphysics",
+      "fx": -231.38671875,
+      "fy": -276.43359375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -196.7578125,
+      "fy": -128.5234375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to metaphysics",
+      "url": "https://www.youtube.com/watch?v=qKq0Afmsj-U",
+      "fx": -40.7578125,
+      "fy": -148.0234375,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. Alan Watts - an introduction to metaphysics",
+      "url": "https://www.youtube.com/watch?v=ksUYxdX8PRg",
+      "fx": -40.7578125,
+      "fy": -108.0234375,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "metaphysics",
+      "target": "basics",
+      "curve": {
+        "x": -3.93555,
+        "y": 72.7051
+      }
+    }
+  ]
+}

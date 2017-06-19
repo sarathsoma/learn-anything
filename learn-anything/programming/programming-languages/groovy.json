@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - programming - programming languages - groovy",
+  "nodes": [
+    {
+      "text": "groovy",
+      "url": "http://www.wikiwand.com/en/Groovy_(programming_language)",
+      "fx": -62.50022315979004,
+      "fy": -29.454605102539062,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 46.94017163212436,
+      "fy": 61.86129774083747
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -55.90725830193128,
+      "fy": 142.08766365191406
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome groovy",
+      "url": "https://github.com/kdabir/awesome-groovy",
+      "fx": 183.94017163212436,
+      "fy": 73.36129774083747,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. get started",
+      "url": "http://groovy-lang.org/documentation.html#gettingstarted",
+      "fx": 126.09274169806872,
+      "fy": 156.58766365191406,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "groovy",
+      "curve": {
+        "x": -41.9702,
+        "y": -44.408
+      }
+    },
+    {
+      "source": "groovy",
+      "target": "basics",
+      "curve": {
+        "x": -4.70352,
+        "y": 84.5211
+      }
+    }
+  ]
+}

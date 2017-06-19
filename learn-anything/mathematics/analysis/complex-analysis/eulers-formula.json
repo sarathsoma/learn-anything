@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - mathematics - analysis - complex analysis - eulers formula",
+  "nodes": [
+    {
+      "text": "Euler’s formula",
+      "url": "http://www.wikiwand.com/en/Euler%27s_formula",
+      "fx": -108.078125,
+      "fy": -227.36328125,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 76.078125,
+      "fy": -109.71002674102783
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -60.5429996997118,
+      "fy": -6.657566070556641
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "Euler’s formula poem",
+      "url": "https://www.youtube.com/watch?v=zLzLxVeqdQg",
+      "fx": 267.078125,
+      "fy": -98.21002674102783,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. Euler’s formula and graph duality",
+      "url": "https://www.youtube.com/watch?v=-9OUyo8NFZg",
+      "fx": 95.4570003002882,
+      "fy": -6.157566070556641,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "interesting",
+      "target": "Euler’s formula",
+      "curve": {
+        "x": -75.0781,
+        "y": -57.5766
+      }
+    },
+    {
+      "source": "Euler’s formula",
+      "target": "basics",
+      "curve": {
+        "x": -1.98244,
+        "y": 109.103
+      }
+    }
+  ]
+}

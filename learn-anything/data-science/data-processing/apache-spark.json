@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - data science - data processing - apache spark",
+  "nodes": [
+    {
+      "text": "apache spark",
+      "url": "http://www.wikiwand.com/en/Apache_Spark",
+      "fx": -106.6640625,
+      "fy": -289.08203125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 30.253169221698045,
+      "fy": -177.93688405234855
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -76.37009286008902,
+      "fy": -80.05710911300935
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/apache/spark",
+      "fx": 143.3359375,
+      "fy": -275.08203125,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "apache spark"
+    },
+    {
+      "text": "awesome spark",
+      "url": "https://github.com/awesome-spark/awesome-spark",
+      "fx": 167.25316922169804,
+      "fy": -166.43688405234855,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learning spark: lightning-fast big data analysis",
+      "url": "http://www.goodreads.com/book/show/24808098-learning-spark",
+      "fx": 105.62990713991098,
+      "fy": -79.55710911300935,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "apache spark",
+      "curve": {
+        "x": -40.2086,
+        "y": -54.3226
+      }
+    },
+    {
+      "source": "apache spark",
+      "target": "basics",
+      "curve": {
+        "x": -8.35302,
+        "y": 103.262
+      }
+    }
+  ]
+}

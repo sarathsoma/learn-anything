@@ -1,0 +1,169 @@
+{
+  "title": "learn anything - health - fitness - sports",
+  "nodes": [
+    {
+      "text": "sports",
+      "url": "http://www.wikiwand.com/en/Sport",
+      "note": "",
+      "fx": -308.84375,
+      "fy": -158.5546875,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "snowboarding  ️",
+      "url": "/id/EXKGQWa1VbvqApdq1cphqgXDqezQh9isGmjgFnxN",
+      "fx": -98.84375,
+      "fy": -464.5546875,
+      "category": "mindmap",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "longboarding",
+      "url": "http://www.wikiwand.com/en/Longboarding",
+      "fx": -98.84375,
+      "fy": -424.5546875,
+      "category": "wiki",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "skateboarding  ️",
+      "url": "/id/zmZhNHnsQs5ghRkVbzaKD4krFDxX73F5BqnLxf8C",
+      "fx": -98.84375,
+      "fy": -384.5546875,
+      "category": "mindmap",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "basketball  ️",
+      "url": "/id/WzXjfQ91xET4EtFBKb8yVrDixMnfKFuty3A3Hx9a",
+      "fx": -98.84375,
+      "fy": -344.5546875,
+      "category": "mindmap",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "football  ️",
+      "url": "/id/boY5EnZnpFMHqczWQFLNVmpi9qcyPyviK1VCSopm",
+      "fx": -98.84375,
+      "fy": -304.5546875,
+      "category": "mindmap",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "golf  ️",
+      "url": "/id/4c7nosY8nASo5Kyhzc2gzexhmB9ybssvywitsRtD",
+      "fx": -98.84375,
+      "fy": -264.5546875,
+      "category": "mindmap",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "hiking",
+      "url": "http://www.wikiwand.com/en/Hiking",
+      "fx": -98.84375,
+      "fy": -224.5546875,
+      "category": "wiki",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "rock climbing",
+      "url": "http://www.wikiwand.com/en/Rock_climbing",
+      "fx": -98.84375,
+      "fy": -184.5546875,
+      "category": "wiki",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "parkour  ️",
+      "url": "/id/DJXGxzV61Ukpp4seN49depzw7yJMW9gGD5L4s1xZ",
+      "fx": -98.84375,
+      "fy": -144.5546875,
+      "category": "mindmap",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "volleyball",
+      "url": "http://www.wikiwand.com/en/Volleyball",
+      "fx": -98.84375,
+      "fy": -104.5546875,
+      "category": "wiki",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "skiing",
+      "url": "http://www.wikiwand.com/en/Skiing",
+      "fx": -98.84375,
+      "fy": -64.5546875,
+      "category": "wiki",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "rowing",
+      "url": "http://www.wikiwand.com/en/Rowing_(sport)",
+      "fx": -98.84375,
+      "fy": -24.5546875,
+      "category": "wiki",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "fencing",
+      "url": "http://www.wikiwand.com/en/Fencing",
+      "fx": -98.84375,
+      "fy": 15.4453125,
+      "category": "wiki",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "squash",
+      "url": "http://www.wikiwand.com/en/Squash_(sport)",
+      "fx": -98.84375,
+      "fy": 55.4453125,
+      "category": "wiki",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "surfing  ️",
+      "url": "/id/xPTkUME9ETqhXFVD5sBdyHj98wFpdARRrFZtpLqB",
+      "fx": -98.84375,
+      "fy": 95.4453125,
+      "category": "mindmap",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "archery  ️",
+      "url": "/id/SoXJh5cEqEZez3ySMtSXgH9yEXKDYvHv8BQakRqs",
+      "fx": -98.84375,
+      "fy": 135.4453125,
+      "category": "mindmap",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "sports"
+    },
+    {
+      "text": "juggling  ️",
+      "url": "/id/YqGswrpLQPz7JQ2jLsqsXRQbVMBJeeMdiB6BFtRX",
+      "fx": -98.84375,
+      "fy": 175.4453125,
+      "category": "mindmap",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "sports"
+    }
+  ],
+  "connections": []
+}

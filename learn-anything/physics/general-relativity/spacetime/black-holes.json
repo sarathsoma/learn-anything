@@ -1,0 +1,64 @@
+{
+  "title": "learn anything - physics - general relativity - spacetime - black holes",
+  "nodes": [
+    {
+      "text": "black holes",
+      "url": "http://www.wikiwand.com/en/Black_hole",
+      "fx": -186.4296875,
+      "fy": -253.4030075571896,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -168.21701388888914,
+      "fy": -117.03086703431376
+    },
+    {
+      "text": "primordial black holes  ️",
+      "url": "/id/qBH5Bq9dmpQHcpra1okq3gMF7vYTBYnWm3qbKxsC",
+      "fx": -260.4204452614381,
+      "fy": 17.532781862722686,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. black holes explained",
+      "url": "https://www.youtube.com/watch?v=e-P5IFTqB98",
+      "fx": 13.782986111110858,
+      "fy": -136.53086703431376,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. what if there was a black hole in your pocket?",
+      "url": "https://www.youtube.com/watch?v=8nHBGFKLHZQ",
+      "fx": 13.782986111110858,
+      "fy": -96.53086703431376,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "black holes",
+      "target": "basics",
+      "curve": {
+        "x": -9.14366,
+        "y": 66.9361
+      }
+    },
+    {
+      "source": "basics",
+      "target": "primordial black holes  ️",
+      "curve": {
+        "x": -4.10172,
+        "y": 68.5318
+      }
+    }
+  ]
+}

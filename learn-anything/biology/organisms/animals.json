@@ -1,0 +1,115 @@
+{
+  "title": "learn anything - biology - organisms - animals",
+  "nodes": [
+    {
+      "text": "animals",
+      "url": "http://www.wikiwand.com/en/Animal",
+      "note": "",
+      "fx": 73.57228379563935,
+      "fy": -532.1489102866236,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 350.33061744712995,
+      "fy": -414.69593089123873
+    },
+    {
+      "text": "fish",
+      "url": "http://www.wikiwand.com/en/Fish",
+      "fx": -238.28125,
+      "fy": -239.54634161646584,
+      "category": "wiki"
+    },
+    {
+      "text": "mammals",
+      "url": "http://www.wikiwand.com/en/Mammal",
+      "fx": -129.8291015625,
+      "fy": -236.1328125,
+      "category": "wiki"
+    },
+    {
+      "text": "amphibians",
+      "url": "http://www.wikiwand.com/en/Amphibian",
+      "fx": 40.16269015005514,
+      "fy": -235.57445536205944,
+      "category": "wiki"
+    },
+    {
+      "text": "reptiles",
+      "url": "http://www.wikiwand.com/en/Reptile",
+      "fx": 229.79012940529014,
+      "fy": -232.72831773127746,
+      "category": "wiki"
+    },
+    {
+      "text": "birds",
+      "url": "http://www.wikiwand.com/en/Bird",
+      "fx": 374.7922632158627,
+      "fy": -231.36887389867832,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "endangered species",
+      "url": "http://species-in-pieces.com/#",
+      "fx": 541.33061744713,
+      "fy": -403.19593089123873,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "animals",
+      "target": "fish",
+      "curve": {
+        "x": -172.676,
+        "y": 145.051
+      }
+    },
+    {
+      "source": "animals",
+      "target": "mammals",
+      "curve": {
+        "x": -96.7007,
+        "y": 148.008
+      }
+    },
+    {
+      "source": "animals",
+      "target": "amphibians",
+      "curve": {
+        "x": -7.95478,
+        "y": 148.287
+      }
+    },
+    {
+      "source": "animals",
+      "target": "reptiles",
+      "curve": {
+        "x": 77.1086,
+        "y": 149.71
+      }
+    },
+    {
+      "source": "animals",
+      "target": "birds",
+      "curve": {
+        "x": 144.611,
+        "y": 150.39
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "animals",
+      "curve": {
+        "x": -130.629,
+        "y": -57.4765
+      }
+    }
+  ]
+}

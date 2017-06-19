@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - machine learning - pattern recognition - statistical classification",
+  "nodes": [
+    {
+      "text": "statistical classification",
+      "url": "http://www.wikiwand.com/en/Statistical_classification",
+      "fx": -78.98828125,
+      "fy": -54.359375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 4.468245967744679,
+      "fy": 120.63860887098099
+    },
+    {
+      "text": "random forests  ️",
+      "url": "/id/U78xqor3uxqp9SqbXZEJQAsfEecWJEb4yW9nXkG9",
+      "fx": -160.14813701923083,
+      "fy": 275.13739483173083,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. data analysis: clustering and classification",
+      "url": "https://www.youtube.com/watch?v=B0TI2q7wgIQ",
+      "fx": 160.46824596774468,
+      "fy": 121.13860887098099,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "statistical classification",
+      "target": "basics",
+      "curve": {
+        "x": -1.77174,
+        "y": 86.249
+      }
+    },
+    {
+      "source": "basics",
+      "target": "random forests  ️",
+      "curve": {
+        "x": -65.0582,
+        "y": 77.2494
+      }
+    }
+  ]
+}

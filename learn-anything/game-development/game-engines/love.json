@@ -1,0 +1,110 @@
+{
+  "title": "learn anything - game development - game engines - love",
+  "nodes": [
+    {
+      "text": "LÖVE",
+      "url": "https://love2d.org/",
+      "fx": -91.296875,
+      "fy": -168.56640625
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 5.1438540624193365,
+      "fy": -75.52517872408401
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -113.49018143384887,
+      "fy": 88.36327000153369
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome LÖVE",
+      "url": "https://github.com/love2d-community/awesome-love2d",
+      "fx": 142.14385406241934,
+      "fy": -64.02517872408401,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. why LÖVE?  ️",
+      "url": "https://eev.ee/blog/2017/03/23/why-love/",
+      "fx": 68.50981856615113,
+      "fy": 14.863270001533692,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. getting started",
+      "url": "https://love2d.org/wiki/Getting_Started",
+      "fx": 68.50981856615113,
+      "fy": 54.86327000153369,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. create complete game with LÖVE",
+      "url": "",
+      "fx": 68.50981856615113,
+      "fy": 139.8632700015337,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "part 1 - game loop",
+      "url": "https://github.com/adonaac/blog/issues/11",
+      "fx": 430.5098185661511,
+      "fy": 88.86327000153369,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "2. create complete game with LÖVE"
+    },
+    {
+      "text": "part 2 - libraries",
+      "url": "https://github.com/adonaac/blog/issues/12",
+      "fx": 430.5098185661511,
+      "fy": 122.86327000153369,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "2. create complete game with LÖVE"
+    },
+    {
+      "text": "part 3 - rooms and areas",
+      "url": "https://github.com/adonaac/blog/issues/13",
+      "fx": 430.5098185661511,
+      "fy": 156.8632700015337,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "2. create complete game with LÖVE"
+    },
+    {
+      "text": "part 4 - exercises",
+      "url": "https://github.com/adonaac/blog/issues/14",
+      "fx": 430.5098185661511,
+      "fy": 190.8632700015337,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "2. create complete game with LÖVE"
+    }
+  ],
+  "connections": [
+    {
+      "source": "LÖVE",
+      "target": "basics",
+      "curve": {
+        "x": -9.59665,
+        "y": 128.465
+      }
+    },
+    {
+      "source": "help",
+      "target": "LÖVE",
+      "curve": {
+        "x": -44.9704,
+        "y": -46.5206
+      }
+    }
+  ]
+}

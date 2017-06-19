@@ -1,0 +1,69 @@
+{
+  "title": "learn anything - physics - computational physics - monte carlo methods",
+  "nodes": [
+    {
+      "text": "monte carlo methods",
+      "url": "http://www.wikiwand.com/en/Monte_Carlo_method",
+      "fx": -100.98046875,
+      "fy": -229.8828125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -20.635679280750992,
+      "fy": -93.32687771331808
+    },
+    {
+      "text": "particle filters  ️",
+      "url": "/id/rzUJ4XnmWBLka4iVJDdGUNWw66rNxu4sNc5bGAMb",
+      "fx": -177.64867579573604,
+      "fy": 31.996749920454477,
+      "category": "mindmap"
+    },
+    {
+      "text": "Kalman filter  ️",
+      "url": "/id/MbCcDYoKnDdkWaVUNT8fBHMsrczvx94TDLrEPo69",
+      "fx": 24.599984015345285,
+      "fy": 34.636109335038384,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. monte carlo simulation",
+      "url": "https://www.youtube.com/watch?v=OgO1gpXSUzU",
+      "fx": 135.364320719249,
+      "fy": -81.82687771331808,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "monte carlo methods",
+      "target": "basics",
+      "curve": {
+        "x": -0.827605,
+        "y": 67.028
+      }
+    },
+    {
+      "source": "basics",
+      "target": "particle filters  ️",
+      "curve": {
+        "x": -65.7564,
+        "y": 62.6618
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Kalman filter  ️",
+      "curve": {
+        "x": 35.8678,
+        "y": 63.9815
+      }
+    }
+  ]
+}

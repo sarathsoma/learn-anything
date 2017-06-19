@@ -1,0 +1,108 @@
+{
+  "title": "learn anything - software - tooling - text editors - emacs",
+  "nodes": [
+    {
+      "text": "emacs",
+      "url": "https://www.gnu.org/software/emacs/",
+      "fx": -132.00822368421063,
+      "fy": -162.213169642857
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -49.51089927486896,
+      "fy": -65.17300178771632
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": -1.8023846956124316,
+      "fy": 22.564142291707185
+    },
+    {
+      "text": "videos",
+      "url": "",
+      "fx": 89.6989168224477,
+      "fy": 120.64911568433718
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -125.19659678314929,
+      "fy": 211.92839342674847
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome emacs",
+      "url": "https://github.com/emacs-tw/awesome-emacs",
+      "fx": 87.48910072513104,
+      "fy": -53.673001787716316,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "15: getting started with emacs? empty your cup  ️",
+      "url": "http://sachachua.com/blog/2015/02/getting-started-emacs-empty-cup/",
+      "fx": 160.19761530438757,
+      "fy": 23.064142291707185,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "emacs multiple cursors",
+      "url": "http://emacsrocks.com/e13.html",
+      "fx": 246.6989168224477,
+      "fy": 132.14911568433718,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "videos"
+    },
+    {
+      "text": "1. practical emacs tutorial",
+      "url": "http://ergoemacs.org/emacs/emacs.html",
+      "fx": 56.80340321685071,
+      "fy": 223.42839342674847,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "emacs",
+      "curve": {
+        "x": -35.7487,
+        "y": -48.5201
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -30.1043,
+        "y": -43.8686
+      }
+    },
+    {
+      "source": "videos",
+      "target": "articles",
+      "curve": {
+        "x": -44.5007,
+        "y": -49.0425
+      }
+    },
+    {
+      "source": "emacs",
+      "target": "basics",
+      "curve": {
+        "x": -3.84419,
+        "y": 187.071
+      }
+    }
+  ]
+}

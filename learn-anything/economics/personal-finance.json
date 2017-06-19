@@ -1,0 +1,79 @@
+{
+  "title": "learn anything - economics - personal finance",
+  "nodes": [
+    {
+      "text": "personal finance",
+      "url": "http://www.wikiwand.com/en/Personal_finance",
+      "fx": -198.30069742489263,
+      "fy": 22.42663626609442,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -139.65879828326194,
+      "fy": 158.78540772530823
+    },
+    {
+      "text": "financial independence  ️",
+      "url": "/id/pEPHR2gDncqZ6UX4JDf24vpFznPpexrrpvouM6he",
+      "fx": -106.7674236594471,
+      "fy": 296.05364495956496,
+      "category": "mindmap"
+    },
+    {
+      "text": "passive income  ️",
+      "url": "/id/ypeMWogv1fPptwspyqQuqBeFLTahiV5b3oihX3ic",
+      "fx": -338.34647745305455,
+      "fy": 300.3817793738428,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://money.stackexchange.com/",
+      "fx": 76.69930257510737,
+      "fy": 36.42663626609442,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "personal finance"
+    },
+    {
+      "text": "1. the richest man in Babylon",
+      "url": "http://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon",
+      "fx": 42.341201716738055,
+      "fy": 170.28540772530823,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "personal finance",
+      "target": "basics",
+      "curve": {
+        "x": -0.42905,
+        "y": 66.9294
+      }
+    },
+    {
+      "source": "basics",
+      "target": "financial independence  ️",
+      "curve": {
+        "x": 54.4457,
+        "y": 69.8841
+      }
+    },
+    {
+      "source": "basics",
+      "target": "passive income  ️",
+      "curve": {
+        "x": -85.3438,
+        "y": 70.7982
+      }
+    }
+  ]
+}

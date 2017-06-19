@@ -1,0 +1,192 @@
+{
+  "title": "learn anything - design - user experience",
+  "nodes": [
+    {
+      "text": "user experience",
+      "url": "http://www.wikiwand.com/en/User_experience",
+      "fx": -85.26005816459656,
+      "fy": -187.66955964039948,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 54.84207163018698,
+      "fy": -83.28212691161588
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 228.1075522212658,
+      "fy": 96.32380831443652
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -68.00108799185159,
+      "fy": 285.92886325535153
+    },
+    {
+      "text": "user centered design",
+      "url": "http://www.wikiwand.com/en/User-centered_design",
+      "fx": 18.69207033256282,
+      "fy": 419.79344156608465,
+      "category": "wiki"
+    },
+    {
+      "text": "interaction design",
+      "url": "http://www.wikiwand.com/en/Interaction_design",
+      "fx": -246.31393681524526,
+      "fy": 434.4518798576652,
+      "category": "wiki"
+    },
+    {
+      "text": "user research",
+      "url": "http://www.wikiwand.com/en/User_Research",
+      "fx": 52.44213856861245,
+      "fy": 533.4372492969611,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://ux.stackexchange.com/",
+      "fx": 184.73994183540344,
+      "fy": -173.66955964039948,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "user experience"
+    },
+    {
+      "text": "UX/UI best practices",
+      "url": "https://www.nickkolenda.com/user-experience/",
+      "fx": 191.84207163018698,
+      "fy": -85.78212691161588,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "UI talks",
+      "url": "http://talks.ui-patterns.com/",
+      "fx": 191.84207163018698,
+      "fy": -51.782126911615876,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: where will UX design be in 5 years?  ️",
+      "url": "http://trydesignlab.com/blog/where-ux-design-5-years-predictions/",
+      "fx": 390.1075522212658,
+      "fy": -16.17619168556348,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: meaningful motion with action driven animation  ️",
+      "url": "http://tobiasahlin.com/blog/meaningful-motion-w-action-driven-animation/",
+      "fx": 390.1075522212658,
+      "fy": 45.82380831443652,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: UX  design methods &amp; deliverables  ️",
+      "url": "https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d",
+      "fx": 390.1075522212658,
+      "fy": 107.82380831443652,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: the disappearing computer  ️",
+      "url": "https://www.recode.net/2017/5/25/15689094/mossberg-final-column",
+      "fx": 390.1075522212658,
+      "fy": 169.82380831443652,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: redditors design worst volume sliders possible  ️",
+      "url": "https://www.designernews.co/stories/84443-redditors-design-worst-volume-sliders-possible",
+      "fx": 390.1075522212658,
+      "fy": 209.82380831443652,
+      "category": "article",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. hack design",
+      "url": "https://hackdesign.org/",
+      "fx": 113.99891200814841,
+      "fy": 277.42886325535153,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. ten skills to become UX unicorn  ️",
+      "url": "https://medium.com/@uxmuch/ten-skills-you-need-to-be-a-ux-unicorn-f7ec555981b0",
+      "fx": 113.99891200814841,
+      "fy": 317.42886325535153,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "user experience",
+      "target": "basics",
+      "curve": {
+        "x": -14.8705,
+        "y": 236.798
+      }
+    },
+    {
+      "source": "help",
+      "target": "user experience",
+      "curve": {
+        "x": -36.8011,
+        "y": -50.9438
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -106.982,
+        "y": -76.588
+      }
+    },
+    {
+      "source": "basics",
+      "target": "interaction design",
+      "curve": {
+        "x": -62.9064,
+        "y": 75.5115
+      }
+    },
+    {
+      "source": "user centered design",
+      "target": "user research",
+      "curve": {
+        "x": 0.12503,
+        "y": 56.8219
+      }
+    },
+    {
+      "source": "basics",
+      "target": "user centered design",
+      "curve": {
+        "x": 77.0965,
+        "y": 68.1823
+      }
+    }
+  ]
+}

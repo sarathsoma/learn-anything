@@ -1,0 +1,149 @@
+{
+  "title": "learn anything - programming - programming languages - clojure",
+  "nodes": [
+    {
+      "text": "clojure",
+      "url": "http://www.wikiwand.com/en/Clojure",
+      "fx": -67.75390625,
+      "fy": -227.18359375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 25.32880210876465,
+      "fy": -124.41999816894531
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 108.64518630713758,
+      "fy": -13.080816834990685
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 206.6640625,
+      "fy": 104.6015625
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -120.27582032499265,
+      "fy": 214.8149344070613
+    },
+    {
+      "text": "clojurescript  ️",
+      "url": "/id/gDrV35KLRsdT9Ajxvr7EnN9yanPrgTx7LRzmfBUK",
+      "fx": -198.30012068186295,
+      "fy": 358.5469468915793,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome clojure",
+      "url": "https://github.com/razum2um/awesome-clojure",
+      "fx": 162.32880210876465,
+      "fy": -129.9199981689453,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "clojure from the ground up",
+      "url": "https://aphyr.com/tags/Clojure-from-the-ground-up",
+      "fx": 162.32880210876465,
+      "fy": -89.91999816894531,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "15: how to earn your clojure white belt  ️",
+      "url": "https://notamonadtutorial.com/how-to-earn-your-clojure-white-belt-7e7db68a71e5",
+      "fx": 270.6451863071376,
+      "fy": -21.580816834990685,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: readable clojure  ️",
+      "url": "http://tonsky.me/blog/readable-clojure/",
+      "fx": 270.6451863071376,
+      "fy": 18.419183165009315,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "cursive",
+      "url": "https://cursive-ide.com/",
+      "note": "IDE for clojure and clojurescript",
+      "fx": 348.6640625,
+      "fy": 119.1015625,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. brave clojure",
+      "url": "http://www.braveclojure.com/introduction/",
+      "fx": 61.72417967500735,
+      "fy": 209.3149344070613,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. clojure problems",
+      "url": "http://www.4clojure.com/problems",
+      "fx": 61.72417967500735,
+      "fy": 249.3149344070613,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -47.9082,
+        "y": -55.6696
+      }
+    },
+    {
+      "source": "basics",
+      "target": "clojurescript  ️",
+      "curve": {
+        "x": -19.0121,
+        "y": 73.116
+      }
+    },
+    {
+      "source": "tools",
+      "target": "articles",
+      "curve": {
+        "x": -44.0094,
+        "y": -58.8412
+      }
+    },
+    {
+      "source": "help",
+      "target": "clojure",
+      "curve": {
+        "x": -34.2913,
+        "y": -50.1318
+      }
+    },
+    {
+      "source": "clojure",
+      "target": "basics",
+      "curve": {
+        "x": -40.2609,
+        "y": 219.75
+      }
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "title": "learn anything - programming - programming languages - swift",
+  "nodes": [
+    {
+      "text": "swift",
+      "url": "http://www.wikiwand.com/en/Swift_(programming_language)",
+      "fx": 162.0618864815293,
+      "fy": -971.6240939501465,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 263.66444051652206,
+      "fy": -636.7637228106666
+    },
+    {
+      "text": "blogs",
+      "url": "",
+      "fx": 424.94126556159904,
+      "fy": -235.84026234266275
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -85.61279481560587,
+      "fy": -101.63227712135745
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 597.4971693840589,
+      "fy": -84.18678920088576
+    },
+    {
+      "text": "protocol oriented programming",
+      "url": "https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html",
+      "fx": -457.98342234809206,
+      "fy": -17.274422800654406
+    },
+    {
+      "text": "concurrent programming",
+      "url": "https://www.pluralsight.com/blog/software-development/concurrency-swift-3",
+      "fx": -369.00039689265463,
+      "fy": 86.58135425530872
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 758.0554352700035,
+      "fy": 112.74700771777123
+    },
+    {
+      "text": "apple frameworks  ️",
+      "url": "/id/4JFpCVhHphBPqc1S8prRZVbkb2PjVByjtLzMMcfG",
+      "fx": 182.34478312457895,
+      "fy": 112.65045847044848,
+      "category": "mindmap"
+    },
+    {
+      "text": "libraries",
+      "url": "",
+      "fx": 44.18582376452878,
+      "fy": 199.96334889245463
+    },
+    {
+      "text": "SwiftTask",
+      "url": "https://github.com/ReactKit/SwiftTask",
+      "fx": 30.194141226365673,
+      "fy": 367.1561317065498,
+      "category": "github"
+    },
+    {
+      "text": "ReSwift",
+      "url": "http://reswift.github.io/ReSwift/master/",
+      "fx": 203.07537248958556,
+      "fy": 371.56228931731744
+    },
+    {
+      "text": "vapor",
+      "url": "https://github.com/vapor/vapor",
+      "fx": 472.54804284282227,
+      "fy": 369.1949866526029,
+      "category": "github"
+    },
+    {
+      "text": "foundation",
+      "url": "https://github.com/apple/swift-corelibs-foundation",
+      "fx": -311.99150797692505,
+      "fy": 369.2932977940636,
+      "category": "github"
+    },
+    {
+      "text": "swift standard library",
+      "url": "https://developer.apple.com/reference/swift",
+      "fx": -559.6164410678498,
+      "fy": 371.8538076501917
+    },
+    {
+      "text": "hydra",
+      "url": "https://github.com/malcommac/Hydra",
+      "fx": 324.87147443566096,
+      "fy": 369.4178499936247,
+      "category": "github"
+    },
+    {
+      "text": "perfect",
+      "url": "https://github.com/PerfectlySoft/Perfect",
+      "fx": 612.2295236895161,
+      "fy": 370.5584126134072,
+      "category": "github"
+    },
+    {
+      "text": "transition",
+      "url": "https://github.com/Touchwonders/Transition",
+      "fx": -132.9583658682027,
+      "fy": 370.74872489995073,
+      "category": "github"
+    },
+    {
+      "text": "RxSwift",
+      "url": "https://github.com/ReactiveX/RxSwift",
+      "fx": 774.3027253557502,
+      "fy": 372.7674739788117,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "swift",
+      "url": "https://www.reddit.com/r/swift/",
+      "fx": 331.0618864815293,
+      "fy": -957.6240939501465,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "swift"
+    },
+    {
+      "text": "algorithms in swift",
+      "url": "https://github.com/raywenderlich/swift-algorithm-club",
+      "fx": 400.66444051652206,
+      "fy": -890.2637228106666,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "OOD principles in swift",
+      "url": "https://github.com/ochococo/OOD-Principles-In-Swift",
+      "fx": 400.66444051652206,
+      "fy": -850.2637228106666,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome swift",
+      "url": "https://github.com/matteocrippa/awesome-swift",
+      "fx": 400.66444051652206,
+      "fy": -810.2637228106666,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome swift 2",
+      "url": "https://github.com/Wolg/awesome-swift",
+      "fx": 400.66444051652206,
+      "fy": -770.2637228106666,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome swift education",
+      "url": "https://github.com/hsavit1/Awesome-Swift-Education",
+      "fx": 400.66444051652206,
+      "fy": -730.2637228106666,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome swift playgrounds",
+      "url": "https://github.com/uraimo/Awesome-Swift-Playgrounds",
+      "fx": 400.66444051652206,
+      "fy": -690.2637228106666,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "writing high-performance swift code",
+      "url": "https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst",
+      "fx": 400.66444051652206,
+      "fy": -650.2637228106666,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "swift weekly",
+      "url": "https://github.com/vandadnp/swift-weekly",
+      "note": "- weekly swift language gems, tips and tricks",
+      "fx": 400.66444051652206,
+      "fy": -588.2637228106666,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "swift web repl by ibm",
+      "url": "https://swift.sandbox.bluemix.net/#/repl",
+      "fx": 400.66444051652206,
+      "fy": -548.2637228106666,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "swift tips and tricks",
+      "url": "https://github.com/JohnSundell/SwiftTips",
+      "fx": 400.66444051652206,
+      "fy": -514.2637228106666,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "swift notes",
+      "url": "https://github.com/stylekit/research/wiki/Swift-Resources",
+      "fx": 400.66444051652206,
+      "fy": -474.26372281066665,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "this week in swift",
+      "url": "http://swiftnews.curated.co/",
+      "fx": 400.66444051652206,
+      "fy": -434.26372281066665,
+      "category": "newsletter",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "apple docs",
+      "url": "https://developer.apple.com/develop/",
+      "fx": 400.66444051652206,
+      "fy": -394.26372281066665,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "what is new in swift 4",
+      "url": "https://github.com/ole/whats-new-in-swift-4",
+      "fx": 400.66444051652206,
+      "fy": -360.26372281066665,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "swift tutorials  ️",
+      "url": "http://jamesonquave.com/",
+      "fx": 572.941265561599,
+      "fy": -264.34026234266275,
+      "category": "blog",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "blogs"
+    },
+    {
+      "text": "NSHipster  ️",
+      "url": "http://nshipster.com/",
+      "fx": 572.941265561599,
+      "fy": -224.34026234266275,
+      "category": "blog",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "blogs"
+    },
+    {
+      "text": "mike ash  ️",
+      "url": "https://mikeash.com/pyblog/",
+      "fx": 572.941265561599,
+      "fy": -184.34026234266275,
+      "category": "blog",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "blogs"
+    },
+    {
+      "text": "1. swift programming language book",
+      "url": "https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309",
+      "fx": 96.38720518439413,
+      "fy": -152.13227712135745,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. hacking with swift",
+      "url": "https://www.hackingwithswift.com/read",
+      "fx": 96.38720518439413,
+      "fy": -90.13227712135745,
+      "category": "",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. iOS 10 Programming Fundamentals with Swift",
+      "url": "https://www.google.nl/search?q=ios+10+programming+fundamentals+with+swift+pdf&amp;hl=en&amp;safe=off&amp;gws_rd=cr&amp;ei=qdcTWY_UG43fwALftJqYDg",
+      "fx": 96.38720518439413,
+      "fy": -50.13227712135745,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "design patterns in swift",
+      "url": "https://shirazian.wordpress.com/2016/04/11/design-patterns-in-swift/",
+      "fx": 759.4971693840589,
+      "fy": -162.68678920088576,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: building a lisp from scratch with swift  ️",
+      "url": "https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/",
+      "fx": 759.4971693840589,
+      "fy": -128.68678920088576,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: type erasure using closures in swift  ️",
+      "url": "https://medium.com/@johnsundell/type-erasure-using-closures-in-swift-1e6125231f8",
+      "fx": 759.4971693840589,
+      "fy": -66.68678920088576,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: namespacing swift code with nested types  ️",
+      "url": "https://medium.com/@johnsundell/namespacing-swift-code-with-nested-types-10eabddaa97d",
+      "fx": 759.4971693840589,
+      "fy": -4.686789200885755,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "15: what haskell taught me about writing swift",
+      "url": "https://news.realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/",
+      "fx": 898.0554352700035,
+      "fy": 73.24700771777123,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "17: optimising swift collections",
+      "url": "https://www.dotconferences.com/2017/01/karoly-lorentey-optimizing-swift-collections",
+      "fx": 898.0554352700035,
+      "fy": 135.24700771777123,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "repo of talk",
+      "url": "https://github.com/lorentey/OptimizingCollections",
+      "fx": 1245.0554352700035,
+      "fy": 135.24700771777123,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "17: optimising swift collections"
+    },
+    {
+      "text": "17: testing in swift",
+      "url": "http://www.ustream.tv/recorded/101118612",
+      "note": "for good testing have  unified input/output state that is kept local injected dependencies",
+      "fx": 898.0554352700035,
+      "fy": 175.24700771777123,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "talks"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "swift",
+      "curve": {
+        "x": -50.0518,
+        "y": -167.43
+      }
+    },
+    {
+      "source": "swift",
+      "target": "basics",
+      "curve": {
+        "x": -119.837,
+        "y": 434.996
+      }
+    },
+    {
+      "source": "basics",
+      "target": "protocol oriented programming",
+      "curve": {
+        "x": -136.935,
+        "y": 42.1789
+      }
+    },
+    {
+      "source": "basics",
+      "target": "concurrent programming",
+      "curve": {
+        "x": -98.447,
+        "y": 104.778
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "swift standard library",
+      "curve": {
+        "x": -310.585,
+        "y": 58.1445
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "foundation",
+      "curve": {
+        "x": -164.089,
+        "y": 85.915
+      }
+    },
+    {
+      "source": "blogs",
+      "target": "help",
+      "curve": {
+        "x": -161.923,
+        "y": -135.005
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "transition",
+      "curve": {
+        "x": -78.0721,
+        "y": 86.6427
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "SwiftTask",
+      "curve": {
+        "x": 4.50416,
+        "y": 84.8464
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "ReSwift",
+      "curve": {
+        "x": 79.6948,
+        "y": 85.7995
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "hydra",
+      "curve": {
+        "x": 143.093,
+        "y": 85.9773
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "vapor",
+      "curve": {
+        "x": 216.931,
+        "y": 85.8658
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "perfect",
+      "curve": {
+        "x": 385.428,
+        "y": 77.0788
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "RxSwift",
+      "curve": {
+        "x": 499.844,
+        "y": 49.7732
+      }
+    },
+    {
+      "source": "articles",
+      "target": "blogs",
+      "curve": {
+        "x": -112.016,
+        "y": -52.9361
+      }
+    },
+    {
+      "source": "talks",
+      "target": "articles",
+      "curve": {
+        "x": -135.072,
+        "y": -70.4474
+      }
+    },
+    {
+      "source": "basics",
+      "target": "libraries",
+      "curve": {
+        "x": 61.1493,
+        "y": 150.798
+      }
+    },
+    {
+      "source": "basics",
+      "target": "apple frameworks  ️",
+      "curve": {
+        "x": 132.768,
+        "y": 130.026
+      }
+    }
+  ]
+}

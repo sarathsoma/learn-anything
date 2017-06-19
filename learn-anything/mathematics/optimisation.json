@@ -1,0 +1,106 @@
+{
+  "title": "learn anything - mathematics - optimisation",
+  "nodes": [
+    {
+      "text": "mathematical optimisation",
+      "url": "http://www.wikiwand.com/en/Mathematical_optimization",
+      "fx": -152.35532034871892,
+      "fy": -450.9333298612188,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 78.28285319615497,
+      "fy": -332.7988803508407
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -43.84596037728784,
+      "fy": -241.03231416891708
+    },
+    {
+      "text": "convex optimisation  ️",
+      "url": "/id/qm9Uxx3qBqTazquTDXwV2voX83sMmTM6sasJhqt1",
+      "fx": 48.456054667267836,
+      "fy": -148.60362747030842,
+      "category": "mindmap"
+    },
+    {
+      "text": "constrained optimisation  ️",
+      "url": "/id/skWThjHLCxtgsSFkUCQ9s1PSEbPnMUMVpqPwnwYJ",
+      "fx": -376.6860787027852,
+      "fy": -137.44274026102437,
+      "category": "mindmap"
+    },
+    {
+      "text": "gradient descent  ️",
+      "url": "/id/FgzX7ADMj7DAqrNVCKjiWscfkUBvVyTdfrqqo3ws",
+      "fx": -32.125537914074414,
+      "fy": -46.14249583146693,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "resources to learn optimisation  ❓",
+      "url": "https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization",
+      "fx": 215.28285319615497,
+      "fy": -321.2988803508407,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. notes on optimisation   ️",
+      "url": "http://frnsys.com/ai_notes/foundations/optimization.html",
+      "fx": 112.15403962271216,
+      "fy": -229.53231416891708,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "mathematical optimisation",
+      "curve": {
+        "x": -52.3191,
+        "y": -57.8172
+      }
+    },
+    {
+      "source": "mathematical optimisation",
+      "target": "basics",
+      "curve": {
+        "x": 2.50468,
+        "y": 103.701
+      }
+    },
+    {
+      "source": "basics",
+      "target": "gradient descent  ️",
+      "curve": {
+        "x": -0.35868,
+        "y": 107.483
+      }
+    },
+    {
+      "source": "basics",
+      "target": "convex optimisation  ️",
+      "curve": {
+        "x": 83.901,
+        "y": 47.4644
+      }
+    },
+    {
+      "source": "basics",
+      "target": "constrained optimisation  ️",
+      "curve": {
+        "x": -125.67,
+        "y": 51.7948
+      }
+    }
+  ]
+}

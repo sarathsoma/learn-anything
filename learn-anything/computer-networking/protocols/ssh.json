@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - computer networking - protocols - ssh",
+  "nodes": [
+    {
+      "text": "secure shell",
+      "url": "http://www.wikiwand.com/en/Secure_Shell",
+      "note": "",
+      "fx": -110.5625,
+      "fy": -364.8046875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 5.159687042236328,
+      "fy": -260.6753387451172
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 47.73046875,
+      "fy": -121.26171875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome ssh",
+      "url": "https://github.com/moul/awesome-ssh",
+      "fx": 142.15968704223633,
+      "fy": -269.1753387451172,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "educational SSH client",
+      "url": "https://github.com/tetrakai/ssh_client",
+      "fx": 142.15968704223633,
+      "fy": -229.1753387451172,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "simplify your life with SSH config  ️",
+      "url": "http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/",
+      "fx": 209.73046875,
+      "fy": -120.76171875,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "secure shell",
+      "curve": {
+        "x": -33.6111,
+        "y": -50.8147
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -27.5354,
+        "y": -69.7068
+      }
+    }
+  ]
+}

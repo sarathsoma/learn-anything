@@ -1,0 +1,45 @@
+{
+  "title": "learn anything - physics - particle physics - elementary particles",
+  "nodes": [
+    {
+      "text": "elementary particles",
+      "url": "http://www.wikiwand.com/en/Elementary_particle",
+      "fx": 68.70703125,
+      "fy": -55.42578125,
+      "category": "wiki"
+    },
+    {
+      "text": "Higgs boson  ️",
+      "url": "/id/G49a8aoKRYQT58pizVBFwkMGhG1bpa3BrghsZrSK",
+      "fx": 211.2282858455883,
+      "fy": 88.87827435661762,
+      "category": "mindmap"
+    },
+    {
+      "text": "neutrino  ️",
+      "url": "/id/UW1jP5g1NAszNQEYz4ouqPDvrpXNyxy4PAPFK7m3",
+      "fx": 30.970703125,
+      "fy": 92.90451388888886,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "elementary particles",
+      "target": "Higgs boson  ️",
+      "curve": {
+        "x": 55.0106,
+        "y": 72.1521
+      }
+    },
+    {
+      "source": "elementary particles",
+      "target": "neutrino  ️",
+      "curve": {
+        "x": -52.6182,
+        "y": 72.9151
+      }
+    }
+  ]
+}

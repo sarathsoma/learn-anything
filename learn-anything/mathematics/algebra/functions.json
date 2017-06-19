@@ -1,0 +1,93 @@
+{
+  "title": "learn anything - mathematics - algebra - functions",
+  "nodes": [
+    {
+      "text": "functions",
+      "url": "http://www.wikiwand.com/en/Function_(mathematics)",
+      "fx": -201.2109375,
+      "fy": -200.77155172413802,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -182.13867949563803,
+      "fy": -80.54974531649583
+    },
+    {
+      "text": "periodic functions  ️",
+      "url": "/id/yNiAXfXK5s98kdStb8KyHLvszJBsMRi4gDdGzujy",
+      "fx": -17.576653587444184,
+      "fy": 74.70626690511801,
+      "category": "mindmap"
+    },
+    {
+      "text": "transformations  ️",
+      "url": "/id/F6NBtCQmZAJRWTyf43qfqccpYsW8hqQ9j4UENE5y",
+      "fx": -240.3987922668457,
+      "fy": 74.97518157958984,
+      "category": "mindmap"
+    },
+    {
+      "text": "higher-order functions  ️",
+      "url": "/id/UuL19ypzQeAbQvL65j6HLgp6P6ff5ynEswsF1bWk",
+      "fx": -534.0479062342031,
+      "fy": 76.91681064782642,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. functions  ️",
+      "url": "http://frnsys.com/ai_notes/foundations/functions.html",
+      "fx": -26.13867949563803,
+      "fy": -89.04974531649583,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. what is a function?",
+      "url": "https://www.youtube.com/watch?v=kvGsIo1TmsM",
+      "fx": -26.13867949563803,
+      "fy": -49.04974531649583,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "functions",
+      "target": "basics",
+      "curve": {
+        "x": -1.21387,
+        "y": 58.861
+      }
+    },
+    {
+      "source": "basics",
+      "target": "periodic functions  ️",
+      "curve": {
+        "x": 105.281,
+        "y": 77.628
+      }
+    },
+    {
+      "source": "basics",
+      "target": "transformations  ️",
+      "curve": {
+        "x": -10.88,
+        "y": 77.7625
+      }
+    },
+    {
+      "source": "basics",
+      "target": "higher-order functions  ️",
+      "curve": {
+        "x": -140.955,
+        "y": 78.7333
+      }
+    }
+  ]
+}

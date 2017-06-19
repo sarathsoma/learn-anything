@@ -1,0 +1,103 @@
+{
+  "title": "learn anything - data science - big data",
+  "nodes": [
+    {
+      "text": "big data",
+      "url": "http://www.wikiwand.com/en/Big_data",
+      "fx": -51.0390625,
+      "fy": -200.13671875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 66.20118618011475,
+      "fy": -101.60712480545044
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -53.93256759643555,
+      "fy": -10.04311466217041
+    },
+    {
+      "text": "datasets  ️",
+      "url": "/id/Nkaj4VVVVEUHzDqzpYgQonxqe6gNxzqqqSAxpfAn",
+      "note": "are collections of data  most common a data set corresponds to the contents of a single database table, or a single statical data matrix, where every column of the table represents a particular variable, and each row corresponds to a given member of the data set in question",
+      "fx": 25.124780395426114,
+      "fy": 109.59096048202082,
+      "category": "mindmap"
+    },
+    {
+      "text": "data mining",
+      "url": "http://www.wikiwand.com/en/Data_mining",
+      "fx": -196.16847229003906,
+      "fy": 144.13281154632568,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/bigdata/",
+      "fx": 149.9609375,
+      "fy": -186.13671875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "big data"
+    },
+    {
+      "text": "awesome big data",
+      "url": "https://github.com/onurakpolat/awesome-bigdata",
+      "fx": 203.20118618011475,
+      "fy": -90.10712480545044,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. unlock value in massive datasets",
+      "url": "https://www.coursera.org/specializations/big-data",
+      "fx": 128.06743240356445,
+      "fy": -9.54311466217041,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "big data",
+      "target": "basics",
+      "curve": {
+        "x": -12.6967,
+        "y": 93.7968
+      }
+    },
+    {
+      "source": "basics",
+      "target": "data mining",
+      "curve": {
+        "x": -51.8679,
+        "y": 78.3379
+      }
+    },
+    {
+      "source": "basics",
+      "target": "datasets  ️",
+      "curve": {
+        "x": 58.2786,
+        "y": 61.067
+      }
+    },
+    {
+      "source": "help",
+      "target": "big data",
+      "curve": {
+        "x": -42.6201,
+        "y": -48.0148
+      }
+    }
+  ]
+}

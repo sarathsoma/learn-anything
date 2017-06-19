@@ -1,0 +1,95 @@
+{
+  "title": "learn anything - programming - version control - git - github",
+  "nodes": [
+    {
+      "text": "GitHub",
+      "url": "http://www.wikiwand.com/en/GitHub",
+      "fx": -4.45423010520949,
+      "fy": -100.07991518353731,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 116.97330656748238,
+      "fy": 23.058031783029946
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -7.890478736832051,
+      "fy": 142.73008091809515
+    },
+    {
+      "text": "open source  ️",
+      "url": "/id/i2KJsa46DzxEMaziscL7xMzJMxqAtnNFNAXaJ6d1",
+      "fx": -52.029852078045906,
+      "fy": 281.8336522446066,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "creating a pull request",
+      "url": "https://help.github.com/articles/creating-a-pull-request/",
+      "fx": 253.97330656748238,
+      "fy": -5.441968216970054,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how to check PR locally    ️",
+      "url": "https://stackoverflow.com/a/32447696/3067664",
+      "fx": 253.97330656748238,
+      "fy": 34.558031783029946,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "sync a fork with original repo",
+      "url": "https://help.github.com/articles/syncing-a-fork/",
+      "fx": 253.97330656748238,
+      "fy": 74.55803178302995,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. what is GitHub",
+      "url": "https://guides.github.com/activities/hello-world/",
+      "fx": 148.10952126316795,
+      "fy": 154.23008091809515,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "GitHub",
+      "target": "basics",
+      "curve": {
+        "x": -10.4681,
+        "y": 120.155
+      }
+    },
+    {
+      "source": "help",
+      "target": "GitHub",
+      "curve": {
+        "x": -47.2138,
+        "y": -60.319
+      }
+    },
+    {
+      "source": "basics",
+      "target": "open source  ️",
+      "curve": {
+        "x": -1.06969,
+        "y": 70.8018
+      }
+    }
+  ]
+}

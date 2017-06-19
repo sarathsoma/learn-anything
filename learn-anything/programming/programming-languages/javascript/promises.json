@@ -1,0 +1,70 @@
+{
+  "title": "learn anything - programming - programming languages - javascript - promises",
+  "nodes": [
+    {
+      "text": "promise object",
+      "url": "https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+      "fx": 42.46875,
+      "fy": -114.4107521186441
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 171.13615732463006,
+      "fy": -12.237867930709172
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 75.45074152542384,
+      "fy": 94.1478078784479
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome promises",
+      "url": "https://github.com/wbinnssmith/awesome-promises",
+      "fx": 308.13615732463006,
+      "fy": -20.73786793070917,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "promise fun",
+      "url": "https://github.com/sindresorhus/promise-fun",
+      "fx": 308.13615732463006,
+      "fy": 19.26213206929083,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. the promise of a burger party  ️",
+      "url": "https://kosamari.com/notes/the-promise-of-a-burger-party",
+      "fx": 231.45074152542384,
+      "fy": 105.6478078784479,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "promise object",
+      "target": "basics",
+      "curve": {
+        "x": -2.50901,
+        "y": 104.279
+      }
+    },
+    {
+      "source": "help",
+      "target": "promise object",
+      "curve": {
+        "x": -40.5837,
+        "y": -51.0864
+      }
+    }
+  ]
+}

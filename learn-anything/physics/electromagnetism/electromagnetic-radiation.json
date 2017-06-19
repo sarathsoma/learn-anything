@@ -1,0 +1,78 @@
+{
+  "title": "learn anything - physics - electromagnetism - electromagnetic radiation",
+  "nodes": [
+    {
+      "text": "electromagnetic radiation",
+      "url": "http://www.wikiwand.com/en/Electromagnetic_radiation",
+      "fx": -141.78515625,
+      "fy": -165.6875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -49.9843064692983,
+      "fy": -3.9794407894735855
+    },
+    {
+      "text": "redshift  ️",
+      "url": "/id/C1mxo3X9HLCU6fmpq7Yz1X1CvJVNoDdzFkR9fCDG",
+      "fx": -180.12304006968645,
+      "fy": 131.1423671602787,
+      "category": "mindmap"
+    },
+    {
+      "text": "light  ️",
+      "url": "/id/wCuxfVWy3yV8st45z9nW6JgoksmvpbeeDyWJnSn2",
+      "fx": 38.30920963087988,
+      "fy": 153.14450402874547,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=dzyPT7kxp8M",
+      "fx": 106.0156935307017,
+      "fy": -23.479440789473585,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. what does not emit electromagnetic radiation?",
+      "url": "https://www.reddit.com/r/askscience/comments/3uc5gn/what_does_not_emit_electromagnetic_radiation/cxdnuu7/",
+      "fx": 106.0156935307017,
+      "fy": 16.520559210526415,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "electromagnetic radiation",
+      "target": "basics",
+      "curve": {
+        "x": -3.84958,
+        "y": 79.604
+      }
+    },
+    {
+      "source": "basics",
+      "target": "light  ️",
+      "curve": {
+        "x": 38.8968,
+        "y": 78.562
+      }
+    },
+    {
+      "source": "basics",
+      "target": "redshift  ️",
+      "curve": {
+        "x": -62.8194,
+        "y": 67.5609
+      }
+    }
+  ]
+}

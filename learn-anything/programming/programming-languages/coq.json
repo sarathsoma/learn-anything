@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - programming - programming languages - coq",
+  "nodes": [
+    {
+      "text": "coq",
+      "url": "http://www.wikiwand.com/en/Coq",
+      "fx": -52.5390625,
+      "fy": -237.9921875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -69.421875,
+      "fy": -104.578125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/coq/coq",
+      "fx": 109.4609375,
+      "fy": -223.9921875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "coq"
+    },
+    {
+      "text": "1. tutorial by Mike Nahas",
+      "url": "https://coq.inria.fr/tutorial-nahas",
+      "fx": 112.578125,
+      "fy": -90.078125,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "coq",
+      "target": "basics",
+      "curve": {
+        "x": -9.94141,
+        "y": 65.457
+      }
+    }
+  ]
+}

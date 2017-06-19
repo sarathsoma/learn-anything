@@ -1,0 +1,95 @@
+{
+  "title": "learn anything - health - fitness - strength training",
+  "nodes": [
+    {
+      "text": "strength training",
+      "url": "http://www.wikiwand.com/en/Strength_training",
+      "note": "",
+      "fx": -8.8145161290322,
+      "fy": -246.08203125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 171.34727822580635,
+      "fy": -112.45614919354853
+    },
+    {
+      "text": "lean gains",
+      "url": "",
+      "fx": -258.23753195204455,
+      "fy": -84.14409247195675
+    },
+    {
+      "text": "bodyweight exercise",
+      "url": "http://www.wikiwand.com/en/Bodyweight_exercise",
+      "fx": -14.57494292720662,
+      "fy": 49.00134597286092,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "12 tips of StrongLifts",
+      "url": "https://www.reddit.com/r/Fitness/comments/25fwnd/my_top_12_tips_for_stronglifts/",
+      "fx": 308.34727822580635,
+      "fy": -100.95614919354853,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "wiki",
+      "url": "https://www.reddit.com/r/leangains/wiki/faq",
+      "fx": -69.23753195204455,
+      "fy": -89.64409247195675,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "lean gains"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://examine.com/leangains-faq/",
+      "fx": -69.23753195204455,
+      "fy": -49.64409247195675,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "lean gains"
+    },
+    {
+      "text": "wiki",
+      "url": "https://www.reddit.com/r/bodyweightfitness/wiki/index",
+      "fx": 297.4250570727934,
+      "fy": 63.00134597286092,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "bodyweight exercise"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "strength training",
+      "curve": {
+        "x": -56.0809,
+        "y": -65.5629
+      }
+    },
+    {
+      "source": "strength training",
+      "target": "bodyweight exercise",
+      "curve": {
+        "x": 6.86979,
+        "y": 147.542
+      }
+    },
+    {
+      "source": "strength training",
+      "target": "lean gains",
+      "curve": {
+        "x": -145.712,
+        "y": 79.719
+      }
+    }
+  ]
+}

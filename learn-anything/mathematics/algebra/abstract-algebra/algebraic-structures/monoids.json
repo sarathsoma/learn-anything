@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - mathematics - algebra - abstract algebra - algebraic structures - monoids",
+  "nodes": [
+    {
+      "text": "monoids",
+      "url": "http://www.wikiwand.com/en/Monoid",
+      "fx": -20.1015625,
+      "fy": -78.91796875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -1.5613183941281932,
+      "fy": 73.1559470241354
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. definition of a monoid    ️",
+      "url": "https://math.stackexchange.com/a/421256/143616",
+      "fx": 154.4386816058718,
+      "fy": 53.6559470241354,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. moons of programmers: a scala example  ️",
+      "url": "https://www.safaribooksonline.com/blog/2013/05/15/monoids-for-programmers-a-scala-example/",
+      "fx": 154.4386816058718,
+      "fy": 93.6559470241354,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "monoids",
+      "target": "basics",
+      "curve": {
+        "x": -2.97988,
+        "y": 74.787
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - programming - programming languages - scheme",
+  "nodes": [
+    {
+      "text": "scheme",
+      "url": "http://www.wikiwand.com/en/Scheme_(programming_language)",
+      "fx": -49.890923112630844,
+      "fy": -187.93881607055664,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -41.69140625,
+      "fy": -50.453125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the little schemer",
+      "url": "http://www.goodreads.com/book/show/548914.The_Little_Schemer",
+      "fx": 140.30859375,
+      "fy": -38.953125,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "scheme",
+      "target": "basics",
+      "curve": {
+        "x": -6.65024,
+        "y": 67.4928
+      }
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "title": "learn anything - linguistics - languages",
+  "nodes": [
+    {
+      "text": "languages",
+      "url": "http://www.wikiwand.com/en/Language",
+      "fx": 364.9820763910983,
+      "fy": -483.7480393028519,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 937.2160234874846,
+      "fy": -470.06245595745804
+    },
+    {
+      "text": "russian  ️",
+      "url": "/id/4eQcjH3g5sypLz42tryUQ49NZzfhE3Crb4m9tq1v",
+      "fx": -480.03226744610333,
+      "fy": -82.19262928432886,
+      "category": "mindmap"
+    },
+    {
+      "text": "english  ️",
+      "url": "/id/oTrSaQmHmUvsfe1y2CpKU4xxnXueJKpKGoyWLZ68",
+      "fx": -329.1855300613072,
+      "fy": -79.73509681627945,
+      "category": "mindmap"
+    },
+    {
+      "text": "czech  ️",
+      "url": "/id/3WW2TyY8CytLTxr9uWifYq9h4NwPRFMnKPTVhzBF",
+      "fx": -802.7337535511363,
+      "fy": -76.24192116477263,
+      "category": "mindmap"
+    },
+    {
+      "text": "portuguese  ️",
+      "url": "/id/8aij2hpafCzSoguJpZXJriVs7pXBvmQzBAey21jx",
+      "fx": -666.6843915736345,
+      "fy": -76.18458711998301,
+      "category": "mindmap"
+    },
+    {
+      "text": "german  ️",
+      "url": "/id/pT3imu8pRh4xtPpe45UYAEGz7ehkMqWna1sPgWbL",
+      "fx": -188.29005393400996,
+      "fy": -75.41608451301158,
+      "category": "mindmap"
+    },
+    {
+      "text": "chinese  ️",
+      "url": "https://github.com/nikitavoloboev/knowledge-map/issues/670",
+      "fx": -40.64679818559989,
+      "fy": -74.6480655251238,
+      "category": "mindmap"
+    },
+    {
+      "text": "spanish  ️",
+      "url": "/id/xb6QwzqtZ2sZ2ryvTeXhA8PnUdzFTWZocEoCxeZp",
+      "fx": 277.6274932502122,
+      "fy": -72.55505627351044,
+      "category": "mindmap"
+    },
+    {
+      "text": "french  ️",
+      "url": "/id/44Pdg9ZnUsddwk5iWYwH2q2a5xHspBesoDQ2HY31",
+      "fx": 427.9245910644531,
+      "fy": -70.43359184265137,
+      "category": "mindmap"
+    },
+    {
+      "text": "korean  ️",
+      "url": "/id/Z6s9qKbrTiL5RpKxtJSy5gbPV3odyWsscF4SW4yz",
+      "fx": 559.0559844970703,
+      "fy": -69.00853538513184,
+      "category": "mindmap"
+    },
+    {
+      "text": "polish  ️",
+      "url": "/id/cxUxDZYyPPx51mkjiHiKcQsTypCfszxT6zwFHoSy",
+      "fx": 705.4406492248047,
+      "fy": -67.67753754844978,
+      "category": "mindmap"
+    },
+    {
+      "text": "japanese  ️",
+      "url": "/id/F7y3iSAwZdzGnRRWLur3RpXiJviy1YF7QxZwDLxv",
+      "fx": 113.66700744628906,
+      "fy": -65.85032367706299,
+      "category": "mindmap"
+    },
+    {
+      "text": "italian  ️",
+      "url": "/id/g6YtzQoM9Vp7QEQaVzqtqqv3pp4JSXyCwVcTua1S",
+      "fx": 842.3524700126231,
+      "fy": -63.362334280289986,
+      "category": "mindmap"
+    },
+    {
+      "text": "arabic  ️",
+      "url": "/id/Mx2GVkpwTr6YasH6NsRqcxN9uvXG6aHyob1A61vz",
+      "fx": 970.7588588169674,
+      "fy": -59.90478515624994,
+      "category": "mindmap"
+    },
+    {
+      "text": "bulgarian  ️",
+      "url": "/id/qHzSmeGZy3JuFzpCZr4aqFBJ9ezkqydP8nsNYrdV",
+      "fx": 1112.7956696456517,
+      "fy": -57.361160788303096,
+      "category": "mindmap"
+    },
+    {
+      "text": "dutch  ️",
+      "url": "/id/x42y9yVztRqbMBAyQH3nCjAunkXTwX339xQmMrsh",
+      "fx": 1276.4892508865532,
+      "fy": -55.0121897163458,
+      "category": "mindmap"
+    },
+    {
+      "text": "norwegian  ️",
+      "url": "/id/5p1Bs3PmWrGwzAeW3zwJPkxshctFQqjtrR3ELyNx",
+      "fx": 1412.3516613923935,
+      "fy": -53.22488132911394,
+      "category": "mindmap"
+    },
+    {
+      "text": "greek  ️",
+      "url": "/id/8xm9pdyeW31uypTnY4SsppsZeuu7JFpVJZ3yEWqo",
+      "fx": 1597.5575753891053,
+      "fy": -51.753708657587254,
+      "category": "mindmap"
+    },
+    {
+      "text": "irish  ️",
+      "url": "/id/B89Wht44WypxYsSdzj5T78pzoD9DqQDZoRdSkHaG",
+      "fx": 2044.3346247268937,
+      "fy": -50.5889310836792,
+      "category": "mindmap"
+    },
+    {
+      "text": "turkish  ️",
+      "url": "/id/z1AxqUaoeoBgyBuxrfGRqZpDgqRbmdMiEwXkZoyP",
+      "fx": 2160.1918862552966,
+      "fy": -50.21111957097446,
+      "category": "mindmap"
+    },
+    {
+      "text": "hebrew  ️",
+      "url": "/id/reB4YEMXYyKGnRWR1KQgLfrWmX2ZEVn9WWSYH3ni",
+      "fx": 1733.851257324182,
+      "fy": -48.612487792972956,
+      "category": "mindmap"
+    },
+    {
+      "text": "swedish  ️",
+      "url": "/id/3tmyuPiTvXBnsupwxLznJ8phW5AsqctwByzN6qsf",
+      "fx": 1877.4947471071623,
+      "fy": -47.91121748941714,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/languagelearning/",
+      "fx": 584.9820763910983,
+      "fy": -469.7480393028519,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "languages"
+    },
+    {
+      "text": "clozemaster",
+      "url": "https://www.clozemaster.com/",
+      "fx": 1074.2160234874846,
+      "fy": -475.56245595745804,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "language learning resources",
+      "url": "https://www.reddit.com/r/languagelearning/comments/5grr6e/language_learning_resources_900_gb_and_much_more/",
+      "fx": 1074.2160234874846,
+      "fy": -441.56245595745804,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "languages",
+      "target": "russian  ️",
+      "curve": {
+        "x": -476.216,
+        "y": 199.527
+      }
+    },
+    {
+      "source": "languages",
+      "target": "english  ️",
+      "curve": {
+        "x": -361.833,
+        "y": 200.756
+      }
+    },
+    {
+      "source": "languages",
+      "target": "german  ️",
+      "curve": {
+        "x": -289.886,
+        "y": 202.916
+      }
+    },
+    {
+      "source": "languages",
+      "target": "chinese  ️",
+      "curve": {
+        "x": -215.814,
+        "y": 203.3
+      }
+    },
+    {
+      "source": "languages",
+      "target": "japanese  ️",
+      "curve": {
+        "x": -128.658,
+        "y": 208.949
+      }
+    },
+    {
+      "source": "languages",
+      "target": "spanish  ️",
+      "curve": {
+        "x": -27.5732,
+        "y": 205.596
+      }
+    },
+    {
+      "source": "languages",
+      "target": "french  ️",
+      "curve": {
+        "x": 60.7716,
+        "y": 206.657
+      }
+    },
+    {
+      "source": "languages",
+      "target": "korean  ️",
+      "curve": {
+        "x": 137.288,
+        "y": 201.952
+      }
+    },
+    {
+      "source": "languages",
+      "target": "polish  ️",
+      "curve": {
+        "x": 232.171,
+        "y": 183.809
+      }
+    },
+    {
+      "source": "languages",
+      "target": "italian  ️",
+      "curve": {
+        "x": 371.06,
+        "y": 180.984
+      }
+    },
+    {
+      "source": "languages",
+      "target": "arabic  ️",
+      "curve": {
+        "x": 492.123,
+        "y": 177.314
+      }
+    },
+    {
+      "source": "languages",
+      "target": "bulgarian  ️",
+      "curve": {
+        "x": 607.966,
+        "y": 204.567
+      }
+    },
+    {
+      "source": "languages",
+      "target": "dutch  ️",
+      "curve": {
+        "x": 730.456,
+        "y": 250.588
+      }
+    },
+    {
+      "source": "languages",
+      "target": "norwegian  ️",
+      "curve": {
+        "x": 744.201,
+        "y": 227.768
+      }
+    },
+    {
+      "source": "languages",
+      "target": "greek  ️",
+      "curve": {
+        "x": 860.07,
+        "y": 239.924
+      }
+    },
+    {
+      "source": "languages",
+      "target": "hebrew  ️",
+      "curve": {
+        "x": 977.367,
+        "y": 253.311
+      }
+    },
+    {
+      "source": "help",
+      "target": "languages",
+      "curve": {
+        "x": -275,
+        "y": 39.7384
+      }
+    },
+    {
+      "source": "languages",
+      "target": "swedish  ️",
+      "curve": {
+        "x": 1138.23,
+        "y": 298.792
+      }
+    },
+    {
+      "source": "languages",
+      "target": "irish  ️",
+      "curve": {
+        "x": 1268.03,
+        "y": 298.82
+      }
+    },
+    {
+      "source": "languages",
+      "target": "turkish  ️",
+      "curve": {
+        "x": 1349.35,
+        "y": 256.084
+      }
+    },
+    {
+      "source": "languages",
+      "target": "portuguese  ️",
+      "curve": {
+        "x": -582.768,
+        "y": 164.73
+      }
+    },
+    {
+      "source": "languages",
+      "target": "czech  ️",
+      "curve": {
+        "x": -665.329,
+        "y": 123.721
+      }
+    }
+  ]
+}

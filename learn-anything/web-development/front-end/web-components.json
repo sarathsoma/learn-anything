@@ -1,0 +1,86 @@
+{
+  "title": "learn anything - web development - front end - web components",
+  "nodes": [
+    {
+      "text": "web components",
+      "url": "http://www.wikiwand.com/en/Web_Components",
+      "fx": -95.26545041899442,
+      "fy": -141.98703736033514,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 51.42940367267124,
+      "fy": -51.34120675305411
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -40.98945658481955,
+      "fy": 33.34674064806728
+    },
+    {
+      "text": "polymer",
+      "url": "https://github.com/Polymer/polymer",
+      "fx": -121.29952330508468,
+      "fy": 156.04224046610182,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "web components the right way",
+      "url": "https://github.com/mateusortiz/webcomponents-the-right-way",
+      "fx": 188.42940367267124,
+      "fy": -39.84120675305411,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. MDN doc",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Web_Components",
+      "fx": 141.01054341518045,
+      "fy": 47.84674064806728,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "awesome polymer",
+      "url": "https://github.com/Granze/awesome-polymer",
+      "fx": 78.70047669491532,
+      "fy": 173.04224046610182,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "polymer"
+    }
+  ],
+  "connections": [
+    {
+      "source": "web components",
+      "target": "basics",
+      "curve": {
+        "x": -5.112,
+        "y": 86.4169
+      }
+    },
+    {
+      "source": "help",
+      "target": "web components",
+      "curve": {
+        "x": -36.3474,
+        "y": -44.0729
+      }
+    },
+    {
+      "source": "basics",
+      "target": "polymer",
+      "curve": {
+        "x": -42.905,
+        "y": 61.3477
+      }
+    }
+  ]
+}

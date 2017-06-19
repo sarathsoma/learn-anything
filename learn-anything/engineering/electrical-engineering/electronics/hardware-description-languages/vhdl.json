@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - engineering - electrical engineering - electronics - hardware description languages - vhdl",
+  "nodes": [
+    {
+      "text": "VHDL",
+      "url": "http://www.wikiwand.com/en/VHDL",
+      "fx": -34.28837819343073,
+      "fy": -104.90117472627742,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -23.560218978102398,
+      "fy": 51.95460766419603
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/VHDL/",
+      "fx": 145.71162180656927,
+      "fy": -90.90117472627742,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "VHDL"
+    },
+    {
+      "text": "1. learn VHDL by example",
+      "url": "https://www.youtube.com/watch?v=Ks9L3uARkBg",
+      "fx": 132.4397810218976,
+      "fy": 63.45460766419603,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "VHDL",
+      "target": "basics",
+      "curve": {
+        "x": -0.63592,
+        "y": 77.1779
+      }
+    }
+  ]
+}

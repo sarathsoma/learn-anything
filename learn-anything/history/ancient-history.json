@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - history - ancient history",
+  "nodes": [
+    {
+      "text": "ancient history",
+      "url": "http://www.wikiwand.com/en/Ancient_history",
+      "fx": -32.5,
+      "fy": 4,
+      "category": "wiki"
+    },
+    {
+      "text": "podcasts",
+      "url": "",
+      "fx": 115.69731898907094,
+      "fy": 106.25093920763686
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 16.582052595627943,
+      "fy": 231.08734631147166
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "the history of Rome  ️",
+      "url": "http://thehistoryofrome.typepad.com/",
+      "fx": 297.69731898907094,
+      "fy": 117.75093920763686,
+      "category": "podcast",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "podcasts"
+    },
+    {
+      "text": "1. the history of the ancient world: from the earliest accounts to the fall of Rome",
+      "url": "http://www.goodreads.com/book/show/225947.The_History_of_the_Ancient_World",
+      "fx": 198.58205259562794,
+      "fy": 220.58734631147166,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "podcasts",
+      "target": "ancient history",
+      "curve": {
+        "x": -55.0987,
+        "y": -49.8755
+      }
+    },
+    {
+      "source": "ancient history",
+      "target": "basics",
+      "curve": {
+        "x": -0.958974,
+        "y": 112.294
+      }
+    }
+  ]
+}

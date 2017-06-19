@@ -1,0 +1,69 @@
+{
+  "title": "learn anything - programming - software development - build automation",
+  "nodes": [
+    {
+      "text": "build automation",
+      "url": "http://www.wikiwand.com/en/Build_automation",
+      "fx": -31.8125,
+      "fy": -115.68359375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 23.483922004699707,
+      "fy": 28.845640182495117
+    },
+    {
+      "text": "jenkins  ️",
+      "url": "/id/axDQvoUysMdBJypPBNBCnbWLLKbcFockAkEprwzm",
+      "fx": 125.98198532790286,
+      "fy": 170.82510759589377,
+      "category": "mindmap"
+    },
+    {
+      "text": "Gradle  ️",
+      "url": "/id/KiMXfafAoSo7ZpzFuKEfWvQS841CcokKvWhm6EU5",
+      "fx": -113.76655897107514,
+      "fy": 179.81829685598439,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. build automation introduction",
+      "url": "https://www.youtube.com/watch?v=0YnoRtbJv6w",
+      "fx": 179.4839220046997,
+      "fy": 40.34564018249512,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "build automation",
+      "target": "basics",
+      "curve": {
+        "x": -2.85179,
+        "y": 71.0146
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Gradle  ️",
+      "curve": {
+        "x": -68.8752,
+        "y": 75.4863
+      }
+    },
+    {
+      "source": "basics",
+      "target": "jenkins  ️",
+      "curve": {
+        "x": 59.499,
+        "y": 72.2397
+      }
+    }
+  ]
+}

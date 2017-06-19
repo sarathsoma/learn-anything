@@ -1,0 +1,111 @@
+{
+  "title": "learn anything - physics - quantum mechanics - quantum field theory",
+  "nodes": [
+    {
+      "text": "quantum field theory",
+      "url": "http://www.wikiwand.com/en/Quantum_field_theory",
+      "fx": -247.94569635115613,
+      "fy": -447.19856394508673,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -14.373103323700434,
+      "fy": -349.7586705202295
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 12.49093667620184,
+      "fy": -251.18500743711616
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -181.09302745664627,
+      "fy": -110.65914017341157
+    },
+    {
+      "text": "conformal field theory",
+      "url": "http://www.wikiwand.com/en/Conformal_field_theory",
+      "fx": -296.6478689353089,
+      "fy": 62.742671832884184,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "of particular significance  ️",
+      "url": "https://profmattstrassler.com/2013/09/23/quantum-field-theory-string-theory-and-predictions/",
+      "note": "by quantum field theorist Matt Strassler",
+      "fx": 122.62689667629957,
+      "fy": -338.2586705202295,
+      "category": "blog",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: quantum fields: the real building blocks of the universe",
+      "url": "https://www.youtube.com/watch?v=zNVQfWC_evg",
+      "fx": 152.49093667620184,
+      "fy": -250.68500743711616,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "1. David Tong’s lectures on Quantum Field Theory",
+      "url": "http://www.damtp.cam.ac.uk/user/tong/qft.html",
+      "fx": 0.9069725433537315,
+      "fy": -141.15914017341157,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. particles, fields and the future of physics",
+      "url": "https://www.youtube.com/watch?v=gEKSpZPByD0&amp;t=4472s",
+      "fx": 0.9069725433537315,
+      "fy": -79.15914017341157,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "quantum field theory",
+      "target": "basics",
+      "curve": {
+        "x": -5.57362,
+        "y": 167.02
+      }
+    },
+    {
+      "source": "help",
+      "target": "quantum field theory",
+      "curve": {
+        "x": -73.0363,
+        "y": -47.4699
+      }
+    },
+    {
+      "source": "talks",
+      "target": "help",
+      "curve": {
+        "x": -14.182,
+        "y": -49.2868
+      }
+    },
+    {
+      "source": "basics",
+      "target": "conformal field theory",
+      "curve": {
+        "x": -23.0274,
+        "y": 87.9509
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "learn anything - entrepreneurship - success",
+  "nodes": [
+    {
+      "text": "success",
+      "url": "http://www.wikiwand.com/en/Social_status",
+      "fx": -175.7785485003226,
+      "fy": -105.05056280358707,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 7.023014998846634,
+      "fy": 26.482046232290543
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -169.22642543859638,
+      "fy": 284.6751644736843
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "13 lessons I learned  ️",
+      "url": "https://brightreads.com/13-lessons-learned-e4f8ceb21e60",
+      "fx": 144.02301499884663,
+      "fy": -110.01795376770946,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "the best  ️",
+      "url": "https://dcurt.is/the-best",
+      "fx": 144.02301499884663,
+      "fy": -70.01795376770946,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "on connecting  ️",
+      "url": "https://medium.com/@dustinfarivar/on-connecting-6b748ade09a3",
+      "fx": 144.02301499884663,
+      "fy": -30.017953767709457,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how to make wealth  ️",
+      "url": "http://paulgraham.com/wealth.html",
+      "fx": 144.02301499884663,
+      "fy": 9.982046232290543,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "why didn’t I do this sooner",
+      "url": "https://news.ycombinator.com/item?id=12186587",
+      "fx": 144.02301499884663,
+      "fy": 49.98204623229054,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "8 things you should be doing before 8 A.M.  ️",
+      "url": "https://themission.co/8-things-every-person-should-do-before-8-a-m-cc0233e15c8d",
+      "fx": 144.02301499884663,
+      "fy": 83.98204623229054,
+      "category": "article",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "life is short  ️",
+      "url": "http://paulgraham.com/vb.html",
+      "fx": 144.02301499884663,
+      "fy": 145.98204623229054,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "the day I did something  ️",
+      "url": "http://www.frankwiles.com/posts/2015/day-i-did-something/",
+      "fx": 144.02301499884663,
+      "fy": 185.98204623229054,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. how to win friends and influence people",
+      "url": "http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
+      "fx": 12.77357456140362,
+      "fy": 285.1751644736843,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "success",
+      "curve": {
+        "x": -75.1507,
+        "y": -64.5162
+      }
+    },
+    {
+      "source": "success",
+      "target": "basics",
+      "curve": {
+        "x": -1.72394,
+        "y": 193.613
+      }
+    }
+  ]
+}

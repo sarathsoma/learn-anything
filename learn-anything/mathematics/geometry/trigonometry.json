@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - mathematics - geometry - trigonometry",
+  "nodes": [
+    {
+      "text": "trigonometry",
+      "url": "http://www.wikiwand.com/en/Trigonometry",
+      "fx": -82.01224927769772,
+      "fy": -355.31289978969244,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 75.15319741644919,
+      "fy": -258.13424303881186
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -44.55159320014104,
+      "fy": -125.58884123672817
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "sin, cos and tan visualised",
+      "url": "http://i.imgur.com/4SdeGNW.gif",
+      "fx": 266.1531974164492,
+      "fy": -246.63424303881186,
+      "category": "image",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. how to learn trigonometry intuitively  ️",
+      "url": "https://betterexplained.com/articles/intuitive-trigonometry/",
+      "fx": 137.44840679985896,
+      "fy": -145.08884123672817,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. khan academy trigonometry",
+      "url": "https://www.khanacademy.org/math/trigonometry",
+      "fx": 137.44840679985896,
+      "fy": -83.08884123672817,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "trigonometry",
+      "target": "basics",
+      "curve": {
+        "x": -2.51967,
+        "y": 113.612
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "trigonometry",
+      "curve": {
+        "x": -66.0827,
+        "y": -47.3393
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "learn anything - computer hardware",
+  "nodes": [
+    {
+      "text": "computer hardware",
+      "url": "http://www.wikiwand.com/en/Computer_hardware",
+      "note": "",
+      "fx": -353.81840018888147,
+      "fy": -577.1030791295608,
+      "category": "wiki"
+    },
+    {
+      "text": "3d printing  ️",
+      "url": "/id/1qepKVwZ5z6HqpoBUr2ipQPbivrJjir3y3UPAGvP",
+      "fx": -121.95447294713858,
+      "fy": -470.5617247146973,
+      "category": "mindmap"
+    },
+    {
+      "text": "computer  ️",
+      "url": "/id/pB9HWsxJd9fybGJtXLbiXnrMdzPhtF47yKTq3QMF",
+      "fx": -344.3874806148905,
+      "fy": -449.51149065617665,
+      "category": "mindmap"
+    },
+    {
+      "text": "virtualisation  ️",
+      "url": "/id/NkHFsqqdMPMavVrc2skzvPzzhtMkx3NfMkqWHzwp",
+      "fx": -152.20888157894728,
+      "fy": -345.62239583333337,
+      "category": "mindmap"
+    },
+    {
+      "text": "single-board computers",
+      "url": "http://www.wikiwand.com/en/Single-board_computer",
+      "fx": -502.35898482868765,
+      "fy": -344.55022321428567,
+      "category": "wiki"
+    },
+    {
+      "text": "arduino  ️",
+      "url": "/id/KRHuHfpmq5DzmpfFEgyvSyzQtk9t6oy7faNKbtiL",
+      "fx": -364.87393027497217,
+      "fy": -233.15499614197574,
+      "category": "mindmap"
+    },
+    {
+      "text": "raspberry pi  ️",
+      "url": "/id/TWYxfqzhfcp2sZJUGpHnZqz4fY8YFAjiuv6JBhDQ",
+      "fx": -569.5471618727049,
+      "fy": -226.41700180684268,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "computer hardware",
+      "target": "computer  ️",
+      "curve": {
+        "x": -17.7845,
+        "y": 63.7958
+      }
+    },
+    {
+      "source": "computer  ️",
+      "target": "single-board computers",
+      "curve": {
+        "x": -67.2358,
+        "y": 52.4806
+      }
+    },
+    {
+      "source": "single-board computers",
+      "target": "arduino  ️",
+      "curve": {
+        "x": 44.9925,
+        "y": 54.4476
+      }
+    },
+    {
+      "source": "single-board computers",
+      "target": "raspberry pi  ️",
+      "curve": {
+        "x": -60.5941,
+        "y": 59.0666
+      }
+    },
+    {
+      "source": "computer hardware",
+      "target": "virtualisation  ️",
+      "curve": {
+        "x": 67.1345,
+        "y": 121.072
+      }
+    }
+  ]
+}

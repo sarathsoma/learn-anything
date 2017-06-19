@@ -1,0 +1,126 @@
+{
+  "title": "learn anything - programming - query languages - graphql",
+  "nodes": [
+    {
+      "text": "GraphQL",
+      "url": "http://graphql.org/",
+      "note": "The idea is that GraphQL is independent of the actual underlying storage mechanism. You're still referring to the objects by the object model that is exposed by the REST api (which is effectively an interface that abstracts the underlying storage), this just means instead of saying I want repo/x, getting back all the JSON for the repo, and grabbing the number of stars out of that, you can directly query the object model for \"# of stars for repo X\". It's the backend's job to resolve that still, just like it was for how it filled out the \"repo/x\" response.",
+      "fx": -115.7109375,
+      "fy": -208.0703125
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -14.950095521079106,
+      "fy": -118.41815630594891
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 35.06473907943837,
+      "fy": -15.757598773453651
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 121.82182693481445,
+      "fy": 62.624794006347656
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -91.39522653983636,
+      "fy": 161.44992051517795
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome graphQL",
+      "url": "https://github.com/chentsulin/awesome-graphql",
+      "fx": 122.0499044789209,
+      "fy": -126.91815630594891,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "apollo",
+      "url": "https://github.com/apollographql/apollo",
+      "note": "open source tools for GraphQL",
+      "fx": 122.0499044789209,
+      "fy": -86.91815630594891,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: is graphQL the next frontier for web apis?  ️",
+      "url": "https://brandur.org/api-paradigms",
+      "fx": 197.06473907943837,
+      "fy": -15.257598773453651,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "graphQL IDE",
+      "url": "https://github.com/redound/graphql-ide",
+      "fx": 263.82182693481445,
+      "fy": 74.12479400634766,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. introduction to GraphQL",
+      "url": "https://learngraphql.com/basics/introduction",
+      "fx": 64.60477346016364,
+      "fy": 155.94992051517795,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. GraphQL - getting started  ️",
+      "url": "https://www.getboost.io/posts/graphql-tutorial-getting-started",
+      "fx": 64.60477346016364,
+      "fy": 189.94992051517795,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "GraphQL",
+      "curve": {
+        "x": -39.1305,
+        "y": -44.8261
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -31.2574,
+        "y": -51.3302
+      }
+    },
+    {
+      "source": "tools",
+      "target": "articles",
+      "curve": {
+        "x": -38.3785,
+        "y": -39.1912
+      }
+    },
+    {
+      "source": "GraphQL",
+      "target": "basics",
+      "curve": {
+        "x": -0.842145,
+        "y": 184.76
+      }
+    }
+  ]
+}

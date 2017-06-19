@@ -1,0 +1,132 @@
+{
+  "title": "learn anything - computer science - algorithms - sorting",
+  "nodes": [
+    {
+      "text": "sorting algorithms",
+      "url": "http://www.wikiwand.com/en/Sorting_algorithm",
+      "fx": -104.22443804824559,
+      "fy": -292.046875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 87.93157603605471,
+      "fy": -188.56842986009156
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "if you think this can be improved in any way ",
+      "fx": -74.42217693236694,
+      "fy": -77.17814009661839
+    },
+    {
+      "text": "quicksort  ️",
+      "url": "/id/qon6ADWpbNd3eaysvGARLneYV5Mmnwyqbx2Nndrc",
+      "fx": -2.5260245685658447,
+      "fy": 52.06905515863218,
+      "category": "mindmap"
+    },
+    {
+      "text": "bubble sort",
+      "url": "http://www.wikiwand.com/en/Bubble_sort",
+      "fx": -195.37969374852833,
+      "fy": 53.76211847212426,
+      "category": "wiki"
+    },
+    {
+      "text": "selection sort",
+      "url": "http://www.wikiwand.com/en/Selection_sort",
+      "fx": -419.78046158257376,
+      "fy": 55.212944380733916,
+      "category": "wiki"
+    },
+    {
+      "text": "merge sort",
+      "url": "http://www.wikiwand.com/en/Merge_sort",
+      "fx": -612.2068639457258,
+      "fy": 58.703246922143194,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "sorting algos",
+      "url": "http://sorting.at/",
+      "fx": 224.9315760360547,
+      "fy": -197.06842986009156,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "animations",
+      "url": "https://www.toptal.com/developers/sorting-algorithms/",
+      "fx": 224.9315760360547,
+      "fy": -157.06842986009156,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. insertion sort, merge sort",
+      "url": "https://www.youtube.com/watch?v=Kg4bqzAqRBM",
+      "fx": 107.57782306763306,
+      "fy": -65.67814009661839,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "sorting algorithms",
+      "curve": {
+        "x": -58.328,
+        "y": -50.4892
+      }
+    },
+    {
+      "source": "sorting algorithms",
+      "target": "basics",
+      "curve": {
+        "x": -24.5989,
+        "y": 106.184
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quicksort  ️",
+      "curve": {
+        "x": 35.9481,
+        "y": 64.6236
+      }
+    },
+    {
+      "source": "basics",
+      "target": "bubble sort",
+      "curve": {
+        "x": -55.7288,
+        "y": 65.4701
+      }
+    },
+    {
+      "source": "basics",
+      "target": "selection sort",
+      "curve": {
+        "x": -160.636,
+        "y": 62.1195
+      }
+    },
+    {
+      "source": "basics",
+      "target": "merge sort",
+      "curve": {
+        "x": -326.433,
+        "y": 23.2222
+      }
+    }
+  ]
+}

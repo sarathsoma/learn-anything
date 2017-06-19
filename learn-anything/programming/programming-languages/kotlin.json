@@ -1,0 +1,95 @@
+{
+  "title": "learn anything - programming - programming languages - kotlin",
+  "nodes": [
+    {
+      "text": "kotlin",
+      "url": "http://www.wikiwand.com/en/Kotlin_(programming_language)",
+      "fx": -82.41908482142844,
+      "fy": -186.4153180803571,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 24.757672991071445,
+      "fy": -49.576729910714334
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -73.9609375,
+      "fy": 99.41796875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Kotlin/",
+      "fx": 92.58091517857156,
+      "fy": -172.4153180803571,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "kotlin"
+    },
+    {
+      "text": "learn kotlin in Y minutes",
+      "url": "https://learnxinyminutes.com/docs/kotlin/",
+      "fx": 161.75767299107144,
+      "fy": -89.07672991071433,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "swift is like kotlin",
+      "url": "http://nilhcem.com/swift-is-like-kotlin/",
+      "fx": 161.75767299107144,
+      "fy": -55.076729910714334,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "resources to learn kotlin",
+      "url": "https://developer.android.com/kotlin/resources.html",
+      "fx": 161.75767299107144,
+      "fy": -21.076729910714334,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome kotlin",
+      "url": "https://github.com/KotlinBy/awesome-kotlin",
+      "fx": 161.75767299107144,
+      "fy": 12.923270089285666,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. kotlin koans",
+      "url": "http://try.kotlinlang.org/#/Kotlin%20Koans/Introduction/Hello,%20world!/Task.kt",
+      "fx": 108.0390625,
+      "fy": 113.91796875,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "kotlin",
+      "target": "basics",
+      "curve": {
+        "x": -0.520928,
+        "y": 141.666
+      }
+    },
+    {
+      "source": "help",
+      "target": "kotlin",
+      "curve": {
+        "x": -44.0883,
+        "y": -67.1693
+      }
+    }
+  ]
+}

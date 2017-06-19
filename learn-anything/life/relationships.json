@@ -1,0 +1,102 @@
+{
+  "title": "learn anything - life - relationships",
+  "nodes": [
+    {
+      "text": "interpersonal relationships",
+      "url": "http://www.wikiwand.com/en/Interpersonal_relationship",
+      "fx": -123.58707048160181,
+      "fy": -222.88762713592158,
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 77.5435853721408,
+      "fy": -105.66465275824896
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -166.97763151117704,
+      "fy": 20.287847858525595
+    },
+    {
+      "text": "seduction  ️",
+      "url": "/id/Jr1K2G8yAygxnRXQHYLqqeHnW9SbEna7XkVBzZUb",
+      "fx": -57.06714847831722,
+      "fy": 156.17869779539126,
+      "category": "mindmap"
+    },
+    {
+      "text": "friendship  ️",
+      "url": "/id/jZpAvmbkLspSv8eWpdyAAwmVoptzKs1ypEQD86pP",
+      "fx": -254.3218435929648,
+      "fy": 161.3782977386935,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "16: the one thing to save your relationships  ️",
+      "url": "https://themission.co/the-one-thing-to-save-your-relationships-c259f82bd2d",
+      "fx": 239.5435853721408,
+      "fy": -105.16465275824896,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. how to win friends and influence people",
+      "url": "http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
+      "fx": 15.022368488822963,
+      "fy": 0.7878478585255948,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. Alan Watts: love &amp; selfishness",
+      "url": "https://www.youtube.com/watch?v=n7CXhRdo5Ss",
+      "fx": 15.022368488822963,
+      "fy": 62.787847858525595,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "interpersonal relationships",
+      "target": "basics",
+      "curve": {
+        "x": -70.6952,
+        "y": 120.338
+      }
+    },
+    {
+      "source": "basics",
+      "target": "seduction  ️",
+      "curve": {
+        "x": 62.7053,
+        "y": 67.9454
+      }
+    },
+    {
+      "source": "articles",
+      "target": "interpersonal relationships",
+      "curve": {
+        "x": -50.5653,
+        "y": -57.3615
+      }
+    },
+    {
+      "source": "basics",
+      "target": "friendship  ️",
+      "curve": {
+        "x": -42.6721,
+        "y": 70.5452
+      }
+    }
+  ]
+}

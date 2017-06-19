@@ -1,0 +1,38 @@
+{
+  "title": "learn anything - web development - web design - web accessibility",
+  "nodes": [
+    {
+      "text": "web accessibility",
+      "url": "http://www.wikiwand.com/en/Web_accessibility",
+      "fx": -29.27734375,
+      "fy": -167.08984375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 77.93210872933889,
+      "fy": -40.759136105371795
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome accessibility resources",
+      "url": "http://brunopulis.com/awesome-a11y/",
+      "fx": 214.9321087293389,
+      "fy": -26.259136105371795,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "web accessibility",
+      "curve": {
+        "x": -18.1047,
+        "y": -61.9154
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "learn anything - programming - software development - devops - kubernetes",
+  "nodes": [
+    {
+      "text": "kubernetes",
+      "url": "http://www.wikiwand.com/en/Kubernetes",
+      "fx": -93.62109375,
+      "fy": -321.8515625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 82.73458087517713,
+      "fy": -196.7667151270782
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 258.7643946850392,
+      "fy": 14.088090551181153
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -196.7164943910525,
+      "fy": 122.15435321246412
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "kubernetes clusters for the hobbyist",
+      "url": "https://github.com/hobby-kube/guide",
+      "fx": 219.73458087517713,
+      "fy": -284.2667151270782,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome kubernetes",
+      "url": "https://github.com/ramitsurana/awesome-kubernetes",
+      "fx": 219.73458087517713,
+      "fy": -222.2667151270782,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "kubernetes design and architecture",
+      "url": "https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture.md",
+      "fx": 219.73458087517713,
+      "fy": -182.2667151270782,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "kubernetes docs",
+      "url": "https://kubernetes.io/docs/home/",
+      "fx": 219.73458087517713,
+      "fy": -120.26671512707821,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "kubernetes components",
+      "url": "",
+      "fx": 219.73458087517713,
+      "fy": -86.26671512707821,
+      "category": "image",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "draft",
+      "url": "https://github.com/Azure/draft",
+      "fx": 400.7643946850392,
+      "fy": 25.588090551181153,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. kubernetes by example",
+      "url": "http://kubernetesbyexample.com/",
+      "fx": -14.716494391052493,
+      "fy": 116.65435321246412,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. kubernetes basics",
+      "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+      "fx": -14.716494391052493,
+      "fy": 156.65435321246412,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "kubernetes",
+      "curve": {
+        "x": -65.4278,
+        "y": -61.2925
+      }
+    },
+    {
+      "source": "kubernetes",
+      "target": "basics",
+      "curve": {
+        "x": -69.5477,
+        "y": 220.753
+      }
+    },
+    {
+      "source": "help",
+      "target": "tools",
+      "curve": {
+        "x": 57.8304,
+        "y": 127.831
+      }
+    }
+  ]
+}

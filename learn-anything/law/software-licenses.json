@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - law - software licenses",
+  "nodes": [
+    {
+      "text": "software licenses",
+      "url": "http://www.wikiwand.com/en/Software_license",
+      "fx": 188.84758890084925,
+      "fy": -167.26650053879482,
+      "category": "wiki"
+    },
+    {
+      "text": "MIT",
+      "url": "http://www.wikiwand.com/en/MIT_License",
+      "note": "A short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/ source.  There are many variations of this license in use.",
+      "fx": 283.67506100383423,
+      "fy": -39.76702792150701,
+      "category": "wiki"
+    },
+    {
+      "text": "GPL",
+      "url": "http://www.wikiwand.com/en/GNU_General_Public_License",
+      "fx": 281.5492364609577,
+      "fy": 76.46898614609574,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "quick summary",
+      "url": "https://tldrlegal.com/license/mit-license",
+      "fx": 470.67506100383423,
+      "fy": -22.767027921507008,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "MIT"
+    },
+    {
+      "text": "quick summary",
+      "url": "https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)",
+      "fx": 448.5492364609577,
+      "fy": 93.46898614609574,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "GPL"
+    }
+  ],
+  "connections": [
+    {
+      "source": "software licenses",
+      "target": "MIT",
+      "curve": {
+        "x": 12.4137,
+        "y": 62.4998
+      }
+    },
+    {
+      "source": "software licenses",
+      "target": "GPL",
+      "curve": {
+        "x": -37.7901,
+        "y": 145.042
+      }
+    }
+  ]
+}

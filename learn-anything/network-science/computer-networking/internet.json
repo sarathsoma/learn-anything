@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - network science - computer networking - internet",
+  "nodes": [
+    {
+      "text": "internet",
+      "url": "http://www.wikiwand.com/en/Internet",
+      "fx": -61.37759387351764,
+      "fy": -178.82806324110672,
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 82.07962779973252,
+      "fy": -79.09323534260756
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -50.06308670948613,
+      "fy": 25.892199851734574
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "the shape of the internet is changing  ️",
+      "url": "http://carlos.bueno.org/2013/03/internet-shape.html",
+      "fx": 244.07962779973252,
+      "fy": -78.59323534260756,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. how the internet works  ️",
+      "url": "https://thesquareplanet.com/blog/how-the-internet-works/",
+      "fx": 131.93691329051387,
+      "fy": 6.392199851734574,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the internet: packets, routing and reliability",
+      "url": "https://www.youtube.com/watch?v=AYdF7b3nMto",
+      "fx": 131.93691329051387,
+      "fy": 46.392199851734574,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "internet",
+      "target": "basics",
+      "curve": {
+        "x": -4.09275,
+        "y": 101.11
+      }
+    },
+    {
+      "source": "articles",
+      "target": "internet",
+      "curve": {
+        "x": -63.4786,
+        "y": -48.6174
+      }
+    }
+  ]
+}

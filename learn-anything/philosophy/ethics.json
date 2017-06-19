@@ -1,0 +1,32 @@
+{
+  "title": "learn anything - philosophy - ethics",
+  "nodes": [
+    {
+      "text": "ethics",
+      "url": "http://www.wikiwand.com/en/Ethics",
+      "note": "",
+      "fx": 117.43343987938022,
+      "fy": -273.26431079827034,
+      "category": "wiki"
+    },
+    {
+      "text": "veganism  ️",
+      "url": "/id/54KJXyXG2U6zioYe8XPHx15uR2xWb2pKUqhYnuxH",
+      "note": "treating animals as equals and abstaining from eating and using animal products as commodity",
+      "fx": 80.27734375,
+      "fy": -138.99506578947376,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "ethics",
+      "target": "veganism  ️",
+      "curve": {
+        "x": -17.828,
+        "y": 65.8846
+      }
+    }
+  ]
+}

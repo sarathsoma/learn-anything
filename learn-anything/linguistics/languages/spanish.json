@@ -1,0 +1,79 @@
+{
+  "title": "learn anything - linguistics - languages - spanish",
+  "nodes": [
+    {
+      "text": "spanish language",
+      "url": "http://www.wikiwand.com/en/Spanish_language",
+      "fx": -151.42980527877808,
+      "fy": -198.64194107055664,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 58.4921875,
+      "fy": -91.1484375
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -106.76565599441528,
+      "fy": 16.934473037719727
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Spanish/",
+      "fx": 133.57019472122192,
+      "fy": -204.64194107055664,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "spanish language"
+    },
+    {
+      "text": "️",
+      "url": "https://spanish.stackexchange.com/",
+      "fx": 133.57019472122192,
+      "fy": -164.64194107055664,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "spanish language"
+    },
+    {
+      "text": "spanish dict",
+      "url": "http://www.spanishdict.com/",
+      "fx": 195.4921875,
+      "fy": -76.6484375,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. duolingo",
+      "url": "https://www.duolingo.com/course/es/en/Learn-Spanish-Online",
+      "fx": 75.23434400558472,
+      "fy": 31.434473037719727,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "spanish language",
+      "target": "basics",
+      "curve": {
+        "x": -9.91793,
+        "y": 106.538
+      }
+    },
+    {
+      "source": "help",
+      "target": "spanish language",
+      "curve": {
+        "x": -67.961,
+        "y": -52.4968
+      }
+    }
+  ]
+}

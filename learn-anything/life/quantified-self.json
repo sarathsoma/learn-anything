@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - life - quantified self",
+  "nodes": [
+    {
+      "text": "quantified self",
+      "url": "http://www.wikiwand.com/en/Quantified_Self",
+      "note": "",
+      "fx": -137.7421875,
+      "fy": -118.5078125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -7.089518002101386,
+      "fy": -16.9311259133475
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome quantified self",
+      "url": "https://github.com/woop/awesome-quantified-self",
+      "fx": 129.91048199789861,
+      "fy": -5.4311259133475005,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "quantified self",
+      "curve": {
+        "x": -36.8263,
+        "y": -49.5383
+      }
+    }
+  ]
+}

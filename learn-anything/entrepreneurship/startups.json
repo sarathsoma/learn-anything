@@ -1,0 +1,116 @@
+{
+  "title": "learn anything - entrepreneurship - startups",
+  "nodes": [
+    {
+      "text": "startups",
+      "url": "http://www.wikiwand.com/en/Startup_company",
+      "note": "",
+      "fx": 26.621035023169156,
+      "fy": -227.90459927645594,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 110.3295101396966,
+      "fy": -57.038008718779565
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 121.26760349025972,
+      "fy": 156.87077245670946
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome okr",
+      "url": "https://github.com/domenicosolazzo/awesome-okr",
+      "note": "curated list about OKR (Objective - Key Results)",
+      "fx": 247.3295101396966,
+      "fy": -119.53800871877957,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "places to post your startup",
+      "url": "https://github.com/mmccaff/PlacesToPostYourStartup",
+      "fx": 247.3295101396966,
+      "fy": -79.53800871877957,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome startup",
+      "url": "https://github.com/KrishMunot/awesome-startup",
+      "fx": 247.3295101396966,
+      "fy": -39.538008718779565,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "startup graveyard",
+      "url": "http://startupgraveyard.io/",
+      "fx": 247.3295101396966,
+      "fy": 0.46199128122043476,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "startup resources",
+      "url": "https://startupresources.io/",
+      "fx": 247.3295101396966,
+      "fy": 34.461991281220435,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "why startups condense in America  ️",
+      "url": "http://www.paulgraham.com/america.html",
+      "fx": 283.2676034902597,
+      "fy": 95.37077245670946,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "09: want to start a startup?  ️",
+      "url": "http://www.paulgraham.com/makersschedule.html",
+      "fx": 283.2676034902597,
+      "fy": 157.37077245670946,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "15: what did billion dollar companies look like at the series A?  ️",
+      "url": "https://femalefounders.info/what-did-billion-dollar-companies-look-like-at-the-series-a-e53ea8043a85",
+      "fx": 283.2676034902597,
+      "fy": 197.37077245670946,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "startups",
+      "curve": {
+        "x": -25.8542,
+        "y": -84.1833
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -11.719,
+        "y": -106.954
+      }
+    }
+  ]
+}

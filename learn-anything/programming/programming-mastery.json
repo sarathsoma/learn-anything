@@ -1,0 +1,121 @@
+{
+  "title": "learn anything - programming - programming mastery",
+  "nodes": [
+    {
+      "text": "programming mastery",
+      "url": "",
+      "note": "",
+      "fx": -193.4553477806959,
+      "fy": -154.2230987548828
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 29.642192720653043,
+      "fy": -36.33607135133116
+    },
+    {
+      "text": "inspiration",
+      "url": "",
+      "fx": 205.2523440515207,
+      "fy": 127.46482296332636
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -139.09210965384466,
+      "fy": 325.44032117415395
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "what every programmer should know about memory",
+      "url": "https://people.freebsd.org/%7Elstewart/articles/cpumemory.pdf",
+      "fx": 166.64219272065304,
+      "fy": -66.83607135133116,
+      "category": "paper",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "list of practical projects that anyone can solve",
+      "url": "https://github.com/karan/Projects",
+      "fx": 166.64219272065304,
+      "fy": -4.836071351331157,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome programmers",
+      "url": "https://github.com/rekihattori/awesome-programmers",
+      "fx": 395.2523440515207,
+      "fy": 138.96482296332636,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "inspiration"
+    },
+    {
+      "text": "1. clean code: a handbook of agile software craftsmanship",
+      "url": "https://www.goodreads.com/book/show/3735293-clean-code",
+      "fx": 16.90789034615534,
+      "fy": 254.94032117415395,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. study path for clean code",
+      "url": "https://github.com/joebew42/study-path",
+      "fx": 16.90789034615534,
+      "fy": 316.94032117415395,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the pragmatic programmer: from journeyman to master",
+      "url": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer",
+      "fx": 16.90789034615534,
+      "fy": 356.94032117415395,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. code complete",
+      "url": "https://www.goodreads.com/book/show/4845.Code_Complete",
+      "fx": 16.90789034615534,
+      "fy": 418.94032117415395,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "programming mastery",
+      "curve": {
+        "x": -71.5488,
+        "y": -58.9434
+      }
+    },
+    {
+      "source": "inspiration",
+      "target": "help",
+      "curve": {
+        "x": -101.055,
+        "y": -81.9004
+      }
+    },
+    {
+      "source": "programming mastery",
+      "target": "basics",
+      "curve": {
+        "x": -14.5684,
+        "y": 239.832
+      }
+    }
+  ]
+}

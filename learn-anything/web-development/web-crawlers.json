@@ -1,0 +1,70 @@
+{
+  "title": "learn anything - web development - web crawlers",
+  "nodes": [
+    {
+      "text": "web crawlers",
+      "url": "http://www.wikiwand.com/en/Web_crawler",
+      "note": "",
+      "fx": -94.33984375,
+      "fy": -92.5703125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 66.64434070121956,
+      "fy": 19.53744283536588
+    },
+    {
+      "text": "gain",
+      "url": "https://github.com/gaojiuli/gain",
+      "fx": -215.86503988630102,
+      "fy": 57.58397327159372,
+      "category": "github"
+    },
+    {
+      "text": "creeper",
+      "url": "https://github.com/wspl/creeper",
+      "fx": -87.76337037435394,
+      "fy": 152.83375288800505,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome crawler",
+      "url": "https://github.com/BruceDone/awesome-crawler",
+      "fx": 203.64434070121956,
+      "fy": 31.03744283536588,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "web crawlers",
+      "curve": {
+        "x": -55.4921,
+        "y": -54.8038
+      }
+    },
+    {
+      "source": "web crawlers",
+      "target": "creeper",
+      "curve": {
+        "x": -13.4618,
+        "y": 122.702
+      }
+    },
+    {
+      "source": "web crawlers",
+      "target": "gain",
+      "curve": {
+        "x": -85.2626,
+        "y": 75.0771
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - programming - programming languages - crystal",
+  "nodes": [
+    {
+      "text": "crystal",
+      "url": "http://www.wikiwand.com/en/Crystal_(programming_language)",
+      "fx": -53.16015625,
+      "fy": -278.265625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 62.60106691593603,
+      "fy": -169.6210836771529
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -41.249286842443894,
+      "fy": -72.00090454165422
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome crystal",
+      "url": "https://github.com/veelenga/awesome-crystal",
+      "fx": 199.60106691593603,
+      "fy": -158.1210836771529,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. crystal programming language",
+      "url": "https://crystal-lang.org/docs/",
+      "fx": 140.7507131575561,
+      "fy": -71.50090454165422,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "crystal",
+      "curve": {
+        "x": -45.6306,
+        "y": -53.0723
+      }
+    },
+    {
+      "source": "crystal",
+      "target": "basics",
+      "curve": {
+        "x": -1.54457,
+        "y": 101.882
+      }
+    }
+  ]
+}

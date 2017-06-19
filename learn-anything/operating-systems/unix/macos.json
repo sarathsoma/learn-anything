@@ -1,0 +1,357 @@
+{
+  "title": "learn anything - operating systems - unix - macos",
+  "nodes": [
+    {
+      "text": "macOS",
+      "url": "http://www.wikiwand.com/en/Macintosh_operating_systems",
+      "fx": -121.19988451736208,
+      "fy": -610.1092277145588,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 47.48898662156796,
+      "fy": -345.27551058631514
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 292.0940057635398,
+      "fy": -62.49047548084354
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -185.85006684407062,
+      "fy": -8.498596846307919
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 497.51560948746646,
+      "fy": 68.66423798554229
+    },
+    {
+      "text": "automation",
+      "url": "",
+      "fx": 12.650011036777869,
+      "fy": 95.78709769735792
+    },
+    {
+      "text": "apps  ️",
+      "url": "/id/GcQy9hGZ2JoXbHsCCUCuEp6szrhyUirUjiXuxatH",
+      "fx": -257.3626089132639,
+      "fy": 162.7248688811187,
+      "category": "mindmap"
+    },
+    {
+      "text": "launchd",
+      "url": "http://www.launchd.info",
+      "fx": 4.021044537644684,
+      "fy": 170.35515002552415
+    },
+    {
+      "text": "API",
+      "url": "http://www.wikiwand.com/en/Application_programming_interface",
+      "fx": -437.6988535235006,
+      "fy": 174.82912051293147,
+      "category": "wiki"
+    },
+    {
+      "text": "jxa  ️",
+      "url": "/id/Db64qsUgs2Pw67auf37Spdg6X5oVWvrpyzR88psP",
+      "fx": -66.60675317328878,
+      "fy": 258.85093919891403,
+      "category": "mindmap"
+    },
+    {
+      "text": "cocoa",
+      "url": "http://www.wikiwand.com/en/Cocoa_(API)",
+      "fx": -469.60920390725175,
+      "fy": 275.0256615453005,
+      "category": "wiki"
+    },
+    {
+      "text": "Foundation",
+      "url": "https://developer.apple.com/reference/foundation",
+      "fx": -541.7742566669548,
+      "fy": 373.4633475022531
+    },
+    {
+      "text": "AppKit",
+      "url": "https://developer.apple.com/reference/appkit",
+      "fx": -385.27971639763166,
+      "fy": 373.9317079628594
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/MacOS/",
+      "fx": 73.80011548263792,
+      "fy": -616.1092277145588,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "macOS"
+    },
+    {
+      "text": "️",
+      "url": "https://apple.stackexchange.com/",
+      "fx": 73.80011548263792,
+      "fy": -576.1092277145588,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "macOS"
+    },
+    {
+      "text": "reverse engineering resources",
+      "url": "http://pewpewthespells.com/re.html",
+      "fx": 183.48898662156796,
+      "fy": -501.77551058631514,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "macOS shell scripts",
+      "url": "https://github.com/liyanage/macosx-shell-scripts",
+      "fx": 183.48898662156796,
+      "fy": -467.77551058631514,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome macOS",
+      "url": "https://github.com/iCHAIT/awesome-macOS",
+      "fx": 183.48898662156796,
+      "fy": -427.77551058631514,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome macOS command line",
+      "url": "https://github.com/herrbischoff/awesome-osx-command-line",
+      "fx": 183.48898662156796,
+      "fy": -387.77551058631514,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "quick look plugins",
+      "url": "https://github.com/sindresorhus/quick-look-plugins",
+      "fx": 183.48898662156796,
+      "fy": -347.77551058631514,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "macOS security and privacy guide",
+      "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+      "fx": 183.48898662156796,
+      "fy": -307.77551058631514,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "fx": 183.48898662156796,
+      "fy": -245.77551058631514,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome OS X command line",
+      "url": "https://github.com/herrbischoff/awesome-osx-command-line",
+      "fx": 183.48898662156796,
+      "fy": -205.77551058631514,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "tools for macOS",
+      "url": "https://github.com/morgant/tools-osx",
+      "fx": 183.48898662156796,
+      "fy": -165.77551058631514,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome macOS screensavers",
+      "url": "https://github.com/aharris88/awesome-macos-screensavers",
+      "fx": 483.0940057635398,
+      "fy": -50.99047548084354,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. macOS internals",
+      "url": "http://osxbook.com/",
+      "fx": -3.850066844070625,
+      "fy": 6.001403153692081,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "14: mac keyboard shortcuts  ️",
+      "url": "http://mattgemmell.com/mac-keyboard-shortcuts/",
+      "fx": 659.5156094874665,
+      "fy": 18.164237985542286,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: migrating from iOS to mac — part I: app anatomy  ️",
+      "url": "http://martiancraft.com/blog/2016/05/ios-to-mac-1/",
+      "fx": 659.5156094874665,
+      "fy": 58.164237985542286,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: take control of your trackpad on macOS  ️",
+      "url": "https://medium.com/@NikitaVoloboev/take-control-of-your-trackpad-on-macos-45c581f542e0",
+      "fx": 659.5156094874665,
+      "fy": 120.16423798554229,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "macOS automation",
+      "url": "https://www.macosxautomation.com/",
+      "fx": 212.65001103677787,
+      "fy": 110.28709769735792,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "automation"
+    },
+    {
+      "text": "schedule jobs using launchd  ️",
+      "url": "https://nathangrigg.com/2012/07/schedule-jobs-using-launchd",
+      "fx": 174.02104453764468,
+      "fy": 181.85515002552415,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "launchd"
+    },
+    {
+      "text": "learn cocoa",
+      "url": "http://www.cocoadevcentral.com/",
+      "note": "a lot of articles",
+      "fx": -286.60920390725175,
+      "fy": 292.0256615453005,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "cocoa"
+    }
+  ],
+  "connections": [
+    {
+      "source": "basics",
+      "target": "launchd",
+      "curve": {
+        "x": 60.076,
+        "y": 99.0718
+      }
+    },
+    {
+      "source": "basics",
+      "target": "automation",
+      "curve": {
+        "x": 110.25,
+        "y": 52.1427
+      }
+    },
+    {
+      "source": "macOS",
+      "target": "basics",
+      "curve": {
+        "x": -42.0751,
+        "y": 299.555
+      }
+    },
+    {
+      "source": "help",
+      "target": "macOS",
+      "curve": {
+        "x": -69.8445,
+        "y": -131.167
+      }
+    },
+    {
+      "source": "basics",
+      "target": "API",
+      "curve": {
+        "x": -132.425,
+        "y": 91.6638
+      }
+    },
+    {
+      "source": "API",
+      "target": "cocoa",
+      "curve": {
+        "x": -16.7051,
+        "y": 48.8482
+      }
+    },
+    {
+      "source": "cocoa",
+      "target": "Foundation",
+      "curve": {
+        "x": -31.8325,
+        "y": 47.9688
+      }
+    },
+    {
+      "source": "cocoa",
+      "target": "AppKit",
+      "curve": {
+        "x": 36.4147,
+        "y": 48.203
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -222.59,
+        "y": -82.6443
+      }
+    },
+    {
+      "source": "articles",
+      "target": "interesting",
+      "curve": {
+        "x": -95.4608,
+        "y": -65.5773
+      }
+    },
+    {
+      "source": "basics",
+      "target": "jxa  ️",
+      "curve": {
+        "x": 44.8716,
+        "y": 133.674
+      }
+    },
+    {
+      "source": "basics",
+      "target": "apps  ️",
+      "curve": {
+        "x": -38.2563,
+        "y": 86.8617
+      }
+    }
+  ]
+}

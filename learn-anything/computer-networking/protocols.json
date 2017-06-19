@@ -1,0 +1,231 @@
+{
+  "title": "learn anything - computer networking - protocols",
+  "nodes": [
+    {
+      "text": "protocols",
+      "url": "http://www.wikiwand.com/en/Communications_protocol",
+      "note": "",
+      "fx": -42.0806726365397,
+      "fy": -425.87931916524707,
+      "category": "wiki"
+    },
+    {
+      "text": "tcp/ip  ️",
+      "url": "/id/zZbLxuhSrDnUaU3aP21wpUwt62zmVpkct13QhJjU",
+      "fx": -275.75141358196515,
+      "fy": -251.1240740395537,
+      "category": "mindmap"
+    },
+    {
+      "text": "irc",
+      "url": "http://www.wikiwand.com/en/Internet_Relay_Chat",
+      "fx": -31.393035652223716,
+      "fy": -250.0376739817217,
+      "category": "wiki"
+    },
+    {
+      "text": "http  ️",
+      "url": "/id/t1dtQBegP9uwBMKgxszHeHhYRT8EzDvbxy9Zbstw",
+      "fx": -143.80126236431056,
+      "fy": -246.05196556188173,
+      "category": "mindmap"
+    },
+    {
+      "text": "ssh  ️",
+      "url": "/id/4TdQ9XwhpRja4c9Nz7XvCSL1k3UsHFs8U2fxjfwd",
+      "fx": 73.49513966584004,
+      "fy": -244.93049422965555,
+      "category": "mindmap"
+    },
+    {
+      "text": "WebSocket  ️",
+      "url": "/id/MCHX7afgsj6V5qXGDEpoqs4uJhG9yDPsTaz4WyP4",
+      "fx": 187.46099853515625,
+      "fy": -241.7728287562851,
+      "category": "mindmap"
+    },
+    {
+      "text": "WebRTC  ️",
+      "url": "/id/Z23exvKV95hC8L5i5kcyenuTr1XykRqXWweZAqfi",
+      "fx": 481.04422030734577,
+      "fy": -236.1245527480229,
+      "category": "mindmap"
+    },
+    {
+      "text": "ipfs  ️",
+      "url": "/id/Hsex87wcsZbzbwMNzbaJFsBPFJycLymJqA7sotvg",
+      "fx": 368.3736798625348,
+      "fy": -234.94944515701172,
+      "category": "mindmap"
+    },
+    {
+      "text": "TLS  ️",
+      "url": "/id/p9uXx8nMg2eXj8ehzPbi3ypKZenpxW5b42rXfdz6",
+      "fx": 642.2351627291534,
+      "fy": -232.39274720827893,
+      "category": "mindmap"
+    },
+    {
+      "text": "MQTT",
+      "url": "http://www.wikiwand.com/en/MQTT",
+      "fx": -412.68339552376324,
+      "fy": -166.83577509471178,
+      "category": "wiki"
+    },
+    {
+      "text": "TAP",
+      "url": "https://testanything.org/",
+      "fx": -442.13772602201277,
+      "fy": -30.11349884883208
+    },
+    {
+      "text": "BitTorrent",
+      "url": "http://www.wikiwand.com/en/BitTorrent",
+      "fx": -495.125,
+      "fy": 53.2978515625,
+      "category": "wiki"
+    },
+    {
+      "text": "WebTorrent",
+      "url": "https://github.com/webtorrent/webtorrent",
+      "fx": -328.0974216710189,
+      "fy": 146.23536197211683,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome mqtt",
+      "url": "https://github.com/hobbyquaker/awesome-mqtt",
+      "fx": -229.68339552376324,
+      "fy": -152.83577509471178,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "MQTT"
+    },
+    {
+      "text": "awesome tap",
+      "url": "https://github.com/sindresorhus/awesome-tap",
+      "fx": -307.13772602201277,
+      "fy": -18.61349884883208,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "TAP"
+    },
+    {
+      "text": "spec",
+      "url": "http://jonas.nitro.dk/bittorrent/bittorrent-rfc.html",
+      "fx": -281.125,
+      "fy": 70.2978515625,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "BitTorrent"
+    },
+    {
+      "text": "awesome WebTorrent",
+      "url": "https://github.com/DiegoRBaquero/awesome-webtorrent-clones",
+      "fx": -97.09742167101888,
+      "fy": 160.23536197211683,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "WebTorrent"
+    }
+  ],
+  "connections": [
+    {
+      "source": "protocols",
+      "target": "tcp/ip  ️",
+      "curve": {
+        "x": -124.836,
+        "y": 87.3782
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "http  ️",
+      "curve": {
+        "x": -70.3599,
+        "y": 88.6642
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "irc",
+      "curve": {
+        "x": -10.6563,
+        "y": 87.9212
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "ssh  ️",
+      "curve": {
+        "x": 37.2879,
+        "y": 89.2252
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "WebSocket  ️",
+      "curve": {
+        "x": 111.021,
+        "y": 90.8032
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "ipfs  ️",
+      "curve": {
+        "x": 184.727,
+        "y": 94.2152
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "WebRTC  ️",
+      "curve": {
+        "x": 307.258,
+        "y": 81.281
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "MQTT",
+      "curve": {
+        "x": -315.183,
+        "y": 123.563
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "TAP",
+      "curve": {
+        "x": -489.72,
+        "y": 212.829
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "BitTorrent",
+      "curve": {
+        "x": -572.577,
+        "y": 269.156
+      }
+    },
+    {
+      "source": "BitTorrent",
+      "target": "WebTorrent",
+      "curve": {
+        "x": 80.5138,
+        "y": 45.2187
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "TLS  ️",
+      "curve": {
+        "x": 453.127,
+        "y": 75.6747
+      }
+    }
+  ]
+}

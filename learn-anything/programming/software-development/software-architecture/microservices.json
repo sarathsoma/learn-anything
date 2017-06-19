@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - programming - software development - software architecture - microservices",
+  "nodes": [
+    {
+      "text": "microservices",
+      "url": "http://www.wikiwand.com/en/Microservices",
+      "fx": -81.4921875,
+      "fy": -172.1875,
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 119.3231506753599,
+      "fy": -69.09151589873505
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -59.685938067524376,
+      "fy": 67.01442692793228
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "17: enough with the microservices  ️",
+      "url": "https://aadrake.com/posts/2017-05-20-enough-with-the-microservices.html",
+      "fx": 281.3231506753599,
+      "fy": -68.59151589873505,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. definition of microservices  ️",
+      "url": "https://martinfowler.com/articles/microservices.html",
+      "fx": 122.31406193247562,
+      "fy": 58.51442692793228,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. netflix guide to microservices",
+      "url": "https://www.youtube.com/watch?v=CZ3wIuvmHeM",
+      "fx": 122.31406193247562,
+      "fy": 98.51442692793228,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "microservices",
+      "target": "basics",
+      "curve": {
+        "x": -12.8469,
+        "y": 118.351
+      }
+    },
+    {
+      "source": "articles",
+      "target": "microservices",
+      "curve": {
+        "x": -78.1577,
+        "y": -50.298
+      }
+    }
+  ]
+}

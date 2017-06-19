@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - biology - physiology",
+  "nodes": [
+    {
+      "text": "physiology",
+      "url": "http://www.wikiwand.com/en/Physiology",
+      "fx": -98.72265625,
+      "fy": -174.85546875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -68.66796875,
+      "fy": -36.32421875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to anatomy &amp; physiology",
+      "url": "https://www.youtube.com/watch?v=uBGl2BujkPQ&amp;t=14s",
+      "fx": 113.33203125,
+      "fy": -35.82421875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "physiology",
+      "target": "basics",
+      "curve": {
+        "x": -1.72266,
+        "y": 68.0156
+      }
+    }
+  ]
+}

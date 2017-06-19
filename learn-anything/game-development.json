@@ -1,0 +1,301 @@
+{
+  "title": "learn anything - game development",
+  "nodes": [
+    {
+      "text": "video game development",
+      "url": "http://www.wikiwand.com/en/Video_game_development",
+      "fx": -68.46860708302358,
+      "fy": -739.1593026802038,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 199.4934004158714,
+      "fy": -398.89493579922544
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 369.18133973707586,
+      "fy": -2.7186022025482544
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -240.50445308012524,
+      "fy": 15.028120577662776
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 498.6539686639119,
+      "fy": 130.83892906336155
+    },
+    {
+      "text": "game engines  ️",
+      "url": "/id/bxSEPduhsyxhpEsq3aDWjey4naXLsLTjdjTCqBGB",
+      "fx": -264.1087706026801,
+      "fy": 218.06264106416563,
+      "category": "mindmap"
+    },
+    {
+      "text": "game consoles  ️",
+      "url": "/id/NN7AnVMbqvozzjkJaZVUsSUz867pNyt6hAKsxa2w",
+      "fx": -500.65592805631843,
+      "fy": 221.34459182310752,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/gamedev/",
+      "fx": 286.5313929169764,
+      "fy": -745.1593026802038,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "video game development"
+    },
+    {
+      "text": "wiki",
+      "url": "https://www.reddit.com/r/gamedev/wiki/index",
+      "fx": 396.5313929169764,
+      "fy": -745.1593026802038,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "️",
+      "url": "https://gamedev.stackexchange.com/",
+      "fx": 286.5313929169764,
+      "fy": -705.1593026802038,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "video game development"
+    },
+    {
+      "text": "list of game development resources",
+      "url": "https://game-development.zeef.com/david.arcila",
+      "fx": 336.4934004158714,
+      "fy": -634.3949357992254,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "list of gaming talks",
+      "url": "https://github.com/hzoo/awesome-gametalks",
+      "fx": 336.4934004158714,
+      "fy": -600.3949357992254,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "red blob games  ️",
+      "url": "http://www.redblobgames.com/",
+      "fx": 336.4934004158714,
+      "fy": -560.3949357992254,
+      "category": "blog",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "game developer roadmap",
+      "url": "https://github.com/utilForever/game-developer-roadmap",
+      "fx": 336.4934004158714,
+      "fy": -520.3949357992254,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "blizzard software engineering reading list",
+      "url": "",
+      "fx": 336.4934004158714,
+      "fy": -457.39493579922544,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "associate",
+      "url": "https://www.amazon.com/gp/richpub/listmania/fullview/R2LC80THGVDJHI",
+      "fx": 648.4934004158714,
+      "fy": -480.39493579922544,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "blizzard software engineering reading list"
+    },
+    {
+      "text": "mid-level",
+      "url": "https://www.amazon.com/gp/richpub/listmania/fullview/R1C0VA4J8ZBURC",
+      "fx": 648.4934004158714,
+      "fy": -446.39493579922544,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "blizzard software engineering reading list"
+    },
+    {
+      "text": "senior",
+      "url": "https://www.amazon.com/gp/richpub/listmania/fullview/R2FZ98PSM92N7F/",
+      "fx": 648.4934004158714,
+      "fy": -412.39493579922544,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "blizzard software engineering reading list"
+    },
+    {
+      "text": "books for game developers",
+      "url": "http://mrelusive.com/books/books.html",
+      "fx": 336.4934004158714,
+      "fy": -378.39493579922544,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "useful programming and game development resources",
+      "url": "https://eliasdaler.github.io/programming-and-gamedev-resources/",
+      "fx": 336.4934004158714,
+      "fy": -344.39493579922544,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "ai programmer’s bookshelf",
+      "url": "http://alumni.media.mit.edu/%7Ejorkin/aibooks.html",
+      "fx": 336.4934004158714,
+      "fy": -288.39493579922544,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "open game art",
+      "url": "https://opengameart.org/",
+      "fx": 336.4934004158714,
+      "fy": -254.39493579922544,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "magic tools",
+      "url": "https://github.com/ellisonleao/magictools",
+      "note": "list of game development resources to make magic happen",
+      "fx": 336.4934004158714,
+      "fy": -220.39493579922544,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome game talks",
+      "url": "https://github.com/hzoo/awesome-gametalks",
+      "fx": 336.4934004158714,
+      "fy": -180.39493579922544,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome one person games",
+      "url": "https://github.com/Yonaba/awesome-one-person-games",
+      "fx": 336.4934004158714,
+      "fy": -140.39493579922544,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: the rip-offs &amp; making our original game  ️",
+      "url": "http://asherv.com/threes/threemails/",
+      "fx": 531.1813397370759,
+      "fy": -2.2186022025482544,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. study path for game programmer",
+      "url": "https://github.com/miloyip/game-programmer",
+      "fx": -58.504453080125245,
+      "fy": -35.471879422337224,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. game programming patterns",
+      "url": "http://gameprogrammingpatterns.com/",
+      "fx": -58.504453080125245,
+      "fy": 26.528120577662776,
+      "category": "non-free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. designing games: a guide to engineering experiences",
+      "url": "https://www.goodreads.com/book/show/16144499-designing-games",
+      "fx": -58.504453080125245,
+      "fy": 66.52812057766278,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "build a game in go",
+      "url": "https://engo.io/tutorials/01-hello-world",
+      "fx": 689.6539686639119,
+      "fy": 145.33892906336155,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "video game development",
+      "target": "basics",
+      "curve": {
+        "x": -133.018,
+        "y": 377.092
+      }
+    },
+    {
+      "source": "help",
+      "target": "video game development",
+      "curve": {
+        "x": -81.4806,
+        "y": -170.131
+      }
+    },
+    {
+      "source": "basics",
+      "target": "game engines  ️",
+      "curve": {
+        "x": -1.05217,
+        "y": 101.517
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -167.378,
+        "y": -135.857
+      }
+    },
+    {
+      "source": "basics",
+      "target": "game consoles  ️",
+      "curve": {
+        "x": -116.576,
+        "y": 103.158
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "articles",
+      "curve": {
+        "x": -71.9863,
+        "y": -66.7788
+      }
+    }
+  ]
+}

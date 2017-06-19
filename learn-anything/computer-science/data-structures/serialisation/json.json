@@ -1,0 +1,95 @@
+{
+  "title": "learn anything - computer science - data structures - serialisation - json",
+  "nodes": [
+    {
+      "text": "json",
+      "url": "http://www.wikiwand.com/en/JSON",
+      "fx": -74.4765625,
+      "fy": -325.1796875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 16.55859375,
+      "fy": -220.890625
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -74.50423728813553,
+      "fy": -125.796875
+    },
+    {
+      "text": "GeoJSON",
+      "url": "http://www.wikiwand.com/en/GeoJSON",
+      "fx": -124.34147891674411,
+      "fy": 22.658402722044116,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "15: schema-free json data infrastructure  ️",
+      "url": "https://drill.apache.org/blog/2015/01/27/schema-free-json-data-infrastructure/",
+      "fx": 153.55859375,
+      "fy": -240.390625,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome json",
+      "url": "https://github.com/burningtree/awesome-json",
+      "fx": 153.55859375,
+      "fy": -178.390625,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introducing json",
+      "url": "http://www.json.org/",
+      "fx": 107.49576271186447,
+      "fy": -111.296875,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "awesome GeoJSON",
+      "url": "https://github.com/tmcw/awesome-geojson",
+      "fx": 95.65852108325589,
+      "fy": 36.658402722044116,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "GeoJSON"
+    }
+  ],
+  "connections": [
+    {
+      "source": "json",
+      "target": "basics",
+      "curve": {
+        "x": -2.01384,
+        "y": 98.4414
+      }
+    },
+    {
+      "source": "help",
+      "target": "json",
+      "curve": {
+        "x": -38.7676,
+        "y": -50.8945
+      }
+    },
+    {
+      "source": "basics",
+      "target": "GeoJSON",
+      "curve": {
+        "x": -15.4186,
+        "y": 75.4776
+      }
+    }
+  ]
+}

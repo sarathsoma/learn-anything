@@ -1,0 +1,253 @@
+{
+  "title": "learn anything - web development - javascript libraries - react",
+  "nodes": [
+    {
+      "text": "react",
+      "url": "https://facebook.github.io/react/",
+      "fx": -113.13512819463563,
+      "fy": -467.6999539462003
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 25.568904407588207,
+      "fy": -320.02438757175895
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 138.53098156011197,
+      "fy": -63.12093755468925
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -313.9561233520508,
+      "fy": 35.4533109664917
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 240.67412638546784,
+      "fy": 94.12338362068988
+    },
+    {
+      "text": "react router  ️",
+      "url": "/id/EpvSZjXp55zdsBBoxpBB71tW9iAFrsa8fN2sekbh",
+      "fx": -459.67625427246094,
+      "fy": 148.50194549560547,
+      "category": "mindmap"
+    },
+    {
+      "text": "relay  ️",
+      "url": "/id/rS9iMu61sVJXELujiXRcydcRstoejwtxbWKJEc4D",
+      "fx": -287.9842826919985,
+      "fy": 214.64821322873638,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/reactjs/",
+      "fx": 30.864871805364373,
+      "fy": -456.1999539462003,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "react"
+    },
+    {
+      "text": "awesome react",
+      "url": "https://github.com/enaqx/awesome-react",
+      "fx": 162.5689044075882,
+      "fy": -419.52438757175895,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "react patterns, techniques, tips and tricks",
+      "url": "https://github.com/vasanthk/react-bits",
+      "fx": 162.5689044075882,
+      "fy": -379.52438757175895,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "create react app",
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "fx": 162.5689044075882,
+      "fy": -317.52438757175895,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "reactiflux",
+      "url": "https://www.reactiflux.com/",
+      "fx": 162.5689044075882,
+      "fy": -277.52438757175895,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "react-redux links",
+      "url": "https://github.com/markerikson/react-redux-links",
+      "fx": 162.5689044075882,
+      "fy": -237.52438757175895,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "community resources",
+      "url": "https://github.com/markerikson/react-redux-links/blob/master/community-resources.md",
+      "fx": 396.5689044075882,
+      "fy": -237.52438757175895,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "react-redux links"
+    },
+    {
+      "text": "react examples",
+      "url": "https://github.com/facebook/react/wiki/examples",
+      "fx": 162.5689044075882,
+      "fy": -197.52438757175895,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "15: wtf is JSX  ️",
+      "url": "https://jasonformat.com/wtf-is-jsx/",
+      "fx": 300.53098156011197,
+      "fy": -113.62093755468925,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "15: presentational and container components  ️",
+      "url": "https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0",
+      "fx": 300.53098156011197,
+      "fy": -73.62093755468925,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: understanding react boilerplates  ️",
+      "url": "https://medium.com/@baphemot/understanding-react-boilerplates-e203fafdf063",
+      "fx": 300.53098156011197,
+      "fy": -11.620937554689249,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. quick start",
+      "url": "https://facebook.github.io/react/docs/hello-world.html",
+      "fx": -131.95612335205078,
+      "fy": 9.9533109664917,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. react fundamentals",
+      "url": "https://reacttraining.com/online/react-fundamentals",
+      "fx": -131.95612335205078,
+      "fy": 43.9533109664917,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. react koans",
+      "url": "https://github.com/arkency/reactjs_koans",
+      "fx": -131.95612335205078,
+      "fy": 83.9533109664917,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "create react app",
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "fx": 382.67412638546784,
+      "fy": 88.62338362068988,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "awesome create react app",
+      "url": "https://github.com/tuchk4/awesome-create-react-app",
+      "fx": 613.6741263854678,
+      "fy": 88.62338362068988,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "create react app"
+    },
+    {
+      "text": "react live",
+      "url": "https://react-live.philpl.com/",
+      "fx": 382.67412638546784,
+      "fy": 128.62338362068988,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "tools"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "react",
+      "curve": {
+        "x": -67.602,
+        "y": -73.8378
+      }
+    },
+    {
+      "source": "react",
+      "target": "basics",
+      "curve": {
+        "x": -97.41,
+        "y": 251.577
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -62.731,
+        "y": -128.452
+      }
+    },
+    {
+      "source": "basics",
+      "target": "relay  ️",
+      "curve": {
+        "x": 9.736,
+        "y": 90.8476
+      }
+    },
+    {
+      "source": "tools",
+      "target": "articles",
+      "curve": {
+        "x": -46.0716,
+        "y": -78.6222
+      }
+    },
+    {
+      "source": "basics",
+      "target": "react router  ️",
+      "curve": {
+        "x": -67.8601,
+        "y": 56.5243
+      }
+    }
+  ]
+}

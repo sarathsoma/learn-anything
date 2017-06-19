@@ -1,0 +1,122 @@
+{
+  "title": "learn anything - programming - programming languages - scala",
+  "nodes": [
+    {
+      "text": "scala",
+      "url": "http://www.wikiwand.com/en/Scala_(programming_language)",
+      "fx": -42.829507318155606,
+      "fy": -338.9199460698755,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 58.6784512904469,
+      "fy": -222.68395831703475
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 83.11748964088451,
+      "fy": -59.59478591160831
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -59.2338879939108,
+      "fy": 69.80451524850412
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome scala",
+      "url": "https://github.com/lauris/awesome-scala",
+      "fx": 195.6784512904469,
+      "fy": -251.18395831703475,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "scala’s types of types  ️",
+      "url": "http://ktoso.github.io/scala-types-of-types/",
+      "fx": 195.6784512904469,
+      "fy": -211.18395831703475,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "free scala books",
+      "url": "https://github.com/search?q=topic%3Abook+org%3Aunderscoreio&amp;type=Repositories",
+      "fx": 195.6784512904469,
+      "fy": -171.18395831703475,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "16: strategic scala style: conciseness &amp; names  ️",
+      "url": "http://www.lihaoyi.com/post/StrategicScalaStyleConcisenessNames.html",
+      "fx": 245.11748964088451,
+      "fy": -79.09478591160831,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: scala interview questions  ️",
+      "url": "http://pedrorijo.com/blog/scala-interview-questions/",
+      "fx": 245.11748964088451,
+      "fy": -17.094785911608312,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. functional programming principles in scala",
+      "url": "https://www.coursera.org/learn/progfun1",
+      "fx": 122.7661120060892,
+      "fy": 50.30451524850412,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. creative scala",
+      "url": "http://underscore.io/training/courses/creative-scala/",
+      "fx": 122.7661120060892,
+      "fy": 112.30451524850412,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "scala",
+      "target": "basics",
+      "curve": {
+        "x": -5.4521,
+        "y": 204.362
+      }
+    },
+    {
+      "source": "help",
+      "target": "scala",
+      "curve": {
+        "x": -48.7541,
+        "y": -58.118
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -18.4695,
+        "y": -81.5446
+      }
+    }
+  ]
+}

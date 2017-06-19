@@ -1,0 +1,164 @@
+{
+  "title": "learn anything - web development - javascript libraries - d3js",
+  "nodes": [
+    {
+      "text": "d3.js",
+      "url": "http://www.wikiwand.com/en/D3.js",
+      "fx": -51.87109375,
+      "fy": -417.578125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 33.02734375,
+      "fy": -246.09283924102783
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 92.37029838562012,
+      "fy": -102.48966789245605
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -110.66197862790864,
+      "fy": 75.18139394846833
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/d3js/",
+      "fx": 119.12890625,
+      "fy": -423.578125,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "d3.js"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/d3/d3",
+      "fx": 119.12890625,
+      "fy": -383.578125,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "d3.js"
+    },
+    {
+      "text": "awesome d3",
+      "url": "https://github.com/wbkd/awesome-d3",
+      "fx": 170.02734375,
+      "fy": -288.59283924102783,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "dashing d3.js",
+      "url": "https://www.dashingd3js.com/table-of-contents",
+      "fx": 170.02734375,
+      "fy": -248.59283924102783,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "d3 cheat sheet",
+      "url": "http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf",
+      "fx": 170.02734375,
+      "fy": -208.59283924102783,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "d3 tutorials",
+      "url": "https://github.com/d3/d3/wiki/Tutorials",
+      "fx": 170.02734375,
+      "fy": -174.59283924102783,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "14: three little circles  ️",
+      "url": "https://bost.ocks.org/mike/circles/",
+      "fx": 254.4303741455078,
+      "fy": -121.89817142486572,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "13: selections in d3 - the long story  ️",
+      "url": "http://www.jeromecukier.net/blog/2013/03/05/d3-tutorial-at-strata-redux/",
+      "fx": 254.37029838562012,
+      "fy": -81.98966789245605,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. hitchhiker’s guide to d3.js  ️",
+      "url": "https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a",
+      "fx": 71.33802137209136,
+      "fy": 18.681393948468326,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. interactive data visualisation for the web",
+      "url": "http://chimera.labs.oreilly.com/books/1230000000345/",
+      "fx": 71.33802137209136,
+      "fy": 58.681393948468326,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. data visualisation and d3.js",
+      "url": "https://www.udacity.com/course/data-visualization-and-d3js--ud507",
+      "fx": 71.33802137209136,
+      "fy": 120.68139394846833,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. visualisation fundamentals",
+      "url": "https://classroom.udacity.com/courses/ud507",
+      "fx": 71.33802137209136,
+      "fy": 160.68139394846833,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "d3.js",
+      "target": "basics",
+      "curve": {
+        "x": -33.1455,
+        "y": 245.131
+      }
+    },
+    {
+      "source": "help",
+      "target": "d3.js",
+      "curve": {
+        "x": -33.9493,
+        "y": -84.4926
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -35.9215,
+        "y": -71.8015
+      }
+    }
+  ]
+}

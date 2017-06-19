@@ -1,0 +1,93 @@
+{
+  "title": "learn anything - computer hardware - computer - computer memory",
+  "nodes": [
+    {
+      "text": "computer memory",
+      "url": "http://www.wikiwand.com/en/Computer_memory",
+      "fx": -138.43359375,
+      "fy": -340.5234375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -72.52690360915506,
+      "fy": -168.38871772300473
+    },
+    {
+      "text": "memory management  ️",
+      "url": "/id/w1yqYsuL5wWKsPNRJPgYEMPWcfxEyoRAoYTP9HCM",
+      "fx": -509.4857608946719,
+      "fy": -9.771882625381863,
+      "category": "mindmap"
+    },
+    {
+      "text": "pointers  ️",
+      "url": "/id/2gj82v5pfCKBCFnxrArkFNChBGSqCihzG6jfARyU",
+      "fx": -204.07582038963847,
+      "fy": -9.223991338338465,
+      "category": "mindmap"
+    },
+    {
+      "text": "random access memory  ️",
+      "url": "/id/7vBULw3VKfdp9yqusaTszJfNexhSr6ZEZnqsXVh9",
+      "fx": -40.761712651248786,
+      "fy": -5.385756672033608,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. how do logic gates store information",
+      "url": "https://www.youtube.com/watch?v=XETZoRYdtkw",
+      "fx": 83.47309639084494,
+      "fy": -187.88871772300473,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. how computer memory works",
+      "url": "https://www.youtube.com/watch?v=p3q5zWCw8J4",
+      "fx": 83.47309639084494,
+      "fy": -125.88871772300473,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "computer memory",
+      "target": "basics",
+      "curve": {
+        "x": -1.54665,
+        "y": 84.8174
+      }
+    },
+    {
+      "source": "basics",
+      "target": "random access memory  ️",
+      "curve": {
+        "x": 56.3826,
+        "y": 81.5015
+      }
+    },
+    {
+      "source": "basics",
+      "target": "pointers  ️",
+      "curve": {
+        "x": -62.0245,
+        "y": 79.5824
+      }
+    },
+    {
+      "source": "basics",
+      "target": "memory management  ️",
+      "curve": {
+        "x": -194.423,
+        "y": 76.7373
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "learn anything - law - politics",
+  "nodes": [
+    {
+      "text": "politics",
+      "url": "http://www.wikiwand.com/en/Politics",
+      "note": "",
+      "fx": 317.9046796482412,
+      "fy": -195.35099324748745,
+      "category": "wiki"
+    },
+    {
+      "text": "ideology",
+      "url": "http://www.wikiwand.com/en/Ideology",
+      "fx": 316.14368458792114,
+      "fy": -84.93671742212905,
+      "category": "wiki"
+    },
+    {
+      "text": "liberalism",
+      "url": "http://www.wikiwand.com/en/Liberalism",
+      "fx": -160.15022087097168,
+      "fy": 81.29693603515625,
+      "category": "wiki"
+    },
+    {
+      "text": "anarchism",
+      "url": "http://www.wikiwand.com/en/Anarchism",
+      "fx": -1.0204505920410156,
+      "fy": 81.88047981262207,
+      "category": "wiki"
+    },
+    {
+      "text": "communism",
+      "url": "http://www.wikiwand.com/en/Communism",
+      "fx": 171.23443983402467,
+      "fy": 83.39607105809137,
+      "category": "wiki"
+    },
+    {
+      "text": "fascism",
+      "url": "http://www.wikiwand.com/en/Fascism",
+      "fx": 377.150390625,
+      "fy": 83.9755859375,
+      "category": "wiki"
+    },
+    {
+      "text": "socialism",
+      "url": "http://www.wikiwand.com/en/Socialism",
+      "fx": 525.1815457363361,
+      "fy": 86.9282246330971,
+      "category": "wiki"
+    },
+    {
+      "text": "conservatism",
+      "url": "http://www.wikiwand.com/en/Conservatism",
+      "fx": 694.2612847222222,
+      "fy": 87.06684027777771,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://politics.stackexchange.com/",
+      "fx": 533.9046796482412,
+      "fy": -181.35099324748745,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "politics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "politics",
+      "target": "ideology",
+      "curve": {
+        "x": 2.3695,
+        "y": 55.2071
+      }
+    },
+    {
+      "source": "ideology",
+      "target": "liberalism",
+      "curve": {
+        "x": -296.401,
+        "y": 73.816
+      }
+    },
+    {
+      "source": "ideology",
+      "target": "anarchism",
+      "curve": {
+        "x": -154.332,
+        "y": 83.4086
+      }
+    },
+    {
+      "source": "ideology",
+      "target": "communism",
+      "curve": {
+        "x": -63.4546,
+        "y": 84.1664
+      }
+    },
+    {
+      "source": "ideology",
+      "target": "fascism",
+      "curve": {
+        "x": 28.7534,
+        "y": 84.4562
+      }
+    },
+    {
+      "source": "ideology",
+      "target": "socialism",
+      "curve": {
+        "x": 106.269,
+        "y": 85.9325
+      }
+    },
+    {
+      "source": "ideology",
+      "target": "conservatism",
+      "curve": {
+        "x": 200.059,
+        "y": 86.0018
+      }
+    }
+  ]
+}

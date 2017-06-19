@@ -1,0 +1,184 @@
+{
+  "title": "learn anything - network science - computer networking",
+  "nodes": [
+    {
+      "text": "computer networking",
+      "url": "http://www.wikiwand.com/en/Computer_network",
+      "fx": 123.14740371704102,
+      "fy": -365.03221893310547,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 293.56687927246094,
+      "fy": -221.7576446533203
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 202.97899044261248,
+      "fy": 5.20695960521698
+    },
+    {
+      "text": "software-defined networking  ️",
+      "url": "/id/k2CCWrftHFpYsU2jc5TWwPXB4FirWbfzGRwK9Ewx",
+      "fx": -85.05657427651545,
+      "fy": 183.37897872924805,
+      "category": "mindmap"
+    },
+    {
+      "text": "protocols  ️",
+      "url": "/id/REzVv3zAJzajgYQbvfdNkGsopRTz9pTyCkqWUyts",
+      "fx": -250.96206665039062,
+      "fy": 185.40719604492188,
+      "category": "mindmap"
+    },
+    {
+      "text": "internet of things  ️",
+      "url": "/id/7DGQWiuwyXvB19qQdW9saGv2bhw5WVEdbHyEnB7g",
+      "note": "is the inter-networking of physical devices, vehicles (also referred to as \"connected devices\" and \"smart devices\"), buildings, and other items—embedded with electronics, software, sensors, actuators, and network connectivity that enable these objects to collect and exchange data",
+      "fx": 249.89517161885237,
+      "fy": 185.97150358606575,
+      "category": "mindmap"
+    },
+    {
+      "text": "peer to peer  ️",
+      "url": "/id/qFLBh134gcZ3knMursuxjjEnsWfUzbivcH6fTxbS",
+      "fx": -438.0813908811476,
+      "fy": 187.53400358606575,
+      "category": "mindmap"
+    },
+    {
+      "text": "internet  ️",
+      "url": "/id/s6oDsxXnkgvpLW4D1zXkcRJRV3fWyXag1hQR2T5k",
+      "fx": -583.0809025998925,
+      "fy": 190.5794137423038,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://networkengineering.stackexchange.com/",
+      "fx": 443.147403717041,
+      "fy": -351.03221893310547,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "computer networking"
+    },
+    {
+      "text": "awesome network analysis",
+      "url": "https://github.com/briatte/awesome-network-analysis",
+      "fx": 430.56687927246094,
+      "fy": -282.7576446533203,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "collection of tools developed by other researchers in the Computer Science area to process network traces",
+      "url": "https://github.com/caesar0301/awesome-pcaptools",
+      "fx": 430.56687927246094,
+      "fy": -242.7576446533203,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "what happens when",
+      "url": "https://github.com/alex/what-happens-when",
+      "fx": 430.56687927246094,
+      "fy": -137.7576446533203,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. network protocols for anyone who knows a programming language  ️",
+      "url": "https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147",
+      "fx": 384.9789904426125,
+      "fy": -67.29304039478302,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. beej's guide to network programming",
+      "url": "http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html",
+      "fx": 384.9789904426125,
+      "fy": 16.70695960521698,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. an introduction to computer networks",
+      "url": "http://intronetworks.cs.luc.edu/current/html/",
+      "fx": 384.9789904426125,
+      "fy": 78.21095740795135,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "computer networking",
+      "curve": {
+        "x": -39.4597,
+        "y": -70.3873
+      }
+    },
+    {
+      "source": "computer networking",
+      "target": "basics",
+      "curve": {
+        "x": 6.1658,
+        "y": 185.119
+      }
+    },
+    {
+      "source": "basics",
+      "target": "protocols  ️",
+      "curve": {
+        "x": -220.221,
+        "y": 90.1002
+      }
+    },
+    {
+      "source": "basics",
+      "target": "software-defined networking  ️",
+      "curve": {
+        "x": -87.0178,
+        "y": 90.336
+      }
+    },
+    {
+      "source": "basics",
+      "target": "peer to peer  ️",
+      "curve": {
+        "x": -358.839,
+        "y": 74.9877
+      }
+    },
+    {
+      "source": "basics",
+      "target": "internet of things  ️",
+      "curve": {
+        "x": 53.2081,
+        "y": 90.3823
+      }
+    },
+    {
+      "source": "basics",
+      "target": "internet  ️",
+      "curve": {
+        "x": -484.39,
+        "y": 63.9714
+      }
+    }
+  ]
+}

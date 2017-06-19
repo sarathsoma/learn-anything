@@ -1,0 +1,209 @@
+{
+  "title": "learn anything - computer vision",
+  "nodes": [
+    {
+      "text": "computer vision",
+      "url": "http://www.wikiwand.com/en/Computer_vision",
+      "fx": -71.93072614813843,
+      "fy": -466.8853343431684,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 80.78064903846155,
+      "fy": -273.9603365384615
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 101.45875259485672,
+      "fy": -94.51509341483109
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -73.04084869633346,
+      "fy": 37.57282051037521
+    },
+    {
+      "text": "OpenCV  ️",
+      "url": "/id/z5Q6ZVzx8QBAJyocALLH2xY9LyhWtapAqRXzVzNC",
+      "fx": -86.77255020361724,
+      "fy": 196.3644583100628,
+      "category": "mindmap"
+    },
+    {
+      "text": "augmented reality  ️",
+      "url": "/id/yeuzVXx6fhwm1eYY2qq4xCwzM4mDq9PQTsdC9AP6",
+      "fx": -342.85706313775484,
+      "fy": 196.59220875850383,
+      "category": "mindmap"
+    },
+    {
+      "text": "facial recognition  ️",
+      "url": "/id/niJKPUBTXEr67jrMUCGAyhmsWqmhygA2uR1LN3i4",
+      "fx": 82.74309876042173,
+      "fy": 197.25914956644408,
+      "category": "mindmap"
+    },
+    {
+      "text": "optical character recognition  ️",
+      "url": "/id/yWskyhtxnb7SiCvPsGxhWXhqMjwz8yGK7aE3TyMx",
+      "fx": -687.1627983229696,
+      "fy": 197.72616508695717,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/computervision/",
+      "fx": 199.06927385186157,
+      "fy": -452.8853343431684,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "computer vision"
+    },
+    {
+      "text": "awesome deep vision",
+      "url": "https://github.com/kjw0612/awesome-deep-vision",
+      "fx": 217.78064903846155,
+      "fy": -364.4603365384615,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome computer vision",
+      "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+      "fx": 217.78064903846155,
+      "fy": -324.4603365384615,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "datasets, transforms and models specific to computer vision",
+      "url": "https://github.com/pytorch/vision",
+      "fx": 217.78064903846155,
+      "fy": -284.4603365384615,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "tracking js",
+      "url": "https://github.com/eduardolundgren/tracking.js",
+      "note": "- modern approach for Computer Vision on the web",
+      "fx": 217.78064903846155,
+      "fy": -222.4603365384615,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "vision, learning and graphics papers on cats",
+      "url": "https://github.com/junyanz/CatPapers",
+      "fx": 217.78064903846155,
+      "fy": -182.4603365384615,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: have we forgotten about geometry in computer vision?  ️",
+      "url": "http://alexgkendall.com/computer_vision/have_we_forgotten_about_geometry_in_computer_vision/",
+      "fx": 263.4587525948567,
+      "fy": -94.01509341483109,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. cs231",
+      "url": "https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA",
+      "fx": 108.95915130366654,
+      "fy": 18.07282051037521,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "course notes",
+      "url": "http://cs231n.github.io/",
+      "fx": 276.95915130366654,
+      "fy": 21.07282051037521,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "1. cs231"
+    },
+    {
+      "text": "1. computer vision: algorithms and applications",
+      "url": "http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf",
+      "fx": 108.95915130366654,
+      "fy": 58.07282051037521,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "computer vision",
+      "curve": {
+        "x": -47.6057,
+        "y": -96.4625
+      }
+    },
+    {
+      "source": "computer vision",
+      "target": "basics",
+      "curve": {
+        "x": -17.3051,
+        "y": 252.229
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -16.5891,
+        "y": -89.7226
+      }
+    },
+    {
+      "source": "basics",
+      "target": "OpenCV  ️",
+      "curve": {
+        "x": -1.36584,
+        "y": 80.6459
+      }
+    },
+    {
+      "source": "basics",
+      "target": "facial recognition  ️",
+      "curve": {
+        "x": 94.892,
+        "y": 79.8432
+      }
+    },
+    {
+      "source": "basics",
+      "target": "augmented reality  ️",
+      "curve": {
+        "x": -108.408,
+        "y": 80.7597
+      }
+    },
+    {
+      "source": "basics",
+      "target": "optical character recognition  ️",
+      "curve": {
+        "x": -263.811,
+        "y": 80.0767
+      }
+    }
+  ]
+}

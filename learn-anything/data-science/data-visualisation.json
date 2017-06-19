@@ -1,0 +1,176 @@
+{
+  "title": "learn anything - data science - data visualisation",
+  "nodes": [
+    {
+      "text": "data visualisation",
+      "url": "http://www.wikiwand.com/en/Data_visualization",
+      "note": "",
+      "fx": -113.97910928726196,
+      "fy": -283.92137908935547,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 95.79764996404242,
+      "fy": -178.3370935191279
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -227.81530230978285,
+      "fy": 23.80358355978376
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 205.60982878311825,
+      "fy": 55.95081994844509
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 293.48255787725043,
+      "fy": 201.98485532014286
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 316.70788484894933,
+      "fy": 302.53299015532855
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome charting",
+      "url": "https://github.com/zingchart/awesome-charting",
+      "fx": 232.79764996404242,
+      "fy": -217.8370935191279,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome data visualisation resources",
+      "url": "https://github.com/fasouto/awesome-dataviz",
+      "fx": 232.79764996404242,
+      "fy": -177.8370935191279,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "notes on data visualisation  ️",
+      "url": "http://frnsys.com/ai_notes/in_practice/visualization.html",
+      "fx": 232.79764996404242,
+      "fy": -115.8370935191279,
+      "category": "article",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. visual encoding  ️",
+      "url": "https://www.targetprocess.com/articles/visual-encoding/",
+      "fx": -71.81530230978285,
+      "fy": 4.30358355978376,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. up and down the ladder of abstraction  ️",
+      "url": "http://worrydream.com/LadderOfAbstraction/",
+      "fx": -71.81530230978285,
+      "fy": 44.30358355978376,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "how Google uses white space  ️",
+      "url": "http://us1.campaign-archive2.com/?u=836dc9c64862f158af8a31e20&amp;id=fdcffdbf91",
+      "fx": 367.60982878311825,
+      "fy": 16.450819948445087,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "14: misleading with statistics  ️",
+      "url": "https://medium.com/i-data/misleading-with-statistics-c63780efa928",
+      "fx": 367.60982878311825,
+      "fy": 56.45081994844509,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: what i learned recreating one chart using 24 tools  ️",
+      "url": "https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools/",
+      "fx": 367.60982878311825,
+      "fy": 96.45081994844509,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "plotly",
+      "url": "https://plot.ly/",
+      "fx": 435.48255787725043,
+      "fy": 216.48485532014286,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "13: media for thinking the unthinkable",
+      "url": "http://worrydream.com/MediaForThinkingTheUnthinkable/",
+      "fx": 507.70788484894933,
+      "fy": 303.03299015532855,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "data visualisation",
+      "curve": {
+        "x": -68.8884,
+        "y": -51.5421
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "tools",
+      "curve": {
+        "x": -23.8626,
+        "y": -50.2741
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -61.1561,
+        "y": -117.144
+      }
+    },
+    {
+      "source": "tools",
+      "target": "articles",
+      "curve": {
+        "x": -38.9364,
+        "y": -73.017
+      }
+    },
+    {
+      "source": "data visualisation",
+      "target": "basics",
+      "curve": {
+        "x": -94.6681,
+        "y": 152.612
+      }
+    }
+  ]
+}

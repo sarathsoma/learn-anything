@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - calculus - series - geometric series",
+  "nodes": [
+    {
+      "text": "geometric series",
+      "url": "http://www.wikiwand.com/en/Geometric_series",
+      "fx": 29.851564407348633,
+      "fy": -151.85860550403595,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 85.45703125,
+      "fy": 28
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. geometric series and the test for divergence",
+      "url": "https://www.youtube.com/watch?v=xjmy5hkZccY",
+      "fx": 241.45703125,
+      "fy": 28.5,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "geometric series",
+      "target": "basics",
+      "curve": {
+        "x": -2.19727,
+        "y": 88.6793
+      }
+    }
+  ]
+}

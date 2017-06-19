@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - chemistry - chemical elements",
+  "nodes": [
+    {
+      "text": "chemical elements",
+      "url": "http://www.wikiwand.com/en/Chemical_element",
+      "note": "",
+      "fx": -79.078125,
+      "fy": -163.4453125,
+      "category": "wiki"
+    },
+    {
+      "text": "periodic table",
+      "url": "http://www.wikiwand.com/en/Periodic_table",
+      "fx": 96.48828125,
+      "fy": -38.0546875,
+      "category": "wiki"
+    },
+    {
+      "text": "hydrogen  ️",
+      "url": "/id/aMsMwFy4YazHcezzUZnYzrqBTENfzce5Uj4p5wPc",
+      "note": "hydrogen is the lightest element on the periodic table",
+      "fx": -203.82574584803115,
+      "fy": 36.41957309809516,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "dynamic periodic table",
+      "url": "http://www.ptable.com/",
+      "fx": 345.48828125,
+      "fy": -24.0546875,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "periodic table"
+    }
+  ],
+  "connections": [
+    {
+      "source": "chemical elements",
+      "target": "periodic table",
+      "curve": {
+        "x": 69.0332,
+        "y": 61.4453
+      }
+    },
+    {
+      "source": "chemical elements",
+      "target": "hydrogen  ️",
+      "curve": {
+        "x": -89.6238,
+        "y": 99.9329
+      }
+    }
+  ]
+}

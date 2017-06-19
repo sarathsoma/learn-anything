@@ -1,0 +1,81 @@
+{
+  "title": "learn anything - machine learning - neural networks - recurrent neural networks",
+  "nodes": [
+    {
+      "text": "recurrent neural networks",
+      "url": "http://www.wikiwand.com/en/Recurrent_neural_network",
+      "fx": -40.26953125,
+      "fy": -179.82421875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 179.896484375,
+      "fy": -49.86328125
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 67.95703125,
+      "fy": 70.40234375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "16: recurrent highway networks",
+      "url": "https://arxiv.org/abs/1607.03474",
+      "fx": 316.896484375,
+      "fy": -89.36328125,
+      "category": "paper",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "16: on multiplicative integration with recurrent neural networks",
+      "url": "https://arxiv.org/abs/1606.06630",
+      "fx": 316.896484375,
+      "fy": -49.36328125,
+      "category": "paper",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "RRN from scratch",
+      "url": "https://github.com/pangolulu/rnn-from-scratch",
+      "fx": 316.896484375,
+      "fy": 12.63671875,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. a short TensorFlow tutorial",
+      "url": "https://github.com/silicon-valley-data-science/RNN-Tutorial",
+      "fx": 249.95703125,
+      "fy": 81.90234375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "recurrent neural networks",
+      "curve": {
+        "x": -55.083,
+        "y": -63.7305
+      }
+    },
+    {
+      "source": "recurrent neural networks",
+      "target": "basics",
+      "curve": {
+        "x": -2.63672,
+        "y": 123.863
+      }
+    }
+  ]
+}

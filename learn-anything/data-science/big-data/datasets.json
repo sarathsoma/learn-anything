@@ -1,0 +1,50 @@
+{
+  "title": "learn anything - data science - big data - datasets",
+  "nodes": [
+    {
+      "text": "data sets",
+      "url": "http://www.wikiwand.com/en/Data_set",
+      "note": "",
+      "fx": -81.33986562490463,
+      "fy": -165.75131607055664,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome public data sets",
+      "url": "https://github.com/caesar0301/awesome-public-datasets",
+      "fx": 155.66013437509537,
+      "fy": -205.75131607055664,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "data sets"
+    },
+    {
+      "text": "awesome json datasets",
+      "url": "https://github.com/jdorfman/awesome-json-datasets",
+      "fx": 155.66013437509537,
+      "fy": -165.75131607055664,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "data sets"
+    },
+    {
+      "text": "statistical computing datasets",
+      "url": "http://stat-computing.org/dataexpo/2009/the-data.html",
+      "fx": 155.66013437509537,
+      "fy": -125.75131607055664,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "data sets"
+    },
+    {
+      "text": "open source datasets",
+      "url": "https://deepmind.com/research/open-source/open-source-datasets/",
+      "fx": 155.66013437509537,
+      "fy": -91.75131607055664,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "data sets"
+    }
+  ],
+  "connections": []
+}

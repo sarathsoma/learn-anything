@@ -1,0 +1,84 @@
+{
+  "title": "learn anything - data science - data processing",
+  "nodes": [
+    {
+      "text": "data processing",
+      "url": "http://www.wikiwand.com/en/Data_processing",
+      "fx": 479.32421875,
+      "fy": -278.58984375,
+      "category": "wiki"
+    },
+    {
+      "text": "apache spark  ️",
+      "url": "/id/qpFqeRNNuHbMoBiUjM4rcpKCHLphefKbJpxH4YZc",
+      "fx": 163.68049337403033,
+      "fy": -200.78542093454575,
+      "category": "mindmap"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 722.46484375,
+      "fy": -154.2421875
+    },
+    {
+      "text": "MapReduce  ️",
+      "url": "/id/txEzbeTzzxpnRFezDLs7fB5z3iK2SquyhoCsDpmk",
+      "fx": 301.5877386412617,
+      "fy": -81.7757315771953,
+      "category": "mindmap"
+    },
+    {
+      "text": "apache hadoop  ️",
+      "url": "/id/XfVM3yn1aEw6Pyd1VzLUPsJ99aepedVLHbnhRzrZ",
+      "fx": 503.5570714966809,
+      "fy": 3.887847122204448,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome streaming",
+      "url": "https://github.com/manuzhang/awesome-streaming",
+      "fx": 859.46484375,
+      "fy": -142.7421875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "data processing",
+      "target": "MapReduce  ️",
+      "curve": {
+        "x": -97.368,
+        "y": 98.4069
+      }
+    },
+    {
+      "source": "data processing",
+      "target": "apache spark  ️",
+      "curve": {
+        "x": -163.321,
+        "y": 38.9023
+      }
+    },
+    {
+      "source": "data processing",
+      "target": "apache hadoop  ️",
+      "curve": {
+        "x": 11.6165,
+        "y": 141.238
+      }
+    },
+    {
+      "source": "help",
+      "target": "data processing",
+      "curve": {
+        "x": -87.8203,
+        "y": -60.9238
+      }
+    }
+  ]
+}

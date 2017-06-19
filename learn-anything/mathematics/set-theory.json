@@ -1,0 +1,79 @@
+{
+  "title": "learn anything - mathematics - set theory",
+  "nodes": [
+    {
+      "text": "set theory",
+      "url": "http://www.wikiwand.com/en/Set_theory",
+      "fx": -123.77734375,
+      "fy": -224.98046875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -97.5078125,
+      "fy": -98.98828125
+    },
+    {
+      "text": "naive set theory  ️",
+      "url": "/id/WxzyCtupbmwD3HJZS2yykWeHBxar6TUConTpUpNo",
+      "fx": -64.78472858626935,
+      "fy": 50.08301595473233,
+      "category": "mindmap"
+    },
+    {
+      "text": "binary relation  ️",
+      "url": "/id/vPbxSa5ZmuU5JTZrxJoZHADiVxpK7Ynrut4P2iyf",
+      "fx": -297.96994710440583,
+      "fy": 50.68891987230643,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. naive set theory",
+      "url": "https://www.goodreads.com/book/show/558194.Naive_Set_Theory",
+      "fx": 84.4921875,
+      "fy": -118.48828125,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. set theory and foundations of mathematics",
+      "url": "http://www.settheory.net/",
+      "fx": 84.4921875,
+      "fy": -78.48828125,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "set theory",
+      "target": "basics",
+      "curve": {
+        "x": -2.11523,
+        "y": 61.746
+      }
+    },
+    {
+      "source": "basics",
+      "target": "naive set theory  ️",
+      "curve": {
+        "x": 38.1116,
+        "y": 75.7857
+      }
+    },
+    {
+      "source": "basics",
+      "target": "binary relation  ️",
+      "curve": {
+        "x": -89.7311,
+        "y": 74.8386
+      }
+    }
+  ]
+}

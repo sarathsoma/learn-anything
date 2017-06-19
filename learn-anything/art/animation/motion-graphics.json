@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - art - animation - motion graphics",
+  "nodes": [
+    {
+      "text": "motion graphics",
+      "url": "http://www.wikiwand.com/en/Motion_graphics",
+      "fx": 35.9765625,
+      "fy": -127.28125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 96.96706476751353,
+      "fy": 18.40757474359475
+    },
+    {
+      "text": "adobe after effects  ️",
+      "url": "/id/bZyryqhqS3DBhgp3M7C6xsW6sZ6nYU6wnqqqyK78",
+      "fx": -122.54075766509447,
+      "fy": 161.22302476413125,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is motion graphics",
+      "url": "https://www.youtube.com/watch?v=4G2NmyFqypg",
+      "fx": 252.96706476751353,
+      "fy": 29.90757474359475,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "motion graphics",
+      "target": "basics",
+      "curve": {
+        "x": 1.24525,
+        "y": 71.5944
+      }
+    },
+    {
+      "source": "basics",
+      "target": "adobe after effects  ️",
+      "curve": {
+        "x": -82.0039,
+        "y": 71.4077
+      }
+    }
+  ]
+}

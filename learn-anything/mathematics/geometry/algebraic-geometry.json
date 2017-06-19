@@ -1,0 +1,81 @@
+{
+  "title": "learn anything - mathematics - geometry - algebraic geometry",
+  "nodes": [
+    {
+      "text": "algebraic geometry",
+      "url": "http://www.wikiwand.com/en/Algebraic_geometry",
+      "fx": -53.2890625,
+      "fy": -427.68359375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 134.05678013393003,
+      "fy": -297.47919488194356
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 5.428776023093292,
+      "fy": -129.7615658406463
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "why is algebraic geometry so versatile?",
+      "url": "https://www.reddit.com/r/math/comments/r519l/why_is_modernalgebraic_geometry_so_versatile/c42y5bt/",
+      "fx": 271.05678013393003,
+      "fy": -296.97919488194356,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. the rising sea: foundations of algebraic geometry notes",
+      "url": "http://math.stanford.edu/%7Evakil/216blog/",
+      "fx": 187.4287760230933,
+      "fy": -191.2615658406463,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to algebraic geometry",
+      "url": "http://math.stanford.edu/%7Evakil/725/course.html",
+      "fx": 187.4287760230933,
+      "fy": -129.2615658406463,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. an introduction to algebraic geometry",
+      "url": "http://www.math.lsa.umich.edu/%7Ewfulton/CurveBook.pdf",
+      "fx": 187.4287760230933,
+      "fy": -67.26156584064631,
+      "category": "free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "algebraic geometry",
+      "curve": {
+        "x": -52.9229,
+        "y": -63.8522
+      }
+    },
+    {
+      "source": "algebraic geometry",
+      "target": "basics",
+      "curve": {
+        "x": -6.64108,
+        "y": 147.711
+      }
+    }
+  ]
+}

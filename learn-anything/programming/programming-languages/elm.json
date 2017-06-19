@@ -1,0 +1,127 @@
+{
+  "title": "learn anything - programming - programming languages - elm",
+  "nodes": [
+    {
+      "text": "elm",
+      "url": "http://www.wikiwand.com/en/Elm_(programming_language)",
+      "fx": -158.22265625,
+      "fy": -353.81640625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -63.7109375,
+      "fy": -256.0390625
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 2.119958012115603,
+      "fy": -135.77417745044193
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 118.04738640069809,
+      "fy": -15.880352021155204
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -151.00211784638554,
+      "fy": 108.52164909638543
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome elm",
+      "url": "https://github.com/isRuslan/awesome-elm",
+      "fx": 73.2890625,
+      "fy": -264.5390625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elm cheat sheet",
+      "url": "https://github.com/izdi/elm-cheat-sheet",
+      "fx": 73.2890625,
+      "fy": -224.5390625,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "compilers as assistants  ️",
+      "url": "http://elm-lang.org/blog/compilers-as-assistants",
+      "fx": 164.1199580121156,
+      "fy": -124.27417745044193,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: code is the easy part",
+      "url": "https://www.youtube.com/watch?v=DSjbTC-hvqQ&amp;feature=youtu.be",
+      "fx": 258.0473864006981,
+      "fy": -4.380352021155204,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "1. why elm?",
+      "url": "http://www.oreilly.com/web-platform/free/files/why-elm.pdf",
+      "fx": 30.997882153614455,
+      "fy": 89.02164909638543,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. functional programming in elm",
+      "url": "https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/Home.html",
+      "fx": 30.997882153614455,
+      "fy": 129.02164909638543,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "elm",
+      "target": "basics",
+      "curve": {
+        "x": 2.61027,
+        "y": 229.919
+      }
+    },
+    {
+      "source": "help",
+      "target": "elm",
+      "curve": {
+        "x": -41.5059,
+        "y": -47.6387
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -39.1655,
+        "y": -60.1325
+      }
+    },
+    {
+      "source": "talks",
+      "target": "articles",
+      "curve": {
+        "x": -52.4637,
+        "y": -59.9469
+      }
+    }
+  ]
+}

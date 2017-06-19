@@ -1,0 +1,146 @@
+{
+  "title": "learn anything - natural language processing",
+  "nodes": [
+    {
+      "text": "natural language processing",
+      "url": "http://www.wikiwand.com/en/Natural_language_processing",
+      "fx": -106.87888397510324,
+      "fy": -306.8074902630834,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 95.09252884352065,
+      "fy": -174.55207688084153
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -64.42652311793688,
+      "fy": -8.862304693235615
+    },
+    {
+      "text": "sentiment analysis  ️",
+      "url": "/id/BTNhqptfyxynrT4NFoaLAysgHnkKgpC98YGuKqRA",
+      "fx": -14.552920181138916,
+      "fy": 143.66764899059729,
+      "category": "mindmap"
+    },
+    {
+      "text": "text classification  ️",
+      "url": "/id/4sxtVyAoAMHrk4SJR33ZTLXsWYpuH5zqe7x97Dq6",
+      "fx": -250.25875689252473,
+      "fy": 146.8601072029977,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "practical natural language processing done in ruby",
+      "url": "https://github.com/arbox/nlp-with-ruby",
+      "fx": 232.09252884352065,
+      "fy": -214.05207688084153,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome nlp",
+      "url": "https://github.com/keon/awesome-nlp",
+      "fx": 232.09252884352065,
+      "fy": -152.05207688084153,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "speech language processing",
+      "url": "https://github.com/edobashira/speech-language-processing",
+      "fx": 232.09252884352065,
+      "fy": -112.05207688084153,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. notes on NLP  ️",
+      "url": "http://frnsys.com/ai_notes/machine_learning/natural_language_processing.html",
+      "fx": 117.57347688206312,
+      "fy": -48.362304693235615,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. natural language processing with deep learning by stanford",
+      "url": "http://web.stanford.edu/class/cs224n/",
+      "fx": 117.57347688206312,
+      "fy": -8.362304693235615,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "course notes",
+      "url": "https://github.com/stanfordnlp/cs224n-winter17-notes",
+      "fx": 479.5734768820631,
+      "fy": 5.637695306764385,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "1. natural language processing with deep learning by stanford"
+    },
+    {
+      "text": "2. oxford deep nlp",
+      "url": "https://github.com/oxford-cs-deepnlp-2017/lectures",
+      "fx": 117.57347688206312,
+      "fy": 53.637695306764385,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "solutions",
+      "url": "https://github.com/mleue/oxford-deep-nlp-2017-solutions",
+      "fx": 364.5734768820631,
+      "fy": 53.637695306764385,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "2. oxford deep nlp"
+    }
+  ],
+  "connections": [
+    {
+      "source": "natural language processing",
+      "target": "basics",
+      "curve": {
+        "x": -32.5239,
+        "y": 148.972
+      }
+    },
+    {
+      "source": "help",
+      "target": "natural language processing",
+      "curve": {
+        "x": -41.7357,
+        "y": -66.1277
+      }
+    },
+    {
+      "source": "basics",
+      "target": "sentiment analysis  ️",
+      "curve": {
+        "x": 58.9368,
+        "y": 77.515
+      }
+    },
+    {
+      "source": "basics",
+      "target": "text classification  ️",
+      "curve": {
+        "x": -75.4161,
+        "y": 77.8612
+      }
+    }
+  ]
+}

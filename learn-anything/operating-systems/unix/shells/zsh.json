@@ -1,0 +1,79 @@
+{
+  "title": "learn anything - operating systems - unix - shells - zsh",
+  "nodes": [
+    {
+      "text": "zsh",
+      "url": "http://www.wikiwand.com/en/Z_shell",
+      "fx": -83.9453125,
+      "fy": -304.1171875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -14.758565304735498,
+      "fy": -197.9074615675258
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -101.86219156514551,
+      "fy": -84.50992913603125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "zsh keybindings",
+      "url": "http://zshwiki.org/home/zle/bindkeys",
+      "fx": 122.2414346952645,
+      "fy": -220.4074615675258,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "why zsh is better than other shells",
+      "url": "https://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692",
+      "fx": 122.2414346952645,
+      "fy": -186.4074615675258,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome zsh plugins",
+      "url": "https://github.com/unixorn/awesome-zsh-plugins",
+      "fx": 122.2414346952645,
+      "fy": -152.4074615675258,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. user’s guide to the z-shell",
+      "url": "http://zsh.sourceforge.net/Guide/zshguide01.html#l1",
+      "fx": 80.13780843485449,
+      "fy": -73.00992913603125,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "zsh",
+      "curve": {
+        "x": -29.3434,
+        "y": -51.8549
+      }
+    },
+    {
+      "source": "zsh",
+      "target": "basics",
+      "curve": {
+        "x": -9.45844,
+        "y": 108.554
+      }
+    }
+  ]
+}

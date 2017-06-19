@@ -1,0 +1,210 @@
+{
+  "title": "learn anything - computer science - compilers",
+  "nodes": [
+    {
+      "text": "compilers",
+      "url": "http://www.wikiwand.com/en/Compiler",
+      "fx": 34.52644348144531,
+      "fy": -470.73118591308594,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 149.39033889770508,
+      "fy": -350.02171341044794
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 199.13824091661695,
+      "fy": -167.59562150583986
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 29.040971487160505,
+      "fy": -17.5406407253854
+    },
+    {
+      "text": "interpreter  ️",
+      "url": "/id/Rbip5ygSsq7U54zGf5ssb17z46y7Psenyz3FzHbD",
+      "fx": -286.8405788745388,
+      "fy": 78.37436577490769,
+      "category": "mindmap"
+    },
+    {
+      "text": "intermediate representation",
+      "url": "http://www.wikiwand.com/en/Intermediate_representation",
+      "fx": 124.3019640139255,
+      "fy": 175.58849409452841,
+      "category": "wiki"
+    },
+    {
+      "text": "just-in-time compilation  ️",
+      "url": "/id/yYnKJT1xwgtab3TsHmdsivW18s6xUcisxKqQh6PE",
+      "fx": -298.4220222299869,
+      "fy": 215.03276075376868,
+      "category": "mindmap"
+    },
+    {
+      "text": "LLVM  ️",
+      "url": "/id/sQuPeeiDsBpGJDCz4mFg25iP2zBzo2GxhzjkCTBJ",
+      "note": "is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  this new IR can then be converted and linked into machine-dependent assembly language code for a target platform",
+      "fx": -4.913332025432396,
+      "fy": 264.7920765143971,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "resources for amateur compiler writers",
+      "url": "http://c9x.me/compile/bib/",
+      "fx": 286.3903388977051,
+      "fy": -406.52171341044794,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "super tiny compiler",
+      "url": "https://github.com/thejameskyle/the-super-tiny-compiler",
+      "fx": 286.3903388977051,
+      "fy": -350.52171341044794,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome compilers",
+      "url": "https://github.com/aalhour/awesome-compilers",
+      "fx": 286.3903388977051,
+      "fy": -310.52171341044794,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "wcc",
+      "url": "https://github.com/endrazine/wcc",
+      "note": "witchcraft compiler collection",
+      "fx": 286.3903388977051,
+      "fy": -270.52171341044794,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: writing my first compiler  ️",
+      "url": "https://dev.to/fcpauldiaz/writing-my-first-compiler",
+      "fx": 361.13824091661695,
+      "fy": -187.09562150583986,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: compiler design sprint summary  ️",
+      "url": "http://smallcultfollowing.com/babysteps/blog/2017/02/12/compiler-design-sprint-summary/",
+      "fx": 361.13824091661695,
+      "fy": -147.09562150583986,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. let’s build a compiler",
+      "url": "http://compilers.iecc.com/crenshaw/",
+      "fx": 211.0409714871605,
+      "fy": -66.0406407253854,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. static single assignment book",
+      "url": "http://ssabook.gforge.inria.fr/latest/book.pdf",
+      "fx": 211.0409714871605,
+      "fy": -26.0406407253854,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1 let’s build a simple interpreter  ️",
+      "url": "https://ruslanspivak.com/lsbasi-part1/",
+      "fx": 211.0409714871605,
+      "fy": 13.959359274614599,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. growing a compiler",
+      "url": "http://www.cs.dartmouth.edu/%7Emckeeman/cs48/mxcom/gem/html/GrowingCompiler.html",
+      "fx": 211.0409714871605,
+      "fy": 53.9593592746146,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "compilers",
+      "target": "basics",
+      "curve": {
+        "x": -17.4928,
+        "y": 225.346
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -31.1239,
+        "y": -91.213
+      }
+    },
+    {
+      "source": "help",
+      "target": "compilers",
+      "curve": {
+        "x": -43.932,
+        "y": -60.3548
+      }
+    },
+    {
+      "source": "basics",
+      "target": "intermediate representation",
+      "curve": {
+        "x": 101.88,
+        "y": 97.8146
+      }
+    },
+    {
+      "source": "basics",
+      "target": "LLVM  ️",
+      "curve": {
+        "x": -25.2273,
+        "y": 141.167
+      }
+    },
+    {
+      "source": "basics",
+      "target": "just-in-time compilation  ️",
+      "curve": {
+        "x": -131.982,
+        "y": 116.287
+      }
+    },
+    {
+      "source": "basics",
+      "target": "interpreter  ️",
+      "curve": {
+        "x": -155.941,
+        "y": 47.9575
+      }
+    }
+  ]
+}

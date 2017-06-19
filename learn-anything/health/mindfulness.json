@@ -1,0 +1,170 @@
+{
+  "title": "learn anything - health - mindfulness",
+  "nodes": [
+    {
+      "text": "mindfulness",
+      "url": "http://www.wikiwand.com/en/Mindfulness",
+      "fx": 150.8825385635779,
+      "fy": -699.5225267101424,
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 315.44727714448345,
+      "fy": -562.3323385709482
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 184.96521818084148,
+      "fy": -386.32220576752104
+    },
+    {
+      "text": "zen  ️",
+      "url": "/id/uE5NXtsrrgzDyv6h84txcgYuAzWeRfPFgeGzUcB1",
+      "fx": -389.78390560031073,
+      "fy": -241.1925242550243,
+      "category": "mindmap"
+    },
+    {
+      "text": "minimalism  ️",
+      "url": "/id/vZ3FssCtMk5Q8HjqW8Wtcr178dJ1iz2HyHQEc2kj",
+      "fx": -260.1389691891111,
+      "fy": -240.0419167154568,
+      "category": "mindmap"
+    },
+    {
+      "text": "discipline  ️",
+      "url": "/id/hy1aisDzXMPUnRuKBYdxspJdpzMyzJBVRB8gafJi",
+      "fx": 115.67623197115358,
+      "fy": -236.091796875,
+      "category": "mindmap"
+    },
+    {
+      "text": "meditation  ️",
+      "url": "/id/EWHvLZs2foxPwdafxLiQBZLRAxepeCEybvzpzGpv",
+      "fx": -66.78343874619623,
+      "fy": -234.98120056353594,
+      "category": "mindmap"
+    },
+    {
+      "text": "habits  ️",
+      "url": "/id/Gi2ZNWPkruFk1koDUfxp1RNzzsuxgXjsSqjqyF3X",
+      "fx": 279.6644113672696,
+      "fy": -234.05904557460417,
+      "category": "mindmap"
+    },
+    {
+      "text": "buddhism  ️",
+      "url": "/id/d3Fxm8vfSbYWpbZtmwWjxxwPUfxEsPs45iPGydYp",
+      "fx": -423.0101994063348,
+      "fy": -126.27058161149245,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Mindfulness/",
+      "fx": 385.8825385635779,
+      "fy": -685.5225267101424,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "mindfulness"
+    },
+    {
+      "text": "16: what it means to live a conscious life  ️",
+      "url": "https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077",
+      "fx": 477.44727714448345,
+      "fy": -561.8323385709482,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. mindfulness in plain english",
+      "url": "http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf",
+      "fx": 340.9652181808415,
+      "fy": -405.82220576752104,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. Alan Watts explains what awakening means",
+      "url": "https://www.youtube.com/watch?v=7SfZZlpfaN0",
+      "fx": 340.9652181808415,
+      "fy": -365.82220576752104,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "mindfulness",
+      "target": "basics",
+      "curve": {
+        "x": -2.70866,
+        "y": 155.35
+      }
+    },
+    {
+      "source": "basics",
+      "target": "zen  ️",
+      "curve": {
+        "x": -348.091,
+        "y": 50.0588
+      }
+    },
+    {
+      "source": "basics",
+      "target": "minimalism  ️",
+      "curve": {
+        "x": -204.552,
+        "y": 74.3902
+      }
+    },
+    {
+      "source": "basics",
+      "target": "meditation  ️",
+      "curve": {
+        "x": -109.374,
+        "y": 76.9205
+      }
+    },
+    {
+      "source": "basics",
+      "target": "discipline  ️",
+      "curve": {
+        "x": -21.1445,
+        "y": 76.3652
+      }
+    },
+    {
+      "source": "basics",
+      "target": "habits  ️",
+      "curve": {
+        "x": 88.4188,
+        "y": 72.9072
+      }
+    },
+    {
+      "source": "zen  ️",
+      "target": "buddhism  ️",
+      "curve": {
+        "x": -1.86315,
+        "y": 57.461
+      }
+    },
+    {
+      "source": "articles",
+      "target": "mindfulness",
+      "curve": {
+        "x": -64.0324,
+        "y": -67.3451
+      }
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "title": "learn anything - programming - software development - devops",
+  "nodes": [
+    {
+      "text": "DevOps",
+      "url": "http://www.wikiwand.com/en/DevOps",
+      "note": "",
+      "fx": 93.11200245543978,
+      "fy": -527.9056886602629,
+      "category": "wiki"
+    },
+    {
+      "text": "automation",
+      "url": "http://www.wikiwand.com/en/Automation",
+      "fx": -284.5695991516113,
+      "fy": -381.82447814941406,
+      "category": "wiki"
+    },
+    {
+      "text": "cloud computing",
+      "url": "http://www.wikiwand.com/en/Cloud_computing",
+      "fx": 469.9091874845742,
+      "fy": -361.3470323164386,
+      "category": "wiki"
+    },
+    {
+      "text": "CF engine",
+      "url": "https://cfengine.com/",
+      "fx": -981.1553808000104,
+      "fy": -244.47700881958008
+    },
+    {
+      "text": "aws cloud formation",
+      "url": "https://aws.amazon.com/cloudformation/",
+      "fx": -163.997631708781,
+      "fy": -244.08740116999707
+    },
+    {
+      "text": "chef  ️",
+      "url": "/id/AoWytgNd5KGWqk5w1C1h7yfUBRyXZeAkdqTwidRg",
+      "fx": -838.672754048081,
+      "fy": -246.4827607421313,
+      "category": "mindmap"
+    },
+    {
+      "text": "puppet",
+      "url": "https://puppet.com/",
+      "fx": -717.4553527832031,
+      "fy": -243.42541122436523
+    },
+    {
+      "text": "salt stack",
+      "url": "https://saltstack.com/",
+      "fx": -465.9882637472713,
+      "fy": -242.31926345825195
+    },
+    {
+      "text": "terraform  ️",
+      "url": "/id/wKsz4Z2JxPeriLwQ2LRqHpGUzzP32vphfrsT92SH",
+      "fx": -323.1434307477962,
+      "fy": -244.35545057510478,
+      "category": "mindmap"
+    },
+    {
+      "text": "ansible  ️",
+      "url": "/id/qxB5SQXpxFML8WSYfgpgs9c1zvyyu1JXGbGzSZGf",
+      "fx": -604.1152528661148,
+      "fy": -242.19105462852121,
+      "category": "mindmap"
+    },
+    {
+      "text": "google cloud  ️",
+      "url": "/id/8zzuxmxqNy2FKquKzXi6mP5itqQXBq137BBsNA3P",
+      "fx": 362.2562713623047,
+      "fy": -229.97734451293945,
+      "category": "mindmap"
+    },
+    {
+      "text": "heroku",
+      "url": "http://www.wikiwand.com/en/Heroku",
+      "fx": 223.64857482910156,
+      "fy": -228.50511932373047,
+      "category": "wiki"
+    },
+    {
+      "text": "aws  ️",
+      "url": "/id/TCxkEPQuB1ApGPDJT4RcsusD7JFkgNq4HjwAqbLj",
+      "fx": 844.2620544433594,
+      "fy": -227.86999130249023,
+      "category": "mindmap"
+    },
+    {
+      "text": "azure  ️",
+      "url": "/id/bskpRmBhBQvN6KDV83xxMPyZspkMpwtpvUykMxpZ",
+      "fx": 713.646603915251,
+      "fy": -227.74453551928536,
+      "category": "mindmap"
+    },
+    {
+      "text": "digital ocean",
+      "url": "https://www.digitalocean.com/",
+      "fx": 554.3861236572266,
+      "fy": -224.39419174194336
+    },
+    {
+      "text": "firebase  ️",
+      "url": "/id/sFtGYoLUFVQseF4XtsgJJFfvCPLqYiyDuYcW2Zi9",
+      "fx": 962.4487892670159,
+      "fy": -222.45836060209422,
+      "category": "mindmap"
+    },
+    {
+      "text": "graphite",
+      "url": "https://graphiteapp.org/",
+      "fx": -223.73705673217773,
+      "fy": -110.84214735031128
+    },
+    {
+      "text": "CI / CD",
+      "url": "http://www.wikiwand.com/en/Continuous_integration",
+      "fx": 376.5329231413284,
+      "fy": -104.10460472106934,
+      "category": "wiki"
+    },
+    {
+      "text": "zabbix",
+      "url": "http://www.wikiwand.com/en/Zabbix",
+      "fx": -381.24463272094727,
+      "fy": -89.71865463256836,
+      "category": "wiki"
+    },
+    {
+      "text": "jenkins  ️",
+      "url": "/id/axDQvoUysMdBJypPBNBCnbWLLKbcFockAkEprwzm",
+      "fx": 595.3763737151935,
+      "fy": -24.57284106136001,
+      "category": "mindmap"
+    },
+    {
+      "text": "prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "fx": -466.66304779052734,
+      "fy": -13.450712203979492,
+      "category": "github"
+    },
+    {
+      "text": "monitoring and alterting",
+      "url": "",
+      "fx": -238.62429110544804,
+      "fy": -5.9392977048895546
+    },
+    {
+      "text": "travis",
+      "url": "https://travis-ci.org/",
+      "fx": 597.726414444423,
+      "fy": 53.61930881160322
+    },
+    {
+      "text": "PagerDuty",
+      "url": "https://www.pagerduty.com/",
+      "fx": -410.7095031738281,
+      "fy": 69.44459152221691
+    },
+    {
+      "text": "nagios",
+      "url": "https://www.nagios.org/",
+      "fx": -174.3193359375,
+      "fy": 119.85421562194824
+    },
+    {
+      "text": "TeamCity",
+      "url": "https://www.jetbrains.com/teamcity/",
+      "fx": 579.8044631504777,
+      "fy": 127.70338855403486
+    },
+    {
+      "text": "AppDynamics",
+      "url": "https://www.appdynamics.com/",
+      "fx": -365.67039489746094,
+      "fy": 153.90050888061523
+    },
+    {
+      "text": "drone",
+      "url": "https://github.com/drone/drone",
+      "fx": 583.366925003505,
+      "fy": 191.89417110103193,
+      "category": "github"
+    },
+    {
+      "text": "kubernetes  ️",
+      "url": "/id/qD6Dva6VnUKLM1xg3tisnTznnXkBgpYd8nfyjGkn",
+      "fx": -396.9776004500659,
+      "fy": 242.03830423878708,
+      "category": "mindmap"
+    },
+    {
+      "text": "bamboo",
+      "url": "https://www.atlassian.com/software/bamboo",
+      "fx": 584.7851150059464,
+      "fy": 276.57107577937666
+    },
+    {
+      "text": "cluster managers",
+      "url": "",
+      "fx": -148.88062650347524,
+      "fy": 280.8275152304316
+    },
+    {
+      "text": "mesosphere",
+      "url": "https://mesosphere.com/",
+      "fx": -402.0727896859373,
+      "fy": 326.5255212155496
+    },
+    {
+      "text": "containers",
+      "url": "http://www.wikiwand.com/en/Operating-system-level_virtualization",
+      "fx": 321.6015498883287,
+      "fy": 375.6640793155217,
+      "category": "wiki"
+    },
+    {
+      "text": "nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "fx": -47.70550471789193,
+      "fy": 381.6456756591797,
+      "category": "github"
+    },
+    {
+      "text": "docker  ️",
+      "url": "/id/mckfV3fnWaJJirpCTcieUhRdyMT3TuLHq6RY54Gs",
+      "fx": 552.959164156772,
+      "fy": 385.8920841028196,
+      "category": "mindmap"
+    },
+    {
+      "text": "mesos",
+      "url": "http://www.wikiwand.com/en/Apache_Mesos",
+      "fx": -399.17260930309544,
+      "fy": 418.82420955292196,
+      "category": "wiki"
+    },
+    {
+      "text": "docker swarm  ️",
+      "url": "/id/XwWBqZU1TBDj3dG88xaBbzwY1TU99cKxsmBVskuY",
+      "fx": -240.1556029215044,
+      "fy": 457.5330506034661,
+      "category": "mindmap"
+    },
+    {
+      "text": "LXC",
+      "url": "http://www.wikiwand.com/en/LXC",
+      "fx": 552.6964824076406,
+      "fy": 458.9653127269512,
+      "category": "wiki"
+    },
+    {
+      "text": "rkt",
+      "url": "https://github.com/rkt/rkt",
+      "fx": 538.5816006802095,
+      "fy": 529.5095615198118,
+      "category": "github"
+    },
+    {
+      "text": "bash  ️",
+      "url": "/id/gvKrazbC3joUVUJ6oTpyxHrKtZDsifk28UYyJdq8",
+      "fx": -178.05763097731028,
+      "fy": 597.9215131954311,
+      "category": "mindmap"
+    },
+    {
+      "text": "terminal",
+      "url": "",
+      "fx": -0.9114483622131502,
+      "fy": 610.3327363874996
+    },
+    {
+      "text": "nginx  ️",
+      "url": "/id/vgUdobqCgPAzpNFwxi779aqRiqcHTXcgmrskyQqd",
+      "fx": 590.2988845250136,
+      "fy": 642.1998919809109,
+      "category": "mindmap"
+    },
+    {
+      "text": "web servers",
+      "url": "http://www.wikiwand.com/en/Web_server",
+      "fx": 281.9188707801286,
+      "fy": 657.2016358793644,
+      "category": "wiki"
+    },
+    {
+      "text": "vim  ️",
+      "url": "/id/onsumXxs7xywXeQxDHEJxfM8pQ5YNxmfzfxQc74T",
+      "fx": -154.80623745430148,
+      "fy": 695.5969572835131,
+      "category": "mindmap"
+    },
+    {
+      "text": "IIS",
+      "url": "http://www.wikiwand.com/en/Internet_Information_Services",
+      "fx": 602.1868356230036,
+      "fy": 708.3254766334601,
+      "category": "wiki"
+    },
+    {
+      "text": "cli  ️",
+      "url": "/id/XcsEDRdzwdo86zsfaQVmFR2pmXCXhkSvyqpynY97",
+      "fx": -10.649147987365723,
+      "fy": 730.9196624755859,
+      "category": "mindmap"
+    },
+    {
+      "text": "caddy",
+      "url": "http://www.wikiwand.com/en/Caddy_(web_server)",
+      "fx": 586.2779229643122,
+      "fy": 774.4036626686163,
+      "category": "wiki"
+    },
+    {
+      "text": "tomcat",
+      "url": "http://www.wikiwand.com/en/Apache_Tomcat",
+      "fx": 584.6214440824763,
+      "fy": 840.5029821266241,
+      "category": "wiki"
+    },
+    {
+      "text": "apache",
+      "url": "http://www.wikiwand.com/en/Apache_HTTP_Server",
+      "fx": 568.3938094517714,
+      "fy": 921.5729886477486,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/devops/",
+      "fx": 319.1120024554398,
+      "fy": -533.9056886602629,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "DevOps"
+    },
+    {
+      "text": "️",
+      "url": "https://devops.stackexchange.com/",
+      "fx": 319.1120024554398,
+      "fy": -493.90568866026285,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "DevOps"
+    },
+    {
+      "text": "awesome ciandcd",
+      "url": "https://github.com/ciandcd/awesome-ciandcd",
+      "fx": 571.5329231413284,
+      "fy": -90.10460472106934,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "CI / CD"
+    }
+  ],
+  "connections": [
+    {
+      "source": "DevOps",
+      "target": "automation",
+      "curve": {
+        "x": -188.841,
+        "y": 71.7906
+      }
+    },
+    {
+      "source": "automation",
+      "target": "CF engine",
+      "curve": {
+        "x": -517.773,
+        "y": 59.0331
+      }
+    },
+    {
+      "source": "automation",
+      "target": "chef  ️",
+      "curve": {
+        "x": -453.565,
+        "y": 78.6508
+      }
+    },
+    {
+      "source": "automation",
+      "target": "puppet",
+      "curve": {
+        "x": -360.49,
+        "y": 79.0712
+      }
+    },
+    {
+      "source": "automation",
+      "target": "ansible  ️",
+      "curve": {
+        "x": -267.054,
+        "y": 79.6448
+      }
+    },
+    {
+      "source": "automation",
+      "target": "salt stack",
+      "curve": {
+        "x": -101.959,
+        "y": 68.5026
+      }
+    },
+    {
+      "source": "automation",
+      "target": "terraform  ️",
+      "curve": {
+        "x": -31.2869,
+        "y": 67.4845
+      }
+    },
+    {
+      "source": "automation",
+      "target": "aws cloud formation",
+      "curve": {
+        "x": 73.536,
+        "y": 67.6185
+      }
+    },
+    {
+      "source": "DevOps",
+      "target": "cloud computing",
+      "curve": {
+        "x": 168.899,
+        "y": 82.0293
+      }
+    },
+    {
+      "source": "cloud computing",
+      "target": "heroku",
+      "curve": {
+        "x": -160.8,
+        "y": 61.6403
+      }
+    },
+    {
+      "source": "cloud computing",
+      "target": "google cloud  ️",
+      "curve": {
+        "x": -54.3416,
+        "y": 65.6848
+      }
+    },
+    {
+      "source": "cloud computing",
+      "target": "digital ocean",
+      "curve": {
+        "x": 58.2385,
+        "y": 68.4765
+      }
+    },
+    {
+      "source": "cloud computing",
+      "target": "azure  ️",
+      "curve": {
+        "x": 121.868,
+        "y": 66.8012
+      }
+    },
+    {
+      "source": "cloud computing",
+      "target": "aws  ️",
+      "curve": {
+        "x": 212.62,
+        "y": 56.082
+      }
+    },
+    {
+      "source": "DevOps",
+      "target": "CI / CD",
+      "curve": {
+        "x": 45.221,
+        "y": 316.809
+      }
+    },
+    {
+      "source": "CI / CD",
+      "target": "jenkins  ️",
+      "curve": {
+        "x": 100.672,
+        "y": 38.5159
+      }
+    },
+    {
+      "source": "CI / CD",
+      "target": "travis",
+      "curve": {
+        "x": 98.347,
+        "y": 77.6119
+      }
+    },
+    {
+      "source": "CI / CD",
+      "target": "TeamCity",
+      "curve": {
+        "x": 98.386,
+        "y": 114.654
+      }
+    },
+    {
+      "source": "CI / CD",
+      "target": "drone",
+      "curve": {
+        "x": 82.2451,
+        "y": 159.046
+      }
+    },
+    {
+      "source": "CI / CD",
+      "target": "bamboo",
+      "curve": {
+        "x": 70.4113,
+        "y": 206.428
+      }
+    },
+    {
+      "source": "DevOps",
+      "target": "monitoring and alterting",
+      "curve": {
+        "x": -118.321,
+        "y": 355.886
+      }
+    },
+    {
+      "source": "monitoring and alterting",
+      "target": "graphite",
+      "curve": {
+        "x": -27.5564,
+        "y": -52.4514
+      }
+    },
+    {
+      "source": "monitoring and alterting",
+      "target": "zabbix",
+      "curve": {
+        "x": -110.06,
+        "y": -41.8897
+      }
+    },
+    {
+      "source": "monitoring and alterting",
+      "target": "prometheus",
+      "curve": {
+        "x": -140.269,
+        "y": -3.75571
+      }
+    },
+    {
+      "source": "monitoring and alterting",
+      "target": "PagerDuty",
+      "curve": {
+        "x": -115.793,
+        "y": 37.6919
+      }
+    },
+    {
+      "source": "monitoring and alterting",
+      "target": "AppDynamics",
+      "curve": {
+        "x": -85.5231,
+        "y": 79.9199
+      }
+    },
+    {
+      "source": "monitoring and alterting",
+      "target": "nagios",
+      "curve": {
+        "x": -6.34752,
+        "y": 62.8968
+      }
+    },
+    {
+      "source": "DevOps",
+      "target": "containers",
+      "curve": {
+        "x": 41.5612,
+        "y": 547.941
+      }
+    },
+    {
+      "source": "containers",
+      "target": "docker  ️",
+      "curve": {
+        "x": 107.929,
+        "y": 5.114
+      }
+    },
+    {
+      "source": "containers",
+      "target": "LXC",
+      "curve": {
+        "x": 108.797,
+        "y": 42.9006
+      }
+    },
+    {
+      "source": "containers",
+      "target": "rkt",
+      "curve": {
+        "x": 98.24,
+        "y": 78.1727
+      }
+    },
+    {
+      "source": "DevOps",
+      "target": "web servers",
+      "curve": {
+        "x": 16.0206,
+        "y": 749.249
+      }
+    },
+    {
+      "source": "web servers",
+      "target": "nginx  ️",
+      "curve": {
+        "x": 131.69,
+        "y": -8.75087
+      }
+    },
+    {
+      "source": "web servers",
+      "target": "IIS",
+      "curve": {
+        "x": 131.134,
+        "y": 24.3119
+      }
+    },
+    {
+      "source": "web servers",
+      "target": "caddy",
+      "curve": {
+        "x": 131.43,
+        "y": 57.351
+      }
+    },
+    {
+      "source": "web servers",
+      "target": "tomcat",
+      "curve": {
+        "x": 121.26,
+        "y": 124.173
+      }
+    },
+    {
+      "source": "web servers",
+      "target": "apache",
+      "curve": {
+        "x": 119.38,
+        "y": 176.781
+      }
+    },
+    {
+      "source": "DevOps",
+      "target": "cluster managers",
+      "curve": {
+        "x": -108.95,
+        "y": 571.848
+      }
+    },
+    {
+      "source": "cluster managers",
+      "target": "kubernetes  ️",
+      "curve": {
+        "x": -137.548,
+        "y": -19.3946
+      }
+    },
+    {
+      "source": "cluster managers",
+      "target": "mesosphere",
+      "curve": {
+        "x": -137.596,
+        "y": 22.849
+      }
+    },
+    {
+      "source": "cluster managers",
+      "target": "mesos",
+      "curve": {
+        "x": -141.646,
+        "y": 70.2483
+      }
+    },
+    {
+      "source": "cluster managers",
+      "target": "docker swarm  ️",
+      "curve": {
+        "x": -52.1375,
+        "y": 88.3528
+      }
+    },
+    {
+      "source": "cluster managers",
+      "target": "nomad",
+      "curve": {
+        "x": 34.8375,
+        "y": 51.6591
+      }
+    },
+    {
+      "source": "DevOps",
+      "target": "terminal",
+      "curve": {
+        "x": -24.0051,
+        "y": 843.753
+      }
+    },
+    {
+      "source": "terminal",
+      "target": "bash  ️",
+      "curve": {
+        "x": -88.0731,
+        "y": -4.95561
+      }
+    },
+    {
+      "source": "terminal",
+      "target": "vim  ️",
+      "curve": {
+        "x": -79.9474,
+        "y": 43.8821
+      }
+    },
+    {
+      "source": "terminal",
+      "target": "cli  ️",
+      "curve": {
+        "x": -17.8689,
+        "y": 60.2935
+      }
+    },
+    {
+      "source": "cloud computing",
+      "target": "firebase  ️",
+      "curve": {
+        "x": 295.69,
+        "y": 36.3328
+      }
+    }
+  ]
+}

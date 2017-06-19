@@ -1,0 +1,112 @@
+{
+  "title": "learn anything - machine learning - machine learning libraries - keras",
+  "nodes": [
+    {
+      "text": "keras",
+      "url": "https://github.com/fchollet/keras",
+      "fx": -61.98616784676824,
+      "fy": -326.2876327614377,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 58.28193787605528,
+      "fy": -232.45381164550776
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 110.63763618469238,
+      "fy": -115.77850532531733
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -66.34582859369823,
+      "fy": 33.56083173520267
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "deep learning models",
+      "url": "https://github.com/fchollet/deep-learning-models",
+      "fx": 195.28193787605528,
+      "fy": -240.95381164550776,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "keras resources",
+      "url": "https://github.com/fchollet/keras-resources",
+      "fx": 195.28193787605528,
+      "fy": -200.95381164550776,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. building powerful image classification models using very little data  ️",
+      "url": "https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html",
+      "fx": 272.6376361846924,
+      "fy": -126.27850532531733,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. practical deep learning for coders",
+      "url": "http://course.fast.ai/index.html",
+      "fx": 115.65417140630177,
+      "fy": -13.939168264797331,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learning deep learning with keras  ️",
+      "url": "http://p.migdal.pl/2017/04/30/teaching-deep-learning.html",
+      "fx": 115.65417140630177,
+      "fy": 48.06083173520267,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. keras docs",
+      "url": "https://keras.io/",
+      "fx": 115.65417140630177,
+      "fy": 110.06083173520267,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "keras",
+      "target": "basics",
+      "curve": {
+        "x": -7.17983,
+        "y": 178.674
+      }
+    },
+    {
+      "source": "help",
+      "target": "keras",
+      "curve": {
+        "x": -50.3841,
+        "y": -45.6669
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -32.4278,
+        "y": -58.3377
+      }
+    }
+  ]
+}

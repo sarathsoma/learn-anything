@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - physics - particle physics - elementary particles - neutrino",
+  "nodes": [
+    {
+      "text": "neutrino",
+      "url": "http://www.wikiwand.com/en/Neutrino",
+      "fx": -19.382790789578166,
+      "fy": -51.04873101633109,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -1.391372096994587,
+      "fy": 78.12754012978144
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is a neutrino",
+      "url": "https://www.youtube.com/watch?v=lAAmAbJvvJg",
+      "fx": 154.6086279030054,
+      "fy": 69.62754012978144,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. why neutrinos matter",
+      "url": "https://www.youtube.com/watch?v=nkydJXigkRE",
+      "fx": 154.6086279030054,
+      "fy": 109.62754012978144,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "neutrino",
+      "target": "basics",
+      "curve": {
+        "x": -2.00429,
+        "y": 63.3381
+      }
+    }
+  ]
+}

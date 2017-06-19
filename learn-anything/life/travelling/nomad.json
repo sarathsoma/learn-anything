@@ -1,0 +1,89 @@
+{
+  "title": "learn anything - life - travelling - nomad",
+  "nodes": [
+    {
+      "text": "nomad",
+      "url": "http://www.wikiwand.com/en/Nomad",
+      "note": "",
+      "fx": -69.41101074218761,
+      "fy": -246.2952880859375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -2.064214706420671,
+      "fy": -111.96377480030054
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 29.261192321777344,
+      "fy": 54.39172363281267
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome hacking spots",
+      "url": "https://github.com/diasdavid/awesome-hacking-spots",
+      "fx": 134.93578529357933,
+      "fy": -160.46377480030054,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome digital nomads",
+      "url": "https://github.com/cbovis/awesome-digital-nomads",
+      "fx": 134.93578529357933,
+      "fy": -120.46377480030054,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome remote jobs",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job",
+      "fx": 134.93578529357933,
+      "fy": -80.46377480030054,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "ultimate guide to remote work",
+      "url": "https://zapier.com/learn/remote-work/",
+      "fx": 134.93578529357933,
+      "fy": -40.46377480030054,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "nomad list",
+      "url": "https://nomadlist.com/",
+      "fx": 171.26119232177734,
+      "fy": 68.89172363281267,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "nomad",
+      "curve": {
+        "x": -20.1734,
+        "y": -65.9157
+      }
+    },
+    {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -16.9127,
+        "y": -83.1778
+      }
+    }
+  ]
+}

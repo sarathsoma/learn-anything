@@ -1,0 +1,134 @@
+{
+  "title": "learn anything - chemistry - drugs",
+  "nodes": [
+    {
+      "text": "drugs",
+      "url": "http://www.wikiwand.com/en/Drug",
+      "note": "",
+      "fx": -325.2270033104829,
+      "fy": -755.4837487202445,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -301.03038321956274,
+      "fy": -618.3267573230888
+    },
+    {
+      "text": "stimulants",
+      "url": "http://www.wikiwand.com/en/Stimulant",
+      "fx": -406.17545316921405,
+      "fy": -471.02633212419335,
+      "category": "wiki"
+    },
+    {
+      "text": "nootropics  ️",
+      "url": "/id/zH94GPJuQrQuHJ8LdszFgsEibqnot6hMLBGRqy3x",
+      "note": "are drugs, supplements, nutraceuticals, and functional foods that purportedly improve mental functions such as cognition, memory, intelligence, motivation, attention, and concentration  they are thought to work by altering the availability of the brain's supply of neurochemicals (neurotransmitters, enzymes, and hormones), by improving the brain's oxygen supply, or by stimulating nerve growth",
+      "fx": -631.7912086332158,
+      "fy": -468.86438994167935,
+      "category": "mindmap"
+    },
+    {
+      "text": "psychedelic drugs  ️",
+      "url": "/id/x9dBkz2cjvrWKzF8zyALjeJ3uqgDqw2ds8KorBZM",
+      "note": "is a drug whose primary action is to alter cognition and perception, typically by agonising serotonin receptors  not to be confused with psychoactive drugs, such as stimulants and opioids, which induce familiar states of consciousness, psychedelics tend to affect the mind in ways that result in the experience being qualitatively different from those of ordinary consciousness  the psychedelic experience is often compared to non-ordinary forms of consciousness such as trance, meditation, yoga, religious ecstasy, dreaming and even near-death experiences",
+      "fx": -175.73936934411233,
+      "fy": -442.6118842605225,
+      "category": "mindmap"
+    },
+    {
+      "text": "amphetamine",
+      "url": "http://www.wikiwand.com/en/Amphetamine",
+      "fx": -583.9950256495856,
+      "fy": -360.5663436437592,
+      "category": "wiki"
+    },
+    {
+      "text": "caffeine",
+      "url": "https://psychonautwiki.org/wiki/Caffeine",
+      "fx": -348.29578966767883,
+      "fy": -358.549266691055,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Drugs/",
+      "fx": -120.22700331048293,
+      "fy": -741.4837487202445,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "drugs"
+    },
+    {
+      "text": "1. why the war on drugs is a huge failure",
+      "url": "https://www.youtube.com/watch?v=wJUXLqNHCaI",
+      "fx": -145.03038321956274,
+      "fy": -645.8267573230888,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. drugged: the science and culture behind psychotropic drugs",
+      "url": "http://www.goodreads.com/book/show/17847528-drugged",
+      "fx": -145.03038321956274,
+      "fy": -583.8267573230888,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "stimulants",
+      "target": "caffeine",
+      "curve": {
+        "x": 30.6898,
+        "y": 57.4885
+      }
+    },
+    {
+      "source": "stimulants",
+      "target": "amphetamine",
+      "curve": {
+        "x": -80.9098,
+        "y": 55.23
+      }
+    },
+    {
+      "source": "drugs",
+      "target": "basics",
+      "curve": {
+        "x": -0.15169,
+        "y": 67.3285
+      }
+    },
+    {
+      "source": "basics",
+      "target": "nootropics  ️",
+      "curve": {
+        "x": -142.13,
+        "y": 75.9812
+      }
+    },
+    {
+      "source": "basics",
+      "target": "stimulants",
+      "curve": {
+        "x": -36.8225,
+        "y": 74.9002
+      }
+    },
+    {
+      "source": "basics",
+      "target": "psychedelic drugs  ️",
+      "curve": {
+        "x": 88.8383,
+        "y": 94.7161
+      }
+    }
+  ]
+}

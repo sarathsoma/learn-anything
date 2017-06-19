@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - law - rights - human rights",
+  "nodes": [
+    {
+      "text": "human rights",
+      "url": "http://www.wikiwand.com/en/Human_rights",
+      "fx": -67.33586379716974,
+      "fy": -250.3483195754717,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -40.558077830188836,
+      "fy": -100.78183962254741
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what are the universal human rights?",
+      "url": "https://www.youtube.com/watch?v=oh3BbLk5UIQ",
+      "fx": 141.44192216981116,
+      "fy": -100.28183962254741,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "human rights",
+      "target": "basics",
+      "curve": {
+        "x": -8.86111,
+        "y": 73.5332
+      }
+    }
+  ]
+}

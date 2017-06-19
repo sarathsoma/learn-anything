@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - machine learning - neural networks - backpropagation",
+  "nodes": [
+    {
+      "text": "backpropagation",
+      "url": "http://www.wikiwand.com/en/Backpropagation",
+      "fx": -2.450387549212678,
+      "fy": -295.24852362204723,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 48.26756274606282,
+      "fy": -119.22108759842513
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. how the back propagation algorithm works  ️",
+      "url": "http://neuralnetworksanddeeplearning.com/chap2.html",
+      "fx": 204.26756274606282,
+      "fy": -158.72108759842513,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. backpropagation neural network",
+      "url": "https://www.youtube.com/watch?v=WZDMNM36PsM",
+      "fx": 204.26756274606282,
+      "fy": -96.72108759842513,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. backpropagation algorithm",
+      "url": "https://www.youtube.com/watch?v=LOc_y67AzCA",
+      "fx": 204.26756274606282,
+      "fy": -56.72108759842513,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "backpropagation",
+      "target": "basics",
+      "curve": {
+        "x": -7.64103,
+        "y": 86.7637
+      }
+    }
+  ]
+}

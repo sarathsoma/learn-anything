@@ -1,0 +1,66 @@
+{
+  "title": "learn anything - linguistics - languages - german",
+  "nodes": [
+    {
+      "text": "german language",
+      "url": "http://www.wikiwand.com/en/German_language",
+      "fx": 40.76171875,
+      "fy": -182.98046875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 94.95445736434112,
+      "fy": -53.03200702519388
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/German/",
+      "fx": 325.76171875,
+      "fy": -188.98046875,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "german language"
+    },
+    {
+      "text": "️",
+      "url": "https://german.stackexchange.com/",
+      "fx": 325.76171875,
+      "fy": -148.98046875,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "german language"
+    },
+    {
+      "text": "1. duolingo",
+      "url": "https://www.duolingo.com/course/de/en/Learn-German-Online",
+      "fx": 276.9544573643411,
+      "fy": -58.53200702519388,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. complete german",
+      "url": "http://www.languagetransfer.org/complete-german",
+      "fx": 276.9544573643411,
+      "fy": -24.532007025193877,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "german language",
+      "target": "basics",
+      "curve": {
+        "x": -5.15363,
+        "y": 63.7242
+      }
+    }
+  ]
+}

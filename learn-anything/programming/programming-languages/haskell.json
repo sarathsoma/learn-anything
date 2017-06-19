@@ -1,0 +1,257 @@
+{
+  "title": "learn anything - programming - programming languages - haskell",
+  "nodes": [
+    {
+      "text": "haskell",
+      "url": "http://www.wikiwand.com/en/Haskell_(programming_language)",
+      "fx": -104.80136117317704,
+      "fy": -588.7094207072855,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 96.46263061145521,
+      "fy": -370.3615599200207
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 276.5853424892414,
+      "fy": -76.96414836356098
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -196.99365128833222,
+      "fy": 103.14280737297918
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 404.7753216911776,
+      "fy": 112.6710477941175
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/haskell/",
+      "fx": 84.19863882682296,
+      "fy": -574.7094207072855,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "haskell"
+    },
+    {
+      "text": "haskell style guide",
+      "url": "https://github.com/tibbe/haskell-style-guide",
+      "fx": 233.4626306114552,
+      "fy": -511.8615599200207,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "write you a haskell ",
+      "url": "http://dev.stephendiehl.com/fun/",
+      "fx": 233.4626306114552,
+      "fy": -471.8615599200207,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "joys of haskell",
+      "url": "https://joyofhaskell.com/",
+      "fx": 233.4626306114552,
+      "fy": -437.8615599200207,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "thinking functionally with haskell",
+      "url": "https://pragprog.com/magazines/2012-09/thinking-functionally-with-haskell",
+      "fx": 233.4626306114552,
+      "fy": -403.8615599200207,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome haskell",
+      "url": "https://github.com/krispo/awesome-haskell",
+      "fx": 233.4626306114552,
+      "fy": -369.8615599200207,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "haskell concepts in one sentence",
+      "url": "https://torchhound.github.io/posts/haskellOneSentence.html",
+      "fx": 233.4626306114552,
+      "fy": -329.8615599200207,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "what i wish i knew when learning haskell",
+      "url": "http://dev.stephendiehl.com/hask/",
+      "fx": 233.4626306114552,
+      "fy": -295.8615599200207,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "haskell weekly",
+      "url": "https://haskellweekly.news/",
+      "fx": 233.4626306114552,
+      "fy": -239.86155992002068,
+      "category": "newsletter",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "scheme in 48 hours",
+      "url": "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours",
+      "fx": 233.4626306114552,
+      "fy": -199.86155992002068,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "applicative functors  ️",
+      "url": "https://pbrisbin.com/posts/applicative_functors/",
+      "fx": 438.5853424892414,
+      "fy": -156.46414836356098,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "dijkstra on haskell and java  ️",
+      "url": "http://chrisdone.com/posts/dijkstra-haskell-java",
+      "fx": 438.5853424892414,
+      "fy": -116.46414836356098,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "haskell concepts in one sentence  ️",
+      "url": "https://torchhound.github.io/posts/haskellOneSentence.html",
+      "fx": 438.5853424892414,
+      "fy": -76.46414836356098,
+      "category": "article",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "monoids without tears  ️",
+      "url": "https://fsharpforfunandprofit.com/posts/monoids-without-tears/",
+      "fx": 438.5853424892414,
+      "fy": -14.46414836356098,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "14: how to desugar haskell code  ️",
+      "url": "http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html#type-classes",
+      "fx": 438.5853424892414,
+      "fy": 25.53585163643902,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. learn haskell",
+      "url": "https://github.com/bitemyapp/learnhaskell",
+      "fx": -14.993651288332217,
+      "fy": 12.642807372979178,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. real world haskell",
+      "url": "http://book.realworldhaskell.org/read/",
+      "fx": -14.993651288332217,
+      "fy": 52.64280737297918,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to haskell",
+      "url": "http://www.seas.upenn.edu/%7Ecis194/spring13/",
+      "fx": -14.993651288332217,
+      "fy": 92.64280737297918,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. haskell programming from first principles",
+      "url": "http://haskellbook.com/",
+      "note": "- have to pay for it",
+      "fx": -14.993651288332217,
+      "fy": 132.64280737297918,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learn you a Haskell for greater good!",
+      "url": "http://learnyouahaskell.com/chapters",
+      "fx": -14.993651288332217,
+      "fy": 194.64280737297918,
+      "category": "free book",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "17: applied category theory and abstract algebra",
+      "url": "https://www.youtube.com/watch?v=WsA7GtUQeB8",
+      "fx": 544.7753216911776,
+      "fy": 113.1710477941175,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    }
+  ],
+  "connections": [
+    {
+      "source": "haskell",
+      "target": "basics",
+      "curve": {
+        "x": -47.0961,
+        "y": 345.926
+      }
+    },
+    {
+      "source": "help",
+      "target": "haskell",
+      "curve": {
+        "x": -94.8821,
+        "y": -109.174
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -143.957,
+        "y": -111.496
+      }
+    },
+    {
+      "source": "talks",
+      "target": "articles",
+      "curve": {
+        "x": -58.595,
+        "y": -94.8176
+      }
+    }
+  ]
+}

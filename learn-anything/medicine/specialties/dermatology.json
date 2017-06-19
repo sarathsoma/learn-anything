@@ -1,0 +1,41 @@
+{
+  "title": "learn anything - medicine - specialties - dermatology",
+  "nodes": [
+    {
+      "text": "dermatology",
+      "url": "http://www.wikiwand.com/en/Dermatology",
+      "note": "",
+      "fx": 430.8187584005376,
+      "fy": -290.37268985215053,
+      "category": "wiki"
+    },
+    {
+      "text": "skin care",
+      "url": "http://www.wikiwand.com/en/Skin_care",
+      "fx": 434.0387535095215,
+      "fy": -142.43015575408936,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "wiki",
+      "url": "https://www.reddit.com/r/SkincareAddiction/wiki/index",
+      "fx": 642.0387535095215,
+      "fy": -128.43015575408936,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "skin care"
+    }
+  ],
+  "connections": [
+    {
+      "source": "dermatology",
+      "target": "skin care",
+      "curve": {
+        "x": -6.39,
+        "y": 73.9713
+      }
+    }
+  ]
+}

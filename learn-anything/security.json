@@ -1,0 +1,198 @@
+{
+  "title": "learn anything - security",
+  "nodes": [
+    {
+      "text": "security",
+      "url": "http://www.wikiwand.com/en/Security",
+      "note": "",
+      "fx": -200.8634788268621,
+      "fy": -385.33435302759153,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 10.690355615082012,
+      "fy": -277.8277380243253
+    },
+    {
+      "text": "penetration testing  ️",
+      "url": "/id/4ihKdHT7ZKc1a6hp7MiFFYGpzA4Dm6Qu6sr5LdMT",
+      "note": "a penetration test is an authorised simulated attack on a computer system that looks for security weaknesses, potentially gaining access to the system’s features and data  general attack sequence in steps is  1. find an exploitable vulnerability  2. design an attack around it - test the attack - seize a line in use - enter the attack - exploit the entry for information recovery",
+      "fx": -120.21112468880654,
+      "fy": 7.8789494305767676,
+      "category": "mindmap"
+    },
+    {
+      "text": "privacy  ️",
+      "url": "/id/uFiw9mUYxyQjTnTcHqpX8VGsH5sSVSWztpY5AyWJ#-154.8,-53.0,2",
+      "note": "is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  it is the right of people to conceal information about themselves that others might use to their advantage",
+      "fx": -296.7759606192335,
+      "fy": 8.281329490548387,
+      "category": "mindmap"
+    },
+    {
+      "text": "hacking  ️",
+      "url": "/id/7dWQHvRBshf6cmgczxFGLTq9Lqg5DpiYqxs8UG3K",
+      "fx": -462.15126377345905,
+      "fy": 11.918183627678218,
+      "category": "mindmap"
+    },
+    {
+      "text": "information security  ️",
+      "url": "/id/JnJxmfMwcigFArLsxvGTi1VwpK42vxbZzfBDSaEr",
+      "fx": -724.0113554201312,
+      "fy": 17.15036369298673,
+      "category": "mindmap"
+    },
+    {
+      "text": "virtual private networks  ️",
+      "url": "/id/CzViS3qsYSPreTTjveyGSmfFJQ4Vy9GJMjJdXn5x",
+      "fx": -357.65000431474516,
+      "fy": 117.25895609175723,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "15: advanced threat tactics",
+      "url": "https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c",
+      "fx": 147.690355615082,
+      "fy": -446.3277380243253,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "security tips for startups",
+      "url": "https://github.com/forter/security-101-for-saas-startups",
+      "fx": 147.690355615082,
+      "fy": -406.3277380243253,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome application security",
+      "url": "https://github.com/paragonie/awesome-appsec",
+      "fx": 147.690355615082,
+      "fy": -366.3277380243253,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome security",
+      "url": "https://github.com/sbilly/awesome-security",
+      "fx": 147.690355615082,
+      "fy": -326.3277380243253,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome vehicle security",
+      "url": "https://github.com/jaredthecoder/awesome-vehicle-security",
+      "fx": 147.690355615082,
+      "fy": -286.3277380243253,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome incident response",
+      "url": "https://github.com/meirwah/awesome-incident-response",
+      "fx": 147.690355615082,
+      "fy": -246.3277380243253,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome honeypots",
+      "url": "https://github.com/paralax/awesome-honeypots",
+      "fx": 147.690355615082,
+      "fy": -206.3277380243253,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "security guide for developers",
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "fx": 147.690355615082,
+      "fy": -166.3277380243253,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome OSINT",
+      "url": "https://github.com/jivoi/awesome-osint",
+      "fx": 147.690355615082,
+      "fy": -126.3277380243253,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "security 101 for SaaS startups",
+      "url": "https://github.com/forter/security-101-for-saas-startups",
+      "fx": 147.690355615082,
+      "fy": -86.3277380243253,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "security",
+      "curve": {
+        "x": -90.7769,
+        "y": -52.5033
+      }
+    },
+    {
+      "source": "security",
+      "target": "privacy  ️",
+      "curve": {
+        "x": -49.4563,
+        "y": 196.808
+      }
+    },
+    {
+      "source": "security",
+      "target": "penetration testing  ️",
+      "curve": {
+        "x": 64.8262,
+        "y": 196.607
+      }
+    },
+    {
+      "source": "privacy  ️",
+      "target": "virtual private networks  ️",
+      "curve": {
+        "x": -10.687,
+        "y": 53.2388
+      }
+    },
+    {
+      "source": "security",
+      "target": "hacking  ️",
+      "curve": {
+        "x": -144.144,
+        "y": 197.376
+      }
+    },
+    {
+      "source": "security",
+      "target": "information security  ️",
+      "curve": {
+        "x": -248.824,
+        "y": 199.992
+      }
+    }
+  ]
+}

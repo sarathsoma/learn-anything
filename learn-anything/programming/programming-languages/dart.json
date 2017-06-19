@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - programming - programming languages - dart",
+  "nodes": [
+    {
+      "text": "dart",
+      "url": "http://www.wikiwand.com/en/Dart_(programming_language)",
+      "fx": -85.09784409403801,
+      "fy": -161.40365982055664,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 1.531496286392212,
+      "fy": -63.104976654052734
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -84.09765625,
+      "fy": 22.89453125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome dart",
+      "url": "https://github.com/yissachar/awesome-dart",
+      "fx": 138.5314962863922,
+      "fy": -51.604976654052734,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. get started",
+      "url": "https://www.dartlang.org/guides/get-started",
+      "fx": 97.90234375,
+      "fy": 37.39453125,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "dart",
+      "curve": {
+        "x": -36.8147,
+        "y": -47.8993
+      }
+    },
+    {
+      "source": "dart",
+      "target": "basics",
+      "curve": {
+        "x": -1.24991,
+        "y": 90.8991
+      }
+    }
+  ]
+}

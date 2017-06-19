@@ -1,0 +1,192 @@
+{
+  "title": "learn anything - programming - programming languages - java",
+  "nodes": [
+    {
+      "text": "java",
+      "url": "http://www.wikiwand.com/en/Java_(programming_language)",
+      "fx": -53.96446470687329,
+      "fy": -491.3737084456424,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 27.36433479620939,
+      "fy": -236.7657459666895
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -94.16280903456345,
+      "fy": 74.8857322548921
+    },
+    {
+      "text": "java libraries  ️",
+      "url": "/id/bqqerP7QMhU9pDir4XaksndsmbTraUBQ4otAGtez",
+      "fx": -173.3243910845581,
+      "fy": 266.52906709558806,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/java/",
+      "fx": 109.03553529312671,
+      "fy": -477.3737084456424,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "java"
+    },
+    {
+      "text": "design patterns in java",
+      "url": "https://github.com/iluwatar/java-design-patterns",
+      "fx": 164.3643347962094,
+      "fy": -384.2657459666895,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome java",
+      "url": "https://github.com/akullpp/awesome-java",
+      "fx": 164.3643347962094,
+      "fy": -344.2657459666895,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome RxJava",
+      "url": "https://github.com/eleventigers/awesome-rxjava",
+      "fx": 164.3643347962094,
+      "fy": -304.2657459666895,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome java 8",
+      "url": "https://github.com/tedyoung/awesome-java8",
+      "fx": 164.3643347962094,
+      "fy": -264.2657459666895,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "close encounters of the java memory model kind",
+      "url": "https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/",
+      "fx": 164.3643347962094,
+      "fy": -224.2657459666895,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "value types for java",
+      "url": "http://cr.openjdk.java.net/~jrose/values/values-0.html",
+      "fx": 164.3643347962094,
+      "fy": -168.2657459666895,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "useful java links",
+      "url": "https://github.com/Vedenin/useful-java-links",
+      "fx": 164.3643347962094,
+      "fy": -134.2657459666895,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "google java style guide",
+      "url": "http://google.github.io/styleguide/javaguide.html",
+      "fx": 164.3643347962094,
+      "fy": -94.26574596668951,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "learning java by Oracle",
+      "url": "http://docs.oracle.com/javase/tutorial/java/TOC.html",
+      "fx": 164.3643347962094,
+      "fy": -60.26574596668951,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. object-oriented programming with java",
+      "url": "http://mooc.fi/courses/2013/programming-part-1/",
+      "note": "is really good intro to OOP and Java",
+      "fx": 87.83719096543655,
+      "fy": -4.614267745107895,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. programming methodology",
+      "url": "http://web.stanford.edu/class/cs106a/lectures.shtml",
+      "fx": 87.83719096543655,
+      "fy": 57.385732254892105,
+      "category": "",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. programming by doing",
+      "url": "http://www.programmingbydoing.com/",
+      "fx": 87.83719096543655,
+      "fy": 97.3857322548921,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. effective java",
+      "url": "https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide",
+      "fx": 87.83719096543655,
+      "fy": 137.3857322548921,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. java concurrency in practice",
+      "url": "https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice",
+      "fx": 87.83719096543655,
+      "fy": 177.3857322548921,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "java",
+      "curve": {
+        "x": -41.4144,
+        "y": -127.304
+      }
+    },
+    {
+      "source": "java",
+      "target": "basics",
+      "curve": {
+        "x": -14.5991,
+        "y": 283.13
+      }
+    },
+    {
+      "source": "basics",
+      "target": "java libraries  ️",
+      "curve": {
+        "x": -32.8308,
+        "y": 95.8217
+      }
+    }
+  ]
+}

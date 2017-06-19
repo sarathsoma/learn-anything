@@ -1,0 +1,78 @@
+{
+  "title": "learn anything - marketing - digital marketing",
+  "nodes": [
+    {
+      "text": "digital marketing",
+      "url": "http://www.wikiwand.com/en/Digital_marketing",
+      "fx": -124.6328125,
+      "fy": -246.8671875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 64.50651041666674,
+      "fy": -123.73591382571846
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -70.15793371200562,
+      "fy": 0.8346614837646484
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "L2inc",
+      "url": "https://www.youtube.com/user/l2thinktank/videos",
+      "fx": 201.50651041666674,
+      "fy": -112.23591382571846,
+      "category": "youtube",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learn online marketing ",
+      "url": "https://learndigital.withgoogle.com/digitalgarage/",
+      "fx": 85.84206628799438,
+      "fy": -21.66533851623535,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. what is digital marketing?",
+      "url": "https://www.youtube.com/watch?v=glQWc6lGpkI",
+      "fx": 85.84206628799438,
+      "fy": 12.334661483764648,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. google analytics for beginners",
+      "url": "https://analytics.google.com/analytics/academy/course/6",
+      "fx": 85.84206628799438,
+      "fy": 52.33466148376465,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "digital marketing",
+      "target": "basics",
+      "curve": {
+        "x": -2.51256,
+        "y": 122.601
+      }
+    },
+    {
+      "source": "help",
+      "target": "digital marketing",
+      "curve": {
+        "x": -60.0697,
+        "y": -60.3156
+      }
+    }
+  ]
+}

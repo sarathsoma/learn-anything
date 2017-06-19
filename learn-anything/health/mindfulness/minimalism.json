@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - health - mindfulness - minimalism",
+  "nodes": [
+    {
+      "text": "minimalism",
+      "url": "http://www.wikiwand.com/en/Minimalism",
+      "fx": 44.073659327439145,
+      "fy": -210.06031084964098,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 168.22694246533922,
+      "fy": -114.46839044127682
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "if you think this can be improved in any way ",
+      "fx": 83.21759172896282,
+      "fy": -20.55864500663631
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "light by Coco",
+      "url": "https://www.youtube.com/channel/UCp12IFoANz_tEY6YgZFqohA/videos",
+      "fx": 305.2269424653392,
+      "fy": -122.96839044127682,
+      "category": "youtube",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "zen habits  ️",
+      "url": "https://zenhabits.net/",
+      "fx": 305.2269424653392,
+      "fy": -82.96839044127682,
+      "category": "blog",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. minimalism: a beginner’s guide  ️",
+      "url": "https://anuschkarees.com/blog/2014/10/27/minimalism-a-beginners-guide/",
+      "fx": 265.2175917289628,
+      "fy": -20.05864500663631,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "minimalism",
+      "curve": {
+        "x": -39.3266,
+        "y": -46.546
+      }
+    },
+    {
+      "source": "minimalism",
+      "target": "basics",
+      "curve": {
+        "x": 1.57197,
+        "y": 93.5008
+      }
+    }
+  ]
+}

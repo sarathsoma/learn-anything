@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - software - tooling - productivity - tmux",
+  "nodes": [
+    {
+      "text": "tmux",
+      "url": "http://www.wikiwand.com/en/Tmux",
+      "fx": -9.885879984662665,
+      "fy": -218.54778565950915,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 97.38656268724515,
+      "fy": -122.93873762974277
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -21.433600734987863,
+      "fy": -7.7562074544239294
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome tmux",
+      "url": "https://github.com/rothgar/awesome-tmux",
+      "fx": 234.38656268724515,
+      "fy": -111.43873762974277,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learn tmux",
+      "url": "http://minimul.com/teaches/tmux",
+      "fx": 160.56639926501214,
+      "fy": -16.25620745442393,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. vim + tmux",
+      "url": "https://www.youtube.com/watch?v=5r6yzFEXajQ",
+      "fx": 160.56639926501214,
+      "fy": 23.74379254557607,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "tmux",
+      "target": "basics",
+      "curve": {
+        "x": -9.77386,
+        "y": 104.146
+      }
+    },
+    {
+      "source": "help",
+      "target": "tmux",
+      "curve": {
+        "x": -44.8862,
+        "y": -46.5545
+      }
+    }
+  ]
+}

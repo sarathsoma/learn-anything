@@ -1,0 +1,165 @@
+{
+  "title": "learn anything - mathematics - algebra",
+  "nodes": [
+    {
+      "text": "algebra",
+      "url": "http://www.wikiwand.com/en/Algebra",
+      "note": "",
+      "fx": -102.93547952586209,
+      "fy": -520.1115301724138,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 81.81095123291016,
+      "fy": -394.1723518371582
+    },
+    {
+      "text": "elementary algebra",
+      "url": "http://www.wikiwand.com/en/Elementary_algebra",
+      "note": "considered to be essential for any study of mathematics, science, or engineering  differed from arithmetic in the use of abstractions, such as using letters to stand for numbers that are either unknown or allowed to take on many values",
+      "fx": -225.10904121398926,
+      "fy": -320.83496251599536,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 213.54968261718795,
+      "fy": -281.40146636962885
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -142.43859781618187,
+      "fy": -172.01723093363648
+    },
+    {
+      "text": "boolean algebra  ️",
+      "url": "/id/L1aYhuFszbzycchzDHsxAg6sFx2YQnbiriCg3eBA",
+      "fx": -412.8722882748798,
+      "fy": -64.43303603948164,
+      "category": "mindmap"
+    },
+    {
+      "text": "functions  ️",
+      "url": "/id/hHPo8NuNdG6pTXR4JqGwqDuEJUWGmk8pqNT36gsh",
+      "fx": 8.418459939626928,
+      "fy": -58.771485907831334,
+      "category": "mindmap"
+    },
+    {
+      "text": "abstract algebra  ️",
+      "url": "/id/35xAsH2ays7oB93yqhTjCDAhK2B9E2yGFX6gZm7i",
+      "note": "is the study of algebraic structures  it includes study of groups, rings, fields, modules, vector spaces, lattices and algebras  algebraic structures, with their associated homomorphisms, form mathematical categories",
+      "fx": -223.39127412038476,
+      "fy": 24.947111888422114,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Algebra/",
+      "fx": 117.06452047413791,
+      "fy": -506.11153017241384,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "algebra"
+    },
+    {
+      "text": "algebra rules",
+      "url": "http://algebrarules.com/",
+      "fx": 218.81095123291016,
+      "fy": -379.6723518371582,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "graphical algebra and fourier analysis",
+      "url": "https://acko.net/files/gltalks/toolsforthought/#0",
+      "fx": 404.54968261718795,
+      "fy": -280.90146636962885,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. what is algebra?",
+      "url": "https://www.reddit.com/r/math/comments/5etsob/what_is_algebra/daf3f6l/",
+      "fx": 13.561402183818132,
+      "fy": -180.51723093363648,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. algebra basics",
+      "url": "https://www.youtube.com/watch?v=NybHckSEQBI",
+      "fx": 13.561402183818132,
+      "fy": -140.51723093363648,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "algebra",
+      "target": "elementary algebra",
+      "curve": {
+        "x": -34.8368,
+        "y": 99.6383
+      }
+    },
+    {
+      "source": "help",
+      "target": "algebra",
+      "curve": {
+        "x": -78.1232,
+        "y": -61.7196
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -79.3694,
+        "y": -56.3854
+      }
+    },
+    {
+      "source": "elementary algebra",
+      "target": "basics",
+      "curve": {
+        "x": -0.914778,
+        "y": 73.1589
+      }
+    },
+    {
+      "source": "basics",
+      "target": "abstract algebra  ️",
+      "curve": {
+        "x": -4.47641,
+        "y": 99.7321
+      }
+    },
+    {
+      "source": "basics",
+      "target": "boolean algebra  ️",
+      "curve": {
+        "x": -106.217,
+        "y": 55.042
+      }
+    },
+    {
+      "source": "basics",
+      "target": "functions  ️",
+      "curve": {
+        "x": 69.4654,
+        "y": 65.9241
+      }
+    }
+  ]
+}

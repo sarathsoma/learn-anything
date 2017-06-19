@@ -1,0 +1,104 @@
+{
+  "title": "learn anything - programming - programming languages - assembly - WebAssembly",
+  "nodes": [
+    {
+      "text": "WebAssembly",
+      "url": "http://www.wikiwand.com/en/WebAssembly",
+      "note": "",
+      "fx": -105.37109375,
+      "fy": -128.31640625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 96.91579390623463,
+      "fy": 3.0768492896592647
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 216.96986607141798,
+      "fy": 184.23586309523796
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -54.40290178571456,
+      "fy": 308.582961309521
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "bringing the web up to speed with WebAssembly",
+      "url": "https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf",
+      "fx": 233.91579390623463,
+      "fy": -47.423150710340735,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "what makes WebAssembly fast?  ️",
+      "url": "https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/",
+      "fx": 233.91579390623463,
+      "fy": 14.576849289659265,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "game of life implemented in WebAssembly",
+      "url": "https://github.com/blaze33/way-of-life",
+      "fx": 233.91579390623463,
+      "fy": 54.576849289659265,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: compiling for the web with webassembly",
+      "url": "https://www.youtube.com/watch?v=6v4E6oksar0",
+      "fx": 356.969866071418,
+      "fy": 184.73586309523796,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "1. get started using WebAssembly",
+      "url": "https://egghead.io/courses/get-started-using-webassembly-wasm",
+      "fx": 101.59709821428544,
+      "fy": 320.082961309521,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "WebAssembly",
+      "curve": {
+        "x": -71.3934,
+        "y": -64.4467
+      }
+    },
+    {
+      "source": "WebAssembly",
+      "target": "basics",
+      "curve": {
+        "x": -6.0159,
+        "y": 217.2
+      }
+    },
+    {
+      "source": "talks",
+      "target": "help",
+      "curve": {
+        "x": -75.6505,
+        "y": -89.5862
+      }
+    }
+  ]
+}

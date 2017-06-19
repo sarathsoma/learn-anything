@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - operating systems - unix - linux - containers",
+  "nodes": [
+    {
+      "text": "LXC",
+      "url": "http://www.wikiwand.com/en/LXC",
+      "note": "",
+      "fx": -13.12109375,
+      "fy": -328.5390204973118,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 42.53125,
+      "fy": -225.7265625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome linux containers",
+      "url": "https://github.com/Friz-zy/awesome-linux-containers",
+      "fx": 179.53125,
+      "fy": -214.2265625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "LXC",
+      "curve": {
+        "x": -20.8262,
+        "y": -50.1562
+      }
+    }
+  ]
+}

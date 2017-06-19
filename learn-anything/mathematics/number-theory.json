@@ -1,0 +1,94 @@
+{
+  "title": "learn anything - mathematics - number theory",
+  "nodes": [
+    {
+      "text": "number theory",
+      "url": "http://www.wikiwand.com/en/Number_theory",
+      "fx": -152.65390624999998,
+      "fy": -142.3640625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -136.64803408375292,
+      "fy": -12.699307304785862
+    },
+    {
+      "text": "arithmetic  ️",
+      "url": "/id/XimK5sGQbFJy831xYyp4x5jNCCFbJ2p7xx7toPr8",
+      "fx": -105.46815719031895,
+      "fy": 122.26171525339095,
+      "category": "mindmap"
+    },
+    {
+      "text": "Fibonacci sequence  ️",
+      "url": "/id/ZqncZsC9qzsn64nWa7TiLQp6YWLsrPzmzNtxeKUJ",
+      "fx": -533.1577380952353,
+      "fy": 122.92406898656901,
+      "category": "mindmap"
+    },
+    {
+      "text": "numbers  ️",
+      "url": "/id/vyB35fW1TsZxTzwgFz5LGEhbVqG8GDEgApcApHHQ",
+      "fx": -267.40741978609617,
+      "fy": 124.14597259358277,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. an introduction to the theory of numbers",
+      "url": "http://www.goodreads.com/book/show/585623.An_Introduction_to_the_Theory_of_Numbers",
+      "fx": 45.35196591624708,
+      "fy": -43.19930730478586,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. elementary number theory and its applications",
+      "url": "https://www.goodreads.com/book/show/722471.Elementary_Number_Theory_and_Its_Applications",
+      "fx": 45.35196591624708,
+      "fy": 18.80069269521414,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "number theory",
+      "target": "basics",
+      "curve": {
+        "x": -17.7471,
+        "y": 63.5824
+      }
+    },
+    {
+      "source": "basics",
+      "target": "arithmetic  ️",
+      "curve": {
+        "x": 16.84,
+        "y": 67.4805
+      }
+    },
+    {
+      "source": "basics",
+      "target": "numbers  ️",
+      "curve": {
+        "x": -68.8797,
+        "y": 68.4226
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Fibonacci sequence  ️",
+      "curve": {
+        "x": -174.005,
+        "y": 67.8117
+      }
+    }
+  ]
+}

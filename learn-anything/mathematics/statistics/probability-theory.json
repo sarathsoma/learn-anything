@@ -1,0 +1,95 @@
+{
+  "title": "learn anything - mathematics - statistics - probability theory",
+  "nodes": [
+    {
+      "text": "probability theory",
+      "url": "http://www.wikiwand.com/en/Probability_theory",
+      "fx": -187.9376986228815,
+      "fy": -225.10335010593224,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -134.6248087335215,
+      "fy": -97.50442855461358
+    },
+    {
+      "text": "markov chains  ️",
+      "url": "/id/1NpiefgrirDdunaD1stiWpyX3bcQbGMKP79hosmN",
+      "note": "are stochastic processes that satisfy the Markov property (sometimes characterised as ‘memorylessness’)  a process satisfies the Markov property if one can make predictions for the future of the process based solely on its present state just as well as one could knowing the process’s full history, hence independently from such history (i.e. conditional on the present state of the system, its future and paste states are independent)  a Markov chain is a type of Markov process that has either discrete state space or discrete index set (often representing time), but the precise definition of a Markov chain varies",
+      "fx": 51.847304043704526,
+      "fy": 73.68532321877683,
+      "category": "mindmap"
+    },
+    {
+      "text": "probability distributions  ️",
+      "url": "/id/zme7cJKFpqjzapGfVmvAQxKn8zE5xoXTyCfssHqp",
+      "fx": -238.517070660405,
+      "fy": 76.14572560639533,
+      "category": "mindmap"
+    },
+    {
+      "text": "prediction market",
+      "url": "http://www.wikiwand.com/en/Prediction_market",
+      "fx": -485.732203609409,
+      "fy": 83.96989906272495,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. probability notes  ️",
+      "url": "http://frnsys.com/ai_notes/foundations/probability.html",
+      "fx": 47.37519126647851,
+      "fy": -106.00442855461358,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. probability: theory and examples",
+      "url": "http://www.goodreads.com/book/show/9632300-probability",
+      "fx": 47.37519126647851,
+      "fy": -66.00442855461358,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "probability theory",
+      "target": "basics",
+      "curve": {
+        "x": -4.84355,
+        "y": 62.5495
+      }
+    },
+    {
+      "source": "basics",
+      "target": "markov chains  ️",
+      "curve": {
+        "x": 118.736,
+        "y": 86.8449
+      }
+    },
+    {
+      "source": "basics",
+      "target": "prediction market",
+      "curve": {
+        "x": -149.804,
+        "y": 91.9871
+      }
+    },
+    {
+      "source": "basics",
+      "target": "probability distributions  ️",
+      "curve": {
+        "x": -45.4461,
+        "y": 86.8251
+      }
+    }
+  ]
+}

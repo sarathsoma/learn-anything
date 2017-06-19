@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - physics - energy",
+  "nodes": [
+    {
+      "text": "energy",
+      "url": "http://www.wikiwand.com/en/Energy",
+      "fx": -17.01953125,
+      "fy": -183.703125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 1.984375,
+      "fy": -40.5546875
+    },
+    {
+      "text": "dark energy  ️",
+      "url": "/id/LAz58pJG6wUyDAoKjyv9DVKcxkrNxrhsjQCQ5Rzy",
+      "fx": -150.55650308098666,
+      "fy": 64.16219190136638,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is energy",
+      "url": "https://www.youtube.com/watch?v=CW0_S5YpYVo",
+      "fx": 157.984375,
+      "fy": -29.0546875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "energy",
+      "target": "basics",
+      "curve": {
+        "x": 1.50195,
+        "y": 70.3242
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dark energy  ️",
+      "curve": {
+        "x": -64.0204,
+        "y": 52.3584
+      }
+    }
+  ]
+}

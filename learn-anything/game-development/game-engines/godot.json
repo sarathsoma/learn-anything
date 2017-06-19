@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - game development - game engines - godot",
+  "nodes": [
+    {
+      "text": "godot",
+      "url": "https://godotengine.org/",
+      "note": "",
+      "fx": -53.42578125,
+      "fy": -346.19921875
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 1.51953125,
+      "fy": -214.89453125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome godot",
+      "url": "https://github.com/Calinou/awesome-godot",
+      "fx": 138.51953125,
+      "fy": -203.39453125,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "godot",
+      "curve": {
+        "x": -23.7227,
+        "y": -65.6523
+      }
+    }
+  ]
+}

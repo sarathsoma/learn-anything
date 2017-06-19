@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - mathematics - lambda calculus",
+  "nodes": [
+    {
+      "text": "lambda calculus",
+      "url": "http://www.wikiwand.com/en/Lambda_calculus",
+      "fx": -65.8671875,
+      "fy": -307.73046875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 102.95169448852539,
+      "fy": -211.08154678344727
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -8.211908340454102,
+      "fy": -101.64071083068848
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "compiling to lambda-calculus: turtles all the way down  ️",
+      "url": "http://matt.might.net/articles/compiling-up-to-lambda-calculus/",
+      "fx": 239.9516944885254,
+      "fy": -241.58154678344727,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "whiteboard problems in pure lambda calculus  ️",
+      "url": "http://www.jtolds.com/writing/2017/03/whiteboard-problems-in-pure-lambda-calculus/",
+      "fx": 239.9516944885254,
+      "fy": -179.58154678344727,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learn lambda calculus",
+      "url": "http://safalra.com/lambda-calculus/",
+      "fx": 173.7880916595459,
+      "fy": -87.14071083068848,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "lambda calculus",
+      "curve": {
+        "x": -50.1595,
+        "y": -47.0745
+      }
+    },
+    {
+      "source": "lambda calculus",
+      "target": "basics",
+      "curve": {
+        "x": -0.672365,
+        "y": 101.795
+      }
+    }
+  ]
+}

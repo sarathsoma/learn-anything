@@ -1,0 +1,109 @@
+{
+  "title": "learn anything - design - typography",
+  "nodes": [
+    {
+      "text": "typography",
+      "url": "http://www.wikiwand.com/en/Typography",
+      "fx": -171.88553503787875,
+      "fy": -325.14476799242414
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -70.91679375552587,
+      "fy": -213.33701960998172
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 0.5502303309697254,
+      "fy": -109.60680905178464
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -175.94645071648927,
+      "fy": -5.940462843164255
+    },
+    {
+      "text": "typefaces  ️",
+      "url": "/id/ftrsbpaLcU4HiSq91BTXuBnsUFmrh7iqavp6UsVe",
+      "fx": -230.65198863636363,
+      "fy": 133.19744318181836,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome typography",
+      "url": "https://github.com/deanhume/typography",
+      "fx": 66.08320624447413,
+      "fy": -201.83701960998172,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: good typography, better apps",
+      "url": "https://www.youtube.com/watch?v=YM2Nj691PMo",
+      "fx": 140.55023033096973,
+      "fy": -109.10680905178464,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "1. practical typography",
+      "url": "http://practicaltypography.com/",
+      "fx": 6.053549283510733,
+      "fy": -14.440462843164255,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. thinking with type",
+      "url": "https://www.goodreads.com/book/show/69736.Thinking_with_Type",
+      "fx": 6.053549283510733,
+      "fy": 25.559537156835745,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "typography",
+      "target": "basics",
+      "curve": {
+        "x": -13.0305,
+        "y": 159.602
+      }
+    },
+    {
+      "source": "basics",
+      "target": "typefaces  ️",
+      "curve": {
+        "x": -37.1028,
+        "y": 69.569
+      }
+    },
+    {
+      "source": "help",
+      "target": "typography",
+      "curve": {
+        "x": -34.7344,
+        "y": -55.9039
+      }
+    },
+    {
+      "source": "talks",
+      "target": "help",
+      "curve": {
+        "x": -36.4835,
+        "y": -51.8651
+      }
+    }
+  ]
+}

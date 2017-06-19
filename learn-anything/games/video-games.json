@@ -1,0 +1,33 @@
+{
+  "title": "learn anything - games - video games",
+  "nodes": [
+    {
+      "text": "computer games",
+      "url": "https://github.com/learn-anything/computer-games",
+      "fx": -239.16594464227467,
+      "fy": -34.33430972213995,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "hearthstone  ️",
+      "url": "/id/55PRZCoHYJmrjsbUx4JFbxmw9qjxwi9quQbRtjW1",
+      "fx": 41.83405535772533,
+      "fy": -40.33430972213995,
+      "category": "mindmap",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "computer games"
+    },
+    {
+      "text": "dota 2  ️",
+      "url": "/id/ZPKuHKoYZ9hUuvnC5VFzdDvoHqyq1ndjVJqMnowZ",
+      "fx": 41.83405535772533,
+      "fy": -0.3343097221399489,
+      "category": "mindmap",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "computer games"
+    }
+  ],
+  "connections": []
+}

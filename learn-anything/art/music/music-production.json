@@ -1,0 +1,86 @@
+{
+  "title": "learn anything - art - music - music production",
+  "nodes": [
+    {
+      "text": "music production",
+      "url": "http://www.wikiwand.com/en/Record_producer",
+      "fx": -107.70522836538464,
+      "fy": -271.14302884615375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 64.7858440951918,
+      "fy": -162.14588409683302
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 154.50761481528366,
+      "fy": -44.29294766363034
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -52.552221457915266,
+      "fy": 65.79206099509082
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome music production",
+      "url": "https://github.com/adius/awesome-music-production",
+      "fx": 201.7858440951918,
+      "fy": -150.64588409683302,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "07: how to use tension and release in your melodies  ️",
+      "url": "http://i.grahamenglish.net/1033/how-to-use-tension-and-release-in-your-melodies/",
+      "fx": 316.50761481528366,
+      "fy": -43.79294766363034,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. beginner’s tutorial to music production",
+      "url": "https://www.youtube.com/watch?v=ydE5gEOWC0Q",
+      "fx": 129.44777854208473,
+      "fy": 66.29206099509082,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "music production",
+      "target": "basics",
+      "curve": {
+        "x": -4.4235,
+        "y": 167.218
+      }
+    },
+    {
+      "source": "help",
+      "target": "music production",
+      "curve": {
+        "x": -49.4955,
+        "y": -53.2486
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -51.1109,
+        "y": -58.9265
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - mathematics - number theory - arithmetic",
+  "nodes": [
+    {
+      "text": "arithmetic",
+      "url": "http://www.wikiwand.com/en/Arithmetic",
+      "fx": 24.40190315246582,
+      "fy": -104.74552898810651,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 52.80293072089955,
+      "fy": 16.035631613756607
+    },
+    {
+      "text": "modular arithmetic",
+      "url": "http://www.wikiwand.com/en/Modular_arithmetic",
+      "fx": -92.45490620490625,
+      "fy": 157.30602152477155,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the fundamental theorem of arithmetic",
+      "url": "https://www.youtube.com/watch?v=8CluknrLeys",
+      "fx": 208.80293072089955,
+      "fy": 16.535631613756607,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "arithmetic",
+      "target": "basics",
+      "curve": {
+        "x": -0.799486,
+        "y": 59.1406
+      }
+    },
+    {
+      "source": "basics",
+      "target": "modular arithmetic",
+      "curve": {
+        "x": -37.8789,
+        "y": 71.8852
+      }
+    }
+  ]
+}

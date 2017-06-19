@@ -1,0 +1,118 @@
+{
+  "title": "learn anything - mathematics - geometry - fractals",
+  "nodes": [
+    {
+      "text": "fractals",
+      "url": "http://www.wikiwand.com/en/Fractal",
+      "fx": 0.9295387268066406,
+      "fy": -35.643333435058594,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 108.4765625,
+      "fy": 80.52343749999989
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 146.15625,
+      "fy": 211.8007812499999
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -21.027832031251194,
+      "fy": 326.17431640626467
+    },
+    {
+      "text": "Hilbert curve  ️",
+      "url": "/id/BpmyeD9ntBHz8MrEEncbg86sTaeRGfebMKHriMEZ",
+      "fx": -121.7998046875,
+      "fy": 457.150390625,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/fractals/",
+      "fx": 191.92953872680664,
+      "fy": -21.643333435058594,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "fractals"
+    },
+    {
+      "text": "17: hitchhiker's guide to the mandelbrot set  ️",
+      "url": "https://morr.cc/mandelbrot/",
+      "fx": 245.4765625,
+      "fy": 81.02343749999989,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how to fold a julia fractal",
+      "url": "",
+      "fx": 337.15625,
+      "fy": 223.3007812499999,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. fractals are typically not self-similar",
+      "url": "https://www.youtube.com/watch?v=gB9n2gHsHN4&amp;t=945s",
+      "fx": 160.9721679687488,
+      "fy": 309.67431640626467,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. fractals explained",
+      "url": "http://natureofcode.com/book/chapter-8-fractals/",
+      "fx": 160.9721679687488,
+      "fy": 371.67431640626467,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "fractals",
+      "curve": {
+        "x": -42.5235,
+        "y": -56.8334
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -32.3398,
+        "y": -65.6387
+      }
+    },
+    {
+      "source": "fractals",
+      "target": "basics",
+      "curve": {
+        "x": -17.4787,
+        "y": 179.659
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Hilbert curve  ️",
+      "curve": {
+        "x": -42.886,
+        "y": 65.488
+      }
+    }
+  ]
+}

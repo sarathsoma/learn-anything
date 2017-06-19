@@ -1,0 +1,90 @@
+{
+  "title": "learn anything - mathematics - algebra - abstract algebra - algebraic structures",
+  "nodes": [
+    {
+      "text": "algebraic structures",
+      "url": "http://www.wikiwand.com/en/Algebraic_structure",
+      "fx": 95.05664298555735,
+      "fy": -172.60325171470873,
+      "category": "wiki"
+    },
+    {
+      "text": "groups  ️",
+      "url": "/id/cL13os4msGxYt9q3spjgtzAu7PvJp2MKdKb6oxgk",
+      "fx": 170.85161479090027,
+      "fy": -31.178353483292483,
+      "category": "mindmap"
+    },
+    {
+      "text": "monoids  ️",
+      "url": "/id/PFUwbjyxQRQceBexjjgL38EKwgyJ5ZyF7z7Vq11E",
+      "fx": -1.5018601190474783,
+      "fy": -31.140625,
+      "category": "mindmap"
+    },
+    {
+      "text": "rings  ️",
+      "url": "/id/ycB8L66rGUnnubkU3pNc8Wp1TKi2XhsQisUj8ouN",
+      "fx": 329.0989317602042,
+      "fy": -27.971859056122412,
+      "category": "mindmap"
+    },
+    {
+      "text": "modules  ️",
+      "url": "/id/p1KfhzKg4BxicoyxUMG7quoiqRktiCM1o8GrY8FV",
+      "fx": -164.17250951776646,
+      "fy": -27.670843908629422,
+      "category": "mindmap"
+    },
+    {
+      "text": "lattices  ️",
+      "url": "/id/Nmp5D5qj6WNx8Heb6z8quxGHWVqHcwGUzswgbqYX",
+      "fx": 458.7098879646835,
+      "fy": -25.85674116674005,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "algebraic structures",
+      "target": "monoids  ️",
+      "curve": {
+        "x": -80.2792,
+        "y": 69.4813
+      }
+    },
+    {
+      "source": "algebraic structures",
+      "target": "groups  ️",
+      "curve": {
+        "x": 2.14749,
+        "y": 69.4624
+      }
+    },
+    {
+      "source": "algebraic structures",
+      "target": "rings  ️",
+      "curve": {
+        "x": 76.2711,
+        "y": 71.0657
+      }
+    },
+    {
+      "source": "algebraic structures",
+      "target": "modules  ️",
+      "curve": {
+        "x": -173.009,
+        "y": 60.6761
+      }
+    },
+    {
+      "source": "algebraic structures",
+      "target": "lattices  ️",
+      "curve": {
+        "x": 178.587,
+        "y": 66.9394
+      }
+    }
+  ]
+}

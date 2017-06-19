@@ -1,0 +1,342 @@
+{
+  "title": "learn anything - computer graphics",
+  "nodes": [
+    {
+      "text": "computer graphics",
+      "url": "http://www.wikiwand.com/en/Computer_graphics",
+      "fx": -125.5,
+      "fy": -308.13671875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 41.10432949043684,
+      "fy": -167.1954562544231
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -101.16008068677763,
+      "fy": 46.98382535242877
+    },
+    {
+      "text": "graphics API",
+      "url": "http://www.wikiwand.com/en/Application_programming_interface",
+      "fx": -531.9455871582031,
+      "fy": 250.42773818969727,
+      "category": "wiki"
+    },
+    {
+      "text": "vector graphics  ️",
+      "url": "/id/o9uU98MTo7erfjPjsz7iuktX8CHBW77aZZ297CpG",
+      "note": "is the use of polygons to represent images  are based on vectors, which lead through locations called control points or nodes  each of these points has a definite position on the x- and y- axes of the work place and determines the direction of the path   further, each path may be assigned various attributes, including such values as stroke colour, shape, curve, thickness and fill",
+      "fx": -772.9533774678146,
+      "fy": 250.60901191139408,
+      "category": "mindmap"
+    },
+    {
+      "text": "bezier curves  ️",
+      "url": "/id/xFxmSxUn5zw5FF4ZoNqZsCGjvszFZSEHhy5PuHfE",
+      "fx": -155.75328922271729,
+      "fy": 250.97695922851562,
+      "category": "mindmap"
+    },
+    {
+      "text": "3d modelling  ️",
+      "url": "/id/KwqKLxpHNEMg45pZ6PpMQmgWimEdYxWa7JzTeGTi",
+      "fx": 39.37655258178711,
+      "fy": 251.25039672851562,
+      "category": "mindmap"
+    },
+    {
+      "text": "rendering  ️",
+      "url": "/id/rdgKa9yyxeycCFwbFLsJhHxocZzzzzixzyHQhWgk",
+      "note": "is the process of generating an image from a 2D or 3D model (or models in what collectively could be called a scene file) by means of computer programs  the results of such a model can be called a rendering  a scene file contains objects in a strictly defined language or data structure (it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene)  the data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file",
+      "fx": -341.8591537475586,
+      "fy": 252.6568374633789,
+      "category": "mindmap"
+    },
+    {
+      "text": "digital video  ️",
+      "url": "/id/CWPVHgTCxAbA46d1yx9xtpLE5YHq7QARwcRFz6vC",
+      "fx": -964.9060363769531,
+      "fy": 253.64232635498047,
+      "category": "mindmap"
+    },
+    {
+      "text": "volume rendering  ️",
+      "url": "/id/JxH9Z3z2qyucFdUigjTzrnrp3jR9zy6gsgFvFGdV",
+      "fx": -1196.0320129394531,
+      "fy": 253.74662017822266,
+      "category": "mindmap"
+    },
+    {
+      "text": "polygon mesh  ️",
+      "url": "/id/wkmAWzxwx6y1vFXgBe1oyySpWEJk8Wsi1zctxRbz",
+      "fx": -1399.1218566894531,
+      "fy": 255.05864715576172,
+      "category": "mindmap"
+    },
+    {
+      "text": "image processing  ️",
+      "url": "/id/RxN6yncxsjfdFXA6x2Czhgs5zpFxJM9iR7LyUjHF",
+      "fx": -1634.2044982910156,
+      "fy": 257.6860580444336,
+      "category": "mindmap"
+    },
+    {
+      "text": "shaders  ️",
+      "url": "/id/S9LpJuFLjpsRUirqygAFzSy6cgTr7SnxjhzVXtDr",
+      "fx": -1780.5367692786067,
+      "fy": 258.54003420398055,
+      "category": "mindmap"
+    },
+    {
+      "text": "metal  ️",
+      "url": "/id/ssCTRUmvnugyPUfquW6ihpnyZdwKVySz4gpXSHoY",
+      "note": "is a low-level, low-overhead hardware-accelerated graphics and compute application interface that debuted in iOS 8",
+      "fx": -761.5887884797351,
+      "fy": 357.41504614591145,
+      "category": "mindmap"
+    },
+    {
+      "text": "vulkan  ️",
+      "url": "/id/ej8XKCb4Gopu2Uxz5Cc6qRJyraETKeGXdABzYNYr",
+      "note": "is a low-overhead, cross-platform 3D graphics and compute API first announced in 2015  it targets high-performance realtime 3D graphics applications such as video games and interactive media across all platforms, and can offer higher performance and more balanced CPU/GPU usage",
+      "fx": -610.4711608886719,
+      "fy": 359.65386962890625,
+      "category": "mindmap"
+    },
+    {
+      "text": "openGL  ️",
+      "url": "/id/zPHWFpAprmq1Tt3YGm3ZBE1pysmVUYSgDhsfMVfZ",
+      "note": "is a cross-language, cross platform API for rendering 2D and 3D vector graphics  it is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering",
+      "fx": -302.3610818704469,
+      "fy": 360.1861647717211,
+      "category": "mindmap"
+    },
+    {
+      "text": "webGL  ️",
+      "url": "/id/pRs2UppBdxxyS7YxD3KuqyMsFz5BNsNAyyAzzTfq",
+      "fx": -443.1862233479818,
+      "fy": 360.37297821044945,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/computergraphics/",
+      "fx": 172.5,
+      "fy": -314.13671875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "computer graphics"
+    },
+    {
+      "text": "️",
+      "url": "https://computergraphics.stackexchange.com/",
+      "fx": 172.5,
+      "fy": -274.13671875,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "computer graphics"
+    },
+    {
+      "text": "awesome graphics",
+      "url": "https://github.com/ericjang/awesome-graphics",
+      "fx": 178.10432949043684,
+      "fy": -175.6954562544231,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "graphics courses  ️",
+      "url": "http://imsky.co/links/graphics-courses",
+      "fx": 178.10432949043684,
+      "fy": -135.6954562544231,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learn computer graphics from scratch",
+      "url": "https://www.scratchapixel.com/",
+      "fx": 80.83991931322237,
+      "fy": -43.51617464757123,
+      "category": "free book",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learning modern 3d graphics programming",
+      "url": "http://opengl.datenwolf.net/gltut/html/index.html",
+      "fx": 80.83991931322237,
+      "fy": 18.483825352428767,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. computational geometry",
+      "url": "http://wykobi.com/tutorial.html",
+      "note": "- can be used to supplement reading of the above book",
+      "fx": 80.83991931322237,
+      "fy": 80.48382535242877,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. computer graphics",
+      "url": "http://www.cs.cmu.edu/afs/cs/academic/class/15462-s12/www/",
+      "fx": 80.83991931322237,
+      "fy": 120.48382535242877,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. interactive 3D graphics",
+      "url": "https://classroom.udacity.com/courses/cs291",
+      "fx": 80.83991931322237,
+      "fy": 160.48382535242877,
+      "category": "",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "computer graphics",
+      "target": "basics",
+      "curve": {
+        "x": -18.3301,
+        "y": 177.56
+      }
+    },
+    {
+      "source": "help",
+      "target": "computer graphics",
+      "curve": {
+        "x": -47.3023,
+        "y": -70.4706
+      }
+    },
+    {
+      "source": "basics",
+      "target": "bezier curves  ️",
+      "curve": {
+        "x": -18.2967,
+        "y": 101.996
+      }
+    },
+    {
+      "source": "basics",
+      "target": "3d modelling  ️",
+      "curve": {
+        "x": 67.4831,
+        "y": 102.133
+      }
+    },
+    {
+      "source": "basics",
+      "target": "graphics API",
+      "curve": {
+        "x": -200.393,
+        "y": 102.972
+      }
+    },
+    {
+      "source": "graphics API",
+      "target": "openGL  ️",
+      "curve": {
+        "x": 110.792,
+        "y": 54.8792
+      }
+    },
+    {
+      "source": "graphics API",
+      "target": "webGL  ️",
+      "curve": {
+        "x": 32.1297,
+        "y": 54.9726
+      }
+    },
+    {
+      "source": "graphics API",
+      "target": "vulkan  ️",
+      "curve": {
+        "x": -60.7627,
+        "y": 53.3631
+      }
+    },
+    {
+      "source": "graphics API",
+      "target": "metal  ️",
+      "curve": {
+        "x": -131.072,
+        "y": 53.4937
+      }
+    },
+    {
+      "source": "basics",
+      "target": "rendering  ️",
+      "curve": {
+        "x": -112.85,
+        "y": 104.087
+      }
+    },
+    {
+      "source": "basics",
+      "target": "vector graphics  ️",
+      "curve": {
+        "x": -369.261,
+        "y": 91.9404
+      }
+    },
+    {
+      "source": "basics",
+      "target": "digital video  ️",
+      "curve": {
+        "x": -568.588,
+        "y": 85.9035
+      }
+    },
+    {
+      "source": "basics",
+      "target": "volume rendering  ️",
+      "curve": {
+        "x": -560.834,
+        "y": 48.3035
+      }
+    },
+    {
+      "source": "basics",
+      "target": "polygon mesh  ️",
+      "curve": {
+        "x": -837.799,
+        "y": 40.3586
+      }
+    },
+    {
+      "source": "basics",
+      "target": "image processing  ️",
+      "curve": {
+        "x": -952.667,
+        "y": -8.38758
+      }
+    },
+    {
+      "source": "basics",
+      "target": "shaders  ️",
+      "curve": {
+        "x": -1104.19,
+        "y": -13.5245
+      }
+    }
+  ]
+}

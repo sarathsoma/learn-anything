@@ -1,0 +1,121 @@
+{
+  "title": "learn anything - economics - business",
+  "nodes": [
+    {
+      "text": "business",
+      "url": "http://www.wikiwand.com/en/Business",
+      "note": "",
+      "fx": -56.758361311983435,
+      "fy": -165.7184594524793,
+      "category": "wiki"
+    },
+    {
+      "text": "companies  ️",
+      "url": "/id/9YapszJmUktoexvxU2cNedCSFfbKCvPY2zmYzmpn",
+      "fx": 42.21706729870709,
+      "fy": -24.849155553790183,
+      "category": "mindmap"
+    },
+    {
+      "text": "business administration",
+      "url": "http://www.wikiwand.com/en/Business_administration",
+      "fx": -264.81072443181813,
+      "fy": -24.484540450671602,
+      "category": "wiki"
+    },
+    {
+      "text": "pricing  ️",
+      "url": "/id/YS2pqui8NhYK6Gg7QgwiAQso8Mo4F98zzdPLAF8R",
+      "fx": 224.29277079345275,
+      "fy": -22.1170601723216,
+      "category": "mindmap"
+    },
+    {
+      "text": "risk management  ️",
+      "url": "/id/CywBksg4FQRU3uXxG4xpEwmyFq27hwPnX1kP2HFu",
+      "fx": 366.7924107142726,
+      "fy": -17.738560267858134,
+      "category": "mindmap"
+    },
+    {
+      "text": "product management  ️",
+      "url": "/id/sCFMbq9sV42TeFcyXvipGFavex3Q4MbAkRgSsgkz",
+      "fx": -549.2776267970862,
+      "fy": 34.10853653403865,
+      "category": "mindmap"
+    },
+    {
+      "text": "project management  ️",
+      "url": "/id/jxEppQQpXnkC7rnVxW7FpFTy6zY7yectRR2JbySw",
+      "fx": -822.9755632267442,
+      "fy": 35.10610465116275,
+      "category": "mindmap"
+    },
+    {
+      "text": "supply chain management  ️",
+      "url": "/id/jkSGn9YRpqLmssY8ckszBZLx36KTTHgXAEvWtqcy",
+      "fx": -274.9109310433886,
+      "fy": 114.45224932206673,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "business",
+      "target": "business administration",
+      "curve": {
+        "x": -71.0262,
+        "y": 70.617
+      }
+    },
+    {
+      "source": "business administration",
+      "target": "supply chain management  ️",
+      "curve": {
+        "x": -5.5501,
+        "y": 68.2184
+      }
+    },
+    {
+      "source": "business",
+      "target": "companies  ️",
+      "curve": {
+        "x": 40.7377,
+        "y": 69.1847
+      }
+    },
+    {
+      "source": "business",
+      "target": "product management  ️",
+      "curve": {
+        "x": -318.136,
+        "y": 81.2863
+      }
+    },
+    {
+      "source": "business",
+      "target": "project management  ️",
+      "curve": {
+        "x": -460.765,
+        "y": 69.9748
+      }
+    },
+    {
+      "source": "business",
+      "target": "pricing  ️",
+      "curve": {
+        "x": 151.757,
+        "y": 61.2059
+      }
+    },
+    {
+      "source": "business",
+      "target": "risk management  ️",
+      "curve": {
+        "x": 324.527,
+        "y": 65.2842
+      }
+    }
+  ]
+}

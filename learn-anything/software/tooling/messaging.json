@@ -1,0 +1,80 @@
+{
+  "title": "learn anything - software - tooling - messaging",
+  "nodes": [
+    {
+      "text": "instant messaging",
+      "url": "http://www.wikiwand.com/en/Instant_messaging",
+      "note": "",
+      "fx": -239.1875,
+      "fy": -281.39453125,
+      "category": "wiki"
+    },
+    {
+      "text": "slack  ️",
+      "url": "/id/VZWYymTSrkwrXSkrF8TookxFJsayQRhDRrCRAqd2",
+      "fx": -54.51336754782096,
+      "fy": -157.53391190239802,
+      "category": "mindmap"
+    },
+    {
+      "text": "discord",
+      "url": "http://www.wikiwand.com/en/Discord_(software)",
+      "fx": -128.9315005646531,
+      "fy": -31.303103825522157,
+      "category": "wiki"
+    },
+    {
+      "text": "telegram",
+      "url": "http://www.wikiwand.com/en/Telegram_(messaging_service)",
+      "fx": -170.6078200368113,
+      "fy": 89.4133742701191,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "discord resources",
+      "url": "https://github.com/beautiful-discord-community/resources",
+      "fx": 65.0684994353469,
+      "fy": -17.303103825522157,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "discord"
+    },
+    {
+      "text": "awesome telegram bots",
+      "url": "https://github.com/DenisIzmaylov/awesome-telegram-bots",
+      "fx": 35.39217996318871,
+      "fy": 103.4133742701191,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "telegram"
+    }
+  ],
+  "connections": [
+    {
+      "source": "instant messaging",
+      "target": "slack  ️",
+      "curve": {
+        "x": 55.8371,
+        "y": 60.6803
+      }
+    },
+    {
+      "source": "instant messaging",
+      "target": "discord",
+      "curve": {
+        "x": -14.1437,
+        "y": 154.228
+      }
+    },
+    {
+      "source": "instant messaging",
+      "target": "telegram",
+      "curve": {
+        "x": -41.1507,
+        "y": 215.296
+      }
+    }
+  ]
+}

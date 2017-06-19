@@ -1,0 +1,60 @@
+{
+  "title": "learn anything - economics - trading",
+  "nodes": [
+    {
+      "text": "trading",
+      "url": "http://www.wikiwand.com/en/Trade",
+      "fx": -28.671138233985744,
+      "fy": 35.80370051156581,
+      "category": "wiki"
+    },
+    {
+      "text": "stock exchange  ️",
+      "url": "/id/Yud1TyctRUkLxj6PDuyqef1TqtfH5zVYzkZfsvYk",
+      "fx": -27.891077995300293,
+      "fy": 168.85818099975586,
+      "category": "mindmap"
+    },
+    {
+      "text": "quantitative trading  ️",
+      "url": "/id/EwzV1z5GJdUA4LAbqer9j31xiwRuB21YJhwTbext",
+      "fx": -275.0249451754387,
+      "fy": 170.73245614035085,
+      "category": "mindmap"
+    },
+    {
+      "text": "algorithmic trading  ️",
+      "url": "/id/k3o8KPGQYbXsotkx63pzXJaqHMYjmRs83HRs3zFT",
+      "fx": 195.10251724510863,
+      "fy": 172.21913073355694,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "trading",
+      "target": "algorithmic trading  ️",
+      "curve": {
+        "x": 145.137,
+        "y": 69.4577
+      }
+    },
+    {
+      "source": "trading",
+      "target": "stock exchange  ️",
+      "curve": {
+        "x": 20.6401,
+        "y": 66.5273
+      }
+    },
+    {
+      "source": "trading",
+      "target": "quantitative trading  ️",
+      "curve": {
+        "x": -103.177,
+        "y": 66.2144
+      }
+    }
+  ]
+}

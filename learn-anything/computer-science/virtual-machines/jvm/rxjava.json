@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - computer science - virtual machines - jvm - rxjava",
+  "nodes": [
+    {
+      "text": "RxJava",
+      "url": "https://github.com/ReactiveX/RxJava",
+      "fx": -93.14453125,
+      "fy": -287.09765625,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 45.48046875,
+      "fy": -177.140625
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -74.38498711340185,
+      "fy": -61.28116945875291
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome RxJava",
+      "url": "https://github.com/lzyzsd/Awesome-RxJava",
+      "fx": 182.48046875,
+      "fy": -165.640625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introduction",
+      "url": "https://github.com/ReactiveX/RxJava/wiki",
+      "fx": 81.61501288659815,
+      "fy": -69.78116945875291,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. a  short intro to RxJava  ️",
+      "url": "http://blog.feedpresso.com/2016/01/25/why-you-should-use-rxjava-in-android-a-short-introduction-to-rxjava.html",
+      "fx": 81.61501288659815,
+      "fy": -29.781169458752913,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "RxJava",
+      "curve": {
+        "x": -55.3125,
+        "y": -53.7285
+      }
+    },
+    {
+      "source": "RxJava",
+      "target": "basics",
+      "curve": {
+        "x": 0.129772,
+        "y": 111.658
+      }
+    }
+  ]
+}

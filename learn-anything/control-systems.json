@@ -1,0 +1,46 @@
+{
+  "title": "learn anything - control systems",
+  "nodes": [
+    {
+      "text": "control systems",
+      "url": "http://www.wikiwand.com/en/Control_system",
+      "note": "",
+      "fx": -141.3094512195122,
+      "fy": -246.82431402439028,
+      "category": "wiki"
+    },
+    {
+      "text": "automation  ️",
+      "url": "/id/rF6xqdrysn9UwxgFmsDXuvLUxUn9JzxmdLCzxC6A",
+      "fx": -207.75752667682946,
+      "fy": -96.12036331300817,
+      "category": "mindmap"
+    },
+    {
+      "text": "industrial control systems",
+      "url": "http://www.wikiwand.com/en/Industrial_control_system",
+      "fx": -24.03206712372446,
+      "fy": -95.04984454719391,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "control systems",
+      "target": "automation  ️",
+      "curve": {
+        "x": -50.7241,
+        "y": 74.102
+      }
+    },
+    {
+      "source": "control systems",
+      "target": "industrial control systems",
+      "curve": {
+        "x": 73.6387,
+        "y": 75.8872
+      }
+    }
+  ]
+}

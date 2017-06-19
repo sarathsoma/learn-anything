@@ -1,0 +1,122 @@
+{
+  "title": "learn anything - mathematics - linear algebra - matrices",
+  "nodes": [
+    {
+      "text": "matrices",
+      "url": "http://www.wikiwand.com/en/Matrix_(mathematics)",
+      "fx": 104.91853044696552,
+      "fy": -168.22177632927833,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 230.78225806451667,
+      "fy": -67.77570564516122
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 76.70078222213249,
+      "fy": 44.71060079143882
+    },
+    {
+      "text": "matrix factorisation  ️",
+      "url": "/id/zxLRmMYTn7RosFsVRTZhbxiipF2zcHV4vMZoD9wE",
+      "fx": -145.2033919662381,
+      "fy": 167.7777239099235,
+      "category": "mindmap"
+    },
+    {
+      "text": "rank  ️",
+      "url": "/id/3nZh4kntBwipKcHuk2pvci2qsD7JrxEfy5fVkj6G",
+      "fx": -276.4075760983658,
+      "fy": 168.23416179337244,
+      "category": "mindmap"
+    },
+    {
+      "text": "determinants  ️",
+      "url": "/id/QLph3xRERxJ7eSqYwsHG2h98FjxQX6jv7TbgzbsX",
+      "fx": 106.10937718546757,
+      "fy": 168.96757640394424,
+      "category": "mindmap"
+    },
+    {
+      "text": "singular value decomposition  ️",
+      "url": "/id/1bydjAU1p3iqMCGY2GdqKGD2RDQyowcCSTJBbBB9",
+      "fx": -621.5585764801671,
+      "fy": 169.87828453626992,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "matrix multiplication",
+      "url": "http://matrixmultiplication.xyz/",
+      "fx": 367.78225806451667,
+      "fy": -56.275705645161224,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. intro to matrices",
+      "url": "http://immersivemath.com/ila/ch06_matrices/ch06.html",
+      "fx": 232.7007822221325,
+      "fy": 56.21060079143882,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "matrices",
+      "target": "basics",
+      "curve": {
+        "x": -20.8589,
+        "y": 105.216
+      }
+    },
+    {
+      "source": "basics",
+      "target": "matrix factorisation  ️",
+      "curve": {
+        "x": -75.4521,
+        "y": 62.7836
+      }
+    },
+    {
+      "source": "help",
+      "target": "matrices",
+      "curve": {
+        "x": -46.1819,
+        "y": -48.973
+      }
+    },
+    {
+      "source": "basics",
+      "target": "determinants  ️",
+      "curve": {
+        "x": 29.7043,
+        "y": 62.1285
+      }
+    },
+    {
+      "source": "basics",
+      "target": "rank  ️",
+      "curve": {
+        "x": -232.624,
+        "y": 37.6276
+      }
+    },
+    {
+      "source": "basics",
+      "target": "singular value decomposition  ️",
+      "curve": {
+        "x": -341.135,
+        "y": 32.9248
+      }
+    }
+  ]
+}

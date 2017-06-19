@@ -1,0 +1,153 @@
+{
+  "title": "learn anything - health",
+  "nodes": [
+    {
+      "text": "health",
+      "url": "http://www.wikiwand.com/en/Health",
+      "fx": -57.0775536491891,
+      "fy": -259.58755343569294,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 43.158389136904475,
+      "fy": -160.9494047619046
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -77.46431228741505,
+      "fy": -75.30706459348539
+    },
+    {
+      "text": "physical",
+      "url": "",
+      "fx": -104.25553776882703,
+      "fy": 51.72808142845906
+    },
+    {
+      "text": "longevity",
+      "url": "http://www.wikiwand.com/en/Longevity",
+      "fx": -279.5991600566894,
+      "fy": 50.13929671442361,
+      "category": "wiki"
+    },
+    {
+      "text": "mental",
+      "url": "http://www.wikiwand.com/en/Mental_health",
+      "fx": 69.39278900148281,
+      "fy": 55.68567097348057,
+      "category": "wiki"
+    },
+    {
+      "text": "fitness  ️",
+      "url": "/id/Qruad21hxq43Qw4xHN4gyPZmeKc33cx3BDHq1o47",
+      "fx": -207.4440554648064,
+      "fy": 160.51599833289026,
+      "category": "mindmap"
+    },
+    {
+      "text": "nutrition  ️",
+      "url": "/id/zUyb7rGF3UvomE9YgA4tJ8vhfrGxZ9dvPNy2EL1r",
+      "fx": -60.33877034730551,
+      "fy": 162.44603104474072,
+      "category": "mindmap"
+    },
+    {
+      "text": "mindfulness  ️",
+      "url": "/id/X1xhDwGWzsx5JAYpitKYQmX9YtMgR3CBpujMkhj8",
+      "fx": 93.75350063210465,
+      "fy": 163.61987218655855,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome health",
+      "url": "https://github.com/kakoni/awesome-healthcare",
+      "fx": 180.15838913690447,
+      "fy": -149.4494047619046,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. how not to die",
+      "url": "https://www.goodreads.com/book/show/25663961-how-not-to-die",
+      "note": "covers how and why the diet that you have, has such an effect on you and how you can maximise and improve it towards better and longer living",
+      "fx": 104.53568771258495,
+      "fy": -63.80706459348539,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "physical",
+      "target": "fitness  ️",
+      "curve": {
+        "x": -48.0943,
+        "y": 55.644
+      }
+    },
+    {
+      "source": "physical",
+      "target": "nutrition  ️",
+      "curve": {
+        "x": 29.2084,
+        "y": 56.609
+      }
+    },
+    {
+      "source": "mental",
+      "target": "mindfulness  ️",
+      "curve": {
+        "x": 23.9304,
+        "y": 53.9671
+      }
+    },
+    {
+      "source": "basics",
+      "target": "mental",
+      "curve": {
+        "x": 67.6785,
+        "y": 65.4964
+      }
+    },
+    {
+      "source": "basics",
+      "target": "longevity",
+      "curve": {
+        "x": -95.0679,
+        "y": 63.9732
+      }
+    },
+    {
+      "source": "health",
+      "target": "basics",
+      "curve": {
+        "x": -16.6934,
+        "y": 90.8903
+      }
+    },
+    {
+      "source": "basics",
+      "target": "physical",
+      "curve": {
+        "x": -16.1456,
+        "y": 63.5176
+      }
+    },
+    {
+      "source": "help",
+      "target": "health",
+      "curve": {
+        "x": -38.868,
+        "y": -48.0691
+      }
+    }
+  ]
+}

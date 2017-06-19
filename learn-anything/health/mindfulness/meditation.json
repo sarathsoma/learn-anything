@@ -1,0 +1,74 @@
+{
+  "title": "learn anything - health - mindfulness - meditation",
+  "nodes": [
+    {
+      "text": "meditation",
+      "url": "http://www.wikiwand.com/en/Meditation",
+      "fx": 41.30389030612241,
+      "fy": -259.8797034438776,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 56.12978316326655,
+      "fy": -98.15585140305433
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Meditation/",
+      "fx": 263.3038903061224,
+      "fy": -245.8797034438776,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "meditation"
+    },
+    {
+      "text": "wiki",
+      "url": "https://www.reddit.com/r/Meditation/wiki/faq",
+      "fx": 373.3038903061224,
+      "fy": -245.8797034438776,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "1. how do I begin?",
+      "url": "https://www.reddit.com/r/Meditation/wiki/faq#wiki_how_do_i_begin.3F",
+      "fx": 238.12978316326655,
+      "fy": -120.65585140305433,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. how to meditate",
+      "url": "http://how-to-meditate.org/",
+      "fx": 238.12978316326655,
+      "fy": -80.65585140305433,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. meditation for beginners",
+      "url": "http://meditation.org.au/class1.asp?mobilecheck=true",
+      "fx": 238.12978316326655,
+      "fy": -46.65585140305433,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "meditation",
+      "target": "basics",
+      "curve": {
+        "x": -9.08705,
+        "y": 79.6119
+      }
+    }
+  ]
+}

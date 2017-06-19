@@ -1,0 +1,56 @@
+{
+  "title": "learn anything - art - public speaking",
+  "nodes": [
+    {
+      "text": "public speaking",
+      "url": "http://www.wikiwand.com/en/Public_speaking",
+      "fx": -95.13069465361457,
+      "fy": -359.4393354668674,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 30.780581793233182,
+      "fy": -225.01476190136287
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "toast masters",
+      "url": "http://www.toastmasters.org/",
+      "fx": 167.78058179323318,
+      "fy": -250.51476190136287,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "public speaking resources",
+      "url": "https://github.com/vmbrasseur/Public_Speaking",
+      "fx": 167.78058179323318,
+      "fy": -216.51476190136287,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome speaking",
+      "url": "https://github.com/matteofigus/awesome-speaking",
+      "fx": 167.78058179323318,
+      "fy": -176.51476190136287,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "public speaking",
+      "curve": {
+        "x": -29.9556,
+        "y": -65.9623
+      }
+    }
+  ]
+}

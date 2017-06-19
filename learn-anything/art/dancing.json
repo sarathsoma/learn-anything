@@ -1,0 +1,46 @@
+{
+  "title": "learn anything - art - dancing",
+  "nodes": [
+    {
+      "text": "dancing",
+      "url": "http://www.wikiwand.com/en/Dance",
+      "note": "",
+      "fx": -72.16796875,
+      "fy": -274.05500315656576,
+      "category": "wiki"
+    },
+    {
+      "text": "list of dances",
+      "url": "http://www.wikiwand.com/en/List_of_dances",
+      "fx": -115.78251262626247,
+      "fy": -153.0966303661616,
+      "category": "wiki"
+    },
+    {
+      "text": "salsa",
+      "url": "http://www.wikiwand.com/en/Salsa_(dance)",
+      "fx": -137.6867108585859,
+      "fy": -30.255918560604755,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "dancing",
+      "target": "list of dances",
+      "curve": {
+        "x": -17.0573,
+        "y": 59.2292
+      }
+    },
+    {
+      "source": "list of dances",
+      "target": "salsa",
+      "curve": {
+        "x": -29.2021,
+        "y": 61.4204
+      }
+    }
+  ]
+}

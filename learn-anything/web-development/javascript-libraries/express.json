@@ -1,0 +1,70 @@
+{
+  "title": "learn anything - web development - javascript libraries - express",
+  "nodes": [
+    {
+      "text": "express.js",
+      "url": "https://github.com/expressjs/express",
+      "fx": 85.5503101348877,
+      "fy": -115.02266800403595,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 218.13584899902344,
+      "fy": -14.318731307983398
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 110.18781982959626,
+      "fy": 89.48693926638964
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome express",
+      "url": "https://github.com/rajikaimal/awesome-express",
+      "fx": 355.13584899902344,
+      "fy": -2.8187313079833984,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. getting started",
+      "url": "https://expressjs.com/en/starter/installing.html",
+      "fx": 266.18781982959626,
+      "fy": 83.98693926638964,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. express workshop",
+      "url": "https://github.com/azat-co/expressworks",
+      "fx": 266.18781982959626,
+      "fy": 117.98693926638964,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "express.js",
+      "target": "basics",
+      "curve": {
+        "x": -3.18125,
+        "y": 101.005
+      }
+    },
+    {
+      "source": "help",
+      "target": "express.js",
+      "curve": {
+        "x": -46.0428,
+        "y": -49.102
+      }
+    }
+  ]
+}

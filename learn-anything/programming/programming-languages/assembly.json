@@ -1,0 +1,174 @@
+{
+  "title": "learn anything - programming - programming languages - assembly",
+  "nodes": [
+    {
+      "text": "assembly",
+      "url": "http://www.wikiwand.com/en/Assembly_language",
+      "fx": -18.31252257947972,
+      "fy": -472.72014992774564,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 110.84678577136447,
+      "fy": -370.1110950095116
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 17.480152637283368,
+      "fy": -162.44808977601173
+    },
+    {
+      "text": "WebAssembly  ️",
+      "url": "/id/hGPfuwm3pbzHXVVmB3kGRJKcPGPgeZAVFQGztxHW",
+      "fx": 99.29176417951567,
+      "fy": 74.52089069383283,
+      "category": "mindmap"
+    },
+    {
+      "text": "instruction set architectures",
+      "url": "http://www.wikiwand.com/en/Instruction_set_architecture",
+      "fx": -275.39453125,
+      "fy": 76.15234375,
+      "category": "wiki"
+    },
+    {
+      "text": "MIPS",
+      "url": "http://www.wikiwand.com/en/MIPS_architecture",
+      "fx": -15.614919839570575,
+      "fy": 203.07765302609664,
+      "category": "wiki"
+    },
+    {
+      "text": "x86  ️",
+      "url": "/id/H6rPgY4sVHEsCvZMjTJSKtaZ3igaptCXoYw1Bkx6",
+      "fx": -146.58537946428578,
+      "fy": 205.08129152823926,
+      "category": "mindmap"
+    },
+    {
+      "text": "ARM  ️",
+      "url": "/id/s2EqKrvGrHbiixx7NHbgUHuHqYppAyFZuy6VmnpW",
+      "fx": -290.09813760004545,
+      "fy": 205.6018716022345,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome asm",
+      "url": "https://github.com/jaspergould/awesome-asm",
+      "fx": 247.84678577136447,
+      "fy": -358.6110950095116,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. c to assembler",
+      "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/video-lectures/lecture-6-c-to-assembler/",
+      "fx": 199.48015263728337,
+      "fy": -274.9480897760117,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. compiling c to printable x86, to make an executable research paper",
+      "url": "https://www.youtube.com/watch?v=LA_DrBwkiJA",
+      "fx": 199.48015263728337,
+      "fy": -234.94808977601173,
+      "category": "video",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. the art of assembly language programming",
+      "url": "https://courses.engr.illinois.edu/ece390/books/artofasm/artofasm.html",
+      "fx": 199.48015263728337,
+      "fy": -150.94808977601173,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. programming from the ground up",
+      "url": "http://www.cs.princeton.edu/courses/archive/spr08/cos217/reading/ProgrammingGroundUp-1-0-lettersize.pdf",
+      "fx": 199.48015263728337,
+      "fy": -88.94808977601173,
+      "category": "free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. pc assembly language",
+      "url": "http://zoo.cs.yale.edu/classes/cs422/2014fa/readings/pcasm-book.pdf",
+      "fx": 199.48015263728337,
+      "fy": -26.948089776011727,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "instruction set architectures",
+      "target": "x86  ️",
+      "curve": {
+        "x": 17.9046,
+        "y": 65.7148
+      }
+    },
+    {
+      "source": "instruction set architectures",
+      "target": "MIPS",
+      "curve": {
+        "x": 80.1398,
+        "y": 63.4627
+      }
+    },
+    {
+      "source": "assembly",
+      "target": "basics",
+      "curve": {
+        "x": 3.89634,
+        "y": 153.886
+      }
+    },
+    {
+      "source": "basics",
+      "target": "instruction set architectures",
+      "curve": {
+        "x": -91.6873,
+        "y": 120.55
+      }
+    },
+    {
+      "source": "basics",
+      "target": "WebAssembly  ️",
+      "curve": {
+        "x": 45.9449,
+        "y": 125.859
+      }
+    },
+    {
+      "source": "help",
+      "target": "assembly",
+      "curve": {
+        "x": -45.8297,
+        "y": -50.0545
+      }
+    },
+    {
+      "source": "instruction set architectures",
+      "target": "ARM  ️",
+      "curve": {
+        "x": -58.1018,
+        "y": 64.7248
+      }
+    }
+  ]
+}

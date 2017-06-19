@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - computer networking - protocols - http",
+  "nodes": [
+    {
+      "text": "http",
+      "url": "http://www.wikiwand.com/en/Hypertext_Transfer_Protocol",
+      "fx": -55.58984375,
+      "fy": -244.1015625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -61.31640625,
+      "fy": -65.81640625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to http",
+      "url": "https://launchschool.com/books/http/read/introduction",
+      "fx": 120.68359375,
+      "fy": -54.31640625,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "http",
+      "target": "basics",
+      "curve": {
+        "x": -4.61328,
+        "y": 87.8926
+      }
+    }
+  ]
+}

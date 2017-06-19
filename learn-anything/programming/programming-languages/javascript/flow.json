@@ -1,0 +1,70 @@
+{
+  "title": "learn anything - programming - programming languages - javascript - flow",
+  "nodes": [
+    {
+      "text": "flow",
+      "url": "https://github.com/facebook/flow",
+      "fx": -149.24609375,
+      "fy": -83.2734375,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -49.88526900773195,
+      "fy": 31.59375
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -149.82406839866496,
+      "fy": 133.01372801152456
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome flow",
+      "url": "https://github.com/dustinspecker/awesome-flow",
+      "fx": 87.11473099226805,
+      "fy": 23.09375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "typescript vs flow",
+      "url": "https://github.com/niieani/typescript-vs-flowtype",
+      "fx": 87.11473099226805,
+      "fy": 63.09375,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. get started",
+      "url": "https://flow.org/en/docs/getting-started/",
+      "fx": 6.175931601335037,
+      "fy": 147.51372801152456,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "flow",
+      "curve": {
+        "x": -42.9304,
+        "y": -56.1836
+      }
+    },
+    {
+      "source": "flow",
+      "target": "basics",
+      "curve": {
+        "x": -2.28899,
+        "y": 106.894
+      }
+    }
+  ]
+}

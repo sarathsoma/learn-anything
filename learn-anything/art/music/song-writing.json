@@ -1,0 +1,47 @@
+{
+  "title": "learn anything - art - music - song writing",
+  "nodes": [
+    {
+      "text": "song writing",
+      "url": "",
+      "fx": -74.6953125,
+      "fy": -139.609375
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -52.04296875,
+      "fy": -6.04296875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Songwriting/",
+      "fx": 133.3046875,
+      "fy": -128.109375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "song writing"
+    },
+    {
+      "text": "1. how to write a song: creating vocal melodies",
+      "url": "https://www.youtube.com/watch?v=fwiztN_D-uA",
+      "fx": 103.95703125,
+      "fy": -5.54296875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "song writing",
+      "target": "basics",
+      "curve": {
+        "x": -1.67383,
+        "y": 66.7832
+      }
+    }
+  ]
+}

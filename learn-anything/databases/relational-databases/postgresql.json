@@ -1,0 +1,102 @@
+{
+  "title": "learn anything - databases - relational databases - postgresql",
+  "nodes": [
+    {
+      "text": "PostgreSQL",
+      "url": "http://www.wikiwand.com/en/PostgreSQL",
+      "fx": -26.7109375,
+      "fy": -287.90625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 91.1979808807373,
+      "fy": -185.01295471191406
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 124.95433265932127,
+      "fy": -67.17500452841489
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 8.957818975945656,
+      "fy": 23.57053097350382
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome PostgreSQL",
+      "url": "https://github.com/dhamaniasad/awesome-postgres",
+      "fx": 228.1979808807373,
+      "fy": -190.51295471191406,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "PostgreSQL documentation",
+      "url": "https://www.postgresql.org/docs/current/static/index.html",
+      "fx": 228.1979808807373,
+      "fy": -150.51295471191406,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: why use postgres  ️",
+      "url": "http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/",
+      "fx": 286.95433265932127,
+      "fy": -86.67500452841489,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "15: postgres full-text search is good enough  ️",
+      "url": "http://rachbelaid.com/postgres-full-text-search-is-good-enough/",
+      "fx": 286.95433265932127,
+      "fy": -46.67500452841489,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "PostgreSQL exercises",
+      "url": "https://pgexercises.com/",
+      "fx": 190.95781897594566,
+      "fy": 38.07053097350382,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "PostgreSQL",
+      "curve": {
+        "x": -33.9545,
+        "y": -50.1966
+      }
+    },
+    {
+      "source": "PostgreSQL",
+      "target": "basics",
+      "curve": {
+        "x": -2.41562,
+        "y": 154.488
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -23.1281,
+        "y": -58.919
+      }
+    }
+  ]
+}

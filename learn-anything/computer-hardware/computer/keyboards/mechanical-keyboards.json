@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - computer hardware - computer - keyboards - mechanical keyboards",
+  "nodes": [
+    {
+      "text": "mechanical keyboards",
+      "url": "https://www.reddit.com/r/MechanicalKeyboards/",
+      "fx": -85.578125,
+      "fy": -186.95703125,
+      "category": "reddit"
+    },
+    {
+      "text": "ortholinear",
+      "url": "https://olkb.com/",
+      "fx": -77.76798115079384,
+      "fy": -28.30983382936836
+    },
+    {
+      "text": "planck",
+      "url": "https://olkb.com/planck",
+      "fx": -157.2059807441252,
+      "fy": 89.73698596605743
+    },
+    {
+      "text": "preonic",
+      "url": "https://olkb.com/preonic",
+      "fx": -25.02198922976163,
+      "fy": 93.40763707571818
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "mechanical keyboards",
+      "target": "ortholinear",
+      "curve": {
+        "x": -30.3449,
+        "y": 78.0736
+      }
+    },
+    {
+      "source": "ortholinear",
+      "target": "planck",
+      "curve": {
+        "x": -48.469,
+        "y": 59.0234
+      }
+    },
+    {
+      "source": "ortholinear",
+      "target": "preonic",
+      "curve": {
+        "x": 19.373,
+        "y": 60.8587
+      }
+    }
+  ]
+}

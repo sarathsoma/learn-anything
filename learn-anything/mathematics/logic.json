@@ -1,0 +1,197 @@
+{
+  "title": "learn anything - mathematics - logic",
+  "nodes": [
+    {
+      "text": "logic",
+      "url": "http://www.wikiwand.com/en/Logic",
+      "fx": -81.10907451923094,
+      "fy": -147.831440924949,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 3.532042176573441,
+      "fy": -21.828125
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -85.8359375,
+      "fy": 90.5058730332168
+    },
+    {
+      "text": "automated reasoning",
+      "url": "http://www.wikiwand.com/en/Automated_reasoning",
+      "fx": -614.6059385907018,
+      "fy": 214.474343341686,
+      "category": "wiki"
+    },
+    {
+      "text": "proofs  ️",
+      "url": "/id/ninYzqp3QpzfKTcFfKY2JWLQkqrJiWPwmwFHYNR4",
+      "fx": -754.4810202245044,
+      "fy": 216.83558138791864,
+      "category": "mindmap"
+    },
+    {
+      "text": "peano axioms",
+      "url": "http://www.wikiwand.com/en/Peano_axioms",
+      "fx": -40.54851631531983,
+      "fy": 226.95262669432032,
+      "category": "wiki"
+    },
+    {
+      "text": "proof theory  ️",
+      "url": "/id/ScedY6zyrZqp7ueE6vJSK8qYyaPipSzSS2xL9eYk",
+      "fx": -877.4581983148621,
+      "fy": 321.9542549635659,
+      "category": "mindmap"
+    },
+    {
+      "text": "automated theorem proving  ️",
+      "url": "/id/iEF8RLqxkRznMvNHvzCyCmBxstqzbJhzFuHDGpsq",
+      "fx": -646.5482238736976,
+      "fy": 348.168212106037,
+      "category": "mindmap"
+    },
+    {
+      "text": "combinatory logic",
+      "url": "http://www.wikiwand.com/en/Combinatory_logic",
+      "note": "is a notation to eliminate the need for quantified variables in mathematical logic  It was introduced by Moses Schönfinkel and Haskell Curry and has more recently been used in computer science as a theoretical model of computation and also as a basis for the design of functional programming languages.",
+      "fx": -305.4384558433503,
+      "fy": 351.78128315063225,
+      "category": "wiki"
+    },
+    {
+      "text": "Godel’s incompleteness theorem  ️",
+      "url": "/id/yvqyTXrxF6TtxrmCix56cpp47ZvX8LAvLDr6oqGW",
+      "note": "Godel’s incompleteness theorems are two theories of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system containing basic arithmetic  the theorems are widely, but not universally, interpreted as showing that Hilbert’s program to find a complete and consistent set of axioms for all mathematics is impossible  the first implemented theorem states that no consistent system of axioms whose theorems ca be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of the natural numbers  for any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system  the second theorem, an extension of the first, shows that the system cannot demonstrate its own consistency ",
+      "fx": 48.356246361365265,
+      "fy": 372.74590037419284,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/logic/",
+      "fx": 87.89092548076906,
+      "fy": -133.831440924949,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "logic"
+    },
+    {
+      "text": "incredible proof machine",
+      "url": "http://incredible.pm/",
+      "fx": 140.53204217657344,
+      "fy": -61.328125,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "functional programming in coq, logic and more",
+      "url": "http://www.cis.upenn.edu/~bcpierce/sf/current/toc.html",
+      "fx": 140.53204217657344,
+      "fy": -21.328125,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "book of bad arguments",
+      "url": "https://bookofbadarguments.com/",
+      "fx": 140.53204217657344,
+      "fy": 40.671875,
+      "category": "free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. logic matters",
+      "url": "http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf",
+      "fx": 95.1640625,
+      "fy": 102.0058730332168,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "logic",
+      "target": "basics",
+      "curve": {
+        "x": -5.61343,
+        "y": 117.919
+      }
+    },
+    {
+      "source": "help",
+      "target": "logic",
+      "curve": {
+        "x": -34.3206,
+        "y": -61.7516
+      }
+    },
+    {
+      "source": "basics",
+      "target": "combinatory logic",
+      "curve": {
+        "x": -83.3013,
+        "y": 131.888
+      }
+    },
+    {
+      "source": "basics",
+      "target": "automated reasoning",
+      "curve": {
+        "x": -332.432,
+        "y": 33.7769
+      }
+    },
+    {
+      "source": "automated reasoning",
+      "target": "automated theorem proving  ️",
+      "curve": {
+        "x": -1.22114,
+        "y": 66.8469
+      }
+    },
+    {
+      "source": "basics",
+      "target": "peano axioms",
+      "curve": {
+        "x": 40.6437,
+        "y": 69.4734
+      }
+    },
+    {
+      "source": "peano axioms",
+      "target": "Godel’s incompleteness theorem  ️",
+      "curve": {
+        "x": 67.2024,
+        "y": 79.1466
+      }
+    },
+    {
+      "source": "basics",
+      "target": "proofs  ️",
+      "curve": {
+        "x": -431.974,
+        "y": 8.77436
+      }
+    },
+    {
+      "source": "proofs  ️",
+      "target": "proof theory  ️",
+      "curve": {
+        "x": -41.2386,
+        "y": 53.8093
+      }
+    }
+  ]
+}

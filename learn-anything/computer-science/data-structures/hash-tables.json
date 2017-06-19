@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - computer science - data structures - hash tables",
+  "nodes": [
+    {
+      "text": "hash tables",
+      "url": "http://www.wikiwand.com/en/Hash_table",
+      "fx": -110.33984375,
+      "fy": -435.92578125,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 39.36318506993143,
+      "fy": -309.29536533816423
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "f",
+      "fx": -69.61223118279577,
+      "fy": -195.0262096774194
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "17: writing a damn fast hash table with tiny memory footprints  ️",
+      "url": "http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/",
+      "fx": 230.36318506993143,
+      "fy": -308.79536533816423,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. hash tables explained",
+      "url": "https://www.youtube.com/watch?v=shs0KM3wKv8",
+      "fx": 112.38776881720423,
+      "fy": -183.5262096774194,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "interesting",
+      "target": "hash tables",
+      "curve": {
+        "x": -58.3515,
+        "y": -62.0652
+      }
+    },
+    {
+      "source": "hash tables",
+      "target": "basics",
+      "curve": {
+        "x": -4.88619,
+        "y": 119.2
+      }
+    }
+  ]
+}

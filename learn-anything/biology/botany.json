@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - biology - botany",
+  "nodes": [
+    {
+      "text": "botany",
+      "url": "http://www.wikiwand.com/en/Botany",
+      "fx": -107.67578125,
+      "fy": -328.91796875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -93.6796875,
+      "fy": -175.171875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. botany crash course",
+      "url": "https://www.youtube.com/watch?v=9UvlqAVCoqY&amp;list=PLqzQLnR27z26GxF-kebZ_Q5jwife2JHGS",
+      "fx": 88.3203125,
+      "fy": -183.671875,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. botany in a day",
+      "url": "http://www.goodreads.com/book/show/743143.Botany_in_a_Day",
+      "fx": 88.3203125,
+      "fy": -143.671875,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "botany",
+      "target": "basics",
+      "curve": {
+        "x": -1.25195,
+        "y": 75.623
+      }
+    }
+  ]
+}

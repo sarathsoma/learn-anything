@@ -1,0 +1,185 @@
+{
+  "title": "learn anything - philosophy - philosophy of mind",
+  "nodes": [
+    {
+      "text": "philosophy of mind",
+      "url": "http://www.wikiwand.com/en/Philosophy_of_mind",
+      "fx": -6.41015625,
+      "fy": -234.6875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 62.99609375,
+      "fy": -107.5703125
+    },
+    {
+      "text": "free will",
+      "url": "http://www.wikiwand.com/en/Free_will",
+      "note": "ability to choose between different possible courses of action",
+      "fx": -391.0000521267723,
+      "fy": -29.04243988045556,
+      "category": "wiki"
+    },
+    {
+      "text": "consciousness  ️",
+      "url": "/id/hSNyGspZ2ZBNebvrRvgmrg62Nk963kgwjAvNAFuq",
+      "fx": -476.9396494801081,
+      "fy": 68.81292890416984,
+      "category": "mindmap"
+    },
+    {
+      "text": "solipsism  ️",
+      "url": "/id/oixqpAaH7QZLUsZ7ogDs692wWNC849eECuvATzyj",
+      "fx": 315.59189151982514,
+      "fy": 69.98609581497658,
+      "category": "mindmap"
+    },
+    {
+      "text": "functionalism",
+      "url": "http://www.wikiwand.com/en/Functionalism_(philosophy_of_mind)",
+      "fx": 162.53408758341936,
+      "fy": 161.69713153758937,
+      "category": "wiki"
+    },
+    {
+      "text": "dualism",
+      "url": "http://www.wikiwand.com/en/Dualism",
+      "fx": -38.39649949679813,
+      "fy": 177.07081465630694,
+      "category": "wiki"
+    },
+    {
+      "text": "metaphysics  ️",
+      "url": "/id/fTiQkDsXwhsJb5zCs9iLH76VazkwpHis5jtJVP75",
+      "fx": -287.87329472580984,
+      "fy": 187.89017152133056,
+      "category": "mindmap"
+    },
+    {
+      "text": "qualia",
+      "url": "http://www.wikiwand.com/en/Qualia",
+      "fx": -432.2287564212328,
+      "fy": 191.52407962328755,
+      "category": "wiki"
+    },
+    {
+      "text": "physicalism  ️",
+      "url": "/id/fyEcR1uB4KvW1sFzBq8cABYzBYerwGwyERvA1UaA",
+      "fx": 47.392570377267816,
+      "fy": 254.10681163225433,
+      "category": "mindmap"
+    },
+    {
+      "text": "phenomenology  ️",
+      "url": "/id/AS5ptq7URougffsu5qNFKgKFGR6BjbmqguZhFQpe",
+      "fx": -128.77296840252063,
+      "fy": 366.63823607765016,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. matter and consciousness: a contemporary introduction to the philosophy of mind",
+      "url": "http://www.goodreads.com/book/show/357298.Matter_and_Consciousness",
+      "fx": 244.99609375,
+      "fy": -138.0703125,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. mind: a brief introduction",
+      "url": "http://www.goodreads.com/book/show/51905.Mind",
+      "fx": 244.99609375,
+      "fy": -54.0703125,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "philosophy of mind",
+      "target": "basics",
+      "curve": {
+        "x": -0.796875,
+        "y": 62.3086
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dualism",
+      "curve": {
+        "x": -47.6964,
+        "y": 142.321
+      }
+    },
+    {
+      "source": "basics",
+      "target": "physicalism  ️",
+      "curve": {
+        "x": 11.1982,
+        "y": 182.089
+      }
+    },
+    {
+      "source": "basics",
+      "target": "functionalism",
+      "curve": {
+        "x": 72.269,
+        "y": 135.884
+      }
+    },
+    {
+      "source": "basics",
+      "target": "phenomenology  ️",
+      "curve": {
+        "x": -198.104,
+        "y": 235.361
+      }
+    },
+    {
+      "source": "basics",
+      "target": "metaphysics  ️",
+      "curve": {
+        "x": -179.645,
+        "y": 148.98
+      }
+    },
+    {
+      "source": "basics",
+      "target": "qualia",
+      "curve": {
+        "x": -277.175,
+        "y": 133.727
+      }
+    },
+    {
+      "source": "basics",
+      "target": "consciousness  ️",
+      "curve": {
+        "x": -249.968,
+        "y": 89.4416
+      }
+    },
+    {
+      "source": "basics",
+      "target": "free will",
+      "curve": {
+        "x": -223.998,
+        "y": 40.5139
+      }
+    },
+    {
+      "source": "basics",
+      "target": "solipsism  ️",
+      "curve": {
+        "x": 117.169,
+        "y": 98.0603
+      }
+    }
+  ]
+}

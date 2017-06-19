@@ -1,0 +1,383 @@
+{
+  "title": "learn anything - web development - backend - nodejs",
+  "nodes": [
+    {
+      "text": "node.js",
+      "url": "https://nodejs.org/en/",
+      "fx": -105.84240459450439,
+      "fy": -502.64807599129006
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 10.828768170508283,
+      "fy": -380.78500646487527
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 332.38974766042793,
+      "fy": -141.1227022058821
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -176.28404688699572,
+      "fy": -80.2695460908268
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 774.41796875,
+      "fy": 0.2265625
+    },
+    {
+      "text": "package manager",
+      "url": "http://www.wikiwand.com/en/Package_manager",
+      "fx": -452.6711867920544,
+      "fy": 49.536041051440634,
+      "category": "wiki"
+    },
+    {
+      "text": "chai",
+      "url": "https://github.com/chaijs/chai",
+      "fx": 395.9577802479696,
+      "fy": 137.26965835626186,
+      "category": "github"
+    },
+    {
+      "text": "testing",
+      "url": "http://www.wikiwand.com/en/Software_testing",
+      "fx": 193.72227829980943,
+      "fy": 140.70757508719964,
+      "category": "wiki"
+    },
+    {
+      "text": "yarn",
+      "url": "https://github.com/yarnpkg/yarn",
+      "fx": -342.4251445404676,
+      "fy": 149.21328369965784,
+      "category": "github"
+    },
+    {
+      "text": "npm",
+      "url": "https://www.npmjs.com/",
+      "fx": -450.8827179696982,
+      "fy": 153.8566811231866
+    },
+    {
+      "text": "web frameworks",
+      "url": "http://www.wikiwand.com/en/Web_framework",
+      "fx": -174.30688577930357,
+      "fy": 152.17002604998407,
+      "category": "wiki"
+    },
+    {
+      "text": "jasmine",
+      "url": "https://github.com/jasmine/jasmine",
+      "fx": 366.65381935174537,
+      "fy": 215.51134534876996,
+      "category": "github"
+    },
+    {
+      "text": "hapi",
+      "url": "https://github.com/hapijs/hapi",
+      "fx": -144.021757276313,
+      "fy": 244.9692766127663,
+      "category": "github"
+    },
+    {
+      "text": "koa",
+      "url": "https://github.com/koajs/koa",
+      "fx": -30.926969678656747,
+      "fy": 246.63048190451434,
+      "category": "github"
+    },
+    {
+      "text": "express  ️",
+      "url": "/id/zwXmrqAW4wDks9xzpPzumULC7RGuryQCesparXZU",
+      "fx": -306.63391407093445,
+      "fy": 248.51274890280536,
+      "category": "mindmap"
+    },
+    {
+      "text": "sails.js",
+      "url": "https://github.com/balderdashy/sails",
+      "fx": 78.17321014404297,
+      "fy": 248.64392852783203,
+      "category": "github"
+    },
+    {
+      "text": "jest  ️",
+      "url": "/id/vQttqzUvfzbk97qSDhtEZiFFmNpb9fy6XxtKPyz7",
+      "fx": 284.4532014586084,
+      "fy": 298.355031185013,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "docs",
+      "url": "https://nodejs.org/api/documentation.html",
+      "fx": 147.82876817050828,
+      "fy": -514.2850064648753,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "art of node",
+      "url": "https://github.com/maxogden/art-of-node",
+      "fx": 147.82876817050828,
+      "fy": -480.2850064648753,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "node.js learning",
+      "url": "https://github.com/sergtitov/NodeJS-Learning",
+      "fx": 147.82876817050828,
+      "fy": -440.2850064648753,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "stream handbook",
+      "url": "https://github.com/substack/stream-handbook",
+      "note": "how to write node programs with streams",
+      "fx": 147.82876817050828,
+      "fy": -400.2850064648753,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome node.js",
+      "url": "https://www.youtube.com/watch?v=w-7RQ46RgxU&amp;list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+      "fx": 147.82876817050828,
+      "fy": -360.2850064648753,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "tiny guide to non fancy node",
+      "url": "https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node",
+      "fx": 147.82876817050828,
+      "fy": -320.2850064648753,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "learn node.js from self-guided workshops",
+      "url": "https://github.com/workshopper/learnyounode",
+      "fx": 147.82876817050828,
+      "fy": -280.2850064648753,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "node.js original slide deck",
+      "url": "http://tinyclouds.org/jsconf.pdf",
+      "fx": 147.82876817050828,
+      "fy": -218.28500646487532,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "callback hell  ️",
+      "url": "http://callbackhell.com/",
+      "fx": 494.38974766042793,
+      "fy": -169.6227022058821,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "node aesthetic  ️",
+      "url": "https://github.com/substack/blog/blob/master/node_aesthetic.markdown",
+      "fx": 494.38974766042793,
+      "fy": -129.6227022058821,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "pragmatic modularity  ️",
+      "url": "http://mafintosh.com/pragmatic-modularity.html",
+      "fx": 494.38974766042793,
+      "fy": -89.62270220588209,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. node school",
+      "url": "https://nodeschool.io/",
+      "fx": 5.715953113004275,
+      "fy": -102.7695460908268,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the node way",
+      "url": "http://thenodeway.io/",
+      "fx": 5.715953113004275,
+      "fy": -68.7695460908268,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. node: up and running",
+      "url": "http://chimera.labs.oreilly.com/books/1234000001808/index.html",
+      "fx": 5.715953113004275,
+      "fy": -34.76954609082679,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "jsdom",
+      "url": "https://github.com/tmpvar/jsdom",
+      "fx": 965.41796875,
+      "fy": 11.7265625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "node.js",
+      "target": "basics",
+      "curve": {
+        "x": -37.2209,
+        "y": 211.19
+      }
+    },
+    {
+      "source": "help",
+      "target": "node.js",
+      "curve": {
+        "x": -51.5857,
+        "y": -60.9316
+      }
+    },
+    {
+      "source": "basics",
+      "target": "package manager",
+      "curve": {
+        "x": -111.694,
+        "y": 64.9027
+      }
+    },
+    {
+      "source": "package manager",
+      "target": "npm",
+      "curve": {
+        "x": -29.8558,
+        "y": 52.1603
+      }
+    },
+    {
+      "source": "package manager",
+      "target": "yarn",
+      "curve": {
+        "x": 23.873,
+        "y": 49.8386
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "sails.js",
+      "curve": {
+        "x": 114.49,
+        "y": 48.237
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "koa",
+      "curve": {
+        "x": 53.69,
+        "y": 47.2302
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "hapi",
+      "curve": {
+        "x": -1.6074,
+        "y": 46.3996
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "express  ️",
+      "curve": {
+        "x": -74.9135,
+        "y": 48.1714
+      }
+    },
+    {
+      "source": "basics",
+      "target": "web frameworks",
+      "curve": {
+        "x": 17.7386,
+        "y": 116.22
+      }
+    },
+    {
+      "source": "basics",
+      "target": "testing",
+      "curve": {
+        "x": 179.253,
+        "y": 110.489
+      }
+    },
+    {
+      "source": "testing",
+      "target": "chai",
+      "curve": {
+        "x": 95.1178,
+        "y": -1.71896
+      }
+    },
+    {
+      "source": "testing",
+      "target": "jasmine",
+      "curve": {
+        "x": 88.4658,
+        "y": 37.4019
+      }
+    },
+    {
+      "source": "testing",
+      "target": "jest  ️",
+      "curve": {
+        "x": 38.1155,
+        "y": 78.8237
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -275.837,
+        "y": -74.6022
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "articles",
+      "curve": {
+        "x": -300.026,
+        "y": -24.2801
+      }
+    }
+  ]
+}

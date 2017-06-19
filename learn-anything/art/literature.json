@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - art - literature",
+  "nodes": [
+    {
+      "text": "literature",
+      "url": "http://www.wikiwand.com/en/Literature",
+      "fx": 45.63131009615381,
+      "fy": -289.11011618589725,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 68.296875,
+      "fy": -173.30000000000007
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. crash course english literature",
+      "url": "https://www.youtube.com/watch?v=MSYw502dJNY&amp;list=PL8dPuuaLjXtOeEc9ME62zTfqc0h6Pe8vb",
+      "fx": 250.296875,
+      "fy": -161.80000000000007,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "literature",
+      "target": "basics",
+      "curve": {
+        "x": -7.16722,
+        "y": 56.6551
+      }
+    }
+  ]
+}

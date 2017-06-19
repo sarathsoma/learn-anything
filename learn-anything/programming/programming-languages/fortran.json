@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - programming - programming languages - fortran",
+  "nodes": [
+    {
+      "text": "fortran",
+      "url": "http://www.wikiwand.com/en/Fortran",
+      "note": "",
+      "fx": -49.6796875,
+      "fy": -144.36328125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 5.828125,
+      "fy": -32.40234375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome fortran",
+      "url": "https://github.com/rabbiabram/awesome-fortran",
+      "fx": 142.828125,
+      "fy": -20.90234375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "fortran",
+      "curve": {
+        "x": -15.5039,
+        "y": -54.7305
+      }
+    }
+  ]
+}

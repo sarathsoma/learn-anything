@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - programming - dynamic programming",
+  "nodes": [
+    {
+      "text": "dynamic programming",
+      "url": "http://www.wikiwand.com/en/Dynamic_programming",
+      "fx": -153.13671875,
+      "fy": -385.5859375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -67.46153846153936,
+      "fy": -216.7872596153344
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1: dynamic programming lecture",
+      "url": "https://www.youtube.com/watch?v=sF7hzgUW5uY",
+      "note": "if you think this can be improved in any way ",
+      "fx": 88.53846153846064,
+      "fy": -225.2872596153344,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. advanced DP",
+      "url": "https://www.youtube.com/watch?v=Tw1k46ywN6E",
+      "fx": 88.53846153846064,
+      "fy": -185.2872596153344,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "dynamic programming",
+      "target": "basics",
+      "curve": {
+        "x": -0.66241,
+        "y": 83.1493
+      }
+    }
+  ]
+}

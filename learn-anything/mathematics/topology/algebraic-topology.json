@@ -1,0 +1,64 @@
+{
+  "title": "learn anything - mathematics - topology - algebraic topology",
+  "nodes": [
+    {
+      "text": "algebraic topology",
+      "url": "http://www.wikiwand.com/en/Algebraic_topology",
+      "fx": -69.0546875,
+      "fy": -302.171875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -13.021252858492176,
+      "fy": -173.8079806800106
+    },
+    {
+      "text": "homology  ️",
+      "url": "/id/xhz3pCs4pX9eCR8jnuRhRRxcir27Fy666bnrtMSf",
+      "fx": -166.22967935852762,
+      "fy": -58.03336145295225,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to algebraic topology",
+      "url": "https://www.youtube.com/watch?v=kdpbfOzkJzI",
+      "fx": 168.97874714150782,
+      "fy": -193.3079806800106,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. algebraic topology",
+      "url": "http://www.maths.ed.ac.uk/~aar/papers/diecktop.pdf",
+      "fx": 168.97874714150782,
+      "fy": -131.3079806800106,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "algebraic topology",
+      "target": "basics",
+      "curve": {
+        "x": -6.23329,
+        "y": 62.9319
+      }
+    },
+    {
+      "source": "basics",
+      "target": "homology  ️",
+      "curve": {
+        "x": -82.1149,
+        "y": 67.3472
+      }
+    }
+  ]
+}

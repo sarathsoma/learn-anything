@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - linguistics - languages - italian",
+  "nodes": [
+    {
+      "text": "italian",
+      "url": "http://www.wikiwand.com/en/Italian_language",
+      "fx": -30.390625,
+      "fy": -176.09765625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "i",
+      "fx": -36.51953125,
+      "fy": -35.890625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/italianlearning/",
+      "fx": 147.609375,
+      "fy": -162.09765625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "italian"
+    },
+    {
+      "text": "1. duolingo",
+      "url": "https://www.duolingo.com/course/it/en/Learn-Italian-Online",
+      "fx": 145.48046875,
+      "fy": -21.390625,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "italian",
+      "target": "basics",
+      "curve": {
+        "x": -8.56445,
+        "y": 68.8535
+      }
+    }
+  ]
+}

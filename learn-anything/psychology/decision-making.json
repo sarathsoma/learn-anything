@@ -1,0 +1,79 @@
+{
+  "title": "learn anything - psychology - decision making",
+  "nodes": [
+    {
+      "text": "decision making",
+      "url": "http://www.wikiwand.com/en/Decision-making",
+      "fx": -112.9921875,
+      "fy": -328.30859375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -58.05677406832342,
+      "fy": -196.03988742236032
+    },
+    {
+      "text": "consensus decision-making",
+      "url": "http://www.wikiwand.com/en/Consensus_decision-making",
+      "fx": -372.4427051958829,
+      "fy": -77.52082802197941,
+      "category": "wiki"
+    },
+    {
+      "text": "problem solving  ️",
+      "url": "/id/d2JCqrbLWfvJhRsZxJr8sQ5k5nZexSMLYeSEAN2Y",
+      "fx": 24.865102964131097,
+      "fy": -34.76250619898531,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. thinking, fast and slow",
+      "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+      "fx": 123.94322593167658,
+      "fy": -215.53988742236032,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. effective problem-solving and decision making",
+      "url": "https://www.coursera.org/learn/problem-solving",
+      "fx": 123.94322593167658,
+      "fy": -175.53988742236032,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "decision making",
+      "target": "basics",
+      "curve": {
+        "x": -2.03229,
+        "y": 64.8844
+      }
+    },
+    {
+      "source": "basics",
+      "target": "consensus decision-making",
+      "curve": {
+        "x": -101.443,
+        "y": 60.5095
+      }
+    },
+    {
+      "source": "basics",
+      "target": "problem solving  ️",
+      "curve": {
+        "x": 62.7109,
+        "y": 80.6387
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "learn anything - linguistics - languages - hebrew",
+  "nodes": [
+    {
+      "text": "hebrew language",
+      "url": "http://www.wikiwand.com/en/Hebrew_language",
+      "fx": -112.62545117735863,
+      "fy": -148.41928482055664,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -50.706160757404064,
+      "fy": 19.5903963309068
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/hebrew/",
+      "fx": 170.37454882264137,
+      "fy": -134.41928482055664,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "hebrew language"
+    },
+    {
+      "text": "1. duolingo",
+      "url": "https://www.duolingo.com/course/he/en/Learn-Hebrew-Online",
+      "fx": 105.29383924259594,
+      "fy": 14.090396330906799,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. hebrew alphabet",
+      "url": "https://www.youtube.com/watch?v=M9t_hqFDB6E&amp;feature=c4-overview-vl&amp;list=PLs_960L8fsozkSpqNbEHOZ0iBa3ArWK0k",
+      "fx": 105.29383924259594,
+      "fy": 48.0903963309068,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "hebrew language",
+      "target": "basics",
+      "curve": {
+        "x": -0.790355,
+        "y": 82.7548
+      }
+    }
+  ]
+}

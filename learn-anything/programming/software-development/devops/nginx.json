@@ -1,0 +1,73 @@
+{
+  "title": "learn anything - programming - software development - devops - nginx",
+  "nodes": [
+    {
+      "text": "nginx",
+      "url": "http://www.wikiwand.com/en/Nginx",
+      "note": "",
+      "fx": -69.55078125,
+      "fy": -229.15234375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 22.07421875,
+      "fy": -111.9453125
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 78.82421875,
+      "fy": 9.42578125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "nginx resources",
+      "url": "https://github.com/fcambus/nginx-resources",
+      "fx": 159.07421875,
+      "fy": -120.4453125,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "nginx boilerplate",
+      "url": "https://github.com/nginx-boilerplate/nginx-boilerplate",
+      "fx": 159.07421875,
+      "fy": -80.4453125,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "gixy",
+      "url": "https://github.com/yandex/gixy",
+      "note": "nginx configuration static analyser",
+      "fx": 220.82421875,
+      "fy": 20.92578125,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "nginx",
+      "curve": {
+        "x": -36.0625,
+        "y": -57.3535
+      }
+    },
+    {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -29.625,
+        "y": -60.6855
+      }
+    }
+  ]
+}

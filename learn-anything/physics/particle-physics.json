@@ -1,0 +1,79 @@
+{
+  "title": "learn anything - physics - particle physics",
+  "nodes": [
+    {
+      "text": "particle physics",
+      "url": "http://www.wikiwand.com/en/Particle_physics",
+      "fx": -88.10202884674072,
+      "fy": -177.18811225891113,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -36.6367496997118,
+      "fy": -40.54692792892456
+    },
+    {
+      "text": "string theory  ️",
+      "url": "/id/GDsxKqmEzJ6utJAaicvy9JjkqyfDm5GZDzFVMzUR",
+      "fx": -244.75812431414954,
+      "fy": 60.517668532736934,
+      "category": "mindmap"
+    },
+    {
+      "text": "elementary particles  ️",
+      "url": "/id/PkuWfyYtGttHopFFAViztufsapBHhLcj7SPYVuPK",
+      "fx": -33.469010421056055,
+      "fy": 117.56006729293483,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. crash course in particle physics",
+      "url": "https://www.youtube.com/watch?v=HVxBdMxgVX0",
+      "fx": 145.3632503002882,
+      "fy": -71.04692792892456,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to elementary particles",
+      "url": "http://www.goodreads.com/book/show/488853.Introduction_to_Elementary_Particles",
+      "fx": 145.3632503002882,
+      "fy": -9.04692792892456,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "particle physics",
+      "target": "basics",
+      "curve": {
+        "x": -2.01736,
+        "y": 67.0706
+      }
+    },
+    {
+      "source": "basics",
+      "target": "elementary particles  ️",
+      "curve": {
+        "x": 32.8338,
+        "y": 80.3035
+      }
+    },
+    {
+      "source": "basics",
+      "target": "string theory  ️",
+      "curve": {
+        "x": -96.8107,
+        "y": 50.5323
+      }
+    }
+  ]
+}

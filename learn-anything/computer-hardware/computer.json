@@ -1,0 +1,129 @@
+{
+  "title": "learn anything - computer hardware - computer",
+  "nodes": [
+    {
+      "text": "computer",
+      "url": "http://www.wikiwand.com/en/Computer",
+      "note": "",
+      "fx": -49.71820561985351,
+      "fy": -143.28596442587144,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -5.307291666666174,
+      "fy": -21.75747263036584
+    },
+    {
+      "text": "computer architectures  ️",
+      "url": "/id/VEeaqaXaB3G1yYf5ebeX9tXMqWbjoywrMdEdb5zf",
+      "fx": 38.38409566616167,
+      "fy": 118.77145511158926,
+      "category": "mindmap"
+    },
+    {
+      "text": "parts",
+      "url": "",
+      "fx": -79.95435248480885,
+      "fy": 129.56137975056959
+    },
+    {
+      "text": "motherboard",
+      "url": "http://www.wikiwand.com/en/Motherboard",
+      "fx": -83.87328457832336,
+      "fy": 255.5779037475586,
+      "category": "wiki"
+    },
+    {
+      "text": "CPU  ️",
+      "url": "/id/YPhHH5Xy749FDuLTtw8Sy7QhceCvPsYqiwpucjKv",
+      "fx": -350.6383321101682,
+      "fy": 256.5166106132068,
+      "category": "mindmap"
+    },
+    {
+      "text": "GPU  ️",
+      "url": "/id/sm4Fhdd4tkWngabpYRSjf5kjp3qtQSxpj73iftpc",
+      "fx": -202.99650955200195,
+      "fy": 257.3299560546875,
+      "category": "mindmap"
+    },
+    {
+      "text": "computer memory  ️",
+      "url": "/id/Ja8jZpjhcVxW3dRmkXRs4LAySyJ7oVGZU1tGbHgj",
+      "fx": -598.5281250000002,
+      "fy": 258.70208333333323,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. building a modern computer from first principles",
+      "url": "http://www.nand2tetris.org/",
+      "fx": 150.69270833333383,
+      "fy": -21.25747263036584,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "parts",
+      "target": "motherboard",
+      "curve": {
+        "x": 23.0406,
+        "y": 64.2583
+      }
+    },
+    {
+      "source": "parts",
+      "target": "GPU  ️",
+      "curve": {
+        "x": -54.771,
+        "y": 65.1343
+      }
+    },
+    {
+      "source": "computer",
+      "target": "basics",
+      "curve": {
+        "x": 1.20546,
+        "y": 59.5142
+      }
+    },
+    {
+      "source": "basics",
+      "target": "parts",
+      "curve": {
+        "x": -40.3235,
+        "y": 75.6594
+      }
+    },
+    {
+      "source": "basics",
+      "target": "computer architectures  ️",
+      "curve": {
+        "x": 43.5957,
+        "y": 71.5145
+      }
+    },
+    {
+      "source": "parts",
+      "target": "CPU  ️",
+      "curve": {
+        "x": -128.842,
+        "y": 64.7276
+      }
+    },
+    {
+      "source": "parts",
+      "target": "computer memory  ️",
+      "curve": {
+        "x": -264.154,
+        "y": 28.2576
+      }
+    }
+  ]
+}

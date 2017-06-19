@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - economics - microeconomics ",
+  "nodes": [
+    {
+      "text": "microeconomics",
+      "url": "http://www.wikiwand.com/en/Microeconomics",
+      "fx": -91.14453125,
+      "fy": -146.2265625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -45.54296875,
+      "fy": -7.95703125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. khan academy",
+      "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics",
+      "fx": 136.45703125,
+      "fy": 3.54296875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "microeconomics",
+      "target": "basics",
+      "curve": {
+        "x": -7.19922,
+        "y": 67.8848
+      }
+    }
+  ]
+}

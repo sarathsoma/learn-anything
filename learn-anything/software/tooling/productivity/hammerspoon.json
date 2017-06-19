@@ -1,0 +1,38 @@
+{
+  "title": "learn anything - software - tooling - productivity - hammerspoon",
+  "nodes": [
+    {
+      "text": "hammerspoon",
+      "url": "http://www.hammerspoon.org/",
+      "fx": -108.11328125,
+      "fy": -177.64453125
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -87.72380331584372,
+      "fy": -43.66165530894483
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. getting started",
+      "url": "http://www.hammerspoon.org/go/",
+      "fx": 94.27619668415628,
+      "fy": -29.16165530894483,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "hammerspoon",
+      "target": "basics",
+      "curve": {
+        "x": -8.30526,
+        "y": 66.9914
+      }
+    }
+  ]
+}

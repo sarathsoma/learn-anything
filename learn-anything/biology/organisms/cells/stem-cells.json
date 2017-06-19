@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - biology - organisms - cells - stem cells",
+  "nodes": [
+    {
+      "text": "stem cells",
+      "url": "http://www.wikiwand.com/en/Stem_cell",
+      "fx": -85.83001270933005,
+      "fy": -173.64851226076559,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -63.154829545454504,
+      "fy": -2.4990281100477887
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what are stem cells?",
+      "url": "https://www.youtube.com/watch?v=evH0I7Coc54",
+      "fx": 92.8451704545455,
+      "fy": -30.99902811004779,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. stem cells khan academy",
+      "url": "https://www.youtube.com/watch?v=uUH5YI5dTOg",
+      "fx": 92.8451704545455,
+      "fy": 9.000971889952211,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. what can stem cells do?",
+      "url": "https://www.youtube.com/watch?v=K7D6iA7bZG0",
+      "fx": 92.8451704545455,
+      "fy": 49.00097188995221,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "stem cells",
+      "target": "basics",
+      "curve": {
+        "x": -4.16241,
+        "y": 84.3247
+      }
+    }
+  ]
+}

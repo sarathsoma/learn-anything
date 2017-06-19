@@ -1,0 +1,58 @@
+{
+  "title": "learn anything - programming - programming languages - visual basic",
+  "nodes": [
+    {
+      "text": "visual basic",
+      "url": "http://www.wikiwand.com/en/Visual_Basic",
+      "fx": 30.765625,
+      "fy": -68.80859375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 68.90234375,
+      "fy": 58.984375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/visualbasic/",
+      "fx": 261.765625,
+      "fy": -54.80859375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "visual basic"
+    },
+    {
+      "text": "1. visual basic fundamentals",
+      "url": "https://channel9.msdn.com/Series/Visual-Basic-Development-for-Absolute-Beginners",
+      "fx": 250.90234375,
+      "fy": 50.484375,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. visual basic tutorial",
+      "url": "https://www.youtube.com/watch?v=3FkWddODLno",
+      "fx": 250.90234375,
+      "fy": 90.484375,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "visual basic",
+      "target": "basics",
+      "curve": {
+        "x": 0.318359,
+        "y": 62.6465
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "title": "learn anything - programming - programming paradigms - functional programming",
+  "nodes": [
+    {
+      "text": "functional programming",
+      "url": "http://www.wikiwand.com/en/Functional_programming",
+      "fx": -173.31640625,
+      "fy": -208.99609375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -7.871137619018441,
+      "fy": -95.06463692404998
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -110.51159512007234,
+      "fy": 54.323672594370635
+    },
+    {
+      "text": "callback functions  ️",
+      "url": "/id/cp7W7dVob3zpLcen8cr9XUSVEekLqp64mqK7CSzm",
+      "fx": -771.8076933732267,
+      "fy": 201.209441489362,
+      "category": "mindmap"
+    },
+    {
+      "text": "immutability  ️",
+      "url": "/id/T4qnVj3Acs4VFMgspkjy46esiePrmb8yRFRCSyWx",
+      "fx": -239.59482935855453,
+      "fy": 202.5206106085525,
+      "category": "mindmap"
+    },
+    {
+      "text": "anonymous functions  ️",
+      "url": "/id/PUdb3nzfzsqLDJqw6bALatixLjZTp7R2Jv8CFdpy",
+      "fx": -524.0612848141773,
+      "fy": 203.21450029793448,
+      "category": "mindmap"
+    },
+    {
+      "text": "monads  ️",
+      "url": "/id/rQrWiuxCxWdrWjKYDRyJE1gEeRkdJf83rYppJxuP",
+      "fx": -49.58353726023597,
+      "fy": 204.2660890785728,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "functional programming jargon",
+      "url": "https://github.com/hemanth/functional-programming-jargon",
+      "fx": 129.12886238098156,
+      "fy": -114.56463692404998,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome functional programming",
+      "url": "https://github.com/lucasviola/awesome-functional-programming",
+      "fx": 129.12886238098156,
+      "fy": -74.56463692404998,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introduction to functional programming",
+      "url": "https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/all.pdf",
+      "fx": 71.48840487992766,
+      "fy": 23.823672594370635,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. lecture series on functional programming",
+      "url": "http://lambda-the-ultimate.org/node/3642",
+      "fx": 71.48840487992766,
+      "fy": 85.82367259437063,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "functional programming",
+      "curve": {
+        "x": -31.7226,
+        "y": -55.7158
+      }
+    },
+    {
+      "source": "functional programming",
+      "target": "basics",
+      "curve": {
+        "x": -14.8476,
+        "y": 130.409
+      }
+    },
+    {
+      "source": "basics",
+      "target": "monads  ️",
+      "curve": {
+        "x": 27.9641,
+        "y": 74.9713
+      }
+    },
+    {
+      "source": "basics",
+      "target": "immutability  ️",
+      "curve": {
+        "x": -58.7916,
+        "y": 74.0985
+      }
+    },
+    {
+      "source": "basics",
+      "target": "anonymous functions  ️",
+      "curve": {
+        "x": -181.775,
+        "y": 74.4454
+      }
+    },
+    {
+      "source": "basics",
+      "target": "callback functions  ️",
+      "curve": {
+        "x": -350.243,
+        "y": 36.0861
+      }
+    }
+  ]
+}

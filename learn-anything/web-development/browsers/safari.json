@@ -1,0 +1,31 @@
+{
+  "title": "learn anything - web development - browsers - safari",
+  "nodes": [
+    {
+      "text": "safari",
+      "url": "http://www.wikiwand.com/en/Safari_(web_browser)",
+      "note": "",
+      "fx": -44.27734375,
+      "fy": -312.30859375,
+      "category": "wiki"
+    },
+    {
+      "text": "extensions",
+      "url": "https://github.com/nikitavoloboev/my-mac-os#browser",
+      "fx": -113.3671875,
+      "fy": -206.32421875,
+      "category": "github"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "safari",
+      "target": "extensions",
+      "curve": {
+        "x": -32.0449,
+        "y": 51.7422
+      }
+    }
+  ]
+}

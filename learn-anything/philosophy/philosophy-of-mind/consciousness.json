@@ -1,0 +1,93 @@
+{
+  "title": "learn anything - philosophy - philosophy of mind - consciousness",
+  "nodes": [
+    {
+      "text": "consciousness",
+      "url": "http://www.wikiwand.com/en/Consciousness",
+      "fx": -392.0274122807016,
+      "fy": -276.09772478070164,
+      "category": "wiki"
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": -258.6451557461928,
+      "fy": -170.77944248210292
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": -200.3060995683279,
+      "fy": -56.37138034506114
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -344.2271969580245,
+      "fy": 47.01362651479559
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "the war on consciousness",
+      "url": "https://www.youtube.com/watch?v=Y0c5nIvJH7w",
+      "fx": -118.64515574619281,
+      "fy": -159.27944248210292,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "14: why physicists are saying consciousness is a state of matter, like a solid, a liquid or a gas  ️",
+      "url": "https://medium.com/the-physics-arxiv-blog/why-physicists-are-saying-consciousness-is-a-state-of-matter-like-a-solid-a-liquid-or-a-gas-5e7ed624986d",
+      "fx": -38.30609956832791,
+      "fy": -86.87138034506114,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "awakening  ️",
+      "url": "https://www.theatlantic.com/magazine/archive/2013/01/awakening/309188/",
+      "fx": -38.30609956832791,
+      "fy": -2.871380345061141,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "consciousness wiki",
+      "url": "https://plato.stanford.edu/entries/consciousness/",
+      "fx": -188.22719695802448,
+      "fy": 61.51362651479559,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "talks",
+      "target": "consciousness",
+      "curve": {
+        "x": -36.1911,
+        "y": -51.4091
+      }
+    },
+    {
+      "source": "articles",
+      "target": "talks",
+      "curve": {
+        "x": -34.6696,
+        "y": -57.2041
+      }
+    },
+    {
+      "source": "consciousness",
+      "target": "basics",
+      "curve": {
+        "x": -2.59989,
+        "y": 160.306
+      }
+    }
+  ]
+}

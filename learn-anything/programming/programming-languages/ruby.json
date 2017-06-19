@@ -1,0 +1,347 @@
+{
+  "title": "learn anything - programming - programming languages - ruby",
+  "nodes": [
+    {
+      "text": "ruby",
+      "url": "http://www.wikiwand.com/en/Ruby_(programming_language)",
+      "fx": 232.47482062381425,
+      "fy": -748.372836093624,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 307.29327033547816,
+      "fy": -619.1353939280791
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 533.5377349853516,
+      "fy": -454.81554412841797
+    },
+    {
+      "text": "newsletters",
+      "url": "",
+      "fx": 722.747296761775,
+      "fy": -351.0471097420956
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 203.77689743041992,
+      "fy": -346.85961151123047
+    },
+    {
+      "text": "package manager",
+      "url": "http://www.wikiwand.com/en/Package_manager",
+      "fx": -239.66784871574816,
+      "fy": -192.9122125207483,
+      "category": "wiki"
+    },
+    {
+      "text": "testing",
+      "url": "http://www.wikiwand.com/en/Software_testing",
+      "fx": 33.7676713904483,
+      "fy": -184.45894135897174,
+      "category": "wiki"
+    },
+    {
+      "text": "debugging",
+      "url": "http://www.wikiwand.com/en/Debugging",
+      "fx": 176.31059025173317,
+      "fy": -182.3274019919461,
+      "category": "wiki"
+    },
+    {
+      "text": "web frameworks",
+      "url": "http://www.wikiwand.com/en/Web_framework",
+      "fx": 372.7471767013417,
+      "fy": -180.3154494956724,
+      "category": "wiki"
+    },
+    {
+      "text": "padrino",
+      "url": "http://padrinorb.com/",
+      "fx": 663.5780783043808,
+      "fy": -134.15911276482416
+    },
+    {
+      "text": "RubyGems",
+      "url": "https://rubygems.org/",
+      "fx": -265.99286737213356,
+      "fy": -81.7107388771226
+    },
+    {
+      "text": "minitest",
+      "url": "https://rubygems.org/gems/minitest/versions/5.8.4",
+      "fx": -78.7370801033594,
+      "fy": -70.95461886304929
+    },
+    {
+      "text": "sinatra",
+      "url": "https://github.com/sinatra/sinatra",
+      "fx": 526.4095153808594,
+      "fy": -68.56311225891113,
+      "category": "github"
+    },
+    {
+      "text": "ruby on rails  ️",
+      "url": "/id/Cyv3UUXjxZst5FjBnpkSdqn7XtqWmiZsJL3Hqqec",
+      "fx": 330.2930603027344,
+      "fy": -68.56257820129395,
+      "category": "mindmap"
+    },
+    {
+      "text": "Byebug",
+      "url": "https://github.com/deivid-rodriguez/byebug",
+      "fx": 183.12148399221542,
+      "fy": -63.57253513313401
+    },
+    {
+      "text": "RSpec",
+      "url": "http://rspec.info/",
+      "fx": 48.58414134929956,
+      "fy": -62.28413360802699
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/ruby/",
+      "fx": 399.47482062381425,
+      "fy": -734.372836093624,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "ruby"
+    },
+    {
+      "text": "awesome ruby",
+      "url": "https://github.com/Froren?page=6&amp;tab=stars",
+      "fx": 444.29327033547816,
+      "fy": -684.6353939280791,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "airbnb ruby style guide",
+      "url": "https://github.com/airbnb/ruby",
+      "fx": 444.29327033547816,
+      "fy": -644.6353939280791,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "community ruby style guide",
+      "url": "https://github.com/bbatsov/ruby-style-guide",
+      "fx": 444.29327033547816,
+      "fy": -604.6353939280791,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome ruby",
+      "url": "https://ruby.libhunt.com/",
+      "fx": 444.29327033547816,
+      "fy": -564.6353939280791,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome ruby events",
+      "url": "https://github.com/planetruby/awesome-events",
+      "fx": 444.29327033547816,
+      "fy": -530.6353939280791,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "ruby ‘reject!’  ️",
+      "url": "https://accidentallyquadratic.tumblr.com/post/157496054437/ruby-reject",
+      "note": "hacker news discussion",
+      "fx": 695.5377349853516,
+      "fy": -443.31554412841797,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "ruby weekly",
+      "url": "http://rubyweekly.com/",
+      "fx": 923.747296761775,
+      "fy": -359.5471097420956,
+      "category": "newsletter",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "newsletters"
+    },
+    {
+      "text": "RubyLetter",
+      "url": "http://www.rubyletter.com/",
+      "fx": 923.747296761775,
+      "fy": -319.5471097420956,
+      "category": "newsletter",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "newsletters"
+    },
+    {
+      "text": "1. try ruby",
+      "url": "http://tryruby.org/levels/1/challenges/0",
+      "fx": 385.7768974304199,
+      "fy": -386.35961151123047,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learn to program",
+      "url": "https://pine.fm/LearnToProgram/chap_00.html",
+      "fx": 385.7768974304199,
+      "fy": -352.35961151123047,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. ruby koans",
+      "url": "http://rubykoans.com/",
+      "fx": 385.7768974304199,
+      "fy": -312.35961151123047,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. ruby monk",
+      "url": "https://rubymonk.com/",
+      "fx": 385.7768974304199,
+      "fy": -278.35961151123047,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "ruby",
+      "target": "basics",
+      "curve": {
+        "x": -9.84896,
+        "y": 200.757
+      }
+    },
+    {
+      "source": "basics",
+      "target": "package manager",
+      "curve": {
+        "x": -195.223,
+        "y": 76.9737
+      }
+    },
+    {
+      "source": "package manager",
+      "target": "RubyGems",
+      "curve": {
+        "x": -28.6625,
+        "y": 55.6007
+      }
+    },
+    {
+      "source": "testing",
+      "target": "RSpec",
+      "curve": {
+        "x": 7.65824,
+        "y": 61.0874
+      }
+    },
+    {
+      "source": "basics",
+      "target": "testing",
+      "curve": {
+        "x": -84.2546,
+        "y": 81.2003
+      }
+    },
+    {
+      "source": "basics",
+      "target": "debugging",
+      "curve": {
+        "x": -3.98275,
+        "y": 82.2661
+      }
+    },
+    {
+      "source": "debugging",
+      "target": "Byebug",
+      "curve": {
+        "x": -3.34455,
+        "y": 59.3774
+      }
+    },
+    {
+      "source": "help",
+      "target": "ruby",
+      "curve": {
+        "x": -37.1592,
+        "y": -64.6188
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "padrino",
+      "curve": {
+        "x": 124.915,
+        "y": 23.0782
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "sinatra",
+      "curve": {
+        "x": 61.3312,
+        "y": 57.1262
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "ruby on rails  ️",
+      "curve": {
+        "x": -24.227,
+        "y": 57.1264
+      }
+    },
+    {
+      "source": "basics",
+      "target": "web frameworks",
+      "curve": {
+        "x": 101.235,
+        "y": 83.2721
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -163.028,
+        "y": -56.3084
+      }
+    },
+    {
+      "source": "newsletters",
+      "target": "articles",
+      "curve": {
+        "x": -104.355,
+        "y": -51.8842
+      }
+    },
+    {
+      "source": "testing",
+      "target": "minitest",
+      "curve": {
+        "x": -61.2524,
+        "y": 55.5022
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "learn anything - programming - programming languages - swift - apple frameworks - coreML",
+  "nodes": [
+    {
+      "text": "CoreML",
+      "url": "https://developer.apple.com/documentation/coreml",
+      "fx": -229.05078125,
+      "fy": -300.234375
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -110.8987176294819,
+      "fy": -200.01992031870645
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -222.65674800796808,
+      "fy": -84.72223605577688
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "iOS machine learning",
+      "url": "https://developer.apple.com/machine-learning/",
+      "fx": 26.101282370518106,
+      "fy": -185.51992031870645,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introducing Core ML",
+      "url": "https://developer.apple.com/videos/play/wwdc2017/703/",
+      "fx": -66.65674800796808,
+      "fy": -93.22223605577688,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. getting started with vision on iOS",
+      "url": "https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision",
+      "fx": -66.65674800796808,
+      "fy": -53.222236055776875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "CoreML",
+      "target": "basics",
+      "curve": {
+        "x": -1.80298,
+        "y": 107.756
+      }
+    },
+    {
+      "source": "help",
+      "target": "CoreML",
+      "curve": {
+        "x": -50.576,
+        "y": -50.1072
+      }
+    }
+  ]
+}

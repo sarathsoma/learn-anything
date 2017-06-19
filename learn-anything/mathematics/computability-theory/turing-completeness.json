@@ -1,0 +1,77 @@
+{
+  "title": "learn anything - mathematics - computability theory - turing completeness",
+  "nodes": [
+    {
+      "text": "turing completeness",
+      "url": "http://www.wikiwand.com/en/Turing_completeness",
+      "fx": -112.57435173879969,
+      "fy": -299.8849966261122,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 70.79725912035713,
+      "fy": -189.81020720945412
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -48.7617496997118,
+      "fy": -90.87802696228027
+    },
+    {
+      "text": "halting problem  ️",
+      "url": "/id/zaNAJKTxMesRndasvbAfTDzW6iWKiaexxf3kzR4p",
+      "fx": -176.6052083333335,
+      "fy": 39.01354166666664,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "17: on the turing completeness of powerpoint",
+      "url": "https://www.youtube.com/watch?v=uNjxe8ShM-8",
+      "fx": 261.7972591203571,
+      "fy": -189.31020720945412,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. turing complete",
+      "url": "https://www.youtube.com/watch?v=RPQD7-AOjMI",
+      "fx": 107.2382503002882,
+      "fy": -79.37802696228027,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "turing completeness",
+      "target": "basics",
+      "curve": {
+        "x": -6.8437,
+        "y": 103.253
+      }
+    },
+    {
+      "source": "basics",
+      "target": "halting problem  ️",
+      "curve": {
+        "x": -43.4217,
+        "y": 64.9458
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "turing completeness",
+      "curve": {
+        "x": -61.6858,
+        "y": -53.7874
+      }
+    }
+  ]
+}

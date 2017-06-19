@@ -1,0 +1,186 @@
+{
+  "title": "learn anything - art - drawing",
+  "nodes": [
+    {
+      "text": "drawing",
+      "url": "http://www.wikiwand.com/en/Drawing",
+      "fx": -66.50111607142856,
+      "fy": -377.00902157738096,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 47.84660357520693,
+      "fy": -251.8438377380371
+    },
+    {
+      "text": "inspiring",
+      "url": "",
+      "fx": 108.01733362107063,
+      "fy": -118.60890406653988
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 174.74836697692865,
+      "fy": -6.045766778236612
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -50.67906314575441,
+      "fy": 93.60883348691061
+    },
+    {
+      "text": "perspective drawing  ️",
+      "url": "/id/B6CrcbzQusNRhqkzWpj3pQnGPp13zLyDrDz2TgyR",
+      "fx": -268.6705057989691,
+      "fy": 230.77955863402053,
+      "category": "mindmap"
+    },
+    {
+      "text": "sketching  ️",
+      "url": "/id/1pAw6xz73y7rUckdRUzJ2q4K1TruizqxqPEcqzAi",
+      "fx": 14.506481780394097,
+      "fy": 230.99992669811536,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/drawing/",
+      "fx": 131.49888392857144,
+      "fy": -363.00902157738096,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "drawing"
+    },
+    {
+      "text": "art tutorials",
+      "url": "https://www.youtube.com/user/LighterNoteProd/videos",
+      "fx": 184.84660357520693,
+      "fy": -268.3438377380371,
+      "category": "youtube",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "drawing on the right side of the brain",
+      "url": "http://drawright.com/",
+      "fx": 184.84660357520693,
+      "fy": -228.3438377380371,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "art album",
+      "url": "http://imgur.com/a/3m5wf",
+      "fx": 281.01733362107063,
+      "fy": -141.10890406653988,
+      "category": "image",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "Huckleberry's art",
+      "url": "http://huckleberryfineart.com/artist/rob-gonsalves/",
+      "fx": 281.01733362107063,
+      "fy": -101.10890406653988,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "art by Scott Uminga",
+      "url": "https://www.artstation.com/artwork/25JYg",
+      "fx": 281.01733362107063,
+      "fy": -67.10890406653988,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "why ink?  ️",
+      "url": "http://drawabox.com/article/ink",
+      "fx": 365.74836697692865,
+      "fy": -11.545766778236612,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "2016 monster gallery",
+      "url": "http://themonsterproject.org/monster-gallery",
+      "fx": 365.74836697692865,
+      "fy": 28.45423322176339,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. draw a box",
+      "url": "http://drawabox.com/",
+      "fx": 105.32093685424559,
+      "fy": 108.10883348691061,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "drawing",
+      "curve": {
+        "x": -41.6738,
+        "y": -61.3325
+      }
+    },
+    {
+      "source": "inspiring",
+      "target": "help",
+      "curve": {
+        "x": -36.5854,
+        "y": -66.6174
+      }
+    },
+    {
+      "source": "help",
+      "target": "drawing",
+      "curve": {
+        "x": -41.6739,
+        "y": -61.3326
+      }
+    },
+    {
+      "source": "drawing",
+      "target": "basics",
+      "curve": {
+        "x": -2.83897,
+        "y": 234.059
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "inspiring",
+      "curve": {
+        "x": -37.8655,
+        "y": -56.2815
+      }
+    },
+    {
+      "source": "basics",
+      "target": "sketching  ️",
+      "curve": {
+        "x": 39.8428,
+        "y": 68.6956
+      }
+    },
+    {
+      "source": "basics",
+      "target": "perspective drawing  ️",
+      "curve": {
+        "x": -77.7457,
+        "y": 68.5854
+      }
+    }
+  ]
+}

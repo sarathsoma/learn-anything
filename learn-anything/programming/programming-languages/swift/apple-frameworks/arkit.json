@@ -1,0 +1,60 @@
+{
+  "title": "learn anything - programming - programming languages - swift - apple frameworks - arkit",
+  "nodes": [
+    {
+      "text": "ARKit",
+      "url": "https://developer.apple.com/documentation/arkit",
+      "fx": -98.73828125,
+      "fy": -171.69921875
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 10.710971320346403,
+      "fy": -69.97050865793602
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -104.59763171325369,
+      "fy": 40.715830127198444
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "ARKit example by Apple",
+      "url": "https://github.com/gao0122/ARKit-Example-by-Apple",
+      "fx": 147.7109713203464,
+      "fy": -58.47050865793602,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. understanding augmented reality",
+      "url": "https://developer.apple.com/documentation/arkit/understanding_augmented_reality",
+      "fx": 51.40236828674631,
+      "fy": 55.215830127198444,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "ARKit",
+      "curve": {
+        "x": -51.7246,
+        "y": -50.8644
+      }
+    },
+    {
+      "source": "ARKit",
+      "target": "basics",
+      "curve": {
+        "x": -1.17968,
+        "y": 106.208
+      }
+    }
+  ]
+}

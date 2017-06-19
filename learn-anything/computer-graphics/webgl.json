@@ -1,0 +1,106 @@
+{
+  "title": "learn anything - computer graphics - webgl",
+  "nodes": [
+    {
+      "text": "WebGL",
+      "url": "http://www.wikiwand.com/en/WebGL",
+      "fx": -128.23081827163696,
+      "fy": -226.71233558654785,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -19.5859375,
+      "fy": -120.5075249671936
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -116.53796571493149,
+      "fy": 35.45623779296875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "webGL lessons",
+      "url": "https://github.com/gpjt/webgl-lessons",
+      "fx": 117.4140625,
+      "fy": -169.0075249671936,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome webGL",
+      "url": "https://github.com/sjfricke/awesome-webgl",
+      "fx": 117.4140625,
+      "fy": -129.0075249671936,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "webGL shader intro",
+      "url": "https://github.com/Jam3/jam3-lesson-webgl-shader-intro",
+      "fx": 117.4140625,
+      "fy": -89.0075249671936,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "webGL shader threeJS",
+      "url": "https://github.com/Jam3/jam3-lesson-webgl-shader-threejs",
+      "fx": 117.4140625,
+      "fy": -49.0075249671936,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. webGL fundamentals",
+      "url": "https://webglfundamentals.org/",
+      "fx": 65.46203428506851,
+      "fy": 12.95623779296875,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. webGL lessons",
+      "url": "http://learningwebgl.com/blog/?page_id=1217",
+      "fx": 65.46203428506851,
+      "fy": 52.95623779296875,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. webGL academy",
+      "url": "http://www.webglacademy.com/",
+      "fx": 65.46203428506851,
+      "fy": 86.95623779296875,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "WebGL",
+      "curve": {
+        "x": -39.5724,
+        "y": -51.8524
+      }
+    },
+    {
+      "source": "WebGL",
+      "target": "basics",
+      "curve": {
+        "x": -4.15357,
+        "y": 129.834
+      }
+    }
+  ]
+}

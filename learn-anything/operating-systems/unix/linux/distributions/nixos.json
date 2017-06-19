@@ -1,0 +1,108 @@
+{
+  "title": "learn anything - operating systems - unix - linux - distributions - nixos",
+  "nodes": [
+    {
+      "text": "nixOS",
+      "url": "https://nixos.org/",
+      "fx": 74.66378348214289,
+      "fy": -150.4918387276785
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 171.66390827493944,
+      "fy": -53.20257932579352
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 208.32031250000023,
+      "fy": 39.661458333333314
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 58.66472649185823,
+      "fy": 136.27936162597945
+    },
+    {
+      "text": "nix packages",
+      "url": "https://github.com/NixOS/nixpkgs",
+      "fx": -28.463430851064004,
+      "fy": 296.1303191489351,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome nix",
+      "url": "https://github.com/jhedev/awesome-nix",
+      "fx": 308.66390827493944,
+      "fy": -41.70257932579352,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "16: introduction to NixOS",
+      "url": "https://www.youtube.com/watch?v=VivXSoovUFI",
+      "fx": 348.3203125000002,
+      "fy": 51.161458333333314,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "1. about nixOS",
+      "url": "https://nixos.org/nixos/about.html",
+      "fx": 240.66472649185823,
+      "fy": 130.77936162597945,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. installing nixOS  ️",
+      "url": "https://chris-martin.org/2015/installing-nixos",
+      "fx": 240.66472649185823,
+      "fy": 164.77936162597945,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "nixOS",
+      "curve": {
+        "x": -37.5001,
+        "y": -47.3946
+      }
+    },
+    {
+      "source": "nixOS",
+      "target": "basics",
+      "curve": {
+        "x": -14.2495,
+        "y": 142.135
+      }
+    },
+    {
+      "source": "talks",
+      "target": "help",
+      "curve": {
+        "x": -19.0783,
+        "y": -46.4321
+      }
+    },
+    {
+      "source": "basics",
+      "target": "nix packages",
+      "curve": {
+        "x": -27.5641,
+        "y": 81.1755
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "learn anything - network science - computer networking - protocols - websocket",
+  "nodes": [
+    {
+      "text": "WebSocket",
+      "url": "http://www.wikiwand.com/en/WebSocket",
+      "fx": 21.66796875,
+      "fy": -355.55078125,
+      "category": "wiki"
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 195.99236958934523,
+      "fy": -236.35877051291527
+    },
+    {
+      "text": "implementation",
+      "url": "",
+      "fx": 239.8174894957982,
+      "fy": -126.8486249157682
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "proposed standard",
+      "url": "https://tools.ietf.org/html/rfc6455",
+      "fx": 253.66796875,
+      "fy": -338.55078125,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "WebSocket"
+    },
+    {
+      "text": "SSH to WebSockets",
+      "url": "https://github.com/aluzzardi/wssh",
+      "fx": 337.99236958934523,
+      "fy": -224.85877051291527,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "tiny WebSockets",
+      "url": "https://github.com/uWebSockets/uWebSockets",
+      "fx": 476.8174894957982,
+      "fy": -115.3486249157682,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "implementation"
+    }
+  ],
+  "connections": [
+    {
+      "source": "implementation",
+      "target": "tools",
+      "curve": {
+        "x": -45.6626,
+        "y": -54.7551
+      }
+    },
+    {
+      "source": "tools",
+      "target": "WebSocket",
+      "curve": {
+        "x": -64.6622,
+        "y": -58.346
+      }
+    }
+  ]
+}

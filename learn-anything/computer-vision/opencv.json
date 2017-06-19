@@ -1,0 +1,81 @@
+{
+  "title": "learn anything - computer vision - opencv",
+  "nodes": [
+    {
+      "text": "OpenCV",
+      "url": "http://www.wikiwand.com/en/OpenCV",
+      "fx": -70.5,
+      "fy": -2,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 78.31971153846132,
+      "fy": 105.80464127218971
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -60.439537836271484,
+      "fy": 246.774881999939
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/opencv/opencv",
+      "fx": 133.5,
+      "fy": 12,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "OpenCV"
+    },
+    {
+      "text": "learn OpenCV  ️",
+      "url": "https://www.learnopencv.com/",
+      "fx": 215.31971153846132,
+      "fy": 117.30464127218971,
+      "category": "blog",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learn OpenCV",
+      "url": "https://github.com/spmallick/learnopencv",
+      "fx": 121.56046216372852,
+      "fy": 227.274881999939,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. mastering OpenCV with practical computer vision projects",
+      "url": "https://www.goodreads.com/book/show/19179156-mastering-opencv-with-practical-computer-vision-projects",
+      "fx": 121.56046216372852,
+      "fy": 267.274881999939,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "OpenCV",
+      "target": "basics",
+      "curve": {
+        "x": -6.96977,
+        "y": 123.137
+      }
+    },
+    {
+      "source": "help",
+      "target": "OpenCV",
+      "curve": {
+        "x": -57.6599,
+        "y": -52.6523
+      }
+    }
+  ]
+}

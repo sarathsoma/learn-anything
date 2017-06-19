@@ -1,0 +1,55 @@
+{
+  "title": "learn anything - mathematics - logic - automated theorem proving",
+  "nodes": [
+    {
+      "text": "automated theorem proving",
+      "url": "http://www.wikiwand.com/en/Automated_theorem_proving",
+      "fx": 38.765625,
+      "fy": -205.61328125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 147.23046875,
+      "fy": -19.4140625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is automated theorem proving?",
+      "url": "http://www.cs.miami.edu/~tptp/OverviewOfATP.html",
+      "fx": 303.23046875,
+      "fy": -63.9140625,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. a survey of automated theorem proving",
+      "url": "https://www.youtube.com/watch?v=Nydg-N83VYc",
+      "fx": 303.23046875,
+      "fy": -7.9140625,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. automated theorem proving",
+      "url": "https://www.cs.cmu.edu/~fp/courses/atp/handouts/atp.pdf",
+      "fx": 303.23046875,
+      "fy": 54.0859375,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "automated theorem proving",
+      "target": "basics",
+      "curve": {
+        "x": -1.26758,
+        "y": 91.8496
+      }
+    }
+  ]
+}

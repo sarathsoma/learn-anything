@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - computer science - data structures - quadtree",
+  "nodes": [
+    {
+      "text": "quadtree",
+      "url": "http://www.wikiwand.com/en/Quadtree",
+      "fx": -156.21484375,
+      "fy": -282.953125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -136.18108393719808,
+      "fy": -144.25775588768113
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. interactive explanation",
+      "url": "http://jimkang.com/quadtreevis/",
+      "fx": 19.818916062801918,
+      "fy": -132.75775588768113,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "quadtree",
+      "target": "basics",
+      "curve": {
+        "x": -2.98312,
+        "y": 68.0977
+      }
+    }
+  ]
+}

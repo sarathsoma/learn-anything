@@ -1,0 +1,99 @@
+{
+  "title": "learn anything - mathematics - geometry - pi",
+  "nodes": [
+    {
+      "text": "pi",
+      "url": "http://www.wikiwand.com/en/Pi",
+      "fx": 117.24150815217399,
+      "fy": -433.9650378493789,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 222.77613830566418,
+      "fy": -322.5280135629536
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 102.8783723654094,
+      "fy": -171.88246506450633
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "digits of pi visualised",
+      "url": "http://i.imgur.com/SBPAbNU.png",
+      "fx": 413.7761383056642,
+      "fy": -351.0280135629536,
+      "category": "image",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "pi and the golden ratio  ️",
+      "url": "https://johncarlosbaez.wordpress.com/2017/03/07/pi-and-the-golden-ratio/",
+      "fx": 413.7761383056642,
+      "fy": -311.0280135629536,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "pi hiding in prime regularities",
+      "url": "https://www.youtube.com/watch?v=NaL_Cb42WyY",
+      "fx": 413.7761383056642,
+      "fy": -271.0280135629536,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. pi is beautiful",
+      "url": "https://www.youtube.com/watch?v=NPoj8lk9Fo4",
+      "fx": 284.8783723654094,
+      "fy": -200.38246506450633,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. visualising pi",
+      "url": "https://public.tableau.com/views/VisualizingPi/pi?:embed=y&amp;:display_count=no&amp;:showVizHome=no",
+      "fx": 284.8783723654094,
+      "fy": -160.38246506450633,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. understanding e to the pi i",
+      "url": "https://www.youtube.com/watch?v=F_0yfvm0UoU",
+      "fx": 284.8783723654094,
+      "fy": -120.38246506450633,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "interesting",
+      "target": "pi",
+      "curve": {
+        "x": -64.7673,
+        "y": -54.4685
+      }
+    },
+    {
+      "source": "pi",
+      "target": "basics",
+      "curve": {
+        "x": -3.93157,
+        "y": 129.792
+      }
+    }
+  ]
+}

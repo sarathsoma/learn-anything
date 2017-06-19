@@ -1,0 +1,69 @@
+{
+  "title": "learn anything - databases - relational databases - mysql",
+  "nodes": [
+    {
+      "text": "MySQL",
+      "url": "http://www.wikiwand.com/en/MySQL",
+      "fx": 18.3203125,
+      "fy": -265.8671875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 110.61290804140128,
+      "fy": -174.37241242038215
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": 32.565983280254954,
+      "fy": -71.10439888535024
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome mySQL",
+      "url": "http://shlomi-noach.github.io/awesome-mysql/",
+      "fx": 247.61290804140128,
+      "fy": -176.87241242038215,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "mySQL docs",
+      "url": "https://dev.mysql.com/doc/",
+      "fx": 247.61290804140128,
+      "fy": -142.87241242038215,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. mySQL Tutorial",
+      "url": "https://www.tutorialspoint.com/mysql/",
+      "fx": 214.56598328025495,
+      "fy": -56.604398885350236,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "MySQL",
+      "curve": {
+        "x": -31.8963,
+        "y": -44.4974
+      }
+    },
+    {
+      "source": "MySQL",
+      "target": "basics",
+      "curve": {
+        "x": -2.37716,
+        "y": 96.1314
+      }
+    }
+  ]
+}

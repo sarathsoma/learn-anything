@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - computer hardware - computer - computer memory - memory management",
+  "nodes": [
+    {
+      "text": "memory management",
+      "url": "http://www.wikiwand.com/en/Memory_management",
+      "fx": -124.24609375,
+      "fy": -282.64453125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -47.74477729535249,
+      "fy": -131.65972532188687
+    },
+    {
+      "text": "garbage collection  ️",
+      "url": "/id/kqxUbW6ht9mGjA75SB2sTuBB8xYD2KxGG6yvZpvp",
+      "fx": -187.86232775590508,
+      "fy": 32.6742741141735,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. operating systems: memory manager",
+      "url": "https://www.youtube.com/watch?v=qdkxXygc3rE",
+      "fx": 108.25522270464751,
+      "fy": -151.15972532188687,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. intro to memory management",
+      "url": "https://www.youtube.com/watch?v=TAk822Wz4x4",
+      "fx": 108.25522270464751,
+      "fy": -89.15972532188687,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "memory management",
+      "target": "basics",
+      "curve": {
+        "x": -4.24934,
+        "y": 74.2424
+      }
+    },
+    {
+      "source": "basics",
+      "target": "garbage collection  ️",
+      "curve": {
+        "x": -43.0588,
+        "y": 82.167
+      }
+    }
+  ]
+}

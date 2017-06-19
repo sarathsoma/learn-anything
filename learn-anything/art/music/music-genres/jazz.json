@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - art - music - music genres - jazz",
+  "nodes": [
+    {
+      "text": "jazz",
+      "url": "http://www.wikiwand.com/en/Jazz",
+      "fx": -50.12890625,
+      "fy": -109.08203125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -64.48557692307713,
+      "fy": 33.330013736266835
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is jazz",
+      "url": "https://www.youtube.com/watch?v=BMgKXbtQwoo",
+      "fx": 117.51442307692287,
+      "fy": 27.830013736266835,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. free jazz piano lessons",
+      "url": "http://www.thejazzpianosite.com/",
+      "fx": 117.51442307692287,
+      "fy": 67.83001373626684,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "jazz",
+      "target": "basics",
+      "curve": {
+        "x": -8.67834,
+        "y": 69.956
+      }
+    }
+  ]
+}

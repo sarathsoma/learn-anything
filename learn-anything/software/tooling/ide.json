@@ -1,0 +1,44 @@
+{
+  "title": "learn anything - software - tooling - ide",
+  "nodes": [
+    {
+      "text": "IDE",
+      "url": "http://www.wikiwand.com/en/Integrated_development_environment",
+      "note": "",
+      "fx": -144.87890625,
+      "fy": -165.4765625
+    },
+    {
+      "text": "Xcode  ️",
+      "url": "/id/Lp7wtsS7quM7Asapu8JGRjZaGpbZ8iFLyKTBpi6s",
+      "fx": -92.09669440954781,
+      "fy": -45.769472361808994,
+      "category": "mindmap"
+    },
+    {
+      "text": "IntelliJ",
+      "url": "https://www.jetbrains.com/idea/",
+      "fx": -196.97772892583134,
+      "fy": -43.112018873237105
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "IDE",
+      "target": "IntelliJ",
+      "curve": {
+        "x": -20.0495,
+        "y": 61.1813
+      }
+    },
+    {
+      "source": "IDE",
+      "target": "Xcode  ️",
+      "curve": {
+        "x": 32.8911,
+        "y": 59.8535
+      }
+    }
+  ]
+}

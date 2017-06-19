@@ -1,0 +1,70 @@
+{
+  "title": "learn anything - physics - quantum mechanics - quantum information",
+  "nodes": [
+    {
+      "text": "quantum information",
+      "url": "http://www.wikiwand.com/en/Quantum_information",
+      "fx": -148.1640625,
+      "fy": -168.4453125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -85.20356898055911,
+      "fy": -46.311238160518485
+    },
+    {
+      "text": "no-communication theorem",
+      "url": "http://www.wikiwand.com/en/No-go_theorem",
+      "fx": -58.91745873946161,
+      "fy": 87.79805224454856,
+      "category": "wiki"
+    },
+    {
+      "text": "quantum superposition",
+      "url": "http://www.wikiwand.com/en/Quantum_superposition",
+      "fx": -355.8108188290936,
+      "fy": 88.74001186709006,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to quantum information",
+      "url": "https://www.youtube.com/watch?v=Q4xBlSi_fOs",
+      "fx": 96.79643101944089,
+      "fy": -45.811238160518485,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "quantum information",
+      "target": "basics",
+      "curve": {
+        "x": -8.01975,
+        "y": 59.817
+      }
+    },
+    {
+      "source": "basics",
+      "target": "no-communication theorem",
+      "curve": {
+        "x": 68.3931,
+        "y": 68.3047
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum superposition",
+      "curve": {
+        "x": -97.0536,
+        "y": 68.7756
+      }
+    }
+  ]
+}

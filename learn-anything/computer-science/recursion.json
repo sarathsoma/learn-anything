@@ -1,0 +1,95 @@
+{
+  "title": "learn anything - computer science - recursion",
+  "nodes": [
+    {
+      "text": "recursion",
+      "url": "http://www.wikiwand.com/en/Recursion_(computer_science)",
+      "fx": -50.002399114173386,
+      "fy": -356.49495570866145,
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 90.55882393359718,
+      "fy": -238.0426217568163
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 142.31196581196627,
+      "fy": -129.58723958333326
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -37.007342896174805,
+      "fy": -9.546106557376959
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "16: recursion, recursion, recursion  ️",
+      "url": "https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d",
+      "fx": 252.55882393359718,
+      "fy": -226.5426217568163,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "awesome recursion schemes",
+      "url": "https://github.com/passy/awesome-recursion-schemes",
+      "fx": 333.3119658119663,
+      "fy": -118.08723958333326,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. what is recursion?",
+      "url": "https://www.youtube.com/watch?v=Mv9NEXX1VHc",
+      "fx": 144.9926571038252,
+      "fy": -18.04610655737696,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. example of recursion",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/3dmyap/wrapping_my_head_around_recursion/ct6sfcz/",
+      "fx": 144.9926571038252,
+      "fy": 21.95389344262304,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "articles",
+      "target": "recursion",
+      "curve": {
+        "x": -58.2806,
+        "y": -57.9762
+      }
+    },
+    {
+      "source": "recursion",
+      "target": "basics",
+      "curve": {
+        "x": -7.00248,
+        "y": 172.225
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "articles",
+      "curve": {
+        "x": -33.1266,
+        "y": -54.2277
+      }
+    }
+  ]
+}

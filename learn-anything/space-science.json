@@ -1,0 +1,42 @@
+{
+  "title": "learn anything - space science",
+  "nodes": [
+    {
+      "text": "space science",
+      "url": "http://www.wikiwand.com/en/Outline_of_space_science",
+      "note": "",
+      "fx": -194.89301947848264,
+      "fy": -208.91399684873943,
+      "category": "wiki"
+    },
+    {
+      "text": "astronomy  ️",
+      "url": "/id/GbDJzhhJy8QG6BRBpQcB4kw98kzM5mmoczhCoPF1",
+      "note": "studies celestial objects and phenomena   applies mathematics, physics and chemistry, in effort to explain the origin of those objects and phenomena and their evolution  objects of interest include planets, moons, stars, galaxies and comets  while the phenomena include supernovae explosions, gamma ray bursts and cosmic microwave background radiation",
+      "fx": -180.5966155218207,
+      "fy": -82.14191653399138,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://space.stackexchange.com/",
+      "fx": 87.10698052151736,
+      "fy": -194.91399684873943,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "space science"
+    }
+  ],
+  "connections": [
+    {
+      "source": "space science",
+      "target": "astronomy  ️",
+      "curve": {
+        "x": -1.35177,
+        "y": 63.386
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - computer hardware - computer - gpu",
+  "nodes": [
+    {
+      "text": "GPU",
+      "url": "http://www.wikiwand.com/en/Graphics_processing_unit",
+      "fx": -31.22998598737263,
+      "fy": -81.8076899513718,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -40.658501848377796,
+      "fy": 52.44430536540807
+    },
+    {
+      "text": "CUDA  ️",
+      "url": "/id/WicsHkTZ79jrtJm8sqtbHygr8qsJSa8kGKx68KN4",
+      "note": "CUDA allows you to write what are called kernels  which are little blocks of parallel C++ or Fortran code which run your program’s bottlenecks on the GPU  it’s used for a lot of scientific / numerical applications, since these applications are often extremely computationally intensive but at the same time don’t involve a lot of complicated logic and abstraction and thus are (relatively) easy to parallelise",
+      "fx": 20.633384327935687,
+      "fy": 171.19776482671853,
+      "category": "mindmap"
+    },
+    {
+      "text": "OpenCL  ️",
+      "url": "/id/cPLzpxwsapXvTE3viS6TJesH6WmnV2uqG2Bueqi4",
+      "fx": -172.28014539863005,
+      "fy": 191.28849560105834,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is a GPU",
+      "url": "https://www.youtube.com/watch?v=0_TN845dxUU",
+      "fx": 141.3414981516222,
+      "fy": 63.94430536540807,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "GPU",
+      "target": "basics",
+      "curve": {
+        "x": -8.46426,
+        "y": 65.876
+      }
+    },
+    {
+      "source": "basics",
+      "target": "CUDA  ️",
+      "curve": {
+        "x": 44.1459,
+        "y": 60.6267
+      }
+    },
+    {
+      "source": "basics",
+      "target": "OpenCL  ️",
+      "curve": {
+        "x": -60.5608,
+        "y": 70.6721
+      }
+    }
+  ]
+}

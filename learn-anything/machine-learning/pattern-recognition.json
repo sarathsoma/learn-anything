@@ -1,0 +1,69 @@
+{
+  "title": "learn anything - machine learning - pattern recognition",
+  "nodes": [
+    {
+      "text": "pattern recognition",
+      "url": "http://www.wikiwand.com/en/Pattern_recognition",
+      "fx": -51.50008296966553,
+      "fy": -37.30001175403595,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 15.211544350149438,
+      "fy": 91.55219978295656
+    },
+    {
+      "text": "statistical classification  ️",
+      "url": "/id/mpJdrfGNxLN6dpCFQ64JJhgLm1ThhPk9zatKQ1du",
+      "fx": -302.37551119603916,
+      "fy": 205.17486376086651,
+      "category": "mindmap"
+    },
+    {
+      "text": "linear discriminant analysis  ️",
+      "url": "/id/pqVmyg7y69U4SF5c4N7aycp3nFVnQ5Ucr3pvYR6f",
+      "fx": 44.0287211434628,
+      "fy": 244.65242141707847,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. lecture on pattern recognition",
+      "url": "https://www.youtube.com/watch?v=ZGUlaomeJ-k",
+      "fx": 171.21154435014944,
+      "fy": 103.05219978295656,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "pattern recognition",
+      "target": "basics",
+      "curve": {
+        "x": -1.89419,
+        "y": 63.1761
+      }
+    },
+    {
+      "source": "basics",
+      "target": "linear discriminant analysis  ️",
+      "curve": {
+        "x": 59.6585,
+        "y": 76.5501
+      }
+    },
+    {
+      "source": "basics",
+      "target": "statistical classification  ️",
+      "curve": {
+        "x": -115.294,
+        "y": 58.0613
+      }
+    }
+  ]
+}

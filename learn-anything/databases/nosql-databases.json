@@ -1,0 +1,76 @@
+{
+  "title": "learn anything - databases - nosql databases",
+  "nodes": [
+    {
+      "text": "noSQL databases",
+      "url": "http://www.wikiwand.com/en/NoSQL",
+      "note": "",
+      "fx": 0.1073165546704331,
+      "fy": -200.7493816886511,
+      "category": "wiki"
+    },
+    {
+      "text": "mongoDB  ️",
+      "url": "/id/q2xktwYoqXPzUGxvqg6QQqk5MyATv8oy8nkCEsrh",
+      "fx": -162.7247570782173,
+      "fy": -49.275160549132806,
+      "category": "mindmap"
+    },
+    {
+      "text": "cassandra  ️",
+      "url": "/id/Yg6yJKxfEVLwDVpBDXzj6KioR4LPpsjJrLJiHUjJ",
+      "fx": 19.742781521847974,
+      "fy": -47.83928339141545,
+      "category": "mindmap"
+    },
+    {
+      "text": "redis  ️",
+      "url": "/id/Fb7dmtCvahWRF1LWybq5JqtPjHwBeF4mxoV7zLB5",
+      "fx": -281.83635032467726,
+      "fy": -47.780194995849115,
+      "category": "mindmap"
+    },
+    {
+      "text": "NewSQL  ️",
+      "url": "/id/rQQDNz1gFCUB16EUvh8oHLLHzLL9hTmyLFqKHk1d",
+      "fx": 255.41590447154454,
+      "fy": -25.157139227642347,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "noSQL databases",
+      "target": "redis  ️",
+      "curve": {
+        "x": -226.216,
+        "y": 70.185
+      }
+    },
+    {
+      "source": "noSQL databases",
+      "target": "mongoDB  ️",
+      "curve": {
+        "x": -106.166,
+        "y": 74.4871
+      }
+    },
+    {
+      "source": "noSQL databases",
+      "target": "cassandra  ️",
+      "curve": {
+        "x": -14.6822,
+        "y": 75.205
+      }
+    },
+    {
+      "source": "noSQL databases",
+      "target": "NewSQL  ️",
+      "curve": {
+        "x": 141.247,
+        "y": 96.6134
+      }
+    }
+  ]
+}

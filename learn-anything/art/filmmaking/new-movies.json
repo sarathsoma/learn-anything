@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - art - filmmaking - new movies",
+  "nodes": [
+    {
+      "text": "find new movies",
+      "url": "",
+      "fx": -181.82897685815237,
+      "fy": 22.270444339460198
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "letterboxd",
+      "url": "https://letterboxd.com/",
+      "fx": 62.17102314184763,
+      "fy": -23.229555660539802,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "find new movies"
+    },
+    {
+      "text": "movies",
+      "url": "https://www.reddit.com/r/movies/",
+      "fx": 62.17102314184763,
+      "fy": 10.770444339460198,
+      "category": "reddit",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "find new movies"
+    },
+    {
+      "text": "true film",
+      "url": "https://www.reddit.com/r/TrueFilm/",
+      "fx": 62.17102314184763,
+      "fy": 50.7704443394602,
+      "category": "reddit",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "find new movies"
+    },
+    {
+      "text": "movie suggestions",
+      "url": "https://www.reddit.com/r/MovieSuggestions/",
+      "fx": 62.17102314184763,
+      "fy": 90.7704443394602,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "find new movies"
+    }
+  ],
+  "connections": []
+}

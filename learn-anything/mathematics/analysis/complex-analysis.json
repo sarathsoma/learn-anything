@@ -1,0 +1,78 @@
+{
+  "title": "learn anything - mathematics - analysis - complex analysis",
+  "nodes": [
+    {
+      "text": "complex analysis",
+      "url": "http://www.wikiwand.com/en/Complex_analysis",
+      "fx": -77.46253188775506,
+      "fy": -228.94650829081638,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 90.54663584183766,
+      "fy": -110.51490752550382
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -30.638780462498403,
+      "fy": 6.1813908012545085
+    },
+    {
+      "text": "Euler’s formula  ️",
+      "url": "/id/CJcsQeuptmjn4Gbmov3bLUzhjZsiW8AxSqeMBnyz",
+      "fx": -142.7078718354436,
+      "fy": 144.96954113923982,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "how useful is complex analysis?",
+      "url": "https://www.reddit.com/r/math/comments/64ddep/how_useful_is_complex_analysis/",
+      "fx": 227.54663584183766,
+      "fy": -99.01490752550382,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introduction to complex analysis",
+      "url": "https://www.coursera.org/learn/complex-analysis",
+      "fx": 151.3612195375016,
+      "fy": 17.68139080125451,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "complex analysis",
+      "target": "basics",
+      "curve": {
+        "x": -7.83812,
+        "y": 116.314
+      }
+    },
+    {
+      "source": "help",
+      "target": "complex analysis",
+      "curve": {
+        "x": -48.0046,
+        "y": -57.9658
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Euler’s formula  ️",
+      "curve": {
+        "x": -44.0345,
+        "y": 69.3941
+      }
+    }
+  ]
+}

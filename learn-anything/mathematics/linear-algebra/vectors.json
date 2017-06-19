@@ -1,0 +1,93 @@
+{
+  "title": "learn anything - mathematics - linear algebra - vectors",
+  "nodes": [
+    {
+      "text": "Euclidean vector",
+      "url": "http://www.wikiwand.com/en/Euclidean_vector",
+      "fx": 51.64453125,
+      "fy": -115.359375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 103.27723332597179,
+      "fy": 16.064097394370265
+    },
+    {
+      "text": "vector space  ️",
+      "url": "/id/XxYbcnyFn8bcR8N7qQFs78eNj8pjfUTYkUUSjWjf",
+      "fx": 151.19780685240949,
+      "fy": 148.085119464164,
+      "category": "mindmap"
+    },
+    {
+      "text": "dot product  ️",
+      "url": "/id/pqAEToeyx3mzuJndaNMB51TaKLw4upQqvUZcfGEB",
+      "fx": -42.66049642539281,
+      "fy": 149.92129039760596,
+      "category": "mindmap"
+    },
+    {
+      "text": "cross product  ️",
+      "url": "/id/g22UUzD7AmSkKAgM24N5kNs7uxuXsE8YzTxRHdgq",
+      "fx": -247.77734375,
+      "fy": 154.6875,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what are vectors?",
+      "url": "https://www.youtube.com/watch?v=ml4NSzCQobk",
+      "fx": 259.2772333259718,
+      "fy": 7.564097394370265,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. intro to vectors",
+      "url": "http://immersivemath.com/ila/ch02_vectors/ch02.html",
+      "fx": 259.2772333259718,
+      "fy": 47.564097394370265,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "Euclidean vector",
+      "target": "basics",
+      "curve": {
+        "x": -4.43365,
+        "y": 64.4617
+      }
+    },
+    {
+      "source": "basics",
+      "target": "vector space  ️",
+      "curve": {
+        "x": 38.7103,
+        "y": 66.0105
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dot product  ️",
+      "curve": {
+        "x": -60.7189,
+        "y": 66.9286
+      }
+    },
+    {
+      "source": "basics",
+      "target": "cross product  ️",
+      "curve": {
+        "x": -189.504,
+        "y": 47.507
+      }
+    }
+  ]
+}

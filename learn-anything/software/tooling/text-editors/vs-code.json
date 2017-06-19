@@ -1,0 +1,119 @@
+{
+  "title": "learn anything - software - tooling - text editors - vs code",
+  "nodes": [
+    {
+      "text": "vs code",
+      "url": "https://github.com/Microsoft/vscode",
+      "fx": -103.24609375,
+      "fy": -146.4921875
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -10.929796006944343,
+      "fy": -47.45496961805554
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "note": "",
+      "fx": -103.52352523803711,
+      "fy": 62.75161361694336
+    },
+    {
+      "text": "extensions",
+      "url": "",
+      "fx": -204.8137478298612,
+      "fy": 203.00352647568968
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "vs code tips and tricks",
+      "url": "https://github.com/Microsoft/vscode-tips-and-tricks",
+      "fx": 126.07020399305566,
+      "fy": -72.95496961805554,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome vs code",
+      "url": "https://github.com/viatsko/awesome-vscode",
+      "fx": 126.07020399305566,
+      "fy": -32.95496961805554,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "keyboard shortcuts for mac",
+      "url": "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf",
+      "fx": 126.07020399305566,
+      "fy": 7.045030381944457,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. getting started",
+      "url": "https://code.visualstudio.com/docs",
+      "fx": 78.47647476196289,
+      "fy": 77.25161361694336,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "vs code go",
+      "url": "https://github.com/Microsoft/vscode-go",
+      "fx": -9.8137478298612,
+      "fy": 174.50352647568968,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "extensions"
+    },
+    {
+      "text": "code runner",
+      "url": "https://github.com/formulahendry/vscode-code-runner",
+      "fx": -9.8137478298612,
+      "fy": 214.50352647568968,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "extensions"
+    },
+    {
+      "text": "vim",
+      "url": "https://github.com/VSCodeVim/Vim",
+      "fx": -9.8137478298612,
+      "fy": 254.50352647568968,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "extensions"
+    }
+  ],
+  "connections": [
+    {
+      "source": "vs code",
+      "target": "basics",
+      "curve": {
+        "x": -3.63872,
+        "y": 104.622
+      }
+    },
+    {
+      "source": "help",
+      "target": "vs code",
+      "curve": {
+        "x": -37.9082,
+        "y": -49.5186
+      }
+    },
+    {
+      "source": "basics",
+      "target": "extensions",
+      "curve": {
+        "x": -40.8951,
+        "y": 70.1259
+      }
+    }
+  ]
+}
