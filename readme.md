@@ -30,7 +30,7 @@
   
 The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn_anything) as well as [searched through](https://learn-anything.xyz). 🔎
 
-There are **many mind maps inside** witch show the **best step by step guides you can use to learn the subject in depth**. 
+There are **many mind maps inside** which show the **best step by step guides you can use to learn the subject in depth**. 
   
 Each node with a link has an emoji attached to show where this node leads on the internet. Nodes with 🗺 are other mind maps. 
 
