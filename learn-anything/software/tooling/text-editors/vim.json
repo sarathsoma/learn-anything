@@ -22,14 +22,14 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -64.23135860560774,
       "fy": 429.77998602651326
     },
     {
       "text": "vim plugins  ️",
-      "url": "/id/XazZqbK22FoZhYA78ZWiYzX9PrxbzWSsmm9u4QCu",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -214.62179434564973,
       "fy": 551.7896757435811,
       "category": "mindmap"
@@ -42,8 +42,8 @@
     },
     {
       "text": "viml  ️",
-      "url": "/id/GXqUT8MFr24iZFzwwmNFG1QbyYahZaPMtdqvMc2q",
       "note": "the programming language created to extend vim",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": 12.613867083098057,
       "fy": 628.4002028385447,
       "category": "mindmap"
@@ -151,8 +151,8 @@
     },
     {
       "text": "1. complete vimtutor",
-      "url": "http://linuxcommand.org/man_pages/vimtutor1.html",
       "note": "will go over the basics of modal text editing in an interactive way",
+      "url": "http://linuxcommand.org/man_pages/vimtutor1.html",
       "fx": 117.76864139439226,
       "fy": 347.27998602651326,
       "color": "rgba(175, 54, 242, 1.0)",

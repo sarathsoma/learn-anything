@@ -28,8 +28,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -76.15569982394356,
       "fy": 250.6868948063384
     }
@@ -108,8 +108,8 @@
     },
     {
       "text": "REC Studio ",
-      "url": "http://www.backerstreet.com/rec/rec.htm",
       "note": "interactive decompiler",
+      "url": "http://www.backerstreet.com/rec/rec.htm",
       "fx": 329.33408087072246,
       "fy": 118.7851716162453,
       "color": "rgba(36, 170, 255, 1.0)",

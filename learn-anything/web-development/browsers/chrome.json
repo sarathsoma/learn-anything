@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "google chrome",
-      "url": "http://www.wikiwand.com/en/Google_Chrome",
       "note": "if you think this can be improved in any way ",
+      "url": "http://www.wikiwand.com/en/Google_Chrome",
       "fx": -104.171875,
       "fy": -244.91015625,
       "category": "wiki"

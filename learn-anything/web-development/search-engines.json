@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "web search engine",
-      "url": "http://www.wikiwand.com/en/Web_search_engine",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Web_search_engine",
       "fx": -120.44421487603313,
       "fy": -2,
       "category": "wiki"
     },
     {
       "text": "Elasticsearch  ️",
-      "url": "/id/wsjNHJruxWrXvqQ4BP5uyfbxzx9szzfRL82EQkCH",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -315.1875494449447,
       "fy": 104.84389436127594,
       "category": "mindmap"
@@ -30,7 +30,7 @@
     },
     {
       "text": "Solr  ️",
-      "url": "/id/9sP5NWHYs34H78BpMvdUkCT5nh8X8QZKsxXPZrRp",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -25.914003708221685,
       "fy": 228.17857108817793,
       "category": "mindmap"

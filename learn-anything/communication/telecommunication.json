@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "telecommunication",
-      "url": "http://www.wikiwand.com/en/Telecommunication",
       "note": " ",
+      "url": "http://www.wikiwand.com/en/Telecommunication",
       "fx": 109.38705264522832,
       "fy": -216.19765625000002,
       "category": "wiki"
     },
     {
       "text": "wireless  ️",
-      "url": "/id/asjmWf1R5Eo5pMyCS3FiDkeSkmkkaPftp4Pz1yBy",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 74.53538257555044,
       "fy": -96.94094007573182,
       "category": "mindmap"

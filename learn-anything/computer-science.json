@@ -22,76 +22,76 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 693.1934268793616,
       "fy": -475.0472540266063
     },
     {
       "text": "algorithms  ️",
-      "url": "/id/M9oKwx4cd9kzJqTpJsoUaqpGo2X2bvfwdp6ekodK#-61.3,248.6,1",
       "note": "is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  they are essential to the way computers process data  they can be expressed in many kinds of notation, including  - natural languages - pseudocode - flowcharts - drakon-charts - programming languages - control tables  most algorithms are intended to be implemented as computer programs  however some are implemented as a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device",
+      "url": "/learn-anything/web-development.json",
       "fx": 140.81180426139383,
       "fy": -238.313236705044,
       "category": "mindmap"
     },
     {
       "text": "compilers  ️",
-      "url": "/id/8zoz2iumK52ZVSsuEr2bqY2cyzpx7icMS1nMsNH1",
       "note": "are computer programs (or a set of programs) that transform source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code",
+      "url": "/learn-anything/web-development.json",
       "fx": 351.78001418057045,
       "fy": -238.01228051436567,
       "category": "mindmap"
     },
     {
       "text": "data structures  ️",
-      "url": "/id/2qFq7j3eSx2Szz3PcKGTbsSbM6psoYYGTErdyYXd",
       "note": "is a particular way of organising data in a computer so that it can be used efficiently  can implement one or more particular abstract data types (ADT), which specify the operations that can be performed on a data structure and the computational complexity of those operations  a data structure is a concrete implementation of the specification provided by an ADT  are generally based on the ability of a computer to fetch and store data at any place ints its memory, specified by a pointer (a bit string, representing a memory address), that can be itself stored in memory and manipulated by the program  implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure",
+      "url": "/learn-anything/web-development.json",
       "fx": -105.10284015379466,
       "fy": -235.44336700439453,
       "category": "mindmap"
     },
     {
       "text": "virtual machines  ️",
-      "url": "/id/Y9qqxCqNzSV8GqxCg9yJvJGsvTJUSb3a9DzvvJGJ",
+      "url": "/learn-anything/web-development.json",
       "fx": -350.49400795305667,
       "fy": -234.8864814073529,
       "category": "mindmap"
     },
     {
       "text": "programming language theory  ️",
-      "url": "/id/6GZfjhTKw6cscXsr3MqFCLAfPnCs9dEEWSAuptrR",
+      "url": "/learn-anything/web-development.json",
       "fx": 802.8155822753906,
       "fy": -246.94061660766602,
       "category": "mindmap"
     },
     {
       "text": "computation  ️",
-      "url": "/id/QWix8KpcBYXDpa7zVmVyiRbdv5KmAszxZqfyCP7s",
       "note": "computation is any type of calculation that follows a well-defined model understood and expressed as, for example, an algorithm",
+      "url": "/learn-anything/web-development.json",
       "fx": 568.0502079441524,
       "fy": -234.0604268416771,
       "category": "mindmap"
     },
     {
       "text": "concurrency  ️",
-      "url": "/id/mb8GSLMzQTjoqN1AnmMbE8Uv91pyKfbA7NdAvvyk",
       "note": "is the decomposability property of a program, algorithm or problem into order-independent or partially-ordered components or units  this means that even if the concurrent units of the program, algorithm, or problem are executed out-of-order or in partial order, the final outcome will remain the same  this allows for parallel execution of the concurrent units  design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation and execution scheduling to minimise response time and maxima throughput",
+      "url": "/learn-anything/web-development.json",
       "fx": -565.6000219580799,
       "fy": -233.11078847544468,
       "category": "mindmap"
     },
     {
       "text": "recursion  ️",
-      "url": "/id/shyEmRexQbPypbYYtjqoqPqA6ADoHvCi1Kzq4UuC",
+      "url": "/learn-anything/web-development.json",
       "fx": -740.930084745763,
       "fy": -232.43365995762701,
       "category": "mindmap"
     },
     {
       "text": "regular expressions  ️",
-      "url": "/id/reBzaM1mn6WWuTM5iRAtrC1o7LzWBNwspT9pxNT3",
       "note": "are sequences of characters that define a search pattern  usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis",
+      "url": "/learn-anything/web-development.json",
       "fx": 826.8982637871441,
       "fy": -115.9460398353649,
       "category": "mindmap"
@@ -178,8 +178,8 @@
     },
     {
       "text": "1. code: hidden language",
-      "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
       "note": "goes over what a computer actually is and what it is made of, starting from the beginning",
+      "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
       "fx": 875.1934268793616,
       "fy": -593.5472540266063,
       "category": "free book",
@@ -188,8 +188,8 @@
     },
     {
       "text": "1. CS50 from Harvard",
-      "url": "https://cs50.harvard.edu/weeks",
       "note": "first 6 lectures are done in C, the rest are in python",
+      "url": "https://cs50.harvard.edu/weeks",
       "fx": 875.1934268793616,
       "fy": -553.5472540266063,
       "category": "",
@@ -225,8 +225,8 @@
     },
     {
       "text": "3. build a computer from first principles",
-      "url": "https://www.coursera.org/learn/build-a-computer",
       "note": "will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer",
+      "url": "https://www.coursera.org/learn/build-a-computer",
       "fx": 875.1934268793616,
       "fy": -411.5472540266063,
       "category": "",
@@ -235,8 +235,8 @@
     },
     {
       "text": "3. mathematics for computer science",
-      "url": "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
       "note": "goes over the mathematical foundation that you need to do research in this field",
+      "url": "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
       "fx": 875.1934268793616,
       "fy": -349.5472540266063,
       "color": "rgba(34, 205, 224, 1.0)",

@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "windows",
-      "url": "http://www.wikiwand.com/en/Microsoft_Windows",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Microsoft_Windows",
       "fx": -78.05078125,
       "fy": -200.25390625,
       "category": "wiki"
     },
     {
       "text": "powershell  ️",
-      "url": "/id/5JeHP3cTTTX3eiLnPXNMuT5DWxArTHLBoqqu5Rnz",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -346.43628389084944,
       "fy": -147.03029748504161,
       "category": "mindmap"
@@ -24,14 +24,14 @@
     },
     {
       "text": "windows server  ️",
-      "url": "/id/S9UweNPxqfV4yzquyks7WpYJrp8fxZ3z7CBgouWT",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -372.0437017994874,
       "fy": -29.80719794344452,
       "category": "mindmap"
     },
     {
       "text": "autohotkey  ️",
-      "url": "/id/DnjPbFDyxC5spDSPjb8qNdqp5gmVwRGv2wH7WRpM",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -173.31965521118815,
       "fy": 100.92283573321919,
       "category": "mindmap"
@@ -64,8 +64,8 @@
     },
     {
       "text": "WindowsSpyBlocker",
-      "url": "https://github.com/crazy-max/WindowsSpyBlocker",
       "note": "- rules to block windows spy / telemetry",
+      "url": "https://github.com/crazy-max/WindowsSpyBlocker",
       "fx": 154.2994122049248,
       "fy": -40.6093980059681,
       "category": "github",

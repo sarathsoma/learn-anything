@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "android",
-      "url": "http://www.wikiwand.com/en/Android_(operating_system)",
       "note": " ",
+      "url": "http://www.wikiwand.com/en/Android_(operating_system)",
       "fx": -37.75331176882207,
       "fy": -284.7145616282587,
       "category": "wiki"
@@ -87,8 +87,8 @@
     },
     {
       "text": "android security awesome",
-      "url": "https://github.com/ashishb/android-security-awesome",
       "note": "collection of android security related resources",
+      "url": "https://github.com/ashishb/android-security-awesome",
       "fx": 331.5994286744491,
       "fy": -59.96669317328411,
       "category": "github",

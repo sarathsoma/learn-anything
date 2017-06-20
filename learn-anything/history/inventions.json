@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "inventions",
-      "url": "http://www.wikiwand.com/en/Invention",
       "note": "the numbers represent the year in which the invention took place  ",
+      "url": "http://www.wikiwand.com/en/Invention",
       "fx": -134.5859375,
       "fy": -404.37109375,
       "category": "wiki"

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "animals",
-      "url": "http://www.wikiwand.com/en/Animal",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Animal",
       "fx": 73.57228379563935,
       "fy": -532.1489102866236,
       "category": "wiki"

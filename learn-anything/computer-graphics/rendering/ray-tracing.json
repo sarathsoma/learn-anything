@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "ray tracing",
-      "url": "http://www.wikiwand.com/en/Ray_tracing_(graphics)",
       "note": " ",
+      "url": "http://www.wikiwand.com/en/Ray_tracing_(graphics)",
       "fx": -160.76171875,
       "fy": -367.9375,
       "category": "wiki"
@@ -25,8 +25,8 @@
   "subnodes": [
     {
       "text": "breakdown of a simple ray tracer",
-      "url": "http://mrl.nyu.edu/~perlin/raytrace1_breakdown/",
       "note": "great visualisation with live editable code",
+      "url": "http://mrl.nyu.edu/~perlin/raytrace1_breakdown/",
       "fx": 86.74904918670654,
       "fy": -261.4069519042969,
       "category": "interactive",

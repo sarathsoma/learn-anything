@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "Xcode",
-      "url": "http://www.wikiwand.com/en/Xcode",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Xcode",
       "fx": -147.90234375,
       "fy": -289.1796875,
       "category": "wiki"
@@ -58,8 +58,8 @@
     },
     {
       "text": "tulsi",
-      "url": "https://github.com/bazelbuild/tulsi",
       "note": "Xcode Project Generator For Bazel",
+      "url": "https://github.com/bazelbuild/tulsi",
       "fx": 234.5,
       "fy": 65.75,
       "category": "github",

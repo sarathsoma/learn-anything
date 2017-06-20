@@ -16,8 +16,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -77.46431228741505,
       "fy": -75.30706459348539
     },
@@ -43,21 +43,21 @@
     },
     {
       "text": "fitness  ️",
-      "url": "/id/Qruad21hxq43Qw4xHN4gyPZmeKc33cx3BDHq1o47",
+      "url": "/learn-anything/web-development.json",
       "fx": -207.4440554648064,
       "fy": 160.51599833289026,
       "category": "mindmap"
     },
     {
       "text": "nutrition  ️",
-      "url": "/id/zUyb7rGF3UvomE9YgA4tJ8vhfrGxZ9dvPNy2EL1r",
+      "url": "/learn-anything/web-development.json",
       "fx": -60.33877034730551,
       "fy": 162.44603104474072,
       "category": "mindmap"
     },
     {
       "text": "mindfulness  ️",
-      "url": "/id/X1xhDwGWzsx5JAYpitKYQmX9YtMgR3CBpujMkhj8",
+      "url": "/learn-anything/web-development.json",
       "fx": 93.75350063210465,
       "fy": 163.61987218655855,
       "category": "mindmap"
@@ -75,8 +75,8 @@
     },
     {
       "text": "1. how not to die",
-      "url": "https://www.goodreads.com/book/show/25663961-how-not-to-die",
       "note": "covers how and why the diet that you have, has such an effect on you and how you can maximise and improve it towards better and longer living",
+      "url": "https://www.goodreads.com/book/show/25663961-how-not-to-die",
       "fx": 104.53568771258495,
       "fy": -63.80706459348539,
       "category": "non-free book",

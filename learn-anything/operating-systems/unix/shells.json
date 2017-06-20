@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "unix shell",
-      "url": "http://www.wikiwand.com/en/Unix_shell",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Unix_shell",
       "fx": 17.677764794687732,
       "fy": -197.68819154793192,
       "category": "wiki"
@@ -17,21 +17,21 @@
     },
     {
       "text": "fish  ️",
-      "url": "/id/sBKVXzBFc3x9BPDixjauyix3UPnVjYazVBj85axz",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 54.980510017331994,
       "fy": 48.662206063766064,
       "category": "mindmap"
     },
     {
       "text": "bash  ️",
-      "url": "/id/gvKrazbC3joUVUJ6oTpyxHrKtZDsifk28UYyJdq8",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -75.10585762090716,
       "fy": 49.06161249658021,
       "category": "mindmap"
     },
     {
       "text": "zsh  ️",
-      "url": "/id/hyytPyvKEHFpdtnqxWNCqe96TFKM6qzDM4NRj2vd",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -189.74618915059216,
       "fy": 51.88914515895328,
       "category": "mindmap"

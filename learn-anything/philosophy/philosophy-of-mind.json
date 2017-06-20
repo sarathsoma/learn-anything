@@ -10,29 +10,29 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 62.99609375,
       "fy": -107.5703125
     },
     {
       "text": "free will",
-      "url": "http://www.wikiwand.com/en/Free_will",
       "note": "ability to choose between different possible courses of action",
+      "url": "http://www.wikiwand.com/en/Free_will",
       "fx": -391.0000521267723,
       "fy": -29.04243988045556,
       "category": "wiki"
     },
     {
       "text": "consciousness  ️",
-      "url": "/id/hSNyGspZ2ZBNebvrRvgmrg62Nk963kgwjAvNAFuq",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -476.9396494801081,
       "fy": 68.81292890416984,
       "category": "mindmap"
     },
     {
       "text": "solipsism  ️",
-      "url": "/id/oixqpAaH7QZLUsZ7ogDs692wWNC849eECuvATzyj",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 315.59189151982514,
       "fy": 69.98609581497658,
       "category": "mindmap"
@@ -53,7 +53,7 @@
     },
     {
       "text": "metaphysics  ️",
-      "url": "/id/fTiQkDsXwhsJb5zCs9iLH76VazkwpHis5jtJVP75",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -287.87329472580984,
       "fy": 187.89017152133056,
       "category": "mindmap"
@@ -67,14 +67,14 @@
     },
     {
       "text": "physicalism  ️",
-      "url": "/id/fyEcR1uB4KvW1sFzBq8cABYzBYerwGwyERvA1UaA",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 47.392570377267816,
       "fy": 254.10681163225433,
       "category": "mindmap"
     },
     {
       "text": "phenomenology  ️",
-      "url": "/id/AS5ptq7URougffsu5qNFKgKFGR6BjbmqguZhFQpe",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -128.77296840252063,
       "fy": 366.63823607765016,
       "category": "mindmap"

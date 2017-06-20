@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "universe",
-      "url": "http://www.wikiwand.com/en/Universe",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Universe",
       "fx": 204.84921566205537,
       "fy": -239.43330039525685,
       "category": "wiki"
@@ -17,15 +17,15 @@
     },
     {
       "text": "Big Bang theory  ️",
-      "url": "/id/FXvU7UqEKakHJEdydzsM9wnVaoxqsHsFnzixrVnq",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 84.32251183749656,
       "fy": 20.99941916553263,
       "category": "mindmap"
     },
     {
       "text": "galaxies  ️",
-      "url": "/id/iMsiQqxH5FB5jboayXw1qxAh4DsyooU8js3k1s8F",
       "note": "is gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter  they range in size from dwarfs with just a few billion stars, to giants with one hundred trillion stars, each orbiting its galaxy's centre of mass  are categorised according to their visual morphology as elliptical, spiral and irregular  estimates of the number of galaxies in the observable universe range from 200 billion to 2 trillion or more, containing more stars than all the grains of sand on planet earth  the space between galaxies is filled with a tenuous gas having an average density of less than one atom per cubic meter  the majority of galaxies are gravitationally organised into groups, clusters, and superclusters  at the largest scale, these associations are generally arranged into sheets and filaments surrounded by immense voids  the largest structure of galaxies yet recognised is a cluster of superclusters, that has been named Laniakea",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 314.0953938764245,
       "fy": 21.89698979888408,
       "category": "mindmap"

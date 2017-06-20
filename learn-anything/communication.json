@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "communication",
-      "url": "http://www.wikiwand.com/en/Communication",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Communication",
       "fx": -85.34586808840913,
       "fy": -403.53318295352506,
       "category": "wiki"
     },
     {
       "text": "telecommunication  ️",
-      "url": "/id/aJppwWtjS8s8pTaQWbVMBZ5o3ZuUy5E5oy91GKs4",
+      "url": "/learn-anything/web-development.json",
       "fx": -219.49697875976562,
       "fy": -273.5055389404297,
       "category": "mindmap"

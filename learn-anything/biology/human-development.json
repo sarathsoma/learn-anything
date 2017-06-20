@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "human development",
-      "url": "http://www.wikiwand.com/en/Human_development_(biology)",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Human_development_(biology)",
       "fx": 41.27734375,
       "fy": -342.64453125,
       "category": "wiki"
     },
     {
       "text": "aging  ️",
-      "url": "/id/BLrVeozbNCFtRsEbLiKz45eGhZj24faeCsdynsQZ",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 67.39515417800078,
       "fy": -196.14604208283748,
       "category": "mindmap"

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "python libraries",
-      "url": "https://pypi.python.org/pypi",
       "note": "",
+      "url": "https://pypi.python.org/pypi",
       "fx": -325.46722755528856,
       "fy": -130.60274874190827
     },
@@ -22,8 +22,8 @@
     },
     {
       "text": "numpy  ️",
-      "url": "/id/buGeFf4ms9LDv1ypqL5gXX8UzvbnxjjxMqEct7fp",
       "note": "python package for scientific computing  contains  a powerful N-dimensional array object  sophisticated (broadcasting) functions  useful linear algebra, Fourier transform or random number capabilities",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": 122.53345184560453,
       "fy": 49.69938846664866,
       "category": "mindmap"
@@ -72,14 +72,14 @@
     },
     {
       "text": "flask  ️",
-      "url": "/id/5Nw5QGrzySmMTUg28CtuBdMseu1PqnzUCRnMMAA7",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -569.3064480792013,
       "fy": 294.47332059927294,
       "category": "mindmap"
     },
     {
       "text": "django  ️",
-      "url": "/id/K5WJhHspfaaezNNbNRZYxWGEoofFqnQVTa3ZcxEz",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -452.7706029165229,
       "fy": 348.7671260083358,
       "category": "mindmap"

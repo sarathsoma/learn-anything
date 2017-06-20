@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "network science",
-      "url": "http://www.wikiwand.com/en/Network_science",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Network_science",
       "fx": 320.13873936364257,
       "fy": -442.51661250411917,
       "category": "wiki"
@@ -25,8 +25,8 @@
     },
     {
       "text": "computer networking  ️",
-      "url": "/id/N78CWbGse4y4gyZXjb6yLAsj8p58vmVD5RzC5qWj",
       "note": "computer network is a telecommunications network which allows nodes to share resources  in computer networks, networked computing devices exchange data with each other using a data link",
+      "url": "/learn-anything/web-development.json",
       "fx": -266.9644584655762,
       "fy": -238.89255905151367,
       "category": "mindmap"
@@ -40,7 +40,7 @@
     },
     {
       "text": "network topology  ️",
-      "url": "/id/qsGxmY5KYwWw49yFyMMxNmRfszs8swqCEiWg77D1",
+      "url": "/learn-anything/web-development.json",
       "fx": -512.8932952880859,
       "fy": -238.56880569458008,
       "category": "mindmap"
@@ -61,7 +61,7 @@
     },
     {
       "text": "network theory  ️",
-      "url": "/id/n49ig2yzjb5pyKUZTtHthq4S7parxjE7zqoUMHoP",
+      "url": "/learn-anything/web-development.json",
       "fx": -723.039891098485,
       "fy": -236.41193181818159,
       "category": "mindmap"

@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "data analysis",
-      "url": "http://www.wikiwand.com/en/Data_analysis",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Data_analysis",
       "fx": -28.6484375,
       "fy": -241.1875,
       "category": "wiki"
     },
     {
       "text": "analytics  ️",
-      "url": "/id/jLrJECLwYCzh99b5YNUehkkgfs9HpVLptnWuBA5D",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -281.74388586956525,
       "fy": -137.22214673913044,
       "category": "mindmap"
@@ -24,14 +24,14 @@
     },
     {
       "text": "time series analysis  ️",
-      "url": "/id/CTbgZy8G2yGs7x4wdpzeQ5Ffwi7dMuSSPUoQ91ih",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -238.69343517788388,
       "fy": -29.305490217042745,
       "category": "mindmap"
     },
     {
       "text": "pandas  ️",
-      "url": "/id/ypjyzY5mTyzWdjVy17YNhxMwGxF3jdadaZnsCqsx",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 16.582221549604185,
       "fy": 24.034686888615113,
       "category": "mindmap"

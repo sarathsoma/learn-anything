@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "environmental science",
-      "url": "http://www.wikiwand.com/en/Environmental_science",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Environmental_science",
       "fx": 495.310202205882,
       "fy": -919.2220145486485,
       "category": "wiki"
@@ -25,8 +25,8 @@
     },
     {
       "text": "renewable energy  ️",
-      "url": "/id/C2BoyaqLHktGJxaoLRNt88eREjwyUjoDdNC4CTYH",
       "note": "is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat",
+      "url": "/learn-anything/web-development.json",
       "fx": 615.4852340733621,
       "fy": -638.6151029175164,
       "category": "mindmap"

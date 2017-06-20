@@ -16,8 +16,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -102.73072536732593,
       "fy": 89.18053530931525
     }
@@ -25,8 +25,8 @@
   "subnodes": [
     {
       "text": "slim redux",
-      "url": "https://gist.github.com/gaearon/ffd88b0e4f00b22c3159",
       "note": "redux without the sanity checks in a single file",
+      "url": "https://gist.github.com/gaearon/ffd88b0e4f00b22c3159",
       "fx": 203.03482941736308,
       "fy": -125.12131128578051,
       "category": "github",

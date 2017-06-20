@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -259.2149571556614,
       "fy": -67.9210399301412
     },
@@ -101,8 +101,8 @@
     },
     {
       "text": "go is not good",
-      "url": "https://github.com/ksimka/go-is-not-good",
       "note": "- various articles saying why go is bad",
+      "url": "https://github.com/ksimka/go-is-not-good",
       "fx": 357.6879694328511,
       "fy": -742.5810701316726,
       "category": "github",
@@ -222,8 +222,8 @@
     },
     {
       "text": "getting started with go workspaces  ️",
-      "url": "http://gowithconfidence-blog.tumblr.com/post/118493925546/getting-started-with-go-workspaces",
       "note": "you don’t want to set GOROOT  GOROOT tells the go command where to find the Go distribution, but unless you did a funky install, it already knows!",
+      "url": "http://gowithconfidence-blog.tumblr.com/post/118493925546/getting-started-with-go-workspaces",
       "fx": 752.6063070701416,
       "fy": -422.70085967266357,
       "category": "article",

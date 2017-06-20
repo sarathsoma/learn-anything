@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "web API",
-      "url": "http://www.wikiwand.com/en/Web_API",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Web_API",
       "fx": -27.20904876373629,
       "fy": -261.4701665521978,
       "category": "wiki"
@@ -17,14 +17,14 @@
     },
     {
       "text": "WebExtensions  ️",
-      "url": "/id/swfWNyeQxpNJq2RUmqk7pi3NX34pZgJUzdgxnH9x",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -276.57503568558803,
       "fy": -49.800838297635835,
       "category": "mindmap"
     },
     {
       "text": "WebAudio  ️",
-      "url": "/id/kabSGExdpnM4V2zEyK421WjGTxTE6qsjMq7aAuDw",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -42.71469840354314,
       "fy": -49.1392899493257,
       "category": "mindmap"

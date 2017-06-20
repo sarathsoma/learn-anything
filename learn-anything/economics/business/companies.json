@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "companies",
-      "url": "http://www.wikiwand.com/en/Company",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Company",
       "fx": 25.7109375,
       "fy": -428.8203125,
       "category": "wiki"

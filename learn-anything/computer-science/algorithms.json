@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 13.22032467477402,
       "fy": 261.1747953455887
     },
@@ -36,8 +36,8 @@
     },
     {
       "text": "analysis of algorithms",
-      "url": "http://www.wikiwand.com/en/Analysis_of_algorithms",
       "note": "analysis of algorithms is the determination of the amount of resources (such as time and storage) necessary to execute them  most algorithms are designed to work with inputs of arbitrary length   usually, the efficiency or running time of an algorithm is stated as a function relating the input length to the number of steps (time complexity) or storage locations (space complexity)  it is common to estimate the complexity in the asymptotic sense   i. e. estimate the complexity function for arbitrarily large input",
+      "url": "http://www.wikiwand.com/en/Analysis_of_algorithms",
       "fx": -173.91377532716183,
       "fy": 465.97480746440783,
       "category": "wiki"
@@ -50,32 +50,32 @@
     },
     {
       "text": "big O notation  ️",
-      "url": "/id/wptdyX9aF7U63EaydGsif5s49ypXyCJ5qq2Gyduh",
       "note": "is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  the letter O is used because the growth rate of a function is also referred to as order of the function",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -137.97580353658623,
       "fy": 563.1971730837394,
       "category": "mindmap"
     },
     {
       "text": "genetic  ️",
-      "url": "/id/eyXxva1VSE8WZvKJqNgF6tXMpRqt6KL44FsizaFF",
       "note": "genetic algorithm is a metaheuristic inspired by the process of natural selection  are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -1375.1603294139684,
       "fy": 659.7009661899706,
       "category": "mindmap"
     },
     {
       "text": "matrix multiplication",
-      "url": "http://www.wikiwand.com/en/Matrix_multiplication_algorithm",
       "note": "applications of matrix multiplication in computational problems are found in many fields including scientific computing and pattern recognition and in seemingly unrelated problems such as counting the paths through a graph  many different algorithms have been designed for multiplying matrices on different types of hardware, including parallel and distributed systems, where the computational work is spread over multiple processors (perhaps over network)",
+      "url": "http://www.wikiwand.com/en/Matrix_multiplication_algorithm",
       "fx": -1168.2197180680141,
       "fy": 662.2243091100934,
       "category": "wiki"
     },
     {
       "text": "graphs  ️",
-      "url": "/id/6oyRa3x6esxEtPgnb1igPuEqPxGbATcndS7xpEsZ",
       "note": "a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -879.1015930175781,
       "fy": 667.2896728515625,
       "category": "mindmap"
@@ -89,24 +89,24 @@
     },
     {
       "text": "evolutionary",
-      "url": "http://www.wikiwand.com/en/Evolutionary_algorithm",
       "note": "uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection",
+      "url": "http://www.wikiwand.com/en/Evolutionary_algorithm",
       "fx": -592.5450054862558,
       "fy": 682.0652222925099,
       "category": "wiki"
     },
     {
       "text": "searching  ️",
-      "url": "/id/AgnjCBHsB7xdQ61qP7Ncxp6FkaDkEXqartpjYqRY",
       "note": "search algorithm is an algorithm that retrieves information stored within some data structure  appropriate search algorithm often depends on the data structure being searched  searching also encompasses algorithms that query the data structure, such as the SQL SELECT command  they can be classified based on their mechanism of searching",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -787.233077150359,
       "fy": 769.1595200557284,
       "category": "mindmap"
     },
     {
       "text": "sorting  ️",
-      "url": "/id/wfdPrx9rsUeUpwwspRgsM741LKciWLMeUev8ML1u",
       "note": "sorting algorithm is an algorithm that puts elements of a list in a certain order  most used orders are numerical order and lexicographical order  efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  it is also often useful for canonicalising data and for producing human readable output",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -421.10001649247874,
       "fy": 794.7859447289868,
       "category": "mindmap"
@@ -273,8 +273,8 @@
     },
     {
       "text": "1. algorithms: part I",
-      "url": "https://www.coursera.org/learn/algorithms-part1",
       "note": "a really great course by Stanford university that introduces you to different algorithms  how to prove them and reason about their efficiency",
+      "url": "https://www.coursera.org/learn/algorithms-part1",
       "fx": 195.22032467477402,
       "fy": 241.67479534558868,
       "category": "",
@@ -283,8 +283,8 @@
     },
     {
       "text": "2. algorithms: part II",
-      "url": "https://www.coursera.org/learn/algorithms-part2",
       "note": "continuation of the above course",
+      "url": "https://www.coursera.org/learn/algorithms-part2",
       "fx": 195.22032467477402,
       "fy": 281.6747953455887,
       "category": "",
@@ -293,8 +293,8 @@
     },
     {
       "text": "3. introduction to algorithms",
-      "url": "http://ce.bonabu.ac.ir/uploads/30/CMS/user/file/115/EBook/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf",
       "note": "can be read alongside the above courses  is very thorough and details the specifics of all the algorithms you may find",
+      "url": "http://ce.bonabu.ac.ir/uploads/30/CMS/user/file/115/EBook/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf",
       "fx": 195.22032467477402,
       "fy": 321.6747953455887,
       "category": "non-free book",

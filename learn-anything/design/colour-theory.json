@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -111.3828125,
       "fy": 29.41796875
     }
@@ -39,8 +39,8 @@
     },
     {
       "text": "colorful",
-      "url": "https://github.com/Siddharth11/Colorful",
       "note": "curated list of awesome resources to choose your next color scheme",
+      "url": "https://github.com/Siddharth11/Colorful",
       "fx": 169.41551971435547,
       "fy": -87.4805793762207,
       "category": "github",

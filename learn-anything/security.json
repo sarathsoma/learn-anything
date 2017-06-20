@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "security",
-      "url": "http://www.wikiwand.com/en/Security",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Security",
       "fx": -200.8634788268621,
       "fy": -385.33435302759153,
       "category": "wiki"
@@ -17,37 +17,37 @@
     },
     {
       "text": "penetration testing  ️",
-      "url": "/id/4ihKdHT7ZKc1a6hp7MiFFYGpzA4Dm6Qu6sr5LdMT",
       "note": "a penetration test is an authorised simulated attack on a computer system that looks for security weaknesses, potentially gaining access to the system’s features and data  general attack sequence in steps is  1. find an exploitable vulnerability  2. design an attack around it - test the attack - seize a line in use - enter the attack - exploit the entry for information recovery",
+      "url": "/learn-anything/web-development.json",
       "fx": -120.21112468880654,
       "fy": 7.8789494305767676,
       "category": "mindmap"
     },
     {
       "text": "privacy  ️",
-      "url": "/id/uFiw9mUYxyQjTnTcHqpX8VGsH5sSVSWztpY5AyWJ#-154.8,-53.0,2",
       "note": "is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  it is the right of people to conceal information about themselves that others might use to their advantage",
+      "url": "/learn-anything/web-development.json",
       "fx": -296.7759606192335,
       "fy": 8.281329490548387,
       "category": "mindmap"
     },
     {
       "text": "hacking  ️",
-      "url": "/id/7dWQHvRBshf6cmgczxFGLTq9Lqg5DpiYqxs8UG3K",
+      "url": "/learn-anything/web-development.json",
       "fx": -462.15126377345905,
       "fy": 11.918183627678218,
       "category": "mindmap"
     },
     {
       "text": "information security  ️",
-      "url": "/id/JnJxmfMwcigFArLsxvGTi1VwpK42vxbZzfBDSaEr",
+      "url": "/learn-anything/web-development.json",
       "fx": -724.0113554201312,
       "fy": 17.15036369298673,
       "category": "mindmap"
     },
     {
       "text": "virtual private networks  ️",
-      "url": "/id/CzViS3qsYSPreTTjveyGSmfFJQ4Vy9GJMjJdXn5x",
+      "url": "/learn-anything/web-development.json",
       "fx": -357.65000431474516,
       "fy": 117.25895609175723,
       "category": "mindmap"

@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -240.50445308012524,
       "fy": 15.028120577662776
     },
@@ -35,14 +35,14 @@
     },
     {
       "text": "game engines  ️",
-      "url": "/id/bxSEPduhsyxhpEsq3aDWjey4naXLsLTjdjTCqBGB",
+      "url": "/learn-anything/web-development.json",
       "fx": -264.1087706026801,
       "fy": 218.06264106416563,
       "category": "mindmap"
     },
     {
       "text": "game consoles  ️",
-      "url": "/id/NN7AnVMbqvozzjkJaZVUsSUz867pNyt6hAKsxa2w",
+      "url": "/learn-anything/web-development.json",
       "fx": -500.65592805631843,
       "fy": 221.34459182310752,
       "category": "mindmap"
@@ -177,8 +177,8 @@
     },
     {
       "text": "magic tools",
-      "url": "https://github.com/ellisonleao/magictools",
       "note": "list of game development resources to make magic happen",
+      "url": "https://github.com/ellisonleao/magictools",
       "fx": 336.4934004158714,
       "fy": -220.39493579922544,
       "category": "github",

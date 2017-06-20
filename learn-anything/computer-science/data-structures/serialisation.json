@@ -3,22 +3,22 @@
   "nodes": [
     {
       "text": "serialisation",
-      "url": "http://www.wikiwand.com/en/Serialization",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Serialization",
       "fx": -168.26956814728578,
       "fy": -198.94645183255614,
       "category": "wiki"
     },
     {
       "text": "json  ️",
-      "url": "/id/m1UpSRGpVqQAodsPqUCJHiffqG2PmBNQ8RJ9wx3L",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -112.27181154822381,
       "fy": -76.8554092639593,
       "category": "mindmap"
     },
     {
       "text": "protocol buffers  ️",
-      "url": "/id/Foo9ss3x4RvFhQtukBUEZi9U1i4XnDorp3LRJqhL",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -335.44522929512345,
       "fy": -74.81716823150231,
       "category": "mindmap"

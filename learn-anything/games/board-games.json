@@ -3,22 +3,22 @@
   "nodes": [
     {
       "text": "board games",
-      "url": "http://www.wikiwand.com/en/Board_game",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Board_game",
       "fx": 94.3984375,
       "fy": -272.97265625,
       "category": "wiki"
     },
     {
       "text": "chess  ️",
-      "url": "/id/2PqeoMbRrznbwyf6AZjpp9LszS9eHCfyvSGDQJmf",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -35.58037249247229,
       "fy": -96.69924163818354,
       "category": "mindmap"
     },
     {
       "text": "go  ️",
-      "url": "/id/ymzxX988M4yJD9FpCKBQbBYwKZDay3yyWvixuNqU",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 117.06042226155603,
       "fy": -95.39420509338373,
       "category": "mindmap"

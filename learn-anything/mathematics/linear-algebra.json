@@ -16,35 +16,35 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -11.689720273329385,
       "fy": 64.76465882871287
     },
     {
       "text": "vectors  ️",
-      "url": "/id/6Gg75iLp5NzyC9FQYF81rwVi4uBqzqip8cxicFUp",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -307.84304049702985,
       "fy": 82.13552644514823,
       "category": "mindmap"
     },
     {
       "text": "Gaussian elimination  ️",
-      "url": "/id/fgzMe7zWaUMyggLsTBaaHLXnAe2EyXxYotyxYSbx",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -398.7915455426355,
       "fy": 184.71977955426348,
       "category": "mindmap"
     },
     {
       "text": "matrices  ️",
-      "url": "/id/mY7Cx9QHHSdw71hkeJoeLCsojwRLMAHMA3y49UU6",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -117.70955088464768,
       "fy": 253.71985653500826,
       "category": "mindmap"
     },
     {
       "text": "eigenvectors and eigenvalues  ️",
-      "url": "/id/W7TqDzCZ3zHBnpSUmN7sYzhgNGkjqaqzB6jXzhBh",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 53.629160387659795,
       "fy": 299.2718254829489,
       "category": "mindmap"
@@ -79,8 +79,8 @@
     },
     {
       "text": "1. essence of linear algebra",
-      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
       "note": "get an intuitive understanding of what linear algebra actually is before working with it  amazing set of videos, rewatch parts that you find confusing",
+      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
       "fx": 170.31027972667061,
       "fy": -54.73534117128713,
       "category": "video",
@@ -98,8 +98,8 @@
     },
     {
       "text": "2. immersive linear math",
-      "url": "http://immersivemath.com/ila/index.html",
       "note": "amazing visual representation and interactive examples",
+      "url": "http://immersivemath.com/ila/index.html",
       "fx": 170.31027972667061,
       "fy": 47.26465882871287,
       "category": "free book",
@@ -108,8 +108,8 @@
     },
     {
       "text": "2. khan academy linear algebra",
-      "url": "https://www.khanacademy.org/math/linear-algebra",
       "note": "videos and exercises to supplement immersive linear math",
+      "url": "https://www.khanacademy.org/math/linear-algebra",
       "fx": 170.31027972667061,
       "fy": 87.26465882871287,
       "category": "video",

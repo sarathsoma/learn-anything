@@ -22,7 +22,7 @@
     },
     {
       "text": "AlphaGo  ️",
-      "url": "/id/3bJnF3jaqaqyBKDTD5jw8DbBne2PfatQzhjAVsLM",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -774.5327576754387,
       "fy": -459.98122258771923,
       "category": "mindmap"
@@ -35,15 +35,15 @@
     },
     {
       "text": "autonomous driving  ️",
-      "url": "/id/MhFEcBDGRppiZxghusrGbqpKbxVTiqMsvy5VDsyg",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -708.8905214241751,
       "fy": -327.8245351936067,
       "category": "mindmap"
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -265.97392902312504,
       "fy": -138.15915093793626
     },
@@ -61,7 +61,7 @@
     },
     {
       "text": "transfer learning  ️",
-      "url": "/id/MCHDmzzox8fx9vsK46fUuUZfqHsnofzqYrxXsfyr",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -508.9579417293239,
       "fy": 132.843998015873,
       "category": "mindmap"
@@ -106,8 +106,8 @@
     },
     {
       "text": "deep review",
-      "url": "https://greenelab.github.io/deep-review/",
       "note": "collaboratively written review paper on deep learning, genomics, and precision medicine",
+      "url": "https://greenelab.github.io/deep-review/",
       "fx": 196.89320642906296,
       "fy": -771.3100705509297,
       "category": "paper",
@@ -213,8 +213,8 @@
     },
     {
       "text": "1. deep learning",
-      "url": "http://www.deeplearningbook.org",
       "note": "one of the best introductions to the field, assumes you have the mathematical background to follow it",
+      "url": "http://www.deeplearningbook.org",
       "fx": -83.97392902312504,
       "fy": -321.65915093793626,
       "category": "free book",

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "computer",
-      "url": "http://www.wikiwand.com/en/Computer",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Computer",
       "fx": -49.71820561985351,
       "fy": -143.28596442587144,
       "category": "wiki"
@@ -17,7 +17,7 @@
     },
     {
       "text": "computer architectures  ️",
-      "url": "/id/VEeaqaXaB3G1yYf5ebeX9tXMqWbjoywrMdEdb5zf",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 38.38409566616167,
       "fy": 118.77145511158926,
       "category": "mindmap"
@@ -37,21 +37,21 @@
     },
     {
       "text": "CPU  ️",
-      "url": "/id/YPhHH5Xy749FDuLTtw8Sy7QhceCvPsYqiwpucjKv",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -350.6383321101682,
       "fy": 256.5166106132068,
       "category": "mindmap"
     },
     {
       "text": "GPU  ️",
-      "url": "/id/sm4Fhdd4tkWngabpYRSjf5kjp3qtQSxpj73iftpc",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -202.99650955200195,
       "fy": 257.3299560546875,
       "category": "mindmap"
     },
     {
       "text": "computer memory  ️",
-      "url": "/id/Ja8jZpjhcVxW3dRmkXRs4LAySyJ7oVGZU1tGbHgj",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -598.5281250000002,
       "fy": 258.70208333333323,
       "category": "mindmap"

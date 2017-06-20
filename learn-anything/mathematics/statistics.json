@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -30.491833379898935,
       "fy": 78.79237155256601
     },
@@ -36,14 +36,14 @@
     },
     {
       "text": "statistical model  ️",
-      "url": "/id/1UDAjNhLJ9qy554cDqkqSU8MEzzcMDe6gTNQmzoX",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -730.8903820497366,
       "fy": 225.756543872988,
       "category": "mindmap"
     },
     {
       "text": "bayesian statistics  ️",
-      "url": "/id/towrUbKLgp99RYxozHzvpL6ehVukW5wgRsFqQQq8",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -693.549987920013,
       "fy": 308.73956873115014,
       "category": "mindmap"
@@ -92,14 +92,14 @@
     },
     {
       "text": "probability theory  ️",
-      "url": "/id/qnagoHf2YScqPiVBsPpgcB8Dxmdm9ku1TN9eQhTd",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 39.694407632072625,
       "fy": 694.4054587424216,
       "category": "mindmap"
     },
     {
       "text": "regression analysis  ️",
-      "url": "/id/ChcMVzCsqzhb9zm8BdThZfsPMFLuyQsFxyFkCpF3",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -97.4603441455697,
       "fy": 782.5540941455708,
       "category": "mindmap"
@@ -169,8 +169,8 @@
     },
     {
       "text": "years you have to live, probably",
-      "url": "http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/",
       "note": "great illustration of survival analysis, and of probabalistic proccesses in general",
+      "url": "http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/",
       "fx": 629.3540210943113,
       "fy": -81.95643068730146,
       "category": "interactive",
@@ -188,8 +188,8 @@
     },
     {
       "text": "1. seeing theory",
-      "url": "http://students.brown.edu/seeing-theory/",
       "note": "visual introduction to probability and statistics",
+      "url": "http://students.brown.edu/seeing-theory/",
       "fx": 151.50816662010106,
       "fy": -82.70762844743399,
       "category": "interactive",

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "babel",
-      "url": "https://github.com/babel/babel",
       "note": "",
+      "url": "https://github.com/babel/babel",
       "fx": -65.33984375,
       "fy": -211.546875,
       "category": "github"

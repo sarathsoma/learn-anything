@@ -3,22 +3,22 @@
   "nodes": [
     {
       "text": "query languages",
-      "url": "http://www.wikiwand.com/en/Query_language",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Query_language",
       "fx": 25.63187966417911,
       "fy": -87.2075559701492,
       "category": "wiki"
     },
     {
       "text": "graphQL  ️",
-      "url": "/id/QBvN8M3BBDqL2TKXpGzyycUxTMYcRzXpQoJKDcdq",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -43.546058768656735,
       "fy": 37.93650886194024,
       "category": "mindmap"
     },
     {
       "text": "SQL  ️",
-      "url": "/id/3hMcGXwc7Soh1TQ7cxsGTrUHeVsy44VxSgzzyQ8t",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 130.05567863805948,
       "fy": 39.645988806008575,
       "category": "mindmap"

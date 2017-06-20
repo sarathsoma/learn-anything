@@ -28,36 +28,36 @@
     },
     {
       "text": "programming  ️",
-      "url": "/id/XSoat9hfA9vpEu9LsEStbuAzNWhPHZqDyh24sRzv",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -367.6034846702479,
       "fy": 208.99802931513761,
       "category": "mindmap"
     },
     {
       "text": "iOS  ️",
-      "url": "/id/m32Zo1SzPiqfWqJvpUwBMuTMCNVXejfyWfZyeSFz",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -159.90441182226505,
       "fy": 209.02219968853592,
       "category": "mindmap"
     },
     {
       "text": "web  ️",
-      "url": "/id/85uh2iN4GPhBJpuyyuWks5a6niyypQA5TPBCGnAN",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -47.89184817950547,
       "fy": 210.7677959631054,
       "category": "mindmap"
     },
     {
       "text": "android  ️",
-      "url": "/id/9GNqw9qRvvg1A8Jeo9EW7fm8bcyWWtjKD6i6pa6w",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 79.05019203910706,
       "fy": 213.7587290502796,
       "category": "mindmap"
     },
     {
       "text": "find work",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -110.64733586120633,
       "fy": 502.77773728165505
     },
@@ -139,8 +139,8 @@
     },
     {
       "text": "monsterboard",
-      "url": "https://www.monsterboard.nl",
       "note": "for Netherlands",
+      "url": "https://www.monsterboard.nl",
       "fx": 96.35266413879367,
       "fy": 537.277737281655,
       "color": "rgba(209, 21, 88, 1.0)",

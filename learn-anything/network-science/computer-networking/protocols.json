@@ -3,85 +3,85 @@
   "nodes": [
     {
       "text": "protocols",
-      "url": "http://www.wikiwand.com/en/Communications_protocol",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Communications_protocol",
       "fx": -42.0806726365397,
       "fy": -425.87931916524707,
       "category": "wiki"
     },
     {
       "text": "MQTT  ️",
-      "url": "/id/45vkWwTbpU4UGWsYPxcNjZp5iEMzqv8iw98NRxHa",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -417.0270577428644,
       "fy": -251.6650412463972,
       "category": "mindmap"
     },
     {
       "text": "tcp/ip  ️",
-      "url": "/id/Kb1RSvayp4zmx2SHDoaaxvGrB42Y5w3jByzne1FM",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -274.75141358196515,
       "fy": -251.1240740395537,
       "category": "mindmap"
     },
     {
       "text": "irc  ️",
-      "url": "/id/NeYN9axaEYrpQLMYiqHjaRbCwqsm4BqA7d8zPc1n",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -30.393035652223716,
       "fy": -250.0376739817217,
       "category": "mindmap"
     },
     {
       "text": "BitTorrent  ️",
-      "url": "/id/MRgKxhCJLmC752mZn5NY3tAsqw5gzxzt1D5npy59",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -595.7239141949153,
       "fy": -249.34383275953388,
       "category": "mindmap"
     },
     {
       "text": "http  ️",
-      "url": "/id/g22pTF3asibAhgqgqxyxFwzgrdy6b5iPYsVDcTxf",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -142.80126236431056,
       "fy": -246.05196556188173,
       "category": "mindmap"
     },
     {
       "text": "ssh  ️",
-      "url": "/id/SHh7NGCfxiqTS63Spf93pSpZ34o8mrveVHsGFQLg",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 74.49513966584004,
       "fy": -244.93049422965555,
       "category": "mindmap"
     },
     {
       "text": "WebSocket  ️",
-      "url": "/id/aTjvT4XmpogsHt4zDqWpbZh2EYAZ9JMT4fz4xMh5",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 181.525634765625,
       "fy": -241.7728271484375,
       "category": "mindmap"
     },
     {
       "text": "IPFS  ️",
-      "url": "/id/wppXqMkJqznwmiNfyzsvyaVqheYz7vPDxRmyQHyq",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 361.64825439453125,
       "fy": -240.02977752685547,
       "category": "mindmap"
     },
     {
       "text": "WebRTC  ️",
-      "url": "/id/2b4HbUnfLDv1arrAuyFsk9Bqx1MmCbFVf8FY3U1p",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 479.7574234008789,
       "fy": -236.1245574951172,
       "category": "mindmap"
     },
     {
       "text": "AMQP  ️",
-      "url": "/id/Yaiens48cknx2maSia3BRAzRRT6DjDqenTczqczF",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 757.1203078772205,
       "fy": -232.66193602070996,
       "category": "mindmap"
     },
     {
       "text": "TLS  ️",
-      "url": "/id/jPxVBXKN2dtxLyady3g3uiam6W4NvJgtjLBEyVRi",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 637.8561096191406,
       "fy": -232.39275360107422,
       "category": "mindmap"

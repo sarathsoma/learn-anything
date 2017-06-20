@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "web crawlers",
-      "url": "http://www.wikiwand.com/en/Web_crawler",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Web_crawler",
       "fx": -94.33984375,
       "fy": -92.5703125,
       "category": "wiki"

@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -140.93434535699544,
       "fy": 109.22121607351937
     },
@@ -47,8 +47,8 @@
     },
     {
       "text": "cleverref",
-      "url": "https://www.ctan.org/pkg/cleveref?lang=en",
       "note": "make references easier and consistent",
+      "url": "https://www.ctan.org/pkg/cleveref?lang=en",
       "fx": -220.46453475952148,
       "fy": 357.6796875
     },
@@ -88,8 +88,8 @@
     },
     {
       "text": "detexify",
-      "url": "http://detexify.kirelabs.org/classify.html",
       "note": "draw symbols and get respective latex code and package",
+      "url": "http://detexify.kirelabs.org/classify.html",
       "fx": 119.36367416381836,
       "fy": -160.38000193363473,
       "color": "rgba(36, 170, 255, 1.0)",
@@ -97,8 +97,8 @@
     },
     {
       "text": "overleaf",
-      "url": "https://www.overleaf.com/",
       "note": "collaborative writing and publishing",
+      "url": "https://www.overleaf.com/",
       "fx": 119.36367130279541,
       "fy": -125.8899811816816,
       "color": "rgba(255, 189, 10, 1.0)",

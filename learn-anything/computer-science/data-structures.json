@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "data structures",
-      "url": "http://www.wikiwand.com/en/Data_structure",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Data_structure",
       "fx": -108.23762920411082,
       "fy": -586.9148180244451,
       "category": "wiki"
@@ -23,7 +23,7 @@
     },
     {
       "text": "arrays  ️",
-      "url": "/id/WeVj6q5ZQ7W8RcVnAFzX1tVSyzoScBY2eDJngXHA",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -693.7373972819214,
       "fy": -375.3333333333478,
       "category": "mindmap"
@@ -37,14 +37,14 @@
     },
     {
       "text": "serialisation  ️",
-      "url": "/id/wqJZUS4hRZx9ApSm3gutDz86Po9XDtCMiydKwCJP",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -524.3088353913074,
       "fy": -262.5840053041354,
       "category": "mindmap"
     },
     {
       "text": "linked list  ️",
-      "url": "/id/hko7BypWr8wJmi2GRxBXqUcbdxGV9RRL8H4itJ91",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 347.8290108009471,
       "fy": -225.8926435687746,
       "category": "mindmap"
@@ -86,8 +86,8 @@
     },
     {
       "text": "hash tables  ️",
-      "url": "/id/64QWJLf2vFoA5xJcP3BXvp3ak1VXkpWTJhPyqaev",
       "note": "a hash function is any function that can be used to map data of arbitrary size to data of fixed size  the values returned by a hash function are called hash values, hash codes, digests or simply hashes  one use is a data structure called a hash table, widely used in computer software for rapid data lookup",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -17.332408813639177,
       "fy": -63.87630990227785,
       "category": "mindmap"
@@ -101,21 +101,21 @@
     },
     {
       "text": "binary search trees  ️",
-      "url": "/id/1jDpHatgqThpeB3fAxKJPPsJSQuDFdypHkb6BpM3",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -801.4516356306934,
       "fy": 27.95839257682394,
       "category": "mindmap"
     },
     {
       "text": "quadtree  ️",
-      "url": "/id/TAamxXzxZbqPpbqEDjHqd8Fxa1Sqos1kzXMFAs7C",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -226.1950891629125,
       "fy": 28.615145218582256,
       "category": "mindmap"
     },
     {
       "text": "red-black tree  ️",
-      "url": "/id/igsGsunBxQ7opKiZmuU4zDobJZ8tFCn84vTD58Gq",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -799.6791930379746,
       "fy": 165.8639240506326,
       "category": "mindmap"

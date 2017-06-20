@@ -16,14 +16,14 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 185.19402160312336,
       "fy": 21.674209828270136
     },
     {
       "text": "windows  ️",
-      "url": "/id/yxcnFoyVpJecxFRoqfQ8orzsu3zesCAcS9jjMPZM",
+      "url": "/learn-anything/web-development.json",
       "fx": -20.70330255681995,
       "fy": 266.32623048262167,
       "category": "mindmap"
@@ -37,49 +37,49 @@
     },
     {
       "text": "unix  ️",
-      "url": "/id/tnBjfWixxzaxU7G2ncpZUqjDS8qnFFx5ZrqdTRLe",
+      "url": "/learn-anything/web-development.json",
       "fx": -150.64038189900964,
       "fy": 271.0578943365548,
       "category": "mindmap"
     },
     {
       "text": "fuchsia  ️",
-      "url": "/id/DVVBs4v9UTRzs3Mtqxm7XPxrZZsVAHp9dRnTde6s",
+      "url": "/learn-anything/web-development.json",
       "fx": -307.6897878882909,
       "fy": 272.1813589555718,
       "category": "mindmap"
     },
     {
       "text": "kernel  ️",
-      "url": "/id/jpo6SPa6Rr5qkjQC6LSqEbPVYSZ378WKnix2hhY9",
+      "url": "/learn-anything/web-development.json",
       "fx": -446.4587834553449,
       "fy": 273.34798593667426,
       "category": "mindmap"
     },
     {
       "text": "android  ️",
-      "url": "/id/9GNqw9qRvvg1A8Jeo9EW7fm8bcyWWtjKD6i6pa6w",
+      "url": "/learn-anything/web-development.json",
       "fx": 110.2131218202303,
       "fy": 381.32131395841907,
       "category": "mindmap"
     },
     {
       "text": "iOS  ️",
-      "url": "/id/m32Zo1SzPiqfWqJvpUwBMuTMCNVXejfyWfZyeSFz",
+      "url": "/learn-anything/web-development.json",
       "fx": 264.3139455747371,
       "fy": 381.8360558384984,
       "category": "mindmap"
     },
     {
       "text": "watchOS  ️",
-      "url": "/id/JVr5HFsfah63syE1PsYsczMxc1ZhVQVZcQNxonDa",
+      "url": "/learn-anything/web-development.json",
       "fx": 166.9028205871582,
       "fy": 486.6730651855469,
       "category": "mindmap"
     },
     {
       "text": "tvOS  ️",
-      "url": "/id/eqCzKZyfzu1zsoiGnVqehJbXDqRo3HYm6Ww1Ssdq",
+      "url": "/learn-anything/web-development.json",
       "fx": 329.730186502341,
       "fy": 491.46025319343084,
       "category": "mindmap"
@@ -113,8 +113,8 @@
     },
     {
       "text": "barrelfish operating system",
-      "url": "http://www.barrelfish.org/",
       "note": "is a research operating system being built from scratch",
+      "url": "http://www.barrelfish.org/",
       "fx": 563.2742287551856,
       "fy": -256.30940529692236,
       "color": "rgba(34, 205, 224, 1.0)",
@@ -138,8 +138,8 @@
     },
     {
       "text": "1. operating systems: three easy pieces",
-      "url": "http://pages.cs.wisc.edu/~remzi/OSTEP/",
       "note": "is centred around three conceptual pieces that are fundamental to operating systems: virtualisation, concurrency, and persistence",
+      "url": "http://pages.cs.wisc.edu/~remzi/OSTEP/",
       "fx": 367.19402160312336,
       "fy": -106.82579017172986,
       "color": "rgba(175, 54, 242, 1.0)",

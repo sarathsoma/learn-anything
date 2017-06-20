@@ -22,21 +22,21 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -89.39538043478251,
       "fy": 58.58101222826082
     },
     {
       "text": "swift  ️",
-      "url": "/id/vAJcWyzzTubpywgp8o367gPWvRUxi2y5r2sZMryb",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -121.51406989194936,
       "fy": 191.06696637576647,
       "category": "mindmap"
     },
     {
       "text": "Xcode  ️",
-      "url": "/id/Lp7wtsS7quM7Asapu8JGRjZaGpbZ8iFLyKTBpi6s",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -265.25328858654825,
       "fy": 192.4406877639667,
       "category": "mindmap"
@@ -557,8 +557,8 @@
     },
     {
       "text": "JSPatch",
-      "url": "https://github.com/bang590/JSPatch",
       "note": "bridge Objective-C and Javascript using the Objective-C runtime",
+      "url": "https://github.com/bang590/JSPatch",
       "fx": 834.9483290826452,
       "fy": 213.04430192786083,
       "category": "github",

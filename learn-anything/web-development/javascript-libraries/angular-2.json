@@ -16,8 +16,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -154.60228530270876,
       "fy": 8.349354148545103
     }
@@ -79,8 +79,8 @@
     },
     {
       "text": "1. create angular application in typescript",
-      "url": "https://angular.io/docs/ts/latest/tutorial/",
       "note": "typescript",
+      "url": "https://angular.io/docs/ts/latest/tutorial/",
       "fx": 27.397714697291235,
       "fy": 0.8493541485451033,
       "color": "rgba(36, 170, 255, 1.0)",

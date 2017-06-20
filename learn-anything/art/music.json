@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "music",
-      "url": "http://www.wikiwand.com/en/Music",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Music",
       "fx": -93.83140546588515,
       "fy": -295.98767431480405,
       "category": "wiki"
@@ -17,14 +17,14 @@
     },
     {
       "text": "music theory  ️",
-      "url": "/id/9M9ppukSxsxszGRXCj57E2BccmpfnMNmzgyf8fDZ",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -113.74770021645008,
       "fy": -57.73538961038969,
       "category": "mindmap"
     },
     {
       "text": "music genres  ️",
-      "url": "/id/VCg9zzcqg4xxrkqLBPXUjL383uvpZv2KQPHzsAkf",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -561.267697596498,
       "fy": 28.145370509033683,
       "category": "mindmap"
@@ -38,63 +38,63 @@
     },
     {
       "text": "live coding music",
-      "url": "http://www.wikiwand.com/en/Live_coding",
       "note": "write code and generate music",
+      "url": "http://www.wikiwand.com/en/Live_coding",
       "fx": -76.16385459899902,
       "fy": 102.01253509521484
     },
     {
       "text": "new music  ️",
-      "url": "/id/xqzDSkip6XTazQpYRsgassvJFDuu5oPzqNWicUhy",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 386.2301022597253,
       "fy": 102.1124365346111,
       "category": "mindmap"
     },
     {
       "text": "music production  ️",
-      "url": "/id/ANRJHMcssy9Xq6HAHqbBysQm9nZg8urAYb7LVZSD",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 151.95805027173878,
       "fy": 102.61257359601439,
       "category": "mindmap"
     },
     {
       "text": "song writing  ️",
-      "url": "/id/psjMMtfnQL3jnc17SBbrwUKH4tNUgEzJpRrCZ7WS",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 558.5060950312427,
       "fy": 104.2408388107956,
       "category": "mindmap"
     },
     {
       "text": "drums  ️",
-      "url": "/id/Xhz5zaPjzqdnqK4gZiQyxoFMaDrdR6DGsj9tTMqk",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -543.806872351695,
       "fy": 151.63665254237287,
       "category": "mindmap"
     },
     {
       "text": "sonic PI  ️",
-      "url": "/id/fah1U7bBiNFbxtVCwPT9MpCT4mbovqxvqTkUqpn5",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -36.268930186665216,
       "fy": 200.60323576966823,
       "category": "mindmap"
     },
     {
       "text": "guitar  ️",
-      "url": "/id/xPUGxGodprtehL3P5zd7dyzmTeaDYiCQxkVp8nrF",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -192.54793648485963,
       "fy": 224.2556920244681,
       "category": "mindmap"
     },
     {
       "text": "ukulele  ️",
-      "url": "/id/FAcVAKt6QvNKLyDqwWZfyJozp6YF8pJRz9cxXXxH",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -478.3358089999041,
       "fy": 243.26227683810748,
       "category": "mindmap"
     },
     {
       "text": "piano  ️",
-      "url": "/id/pvMP2qSLMX41bu73x5sazays2sYQXnMqkWz3wSEc",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -326.3782014101131,
       "fy": 252.40576846903753,
       "category": "mindmap"

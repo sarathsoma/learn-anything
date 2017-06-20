@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "card games",
-      "url": "http://www.wikiwand.com/en/Card_game",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Card_game",
       "fx": -177.77429736635224,
       "fy": -298.80998285595217,
       "category": "wiki"
@@ -13,7 +13,7 @@
   "subnodes": [
     {
       "text": "1337: poker  ️",
-      "url": "/id/k9Z83iDQqGBiGxckxXqEnf7Es89U7ymcJNGjzits",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 82.22570263364776,
       "fy": -324.80998285595217,
       "category": "mindmap",

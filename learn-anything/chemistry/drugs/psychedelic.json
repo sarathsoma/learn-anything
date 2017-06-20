@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "psychedelic drugs",
-      "url": "https://psychonautwiki.org/w/index.php/Psychedelic",
       "note": "",
+      "url": "https://psychonautwiki.org/w/index.php/Psychedelic",
       "fx": 100.48125000000027,
       "fy": -296.21328124999997,
       "category": "wiki"
@@ -23,8 +23,8 @@
     },
     {
       "text": "entactogen",
-      "url": "https://psychonautwiki.org/wiki/Entactogen",
       "note": "is used to describe a class of psychoactive drugs that produce distinctive emotional and social effects similar to those of MDMA",
+      "url": "https://psychonautwiki.org/wiki/Entactogen",
       "fx": -739.6439021462375,
       "fy": 108.50043428270499,
       "category": "wiki"
@@ -38,16 +38,16 @@
     },
     {
       "text": "lysergamide",
-      "url": "https://psychonautwiki.org/w/index.php/Lysergamide",
       "note": "refers to a class of compounds derived from alkaloids of a group of fungi known as ergot in the claviceps genus",
+      "url": "https://psychonautwiki.org/w/index.php/Lysergamide",
       "fx": -365.2358151291039,
       "fy": 112.16969209558806,
       "category": "wiki"
     },
     {
       "text": "tryptamine",
-      "url": "https://psychonautwiki.org/w/index.php/Tryptamine",
       "note": "is a monoamine alkaloid found in animals, plants and fungi  substituted tryptamine refers to a class of compounds which are typically capable of producing strong psychedelic and entheogenic effects",
+      "url": "https://psychonautwiki.org/w/index.php/Tryptamine",
       "fx": 11.603355529006194,
       "fy": 121.29171476680165,
       "category": "wiki"
@@ -60,14 +60,14 @@
     },
     {
       "text": "LSD  ️",
-      "url": "/id/HVMzaeGzxCzvxSbSW39nrPaBGpfp8PWpdRHfo9Er",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -330.4929311814914,
       "fy": 237.6608301755366,
       "category": "mindmap"
     },
     {
       "text": "MDMA  ️",
-      "url": "/id/UsqQDs2Q6AQdg8eK9shvC5o7cJzAtCWMmkuTp7iG",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -707.1569283613684,
       "fy": 247.9482720352301,
       "category": "mindmap"
@@ -81,7 +81,7 @@
     },
     {
       "text": "DMT  ️",
-      "url": "/id/vet8fr16jHGfF3f88xHsLQPyTj765GKnnUria2ni",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 127.87342975661761,
       "fy": 256.14065367492685,
       "category": "mindmap"
@@ -95,8 +95,8 @@
     },
     {
       "text": "microdosing",
-      "url": "https://psychonautwiki.org/wiki/Dosage#Microdose",
       "note": "are sub-perceptual doses which are so low that they are unlikely to induce directly noticeable or perceptible effects",
+      "url": "https://psychonautwiki.org/wiki/Dosage#Microdose",
       "fx": -283.87225202984735,
       "fy": 364.2417299691888,
       "category": "wiki"

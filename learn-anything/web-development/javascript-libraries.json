@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "javascript libraries",
-      "url": "http://www.wikiwand.com/en/List_of_JavaScript_libraries",
       "note": "",
+      "url": "http://www.wikiwand.com/en/List_of_JavaScript_libraries",
       "fx": 1012.5023571281024,
       "fy": -420.5820561831139,
       "category": "wiki"
@@ -111,7 +111,7 @@
     },
     {
       "text": "compilers  ️",
-      "url": "/id/8zoz2iumK52ZVSsuEr2bqY2cyzpx7icMS1nMsNH1#207.3,-134.3,3",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 1554.8082516339869,
       "fy": -175.42698120915043,
       "category": "mindmap"
@@ -124,7 +124,7 @@
     },
     {
       "text": "express  ️",
-      "url": "/id/zwXmrqAW4wDks9xzpPzumULC7RGuryQCesparXZU",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 3883.946539256199,
       "fy": -69.07683367768607,
       "category": "mindmap"
@@ -145,98 +145,98 @@
     },
     {
       "text": "grunt  ️",
-      "url": "/id/mh6WYxCoBmcTkZ9wkXpJqSFZDJTUYaUwbKswTuhA",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 3401.6288452148438,
       "fy": -64.69680690765381,
       "category": "mindmap"
     },
     {
       "text": "react  ️",
-      "url": "/id/ifaZsjVmDsFxTdqDDix8s3GyXibGvCArpc86ViZM",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -196.28927395948722,
       "fy": -57.77299476737414,
       "category": "mindmap"
     },
     {
       "text": "vue.js  ️",
-      "url": "/id/nGBJtTf4DYUj4sxXXZRBn7YkRnxb1LtqLmzhonLn",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -342.48361639729285,
       "fy": -56.40737368494365,
       "category": "mindmap"
     },
     {
       "text": "jQuery  ️",
-      "url": "/id/Gr8yvuKJCWgjaeJXoiUudYqoid8oeky6b81Cwunf",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -45.51377277097845,
       "fy": -56.288185119628906,
       "category": "mindmap"
     },
     {
       "text": "ember.js  ️",
-      "url": "/id/5ZiWTQfkYuPuGrMQoHKEypmUzPVzDz1xrNbTo2ah",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -507.2401677117383,
       "fy": -55.60482956439387,
       "category": "mindmap"
     },
     {
       "text": "webpack  ️",
-      "url": "/id/s6pamFzVLsjqEmECkedvcFuH8pdM47NuojDs8epy",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 110.34071240475873,
       "fy": -52.21617360026647,
       "category": "mindmap"
     },
     {
       "text": "electron  ️",
-      "url": "/id/1Gr5QZ6ycqVbhVNahBk6qjdSjsttzxuCz3UVDge1",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 338.68330228252853,
       "fy": -46.584980867346815,
       "category": "mindmap"
     },
     {
       "text": "react native  ️",
-      "url": "/id/MiLsnxiprq4jpBMTBiHT48Kt1sZqfF23hEuyGLKE",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 562.1045914763256,
       "fy": -43.66426495454755,
       "category": "mindmap"
     },
     {
       "text": "meteor  ️",
-      "url": "/id/HbPdBs4yqvN1FdoScE3PVNZwnXcqdddWqXkGqssc",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 793.2709400226477,
       "fy": -43.613456236261754,
       "category": "mindmap"
     },
     {
       "text": "angular 2  ️",
-      "url": "/id/SojxxkLwke3WJJUM5LLsp24e9ZVd3bRsUxMJubDW",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 1359.0381256351625,
       "fy": -43.21007209095535,
       "category": "mindmap"
     },
     {
       "text": "redux  ️",
-      "url": "/id/eD7tx71JUqC6R4iqaPGxzvdR2ocpqGq5TVsxp2yk",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 965.596135173528,
       "fy": -40.33714832763269,
       "category": "mindmap"
     },
     {
       "text": "d3.js  ️",
-      "url": "/id/oABafsSirqHz4o8Nh4pLqwCjbqnkFE4YturNm3CS",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 1163.7368449312694,
       "fy": -40.196091065292194,
       "category": "mindmap"
     },
     {
       "text": "RxJS  ️",
-      "url": "/id/rdUzwvGv7Gpa2z1ZhPrzDsmpR6D1nCL6VN6zFssB",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 2316.7359924316406,
       "fy": -37.040196895599365,
       "category": "mindmap"
     },
     {
       "text": "three.js  ️",
-      "url": "/id/MS4sT8RG8zrzs7k2hTpiTt6SefkoDj8navLesqey",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 1738.616646493363,
       "fy": -36.2358026649747,
       "category": "mindmap"
@@ -250,7 +250,7 @@
     },
     {
       "text": "babel  ️",
-      "url": "/id/8MxSwVTHS8KP3pptyt26TxDj2urxLsTxoaquJGiE",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 1570.5375357070643,
       "fy": -35.037709581500735,
       "category": "mindmap"
@@ -264,21 +264,21 @@
     },
     {
       "text": "cycle.js  ️",
-      "url": "/id/f5P1ih7XHiUGkoLsjtpxpGa3ySq8S9FKjEW4WusC",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 2449.968530158116,
       "fy": -32.98514625465816,
       "category": "mindmap"
     },
     {
       "text": "draft.js  ️",
-      "url": "/id/cy1nmBczHzkNhDxF2PivwgCyHNE6DPVZfizXyXGT",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 2614.218806283532,
       "fy": -27.32232264327422,
       "category": "mindmap"
     },
     {
       "text": "ESLint  ️",
-      "url": "/id/2S9yiRYgt7Jbr9sxYysoeitLMswsr8pacLmQ66Uv",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 2967.712890624999,
       "fy": -26.369406960227252,
       "category": "mindmap"
@@ -292,7 +292,7 @@
     },
     {
       "text": "jest  ️",
-      "url": "/id/vQttqzUvfzbk97qSDhtEZiFFmNpb9fy6XxtKPyz7",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 2814.7613875538345,
       "fy": -25.85170032949361,
       "category": "mindmap"

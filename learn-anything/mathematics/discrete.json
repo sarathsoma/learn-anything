@@ -10,15 +10,15 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 151.5,
       "fy": 10.16796875
     },
     {
       "text": "coding theory",
-      "url": "http://www.wikiwand.com/en/Coding_theory",
       "note": "is the study of the properties of codes and their respective fitness for specific applications   codes are used for data compression, cryptography, error-correction and networking  there are four types of coding  1. data compression (or, source coding)  2. error correction (or channel coding)  3. cryptographic coding  4. line coding",
+      "url": "http://www.wikiwand.com/en/Coding_theory",
       "fx": 30.15960273279336,
       "fy": 181.84912702429153,
       "category": "wiki"

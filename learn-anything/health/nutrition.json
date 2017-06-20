@@ -16,42 +16,42 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 108.44074804132629,
       "fy": 42.17622717277152
     },
     {
       "text": "weight loss  ️",
-      "url": "/id/efwCXEFZDjmZF15HijRqP5zD4yhKYt38i49FBRGY",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -156.8920978761331,
       "fy": 57.665303512003334,
       "category": "mindmap"
     },
     {
       "text": "smoothies  ️",
-      "url": "/id/8saA91hHhZNS7XpeyVQ4PyzGQJKLXcLGfXxpusTD",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 283.32745885912584,
       "fy": 143.8403612987487,
       "category": "mindmap"
     },
     {
       "text": "fasting  ️",
-      "url": "/id/E9893zmQKen9ZuX3vwE8UEJRvjyaXUU8iZx96kpi",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -106.35902412912571,
       "fy": 154.77159639518675,
       "category": "mindmap"
     },
     {
       "text": "food  ️",
-      "url": "/id/pyRuYgY6zy8qcExxiPRZbB3xssLPFirsgVXPemxs",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 60.710490687106926,
       "fy": 176.31701765423986,
       "category": "mindmap"
     },
     {
       "text": "keto  ️",
-      "url": "/id/AoAE4txQminSymyAA5UB4zEPunffJgD5feWVBJeH",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 216.05062823825426,
       "fy": 247.9241040547688,
       "category": "mindmap"
@@ -78,8 +78,8 @@
     },
     {
       "text": "1. how not to die",
-      "url": "https://www.goodreads.com/book/show/25663961-how-not-to-die",
       "note": "covers how and why the diet that you have, has such an effect on you and how you can maximise and improve it towards better and longer living",
+      "url": "https://www.goodreads.com/book/show/25663961-how-not-to-die",
       "fx": 290.4407480413263,
       "fy": 53.67622717277152,
       "category": "non-free book",

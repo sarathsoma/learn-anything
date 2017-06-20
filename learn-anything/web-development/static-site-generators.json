@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "static web pages",
-      "url": "http://www.wikiwand.com/en/Static_web_page",
       "note": "if you think this can be improved in any way ",
+      "url": "http://www.wikiwand.com/en/Static_web_page",
       "fx": -65.86578773443739,
       "fy": -419.68185417498,
       "category": "wiki"
@@ -23,7 +23,7 @@
     },
     {
       "text": "hugo  ️",
-      "url": "/id/3YcyuNsJfaGUijeszKyhi4e96xTTHQW3CpPTLwBm",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -324.7534361489285,
       "fy": -75.11292244060382,
       "category": "mindmap"
@@ -37,15 +37,15 @@
     },
     {
       "text": "jekyll  ️",
-      "url": "/id/SJx6hSy2CxyynmUcikvsnHo5vHiicosaswyLoJTb",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -173.88148206602602,
       "fy": -74.32266507998429,
       "category": "mindmap"
     },
     {
       "text": "phenomic",
-      "url": "https://github.com/MoOx/phenomic",
       "note": "based on the React and Webpack ecosystem",
+      "url": "https://github.com/MoOx/phenomic",
       "fx": 93.2132316468244,
       "fy": -72.91331845238119,
       "category": "github"

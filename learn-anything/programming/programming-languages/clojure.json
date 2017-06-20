@@ -28,14 +28,14 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -120.27582032499265,
       "fy": 214.8149344070613
     },
     {
       "text": "clojurescript  ️",
-      "url": "/id/gDrV35KLRsdT9Ajxvr7EnN9yanPrgTx7LRzmfBUK",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -198.30012068186295,
       "fy": 358.5469468915793,
       "category": "mindmap"
@@ -79,8 +79,8 @@
     },
     {
       "text": "cursive",
-      "url": "https://cursive-ide.com/",
       "note": "IDE for clojure and clojurescript",
+      "url": "https://cursive-ide.com/",
       "fx": 348.6640625,
       "fy": 119.1015625,
       "color": "rgba(175, 54, 242, 1.0)",

@@ -22,35 +22,35 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -73.04084869633346,
       "fy": 37.57282051037521
     },
     {
       "text": "OpenCV  ️",
-      "url": "/id/z5Q6ZVzx8QBAJyocALLH2xY9LyhWtapAqRXzVzNC",
+      "url": "/learn-anything/web-development.json",
       "fx": -86.77255020361724,
       "fy": 196.3644583100628,
       "category": "mindmap"
     },
     {
       "text": "augmented reality  ️",
-      "url": "/id/yeuzVXx6fhwm1eYY2qq4xCwzM4mDq9PQTsdC9AP6",
+      "url": "/learn-anything/web-development.json",
       "fx": -342.85706313775484,
       "fy": 196.59220875850383,
       "category": "mindmap"
     },
     {
       "text": "facial recognition  ️",
-      "url": "/id/niJKPUBTXEr67jrMUCGAyhmsWqmhygA2uR1LN3i4",
+      "url": "/learn-anything/web-development.json",
       "fx": 82.74309876042173,
       "fy": 197.25914956644408,
       "category": "mindmap"
     },
     {
       "text": "optical character recognition  ️",
-      "url": "/id/yWskyhtxnb7SiCvPsGxhWXhqMjwz8yGK7aE3TyMx",
+      "url": "/learn-anything/web-development.json",
       "fx": -687.1627983229696,
       "fy": 197.72616508695717,
       "category": "mindmap"
@@ -95,8 +95,8 @@
     },
     {
       "text": "tracking js",
-      "url": "https://github.com/eduardolundgren/tracking.js",
       "note": "- modern approach for Computer Vision on the web",
+      "url": "https://github.com/eduardolundgren/tracking.js",
       "fx": 217.78064903846155,
       "fy": -222.4603365384615,
       "category": "github",

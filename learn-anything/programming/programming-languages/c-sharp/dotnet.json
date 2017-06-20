@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": ".NET framework",
-      "url": "http://www.wikiwand.com/en/.NET_Framework",
       "note": "",
+      "url": "http://www.wikiwand.com/en/.NET_Framework",
       "fx": -3.787865787572173,
       "fy": -100.31794165462429,
       "category": "wiki"
@@ -17,7 +17,7 @@
     },
     {
       "text": "powershell  ️",
-      "url": "/id/5JeHP3cTTTX3eiLnPXNMuT5DWxArTHLBoqqu5Rnz",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -185.91395350030098,
       "fy": 57.844374931607774,
       "category": "mindmap"
@@ -30,7 +30,7 @@
     },
     {
       "text": "ASP.NET  ️",
-      "url": "/id/zkKCp577LkmWFgGiNXbBWMspnxyeFjPBfFhmLsBz",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -25.486306017557695,
       "fy": 178.02398251616967,
       "category": "mindmap"

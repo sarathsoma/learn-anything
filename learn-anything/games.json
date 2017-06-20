@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "games",
-      "url": "http://www.wikiwand.com/en/Game",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Game",
       "fx": -260.9535063101911,
       "fy": -385.8317791910766,
       "category": "wiki"
@@ -23,28 +23,28 @@
     },
     {
       "text": "videos games  ️",
-      "url": "/id/1PVZb9ukoea64ryXDGvLu2FyxFBdzr8TS518TTs8",
+      "url": "/learn-anything/web-development.json",
       "fx": -301.1653981208801,
       "fy": -9.480899214744568,
       "category": "mindmap"
     },
     {
       "text": "board games  ️",
-      "url": "/id/pQ8AWbKujG7gELUUC2bU4Kr5taBEvap7op8HNrsk",
+      "url": "/learn-anything/web-development.json",
       "fx": -512.7891235351562,
       "fy": -9.148769617080688,
       "category": "mindmap"
     },
     {
       "text": "card games  ️",
-      "url": "/id/JZzDhgP2sktZ3pD2NgouS6ppfRsPKKm15Un1ZtMV",
+      "url": "/learn-anything/web-development.json",
       "fx": -88.57138061523438,
       "fy": -6.8050315380096436,
       "category": "mindmap"
     },
     {
       "text": "web games  ️",
-      "url": "/id/nPYTxXLdbBu5ZmHJ3hjmycncFPnJqoxZzoqpzxXN",
+      "url": "/learn-anything/web-development.json",
       "fx": 93.43531546208533,
       "fy": -2.7459271327014676,
       "category": "mindmap"

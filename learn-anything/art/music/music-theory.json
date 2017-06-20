@@ -10,14 +10,14 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -79.90029815695857,
       "fy": 99.10934380839637
     },
     {
       "text": "harmony  ️",
-      "url": "/id/pwtQ1RJBzhugqfegm4UDz2vqqLSqpKHvqVCxBxYA",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -296.39271763392867,
       "fy": 231.02650669642844,
       "category": "mindmap"
@@ -86,8 +86,8 @@
     },
     {
       "text": "1. dave conservatoire",
-      "url": "http://www.daveconservatoire.org/",
       "note": "free online music school",
+      "url": "http://www.daveconservatoire.org/",
       "fx": 102.09970184304143,
       "fy": 184.60934380839637,
       "color": "rgba(209, 21, 88, 1.0)",

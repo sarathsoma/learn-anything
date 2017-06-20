@@ -28,8 +28,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -42.14257742942357,
       "fy": 344.8447676637127
     },
@@ -52,8 +52,8 @@
     },
     {
       "text": "GoGameGuru  ️",
-      "url": "https://gogameguru.com/",
       "note": "great commentary on the most important matches between the world's top players",
+      "url": "https://gogameguru.com/",
       "fx": 194.09553146362305,
       "fy": -40.69813919067383,
       "category": "blog",
@@ -87,8 +87,8 @@
     },
     {
       "text": "waltheri",
-      "url": "http://ps.waltheri.net/",
       "note": "sophisticated pattern searching",
+      "url": "http://ps.waltheri.net/",
       "fx": 246.04985809326172,
       "fy": 108.85047149658203,
       "color": "rgba(175, 54, 242, 1.0)",
@@ -96,8 +96,8 @@
     },
     {
       "text": "GoKibitz",
-      "url": "https://gokibitz.com/",
       "note": "free online commentary on games you played",
+      "url": "https://gokibitz.com/",
       "fx": 246.04985809326172,
       "fy": 142.85047149658203,
       "color": "rgba(36, 170, 255, 1.0)",

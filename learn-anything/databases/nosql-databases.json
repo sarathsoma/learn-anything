@@ -3,36 +3,36 @@
   "nodes": [
     {
       "text": "noSQL databases",
-      "url": "http://www.wikiwand.com/en/NoSQL",
       "note": "",
+      "url": "http://www.wikiwand.com/en/NoSQL",
       "fx": 0.1073165546704331,
       "fy": -200.7493816886511,
       "category": "wiki"
     },
     {
       "text": "mongoDB  ️",
-      "url": "/id/q2xktwYoqXPzUGxvqg6QQqk5MyATv8oy8nkCEsrh",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -162.7247570782173,
       "fy": -49.275160549132806,
       "category": "mindmap"
     },
     {
       "text": "cassandra  ️",
-      "url": "/id/Yg6yJKxfEVLwDVpBDXzj6KioR4LPpsjJrLJiHUjJ",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 19.742781521847974,
       "fy": -47.83928339141545,
       "category": "mindmap"
     },
     {
       "text": "redis  ️",
-      "url": "/id/Fb7dmtCvahWRF1LWybq5JqtPjHwBeF4mxoV7zLB5",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -281.83635032467726,
       "fy": -47.780194995849115,
       "category": "mindmap"
     },
     {
       "text": "NewSQL  ️",
-      "url": "/id/rQQDNz1gFCUB16EUvh8oHLLHzLL9hTmyLFqKHk1d",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 255.41590447154454,
       "fy": -25.157139227642347,
       "category": "mindmap"

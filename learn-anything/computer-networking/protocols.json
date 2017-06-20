@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "protocols",
-      "url": "http://www.wikiwand.com/en/Communications_protocol",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Communications_protocol",
       "fx": -42.0806726365397,
       "fy": -425.87931916524707,
       "category": "wiki"
     },
     {
       "text": "tcp/ip  ️",
-      "url": "/id/zZbLxuhSrDnUaU3aP21wpUwt62zmVpkct13QhJjU",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -275.75141358196515,
       "fy": -251.1240740395537,
       "category": "mindmap"
@@ -25,42 +25,42 @@
     },
     {
       "text": "http  ️",
-      "url": "/id/t1dtQBegP9uwBMKgxszHeHhYRT8EzDvbxy9Zbstw",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -143.80126236431056,
       "fy": -246.05196556188173,
       "category": "mindmap"
     },
     {
       "text": "ssh  ️",
-      "url": "/id/4TdQ9XwhpRja4c9Nz7XvCSL1k3UsHFs8U2fxjfwd",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 73.49513966584004,
       "fy": -244.93049422965555,
       "category": "mindmap"
     },
     {
       "text": "WebSocket  ️",
-      "url": "/id/MCHX7afgsj6V5qXGDEpoqs4uJhG9yDPsTaz4WyP4",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 187.46099853515625,
       "fy": -241.7728287562851,
       "category": "mindmap"
     },
     {
       "text": "WebRTC  ️",
-      "url": "/id/Z23exvKV95hC8L5i5kcyenuTr1XykRqXWweZAqfi",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 481.04422030734577,
       "fy": -236.1245527480229,
       "category": "mindmap"
     },
     {
       "text": "ipfs  ️",
-      "url": "/id/Hsex87wcsZbzbwMNzbaJFsBPFJycLymJqA7sotvg",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 368.3736798625348,
       "fy": -234.94944515701172,
       "category": "mindmap"
     },
     {
       "text": "TLS  ️",
-      "url": "/id/p9uXx8nMg2eXj8ehzPbi3ypKZenpxW5b42rXfdz6",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 642.2351627291534,
       "fy": -232.39274720827893,
       "category": "mindmap"

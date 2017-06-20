@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "earth science",
-      "url": "http://www.wikiwand.com/en/Earth_science",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Earth_science",
       "fx": -281.4799268424856,
       "fy": -177.81554822976898,
       "category": "wiki"
     },
     {
       "text": "geology  ️",
-      "url": "/id/43YS6dpa4VgsF9KSdvwSsQPWw2SFqWUDidZ9Xnmi",
+      "url": "/learn-anything/web-development.json",
       "fx": -273.28427565028903,
       "fy": -66.87030346820825,
       "category": "mindmap"

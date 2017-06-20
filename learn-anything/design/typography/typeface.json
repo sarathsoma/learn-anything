@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "typeface",
-      "url": "http://www.wikiwand.com/en/Font",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Font",
       "fx": -20.85083029157181,
       "fy": -225.48632300227305,
       "category": "wiki"
@@ -35,8 +35,8 @@
     },
     {
       "text": "codeface",
-      "url": "https://github.com/chrissimpkins/codeface",
       "note": "typefaces for source code beautification",
+      "url": "https://github.com/chrissimpkins/codeface",
       "fx": 181.26285428779067,
       "fy": 19.633743640988428,
       "category": "github",

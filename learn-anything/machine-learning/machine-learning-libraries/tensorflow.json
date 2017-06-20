@@ -28,8 +28,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -93.00265921659252,
       "fy": 453.19335258677484
     },
@@ -79,8 +79,8 @@
     },
     {
       "text": "NakedTensor",
-      "url": "https://github.com/jostmey/NakedTensor",
       "note": "bare bottom simplest example of machine learning in tensorflow",
+      "url": "https://github.com/jostmey/NakedTensor",
       "fx": 204.13113291013087,
       "fy": 154.23038127547056,
       "category": "github",

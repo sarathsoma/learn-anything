@@ -16,14 +16,14 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -94.16280903456345,
       "fy": 74.8857322548921
     },
     {
       "text": "java libraries  ️",
-      "url": "/id/bqqerP7QMhU9pDir4XaksndsmbTraUBQ4otAGtez",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -173.3243910845581,
       "fy": 266.52906709558806,
       "category": "mindmap"
@@ -118,8 +118,8 @@
     },
     {
       "text": "1. object-oriented programming with java",
-      "url": "http://mooc.fi/courses/2013/programming-part-1/",
       "note": "is really good intro to OOP and Java",
+      "url": "http://mooc.fi/courses/2013/programming-part-1/",
       "fx": 87.83719096543655,
       "fy": -4.614267745107895,
       "category": "",

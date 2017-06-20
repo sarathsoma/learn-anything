@@ -10,15 +10,15 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -41.56617549326256,
       "fy": -105.50238673896473
     },
     {
       "text": "society",
-      "url": "http://www.wikiwand.com/en/Society",
       "note": "is a group of people involved in persistent social interaction, or a large social grouping sharing the same geographical or social territory, typically subject to the same political authority and dominant cultural expectations  they are characterised by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions",
+      "url": "http://www.wikiwand.com/en/Society",
       "fx": -76.19178457383975,
       "fy": 20.67861540905858,
       "category": "wiki"
@@ -32,8 +32,8 @@
     },
     {
       "text": "activism",
-      "url": "http://www.wikiwand.com/en/Activism",
       "note": "consists of efforts to promote, impede, or direct social, political, economic, and/or environmental reform or stasis with the desire to make improvements in society  forms of activism range from writing letters to newspapers or to politicians, political campaigning, economic activism such as boycotts or preferentially patronising businesses, rallies, street marches, strikes, sit-ins, and hunger strikes",
+      "url": "http://www.wikiwand.com/en/Activism",
       "fx": -98.28535917207671,
       "fy": 276.5494622564968,
       "category": "wiki"

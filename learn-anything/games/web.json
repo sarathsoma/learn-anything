@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "web games",
-      "url": "http://www.wikiwand.com/en/Online_game",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Online_game",
       "fx": -306.2734375,
       "fy": -273.44140625,
       "category": "wiki"
@@ -21,8 +21,8 @@
     },
     {
       "text": "particle clicker",
-      "url": "http://particle-clicker.web.cern.ch/particle-clicker/",
       "note": "incremental game that teaches players the history of high energy particle physics",
+      "url": "http://particle-clicker.web.cern.ch/particle-clicker/",
       "fx": -47.2734375,
       "fy": -273.44140625,
       "color": "rgba(36, 170, 255, 1.0)",

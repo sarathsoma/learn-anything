@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "DevOps",
-      "url": "http://www.wikiwand.com/en/DevOps",
       "note": "",
+      "url": "http://www.wikiwand.com/en/DevOps",
       "fx": 93.11200245543978,
       "fy": -527.9056886602629,
       "category": "wiki"
@@ -37,7 +37,7 @@
     },
     {
       "text": "chef  ️",
-      "url": "/id/AoWytgNd5KGWqk5w1C1h7yfUBRyXZeAkdqTwidRg",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -838.672754048081,
       "fy": -246.4827607421313,
       "category": "mindmap"
@@ -56,21 +56,21 @@
     },
     {
       "text": "terraform  ️",
-      "url": "/id/wKsz4Z2JxPeriLwQ2LRqHpGUzzP32vphfrsT92SH",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -323.1434307477962,
       "fy": -244.35545057510478,
       "category": "mindmap"
     },
     {
       "text": "ansible  ️",
-      "url": "/id/qxB5SQXpxFML8WSYfgpgs9c1zvyyu1JXGbGzSZGf",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -604.1152528661148,
       "fy": -242.19105462852121,
       "category": "mindmap"
     },
     {
       "text": "google cloud  ️",
-      "url": "/id/8zzuxmxqNy2FKquKzXi6mP5itqQXBq137BBsNA3P",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 362.2562713623047,
       "fy": -229.97734451293945,
       "category": "mindmap"
@@ -84,14 +84,14 @@
     },
     {
       "text": "aws  ️",
-      "url": "/id/TCxkEPQuB1ApGPDJT4RcsusD7JFkgNq4HjwAqbLj",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 844.2620544433594,
       "fy": -227.86999130249023,
       "category": "mindmap"
     },
     {
       "text": "azure  ️",
-      "url": "/id/bskpRmBhBQvN6KDV83xxMPyZspkMpwtpvUykMxpZ",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 713.646603915251,
       "fy": -227.74453551928536,
       "category": "mindmap"
@@ -104,7 +104,7 @@
     },
     {
       "text": "firebase  ️",
-      "url": "/id/sFtGYoLUFVQseF4XtsgJJFfvCPLqYiyDuYcW2Zi9",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 962.4487892670159,
       "fy": -222.45836060209422,
       "category": "mindmap"
@@ -131,7 +131,7 @@
     },
     {
       "text": "jenkins  ️",
-      "url": "/id/axDQvoUysMdBJypPBNBCnbWLLKbcFockAkEprwzm",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 595.3763737151935,
       "fy": -24.57284106136001,
       "category": "mindmap"
@@ -188,7 +188,7 @@
     },
     {
       "text": "kubernetes  ️",
-      "url": "/id/qD6Dva6VnUKLM1xg3tisnTznnXkBgpYd8nfyjGkn",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -396.9776004500659,
       "fy": 242.03830423878708,
       "category": "mindmap"
@@ -227,7 +227,7 @@
     },
     {
       "text": "docker  ️",
-      "url": "/id/mckfV3fnWaJJirpCTcieUhRdyMT3TuLHq6RY54Gs",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 552.959164156772,
       "fy": 385.8920841028196,
       "category": "mindmap"
@@ -241,7 +241,7 @@
     },
     {
       "text": "docker swarm  ️",
-      "url": "/id/XwWBqZU1TBDj3dG88xaBbzwY1TU99cKxsmBVskuY",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -240.1556029215044,
       "fy": 457.5330506034661,
       "category": "mindmap"
@@ -262,7 +262,7 @@
     },
     {
       "text": "bash  ️",
-      "url": "/id/gvKrazbC3joUVUJ6oTpyxHrKtZDsifk28UYyJdq8",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -178.05763097731028,
       "fy": 597.9215131954311,
       "category": "mindmap"
@@ -275,7 +275,7 @@
     },
     {
       "text": "nginx  ️",
-      "url": "/id/vgUdobqCgPAzpNFwxi779aqRiqcHTXcgmrskyQqd",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 590.2988845250136,
       "fy": 642.1998919809109,
       "category": "mindmap"
@@ -289,7 +289,7 @@
     },
     {
       "text": "vim  ️",
-      "url": "/id/onsumXxs7xywXeQxDHEJxfM8pQ5YNxmfzfxQc74T",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -154.80623745430148,
       "fy": 695.5969572835131,
       "category": "mindmap"
@@ -303,7 +303,7 @@
     },
     {
       "text": "cli  ️",
-      "url": "/id/XcsEDRdzwdo86zsfaQVmFR2pmXCXhkSvyqpynY97",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -10.649147987365723,
       "fy": 730.9196624755859,
       "category": "mindmap"

@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -153.50873248334722,
       "fy": 322.70843535444897
     },
@@ -35,35 +35,35 @@
     },
     {
       "text": "Wayland  ️",
-      "url": "/id/qcqxFFzm2D3ZmNTh4QPnSdRBhAxWsuMTxj7cVmTG",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -337.15384203767167,
       "fy": 491.9273865582189,
       "category": "mindmap"
     },
     {
       "text": "containers  ️",
-      "url": "/id/X2kj5Djhxkmr323zDauwMThaVUQHCKMtVtaauKu1",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 38.37563014792215,
       "fy": 494.0317203177258,
       "category": "mindmap"
     },
     {
       "text": "distributions  ️",
-      "url": "/id/uZFAizZuJGxuAr4s2XYQ3vCLsUELCqLzL8XpzmxY",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -164.8369314721291,
       "fy": 494.23352813720703,
       "category": "mindmap"
     },
     {
       "text": "iptables  ️",
-      "url": "/id/6L8dLMzojMqopG3AMixsppMqiRpkGosLTpxMLvPv",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -646.7745454645307,
       "fy": 494.38672790294936,
       "category": "mindmap"
     },
     {
       "text": "systemd  ️",
-      "url": "/id/YvVn8JSoQkHSWfvqb7dtCnv8nA8AATpXf1dyQzB2",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -494.1360452586207,
       "fy": 495.5255926724178,
       "category": "mindmap"
@@ -132,8 +132,8 @@
     },
     {
       "text": "linux information project",
-      "url": "http://www.linfo.org/",
       "note": "dedicated to providing high quality, comprehensive and easily accessible information about Linux and other free software",
+      "url": "http://www.linfo.org/",
       "fx": 285.80628967285156,
       "fy": 134.21826553344727,
       "color": "rgba(49, 187, 71, 1.0)",
@@ -183,8 +183,8 @@
     },
     {
       "text": "2. linux insides",
-      "url": "https://0xax.gitbooks.io/linux-insides/content/index.html",
       "note": "goes over the linux kernel and its insides",
+      "url": "https://0xax.gitbooks.io/linux-insides/content/index.html",
       "fx": 28.491267516652783,
       "fy": 334.20843535444897,
       "color": "rgba(175, 54, 242, 1.0)",

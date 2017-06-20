@@ -3,16 +3,16 @@
   "nodes": [
     {
       "text": "sun  ️",
-      "url": "/id/anCAwKw5a1ysk1zGR9dFtyfhGB9xfL8xTGDPZXjg",
       "note": "is the star at the centre of the Solar System  it is nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process  it is by far the most important source of energy for life on Earth",
+      "url": "/learn-anything/space-science/astronomy/universe/galaxies/milky-way/solar-system.json",
       "fx": 145.27948738495172,
       "fy": -307.9339187502493,
       "category": "mindmap"
     },
     {
       "text": "solar system",
-      "url": "http://www.wikiwand.com/en/Solar_System",
       "note": "is the gravitationally bound system comprising the Sun and the objects that orbit it, either directly or indirectly  it formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud",
+      "url": "http://www.wikiwand.com/en/Solar_System",
       "fx": -334.039314516129,
       "fy": -227.62462197580646,
       "category": "wiki"

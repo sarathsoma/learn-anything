@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "spirituality",
-      "url": "http://www.wikiwand.com/en/Spirituality",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Spirituality",
       "fx": -112.54976624015751,
       "fy": -164.83203125,
       "category": "wiki"
@@ -18,7 +18,7 @@
     },
     {
       "text": "buddhism  ️",
-      "url": "/id/d3Fxm8vfSbYWpbZtmwWjxxwPUfxEsPs45iPGydYp",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -137.9545454545456,
       "fy": 79.86363636363893,
       "category": "mindmap"

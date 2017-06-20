@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "world history",
-      "url": "http://www.wikiwand.com/en/World_history",
       "note": "",
+      "url": "http://www.wikiwand.com/en/World_history",
       "fx": -108.88676500320435,
       "fy": -633.2992449221404,
       "category": "wiki"
@@ -23,8 +23,8 @@
     },
     {
       "text": "memorable events",
-      "url": "",
       "note": "the numbers before the names represent the time when the event took place",
+      "url": "",
       "fx": -13.03911448493966,
       "fy": -13.673218742037307
     },
@@ -90,8 +90,8 @@
     },
     {
       "text": "12 byzantine rulers",
-      "url": "https://12byzantinerulers.com/",
       "note": "history lecture podcast covers the little known Byzantine Empire through the study of twelve of its greatest rulers",
+      "url": "https://12byzantinerulers.com/",
       "fx": 601.9608855150603,
       "fy": -255.1732187420373,
       "category": "podcast",
@@ -163,7 +163,7 @@
     },
     {
       "text": "1947-1991: cold war  ️",
-      "url": "/id/Udm6Ch9EyzcmjCxztVGzRshsDbMgHNEhLMKyBGqc",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 277.96088551506034,
       "fy": 108.8267812579627,
       "category": "mindmap",
@@ -253,8 +253,8 @@
     },
     {
       "text": "1939-1945: world war II",
-      "url": "http://www.wikiwand.com/en/World_War_II",
       "note": "1939-1945",
+      "url": "http://www.wikiwand.com/en/World_War_II",
       "fx": 170.24740373546445,
       "fy": 573.6150165529846,
       "category": "wiki",

@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -122.4129427152568,
       "fy": -123.62730003609113
     },
@@ -36,7 +36,7 @@
     },
     {
       "text": "python libraries  ️",
-      "url": "/id/kDFfqVBWhK4htp3sQLpLmxgGLxhTCk8Qx4mqGRaR",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -78.69331502906573,
       "fy": 100.14771605920942,
       "category": "mindmap"
@@ -60,8 +60,8 @@
     },
     {
       "text": "",
-      "url": "https://github.com/python/cpython",
       "note": "original python implementation in c, compiles python code into byte code and interprets the byte code in a evaluation loop",
+      "url": "https://github.com/python/cpython",
       "fx": 176.083777747024,
       "fy": -625.1641376795345,
       "category": "github",

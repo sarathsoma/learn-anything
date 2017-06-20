@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -196.99365128833222,
       "fy": 103.14280737297918
     },
@@ -193,8 +193,8 @@
     },
     {
       "text": "1. haskell programming from first principles",
-      "url": "http://haskellbook.com/",
       "note": "- have to pay for it",
+      "url": "http://haskellbook.com/",
       "fx": -14.993651288332217,
       "fy": 132.64280737297918,
       "category": "non-free book",

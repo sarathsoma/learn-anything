@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "rights",
-      "url": "http://www.wikiwand.com/en/Rights",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Rights",
       "fx": -61.86328125,
       "fy": -230.91481508027522,
       "category": "wiki"
     },
     {
       "text": "human rights  ️",
-      "url": "/id/aU9xyy3HCSQpoDaL8yzyfyb7ep2SiGqcw7RinZWh",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -178.8141843463303,
       "fy": -87.87370986238534,
       "category": "mindmap"

@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -82.51960416118027,
       "fy": 288.8994966455408
     }
@@ -136,8 +136,8 @@
     },
     {
       "text": "1. CS50 from Harvard",
-      "url": "https://cs50.harvard.edu/weeks",
       "note": "first 6 lectures are done in C, the rest are in python",
+      "url": "https://cs50.harvard.edu/weeks",
       "fx": 99.48039583881973,
       "fy": 303.3994966455408,
       "category": "",

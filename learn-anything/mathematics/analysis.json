@@ -10,69 +10,69 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -58.591911764705856,
       "fy": -182.52299883021385
     },
     {
       "text": "real analysis  ️",
-      "url": "/id/AaUBkh3cjJiSaQPiuSpzxrTshkiAZWrhUeyFYy7S",
       "note": "deals with real numbers and real-valued functions of a real variable  in particular, it deals with the analytic properties of real functions and sequences, including convergence and limits of sequences of real numbers, the calculus of the real numbers, and continuity, smoothness and related properties of real-valued functions",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -523.6487067086357,
       "fy": -69.2495438711984,
       "category": "mindmap"
     },
     {
       "text": "fourier analysis",
-      "url": "http://www.wikiwand.com/en/Fourier_analysis",
       "note": "is the study of the way general functions may be represented or approximated by sums of simpler trigonometric functions  it grew from the study of Fourier series which shows that representing a function as a sum of trigonometric functions greatly simplifies the study of heat transfer  the decomposition process is called a Fourier transformation",
+      "url": "http://www.wikiwand.com/en/Fourier_analysis",
       "fx": -531.1339142568977,
       "fy": 11.322760022402463,
       "category": "wiki"
     },
     {
       "text": "space-filling curve  ️",
-      "url": "/id/z85Y5zXmoEqjiEM34hjj5XvkLfvWzqM12iAQWvHy",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 400.50199021635876,
       "fy": 85.59378108609144,
       "category": "mindmap"
     },
     {
       "text": "harmonic analysis",
-      "url": "http://www.wikiwand.com/en/Harmonic_analysis",
       "note": "is concerned with the representation of functions or signals as the superposition of basic waves, and the study of and generalisation of the notions of Fourier series and Fourier transforms (i.e. an extended form of Fourier analysis)  Fourier series can be conveniently studied in the context of Hilbert spaces, which provide a connection between harmonic analysis and functional analysis",
+      "url": "http://www.wikiwand.com/en/Harmonic_analysis",
       "fx": -491.8640670776366,
       "fy": 98.7572135925293,
       "category": "wiki"
     },
     {
       "text": "functional analysis  ️",
-      "url": "/id/ScFgoYotBwT4ucQSRz1Q1daixxu11JDBfzjHGz4r",
       "note": "the core of this study is formed by the study of vector spaces endowed with some kind of limit-related structure (e.g. inner product, norm, topology, etc.) and the linear functions defined on these spaces and respecting these structures in a suitable sense",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -421.0980529785155,
       "fy": 187.38346099853504,
       "category": "mindmap"
     },
     {
       "text": "complex analysis  ️",
-      "url": "/id/YafLyafC3bkpDQHFrktcGFypCGWF2jNxtF7rWqps",
       "note": "investigates functions of complex numbers   as a differentiable function of a complex variable is equal to the sum of its Taylor series (that is, it is analytic), complex analysis is particularly concerned with analytic functions of a complex variable (that is, holomorphic functions)",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 155.11611938476562,
       "fy": 193.90668106079102,
       "category": "mindmap"
     },
     {
       "text": "measure theory  ️",
-      "url": "/id/2qzgDcLAps3tWz2xZDdZ93cDpXzbqGzZ7WyzixTz",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -242.57920360565186,
       "fy": 265.88926696777344,
       "category": "mindmap"
     },
     {
       "text": "numerical analysis",
-      "url": "http://www.wikiwand.com/en/Numerical_analysis",
       "note": "is the study of algorithms that use numerical approximation (as opposed to general symbolic manipulations) for the problems of mathematical analysis ",
+      "url": "http://www.wikiwand.com/en/Numerical_analysis",
       "fx": -22.43908905044873,
       "fy": 270.834491824314,
       "category": "wiki"

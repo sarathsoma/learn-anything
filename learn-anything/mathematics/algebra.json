@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "algebra",
-      "url": "http://www.wikiwand.com/en/Algebra",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Algebra",
       "fx": -102.93547952586209,
       "fy": -520.1115301724138,
       "category": "wiki"
@@ -17,8 +17,8 @@
     },
     {
       "text": "elementary algebra",
-      "url": "http://www.wikiwand.com/en/Elementary_algebra",
       "note": "considered to be essential for any study of mathematics, science, or engineering  differed from arithmetic in the use of abstractions, such as using letters to stand for numbers that are either unknown or allowed to take on many values",
+      "url": "http://www.wikiwand.com/en/Elementary_algebra",
       "fx": -225.10904121398926,
       "fy": -320.83496251599536,
       "category": "wiki"
@@ -37,22 +37,22 @@
     },
     {
       "text": "boolean algebra  ️",
-      "url": "/id/L1aYhuFszbzycchzDHsxAg6sFx2YQnbiriCg3eBA",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -412.8722882748798,
       "fy": -64.43303603948164,
       "category": "mindmap"
     },
     {
       "text": "functions  ️",
-      "url": "/id/hHPo8NuNdG6pTXR4JqGwqDuEJUWGmk8pqNT36gsh",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 8.418459939626928,
       "fy": -58.771485907831334,
       "category": "mindmap"
     },
     {
       "text": "abstract algebra  ️",
-      "url": "/id/35xAsH2ays7oB93yqhTjCDAhK2B9E2yGFX6gZm7i",
       "note": "is the study of algebraic structures  it includes study of groups, rings, fields, modules, vector spaces, lattices and algebras  algebraic structures, with their associated homomorphisms, form mathematical categories",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -223.39127412038476,
       "fy": 24.947111888422114,
       "category": "mindmap"

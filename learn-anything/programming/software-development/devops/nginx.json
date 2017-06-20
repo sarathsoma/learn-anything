@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "nginx",
-      "url": "http://www.wikiwand.com/en/Nginx",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Nginx",
       "fx": -69.55078125,
       "fy": -229.15234375,
       "category": "wiki"
@@ -43,8 +43,8 @@
     },
     {
       "text": "gixy",
-      "url": "https://github.com/yandex/gixy",
       "note": "nginx configuration static analyser",
+      "url": "https://github.com/yandex/gixy",
       "fx": 220.82421875,
       "fy": 20.92578125,
       "category": "github",

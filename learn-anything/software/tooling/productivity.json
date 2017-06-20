@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "productivity",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -12.224785518898898,
       "fy": -328.9179532078912
     },
@@ -23,28 +23,28 @@
     },
     {
       "text": "alfred  ️",
-      "url": "/id/tetuczqhA9mYrxXDx4zVWVmEFBgixkRe6SzjsFcq",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -250.10663767881408,
       "fy": -105.78489774550076,
       "category": "mindmap"
     },
     {
       "text": "karabiner  ️",
-      "url": "/id/hqzoDQSdDSLHK8yssrbbiC6SdhapeRg9SGNeznPk",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -412.3867107548326,
       "fy": -103.90725003103569,
       "category": "mindmap"
     },
     {
       "text": "hammerspoon  ️",
-      "url": "/id/gTuyPVTtpQyUuH7HZhd1jeBpio2q7p2zFxLN2Zzy",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -123.66009039907044,
       "fy": -102.87452071385138,
       "category": "mindmap"
     },
     {
       "text": "tmux  ️",
-      "url": "/id/mk1hLazUx97D8tymkePWZPuwhY2LCFDXTN4vF5RV",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 292.2664385134344,
       "fy": -95.60749063581233,
       "category": "mindmap"

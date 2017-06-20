@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "more",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -206.7266652786401,
       "fy": -44.69983167240696
     }
@@ -12,7 +12,7 @@
   "subnodes": [
     {
       "text": "quora  ️",
-      "url": "/id/Vcohxe1Dy4yTyECNK7Wo8idP56BzonuoeYKghzMN",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": -273.19983167240696,
       "category": "mindmap",
@@ -21,7 +21,7 @@
     },
     {
       "text": "reddit  ️",
-      "url": "/id/yjL64qM4pnvnMkmpANgvX4ym9qQsHtprxydoxaXV",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": -233.19983167240696,
       "category": "mindmap",
@@ -30,7 +30,7 @@
     },
     {
       "text": "blogs  ️",
-      "url": "/id/qy8DtEVpEB3DrEfPxtirt8kPqCXnms8ZgAX5wxMc",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": -193.19983167240696,
       "category": "mindmap",
@@ -39,7 +39,7 @@
     },
     {
       "text": "books  ️",
-      "url": "/id/qhfjsvdEP1y2zLoG7vDEPXkAjxTj4dSxyvG3aRkz",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": -153.19983167240696,
       "category": "mindmap",
@@ -48,7 +48,7 @@
     },
     {
       "text": "images  ️",
-      "url": "/id/csvpLeXgNZCjCsUvQs1rsNz7zUx2xCuLUhqUFzWJ",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": -113.19983167240696,
       "category": "mindmap",
@@ -57,7 +57,7 @@
     },
     {
       "text": "humans  ️",
-      "url": "/id/g5KxrnzbC1qsmYhxXAM3xMzoWtCSx8624REAZbKA",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": -73.19983167240696,
       "category": "mindmap",
@@ -66,7 +66,7 @@
     },
     {
       "text": "courses  ️",
-      "url": "/id/RxT86Azyw654TAsqww7ueqXGioFRDxx63r5ddXAC",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": -33.19983167240696,
       "category": "mindmap",
@@ -75,7 +75,7 @@
     },
     {
       "text": "websites  ️",
-      "url": "/id/BxoJyqgsfvB2J9rrpm1zwzjuKxPGUrYn6YDpSGbH",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": 6.800168327593042,
       "category": "mindmap",
@@ -84,7 +84,7 @@
     },
     {
       "text": "podcasts  ️",
-      "url": "/id/8Nxoh8iZdAVpmQRXmyHKnhuz1PCuZsJujEXGzHSY",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": 46.80016832759304,
       "category": "mindmap",
@@ -93,7 +93,7 @@
     },
     {
       "text": "newsletters  ️",
-      "url": "/id/ien2fBGGEsdqsgcTyxYxwycNthGVEidHwNPSsCMd",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": 86.80016832759304,
       "category": "mindmap",
@@ -102,7 +102,7 @@
     },
     {
       "text": "documentaries  ️",
-      "url": "/id/RQBqyQidissDxPkxp2XFv6De91Dhj1dNpJTNJJDZ",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": 126.80016832759304,
       "category": "mindmap",
@@ -111,7 +111,7 @@
     },
     {
       "text": "research papers  ️",
-      "url": "/id/Cny5WMjy56ay4pDopou6spjQiiAbzusp9XuW5zpT",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": 166.80016832759304,
       "category": "mindmap",
@@ -120,7 +120,7 @@
     },
     {
       "text": "youtube channels  ️",
-      "url": "/id/N3Hx59tpFnfuqP2DhgpF487Be59Mf3gNWejeFXQ1",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.7266652786401,
       "fy": 206.80016832759304,
       "category": "mindmap",

@@ -3,23 +3,23 @@
   "nodes": [
     {
       "text": "genetics",
-      "url": "http://www.wikiwand.com/en/Genetics",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Genetics",
       "fx": -125.86033183643667,
       "fy": -271.4728545874893,
       "category": "wiki"
     },
     {
       "text": "CRISPR  ️",
-      "url": "/id/Hc2RYicxJSQwMmsTS4dfVyDhAbmKbkJYkxcy4Dsk",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 15.010806497790213,
       "fy": -139.20463843680216,
       "category": "mindmap"
     },
     {
       "text": "DNA  ️",
-      "url": "/id/jCBnzdtWzgAzTymbiFrE2kz2dZprYfyqcXVvdRKj",
       "note": "short for deoxyribonucleic acid, is the molecule that contains the genetic code of organisms, includes animals, plants, protists, archaea and bacteria, DNA is in each cell in the organism and tells cells what proteins to make",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -41.17821792660948,
       "fy": -9.73761643134651,
       "category": "mindmap"

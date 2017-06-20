@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "countries",
-      "url": "http://www.wikiwand.com/en/Country",
       "note": "if you think this can be improved in any way ",
+      "url": "http://www.wikiwand.com/en/Country",
       "fx": -73.5,
       "fy": -2,
       "category": "wiki"
@@ -544,8 +544,8 @@
     },
     {
       "text": "1991: russia",
-      "url": "http://www.wikiwand.com/en/Russia",
       "note": "largest country in the world by land area",
+      "url": "http://www.wikiwand.com/en/Russia",
       "fx": 294.5,
       "fy": 332,
       "category": "wiki",
@@ -626,8 +626,8 @@
     },
     {
       "text": "1776: united states",
-      "url": "http://www.wikiwand.com/en/United_States",
       "note": "United States of America is made up of 50 states, a deferral district, and five territories",
+      "url": "http://www.wikiwand.com/en/United_States",
       "fx": 373.5,
       "fy": 492,
       "category": "wiki",

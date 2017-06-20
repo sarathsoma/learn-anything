@@ -28,8 +28,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 95.79573939396778,
       "fy": -18.57283968453885
     },
@@ -41,85 +41,85 @@
     },
     {
       "text": "graphic design  ️",
-      "url": "/id/3LqqYjEYQWQsrSk3Ypvy193fTspqZuiCy4emM7Bz",
+      "url": "/learn-anything/web-development.json",
       "fx": -250.03433713784545,
       "fy": 213.469729015849,
       "category": "mindmap"
     },
     {
       "text": "industrial design  ️",
-      "url": "/id/sG3PrxZ5rtpFSBEWewrbfGkSiaXduHMZxEWRRewi",
+      "url": "/learn-anything/web-development.json",
       "fx": -35.78807067871094,
       "fy": 214.07632446289062,
       "category": "mindmap"
     },
     {
       "text": "typography  ️",
-      "url": "/id/Dpe6usjyhYStxvMwwrGB2oste4DsnbGdQxL8h1eU",
+      "url": "/learn-anything/web-development.json",
       "fx": 185.31173706054688,
       "fy": 215.822359085083,
       "category": "mindmap"
     },
     {
       "text": "typesetting  ️",
-      "url": "/id/LeQxPkzeiLpvf6XWZphKb5yc69qB7papcxy4XN1S",
+      "url": "/learn-anything/web-development.json",
       "fx": 362.43650817871094,
       "fy": 216.51368713378906,
       "category": "mindmap"
     },
     {
       "text": "design languages  ️",
-      "url": "/id/grUmLWNxBRYqRUbRVXqWc8uygE3SLPy7V9tp63nq",
+      "url": "/learn-anything/web-development.json",
       "fx": -492.8705973129991,
       "fy": 216.92391748366038,
       "category": "mindmap"
     },
     {
       "text": "human computer interaction",
-      "url": "http://www.wikiwand.com/en/Human%E2%80%93computer_interaction",
       "note": "researches the design and use of computer technology, focused on the interfaces between people (users) and computers",
+      "url": "http://www.wikiwand.com/en/Human%E2%80%93computer_interaction",
       "fx": 545.7687182741115,
       "fy": 218.83772208125094,
       "category": "wiki"
     },
     {
       "text": "colour theory  ️",
-      "url": "/id/axdxvXcKwqeCRZuza6ydGkEEHX4JL6gqN8epaMky",
+      "url": "/learn-anything/web-development.json",
       "fx": -697.04296875,
       "fy": 221.52734375,
       "category": "mindmap"
     },
     {
       "text": "design thinking  ️",
-      "url": "/id/CXgWGayx57yBV16aaEEJYnN3hqjyw8FJamnznpgv",
+      "url": "/learn-anything/web-development.json",
       "fx": -913.3571220842399,
       "fy": 225.78196383248735,
       "category": "mindmap"
     },
     {
       "text": "computer-aided design  ️",
-      "url": "/id/w2Pp8spx2GHSqMq6TNQzCYVaYPZRLJk4ppaYSrqn",
+      "url": "/learn-anything/web-development.json",
       "fx": -1203.479251672107,
       "fy": 229.64137904825918,
       "category": "mindmap"
     },
     {
       "text": "interior design  ️",
-      "url": "/id/LkySryeJNzstsCpvezSGwjXNyzmHCSzUxfu9eoEd",
+      "url": "/learn-anything/web-development.json",
       "fx": -1425.1676717836258,
       "fy": 231.11851242690057,
       "category": "mindmap"
     },
     {
       "text": "user experience  ️",
-      "url": "/id/HxHcbJzNjqT4s8esfDyUQYEACFDysxTx43FUGdYx",
+      "url": "/learn-anything/web-development.json",
       "fx": 463.20236280487825,
       "fy": 330.9731961382114,
       "category": "mindmap"
     },
     {
       "text": "user interfaces  ️",
-      "url": "/id/gksENZqVVprcsfAyqAKkw7v4V9NfKDPRSspWpvu9",
+      "url": "/learn-anything/web-development.json",
       "fx": 699.4433434959349,
       "fy": 334.1590447154472,
       "category": "mindmap"
@@ -146,8 +146,8 @@
     },
     {
       "text": "maker book",
-      "url": "http://makerbook.net/",
       "note": "hand-picked directory of the best free resources for creatives",
+      "url": "http://makerbook.net/",
       "fx": 425.47629556133825,
       "fy": -323.4859587071255,
       "color": "rgba(255, 189, 10, 1.0)",
@@ -198,8 +198,8 @@
     },
     {
       "text": "logo book",
-      "url": "http://www.logobook.com/",
       "note": "really beautiful logo collection",
+      "url": "http://www.logobook.com/",
       "fx": 744.8081359863281,
       "fy": -35.25928497314453,
       "color": "rgba(36, 170, 255, 1.0)",
@@ -225,8 +225,8 @@
     },
     {
       "text": "nova pattern",
-      "url": "https://www.novapattern.com/",
       "note": "well designed patterns",
+      "url": "https://www.novapattern.com/",
       "fx": 918.4398065476189,
       "fy": 49.33779761904782,
       "color": "rgba(175, 54, 242, 1.0)",

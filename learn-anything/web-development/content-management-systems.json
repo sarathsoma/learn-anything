@@ -3,22 +3,22 @@
   "nodes": [
     {
       "text": "content management system",
-      "url": "http://www.wikiwand.com/en/Content_management_system",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Content_management_system",
       "fx": -178.62539720535267,
       "fy": -68.07176971435541,
       "category": "wiki"
     },
     {
       "text": "wordpress  ️",
-      "url": "/id/YYMyLmdVxxsEypzp34opWF46i79Hf5kpgAcYgZPs",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -235.40882189520198,
       "fy": 67.32406651287641,
       "category": "mindmap"
     },
     {
       "text": "Drupal  ️",
-      "url": "/id/gFyVszwghv451HKTtVxfrHVXMpZX5ppyJ8aCxBbz",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -46.083896061788096,
       "fy": 67.65042213450192,
       "category": "mindmap"

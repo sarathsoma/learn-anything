@@ -28,7 +28,7 @@
     },
     {
       "text": "reason  ️",
-      "url": "/id/6ptBAZDfr2nkjfSKFDrzhXA4sSaFE45dsFogq4ug",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -92.3017578125,
       "fy": 427.533203125,
       "category": "mindmap"
@@ -46,8 +46,8 @@
     },
     {
       "text": "type systems",
-      "url": "https://github.com/tomprimozic/type-systems",
       "note": "",
+      "url": "https://github.com/tomprimozic/type-systems",
       "fx": 274.325626373291,
       "fy": 171.1791592552549,
       "category": "github",

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "ethereum",
-      "url": "http://www.wikiwand.com/en/Ethereum",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Ethereum",
       "fx": -221.2683104858371,
       "fy": -776.771966916577,
       "category": "wiki"
@@ -29,7 +29,7 @@
     },
     {
       "text": "solidity  ️",
-      "url": "/id/8EaMoYcRYzyLAkJ1EUSWQFxfpdQm4hqmcyjhH7es",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -456.355846485058,
       "fy": -244.09937419757978,
       "category": "mindmap"

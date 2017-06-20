@@ -3,15 +3,15 @@
   "nodes": [
     {
       "text": "computing",
-      "url": "http://www.wikiwand.com/en/Computing",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Computing",
       "fx": -42.64111275438108,
       "fy": -575.0138947828299,
       "category": "wiki"
     },
     {
       "text": "finite-state machine  ️",
-      "url": "/id/GFgiX7X54VPAzucD9zNWt63houxvAxahuEgLxqPE",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -573.0399199695152,
       "fy": -515.7953506097576,
       "category": "mindmap"
@@ -31,14 +31,14 @@
     },
     {
       "text": "character encoding  ️",
-      "url": "/id/P1er9W1opUoRpZx5dhz9XtSr9Ff8Cx6ksgZLs6h8",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -457.9257472234316,
       "fy": -337.1666417138502,
       "category": "mindmap"
     },
     {
       "text": "theory of computation  ️",
-      "url": "/id/nv2bgFsqXvmrTByTt5W1Q7GtXqu8skYRTyac1pDU",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 314.3988155241916,
       "fy": -327.22492439516134,
       "category": "mindmap"
@@ -58,8 +58,8 @@
     },
     {
       "text": "dna computing",
-      "url": "http://www.wikiwand.com/en/DNA_computing",
       "note": "DNA computing is the performing of computations using biological molecules rather than traditional silicon chips. In DNA computing, information is represented using the four-character genetic alphabet - A [adenine], G [guanine], C [cytosine], and T [thymine] - rather than the binary alphabet, which is a series of 1s and 0s used by traditional computers.",
+      "url": "http://www.wikiwand.com/en/DNA_computing",
       "fx": 81.86752055547447,
       "fy": -176.54146758280302,
       "category": "wiki"
@@ -73,15 +73,15 @@
     },
     {
       "text": "bandwidth",
-      "url": "http://www.wikiwand.com/en/Bandwidth_(computing)",
       "note": "is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second  the actual bit rate that can be achieved depends not only on the signal bandwidth, but also on the noise on the channel",
+      "url": "http://www.wikiwand.com/en/Bandwidth_(computing)",
       "fx": -184.54161791504202,
       "fy": -23.33242339235005,
       "category": "wiki"
     },
     {
       "text": "computer simulations  ️",
-      "url": "/id/pT8z9q2fZTeAggCuB9SneTtj6ioVRt4xsY1eqpH4",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 28.740400476539662,
       "fy": -19.034556757087216,
       "category": "mindmap"

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "application programming interface",
-      "url": "http://www.wikiwand.com/en/Application_programming_interface",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Application_programming_interface",
       "fx": -70.6640625,
       "fy": -240.9296875,
       "category": "wiki"
@@ -17,7 +17,7 @@
     },
     {
       "text": "REST  ️",
-      "url": "/id/CxhN1EgADw4skCLWkwWefCXRosAhhJAnuwjBwyno",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -204.5934115303071,
       "fy": -35.51726737445841,
       "category": "mindmap"

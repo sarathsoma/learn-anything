@@ -16,15 +16,15 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -53.93256759643555,
       "fy": -10.04311466217041
     },
     {
       "text": "datasets  ️",
-      "url": "/id/Nkaj4VVVVEUHzDqzpYgQonxqe6gNxzqqqSAxpfAn",
       "note": "are collections of data  most common a data set corresponds to the contents of a single database table, or a single statical data matrix, where every column of the table represents a particular variable, and each row corresponds to a given member of the data set in question",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 25.124780395426114,
       "fy": 109.59096048202082,
       "category": "mindmap"

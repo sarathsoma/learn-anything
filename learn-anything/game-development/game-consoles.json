@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "video game console",
-      "url": "http://www.wikiwand.com/en/Video_game_console",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Video_game_console",
       "fx": -132.4473157051283,
       "fy": -253.06009615384613,
       "category": "wiki"
@@ -18,8 +18,8 @@
     },
     {
       "text": "Pico-8",
-      "url": "https://www.lexaloffle.com/pico-8.php",
       "note": "is a virtual machine designed to mimic a ‘fantasy video game console’",
+      "url": "https://www.lexaloffle.com/pico-8.php",
       "fx": -87.0938738227116,
       "fy": -34.51764246748593
     }

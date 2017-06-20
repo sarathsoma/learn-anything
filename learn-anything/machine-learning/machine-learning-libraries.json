@@ -3,59 +3,59 @@
   "nodes": [
     {
       "text": "machine learning libraries",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -336.79796448948116,
       "fy": -445.4390968869979
     },
     {
       "text": "pytorch  ️",
-      "url": "/id/9ABQqxkZGqGtY2QKRkwyt7q3pfzMkoSQTgJ5anZn",
       "note": "tensors and dynamic neural networks in python with strong GPU acceleration",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -44.51439666748047,
       "fy": -243.2207908630371,
       "category": "mindmap"
     },
     {
       "text": "torch  ️",
-      "url": "/id/zqcBKdtGqSVwEik7gqrYrynGeyfSXYLVyqxE72Q2",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 124.58058166503906,
       "fy": -242.64648818969727,
       "category": "mindmap"
     },
     {
       "text": "scikit-learn  ️",
-      "url": "/id/35hVLCpp3wbpsx4YqVD9XxpczbpPpyWJjwWfsfAq",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 246.69708251953125,
       "fy": -241.13748931884766,
       "category": "mindmap"
     },
     {
       "text": "darknet",
-      "url": "https://pjreddie.com/darknet/",
       "note": "open source neural networks written in C and CUDA",
+      "url": "https://pjreddie.com/darknet/",
       "fx": -565.6351318359375,
       "fy": -238.583740234375
     },
     {
       "text": "tensorflow  ️",
-      "url": "/id/qA5158JZkdJzGWzr54AswZkmxPnwBJVTc89mytzy#15.3,278.5,2",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -213.57716369628906,
       "fy": -240.63387298583984,
       "category": "mindmap"
     },
     {
       "text": "caffe  ️",
-      "url": "/id/QvtUUHWYL2TsoWD4QbrW8DCg8Fxy7yzmtWtqFG1z",
       "note": "deep learning framework made with expression, speed and modularity in mind  has  expressive architecture extensible code speed community",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -710.3664148326699,
       "fy": -240.26694963743893,
       "category": "mindmap"
     },
     {
       "text": "TensorLayer",
-      "url": "https://github.com/zsdonghao/tensorlayer",
       "note": "provides rich data pre-processing, training, post-processing and serving modules",
+      "url": "https://github.com/zsdonghao/tensorlayer",
       "fx": -424.6153869628906,
       "fy": -239.23067474365234,
       "category": "github"
@@ -75,7 +75,7 @@
     },
     {
       "text": "MXNet  ️",
-      "url": "/id/PGz5R5AHyZ1qCanKhziqRwLgpNEHF7AuAZzsSJSn",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -1271.7506205546772,
       "fy": -234.65124032419618,
       "category": "mindmap"
@@ -89,15 +89,15 @@
     },
     {
       "text": "keras  ️",
-      "url": "/id/rApczcRbzmMrgkZtP6QmEyTRGUvgiyThASZrPP5C",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -281.8561435669892,
       "fy": -135.22972034483928,
       "category": "mindmap"
     },
     {
       "text": "edward",
-      "url": "https://github.com/blei-lab/edward",
       "note": "library for probabilistic modelling, inference and criticism   deep generative models, variational inference  runs on tensorflow",
+      "url": "https://github.com/blei-lab/edward",
       "fx": -144.6504186602873,
       "fy": -134.06696695574152,
       "category": "github"

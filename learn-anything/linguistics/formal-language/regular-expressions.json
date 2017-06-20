@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -111.00370154442749,
       "fy": 139.27457281831028
     }
@@ -31,8 +31,8 @@
   "subnodes": [
     {
       "text": "regex101",
-      "url": "https://regex101.com/",
       "note": "test your regular expressions interactively",
+      "url": "https://regex101.com/",
       "fx": 171.27992248535156,
       "fy": -216.37083053588867,
       "color": "rgba(175, 54, 242, 1.0)",

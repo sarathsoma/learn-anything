@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "youtube channels",
-      "url": "https://github.com/learn-anything/youtube",
       "note": "",
+      "url": "https://github.com/learn-anything/youtube",
       "fx": -187.42578125,
       "fy": -94.265625,
       "category": "github"

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "biochemistry",
-      "url": "http://www.wikiwand.com/en/Biochemistry",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Biochemistry",
       "fx": 74.765625,
       "fy": -387.1875,
       "category": "wiki"
@@ -23,7 +23,7 @@
     },
     {
       "text": "molecular biology  ️",
-      "url": "/id/Aw881MYLM8ciZxC6Mj1sUVeyQDBqrB8bCcTaUQqL",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -117.91899237733242,
       "fy": -64.28650133407166,
       "category": "mindmap"

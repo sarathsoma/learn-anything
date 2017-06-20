@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "WebRTC",
-      "url": "http://www.wikiwand.com/en/WebRTC",
       "note": "",
+      "url": "http://www.wikiwand.com/en/WebRTC",
       "fx": -52.09375,
       "fy": -149.43359375,
       "category": "wiki"
@@ -23,7 +23,7 @@
     },
     {
       "text": "WebTorrent  ️",
-      "url": "/id/DxJEY6vdpFtbP4cAb7eURnLNPbugzrZy1UqBzft6",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -162.68608566810326,
       "fy": 192.81270204741395,
       "category": "mindmap"

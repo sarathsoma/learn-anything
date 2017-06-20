@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -120.61350757517721,
       "fy": 74.25235732058275
     }
@@ -31,8 +31,8 @@
   "subnodes": [
     {
       "text": "bogleheads wiki",
-      "url": "https://www.bogleheads.org/wiki/Main_Page",
       "note": "",
+      "url": "https://www.bogleheads.org/wiki/Main_Page",
       "fx": 92.89278435707092,
       "fy": -194.37726879119873,
       "color": "rgba(175, 54, 242, 1.0)",

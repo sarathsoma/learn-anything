@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "sports",
-      "url": "http://www.wikiwand.com/en/Sport",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Sport",
       "fx": -308.84375,
       "fy": -158.5546875,
       "category": "wiki"
@@ -13,7 +13,7 @@
   "subnodes": [
     {
       "text": "snowboarding  ️",
-      "url": "/id/EXKGQWa1VbvqApdq1cphqgXDqezQh9isGmjgFnxN",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": -464.5546875,
       "category": "mindmap",
@@ -31,7 +31,7 @@
     },
     {
       "text": "skateboarding  ️",
-      "url": "/id/zmZhNHnsQs5ghRkVbzaKD4krFDxX73F5BqnLxf8C",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": -384.5546875,
       "category": "mindmap",
@@ -40,7 +40,7 @@
     },
     {
       "text": "basketball  ️",
-      "url": "/id/WzXjfQ91xET4EtFBKb8yVrDixMnfKFuty3A3Hx9a",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": -344.5546875,
       "category": "mindmap",
@@ -49,7 +49,7 @@
     },
     {
       "text": "football  ️",
-      "url": "/id/boY5EnZnpFMHqczWQFLNVmpi9qcyPyviK1VCSopm",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": -304.5546875,
       "category": "mindmap",
@@ -58,7 +58,7 @@
     },
     {
       "text": "golf  ️",
-      "url": "/id/4c7nosY8nASo5Kyhzc2gzexhmB9ybssvywitsRtD",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": -264.5546875,
       "category": "mindmap",
@@ -85,7 +85,7 @@
     },
     {
       "text": "parkour  ️",
-      "url": "/id/DJXGxzV61Ukpp4seN49depzw7yJMW9gGD5L4s1xZ",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": -144.5546875,
       "category": "mindmap",
@@ -139,7 +139,7 @@
     },
     {
       "text": "surfing  ️",
-      "url": "/id/xPTkUME9ETqhXFVD5sBdyHj98wFpdARRrFZtpLqB",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": 95.4453125,
       "category": "mindmap",
@@ -148,7 +148,7 @@
     },
     {
       "text": "archery  ️",
-      "url": "/id/SoXJh5cEqEZez3ySMtSXgH9yEXKDYvHv8BQakRqs",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": 135.4453125,
       "category": "mindmap",
@@ -157,7 +157,7 @@
     },
     {
       "text": "juggling  ️",
-      "url": "/id/YqGswrpLQPz7JQ2jLsqsXRQbVMBJeeMdiB6BFtRX",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": 175.4453125,
       "category": "mindmap",

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "torch",
-      "url": "http://www.wikiwand.com/en/Torch_(machine_learning)",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Torch_(machine_learning)",
       "fx": -117.35546875,
       "fy": -355.94140625,
       "category": "wiki"

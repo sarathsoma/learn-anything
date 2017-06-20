@@ -28,21 +28,21 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -273.5469545883918,
       "fy": 116.79042443268986
     },
     {
       "text": "promises  ️",
-      "url": "/id/1H9tLbqyqiaEd6ESR9Zw16WUZHusJJuDzxsfX5Rm",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -613.2223914823428,
       "fy": 216.28562818413388,
       "category": "mindmap"
     },
     {
       "text": "ES6  ️",
-      "url": "/id/rNhr9Nq5D6yWCM6rjQLYyLyoxtomM6yK62VZS4Ud",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -302.6810119275051,
       "fy": 276.18781490330525,
       "category": "mindmap"
@@ -61,7 +61,7 @@
     },
     {
       "text": "npm  ️",
-      "url": "/id/9bmZLDspyMzpsB7p5vqMhmBxqXDYiDnxbUrY3GGx",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -601.3985298767409,
       "fy": 453.74422361968186,
       "category": "mindmap"
@@ -75,7 +75,7 @@
     },
     {
       "text": "flow  ️",
-      "url": "/id/SSbhAb3K5XKYqrX1Ya6755WKvCQTitbJWGJtMBnn",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -38.465957000334356,
       "fy": 468.8140618594564,
       "category": "mindmap"
@@ -183,8 +183,8 @@
     },
     {
       "text": "awesome standard",
-      "url": "https://github.com/feross/awesome-standard",
       "note": "- explosion of packages in the standard ecosystem",
+      "url": "https://github.com/feross/awesome-standard",
       "fx": 197.63497539224295,
       "fy": -376.2906707237506,
       "category": "github",
@@ -256,8 +256,8 @@
     },
     {
       "text": "1. freecodecamp",
-      "url": "https://www.freecodecamp.com/",
       "note": "project-based learning",
+      "url": "https://www.freecodecamp.com/",
       "fx": -91.54695458839183,
       "fy": -2.7095755673101394,
       "category": "interactive",
@@ -266,8 +266,8 @@
     },
     {
       "text": "1. you don’t know js series",
-      "url": "https://github.com/getify/You-Dont-Know-JS",
       "note": "goes over javascript language in detail",
+      "url": "https://github.com/getify/You-Dont-Know-JS",
       "fx": -91.54695458839183,
       "fy": 37.29042443268986,
       "category": "free book",
@@ -276,8 +276,8 @@
     },
     {
       "text": "1. javascript30",
-      "url": "https://javascript30.com/",
       "note": "build 30 things in 30 days with vanilla js",
+      "url": "https://javascript30.com/",
       "fx": -91.54695458839183,
       "fy": 77.29042443268986,
       "category": "video",

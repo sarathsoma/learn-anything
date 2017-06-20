@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -77.70995447019857,
       "fy": 11.340542218503856
     }
@@ -49,8 +49,8 @@
     },
     {
       "text": "explain shell",
-      "url": "https://github.com/idank/explainshell",
       "note": "match command-line arguments to their help text",
+      "url": "https://github.com/idank/explainshell",
       "fx": 238.64569536423892,
       "fy": -109.38162251655677,
       "color": "rgba(36, 170, 255, 1.0)",
@@ -58,8 +58,8 @@
     },
     {
       "text": "spellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
       "note": "static analysis tool for shell scripts",
+      "url": "https://github.com/koalaman/shellcheck",
       "fx": 238.64569536423892,
       "fy": -75.38162251655677,
       "category": "github",

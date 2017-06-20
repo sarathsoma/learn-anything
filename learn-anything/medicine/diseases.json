@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "diseases",
-      "url": "http://www.wikiwand.com/en/Disease",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Disease",
       "fx": -20.48046875,
       "fy": -411.44921875,
       "category": "wiki"

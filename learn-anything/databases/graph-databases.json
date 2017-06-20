@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "graph databases",
-      "url": "http://www.wikiwand.com/en/Graph_database",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Graph_database",
       "fx": -149.60190963745117,
       "fy": -145.67429161071777,
       "category": "wiki"
@@ -18,7 +18,7 @@
     },
     {
       "text": "neo4j  ️",
-      "url": "/id/bx426tJLzof9vjdkMH2zxKAZXABLsWd2CXHaaVV3",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -210.7733917236328,
       "fy": 12.02343463897705,
       "category": "mindmap"

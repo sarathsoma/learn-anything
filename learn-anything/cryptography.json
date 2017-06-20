@@ -16,22 +16,22 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 115.48639472179764,
       "fy": 321.7812012491876
     },
     {
       "text": "zero-knowledge proofs  ️",
-      "url": "/id/9k24kzbGhMuqkGryqaJEy5KxJ28zzjfs1qvBTHXm",
+      "url": "/learn-anything/web-development.json",
       "fx": -412.18652343749363,
       "fy": 333.08251953125443,
       "category": "mindmap"
     },
     {
       "text": "encryption  ️",
-      "url": "/id/qWEzhMurSUCvDyqXq2p6nnUd5cdKSrq6vUnpbNrp",
       "note": "allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted",
+      "url": "/learn-anything/web-development.json",
       "fx": -226.0142698126325,
       "fy": 424.4288619736494,
       "category": "mindmap"
@@ -90,8 +90,8 @@
     },
     {
       "text": "1. the code book",
-      "url": "https://www.goodreads.com/book/show/17994.The_Code_Book",
       "note": "- gives a very interesting historic overview of the evolution of cryptography, its uses throughout the years and where we are today",
+      "url": "https://www.goodreads.com/book/show/17994.The_Code_Book",
       "fx": 297.48639472179764,
       "fy": 236.28120124918757,
       "category": "non-free book",

@@ -3,29 +3,29 @@
   "nodes": [
     {
       "text": "computer hardware",
-      "url": "http://www.wikiwand.com/en/Computer_hardware",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Computer_hardware",
       "fx": -353.81840018888147,
       "fy": -577.1030791295608,
       "category": "wiki"
     },
     {
       "text": "3d printing  ️",
-      "url": "/id/1qepKVwZ5z6HqpoBUr2ipQPbivrJjir3y3UPAGvP",
+      "url": "/learn-anything/web-development.json",
       "fx": -121.95447294713858,
       "fy": -470.5617247146973,
       "category": "mindmap"
     },
     {
       "text": "computer  ️",
-      "url": "/id/pB9HWsxJd9fybGJtXLbiXnrMdzPhtF47yKTq3QMF",
+      "url": "/learn-anything/web-development.json",
       "fx": -344.3874806148905,
       "fy": -449.51149065617665,
       "category": "mindmap"
     },
     {
       "text": "virtualisation  ️",
-      "url": "/id/NkHFsqqdMPMavVrc2skzvPzzhtMkx3NfMkqWHzwp",
+      "url": "/learn-anything/web-development.json",
       "fx": -152.20888157894728,
       "fy": -345.62239583333337,
       "category": "mindmap"
@@ -39,14 +39,14 @@
     },
     {
       "text": "arduino  ️",
-      "url": "/id/KRHuHfpmq5DzmpfFEgyvSyzQtk9t6oy7faNKbtiL",
+      "url": "/learn-anything/web-development.json",
       "fx": -364.87393027497217,
       "fy": -233.15499614197574,
       "category": "mindmap"
     },
     {
       "text": "raspberry pi  ️",
-      "url": "/id/TWYxfqzhfcp2sZJUGpHnZqz4fY8YFAjiuv6JBhDQ",
+      "url": "/learn-anything/web-development.json",
       "fx": -569.5471618727049,
       "fy": -226.41700180684268,
       "category": "mindmap"

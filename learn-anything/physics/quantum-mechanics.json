@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -108.70632938191409,
       "fy": 261.69943643569763
     },
@@ -35,14 +35,14 @@
     },
     {
       "text": "uncertainty principle  ️",
-      "url": "/id/pq6ekc4v4qo1ULkjydHqr5w8XnydW9uzMqsePwNs",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -1345.203789893615,
       "fy": 418.875486625034,
       "category": "mindmap"
     },
     {
       "text": "quantum gravity  ️",
-      "url": "/id/7Bw1MZp2zoHfV8zkdPE6zsQp7NgtmfE8QGju2cSU",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -1571.714727722773,
       "fy": 421.40702351485186,
       "category": "mindmap"
@@ -56,30 +56,30 @@
     },
     {
       "text": "quantum information  ️",
-      "url": "/id/6nxrnv5quSLhpb7nwdAJ2BiaKFDxE6oQeeoHcW69",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -801.0602982442308,
       "fy": 426.9973390168666,
       "category": "mindmap"
     },
     {
       "text": "quantum computing  ️",
-      "url": "/id/F8ubCrxApr7pFiW8TxvNyyzD51WqHkzVDFMN4cyp",
       "note": "studies theoretical computation systems (quantum computers) that make direct use of quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data  they are different from binary digital electronic computers based on transistors  whereas common digital computing requires that the data be encoded into binary digits (bits), each of which is always in one two definite states (0 or 1), quantum computation uses quantum bits, which can be in superpositions of states  a quantum turing machine is a theoretical model of such computer, and is also known as the universal quantum computer   a single quit can represent a one, a zero, or any quantum superposition of those two quit states",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -522.0552255433371,
       "fy": 427.19825194804446,
       "category": "mindmap"
     },
     {
       "text": "quantum field theory  ️",
-      "url": "/id/gDAemvFSLEMi7g9ozVTKp7yW2onyv76X5cspxeVQ",
       "note": "is the theoretical framework for constructing quantum mechanical models of subatomic particles in particle physics and quasiparticles in condensed matter physics  it treats particles as excited states of the underlying physical field, so these are called field quanta",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -225.06361462777136,
       "fy": 427.80017176418426,
       "category": "mindmap"
     },
     {
       "text": "quantum entanglement  ️",
-      "url": "/id/PyWDaJAKxGEsAoSUaEuXk6sBm7EHxiMzxsDzmeqJ",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 70.22394147220984,
       "fy": 429.26751587373565,
       "category": "mindmap"
@@ -147,8 +147,8 @@
     },
     {
       "text": "1. visualisation of quantum physics",
-      "url": "https://www.youtube.com/watch?v=p7bzE1E5PMY",
       "note": "final section about momentum shows that increasing the mass scales the velocity function, so that its uncertainty becomes negligible once the the mass is high enough",
+      "url": "https://www.youtube.com/watch?v=p7bzE1E5PMY",
       "fx": 73.29367061808591,
       "fy": 231.19943643569763,
       "category": "video",

@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "software development",
-      "url": "http://www.wikiwand.com/en/Software_development",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Software_development",
       "fx": 175.4118732829669,
       "fy": -504.36532813403693,
       "category": "wiki"
@@ -23,56 +23,56 @@
     },
     {
       "text": "code review  ️",
-      "url": "/id/oWJuvGLv1isvtjdxNwyfieczokJ8QMq4fwMhJ9KC",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -318.5536926498145,
       "fy": -75.86985018725966,
       "category": "mindmap"
     },
     {
       "text": "open source  ️",
-      "url": "/id/i2KJsa46DzxEMaziscL7xMzJMxqAtnNFNAXaJ6d1",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 571.4212660600676,
       "fy": -74.74188066966428,
       "category": "mindmap"
     },
     {
       "text": "devops  ️",
-      "url": "/id/4pT3AeEEywqSgdxTFBRgq3bmFpLs6s9YSaNMrxZY#321.0,-237.8,2",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 170.67599943002426,
       "fy": -74.46723004046567,
       "category": "mindmap"
     },
     {
       "text": "software architecture  ️",
-      "url": "/id/eGwQJjrztCQoaUZwUdAeq2o4C1s9mdHKRKjX6iRD",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -105.86712276241474,
       "fy": -74.10179701002119,
       "category": "mindmap"
     },
     {
       "text": "software testing  ️",
-      "url": "/id/ELcJKvcycS3o6xNu8a6pgF88wCyq5wUkZRWvsfnu",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 337.8226300802894,
       "fy": -72.96349186362824,
       "category": "mindmap"
     },
     {
       "text": "build automation  ️",
-      "url": "/id/1xbzNFU31QspquaHziUpzMhvo6TNKNtczMExmqzy",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -554.7126016446551,
       "fy": -71.55796802399254,
       "category": "mindmap"
     },
     {
       "text": "agile software development  ️",
-      "url": "/id/6WpUA56pPmHd6hUcEfo5CKGfPcRsG771KTuyMhC3",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -878.4374775035992,
       "fy": -70.69786500826478,
       "category": "mindmap"
     },
     {
       "text": "architectural patterns  ️",
-      "url": "/id/riyFy7zgX5kW9kUggeBk73CfxUHSsYVSJvr4mHq6",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -1147.7577213892096,
       "fy": -67.11076268740067,
       "category": "mindmap"

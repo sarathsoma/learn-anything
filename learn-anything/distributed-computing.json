@@ -28,8 +28,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -336.1951789855957,
       "fy": -100.31427192687988
     },
@@ -42,8 +42,8 @@
     },
     {
       "text": "serverless computing  ️",
-      "url": "/id/sE1K3zi3i3WRAXTZm7xXMmFCmYCGm3vNo2N8zakW",
       "note": "known as function as a service (FaaS)  is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function’s container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per visual machine, per hour",
+      "url": "/learn-anything/web-development.json",
       "fx": -575.9816245177228,
       "fy": 78.91117072582495,
       "category": "mindmap"
@@ -57,7 +57,7 @@
     },
     {
       "text": "ethereum  ️",
-      "url": "/id/Qzw4xRpZJLXCBG357zegCse43zFFzkBmssmg78Bo",
+      "url": "/learn-anything/web-development.json",
       "fx": -216.7396072867681,
       "fy": 196.0652408995353,
       "category": "mindmap"
@@ -74,8 +74,8 @@
     },
     {
       "text": "loopy",
-      "url": "https://github.com/ncase/loopy",
       "note": "a tool for thinking in systems",
+      "url": "https://github.com/ncase/loopy",
       "fx": 258.13324969710266,
       "fy": -225.46536541416623,
       "color": "rgba(175, 54, 242, 1.0)",

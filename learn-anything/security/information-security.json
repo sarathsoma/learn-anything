@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "information security",
-      "url": "http://www.wikiwand.com/en/Information_security",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Information_security",
       "fx": -123.88654891304361,
       "fy": -322.2850713315218,
       "category": "wiki"
@@ -24,14 +24,14 @@
     },
     {
       "text": "sanitisation  ️",
-      "url": "/id/9hD7HBqdJ8HVVTzjnMyysbbP1Dwpq68dj32pUyfo",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -588.3249707819804,
       "fy": -99.84768557869381,
       "category": "mindmap"
     },
     {
       "text": "computer security  ️",
-      "url": "/id/HstinnJz9VyxRxHsr3sAQzCWPuFXqLYBMzkX5AoM",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -159.1784383817319,
       "fy": -99.10377654132151,
       "category": "mindmap"

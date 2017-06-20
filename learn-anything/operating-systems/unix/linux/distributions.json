@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "distributions",
-      "url": "http://www.wikiwand.com/en/Linux_distribution",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Linux_distribution",
       "fx": 751.762958260309,
       "fy": -597.0070352932431,
       "category": "wiki"
@@ -17,21 +17,21 @@
     },
     {
       "text": "debian  ️",
-      "url": "/id/zUpkWjrqJ5xpxw6RVPygSFgFxsQC3esW2CVLw2wM",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -80.93588917525801,
       "fy": -237.55734536089432,
       "category": "mindmap"
     },
     {
       "text": "nixOS  ️",
-      "url": "/id/AV2oRx64iruLUUb8ptdy1kQQmady8abtt2sMfFBv",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": 1702.6189880371094,
       "fy": -231.74641036987305,
       "category": "mindmap"
     },
     {
       "text": "arch  ️",
-      "url": "/id/kqZieHKS6X3WNH6s9Ncm6k2GcSCAqmK3fnV6RALB",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": 88.39133828182196,
       "fy": -231.6609813122575,
       "category": "mindmap"
@@ -69,7 +69,7 @@
     },
     {
       "text": "coreOS  ️",
-      "url": "/id/VMYxTSv8WaxpjszC2jWpAFB5KKdxsBeRQiHShnqq",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": 984.4948927356354,
       "fy": -228.8636787168441,
       "category": "mindmap"
@@ -113,7 +113,7 @@
     },
     {
       "text": "ubuntu  ️",
-      "url": "/id/9YJSf2S6MWi8Ucyju5q1xpabK1LkJGxHVWgvano3",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -183.253970940199,
       "fy": -130.11458534608346,
       "category": "mindmap"

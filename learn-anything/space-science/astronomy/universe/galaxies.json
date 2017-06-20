@@ -3,24 +3,24 @@
   "nodes": [
     {
       "text": "galaxies",
-      "url": "http://www.wikiwand.com/en/Galaxy",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Galaxy",
       "fx": -23.43227274956064,
       "fy": -18.539584109291013,
       "category": "wiki"
     },
     {
       "text": "andromeda  ️",
-      "url": "/id/pkx3SSG6MEuKgudxCgx3sa31aVTWjpqyFRH6yDix",
       "note": "is a spiral galaxy approximately 780 kiloparsecs (2.5 million light-years) from Earth  It is the nearest major galaxy to the Milky Way  it is approximately 220,000 light years across, and it is the largest galaxy of the Local Group, which also contains the Milky Way, the Triangulum Galaxy, and other smaller galaxies  The Milky Way and Andromeda galaxies are expected to collide in 4.5 billion years, eventually merging to form a giant elliptical galaxy or perhaps a large disc galaxy",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -209.2637830761994,
       "fy": 103.64661291129534,
       "category": "mindmap"
     },
     {
       "text": "milky way  ️",
-      "url": "/id/prBAqsrAaiTmGXpxW3yssg28kpNHXdTXxTKEiYiq",
       "note": "is the galaxy that contains our Solar System  it is a barred spiral galaxy with a diameter between 100,000 light-years and 180,000 light-years  it is estimated to contain 100–400 billion stars  it is located within the disk, about 26,000 light-years from the Galactic Centre  the very centre is marked by an intense radio source, named Sagittarius A*, which is likely to be a supermassive black hole",
+      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": 36.56541007387921,
       "fy": 107.34033152487433,
       "category": "mindmap"

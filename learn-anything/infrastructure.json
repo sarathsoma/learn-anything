@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "infrastructure",
-      "url": "http://www.wikiwand.com/en/Infrastructure",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Infrastructure",
       "fx": -0.010114544308294171,
       "fy": -435.4748802922562,
       "category": "wiki"
@@ -18,14 +18,14 @@
     },
     {
       "text": "transportation  ️",
-      "url": "/id/tF6pZdQMF3yuJhyzJA3XuybdXPvGX4DUHKttdGEb",
+      "url": "/learn-anything/web-development.json",
       "fx": -281.8730132248229,
       "fy": -307.745126913715,
       "category": "mindmap"
     },
     {
       "text": "urban planning  ️",
-      "url": "/id/urXNVRzUE66CUzPYuTqTBDp9vUJGnRVVWvA8ynz8",
+      "url": "/learn-anything/web-development.json",
       "fx": -68.5603572148508,
       "fy": -307.1127426386474,
       "category": "mindmap"

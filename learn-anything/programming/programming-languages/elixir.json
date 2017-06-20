@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -76.56323731363034,
       "fy": -85.38277075858264
     },
@@ -47,7 +47,7 @@
     },
     {
       "text": "phoenix  ️",
-      "url": "/id/96qAkztYotpx7pTZJchWBaMzHsTJgdD3PncydboQ",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -68.72274116847848,
       "fy": 160.85865319293498,
       "category": "mindmap"
@@ -142,8 +142,8 @@
     },
     {
       "text": "elixre",
-      "url": "http://www.elixre.uk/",
       "note": "regular expression editor &amp; tester",
+      "url": "http://www.elixre.uk/",
       "fx": 497.9268449133597,
       "fy": -171.22207385673647,
       "color": "rgba(175, 54, 242, 1.0)",

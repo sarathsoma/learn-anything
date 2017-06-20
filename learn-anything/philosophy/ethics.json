@@ -3,16 +3,16 @@
   "nodes": [
     {
       "text": "ethics",
-      "url": "http://www.wikiwand.com/en/Ethics",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Ethics",
       "fx": 117.43343987938022,
       "fy": -273.26431079827034,
       "category": "wiki"
     },
     {
       "text": "veganism  ️",
-      "url": "/id/54KJXyXG2U6zioYe8XPHx15uR2xWb2pKUqhYnuxH",
       "note": "treating animals as equals and abstaining from eating and using animal products as commodity",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 80.27734375,
       "fy": -138.99506578947376,
       "category": "mindmap"

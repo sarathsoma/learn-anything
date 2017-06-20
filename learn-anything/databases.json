@@ -16,21 +16,21 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 21.890589344574096,
       "fy": -187.9086332104127
     },
     {
       "text": "relational databases  ️",
-      "url": "/id/y48JgLrYtbyNrsKyRze4WHzhYVrGZks9N9pvsekp",
+      "url": "/learn-anything/web-development.json",
       "fx": -404.2229881286621,
       "fy": 42.566781997680664,
       "category": "mindmap"
     },
     {
       "text": "noSQL databases  ️",
-      "url": "/id/mLEApxUMnfyeMpB7WzzkUdUNAweVk9WWJZpXgsh6",
+      "url": "/learn-anything/web-development.json",
       "fx": -146.53618621826172,
       "fy": 42.56679153442383,
       "category": "mindmap"
@@ -44,7 +44,7 @@
     },
     {
       "text": "graph databases  ️",
-      "url": "/id/kAMXBibSaps4PdfxkB4jBoYBxWBfMbk1eYEzo6Cz",
+      "url": "/learn-anything/web-development.json",
       "fx": 337.3810663926288,
       "fy": 45.590967695758195,
       "category": "mindmap"
@@ -58,14 +58,14 @@
     },
     {
       "text": "time series database  ️",
-      "url": "/id/2MSAaYJ2x3CT9sXdNWJV8hupqHhykRxy3MAVikaZ",
+      "url": "/learn-anything/web-development.json",
       "fx": -969.2688419117649,
       "fy": 53.066176470588175,
       "category": "mindmap"
     },
     {
       "text": "blockchain  ️",
-      "url": "/id/Cqy6H5RRvkwBTFEsTFH1eW8zQFA5Gzvoq6ssjFxc#447.8,99.7,2",
+      "url": "/learn-anything/web-development.json",
       "fx": -660.5833395652535,
       "fy": 170.13252202162528,
       "category": "mindmap"

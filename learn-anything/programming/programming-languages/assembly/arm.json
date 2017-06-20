@@ -24,8 +24,8 @@
   "subnodes": [
     {
       "text": "VisUAL",
-      "url": "https://salmanarif.bitbucket.io/visual/",
       "note": "a highly visual ARM emulator",
+      "url": "https://salmanarif.bitbucket.io/visual/",
       "fx": 176.1167051527235,
       "fy": -126.63202031453449,
       "color": "rgba(175, 54, 242, 1.0)",

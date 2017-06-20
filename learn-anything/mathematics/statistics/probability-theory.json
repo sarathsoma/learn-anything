@@ -10,22 +10,22 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -134.6248087335215,
       "fy": -97.50442855461358
     },
     {
       "text": "markov chains  ️",
-      "url": "/id/1NpiefgrirDdunaD1stiWpyX3bcQbGMKP79hosmN",
       "note": "are stochastic processes that satisfy the Markov property (sometimes characterised as ‘memorylessness’)  a process satisfies the Markov property if one can make predictions for the future of the process based solely on its present state just as well as one could knowing the process’s full history, hence independently from such history (i.e. conditional on the present state of the system, its future and paste states are independent)  a Markov chain is a type of Markov process that has either discrete state space or discrete index set (often representing time), but the precise definition of a Markov chain varies",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 51.847304043704526,
       "fy": 73.68532321877683,
       "category": "mindmap"
     },
     {
       "text": "probability distributions  ️",
-      "url": "/id/zme7cJKFpqjzapGfVmvAQxKn8zE5xoXTyCfssHqp",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -238.517070660405,
       "fy": 76.14572560639533,
       "category": "mindmap"

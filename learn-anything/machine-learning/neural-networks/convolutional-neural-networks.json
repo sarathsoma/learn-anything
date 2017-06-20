@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "convolutional neural networks",
-      "url": "http://www.wikiwand.com/en/Convolutional_neural_network",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Convolutional_neural_network",
       "fx": 47.4570426940918,
       "fy": -162.17669868469238,
       "category": "wiki"
@@ -49,8 +49,8 @@
     },
     {
       "text": "picasso",
-      "url": "https://github.com/merantix/picasso",
       "note": "CNN visualiser",
+      "url": "https://github.com/merantix/picasso",
       "fx": 513.9489898681641,
       "fy": 105.12367248535156,
       "category": "github",

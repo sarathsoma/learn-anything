@@ -16,21 +16,21 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -40.4562083521198,
       "fy": -73.4193500395744
     },
     {
       "text": "electronics  ️",
-      "url": "/id/qz5DzpegGjA5snBVuH8kJycypXGo3zqtNwJSzB6s",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -202.08342978395058,
       "fy": 41.97371720678984,
       "category": "mindmap"
     },
     {
       "text": "signal processing  ️",
-      "url": "/id/idyoc4NFVVdknjsv4QXzD5t4uU6qs5pqrWg3pryi",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -59.35301722288409,
       "fy": 163.0126569443854,
       "category": "mindmap"
@@ -92,8 +92,8 @@
     },
     {
       "text": "2. lessons in industrial instrumentation",
-      "url": "http://www.ibiblio.org/kuphaldt/socratic/sinst/book/liii_2v18.pdf",
       "note": "- really long and has everything you need to know to do instrumentation technician work",
+      "url": "http://www.ibiblio.org/kuphaldt/socratic/sinst/book/liii_2v18.pdf",
       "fx": 141.5437916478802,
       "fy": -72.9193500395744,
       "category": "free book",

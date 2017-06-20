@@ -22,14 +22,14 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 29.040971487160505,
       "fy": -17.5406407253854
     },
     {
       "text": "interpreter  ️",
-      "url": "/id/Rbip5ygSsq7U54zGf5ssb17z46y7Psenyz3FzHbD",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -286.8405788745388,
       "fy": 78.37436577490769,
       "category": "mindmap"
@@ -43,15 +43,15 @@
     },
     {
       "text": "just-in-time compilation  ️",
-      "url": "/id/yYnKJT1xwgtab3TsHmdsivW18s6xUcisxKqQh6PE",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -298.4220222299869,
       "fy": 215.03276075376868,
       "category": "mindmap"
     },
     {
       "text": "LLVM  ️",
-      "url": "/id/sQuPeeiDsBpGJDCz4mFg25iP2zBzo2GxhzjkCTBJ",
       "note": "is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  this new IR can then be converted and linked into machine-dependent assembly language code for a target platform",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -4.913332025432396,
       "fy": 264.7920765143971,
       "category": "mindmap"
@@ -86,8 +86,8 @@
     },
     {
       "text": "wcc",
-      "url": "https://github.com/endrazine/wcc",
       "note": "witchcraft compiler collection",
+      "url": "https://github.com/endrazine/wcc",
       "fx": 286.3903388977051,
       "fy": -270.52171341044794,
       "category": "github",

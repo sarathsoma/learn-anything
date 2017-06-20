@@ -16,8 +16,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 21.13535568755742,
       "fy": 112.22353506657487
     }
@@ -34,8 +34,8 @@
     },
     {
       "text": "baselines",
-      "url": "https://github.com/openai/baselines",
       "note": "high-quality implementations of reinforcement learning algorithms",
+      "url": "https://github.com/openai/baselines",
       "fx": 298.84540719696963,
       "fy": -27.03867869031228,
       "category": "github",

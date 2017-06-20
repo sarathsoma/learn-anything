@@ -16,8 +16,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -64.49268121352031,
       "fy": -152.6852256672189
     },
@@ -30,50 +30,50 @@
     },
     {
       "text": "ethics  ️",
-      "url": "/id/mAqtpK7sLQd15ytMqPAL8qvfqbRKgAmsyxkyWtnc",
+      "url": "/learn-anything/web-development.json",
       "fx": -157.22985030019436,
       "fy": 11.43343074812276,
       "category": "mindmap"
     },
     {
       "text": "epistemology  ️",
-      "url": "/id/yBFNRBszx4CsN45posUWEJ4xotNXPdKjJqMnSysw",
       "note": "what is the nature of knowledge, justification and the rationality of belief",
+      "url": "/learn-anything/web-development.json",
       "fx": -384.36791229248036,
       "fy": 11.617190996805903,
       "category": "mindmap"
     },
     {
       "text": "philosophy of mind  ️",
-      "url": "/id/UMM4zxspXCaoU2PXsuxQdj8ERppHZEpkv9oQAiuB",
+      "url": "/learn-anything/web-development.json",
       "fx": 154.14447012766982,
       "fy": 11.692635144120914,
       "category": "mindmap"
     },
     {
       "text": "spirituality  ️",
-      "url": "/id/SmSpRm4TvWTpqxxXLPtyyqDhytKfLG9oxRrW8ujj",
+      "url": "/learn-anything/web-development.json",
       "fx": -556.7084191305597,
       "fy": 12.556472778320312,
       "category": "mindmap"
     },
     {
       "text": "western philosophy  ️",
-      "url": "/id/XXCkzMYmhms6FX73NezAbr2zxYYKp7qYUse69zQe",
+      "url": "/learn-anything/web-development.json",
       "fx": -813.7084045410156,
       "fy": 13.583770751953125,
       "category": "mindmap"
     },
     {
       "text": "philosophy of science  ️",
-      "url": "/id/yQpJYq2yMTYm3oTPrGkyZWsxK49yKNAhpYFePXcc",
+      "url": "/learn-anything/web-development.json",
       "fx": -1092.789001027741,
       "fy": 17.410356464309757,
       "category": "mindmap"
     },
     {
       "text": "reasoning  ️",
-      "url": "/id/aENT1ta1MuWrsfqJC4AJMAzQyPsnwCEbyD4gzDPr",
+      "url": "/learn-anything/web-development.json",
       "fx": -1260.922500855876,
       "fy": 18.88097772594756,
       "category": "mindmap"
@@ -159,8 +159,8 @@
     },
     {
       "text": "1. Godel, Escher, Bach",
-      "url": "https://www.goodreads.com/book/show/24113.G_del_Escher_Bach",
       "note": "whilst not directly related to philosophy it is a great book",
+      "url": "https://www.goodreads.com/book/show/24113.G_del_Escher_Bach",
       "fx": 117.50731878647969,
       "fy": -121.1852256672189,
       "category": "non-free book",

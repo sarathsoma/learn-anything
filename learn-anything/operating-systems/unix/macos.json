@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -185.85006684407062,
       "fy": -8.498596846307919
     },
@@ -41,7 +41,7 @@
     },
     {
       "text": "apps  ️",
-      "url": "/id/GcQy9hGZ2JoXbHsCCUCuEp6szrhyUirUjiXuxatH",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -257.3626089132639,
       "fy": 162.7248688811187,
       "category": "mindmap"
@@ -61,7 +61,7 @@
     },
     {
       "text": "jxa  ️",
-      "url": "/id/Db64qsUgs2Pw67auf37Spdg6X5oVWvrpyzR88psP",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -66.60675317328878,
       "fy": 258.85093919891403,
       "category": "mindmap"
@@ -248,8 +248,8 @@
     },
     {
       "text": "learn cocoa",
-      "url": "http://www.cocoadevcentral.com/",
       "note": "a lot of articles",
+      "url": "http://www.cocoadevcentral.com/",
       "fx": -286.60920390725175,
       "fy": 292.0256615453005,
       "color": "rgba(175, 54, 242, 1.0)",

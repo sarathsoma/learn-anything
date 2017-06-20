@@ -16,29 +16,29 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 79.98803768725816,
       "fy": -800.7280960990726
     },
     {
       "text": "closures  ️",
-      "url": "/id/8mbngFphpyuFzCKfFueaWGNCtu44Ry5y4tBYzxJr",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -280.04851752021636,
       "fy": -679.4097035040431,
       "category": "mindmap"
     },
     {
       "text": "formal language",
-      "url": "http://www.wikiwand.com/en/Formal_language",
       "note": "is a set of strings of symbols together with a set of rules that are specific to it  the alphabet of a formal language is the set of symbols, letters, or tokens from which the strings of the language may be formed  the strings formed from this alphabet are called words, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas  a formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, also called it formation rule",
+      "url": "http://www.wikiwand.com/en/Formal_language",
       "fx": 183.00288244472063,
       "fy": -565.1614122375477,
       "category": "wiki"
     },
     {
       "text": "type systems  ️",
-      "url": "/id/jcqLyxx8KFyzFBWAJAuDo7UhMJGhz2asNymxns1e",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -37.572606690048815,
       "fy": -497.2360053434495,
       "category": "mindmap"

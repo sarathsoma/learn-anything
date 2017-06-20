@@ -16,8 +16,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -159.00224384841147,
       "fy": 45.071674388076076
     }
@@ -78,8 +78,8 @@
     },
     {
       "text": "CoinSalad",
-      "url": "https://coinsalad.com/",
       "note": "Bitcoin market stats and charting data on some key components of the Bitcoin network",
+      "url": "https://coinsalad.com/",
       "fx": 136.14709633329642,
       "fy": -131.63647593622625,
       "color": "rgba(49, 187, 71, 1.0)",

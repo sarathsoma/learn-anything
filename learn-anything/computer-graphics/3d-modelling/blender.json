@@ -16,8 +16,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -90.63671875,
       "fy": 72.23046875
     }
@@ -60,8 +60,8 @@
     },
     {
       "text": "1. an hour with blender",
-      "url": "https://www.youtube.com/watch?v=4E2NiFBnan0",
       "note": "introduction and overview",
+      "url": "https://www.youtube.com/watch?v=4E2NiFBnan0",
       "fx": 91.36328125,
       "fy": 43.73046875,
       "category": "video",
@@ -70,8 +70,8 @@
     },
     {
       "text": "2. another hour with blender",
-      "url": "https://www.youtube.com/watch?v=2y5DEX9H5FQ",
       "note": "covers 3D modelling",
+      "url": "https://www.youtube.com/watch?v=2y5DEX9H5FQ",
       "fx": 91.36328125,
       "fy": 83.73046875,
       "category": "video",

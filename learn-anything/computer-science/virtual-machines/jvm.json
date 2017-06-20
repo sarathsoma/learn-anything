@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "java virtual machine",
-      "url": "http://www.wikiwand.com/en/Java_virtual_machine",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Java_virtual_machine",
       "fx": -151.27734375,
       "fy": -405.80078125,
       "category": "wiki"
@@ -29,14 +29,14 @@
     },
     {
       "text": "vert.x  ️",
-      "url": "/id/75ns3xWqpENYFNMvp73ojNCgx19VT7iedmSHGdy1",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -263.2827297603536,
       "fy": -7.135926629066205,
       "category": "mindmap"
     },
     {
       "text": "RxJava  ️",
-      "url": "/id/CLMPTfdQbsVtBuegSxx8yJpFuwbC3sYifUUss2Jb",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -67.09661031420796,
       "fy": 22.68656079234961,
       "category": "mindmap"

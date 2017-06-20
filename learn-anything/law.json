@@ -10,14 +10,14 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -46.03177257529751,
       "fy": -226.76604306023444
     },
     {
       "text": "rights  ️",
-      "url": "/id/PqspiLyuwys6yetWfGUqoqpqfPGzRr3osziXPq4Q",
+      "url": "/learn-anything/web-development.json",
       "fx": -489.8411750280268,
       "fy": -160.95380815582968,
       "category": "mindmap"
@@ -38,14 +38,14 @@
     },
     {
       "text": "governance  ️",
-      "url": "/id/ojzMZx1jER6mhuLwAckNsHUZsWNS5PSEis7zxPdN",
+      "url": "/learn-anything/web-development.json",
       "fx": 282.45348569772796,
       "fy": -77.94498701079033,
       "category": "mindmap"
     },
     {
       "text": "politics  ️",
-      "url": "/id/jyGfsb3qosZpu4DgCnUxDNfwcCjhLjaSToVyCdxZ",
+      "url": "/learn-anything/web-development.json",
       "fx": -7.411951764785954,
       "fy": -62.99975210765069,
       "category": "mindmap"
@@ -59,15 +59,15 @@
     },
     {
       "text": "software licenses  ️",
-      "url": "/id/qumP1wJy6DDKeZBfWh4pj3oc8fjcZxp2iXGz4pfd",
+      "url": "/learn-anything/web-development.json",
       "fx": -198.6162109375,
       "fy": 23.421936308856516,
       "category": "mindmap"
     },
     {
       "text": "DMCA",
-      "url": "http://www.wikiwand.com/en/Digital_Millennium_Copyright_Act",
       "note": "united states copyright law criminalising production and sharing of digital copyrighted material",
+      "url": "http://www.wikiwand.com/en/Digital_Millennium_Copyright_Act",
       "fx": 139.6532835996236,
       "fy": 31.46555842731857,
       "category": "wiki"

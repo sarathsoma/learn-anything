@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -77.57348394393921,
       "fy": 130.0341567993164
     },
@@ -36,22 +36,22 @@
     },
     {
       "text": "shells  ️",
-      "url": "/id/YoH1p2rK7xGoRohmsZ3CZKFrB6QhqQh2gLq4bjpz",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 103.81910453998137,
       "fy": 248.0730726853635,
       "category": "mindmap"
     },
     {
       "text": "macOS  ️",
-      "url": "/id/YxEVejLH86YkpNGB5AWNcXUaasejqPngAg8wgiQt",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -184.22135238647468,
       "fy": 258.92795181274414,
       "category": "mindmap"
     },
     {
       "text": "linux  ️",
-      "url": "/id/7N2X8wXv19NAjB3gdrFkfzqqT6LpDyzLAJVfx15e",
       "note": "is a Unix-like computer operating system assembled under the model of free and open-source software development and distribution",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -27.479805185029022,
       "fy": 362.5279363320078,
       "category": "mindmap"
@@ -94,8 +94,8 @@
     },
     {
       "text": "many things  ️",
-      "url": "https://github.com/substack/blog/blob/master/many_things.markdown",
       "note": "When frameworks make your decisions for you, you very often won't even realise that a decision has been made at all so it's much harder to identify problems when the assumptions grounded in that technology choice no longer apply.",
+      "url": "https://github.com/substack/blog/blob/master/many_things.markdown",
       "fx": 348.5258564527269,
       "fy": -51.187470922619354,
       "category": "article",

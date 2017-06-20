@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "web browser",
-      "url": "http://www.wikiwand.com/en/Web_browser",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Web_browser",
       "fx": 100.15905743263625,
       "fy": -291.5467811468709,
       "category": "wiki"
@@ -17,14 +17,14 @@
     },
     {
       "text": "safari  ️",
-      "url": "/id/vzpg628sGAz3c67v6eKCsqxzth9QNHpm4sHdZyzy",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -256.5461874166565,
       "fy": -69.69237795869185,
       "category": "mindmap"
     },
     {
       "text": "google chrome  ️",
-      "url": "/id/3uqHrLo8E7tCqznyNp2xtCLsWkT9qRtpwwFyYTTR",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -133.6728210607605,
       "fy": -68.69768134156539,
       "category": "mindmap"
@@ -79,7 +79,7 @@
     },
     {
       "text": "Chrome V8  ️",
-      "url": "/id/SZxDsZmsX4p4TE4vp8zJrfWPsQpq12qZfAu8W4Tz",
+      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 43.189177458709196,
       "fy": 57.59433065876408,
       "category": "mindmap"

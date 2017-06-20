@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "books",
-      "url": "https://github.com/learn-anything/books",
       "note": "",
+      "url": "https://github.com/learn-anything/books",
       "fx": -59.5,
       "fy": -2,
       "category": "github"

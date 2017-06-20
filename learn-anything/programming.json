@@ -3,8 +3,8 @@
   "nodes": [
     {
       "text": "computer programming",
-      "url": "http://www.wikiwand.com/en/Computer_programming",
       "note": "",
+      "url": "http://www.wikiwand.com/en/Computer_programming",
       "fx": 322.37282789075743,
       "fy": -688.5762595537226,
       "category": "wiki"
@@ -35,100 +35,100 @@
     },
     {
       "text": "programming interview preparation  ️",
-      "url": "/id/XSoat9hfA9vpEu9LsEStbuAzNWhPHZqDyh24sRzv#455.8,-88.6,2",
       "note": "how to prepare for a programming interview most effectively",
+      "url": "/learn-anything/web-development.json",
       "fx": 564.0695495605469,
       "fy": 378.06565856933594,
       "category": "mindmap"
     },
     {
       "text": "version control  ️",
-      "url": "/id/uniqtY8eDpC7Kbt5kRvu1V3iY2AQTobYS2WsHnxP",
+      "url": "/learn-anything/web-development.json",
       "fx": 1064.4052243528158,
       "fy": 393.76409567814767,
       "category": "mindmap"
     },
     {
       "text": "reverse engineering  ️",
-      "url": "/id/dtFqPNRpHxvWsy1ySv4oA48sDxPa87SpfFq5Zzqz",
+      "url": "/learn-anything/web-development.json",
       "fx": -297.57569943798853,
       "fy": 393.81414180550485,
       "category": "mindmap"
     },
     {
       "text": "software development  ️",
-      "url": "/id/C6qyyeVEzfVCyvpxD7digZzzGxV8hvcwdzAkkpjF",
+      "url": "/learn-anything/web-development.json",
       "fx": 288.9475860595703,
       "fy": 395.1107177734375,
       "category": "mindmap"
     },
     {
       "text": "practice  ️",
-      "url": "/id/bF5YW76MmjiqqesqcYAd8SWU1TzgqxbczE7q58y1",
+      "url": "/learn-anything/web-development.json",
       "fx": 881.7109375,
       "fy": 396.9375,
       "category": "mindmap"
     },
     {
       "text": "programming paradigms  ️",
-      "url": "/id/WoxCvQtJKD7iFsABg3sRjfAfQ2g5ZQjmTt6Vd25i",
+      "url": "/learn-anything/web-development.json",
       "fx": -631.4392375944032,
       "fy": 397.7997018342644,
       "category": "mindmap"
     },
     {
       "text": "programming languages  ️",
-      "url": "/id/deC8Q7qpC5GxM41ysqHhMHzN832JMUAL1Fc351Td#-95.6,-555.3,1",
       "note": "are formal computer languages designed to communicate instructions to a machine, particularly a computer  they can be used to create programs to control the behaviour of a machine or to express algorithms   the description of a programming language is split into two components of syntax (form) and semantics (meaning)  some languages are defined by a specification document (for example C being specified by an ISO standard) while other languages (like Perl) have a dominant implementation that is treated as a reference  some languages have both",
+      "url": "/learn-anything/web-development.json",
       "fx": -39.198066499281595,
       "fy": 398.93771378815643,
       "category": "mindmap"
     },
     {
       "text": "query languages  ️",
-      "url": "/id/26VQE2ahqWLR5jRQCdsChym1EUP2Ls8AmQ64aj2y",
+      "url": "/learn-anything/web-development.json",
       "fx": -871.0227567624222,
       "fy": 403.2705816913981,
       "category": "mindmap"
     },
     {
       "text": "design patterns  ️",
-      "url": "/id/yyJxSXTCh9xqmnCSbfoD5Ms7Nry1jxcymUDfMNqB",
+      "url": "/learn-anything/web-development.json",
       "fx": -1096.862480957675,
       "fy": 403.30009709253864,
       "category": "mindmap"
     },
     {
       "text": "dynamic programming  ️",
-      "url": "/id/4o1FEfJ9UgedwzDqH4Tkhbi4PDx2THyeCESTahgS",
+      "url": "/learn-anything/web-development.json",
       "fx": -1481.7055917749285,
       "fy": 405.78929750566454,
       "category": "mindmap"
     },
     {
       "text": "API  ️",
-      "url": "/id/ej1akzrEaSC7gqgoN2zziknngUCB52ePdNZ4iKeH",
+      "url": "/learn-anything/web-development.json",
       "fx": -1204.3439217032965,
       "fy": 406.6817479395604,
       "category": "mindmap"
     },
     {
       "text": "programming language design  ️",
-      "url": "/id/DGpMF54UqFrrurzbs77HTzyq8HswHBEwq8xdg8hB",
+      "url": "/learn-anything/web-development.json",
       "fx": -54.258946309846124,
       "fy": 506.95995304136227,
       "category": "mindmap"
     },
     {
       "text": "programming mastery  ️",
-      "url": "/id/RHEKsTCqdDLjzVaZ8DzEXkeEezxpmyLsqf5BV1Mt",
+      "url": "/learn-anything/web-development.json",
       "fx": 687.0116300225309,
       "fy": 541.5261961944997,
       "category": "mindmap"
     },
     {
       "text": "competitive programming  ️",
-      "url": "/id/yT4BspbzmdGpQJZz2jzL7JEe3tpVqqX2LZYHoJZV",
+      "url": "/learn-anything/web-development.json",
       "fx": 980.7647672050441,
       "fy": 542.4538880493562,
       "category": "mindmap"
@@ -164,8 +164,8 @@
     },
     {
       "text": "enlight",
-      "url": "https://enlight.ml/",
       "note": "learn to code by building projects",
+      "url": "https://enlight.ml/",
       "fx": 988.2772369384766,
       "fy": -597.861011505127,
       "color": "rgba(36, 170, 255, 1.0)",
@@ -241,8 +241,8 @@
     },
     {
       "text": "1. code: hidden language",
-      "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
       "note": "goes over what a computer actually is and what it is made of, starting from the beginning",
+      "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
       "fx": 493.21875,
       "fy": -261.95703125,
       "category": "free book",

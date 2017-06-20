@@ -21,8 +21,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -176.28404688699572,
       "fy": -80.2695460908268
     },
@@ -96,7 +96,7 @@
     },
     {
       "text": "express  ️",
-      "url": "/id/zwXmrqAW4wDks9xzpPzumULC7RGuryQCesparXZU",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -306.63391407093445,
       "fy": 248.51274890280536,
       "category": "mindmap"
@@ -110,7 +110,7 @@
     },
     {
       "text": "jest  ️",
-      "url": "/id/vQttqzUvfzbk97qSDhtEZiFFmNpb9fy6XxtKPyz7",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 284.4532014586084,
       "fy": 298.355031185013,
       "category": "mindmap"
@@ -145,8 +145,8 @@
     },
     {
       "text": "stream handbook",
-      "url": "https://github.com/substack/stream-handbook",
       "note": "how to write node programs with streams",
+      "url": "https://github.com/substack/stream-handbook",
       "fx": 147.82876817050828,
       "fy": -400.2850064648753,
       "category": "github",

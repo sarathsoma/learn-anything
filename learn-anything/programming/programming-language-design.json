@@ -15,8 +15,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": 113.78870750990245,
       "fy": -132.3629960488018
     }
@@ -41,8 +41,8 @@
     },
     {
       "text": "1. beautiful racket",
-      "url": "http://beautifulracket.com/",
       "note": "- amazing book covering how to make your own programming language with racket ",
+      "url": "http://beautifulracket.com/",
       "fx": 295.78870750990245,
       "fy": -120.86299604880179,
       "category": "free book",

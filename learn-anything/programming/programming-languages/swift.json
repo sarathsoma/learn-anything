@@ -22,8 +22,8 @@
     },
     {
       "text": "basics",
-      "url": "",
       "note": "",
+      "url": "",
       "fx": -85.61279481560587,
       "fy": -101.63227712135745
     },
@@ -53,7 +53,7 @@
     },
     {
       "text": "apple frameworks  ️",
-      "url": "/id/4JFpCVhHphBPqc1S8prRZVbkb2PjVByjtLzMMcfG",
+      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 182.34478312457895,
       "fy": 112.65045847044848,
       "category": "mindmap"
@@ -201,8 +201,8 @@
     },
     {
       "text": "swift weekly",
-      "url": "https://github.com/vandadnp/swift-weekly",
       "note": "- weekly swift language gems, tips and tricks",
+      "url": "https://github.com/vandadnp/swift-weekly",
       "fx": 400.66444051652206,
       "fy": -588.2637228106666,
       "category": "github",
@@ -379,8 +379,8 @@
     },
     {
       "text": "17: testing in swift",
-      "url": "http://www.ustream.tv/recorded/101118612",
       "note": "for good testing have  unified input/output state that is kept local injected dependencies",
+      "url": "http://www.ustream.tv/recorded/101118612",
       "fx": 898.0554352700035,
       "fy": 175.24700771777123,
       "category": "video",
