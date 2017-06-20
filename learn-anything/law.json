@@ -17,7 +17,7 @@
     },
     {
       "text": "rights  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/law/rights",
       "fx": -489.8411750280268,
       "fy": -160.95380815582968,
       "category": "mindmap"
@@ -38,14 +38,13 @@
     },
     {
       "text": "governance  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": 282.45348569772796,
       "fy": -77.94498701079033,
       "category": "mindmap"
     },
     {
       "text": "politics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/law/politics",
       "fx": -7.411951764785954,
       "fy": -62.99975210765069,
       "category": "mindmap"
@@ -59,7 +58,7 @@
     },
     {
       "text": "software licenses  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/law/software-licenses",
       "fx": -198.6162109375,
       "fy": 23.421936308856516,
       "category": "mindmap"

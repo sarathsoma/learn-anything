@@ -11,21 +11,21 @@
     },
     {
       "text": "3d printing  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-hardware/3d-printing",
       "fx": -121.95447294713858,
       "fy": -470.5617247146973,
       "category": "mindmap"
     },
     {
       "text": "computer  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-hardware/computer",
       "fx": -344.3874806148905,
       "fy": -449.51149065617665,
       "category": "mindmap"
     },
     {
       "text": "virtualisation  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-hardware/virtualisation",
       "fx": -152.20888157894728,
       "fy": -345.62239583333337,
       "category": "mindmap"
@@ -39,14 +39,14 @@
     },
     {
       "text": "arduino  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-hardware/arduino",
       "fx": -364.87393027497217,
       "fy": -233.15499614197574,
       "category": "mindmap"
     },
     {
       "text": "raspberry pi  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-hardware/raspberry-pi",
       "fx": -569.5471618727049,
       "fy": -226.41700180684268,
       "category": "mindmap"

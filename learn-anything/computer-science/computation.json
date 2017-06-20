@@ -11,7 +11,6 @@
     },
     {
       "text": "finite-state machine  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -573.0399199695152,
       "fy": -515.7953506097576,
       "category": "mindmap"
@@ -31,14 +30,14 @@
     },
     {
       "text": "character encoding  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/computation/character-encoding",
       "fx": -457.9257472234316,
       "fy": -337.1666417138502,
       "category": "mindmap"
     },
     {
       "text": "theory of computation  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/computation/theory-of-computation",
       "fx": 314.3988155241916,
       "fy": -327.22492439516134,
       "category": "mindmap"
@@ -81,7 +80,6 @@
     },
     {
       "text": "computer simulations  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 28.740400476539662,
       "fy": -19.034556757087216,
       "category": "mindmap"

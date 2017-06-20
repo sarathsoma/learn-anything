@@ -10,7 +10,7 @@
     },
     {
       "text": "unreal engine  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/game-development/game-engines/unreal-engine",
       "fx": 89.06255340576172,
       "fy": -44.27727127075195,
       "category": "mindmap"
@@ -18,7 +18,7 @@
     {
       "text": "LÖVE  ️",
       "note": "framework in Lua to make 2D games",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/game-development/game-engines/love",
       "fx": -346.3064753214518,
       "fy": -44.21203279495239,
       "category": "mindmap"
@@ -26,7 +26,7 @@
     {
       "text": "godot  ️",
       "note": "provides a huge set of common tools to create multi-platform 2D and 3D games",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/game-development/game-engines/godot",
       "fx": -65.88006782531738,
       "fy": -43.075279235839844,
       "category": "mindmap"
@@ -39,7 +39,7 @@
     },
     {
       "text": "unity  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/game-development/game-engines/unity",
       "fx": -184.6782324049209,
       "fy": -42.626130421956304,
       "category": "mindmap"

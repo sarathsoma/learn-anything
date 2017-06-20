@@ -29,42 +29,41 @@
     },
     {
       "text": "world history  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/history/world-history",
       "fx": 1320.4309584794364,
       "fy": -1068.550213675214,
       "category": "mindmap"
     },
     {
       "text": "art history  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/history/art-history",
       "fx": 1513.956938729644,
       "fy": -1067.617675205447,
       "category": "mindmap"
     },
     {
       "text": "inventions  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/history/inventions",
       "fx": 1140.738473865878,
       "fy": -1065.5258875739648,
       "category": "mindmap"
     },
     {
       "text": "future  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": 776.2899816176492,
       "fy": -1063.53650210084,
       "category": "mindmap"
     },
     {
       "text": "ancient history  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/history/ancient-history",
       "fx": 908.8736087328766,
       "fy": -1062.1492936643833,
       "category": "mindmap"
     },
     {
       "text": "US history  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/history/united-states",
       "fx": 1331.770289179105,
       "fy": -941.2544309701495,
       "category": "mindmap"

@@ -23,14 +23,14 @@
     },
     {
       "text": "relational databases  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/databases/relational-databases",
       "fx": -404.2229881286621,
       "fy": 42.566781997680664,
       "category": "mindmap"
     },
     {
       "text": "noSQL databases  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/databases/nosql-databases",
       "fx": -146.53618621826172,
       "fy": 42.56679153442383,
       "category": "mindmap"
@@ -44,7 +44,7 @@
     },
     {
       "text": "graph databases  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/databases/graph-databases",
       "fx": 337.3810663926288,
       "fy": 45.590967695758195,
       "category": "mindmap"
@@ -58,14 +58,14 @@
     },
     {
       "text": "time series database  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/databases/time-series-databases",
       "fx": -969.2688419117649,
       "fy": 53.066176470588175,
       "category": "mindmap"
     },
     {
       "text": "blockchain  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/databases/blockchain",
       "fx": -660.5833395652535,
       "fy": 170.13252202162528,
       "category": "mindmap"

@@ -44,21 +44,21 @@
     },
     {
       "text": "computational topology  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/topology/computational-topology",
       "fx": -823.0983068287477,
       "fy": 208.3480997260658,
       "category": "mindmap"
     },
     {
       "text": "differential topology  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/topology/differential-topology",
       "fx": -254.7693742655092,
       "fy": 218.70611572265625,
       "category": "mindmap"
     },
     {
       "text": "algebraic topology  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/topology/algebraic-topology",
       "fx": 11.467171968586626,
       "fy": 219.79312754874695,
       "category": "mindmap"
@@ -72,7 +72,7 @@
     },
     {
       "text": "morse theory  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/topology/morse-theory",
       "fx": -380.7070202099991,
       "fy": 354.1691706598458,
       "category": "mindmap"

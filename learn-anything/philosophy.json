@@ -30,7 +30,7 @@
     },
     {
       "text": "ethics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/philosophy/ethics",
       "fx": -157.22985030019436,
       "fy": 11.43343074812276,
       "category": "mindmap"
@@ -38,42 +38,40 @@
     {
       "text": "epistemology  ️",
       "note": "what is the nature of knowledge, justification and the rationality of belief",
-      "url": "/learn-anything/web-development.json",
+      "url": "/philosophy/epistemology",
       "fx": -384.36791229248036,
       "fy": 11.617190996805903,
       "category": "mindmap"
     },
     {
       "text": "philosophy of mind  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/philosophy/philosophy-of-mind",
       "fx": 154.14447012766982,
       "fy": 11.692635144120914,
       "category": "mindmap"
     },
     {
       "text": "spirituality  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/philosophy/spirituality",
       "fx": -556.7084191305597,
       "fy": 12.556472778320312,
       "category": "mindmap"
     },
     {
       "text": "western philosophy  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/philosophy/western-philosophy",
       "fx": -813.7084045410156,
       "fy": 13.583770751953125,
       "category": "mindmap"
     },
     {
       "text": "philosophy of science  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": -1092.789001027741,
       "fy": 17.410356464309757,
       "category": "mindmap"
     },
     {
       "text": "reasoning  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": -1260.922500855876,
       "fy": 18.88097772594756,
       "category": "mindmap"

@@ -19,7 +19,7 @@
   "subnodes": [
     {
       "text": "programming  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming",
       "fx": 479.93868885869574,
       "fy": -242.1368885869565,
       "category": "mindmap",
@@ -28,7 +28,7 @@
     },
     {
       "text": "gardening  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/life/hobbies/gardening",
       "fx": 479.93868885869574,
       "fy": -202.1368885869565,
       "category": "mindmap",
@@ -37,7 +37,7 @@
     },
     {
       "text": "knitting  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/life/hobbies/knitting",
       "fx": 479.93868885869574,
       "fy": -162.1368885869565,
       "category": "mindmap",
@@ -46,7 +46,7 @@
     },
     {
       "text": "woodworking  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/life/hobbies/woodworking",
       "fx": 479.93868885869574,
       "fy": -122.1368885869565,
       "category": "mindmap",
@@ -55,7 +55,7 @@
     },
     {
       "text": "carpentry  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/life/hobbies/carpentry",
       "fx": 479.93868885869574,
       "fy": -82.1368885869565,
       "category": "mindmap",

@@ -23,28 +23,25 @@
     },
     {
       "text": "depth-first search  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -691.3341538975728,
       "fy": 167.526866515837,
       "category": "mindmap"
     },
     {
       "text": "binary search  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -194.70638416013549,
       "fy": 168.9847735969388,
       "category": "mindmap"
     },
     {
       "text": "Monte Carlo tree search  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/computer-science/algorithms/search/monte-carlo-tree-search",
       "fx": 6.272921161497948,
       "fy": 170.68128108169446,
       "category": "mindmap"
     },
     {
       "text": "breadth-first search  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -452.02650451660156,
       "fy": 171.90843200683594,
       "category": "mindmap"

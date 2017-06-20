@@ -23,77 +23,76 @@
     },
     {
       "text": "nuclear physics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/nuclear-physics",
       "fx": -312.1314165409407,
       "fy": -146.51108932980412,
       "category": "mindmap"
     },
     {
       "text": "particle physics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/particle-physics",
       "fx": -555.9956667146143,
       "fy": -145.58402258342926,
       "category": "mindmap"
     },
     {
       "text": "optics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/optics",
       "fx": -695.1161583357712,
       "fy": -142.73964432084313,
       "category": "mindmap"
     },
     {
       "text": "computational physics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/computational-physics",
       "fx": -1229.1077728271484,
       "fy": -141.9203224182129,
       "category": "mindmap"
     },
     {
       "text": "orbital mechanics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/orbital-mechanics",
       "fx": -936.6499013253866,
       "fy": -140.35153867231884,
       "category": "mindmap"
     },
     {
       "text": "condensed matter physics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/condensed-matter-physics",
       "fx": -1546.8535067873304,
       "fy": -138.4277432126696,
       "category": "mindmap"
     },
     {
       "text": "electromagnetism  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/electromagnetism",
       "fx": -2025.7175348285432,
       "fy": -137.24710255107948,
       "category": "mindmap"
     },
     {
       "text": "polymer physics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/polymer-physics",
       "fx": -1772.0425874233792,
       "fy": -135.14295238688328,
       "category": "mindmap"
     },
     {
       "text": "energy  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/energy",
       "fx": -2459.7098388671875,
       "fy": -133.3791103363037,
       "category": "mindmap"
     },
     {
       "text": "continuum mechanics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/continuum-mechanics",
       "fx": -2311.806402439023,
       "fy": -131.94073932926858,
       "category": "mindmap"
     },
     {
       "text": "matter  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": -2593.8492144808743,
       "fy": -128.08179644808752,
       "category": "mindmap"
@@ -108,14 +107,14 @@
     {
       "text": "quantum mechanics  ️",
       "note": "is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  quantum mechanics differs from classical physics in that energy, momentum and other quantities are often restricted to discrete values (quantisation), objects have characteristics of both particles and waves (wave-particle duality) and there are limits to the precision with which quantities can be  known (uncertainty principle)",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/quantum-mechanics",
       "fx": -624.253203837276,
       "fy": 160.44209103266996,
       "category": "mindmap"
     },
     {
       "text": "classical mechanics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/classical-mechanics",
       "fx": -1152.1593763680798,
       "fy": 160.88330090696377,
       "category": "mindmap"
@@ -129,7 +128,7 @@
     },
     {
       "text": "thermodynamics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/thermodynamics",
       "fx": 344.26675598528504,
       "fy": 162.84724588831727,
       "category": "mindmap"
@@ -143,14 +142,14 @@
     },
     {
       "text": "general relativity  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/general-relativity",
       "fx": 116.38920923303908,
       "fy": 164.38687969622674,
       "category": "mindmap"
     },
     {
       "text": "special relativity  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/physics/special-relativity",
       "fx": -103.2223888744013,
       "fy": 164.4779739379885,
       "category": "mindmap"

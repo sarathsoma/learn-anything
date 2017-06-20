@@ -11,28 +11,28 @@
     },
     {
       "text": "mongoDB  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/databases/nosql-databases/mongodb",
       "fx": -162.7247570782173,
       "fy": -49.275160549132806,
       "category": "mindmap"
     },
     {
       "text": "cassandra  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/databases/nosql-databases/cassandra",
       "fx": 19.742781521847974,
       "fy": -47.83928339141545,
       "category": "mindmap"
     },
     {
       "text": "redis  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/databases/nosql-databases/redis",
       "fx": -281.83635032467726,
       "fy": -47.780194995849115,
       "category": "mindmap"
     },
     {
       "text": "NewSQL  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/databases/nosql-databases/newsql",
       "fx": 255.41590447154454,
       "fy": -25.157139227642347,
       "category": "mindmap"

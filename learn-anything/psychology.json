@@ -23,7 +23,7 @@
     },
     {
       "text": "decision making  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/psychology/decision-making",
       "fx": -540.0164649527821,
       "fy": -41.303604331781685,
       "category": "mindmap"
@@ -37,7 +37,7 @@
     },
     {
       "text": "creativity  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/psychology/creativity",
       "fx": -704.5225243506494,
       "fy": -39.49749729437224,
       "category": "mindmap"
@@ -51,14 +51,14 @@
     },
     {
       "text": "social psychology  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/psychology/social-psychology",
       "fx": -950.7821807861328,
       "fy": -33.93146061897278,
       "category": "mindmap"
     },
     {
       "text": "cognitive psychology  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/psychology/cognitive-psychology",
       "fx": -1214.9265397775873,
       "fy": -30.100620188217704,
       "category": "mindmap"

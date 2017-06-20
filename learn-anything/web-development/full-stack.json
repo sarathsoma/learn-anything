@@ -23,28 +23,28 @@
     },
     {
       "text": "meteor  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/meteor",
       "fx": 620.096997893256,
       "fy": -134.4946014747237,
       "category": "mindmap"
     },
     {
       "text": "ruby on rails  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/ruby/ruby-on-rails",
       "fx": 941.4442246835447,
       "fy": -132.30201740506322,
       "category": "mindmap"
     },
     {
       "text": "django  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/full-stack/django",
       "fx": 782.6184017354767,
       "fy": -131.2012061403509,
       "category": "mindmap"
     },
     {
       "text": "react js  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/react",
       "fx": 532.9900858918004,
       "fy": -2.0898665935675353,
       "category": "mindmap"
@@ -57,7 +57,7 @@
     },
     {
       "text": "mongoDB  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/databases/nosql-databases/mongodb",
       "fx": -445.38124380866384,
       "fy": -0.32697343826293945,
       "category": "mindmap"
@@ -71,14 +71,14 @@
     },
     {
       "text": "angular 2  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/angular-2",
       "fx": -123.30296478631249,
       "fy": 1.311465984632946,
       "category": "mindmap"
     },
     {
       "text": "node.js  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/backend/nodejs",
       "fx": 36.791053771972656,
       "fy": 1.3744995508263855,
       "category": "mindmap"
@@ -92,7 +92,7 @@
     },
     {
       "text": "node.js  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/backend/nodejs",
       "fx": 677.0153051900531,
       "fy": 1.4370888157894797,
       "category": "mindmap"

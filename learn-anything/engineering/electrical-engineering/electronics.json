@@ -29,28 +29,26 @@
     },
     {
       "text": "logic gates  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -23.822261682968474,
       "fy": -198.2709136901296,
       "category": "mindmap"
     },
     {
       "text": "electronic components  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/engineering/electrical-engineering/electronics/electronic-components",
       "fx": -519.351276676829,
       "fy": -69.25880153890802,
       "category": "mindmap"
     },
     {
       "text": "electronic circuits  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -222.42708333333326,
       "fy": -64.16796875,
       "category": "mindmap"
     },
     {
       "text": "analog electronics  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/engineering/electrical-engineering/electronics/analog-electronics",
       "fx": 22.200057983398438,
       "fy": -59.07197046279907,
       "category": "mindmap"
@@ -64,7 +62,6 @@
     },
     {
       "text": "power electronics  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 295.37678006328906,
       "fy": 92.2094541139628,
       "category": "mindmap"

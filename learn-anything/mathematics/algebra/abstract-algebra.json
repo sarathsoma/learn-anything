@@ -17,21 +17,20 @@
     },
     {
       "text": "algebraic structures  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures",
       "fx": 234.93938420872792,
       "fy": -64.5826403068778,
       "category": "mindmap"
     },
     {
       "text": "representation theory  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/mathematics/algebra/abstract-algebra/representation-theory",
       "fx": -585.7817818578376,
       "fy": -62.96445129467679,
       "category": "mindmap"
     },
     {
       "text": "Galois theory  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -465.3068395120272,
       "fy": 33.686774414441174,
       "category": "mindmap"
@@ -45,7 +44,7 @@
     },
     {
       "text": "homomorphism  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/mathematics/algebra/abstract-algebra/homomorphism",
       "fx": 424.02873557227326,
       "fy": 41.25714699235539,
       "category": "mindmap"

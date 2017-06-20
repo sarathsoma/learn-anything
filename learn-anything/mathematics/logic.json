@@ -30,7 +30,6 @@
     },
     {
       "text": "proofs  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -754.4810202245044,
       "fy": 216.83558138791864,
       "category": "mindmap"
@@ -44,14 +43,14 @@
     },
     {
       "text": "proof theory  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/logic/proof-theory",
       "fx": -877.4581983148621,
       "fy": 321.9542549635659,
       "category": "mindmap"
     },
     {
       "text": "automated theorem proving  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/logic/automated-theorem-proving",
       "fx": -646.5482238736976,
       "fy": 348.168212106037,
       "category": "mindmap"
@@ -67,7 +66,7 @@
     {
       "text": "Godel’s incompleteness theorem  ️",
       "note": "Godel’s incompleteness theorems are two theories of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system containing basic arithmetic  the theorems are widely, but not universally, interpreted as showing that Hilbert’s program to find a complete and consistent set of axioms for all mathematics is impossible  the first implemented theorem states that no consistent system of axioms whose theorems ca be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of the natural numbers  for any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system  the second theorem, an extension of the first, shows that the system cannot demonstrate its own consistency ",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/logic/godels-incompleteness-theorem",
       "fx": 48.356246361365265,
       "fy": 372.74590037419284,
       "category": "mindmap"

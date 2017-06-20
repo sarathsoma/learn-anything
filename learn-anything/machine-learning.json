@@ -30,14 +30,14 @@
     {
       "text": "neural networks  ️",
       "note": "are computational models based on a large collection of simple neural units (artificial neurons), loosely analogous to the observed behaviour of a biological brain’s axons  each neural unit is connected with many others, and links can enhance or inhibit the activation state of adjoining neural units  each individual neural unit computes using summation function  there may be a threshold function or limiting function on each connection and on the unit itself, such that the signal must surpass the limit before propagating to there neurons  these systems are self learning and trained, rather than explicitly programmed, and excel in areas where the solution or feature detection is difficult to express in a traditional computer program",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/neural-networks",
       "fx": -170.33546900026693,
       "fy": -200.2313120724848,
       "category": "mindmap"
     },
     {
       "text": "supervised learning  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/supervised-learning",
       "fx": -1684.212660185838,
       "fy": -194.24692569785498,
       "category": "mindmap"
@@ -45,42 +45,41 @@
     {
       "text": "adversarial machine learning  ️",
       "note": "aims to enable the safe adoption of machine learning techniques in adversarial settings like spam filtering, malware detection and biometric recognition",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/adversarial",
       "fx": -598.1466586321737,
       "fy": -194.05878845516963,
       "category": "mindmap"
     },
     {
       "text": "pattern recognition  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/pattern-recognition",
       "fx": -1418.6272583007812,
       "fy": -193.7800064086914,
       "category": "mindmap"
     },
     {
       "text": "hyperparameter optimisation  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": -2022.3003998753636,
       "fy": -191.97402324816585,
       "category": "mindmap"
     },
     {
       "text": "unsupervised learning  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/unsupervised-learning",
       "fx": -892.4199925057097,
       "fy": -189.66987057480014,
       "category": "mindmap"
     },
     {
       "text": "decision tree learning  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/decision-tree-learning",
       "fx": -1173.5078735351562,
       "fy": -189.03055572509766,
       "category": "mindmap"
     },
     {
       "text": "machine learning libraries  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/machine-learning-libraries",
       "fx": 101.20957151189396,
       "fy": -138.55470129094306,
       "category": "mindmap"
@@ -88,7 +87,7 @@
     {
       "text": "reinforcement learning  ️",
       "note": "inspired by behaviourist psychology, concerned with how software agents ought to take actions in an environment so as to maximise some notion of cumulative reward  in machine learning, the environment is typically formulated as Markov decision process (MDP), as many reinforcement learning algorithms for this context utilise dynamic programming techniques  main differences between classical techniques and reinforcement learning algorithms is that the latter do not need knowledge about the MDP and they target large MDPs where exact methods become infeasible  it differs from standard supervised learning in that correct input/output pairs are never presented, nor sub-optimal actions explicitly corrected  basic reinforcement learning model consists of :  1. a set of environment and agent states S  2. a set of actions A of the agent  3. policies of transitioning from states to actions  4. rules that determine the scalar immediate reward of a transition  5. rules that describe what the agent observes",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/reinforcement-learning",
       "fx": -360.7225469057171,
       "fy": -26.08330895216352,
       "category": "mindmap"
@@ -96,7 +95,7 @@
     {
       "text": "deep learning  ️",
       "note": "is a class of machine learning algorithms that :   use a cascade of many layers of nonlinear processing units for feature extraction and transformation  each successive layer uses the output from the previous layer as input  the algorithms may be supervised or unsupervised and applications include pattern analysis (unsupervised) and classification (supervised)  are based on the (unsupervised) learning of multiple levels of features or representations of the data  higher level features are derived from lower level features to form a hierarchical representation  are part of the broader machine learning field of learning representations of data  learn multiple levels of representations that correspond to different levels of abstraction (the levels form a hierarchy of concepts)",
-      "url": "/learn-anything/web-development.json",
+      "url": "/machine-learning/deep-learning",
       "fx": -55.70290250557173,
       "fy": -25.191732611101543,
       "category": "mindmap"

@@ -23,7 +23,7 @@
     {
       "text": "numpy  ️",
       "note": "python package for scientific computing  contains  a powerful N-dimensional array object  sophisticated (broadcasting) functions  useful linear algebra, Fourier transform or random number capabilities",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/programming/programming-languages/python/python-libraries/numpy",
       "fx": 122.53345184560453,
       "fy": 49.69938846664866,
       "category": "mindmap"
@@ -72,14 +72,14 @@
     },
     {
       "text": "flask  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/programming/programming-languages/python/python-libraries/flask",
       "fx": -569.3064480792013,
       "fy": 294.47332059927294,
       "category": "mindmap"
     },
     {
       "text": "django  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/web-development/full-stack/django",
       "fx": -452.7706029165229,
       "fy": 348.7671260083358,
       "category": "mindmap"

@@ -51,7 +51,7 @@
     {
       "text": "big O notation  ️",
       "note": "is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  the letter O is used because the growth rate of a function is also referred to as order of the function",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/algorithms/big-O",
       "fx": -137.97580353658623,
       "fy": 563.1971730837394,
       "category": "mindmap"
@@ -59,7 +59,7 @@
     {
       "text": "genetic  ️",
       "note": "genetic algorithm is a metaheuristic inspired by the process of natural selection  are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/algorithms/genetic-algorithms",
       "fx": -1375.1603294139684,
       "fy": 659.7009661899706,
       "category": "mindmap"
@@ -75,7 +75,6 @@
     {
       "text": "graphs  ️",
       "note": "a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -879.1015930175781,
       "fy": 667.2896728515625,
       "category": "mindmap"
@@ -98,7 +97,7 @@
     {
       "text": "searching  ️",
       "note": "search algorithm is an algorithm that retrieves information stored within some data structure  appropriate search algorithm often depends on the data structure being searched  searching also encompasses algorithms that query the data structure, such as the SQL SELECT command  they can be classified based on their mechanism of searching",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/algorithms/search",
       "fx": -787.233077150359,
       "fy": 769.1595200557284,
       "category": "mindmap"
@@ -106,7 +105,7 @@
     {
       "text": "sorting  ️",
       "note": "sorting algorithm is an algorithm that puts elements of a list in a certain order  most used orders are numerical order and lexicographical order  efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  it is also often useful for canonicalising data and for producing human readable output",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/algorithms/sorting",
       "fx": -421.10001649247874,
       "fy": 794.7859447289868,
       "category": "mindmap"

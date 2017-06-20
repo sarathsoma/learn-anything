@@ -25,14 +25,13 @@
     },
     {
       "text": "consciousness  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/philosophy/philosophy-of-mind/consciousness",
       "fx": -476.9396494801081,
       "fy": 68.81292890416984,
       "category": "mindmap"
     },
     {
       "text": "solipsism  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 315.59189151982514,
       "fy": 69.98609581497658,
       "category": "mindmap"
@@ -53,7 +52,7 @@
     },
     {
       "text": "metaphysics  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/philosophy/philosophy-of-mind/metaphysics",
       "fx": -287.87329472580984,
       "fy": 187.89017152133056,
       "category": "mindmap"
@@ -67,14 +66,14 @@
     },
     {
       "text": "physicalism  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/philosophy/philosophy-of-mind/physicalism",
       "fx": 47.392570377267816,
       "fy": 254.10681163225433,
       "category": "mindmap"
     },
     {
       "text": "phenomenology  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/philosophy/philosophy-of-mind/phenomenology",
       "fx": -128.77296840252063,
       "fy": 366.63823607765016,
       "category": "mindmap"

@@ -13,7 +13,7 @@
   "subnodes": [
     {
       "text": "snowboarding  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/health/fitness/sports/snowboarding",
       "fx": -98.84375,
       "fy": -464.5546875,
       "category": "mindmap",
@@ -31,7 +31,7 @@
     },
     {
       "text": "skateboarding  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/health/fitness/sports/skateboarding",
       "fx": -98.84375,
       "fy": -384.5546875,
       "category": "mindmap",
@@ -40,7 +40,7 @@
     },
     {
       "text": "basketball  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/health/fitness/sports/basketball",
       "fx": -98.84375,
       "fy": -344.5546875,
       "category": "mindmap",
@@ -49,7 +49,7 @@
     },
     {
       "text": "football  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/health/fitness/sports/football",
       "fx": -98.84375,
       "fy": -304.5546875,
       "category": "mindmap",
@@ -58,7 +58,7 @@
     },
     {
       "text": "golf  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/health/fitness/sports/golf",
       "fx": -98.84375,
       "fy": -264.5546875,
       "category": "mindmap",
@@ -85,7 +85,6 @@
     },
     {
       "text": "parkour  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -98.84375,
       "fy": -144.5546875,
       "category": "mindmap",
@@ -139,7 +138,7 @@
     },
     {
       "text": "surfing  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/health/fitness/sports/surfing",
       "fx": -98.84375,
       "fy": 95.4453125,
       "category": "mindmap",
@@ -148,7 +147,7 @@
     },
     {
       "text": "archery  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/health/fitness/sports/archery",
       "fx": -98.84375,
       "fy": 135.4453125,
       "category": "mindmap",
@@ -157,7 +156,7 @@
     },
     {
       "text": "juggling  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/health/fitness/sports/juggling",
       "fx": -98.84375,
       "fy": 175.4453125,
       "category": "mindmap",

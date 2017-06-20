@@ -54,7 +54,6 @@
     },
     {
       "text": "composer  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -664.1871484917406,
       "fy": 7.753653592107867,
       "category": "mindmap"
@@ -67,7 +66,7 @@
     },
     {
       "text": "symfony  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/programming/programming-languages/php/symfony",
       "fx": 42.12694918611351,
       "fy": 103.5341546474358,
       "category": "mindmap"
@@ -81,7 +80,7 @@
     },
     {
       "text": "laravel  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/web-development/backend/laravel",
       "fx": -126.14517116546631,
       "fy": 150.19017791748047,
       "category": "mindmap"

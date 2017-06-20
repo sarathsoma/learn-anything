@@ -41,35 +41,34 @@
     },
     {
       "text": "graphic design  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/graphic-design",
       "fx": -250.03433713784545,
       "fy": 213.469729015849,
       "category": "mindmap"
     },
     {
       "text": "industrial design  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/industrial-design",
       "fx": -35.78807067871094,
       "fy": 214.07632446289062,
       "category": "mindmap"
     },
     {
       "text": "typography  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/typography",
       "fx": 185.31173706054688,
       "fy": 215.822359085083,
       "category": "mindmap"
     },
     {
       "text": "typesetting  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": 362.43650817871094,
       "fy": 216.51368713378906,
       "category": "mindmap"
     },
     {
       "text": "design languages  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/design-languages",
       "fx": -492.8705973129991,
       "fy": 216.92391748366038,
       "category": "mindmap"
@@ -84,42 +83,41 @@
     },
     {
       "text": "colour theory  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/colour-theory",
       "fx": -697.04296875,
       "fy": 221.52734375,
       "category": "mindmap"
     },
     {
       "text": "design thinking  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/design-thinking",
       "fx": -913.3571220842399,
       "fy": 225.78196383248735,
       "category": "mindmap"
     },
     {
       "text": "computer-aided design  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/computer-aided-design",
       "fx": -1203.479251672107,
       "fy": 229.64137904825918,
       "category": "mindmap"
     },
     {
       "text": "interior design  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/interior-design",
       "fx": -1425.1676717836258,
       "fy": 231.11851242690057,
       "category": "mindmap"
     },
     {
       "text": "user experience  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/design/user-experience",
       "fx": 463.20236280487825,
       "fy": 330.9731961382114,
       "category": "mindmap"
     },
     {
       "text": "user interfaces  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": 699.4433434959349,
       "fy": 334.1590447154472,
       "category": "mindmap"

@@ -17,14 +17,14 @@
     },
     {
       "text": "music theory  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/music-theory",
       "fx": -113.74770021645008,
       "fy": -57.73538961038969,
       "category": "mindmap"
     },
     {
       "text": "music genres  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/music-genres",
       "fx": -561.267697596498,
       "fy": 28.145370509033683,
       "category": "mindmap"
@@ -45,56 +45,56 @@
     },
     {
       "text": "new music  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/new-music",
       "fx": 386.2301022597253,
       "fy": 102.1124365346111,
       "category": "mindmap"
     },
     {
       "text": "music production  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/music-production",
       "fx": 151.95805027173878,
       "fy": 102.61257359601439,
       "category": "mindmap"
     },
     {
       "text": "song writing  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/song-writing",
       "fx": 558.5060950312427,
       "fy": 104.2408388107956,
       "category": "mindmap"
     },
     {
       "text": "drums  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/drums",
       "fx": -543.806872351695,
       "fy": 151.63665254237287,
       "category": "mindmap"
     },
     {
       "text": "sonic PI  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/sonic-pi",
       "fx": -36.268930186665216,
       "fy": 200.60323576966823,
       "category": "mindmap"
     },
     {
       "text": "guitar  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/guitar",
       "fx": -192.54793648485963,
       "fy": 224.2556920244681,
       "category": "mindmap"
     },
     {
       "text": "ukulele  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/ukulele",
       "fx": -478.3358089999041,
       "fy": 243.26227683810748,
       "category": "mindmap"
     },
     {
       "text": "piano  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/art/music/piano",
       "fx": -326.3782014101131,
       "fy": 252.40576846903753,
       "category": "mindmap"

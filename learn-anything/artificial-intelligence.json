@@ -42,21 +42,20 @@
     },
     {
       "text": "general artificial intelligence  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/artificial-intelligence/general-artificial-intelligence",
       "fx": -108.33590441605008,
       "fy": 192.08693354098858,
       "category": "mindmap"
     },
     {
       "text": "AI planning  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/artificial-intelligence/ai-planning",
       "fx": -307.227547761369,
       "fy": 193.95266350210954,
       "category": "mindmap"
     },
     {
       "text": "knowledge representation and reasoning  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": -778.550443528235,
       "fy": 194.28429925662533,
       "category": "mindmap"

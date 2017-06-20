@@ -23,28 +23,26 @@
     },
     {
       "text": "callback functions  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -771.8076933732267,
       "fy": 201.209441489362,
       "category": "mindmap"
     },
     {
       "text": "immutability  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/programming/programming-paradigms/functional-programming/immutability",
       "fx": -239.59482935855453,
       "fy": 202.5206106085525,
       "category": "mindmap"
     },
     {
       "text": "anonymous functions  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -524.0612848141773,
       "fy": 203.21450029793448,
       "category": "mindmap"
     },
     {
       "text": "monads  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/programming/programming-paradigms/functional-programming/monads",
       "fx": -49.58353726023597,
       "fy": 204.2660890785728,
       "category": "mindmap"

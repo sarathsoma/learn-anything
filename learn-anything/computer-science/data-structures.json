@@ -23,7 +23,7 @@
     },
     {
       "text": "arrays  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/data-structures/arrays",
       "fx": -693.7373972819214,
       "fy": -375.3333333333478,
       "category": "mindmap"
@@ -37,14 +37,14 @@
     },
     {
       "text": "serialisation  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/data-structures/serialisation",
       "fx": -524.3088353913074,
       "fy": -262.5840053041354,
       "category": "mindmap"
     },
     {
       "text": "linked list  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/data-structures/linked-lists",
       "fx": 347.8290108009471,
       "fy": -225.8926435687746,
       "category": "mindmap"
@@ -87,7 +87,7 @@
     {
       "text": "hash tables  ️",
       "note": "a hash function is any function that can be used to map data of arbitrary size to data of fixed size  the values returned by a hash function are called hash values, hash codes, digests or simply hashes  one use is a data structure called a hash table, widely used in computer software for rapid data lookup",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/data-structures/hash-tables",
       "fx": -17.332408813639177,
       "fy": -63.87630990227785,
       "category": "mindmap"
@@ -101,21 +101,21 @@
     },
     {
       "text": "binary search trees  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/data-structures/binary-search-trees",
       "fx": -801.4516356306934,
       "fy": 27.95839257682394,
       "category": "mindmap"
     },
     {
       "text": "quadtree  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/data-structures/quadtree",
       "fx": -226.1950891629125,
       "fy": 28.615145218582256,
       "category": "mindmap"
     },
     {
       "text": "red-black tree  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-science/data-structures/red-black-trees",
       "fx": -799.6791930379746,
       "fy": 165.8639240506326,
       "category": "mindmap"

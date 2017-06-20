@@ -24,14 +24,12 @@
     {
       "text": "NP-completeness  ️",
       "note": "a decision problem is NP-complete when it is both in NP and NP-hard  the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": 54.20063920454572,
       "fy": 206.2642318618881,
       "category": "mindmap"
     },
     {
       "text": "NP-hardness  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -159.53693181818187,
       "fy": 209.94081439393938,
       "category": "mindmap"

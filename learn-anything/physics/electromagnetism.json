@@ -16,35 +16,34 @@
     },
     {
       "text": "electromagnetic field  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/physics/electromagnetism/electromagnetic-field",
       "fx": -336.9299815733042,
       "fy": -108.94433972372934,
       "category": "mindmap"
     },
     {
       "text": "Lorentz force  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/physics/electromagnetism/lorentz-force",
       "fx": 163.5942796005413,
       "fy": -33.83883169814692,
       "category": "mindmap"
     },
     {
       "text": "electromagnetic radiation  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/physics/electromagnetism/electromagnetic-radiation",
       "fx": -357.2999999999996,
       "fy": 8.600000000000136,
       "category": "mindmap"
     },
     {
       "text": "electricity  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 82.99276979813703,
       "fy": 76.70467779501462,
       "category": "mindmap"
     },
     {
       "text": "magnets  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/physics/electromagnetism/magnet",
       "fx": -93.64959768963672,
       "fy": 108.16076555822656,
       "category": "mindmap"

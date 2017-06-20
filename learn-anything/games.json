@@ -23,28 +23,28 @@
     },
     {
       "text": "videos games  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/games/video-games",
       "fx": -301.1653981208801,
       "fy": -9.480899214744568,
       "category": "mindmap"
     },
     {
       "text": "board games  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/games/board-games",
       "fx": -512.7891235351562,
       "fy": -9.148769617080688,
       "category": "mindmap"
     },
     {
       "text": "card games  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/games/card",
       "fx": -88.57138061523438,
       "fy": -6.8050315380096436,
       "category": "mindmap"
     },
     {
       "text": "web games  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/games/web",
       "fx": 93.43531546208533,
       "fy": -2.7459271327014676,
       "category": "mindmap"

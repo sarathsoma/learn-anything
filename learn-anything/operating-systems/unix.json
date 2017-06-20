@@ -36,14 +36,14 @@
     },
     {
       "text": "shells  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/operating-systems/unix/shells",
       "fx": 103.81910453998137,
       "fy": 248.0730726853635,
       "category": "mindmap"
     },
     {
       "text": "macOS  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/operating-systems/unix/macos",
       "fx": -184.22135238647468,
       "fy": 258.92795181274414,
       "category": "mindmap"
@@ -51,7 +51,7 @@
     {
       "text": "linux  ️",
       "note": "is a Unix-like computer operating system assembled under the model of free and open-source software development and distribution",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/operating-systems/unix/linux",
       "fx": -27.479805185029022,
       "fy": 362.5279363320078,
       "category": "mindmap"

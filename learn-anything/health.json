@@ -43,21 +43,21 @@
     },
     {
       "text": "fitness  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/health/fitness",
       "fx": -207.4440554648064,
       "fy": 160.51599833289026,
       "category": "mindmap"
     },
     {
       "text": "nutrition  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/health/nutrition",
       "fx": -60.33877034730551,
       "fy": 162.44603104474072,
       "category": "mindmap"
     },
     {
       "text": "mindfulness  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/health/mindfulness",
       "fx": 93.75350063210465,
       "fy": 163.61987218655855,
       "category": "mindmap"

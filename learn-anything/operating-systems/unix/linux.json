@@ -35,35 +35,34 @@
     },
     {
       "text": "Wayland  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/operating-systems/unix/linux/wayland",
       "fx": -337.15384203767167,
       "fy": 491.9273865582189,
       "category": "mindmap"
     },
     {
       "text": "containers  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/operating-systems/unix/linux/containers",
       "fx": 38.37563014792215,
       "fy": 494.0317203177258,
       "category": "mindmap"
     },
     {
       "text": "distributions  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/operating-systems/unix/linux/distributions",
       "fx": -164.8369314721291,
       "fy": 494.23352813720703,
       "category": "mindmap"
     },
     {
       "text": "iptables  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -646.7745454645307,
       "fy": 494.38672790294936,
       "category": "mindmap"
     },
     {
       "text": "systemd  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/operating-systems/unix/linux/systemd",
       "fx": -494.1360452586207,
       "fy": 495.5255926724178,
       "category": "mindmap"

@@ -35,14 +35,14 @@
     },
     {
       "text": "polymorphism  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/type-theory/polymorphism",
       "fx": -419.9552735201776,
       "fy": 440.39064704741065,
       "category": "mindmap"
     },
     {
       "text": "algebraic data types  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/type-theory/algebraic-data-types",
       "fx": -216.98556341832983,
       "fy": 441.1125891313719,
       "category": "mindmap"
@@ -56,14 +56,14 @@
     },
     {
       "text": "homotopy type theory  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/type-theory/homotopy-type-theory",
       "fx": -104.29886896793948,
       "fy": 553.244509542734,
       "category": "mindmap"
     },
     {
       "text": "dependent type theory  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/type-theory/dependent-type-theory",
       "fx": 179.28145968801834,
       "fy": 554.7874462246291,
       "category": "mindmap"

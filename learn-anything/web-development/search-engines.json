@@ -11,7 +11,7 @@
     },
     {
       "text": "Elasticsearch  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/search-engines/elasticsearch",
       "fx": -315.1875494449447,
       "fy": 104.84389436127594,
       "category": "mindmap"
@@ -30,7 +30,7 @@
     },
     {
       "text": "Solr  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/search-engines/solr",
       "fx": -25.914003708221685,
       "fy": 228.17857108817793,
       "category": "mindmap"

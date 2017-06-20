@@ -37,14 +37,14 @@
     },
     {
       "text": "boolean algebra  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/algebra/boolean-algebra",
       "fx": -412.8722882748798,
       "fy": -64.43303603948164,
       "category": "mindmap"
     },
     {
       "text": "functions  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/algebra/functions",
       "fx": 8.418459939626928,
       "fy": -58.771485907831334,
       "category": "mindmap"
@@ -52,7 +52,7 @@
     {
       "text": "abstract algebra  ️",
       "note": "is the study of algebraic structures  it includes study of groups, rings, fields, modules, vector spaces, lattices and algebras  algebraic structures, with their associated homomorphisms, form mathematical categories",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/algebra/abstract-algebra",
       "fx": -223.39127412038476,
       "fy": 24.947111888422114,
       "category": "mindmap"

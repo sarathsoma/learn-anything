@@ -23,7 +23,7 @@
     },
     {
       "text": "WebAssembly  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/programming/programming-languages/assembly/WebAssembly",
       "fx": 99.29176417951567,
       "fy": 74.52089069383283,
       "category": "mindmap"
@@ -44,14 +44,14 @@
     },
     {
       "text": "x86  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/programming/programming-languages/assembly/x86",
       "fx": -146.58537946428578,
       "fy": 205.08129152823926,
       "category": "mindmap"
     },
     {
       "text": "ARM  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/programming/programming-languages/assembly/arm",
       "fx": -290.09813760004545,
       "fy": 205.6018716022345,
       "category": "mindmap"

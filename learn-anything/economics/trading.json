@@ -10,21 +10,20 @@
     },
     {
       "text": "stock exchange  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/economics/trading/stock-exchange",
       "fx": -27.891077995300293,
       "fy": 168.85818099975586,
       "category": "mindmap"
     },
     {
       "text": "quantitative trading  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -275.0249451754387,
       "fy": 170.73245614035085,
       "category": "mindmap"
     },
     {
       "text": "algorithmic trading  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/economics/trading/algorithmic-trading-",
       "fx": 195.10251724510863,
       "fy": 172.21913073355694,
       "category": "mindmap"

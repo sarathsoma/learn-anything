@@ -16,7 +16,7 @@
     },
     {
       "text": "paradigms  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-paradigms",
       "fx": -3.512118601759312,
       "fy": -954.9104284943431,
       "category": "mindmap"
@@ -51,14 +51,14 @@
     },
     {
       "text": "functional  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-paradigms/functional-programming",
       "fx": 809.6598320544631,
       "fy": -603.8411650321852,
       "category": "mindmap"
     },
     {
       "text": "logic programming  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-paradigms/logic-programming",
       "fx": 2237.0260951753053,
       "fy": -601.9981979610167,
       "category": "mindmap"
@@ -72,7 +72,7 @@
     },
     {
       "text": "object oriented  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-paradigms/object-oriented",
       "fx": 1524.5800843292004,
       "fy": -597.0049953861964,
       "category": "mindmap"
@@ -80,7 +80,7 @@
     {
       "text": "objective c  ️",
       "note": "general purpose, object oriented, implemented smalltalk-style messaging",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/objective-c",
       "fx": 1974.9147128401128,
       "fy": -485.7837677001953,
       "category": "mindmap"
@@ -88,7 +88,7 @@
     {
       "text": "scala  ️",
       "note": "general purpose, functional with strong static type system, compiles to Java bytecode",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/scala",
       "fx": 839.9881744384766,
       "fy": -484.9552001953125,
       "category": "mindmap"
@@ -96,7 +96,7 @@
     {
       "text": "smalltalk  ️",
       "note": "object oriented, dynamically typed, reflective, created for educational use",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/smalltalk",
       "fx": 1795.8252295627026,
       "fy": -484.90588274572656,
       "category": "mindmap"
@@ -104,7 +104,7 @@
     {
       "text": "php  ️",
       "note": "server side scripting designed primarily for webdev, can be embedded into HTML",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/php",
       "fx": 2172.9971103010503,
       "fy": -484.6382141113281,
       "category": "mindmap"
@@ -112,7 +112,7 @@
     {
       "text": "erlang  ️",
       "note": "general purpose, concurrent, functional with a garbage collected runtime system",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/erlang",
       "fx": 522.7909545898438,
       "fy": -484.0111389160156,
       "category": "mindmap"
@@ -120,7 +120,7 @@
     {
       "text": "processing  ️",
       "note": "language and IDE built for electric arts and visual design with educational purpose",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/processing",
       "fx": 1593.5452880859375,
       "fy": -481.6809310913086,
       "category": "mindmap"
@@ -128,7 +128,7 @@
     {
       "text": "clojure  ️",
       "note": "general purpose with emphasis on functional programming, runs on jam ,clr and js engine, treats code as data and has a macro system",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/clojure",
       "fx": 679.8660888671875,
       "fy": -481.40135192871094,
       "category": "mindmap"
@@ -136,7 +136,7 @@
     {
       "text": "elixir  ️",
       "note": "functional, concurrent, general purpose, runs on erlang virtual machine, builds on top of erlang and shares same abstractions",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/elixir",
       "fx": 381.6532669067383,
       "fy": -480.58470153808594,
       "category": "mindmap"
@@ -144,7 +144,7 @@
     {
       "text": "haskell  ️",
       "note": "general purpose, purely functional with non strict semantics and strong static typing",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/haskell",
       "fx": 988.1120300292969,
       "fy": -479.7981872558594,
       "category": "mindmap"
@@ -152,7 +152,7 @@
     {
       "text": "swift  ️",
       "note": "general purpose, multi paradigm and compiled",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/swift",
       "fx": 101.78646087646484,
       "fy": -479.516357421875,
       "category": "mindmap"
@@ -160,7 +160,7 @@
     {
       "text": "rust  ️",
       "note": "general purpose, designed to be safe, concurrent and practical, supporting functional and imperative-procedural paradigms",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/rust",
       "fx": 244.88877868652344,
       "fy": -479.42930603027344,
       "category": "mindmap"
@@ -168,21 +168,21 @@
     {
       "text": "go  ️",
       "note": "compiled, statically typed with garbage collection, limited structural typing and memory safety features with focus great concurrency features",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/go",
       "fx": -23.302322387695312,
       "fy": -477.6321258544922,
       "category": "mindmap"
     },
     {
       "text": "prolog  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/prolog",
       "fx": 2316.1546252725548,
       "fy": -476.3185218627866,
       "category": "mindmap"
     },
     {
       "text": "agda  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/agda",
       "fx": 1285.3913269042969,
       "fy": -476.23487854003906,
       "category": "mindmap"
@@ -190,7 +190,7 @@
     {
       "text": "elm  ️",
       "note": "domain specific for declaratively creating web browser based GUI, purely functional with emphasis on usability, performance and robustness",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/elm",
       "fx": 1151.2477416992188,
       "fy": -476.1424102783203,
       "category": "mindmap"
@@ -198,7 +198,7 @@
     {
       "text": "javascript  ️",
       "note": "high level, dynamic, untyped and interpreted, prototype based with first class functions, making it a multi paradigm language",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/javascript",
       "fx": -210.29660415649414,
       "fy": -474.9492492675781,
       "category": "mindmap"
@@ -206,28 +206,28 @@
     {
       "text": "groovy  ️",
       "note": "object oriented, dynamic, can be used as a scripting language for the java platform, dynamically compiled to jvm bytecode",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/groovy",
       "fx": 1405.6140952276828,
       "fy": -474.7750236344773,
       "category": "mindmap"
     },
     {
       "text": "visual basic  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/visual-basic",
       "fx": 2958.941716269842,
       "fy": -474.254154265873,
       "category": "mindmap"
     },
     {
       "text": "brainfuck  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/brainfuck",
       "fx": 3183.6587357955805,
       "fy": -474.2244318181861,
       "category": "mindmap"
     },
     {
       "text": "forth  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/forth",
       "fx": 2755.5654196805544,
       "fy": -473.79166666666583,
       "category": "mindmap"
@@ -235,7 +235,7 @@
     {
       "text": "c++  ️",
       "note": "imperative, object oriented and generic with low level memory manipulation",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming-languages/c--",
       "fx": -904.8773498535156,
       "fy": -473.6368408203125,
       "category": "mindmap"
@@ -243,7 +243,7 @@
     {
       "text": "c  ️",
       "note": "imperative, procedural and compiled, low level access to memory",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming-languages/c",
       "fx": -1017.7328796386719,
       "fy": -471.73582458496094,
       "category": "mindmap"
@@ -251,7 +251,7 @@
     {
       "text": "kotlin  ️",
       "note": "statically typed, runs on jvm, can be compiled to javascript source code",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/kotlin",
       "fx": -358.7239532470703,
       "fy": -471.593994140625,
       "category": "mindmap"
@@ -259,7 +259,7 @@
     {
       "text": "ruby  ️",
       "note": "dynamic, reflective, object oriented, general purpose",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/ruby",
       "fx": -1158.6369934082031,
       "fy": -470.62498474121094,
       "category": "mindmap"
@@ -267,7 +267,7 @@
     {
       "text": "applescript  ️",
       "note": "scripting language created by Apple to do inter-application communication using AppleEvents",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/applescript",
       "fx": 2515.9581088361992,
       "fy": -470.4658453525641,
       "category": "mindmap"
@@ -275,7 +275,7 @@
     {
       "text": "python  ️",
       "note": "high level, general purpose, interpreted emphasising code readability ",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/python",
       "fx": -660.6194000244141,
       "fy": -467.91204833984375,
       "category": "mindmap"
@@ -283,7 +283,7 @@
     {
       "text": "r  ️",
       "note": "language and software environment for statistical computing and graphics",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/r",
       "fx": -767.8636169433594,
       "fy": -467.61305236816406,
       "category": "mindmap"
@@ -291,7 +291,7 @@
     {
       "text": "lisp  ️",
       "note": "originally created as mathematical notation for computer programs, was used in AI research, linked lists are one of lisp’s major data structures and lisp source code is made of lists thus allowing to manipulate source code as a data structure",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/lisp",
       "fx": -1289.9074401855469,
       "fy": -466.28416442871094,
       "category": "mindmap"
@@ -299,14 +299,14 @@
     {
       "text": "java  ️",
       "note": "concurrent, class based, object oriented, compiles to byte code to be ran on JVM",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/java",
       "fx": -496.5584487915039,
       "fy": -465.74461364746094,
       "category": "mindmap"
     },
     {
       "text": "nim  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/nim",
       "fx": -1397.9539489746094,
       "fy": -465.1115264892578,
       "category": "mindmap"
@@ -314,7 +314,7 @@
     {
       "text": "julia  ️",
       "note": "high level, dynamic, designed to address needs of high performance numerical analysis and computational science",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/julia",
       "fx": -1532.9818115234375,
       "fy": -464.97755432128906,
       "category": "mindmap"
@@ -322,14 +322,14 @@
     {
       "text": "perl  ️",
       "note": "general purpose, interpreted, dynamic powerful text processing",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/perl",
       "fx": -1668.110595703125,
       "fy": -462.49998474121094,
       "category": "mindmap"
     },
     {
       "text": "matlab  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/matlab",
       "fx": -1805.2400512695312,
       "fy": -459.372314453125,
       "category": "mindmap"
@@ -337,7 +337,7 @@
     {
       "text": "lua  ️",
       "note": "lightweight, multi-paradigm designed for embedded systems and clients",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/lua",
       "fx": -2242.473175048828,
       "fy": -458.8884582519531,
       "category": "mindmap"
@@ -345,7 +345,7 @@
     {
       "text": "c#  ️",
       "note": "strong typed, imperative, declarative, functional, generic, object oriented and component oriented",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/c-sharp",
       "fx": -1928.8876037597656,
       "fy": -458.38873291015625,
       "category": "mindmap"
@@ -353,7 +353,7 @@
     {
       "text": "assembly  ️",
       "note": "low level, very strong correspondence between the language and architecture’s machine code instructions",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/assembly",
       "fx": -2115.417999267578,
       "fy": -457.90625,
       "category": "mindmap"
@@ -361,7 +361,7 @@
     {
       "text": "dart  ️",
       "note": "general purpose, object oriented, class defined, single inheritance",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/dart",
       "fx": -2380.5488891601562,
       "fy": -457.33335876464844,
       "category": "mindmap"
@@ -369,7 +369,7 @@
     {
       "text": "OCaml  ️",
       "note": "extends caml language with object oriented programming constructs",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/ocaml",
       "fx": -2544.6455078125,
       "fy": -456.25608825683594,
       "category": "mindmap"
@@ -377,7 +377,7 @@
     {
       "text": "crystal  ️",
       "note": "general purpose, object oriented, statically type checked with implementation of advanced global type inference",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/crystal",
       "fx": -2951.5242919921875,
       "fy": -455.47560119628906,
       "category": "mindmap"
@@ -385,28 +385,28 @@
     {
       "text": "d  ️",
       "note": "object oriented, imperative, multi paradigm system programming language",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/d",
       "fx": -2791.849365234375,
       "fy": -453.6266174316406,
       "category": "mindmap"
     },
     {
       "text": "SQL  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/sql",
       "fx": -3073.090542074022,
       "fy": -453.2031904678771,
       "category": "mindmap"
     },
     {
       "text": "fortran  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/fortran",
       "fx": -2678.7464599609375,
       "fy": -452.69712829589844,
       "category": "mindmap"
     },
     {
       "text": "F#  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/f-sharp",
       "fx": -3172.8813806988105,
       "fy": -448.49566164871715,
       "category": "mindmap"
@@ -414,7 +414,7 @@
     {
       "text": "typescript  ️",
       "note": "- good understanding of javascript is helpful as typescript is superset of javascript",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/typescript",
       "fx": -279.3278377784917,
       "fy": -375.461739509097,
       "category": "mindmap"
@@ -422,14 +422,14 @@
     {
       "text": "coq  ️",
       "note": "interactive theorem prover, allows expression of mathematical assertions, mechanically checks proofs of these assertions and helps find formal proofs",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/coq",
       "fx": 1049.522950183994,
       "fy": -371.37987180595314,
       "category": "mindmap"
     },
     {
       "text": "solidity  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/solidity",
       "fx": 1532.361694868995,
       "fy": -368.12343067685606,
       "category": "mindmap"
@@ -443,14 +443,13 @@
     },
     {
       "text": "scheme  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/scheme",
       "fx": -1220.9019410438095,
       "fy": -355.1891913659799,
       "category": "mindmap"
     },
     {
       "text": "purescript  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 597.4701740674327,
       "fy": -340.4003947647309,
       "category": "mindmap"
@@ -458,7 +457,7 @@
     {
       "text": "idris  ️",
       "note": "general purpose, purely functional with dependent types, supports interactive theorem proving",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/idris",
       "fx": 808.2208251953125,
       "fy": -314.0372314453125,
       "category": "mindmap"

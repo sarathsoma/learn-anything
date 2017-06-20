@@ -11,7 +11,7 @@
     },
     {
       "text": "analytics  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/data-science/data-analysis/analytics",
       "fx": -281.74388586956525,
       "fy": -137.22214673913044,
       "category": "mindmap"
@@ -24,14 +24,14 @@
     },
     {
       "text": "time series analysis  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/data-science/data-analysis/time-series-analysis",
       "fx": -238.69343517788388,
       "fy": -29.305490217042745,
       "category": "mindmap"
     },
     {
       "text": "pandas  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/data-science/data-analysis/pandas",
       "fx": 16.582221549604185,
       "fy": 24.034686888615113,
       "category": "mindmap"

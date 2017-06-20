@@ -23,7 +23,7 @@
     },
     {
       "text": "tensors  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/geometry/tensors",
       "fx": -551.98713913635,
       "fy": 16.15381201544477,
       "category": "mindmap"
@@ -37,7 +37,7 @@
     },
     {
       "text": "trigonometry  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/geometry/trigonometry",
       "fx": -604.4600360576924,
       "fy": 99.99692007211542,
       "category": "mindmap"
@@ -60,7 +60,7 @@
     {
       "text": "fractals  ️",
       "note": "is a mathematical set that exhibits a repeating pattern displayed at every scale  is also known as expanding symmetry or evolving symmetry if the replication is exactly the same at every scale, it is called a self-similar pattern (i.e. Menger Sponge)  fractals can also be nearly the same at different levels   they include the idea of a detailed pattern that repeats itself  they are different from other geometric figures because of the way in which they scale  doubling the edge lengths of a polygon multiples its area by four, which is two (the ratio of the new to the old side length) raised to the power of two (here the dimension of the space the polygon resides in)  likewise, if the radius of a sphere is doubled, its volume scales by eight (to the power of its dimension)  this power is called the fractal dimension of the fractal and it usually exceeds the fractal’s topological dimension  they are usually nowhere differentiable  an infinite fractal curve can be conceived of as winding through space differently from an ordinary line, still being a 1-dimensional line yet having a fractal dimension indication it also resembles a surface",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/geometry/fractals",
       "fx": 395.1425253378379,
       "fy": 258.3121983590735,
       "category": "mindmap"
@@ -68,7 +68,7 @@
     {
       "text": "pi  ️",
       "note": "is a mathematical constant   it is the ratio of a circle’s circumference to its diameter, commonly approximated as 3.14159  being an irrational number, π cannot be expressed exactly as a fraction  fractions such as 22/7 and other rational numbers are commonly used to approximate π  the digits appear to be randomly distributed  the digit sequence of π is conjectured to satisfy a specific kind of statistical randomness, but to date no proof of this has been discovered  it is a transcendental number, i.e. a number that is not the root of any non-zero polynomial having rational coefficients   this transcendence of π implies that it is impossible to solve the ancient challenge of squaring the circle with a compass and straightedge",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/geometry/pi",
       "fx": -357.2238534954737,
       "fy": 291.8002255766337,
       "category": "mindmap"
@@ -83,28 +83,28 @@
     },
     {
       "text": "algebraic geometry  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/geometry/algebraic-geometry",
       "fx": 142.1514129638672,
       "fy": 309.91815185546875,
       "category": "mindmap"
     },
     {
       "text": "differential geometry  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/geometry/differential-geometry",
       "fx": -31.988183975219727,
       "fy": 376.0315856933594,
       "category": "mindmap"
     },
     {
       "text": "computational geometry  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/geometry/computational-geometry",
       "fx": -391.08203125,
       "fy": 407.6640625,
       "category": "mindmap"
     },
     {
       "text": "information geometry  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/mathematics/geometry/information-geometry",
       "fx": -146.34262255942258,
       "fy": 510.51200392614385,
       "category": "mindmap"

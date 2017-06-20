@@ -17,21 +17,21 @@
     },
     {
       "text": "debian  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/operating-systems/unix/linux/distributions/debian",
       "fx": -80.93588917525801,
       "fy": -237.55734536089432,
       "category": "mindmap"
     },
     {
       "text": "nixOS  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/operating-systems/unix/linux/distributions/nixos",
       "fx": 1702.6189880371094,
       "fy": -231.74641036987305,
       "category": "mindmap"
     },
     {
       "text": "arch  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/operating-systems/unix/linux/distributions/arch",
       "fx": 88.39133828182196,
       "fy": -231.6609813122575,
       "category": "mindmap"
@@ -69,7 +69,7 @@
     },
     {
       "text": "coreOS  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/operating-systems/unix/linux/distributions/coreos",
       "fx": 984.4948927356354,
       "fy": -228.8636787168441,
       "category": "mindmap"
@@ -113,7 +113,6 @@
     },
     {
       "text": "ubuntu  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
       "fx": -183.253970940199,
       "fy": -130.11458534608346,
       "category": "mindmap"

@@ -45,7 +45,7 @@
     },
     {
       "text": "CoreML  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/programming/programming-languages/swift/apple-frameworks/coreML",
       "fx": -429.1581481590058,
       "fy": -273.34475587769697,
       "category": "mindmap"
@@ -70,14 +70,14 @@
     },
     {
       "text": "Metal 2  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/computer-graphics/metal",
       "fx": -25.506264085111525,
       "fy": -271.1104885449511,
       "category": "mindmap"
     },
     {
       "text": "ARKit  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/programming/programming-languages/swift/apple-frameworks/arkit",
       "fx": -280.95410919189453,
       "fy": -269.4948921203613,
       "category": "mindmap"

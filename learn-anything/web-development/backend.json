@@ -10,14 +10,13 @@
     },
     {
       "text": "c#  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -1112.1970915514073,
       "fy": -873.7816524504269,
       "category": "mindmap"
     },
     {
       "text": "java  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/java",
       "fx": -1137.9885007022476,
       "fy": -792.7491221910112,
       "category": "mindmap"
@@ -31,21 +30,20 @@
     },
     {
       "text": "php  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/php",
       "fx": -1123.5374150706473,
       "fy": -692.1394810052024,
       "category": "mindmap"
     },
     {
       "text": "laravel  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": -959.9360365500816,
       "fy": -675.1213204799553,
       "category": "mindmap"
     },
     {
       "text": "go  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/go",
       "fx": -1748.7118469938616,
       "fy": -652.5840007675807,
       "category": "mindmap"
@@ -58,21 +56,21 @@
     },
     {
       "text": "ruby  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/ruby",
       "fx": -1626.1175698412874,
       "fy": -589.4823099016896,
       "category": "mindmap"
     },
     {
       "text": "node.js  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/backend/nodejs",
       "fx": -1451.7429739620836,
       "fy": -569.4477472516611,
       "category": "mindmap"
     },
     {
       "text": "python  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/python",
       "fx": -1153.2974649101423,
       "fy": -560.70618556701,
       "category": "mindmap"
@@ -85,7 +83,7 @@
     },
     {
       "text": "ruby on rails  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/ruby/ruby-on-rails",
       "fx": -1814.5085442818227,
       "fy": -486.5618869849413,
       "category": "mindmap"
@@ -99,7 +97,7 @@
     },
     {
       "text": "django  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/full-stack/django",
       "fx": -963.1403798117724,
       "fy": -442.20811936409063,
       "category": "mindmap"

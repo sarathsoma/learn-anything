@@ -17,7 +17,7 @@
     },
     {
       "text": "computer architectures  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-hardware/computer/computer-architecture",
       "fx": 38.38409566616167,
       "fy": 118.77145511158926,
       "category": "mindmap"
@@ -37,21 +37,21 @@
     },
     {
       "text": "CPU  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-hardware/computer/cpu",
       "fx": -350.6383321101682,
       "fy": 256.5166106132068,
       "category": "mindmap"
     },
     {
       "text": "GPU  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-hardware/computer/gpu",
       "fx": -202.99650955200195,
       "fy": 257.3299560546875,
       "category": "mindmap"
     },
     {
       "text": "computer memory  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-hardware/computer/computer-memory",
       "fx": -598.5281250000002,
       "fy": 258.70208333333323,
       "category": "mindmap"

@@ -10,7 +10,7 @@
     },
     {
       "text": "apache spark  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/data-science/data-processing/apache-spark",
       "fx": 163.68049337403033,
       "fy": -200.78542093454575,
       "category": "mindmap"
@@ -23,14 +23,14 @@
     },
     {
       "text": "MapReduce  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/data-science/data-processing/mapreduce",
       "fx": 301.5877386412617,
       "fy": -81.7757315771953,
       "category": "mindmap"
     },
     {
       "text": "apache hadoop  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/data-science/data-processing/apache-hadoop",
       "fx": 503.5570714966809,
       "fy": 3.887847122204448,
       "category": "mindmap"

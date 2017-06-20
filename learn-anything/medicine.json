@@ -24,21 +24,21 @@
     },
     {
       "text": "diseases  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/medicine/diseases",
       "fx": -251.68315596277682,
       "fy": 93.14072697724646,
       "category": "mindmap"
     },
     {
       "text": "neurology  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/medicine/neurology",
       "fx": -594.6828296779792,
       "fy": 95.44218198622957,
       "category": "mindmap"
     },
     {
       "text": "specialties  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/medicine/specialties",
       "fx": -86.6480248772906,
       "fy": 96.50529031742576,
       "category": "mindmap"

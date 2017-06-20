@@ -23,7 +23,7 @@
     },
     {
       "text": "zero-knowledge proofs  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/cryptography/zero-knowledge-proofs",
       "fx": -412.18652343749363,
       "fy": 333.08251953125443,
       "category": "mindmap"
@@ -31,7 +31,7 @@
     {
       "text": "encryption  ️",
       "note": "allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted",
-      "url": "/learn-anything/web-development.json",
+      "url": "/cryptography/encryption",
       "fx": -226.0142698126325,
       "fy": 424.4288619736494,
       "category": "mindmap"

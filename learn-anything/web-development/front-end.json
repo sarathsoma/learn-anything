@@ -28,49 +28,49 @@
     },
     {
       "text": "CSS  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/front-end/css",
       "fx": 2940.78171179767,
       "fy": -229.52542026493194,
       "category": "mindmap"
     },
     {
       "text": "javascript  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/javascript",
       "fx": 1048.0697604701413,
       "fy": -209.9765432440272,
       "category": "mindmap"
     },
     {
       "text": "CSS  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/front-end/css",
       "fx": -17.17239502431289,
       "fy": -199.71905051165749,
       "category": "mindmap"
     },
     {
       "text": "javascript  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/javascript",
       "fx": -177.7655401191248,
       "fy": -195.57934103900124,
       "category": "mindmap"
     },
     {
       "text": "html  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/front-end/html",
       "fx": -292.38885020823614,
       "fy": -194.55967245989967,
       "category": "mindmap"
     },
     {
       "text": "CSS  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/front-end/css",
       "fx": 4313.664877674064,
       "fy": -158.67629248798278,
       "category": "mindmap"
     },
     {
       "text": "javascript  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages/javascript",
       "fx": 4988.076138316152,
       "fy": -156.98013316151184,
       "category": "mindmap"
@@ -84,7 +84,7 @@
     },
     {
       "text": "web components  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/front-end/web-components",
       "fx": 5157.955252250666,
       "fy": -155.55377827184412,
       "category": "mindmap"
@@ -103,7 +103,7 @@
     },
     {
       "text": "typescript  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/programming/programming-languages",
       "fx": 2276.727739081332,
       "fy": -104.48834400100412,
       "category": "mindmap"
@@ -142,7 +142,7 @@
     },
     {
       "text": "jQuery  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/jquery",
       "fx": -167.5576004941239,
       "fy": -98.67735042735046,
       "category": "mindmap"
@@ -186,7 +186,7 @@
     },
     {
       "text": "D3.js  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/d3js",
       "fx": 4768.50899109809,
       "fy": -52.18811605417977,
       "category": "mindmap"
@@ -231,14 +231,14 @@
     },
     {
       "text": "react  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/react",
       "fx": 867.9060211181641,
       "fy": 7.609451770782471,
       "category": "mindmap"
     },
     {
       "text": "vue.js  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries-/vuejs",
       "fx": 987.5360565185547,
       "fy": 8.46037244796753,
       "category": "mindmap"
@@ -264,7 +264,6 @@
     },
     {
       "text": "angular  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
       "fx": 726.2185363769531,
       "fy": 10.953551292419434,
       "category": "mindmap"
@@ -285,14 +284,14 @@
     },
     {
       "text": "ember js  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/emberjs",
       "fx": 1384.7193908691406,
       "fy": 13.613372802734375,
       "category": "mindmap"
     },
     {
       "text": "Sass  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/front-end/css/sass",
       "fx": 2669.5989554268976,
       "fy": 14.713529450552869,
       "category": "mindmap"
@@ -311,14 +310,14 @@
     },
     {
       "text": "jest  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/jest",
       "fx": 1537.8212890625,
       "fy": 16.804381370544434,
       "category": "mindmap"
     },
     {
       "text": "webpack  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/webpack",
       "fx": 1870.9437437766337,
       "fy": 16.874492829719202,
       "category": "mindmap"
@@ -337,7 +336,7 @@
     },
     {
       "text": "bootstrap  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/front-end/bootstrap",
       "fx": 3300.199959047379,
       "fy": 17.76018622613708,
       "category": "mindmap"
@@ -405,7 +404,7 @@
     },
     {
       "text": "redux  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/javascript-libraries/redux",
       "fx": 938.1005732548585,
       "fy": 121.28967126623525,
       "category": "mindmap"

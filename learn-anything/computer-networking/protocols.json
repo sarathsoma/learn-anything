@@ -11,7 +11,7 @@
     },
     {
       "text": "tcp/ip  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-networking/protocols/tcp-ip",
       "fx": -275.75141358196515,
       "fy": -251.1240740395537,
       "category": "mindmap"
@@ -25,42 +25,42 @@
     },
     {
       "text": "http  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-networking/protocols/http",
       "fx": -143.80126236431056,
       "fy": -246.05196556188173,
       "category": "mindmap"
     },
     {
       "text": "ssh  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-networking/protocols/ssh",
       "fx": 73.49513966584004,
       "fy": -244.93049422965555,
       "category": "mindmap"
     },
     {
       "text": "WebSocket  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-networking/protocols/websocket",
       "fx": 187.46099853515625,
       "fy": -241.7728287562851,
       "category": "mindmap"
     },
     {
       "text": "WebRTC  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-networking/protocols/webrtc",
       "fx": 481.04422030734577,
       "fy": -236.1245527480229,
       "category": "mindmap"
     },
     {
       "text": "ipfs  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-networking/protocols/ipfs",
       "fx": 368.3736798625348,
       "fy": -234.94944515701172,
       "category": "mindmap"
     },
     {
       "text": "TLS  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/computer-networking/protocols/tls",
       "fx": 642.2351627291534,
       "fy": -232.39274720827893,
       "category": "mindmap"

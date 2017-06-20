@@ -23,7 +23,7 @@
     },
     {
       "text": "drugs  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/chemistry/drugs",
       "fx": -564.6911926269531,
       "fy": -2.83516788482666,
       "category": "mindmap"
@@ -31,21 +31,21 @@
     {
       "text": "molecular symmetry  ️",
       "note": "describes the symmetry present in molecules and the classification of molecules according to their symmetry  it is a fundamental concept in chemistry, as it can predict or explain many of a molecule's chemical properties, such as its dipole moment and its allowed spectroscopic transitions (based on selection rules such as the Laporte rule)  various frameworks for the study of molecular symmetry exist, group theory is the predominant one",
-      "url": "/learn-anything/web-development.json",
+      "url": "/chemistry/molecular-symmetry",
       "fx": -1391.9566345214844,
       "fy": -2.346555233001709,
       "category": "mindmap"
     },
     {
       "text": "biochemistry  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/chemistry/biochemistry",
       "fx": -437.58287048339844,
       "fy": -1.3115801811218262,
       "category": "mindmap"
     },
     {
       "text": "electrochemistry  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/chemistry/electrochemistry",
       "fx": -1615.0060230446927,
       "fy": -0.3536138268193554,
       "category": "mindmap"
@@ -53,7 +53,7 @@
     {
       "text": "quantum chemistry  ️",
       "note": "focuses on the application of quantum mechanics in physical models and experiments of chemical systems",
-      "url": "/learn-anything/web-development.json",
+      "url": "/chemistry/quantum-chemistry",
       "fx": -1108.8742980957031,
       "fy": -0.17800235748291016,
       "category": "mindmap"
@@ -61,14 +61,14 @@
     {
       "text": "chemical elements  ️",
       "note": " there are 118 elements that have been identified, of which 94 occur naturally on Earth with the remaining 24 being synthetic elements  there are 80 elements that have at least one stable isotope and 38 that have exclusively radioactive isotopes, which decay over time into other elements  chemical elements constitute all of the ordinary matter of the universe  however astronomical observations suggest that ordinary observable matter makes up only about 15% of the matter in the universe  the remainder is dark matter (composition of this is unknown, but it is not composed of chemical elements)",
-      "url": "/learn-anything/web-development.json",
+      "url": "/chemistry/chemical-elements",
       "fx": -833.7865142822266,
       "fy": -0.10661029815673828,
       "category": "mindmap"
     },
     {
       "text": "organic chemistry  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/chemistry/organic-chemistry",
       "fx": -247.4729118347168,
       "fy": 1.9662890434265137,
       "category": "mindmap"

@@ -11,77 +11,73 @@
     },
     {
       "text": "MQTT  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -417.0270577428644,
       "fy": -251.6650412463972,
       "category": "mindmap"
     },
     {
       "text": "tcp/ip  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/network-science/computer-networking/protocols/tcp-ip",
       "fx": -274.75141358196515,
       "fy": -251.1240740395537,
       "category": "mindmap"
     },
     {
       "text": "irc  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -30.393035652223716,
       "fy": -250.0376739817217,
       "category": "mindmap"
     },
     {
       "text": "BitTorrent  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": -595.7239141949153,
       "fy": -249.34383275953388,
       "category": "mindmap"
     },
     {
       "text": "http  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/network-science/computer-networking/protocols/http",
       "fx": -142.80126236431056,
       "fy": -246.05196556188173,
       "category": "mindmap"
     },
     {
       "text": "ssh  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/network-science/computer-networking/protocols/ssh",
       "fx": 74.49513966584004,
       "fy": -244.93049422965555,
       "category": "mindmap"
     },
     {
       "text": "WebSocket  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/network-science/computer-networking/protocols/websocket",
       "fx": 181.525634765625,
       "fy": -241.7728271484375,
       "category": "mindmap"
     },
     {
       "text": "IPFS  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/network-science/computer-networking/protocols/ipfs",
       "fx": 361.64825439453125,
       "fy": -240.02977752685547,
       "category": "mindmap"
     },
     {
       "text": "WebRTC  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/network-science/computer-networking/protocols/webrtc",
       "fx": 479.7574234008789,
       "fy": -236.1245574951172,
       "category": "mindmap"
     },
     {
       "text": "AMQP  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 757.1203078772205,
       "fy": -232.66193602070996,
       "category": "mindmap"
     },
     {
       "text": "TLS  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/network-science/computer-networking/protocols/tls",
       "fx": 637.8561096191406,
       "fy": -232.39275360107422,
       "category": "mindmap"

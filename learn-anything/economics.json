@@ -23,21 +23,21 @@
     },
     {
       "text": "trading  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/trading",
       "fx": -478.14044443375155,
       "fy": -250.50950982280722,
       "category": "mindmap"
     },
     {
       "text": "macroeconomics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/macroeconomics",
       "fx": 235.54940795898438,
       "fy": -249.23212432861328,
       "category": "mindmap"
     },
     {
       "text": "economic systems  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/economic-systems",
       "fx": -760.8909874037703,
       "fy": -248.81665299299254,
       "category": "mindmap"
@@ -51,14 +51,14 @@
     },
     {
       "text": "microeconomics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/microeconomics-",
       "fx": 11.442358016967773,
       "fy": -247.70105743408203,
       "category": "mindmap"
     },
     {
       "text": "mathematical finance  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/mathematical-finance",
       "fx": -1032.3165654388713,
       "fy": -245.68093652037658,
       "category": "mindmap"
@@ -66,49 +66,49 @@
     {
       "text": "business  ️",
       "note": "organisational entity involved in providing goods or services to customers",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/business",
       "fx": -310.8922702302482,
       "fy": -245.2669325832486,
       "category": "mindmap"
     },
     {
       "text": "accounting  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/accounting",
       "fx": -1217.2993936459297,
       "fy": -244.08035456174537,
       "category": "mindmap"
     },
     {
       "text": "basic income  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/basic-income",
       "fx": -1420.5957772974764,
       "fy": -241.7073175698688,
       "category": "mindmap"
     },
     {
       "text": "econometrics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/econometrics",
       "fx": -1629.102417408251,
       "fy": -240.55089899410848,
       "category": "mindmap"
     },
     {
       "text": "behavioural economics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/behavioural-economics",
       "fx": -1920.628710045659,
       "fy": -238.83247716895107,
       "category": "mindmap"
     },
     {
       "text": "investing  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/investing",
       "fx": -292.2645066891862,
       "fy": -107.39317885347373,
       "category": "mindmap"
     },
     {
       "text": "personal finance  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/economics/personal-finance",
       "fx": -132.98630712365582,
       "fy": -105.29763868522912,
       "category": "mindmap"

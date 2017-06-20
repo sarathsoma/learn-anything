@@ -11,21 +11,21 @@
     {
       "text": "pytorch  ️",
       "note": "tensors and dynamic neural networks in python with strong GPU acceleration",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/machine-learning/machine-learning-libraries/pytorch",
       "fx": -44.51439666748047,
       "fy": -243.2207908630371,
       "category": "mindmap"
     },
     {
       "text": "torch  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/machine-learning/machine-learning-libraries/torch",
       "fx": 124.58058166503906,
       "fy": -242.64648818969727,
       "category": "mindmap"
     },
     {
       "text": "scikit-learn  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/machine-learning/machine-learning-libraries/scikit-learn",
       "fx": 246.69708251953125,
       "fy": -241.13748931884766,
       "category": "mindmap"
@@ -39,7 +39,7 @@
     },
     {
       "text": "tensorflow  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/machine-learning/machine-learning-libraries/tensorflow",
       "fx": -213.57716369628906,
       "fy": -240.63387298583984,
       "category": "mindmap"
@@ -47,7 +47,7 @@
     {
       "text": "caffe  ️",
       "note": "deep learning framework made with expression, speed and modularity in mind  has  expressive architecture extensible code speed community",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/machine-learning/machine-learning-libraries/caffe",
       "fx": -710.3664148326699,
       "fy": -240.26694963743893,
       "category": "mindmap"
@@ -75,7 +75,7 @@
     },
     {
       "text": "MXNet  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/machine-learning/machine-learning-libraries/mxnet",
       "fx": -1271.7506205546772,
       "fy": -234.65124032419618,
       "category": "mindmap"
@@ -89,7 +89,7 @@
     },
     {
       "text": "keras  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/machine-learning/machine-learning-libraries/keras",
       "fx": -281.8561435669892,
       "fy": -135.22972034483928,
       "category": "mindmap"

@@ -31,21 +31,21 @@
     {
       "text": "vector graphics  ️",
       "note": "is the use of polygons to represent images  are based on vectors, which lead through locations called control points or nodes  each of these points has a definite position on the x- and y- axes of the work place and determines the direction of the path   further, each path may be assigned various attributes, including such values as stroke colour, shape, curve, thickness and fill",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/vector-graphics",
       "fx": -772.9533774678146,
       "fy": 250.60901191139408,
       "category": "mindmap"
     },
     {
       "text": "bezier curves  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/bezier-curves",
       "fx": -155.75328922271729,
       "fy": 250.97695922851562,
       "category": "mindmap"
     },
     {
       "text": "3d modelling  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/3d-modelling",
       "fx": 39.37655258178711,
       "fy": 251.25039672851562,
       "category": "mindmap"
@@ -53,42 +53,42 @@
     {
       "text": "rendering  ️",
       "note": "is the process of generating an image from a 2D or 3D model (or models in what collectively could be called a scene file) by means of computer programs  the results of such a model can be called a rendering  a scene file contains objects in a strictly defined language or data structure (it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene)  the data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/rendering",
       "fx": -341.8591537475586,
       "fy": 252.6568374633789,
       "category": "mindmap"
     },
     {
       "text": "digital video  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/digital-video",
       "fx": -964.9060363769531,
       "fy": 253.64232635498047,
       "category": "mindmap"
     },
     {
       "text": "volume rendering  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/volume-rendering",
       "fx": -1196.0320129394531,
       "fy": 253.74662017822266,
       "category": "mindmap"
     },
     {
       "text": "polygon mesh  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/polygon-mesh",
       "fx": -1399.1218566894531,
       "fy": 255.05864715576172,
       "category": "mindmap"
     },
     {
       "text": "image processing  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/image-processing",
       "fx": -1634.2044982910156,
       "fy": 257.6860580444336,
       "category": "mindmap"
     },
     {
       "text": "shaders  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/shaders",
       "fx": -1780.5367692786067,
       "fy": 258.54003420398055,
       "category": "mindmap"
@@ -96,7 +96,7 @@
     {
       "text": "metal  ️",
       "note": "is a low-level, low-overhead hardware-accelerated graphics and compute application interface that debuted in iOS 8",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/metal",
       "fx": -761.5887884797351,
       "fy": 357.41504614591145,
       "category": "mindmap"
@@ -104,7 +104,7 @@
     {
       "text": "vulkan  ️",
       "note": "is a low-overhead, cross-platform 3D graphics and compute API first announced in 2015  it targets high-performance realtime 3D graphics applications such as video games and interactive media across all platforms, and can offer higher performance and more balanced CPU/GPU usage",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/vulkan",
       "fx": -610.4711608886719,
       "fy": 359.65386962890625,
       "category": "mindmap"
@@ -112,14 +112,14 @@
     {
       "text": "openGL  ️",
       "note": "is a cross-language, cross platform API for rendering 2D and 3D vector graphics  it is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/opengl",
       "fx": -302.3610818704469,
       "fy": 360.1861647717211,
       "category": "mindmap"
     },
     {
       "text": "webGL  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-graphics/webgl",
       "fx": -443.1862233479818,
       "fy": 360.37297821044945,
       "category": "mindmap"

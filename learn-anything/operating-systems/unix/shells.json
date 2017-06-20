@@ -17,21 +17,21 @@
     },
     {
       "text": "fish  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/operating-systems/unix/shells/fish",
       "fx": 54.980510017331994,
       "fy": 48.662206063766064,
       "category": "mindmap"
     },
     {
       "text": "bash  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/operating-systems/unix/shells/bash",
       "fx": -75.10585762090716,
       "fy": 49.06161249658021,
       "category": "mindmap"
     },
     {
       "text": "zsh  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/operating-systems/unix/shells/zsh",
       "fx": -189.74618915059216,
       "fy": 51.88914515895328,
       "category": "mindmap"

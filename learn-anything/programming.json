@@ -36,42 +36,42 @@
     {
       "text": "programming interview preparation  ️",
       "note": "how to prepare for a programming interview most effectively",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/programming-interview-preparation",
       "fx": 564.0695495605469,
       "fy": 378.06565856933594,
       "category": "mindmap"
     },
     {
       "text": "version control  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/version-control",
       "fx": 1064.4052243528158,
       "fy": 393.76409567814767,
       "category": "mindmap"
     },
     {
       "text": "reverse engineering  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/reverse-engineering",
       "fx": -297.57569943798853,
       "fy": 393.81414180550485,
       "category": "mindmap"
     },
     {
       "text": "software development  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/software-development",
       "fx": 288.9475860595703,
       "fy": 395.1107177734375,
       "category": "mindmap"
     },
     {
       "text": "practice  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/practice",
       "fx": 881.7109375,
       "fy": 396.9375,
       "category": "mindmap"
     },
     {
       "text": "programming paradigms  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/programming-paradigms",
       "fx": -631.4392375944032,
       "fy": 397.7997018342644,
       "category": "mindmap"
@@ -79,56 +79,56 @@
     {
       "text": "programming languages  ️",
       "note": "are formal computer languages designed to communicate instructions to a machine, particularly a computer  they can be used to create programs to control the behaviour of a machine or to express algorithms   the description of a programming language is split into two components of syntax (form) and semantics (meaning)  some languages are defined by a specification document (for example C being specified by an ISO standard) while other languages (like Perl) have a dominant implementation that is treated as a reference  some languages have both",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/programming-languages",
       "fx": -39.198066499281595,
       "fy": 398.93771378815643,
       "category": "mindmap"
     },
     {
       "text": "query languages  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/query-languages",
       "fx": -871.0227567624222,
       "fy": 403.2705816913981,
       "category": "mindmap"
     },
     {
       "text": "design patterns  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/design-patterns",
       "fx": -1096.862480957675,
       "fy": 403.30009709253864,
       "category": "mindmap"
     },
     {
       "text": "dynamic programming  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/dynamic-programming",
       "fx": -1481.7055917749285,
       "fy": 405.78929750566454,
       "category": "mindmap"
     },
     {
       "text": "API  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/api",
       "fx": -1204.3439217032965,
       "fy": 406.6817479395604,
       "category": "mindmap"
     },
     {
       "text": "programming language design  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/programming-language-design",
       "fx": -54.258946309846124,
       "fy": 506.95995304136227,
       "category": "mindmap"
     },
     {
       "text": "programming mastery  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/programming-mastery",
       "fx": 687.0116300225309,
       "fy": 541.5261961944997,
       "category": "mindmap"
     },
     {
       "text": "competitive programming  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/programming/competitive-programming",
       "fx": 980.7647672050441,
       "fy": 542.4538880493562,
       "category": "mindmap"

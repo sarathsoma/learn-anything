@@ -23,7 +23,7 @@
     },
     {
       "text": "hugo  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/static-site-generators/hugo",
       "fx": -324.7534361489285,
       "fy": -75.11292244060382,
       "category": "mindmap"
@@ -37,7 +37,7 @@
     },
     {
       "text": "jekyll  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/static-site-generators/jekyll",
       "fx": -173.88148206602602,
       "fy": -74.32266507998429,
       "category": "mindmap"

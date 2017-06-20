@@ -23,14 +23,14 @@
     },
     {
       "text": "software-defined networking  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/network-science/computer-networking/software-defined-networking",
       "fx": -85.05657427651545,
       "fy": 183.37897872924805,
       "category": "mindmap"
     },
     {
       "text": "protocols  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/network-science/computer-networking/protocols",
       "fx": -250.96206665039062,
       "fy": 185.40719604492188,
       "category": "mindmap"
@@ -38,21 +38,21 @@
     {
       "text": "internet of things  ️",
       "note": "is the inter-networking of physical devices, vehicles (also referred to as \"connected devices\" and \"smart devices\"), buildings, and other items—embedded with electronics, software, sensors, actuators, and network connectivity that enable these objects to collect and exchange data",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/network-science/computer-networking/internet-of-things",
       "fx": 249.89517161885237,
       "fy": 185.97150358606575,
       "category": "mindmap"
     },
     {
       "text": "peer to peer  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/network-science/computer-networking/peer-to-peer",
       "fx": -438.0813908811476,
       "fy": 187.53400358606575,
       "category": "mindmap"
     },
     {
       "text": "internet  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/network-science/computer-networking/internet",
       "fx": -583.0809025998925,
       "fy": 190.5794137423038,
       "category": "mindmap"

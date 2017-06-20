@@ -24,7 +24,7 @@
     },
     {
       "text": "PostgreSQL  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/databases/relational-databases/postgresql",
       "fx": -266.12664902001086,
       "fy": -20.601066355119656,
       "category": "mindmap"
@@ -38,7 +38,7 @@
     },
     {
       "text": "MySQL  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/databases/relational-databases/mysql",
       "fx": 73.60255325049695,
       "fy": -17.439788584123562,
       "category": "mindmap"

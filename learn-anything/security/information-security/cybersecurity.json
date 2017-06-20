@@ -37,14 +37,13 @@
     {
       "text": "malware  ️",
       "note": "short for malicious software  is a kind of software that can be installed on a computer without approval from the computer’s owner",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
       "fx": 36.51585719498269,
       "fy": -23.164560640926766,
       "category": "mindmap"
     },
     {
       "text": "distributed denial of service  ️",
-      "url": "/learn-anything/web-development/web-design/web-accessibility.json",
+      "url": "/security/information-security/cybersecurity/ddos",
       "fx": -380.16035104986884,
       "fy": 93.32283464566922,
       "category": "mindmap"

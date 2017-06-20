@@ -23,28 +23,28 @@
     },
     {
       "text": "botany  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/botany",
       "fx": -1357.790366113396,
       "fy": 247.01888709361526,
       "category": "mindmap"
     },
     {
       "text": "computational biology  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/computational-biology",
       "fx": -1639.8091824680903,
       "fy": 248.70301761168366,
       "category": "mindmap"
     },
     {
       "text": "genetics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/genetics",
       "fx": -193.71339225769043,
       "fy": 250.04178619384766,
       "category": "mindmap"
     },
     {
       "text": "physiology  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/physiology",
       "fx": -1199.4658324688794,
       "fy": 250.07099325728655,
       "category": "mindmap"
@@ -52,63 +52,61 @@
     {
       "text": "abiogenesis  ️",
       "note": "how life came to be from just chemistry",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/abiogenesis",
       "fx": -42.62024688720703,
       "fy": 251.27873992919922,
       "category": "mindmap"
     },
     {
       "text": "ecology  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/ecology",
       "fx": -1008.6614583333333,
       "fy": 251.5295138888889,
       "category": "mindmap"
     },
     {
       "text": "bioinformatics  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/bioinformatics",
       "fx": -394.83669662475586,
       "fy": 252.87469482421875,
       "category": "mindmap"
     },
     {
       "text": "immunology  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/immunology",
       "fx": -1835.6416967200096,
       "fy": 253.22319022739646,
       "category": "mindmap"
     },
     {
       "text": "anatomy  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/anatomy",
       "fx": -841.8911290615536,
       "fy": 253.71481105411522,
       "category": "mindmap"
     },
     {
       "text": "astrobiology  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": -2024.7691978663452,
       "fy": 254.74537037035327,
       "category": "mindmap"
     },
     {
       "text": "human development  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/human-development",
       "fx": -657.6057169631739,
       "fy": 254.78125,
       "category": "mindmap"
     },
     {
       "text": "organisms  ️",
-      "url": "/learn-anything/web-development.json",
       "fx": 166.40821641156504,
       "fy": 255.37344990079373,
       "category": "mindmap"
     },
     {
       "text": "evolution  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/biology/evolution",
       "fx": -22.207409175377165,
       "fy": 358.28421808832695,
       "category": "mindmap"

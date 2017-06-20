@@ -29,28 +29,28 @@
     },
     {
       "text": "OpenCV  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-vision/opencv",
       "fx": -86.77255020361724,
       "fy": 196.3644583100628,
       "category": "mindmap"
     },
     {
       "text": "augmented reality  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-vision/augmented-reality",
       "fx": -342.85706313775484,
       "fy": 196.59220875850383,
       "category": "mindmap"
     },
     {
       "text": "facial recognition  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-vision/facial-recognition",
       "fx": 82.74309876042173,
       "fy": 197.25914956644408,
       "category": "mindmap"
     },
     {
       "text": "optical character recognition  ️",
-      "url": "/learn-anything/web-development.json",
+      "url": "/computer-vision/optical-character-recognition",
       "fx": -687.1627983229696,
       "fy": 197.72616508695717,
       "category": "mindmap"

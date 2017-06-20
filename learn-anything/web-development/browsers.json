@@ -17,14 +17,14 @@
     },
     {
       "text": "safari  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/browsers/safari",
       "fx": -256.5461874166565,
       "fy": -69.69237795869185,
       "category": "mindmap"
     },
     {
       "text": "google chrome  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/browsers/chrome",
       "fx": -133.6728210607605,
       "fy": -68.69768134156539,
       "category": "mindmap"
@@ -79,7 +79,7 @@
     },
     {
       "text": "Chrome V8  ️",
-      "url": "/learn-anything/web-development/web-scraping.json",
+      "url": "/web-development/browsers/v8",
       "fx": 43.189177458709196,
       "fy": 57.59433065876408,
       "category": "mindmap"

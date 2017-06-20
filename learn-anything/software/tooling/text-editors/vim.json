@@ -29,7 +29,7 @@
     },
     {
       "text": "vim plugins  ️",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/software/tooling/text-editors/vim/plugins",
       "fx": -214.62179434564973,
       "fy": 551.7896757435811,
       "category": "mindmap"
@@ -43,7 +43,7 @@
     {
       "text": "viml  ️",
       "note": "the programming language created to extend vim",
-      "url": "/learn-anything/web-development/front-end/css/styled-components.json",
+      "url": "/software/tooling/text-editors/vim/viml",
       "fx": 12.613867083098057,
       "fy": 628.4002028385447,
       "category": "mindmap"
