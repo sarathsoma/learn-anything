@@ -1,0 +1,136 @@
+{
+  "title": "learn anything - medicine",
+  "nodes": [
+    {
+      "text": "medicine",
+      "url": "http://www.wikiwand.com/en/Medicine",
+      "fx": -150.61558493589746,
+      "fy": -287.1708096590909,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -142.4828025904585,
+      "fy": -106.06570711169945
+    },
+    {
+      "text": "pathology",
+      "url": "http://www.wikiwand.com/en/Pathology",
+      "fx": -427.1908456959709,
+      "fy": 90.47733154874061,
+      "category": "wiki"
+    },
+    {
+      "text": "diseases  ️",
+      "url": "/medicine/diseases",
+      "fx": -251.68315596277682,
+      "fy": 93.14072697724646,
+      "category": "mindmap"
+    },
+    {
+      "text": "neurology  ️",
+      "url": "/medicine/neurology",
+      "fx": -594.6828296779792,
+      "fy": 95.44218198622957,
+      "category": "mindmap"
+    },
+    {
+      "text": "specialties  ️",
+      "url": "/medicine/specialties",
+      "fx": -86.6480248772906,
+      "fy": 96.50529031742576,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/medicine/",
+      "fx": 58.38441506410254,
+      "fy": -273.1708096590909,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "medicine"
+    },
+    {
+      "text": "1. khan academy health and medicine",
+      "url": "https://www.khanacademy.org/science/health-and-medicine",
+      "fx": 39.517197409541495,
+      "fy": -209.56570711169945,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. the emperor of all maladies: a biography of cancer",
+      "url": "https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies",
+      "fx": 39.517197409541495,
+      "fy": -147.56570711169945,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. mountains beyond mountains: the quest of dr. paul farmer, a man who would cure the world",
+      "url": "https://www.goodreads.com/book/show/10235.Mountains_Beyond_Mountains",
+      "fx": 39.517197409541495,
+      "fy": -86.06170930896508,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. complications: a surgeon's notes on an imperfect science",
+      "url": "https://www.goodreads.com/book/show/4477.Complications",
+      "fx": 39.517197409541495,
+      "fy": -1.565707111699453,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "basics",
+      "target": "pathology",
+      "curve": {
+        "x": -140.604,
+        "y": 98.2715
+      }
+    },
+    {
+      "source": "medicine",
+      "target": "basics",
+      "curve": {
+        "x": -2.68356,
+        "y": 89.3025
+      }
+    },
+    {
+      "source": "basics",
+      "target": "diseases  ️",
+      "curve": {
+        "x": -55.85,
+        "y": 99.6033
+      }
+    },
+    {
+      "source": "basics",
+      "target": "specialties  ️",
+      "curve": {
+        "x": 30.4174,
+        "y": 101.286
+      }
+    },
+    {
+      "source": "basics",
+      "target": "neurology  ️",
+      "curve": {
+        "x": -263.32,
+        "y": 90.0608
+      }
+    }
+  ]
+}

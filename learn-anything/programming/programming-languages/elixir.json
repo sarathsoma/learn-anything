@@ -1,0 +1,246 @@
+{
+  "title": "learn anything - programming - programming languages - elixir",
+  "nodes": [
+    {
+      "text": "elixir",
+      "url": "http://www.wikiwand.com/en/Elixir_(programming_language)",
+      "fx": 31.22403681884373,
+      "fy": -617.8362237962624,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 170.42494912874872,
+      "fy": -425.43124190138843
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 355.9268449133597,
+      "fy": -185.72207385673647
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -76.56323731363034,
+      "fy": -85.38277075858264
+    },
+    {
+      "text": "blogs",
+      "url": "",
+      "fx": 463.69350724305696,
+      "fy": -77.72557230720474
+    },
+    {
+      "text": "package manager",
+      "url": "https://hex.pm/",
+      "fx": -325.6751871893624,
+      "fy": 26.0379470561503
+    },
+    {
+      "text": "frameworks",
+      "url": "",
+      "fx": -68.223428236166,
+      "fy": 59.483016304347984
+    },
+    {
+      "text": "phoenix  ️",
+      "fx": -68.72274116847848,
+      "fy": 160.85865319293498,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "official site",
+      "url": "https://elixir-lang.org/",
+      "fx": 198.22403681884373,
+      "fy": -600.8362237962626,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "elixir"
+    },
+    {
+      "text": "awesome elixir",
+      "url": "https://github.com/h4cc/awesome-elixir",
+      "fx": 307.4249491287487,
+      "fy": -564.9312419013884,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elixir dose",
+      "url": "http://elixirdose.com/",
+      "fx": 307.4249491287487,
+      "fy": -524.9312419013884,
+      "category": "newsletter",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elixir weekly",
+      "url": "https://elixirweekly.net/",
+      "fx": 307.4249491287487,
+      "fy": -484.9312419013884,
+      "category": "newsletter",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "daily drip",
+      "url": "https://www.dailydrip.com/topics/elixir",
+      "fx": 307.4249491287487,
+      "fy": -444.9312419013884,
+      "category": "newsletter",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elixir books",
+      "url": "https://github.com/sger/ElixirBooks",
+      "fx": 307.4249491287487,
+      "fy": -404.9312419013884,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elixir jobs",
+      "url": "http://jobs.elixirdose.com/",
+      "fx": 307.4249491287487,
+      "fy": -364.9312419013884,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elixir forum",
+      "url": "https://elixirforum.com/",
+      "fx": 307.4249491287487,
+      "fy": -330.9312419013884,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elixir",
+      "url": "https://www.reddit.com/r/elixir/",
+      "fx": 307.4249491287487,
+      "fy": -296.9312419013884,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elixir libhunt",
+      "url": "https://elixir.libhunt.com/",
+      "fx": 307.4249491287487,
+      "fy": -256.9312419013884,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "elixre",
+      "note": "regular expression editor &amp; tester",
+      "url": "http://www.elixre.uk/",
+      "fx": 497.9268449133597,
+      "fy": -171.22207385673647,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. developing with elixir",
+      "url": "https://pragmaticstudio.com/elixir",
+      "fx": 105.43676268636966,
+      "fy": -113.88277075858264,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. elixir school",
+      "url": "http://elixirschool.com/",
+      "fx": 105.43676268636966,
+      "fy": -73.88277075858264,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. elixir koans",
+      "url": "https://github.com/elixirkoans/elixir-koans",
+      "fx": 105.43676268636966,
+      "fy": -33.88277075858264,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "elixir  ️",
+      "url": "http://michal.muskala.eu/tag/elixir.html",
+      "fx": 611.693507243057,
+      "fy": -66.22557230720474,
+      "category": "blog",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "blogs"
+    }
+  ],
+  "connections": [
+    {
+      "source": "elixir",
+      "target": "basics",
+      "curve": {
+        "x": -56.6436,
+        "y": 264.977
+      }
+    },
+    {
+      "source": "help",
+      "target": "elixir",
+      "curve": {
+        "x": -62.1005,
+        "y": -94.9526
+      }
+    },
+    {
+      "source": "basics",
+      "target": "package manager",
+      "curve": {
+        "x": -104.556,
+        "y": 55.7103
+      }
+    },
+    {
+      "source": "basics",
+      "target": "frameworks",
+      "curve": {
+        "x": 9.66992,
+        "y": 72.4329
+      }
+    },
+    {
+      "source": "frameworks",
+      "target": "phoenix  ️",
+      "curve": {
+        "x": -8.74966,
+        "y": 50.6878
+      }
+    },
+    {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -148.349,
+        "y": -76.628
+      }
+    },
+    {
+      "source": "blogs",
+      "target": "tools",
+      "curve": {
+        "x": -55.3833,
+        "y": -53.9983
+      }
+    }
+  ]
+}

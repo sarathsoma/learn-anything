@@ -1,0 +1,41 @@
+{
+  "title": "learn anything - biology - genetics - dna",
+  "nodes": [
+    {
+      "text": "DNA",
+      "url": "http://www.wikiwand.com/en/DNA",
+      "fx": -186.81950431034488,
+      "fy": -249.98376885775866,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -181.5175107758621,
+      "fy": -122.25963092672424
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "6-letter DNA",
+      "note": "DNA = fundamental code containing just 4 nucleic acid bases  1. adenine 2. thymine 3. guanine 4. cytosine",
+      "url": "https://www.youtube.com/watch?v=Xp9HEp4cYzM",
+      "fx": 0.4824892241379075,
+      "fy": -110.75963092672424,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "DNA",
+      "target": "basics",
+      "curve": {
+        "x": -0.849003,
+        "y": 62.6121
+      }
+    }
+  ]
+}

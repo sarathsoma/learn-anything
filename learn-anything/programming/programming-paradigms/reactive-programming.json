@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - programming - programming paradigms - reactive programming",
+  "nodes": [
+    {
+      "text": "reactive programming",
+      "url": "http://www.wikiwand.com/en/Reactive_programming",
+      "fx": -263.3828125,
+      "fy": -148.04296875,
+      "category": "wiki"
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": -65.55639192085005,
+      "fy": -37.90016089990513
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -186.52119006849318,
+      "fy": 88.70012842465758
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "17: reactive programming from scratch",
+      "url": "https://www.youtube.com/watch?v=sEQiMCiMgpc&amp;t=270s",
+      "fx": 74.44360807914995,
+      "fy": -37.40016089990513,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "1. what is reactive programming",
+      "url": "https://www.youtube.com/watch?v=7D9QfMj_KwI",
+      "fx": -4.521190068493183,
+      "fy": 100.20012842465758,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "talks",
+      "target": "reactive programming",
+      "curve": {
+        "x": -52.9132,
+        "y": -53.8214
+      }
+    },
+    {
+      "source": "reactive programming",
+      "target": "basics",
+      "curve": {
+        "x": -3.56919,
+        "y": 117.122
+      }
+    }
+  ]
+}

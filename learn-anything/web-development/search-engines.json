@@ -1,0 +1,93 @@
+{
+  "title": "learn anything - web development - search engines",
+  "nodes": [
+    {
+      "text": "web search engine",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Web_search_engine",
+      "fx": -120.44421487603313,
+      "fy": -2,
+      "category": "wiki"
+    },
+    {
+      "text": "Elasticsearch  ️",
+      "url": "/web-development/search-engines/elasticsearch",
+      "fx": -315.1875494449447,
+      "fy": 104.84389436127594,
+      "category": "mindmap"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 90.33485367642027,
+      "fy": 130.1657264303676
+    },
+    {
+      "text": "sphinx",
+      "url": "http://sphinxsearch.com/",
+      "fx": -163.02871456852677,
+      "fy": 194.94473746970817
+    },
+    {
+      "text": "Solr  ️",
+      "url": "/web-development/search-engines/solr",
+      "fx": -25.914003708221685,
+      "fy": 228.17857108817793,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "the anatomy of a large-scale hypertextual web search engine  ️",
+      "url": "http://infolab.stanford.edu/~backrub/google.html",
+      "fx": 227.33485367642027,
+      "fy": 110.66572643036761,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "search engine optimisation",
+      "url": "https://github.com/marcobiedermann/search-engine-optimization",
+      "fx": 227.33485367642027,
+      "fy": 172.6657264303676,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "web search engine",
+      "curve": {
+        "x": -65.1395,
+        "y": -64.8329
+      }
+    },
+    {
+      "source": "web search engine",
+      "target": "Elasticsearch  ️",
+      "curve": {
+        "x": -117.621,
+        "y": 52.1717
+      }
+    },
+    {
+      "source": "web search engine",
+      "target": "sphinx",
+      "curve": {
+        "x": -63.0423,
+        "y": 97.222
+      }
+    },
+    {
+      "source": "web search engine",
+      "target": "Solr  ️",
+      "curve": {
+        "x": -0.984887,
+        "y": 113.84
+      }
+    }
+  ]
+}

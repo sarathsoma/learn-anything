@@ -1,0 +1,205 @@
+{
+  "title": "learn anything - operating systems - android",
+  "nodes": [
+    {
+      "text": "android",
+      "note": " ",
+      "url": "http://www.wikiwand.com/en/Android_(operating_system)",
+      "fx": -37.75331176882207,
+      "fy": -284.7145616282587,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 194.5994286744491,
+      "fy": -99.46669317328411
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -46.694779956279035,
+      "fy": 328.5157697213127
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Android/",
+      "fx": 183.24668823117793,
+      "fy": -290.7145616282587,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "android"
+    },
+    {
+      "text": "️",
+      "url": "https://android.stackexchange.com/",
+      "fx": 183.24668823117793,
+      "fy": -250.7145616282587,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "android"
+    },
+    {
+      "text": "ultimate android reference",
+      "url": "https://github.com/aritraroy/UltimateAndroidReference",
+      "fx": 331.5994286744491,
+      "fy": -275.9666931732841,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome android",
+      "url": "https://github.com/JStumpp/awesome-android",
+      "fx": 331.5994286744491,
+      "fy": -235.9666931732841,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome android awesomeness",
+      "url": "https://github.com/yongjhih/awesome-android-awesomeness",
+      "fx": 331.5994286744491,
+      "fy": -195.9666931732841,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome android UI",
+      "url": "https://github.com/wasabeef/awesome-android-ui",
+      "fx": 331.5994286744491,
+      "fy": -133.9666931732841,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "android development tutorials",
+      "url": "http://www.vogella.com/tutorials/android.html",
+      "fx": 331.5994286744491,
+      "fy": -93.96669317328411,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "android security awesome",
+      "note": "collection of android security related resources",
+      "url": "https://github.com/ashishb/android-security-awesome",
+      "fx": 331.5994286744491,
+      "fy": -59.96669317328411,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome android tools",
+      "url": "https://github.com/wasabeef/awesome-android-tools",
+      "fx": 331.5994286744491,
+      "fy": -19.966693173284114,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome android learner",
+      "url": "https://github.com/MakinGiants/awesome-android-learner",
+      "fx": 331.5994286744491,
+      "fy": 20.033306826715886,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "android tips and tricks",
+      "url": "https://github.com/nisrulz/android-tips-tricks",
+      "fx": 331.5994286744491,
+      "fy": 60.03330682671589,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "useful links for android devs",
+      "url": "https://github.com/anirudh24seven/android-dev-readme",
+      "fx": 331.5994286744491,
+      "fy": 100.03330682671589,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. official getting started guide",
+      "url": "https://developer.android.com/training/index.html",
+      "fx": 109.30522004372096,
+      "fy": 191.01576972131272,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. getting started with android development",
+      "url": "http://www.vogella.com/tutorials/Android/article.html",
+      "fx": 109.30522004372096,
+      "fy": 225.01576972131272,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. android development for beginners by Google",
+      "url": "https://www.udacity.com/course/android-development-for-beginners--ud837",
+      "fx": 109.30522004372096,
+      "fy": 281.0157697213127,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. android basics: multiscreen apps by Google",
+      "url": "https://www.udacity.com/course/android-basics-multiscreen-apps--ud839",
+      "fx": 109.30522004372096,
+      "fy": 343.0157697213127,
+      "category": "",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. developing android apps by Google",
+      "url": "https://www.udacity.com/course/developing-android-apps--ud853",
+      "fx": 109.30522004372096,
+      "fy": 405.0157697213127,
+      "category": "",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. advanced android app development by Google",
+      "url": "https://www.udacity.com/course/advanced-android-app-development--ud855",
+      "fx": 109.30522004372096,
+      "fy": 467.0157697213127,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "android",
+      "curve": {
+        "x": -101.676,
+        "y": -91.3741
+      }
+    },
+    {
+      "source": "android",
+      "target": "basics",
+      "curve": {
+        "x": -20.7207,
+        "y": 305.365
+      }
+    }
+  ]
+}

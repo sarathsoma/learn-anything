@@ -1,0 +1,45 @@
+{
+  "title": "learn anything - computer graphics - 3d modelling",
+  "nodes": [
+    {
+      "text": "3d modelling",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/3D_modeling",
+      "fx": -95.73046875,
+      "fy": -337.18359375,
+      "category": "wiki"
+    },
+    {
+      "text": "software",
+      "url": "",
+      "fx": -117.61457060044074,
+      "fy": -211.65438033873778
+    },
+    {
+      "text": "blender  ️",
+      "url": "/computer-graphics/3d-modelling/blender",
+      "fx": -128.59863794855335,
+      "fy": -96.88598715540843,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "3d modelling",
+      "target": "software",
+      "curve": {
+        "x": -27.9421,
+        "y": 61.5146
+      }
+    },
+    {
+      "source": "software",
+      "target": "blender  ️",
+      "curve": {
+        "x": -7.99203,
+        "y": 57.3842
+      }
+    }
+  ]
+}

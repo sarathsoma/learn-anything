@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - geometry - tensors",
+  "nodes": [
+    {
+      "text": "tensor",
+      "url": "http://www.wikiwand.com/en/Tensor",
+      "fx": -59.5,
+      "fy": -163.84765625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -45.37109375,
+      "fy": -19.421875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what’s a tensor?",
+      "url": "https://www.youtube.com/watch?v=f5liqUk0ZTw",
+      "fx": 110.62890625,
+      "fy": -7.921875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "tensor",
+      "target": "basics",
+      "curve": {
+        "x": 0.0644531,
+        "y": 70.9629
+      }
+    }
+  ]
+}

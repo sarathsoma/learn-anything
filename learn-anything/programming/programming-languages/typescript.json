@@ -1,0 +1,121 @@
+{
+  "title": "learn anything - programming - programming languages - typescript",
+  "nodes": [
+    {
+      "text": "typescript",
+      "url": "http://www.wikiwand.com/en/TypeScript",
+      "fx": -92.08984375,
+      "fy": -348.46484375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 3.9256324768066406,
+      "fy": -226.43302607536316
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 68.28001917044253,
+      "fy": -85.27023218229317
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -83.13448715209961,
+      "fy": 36.33427058466225
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/Microsoft/TypeScript",
+      "fx": 123.91015625,
+      "fy": -334.46484375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "typescript"
+    },
+    {
+      "text": "awesome typescript",
+      "url": "https://github.com/dzharii/awesome-typescript",
+      "fx": 140.92563247680664,
+      "fy": -265.93302607536316,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome typescript projects",
+      "url": "https://github.com/brookshi/awesome-typescript-projects",
+      "fx": 140.92563247680664,
+      "fy": -225.93302607536316,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "high quality TypeScript type definitions",
+      "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+      "fx": 140.92563247680664,
+      "fy": -185.93302607536316,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: typescript in slack  ️",
+      "url": "https://slack.engineering/typescript-at-slack-a81307fa288d",
+      "fx": 230.28001917044253,
+      "fy": -73.77023218229317,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. typescript deep dive",
+      "url": "https://basarat.gitbooks.io/typescript/",
+      "fx": 98.86551284790039,
+      "fy": 30.83427058466225,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. typescript quick start",
+      "url": "https://www.typescriptlang.org/docs/tutorial.html",
+      "fx": 98.86551284790039,
+      "fy": 70.83427058466225,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "typescript",
+      "curve": {
+        "x": -35.5077,
+        "y": -61.0159
+      }
+    },
+    {
+      "source": "typescript",
+      "target": "basics",
+      "curve": {
+        "x": -3.27231,
+        "y": 192.4
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -38.4272,
+        "y": -70.5814
+      }
+    }
+  ]
+}

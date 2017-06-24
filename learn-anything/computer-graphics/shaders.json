@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - computer graphics - shaders",
+  "nodes": [
+    {
+      "text": "shaders",
+      "url": "http://www.wikiwand.com/en/Shader",
+      "fx": -72.89866401255131,
+      "fy": -156.55907440185547,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -52.16389238834381,
+      "fy": -19.918127059936523
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to OpenGL shaders",
+      "url": "https://www.youtube.com/watch?v=j_h3GdMtO0M",
+      "fx": 103.83610761165619,
+      "fy": -8.418127059936523,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "shaders",
+      "target": "basics",
+      "curve": {
+        "x": 6.86739,
+        "y": 68.3205
+      }
+    }
+  ]
+}

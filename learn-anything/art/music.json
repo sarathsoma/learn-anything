@@ -1,0 +1,256 @@
+{
+  "title": "learn anything - art - music",
+  "nodes": [
+    {
+      "text": "music",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Music",
+      "fx": -93.83140546588515,
+      "fy": -295.98767431480405,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 22.274261834100685,
+      "fy": -161.73951970571449
+    },
+    {
+      "text": "music theory  ️",
+      "url": "/art/music/music-theory",
+      "fx": -113.74770021645008,
+      "fy": -57.73538961038969,
+      "category": "mindmap"
+    },
+    {
+      "text": "music genres  ️",
+      "url": "/art/music/music-genres",
+      "fx": -561.267697596498,
+      "fy": 28.145370509033683,
+      "category": "mindmap"
+    },
+    {
+      "text": "instruments",
+      "url": "http://www.wikiwand.com/en/List_of_musical_instruments",
+      "fx": -299.0797121732369,
+      "fy": 70.1164229407317,
+      "category": "wiki"
+    },
+    {
+      "text": "live coding music",
+      "note": "write code and generate music",
+      "url": "http://www.wikiwand.com/en/Live_coding",
+      "fx": -76.16385459899902,
+      "fy": 102.01253509521484
+    },
+    {
+      "text": "new music  ️",
+      "url": "/art/music/new-music",
+      "fx": 386.2301022597253,
+      "fy": 102.1124365346111,
+      "category": "mindmap"
+    },
+    {
+      "text": "music production  ️",
+      "url": "/art/music/music-production",
+      "fx": 151.95805027173878,
+      "fy": 102.61257359601439,
+      "category": "mindmap"
+    },
+    {
+      "text": "song writing  ️",
+      "url": "/art/music/song-writing",
+      "fx": 558.5060950312427,
+      "fy": 104.2408388107956,
+      "category": "mindmap"
+    },
+    {
+      "text": "drums  ️",
+      "url": "/art/music/drums",
+      "fx": -543.806872351695,
+      "fy": 151.63665254237287,
+      "category": "mindmap"
+    },
+    {
+      "text": "sonic PI  ️",
+      "url": "/art/music/sonic-pi",
+      "fx": -36.268930186665216,
+      "fy": 200.60323576966823,
+      "category": "mindmap"
+    },
+    {
+      "text": "guitar  ️",
+      "url": "/art/music/guitar",
+      "fx": -192.54793648485963,
+      "fy": 224.2556920244681,
+      "category": "mindmap"
+    },
+    {
+      "text": "ukulele  ️",
+      "url": "/art/music/ukulele",
+      "fx": -478.3358089999041,
+      "fy": 243.26227683810748,
+      "category": "mindmap"
+    },
+    {
+      "text": "piano  ️",
+      "url": "/art/music/piano",
+      "fx": -326.3782014101131,
+      "fy": 252.40576846903753,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://music.stackexchange.com/",
+      "fx": 113.16859453411485,
+      "fy": -281.98767431480405,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "music"
+    },
+    {
+      "text": "awesome music",
+      "url": "https://github.com/ciconia/awesome-music",
+      "fx": 159.27426183410068,
+      "fy": -210.23951970571449,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome audio visualisation",
+      "url": "https://github.com/willianjusten/awesome-audio-visualization",
+      "fx": 159.27426183410068,
+      "fy": -170.23951970571449,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "point blank music school",
+      "url": "https://www.youtube.com/user/pointblankonline/videos",
+      "fx": 159.27426183410068,
+      "fy": -130.23951970571449,
+      "category": "youtube",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "find your music",
+      "url": "https://github.com/richard512/findyourmusic",
+      "fx": 159.27426183410068,
+      "fy": -90.23951970571449,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "music",
+      "curve": {
+        "x": -47.0529,
+        "y": -65.8741
+      }
+    },
+    {
+      "source": "live coding music",
+      "target": "sonic PI  ️",
+      "curve": {
+        "x": -1.05258,
+        "y": 49.2953
+      }
+    },
+    {
+      "source": "instruments",
+      "target": "piano  ️",
+      "curve": {
+        "x": -27.6493,
+        "y": 91.1447
+      }
+    },
+    {
+      "source": "instruments",
+      "target": "guitar  ️",
+      "curve": {
+        "x": 39.5159,
+        "y": 77.0696
+      }
+    },
+    {
+      "source": "instruments",
+      "target": "ukulele  ️",
+      "curve": {
+        "x": -107.628,
+        "y": 85.323
+      }
+    },
+    {
+      "source": "music",
+      "target": "music theory  ️",
+      "curve": {
+        "x": -1.70815,
+        "y": 117.876
+      }
+    },
+    {
+      "source": "music theory  ️",
+      "target": "instruments",
+      "curve": {
+        "x": -95.166,
+        "y": 63.9259
+      }
+    },
+    {
+      "source": "music theory  ️",
+      "target": "live coding music",
+      "curve": {
+        "x": 28.0419,
+        "y": 78.624
+      }
+    },
+    {
+      "source": "music theory  ️",
+      "target": "new music  ️",
+      "curve": {
+        "x": 283.719,
+        "y": 73.795
+      }
+    },
+    {
+      "source": "instruments",
+      "target": "drums  ️",
+      "curve": {
+        "x": -141.614,
+        "y": 39.5101
+      }
+    },
+    {
+      "source": "music theory  ️",
+      "target": "music production  ️",
+      "curve": {
+        "x": 175.796,
+        "y": 80.46
+      }
+    },
+    {
+      "source": "music theory  ️",
+      "target": "music genres  ️",
+      "curve": {
+        "x": -256.883,
+        "y": 13.6756
+      }
+    },
+    {
+      "source": "music theory  ️",
+      "target": "song writing  ️",
+      "curve": {
+        "x": 461.127,
+        "y": 81.0714
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - linear algebra - vectors - dot product",
+  "nodes": [
+    {
+      "text": "dot product",
+      "url": "http://www.wikiwand.com/en/Dot_product",
+      "fx": -4.8359375,
+      "fy": -114.7578125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 32.015625,
+      "fy": 22.1328125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. intro to dot product",
+      "url": "http://immersivemath.com/ila/ch03_dotproduct/ch03.html",
+      "fx": 188.015625,
+      "fy": 33.6328125,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "dot product",
+      "target": "basics",
+      "curve": {
+        "x": -1.07422,
+        "y": 67.1953
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "learn anything - art - animation",
+  "nodes": [
+    {
+      "text": "animation",
+      "url": "http://www.wikiwand.com/en/Animation",
+      "fx": -51.53260869565213,
+      "fy": -312.2094089673913,
+      "category": "wiki"
+    },
+    {
+      "text": "inspiring",
+      "url": "",
+      "fx": 308.4536386010244,
+      "fy": -191.8058476884928
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -173.23533821105957,
+      "fy": -119.0023078918457
+    },
+    {
+      "text": "motion graphics  ️",
+      "url": "/art/animation/motion-graphics",
+      "fx": -412.1361607142855,
+      "fy": -12.703125,
+      "category": "mindmap"
+    },
+    {
+      "text": "blender  ️",
+      "url": "/computer-graphics/3d-modelling/blender",
+      "fx": -162.321594082699,
+      "fy": 35.59531566295482,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "double king",
+      "url": "https://www.youtube.com/watch?v=w_MSFkZHNi4",
+      "fx": 481.4536386010244,
+      "fy": -300.3058476884928,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "DDWIWDD",
+      "url": "https://www.youtube.com/watch?v=TuJqUvBj4rE",
+      "fx": 481.4536386010244,
+      "fy": -260.3058476884928,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "rone - bye bye macadam",
+      "url": "https://www.youtube.com/watch?v=kfoJUeyMsOE",
+      "fx": 481.4536386010244,
+      "fy": -220.3058476884928,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "love &amp; theft",
+      "url": "https://www.youtube.com/watch?v=rEUxlwb2uFI",
+      "fx": 481.4536386010244,
+      "fy": -180.3058476884928,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "raw data",
+      "url": "https://www.youtube.com/watch?v=B5hi-IKUX7M",
+      "fx": 481.4536386010244,
+      "fy": -140.3058476884928,
+      "category": "video",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "Lebensader",
+      "url": "https://www.youtube.com/watch?v=CjO-uwzo8BA",
+      "fx": 481.4536386010244,
+      "fy": -100.3058476884928,
+      "category": "video",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "ring of fire",
+      "url": "https://www.youtube.com/watch?v=mSHEd-2ut3I",
+      "fx": 481.4536386010244,
+      "fy": -60.305847688492804,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "inspiring"
+    },
+    {
+      "text": "1. the animator’s survival kit",
+      "url": "http://www.goodreads.com/book/show/136091.The_Animator_s_Survival_Kit",
+      "fx": -17.23533821105957,
+      "fy": -138.5023078918457,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. khan academy animation by Pixar",
+      "url": "https://www.khanacademy.org/partner-content/pixar",
+      "fx": -17.23533821105957,
+      "fy": -98.5023078918457,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "animation",
+      "target": "basics",
+      "curve": {
+        "x": -75.6014,
+        "y": 95.3539
+      }
+    },
+    {
+      "source": "basics",
+      "target": "blender  ️",
+      "curve": {
+        "x": 7.95688,
+        "y": 77.2988
+      }
+    },
+    {
+      "source": "inspiring",
+      "target": "animation",
+      "curve": {
+        "x": -169.493,
+        "y": -58.9518
+      }
+    },
+    {
+      "source": "basics",
+      "target": "motion graphics  ️",
+      "curve": {
+        "x": -97.4504,
+        "y": 53.1496
+      }
+    }
+  ]
+}

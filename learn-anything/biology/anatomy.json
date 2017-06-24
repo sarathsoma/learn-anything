@@ -1,0 +1,67 @@
+{
+  "title": "learn anything - biology - anatomy",
+  "nodes": [
+    {
+      "text": "anatomy",
+      "url": "http://www.wikiwand.com/en/Anatomy",
+      "fx": 90.2571301855894,
+      "fy": -104.39001091703051,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 95.83598867358091,
+      "fy": 52.587523881004415
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Anatomy/",
+      "fx": 296.2571301855894,
+      "fy": -90.39001091703051,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "anatomy"
+    },
+    {
+      "text": "1. khan academy human anatomy and physiology",
+      "url": "https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology",
+      "fx": 277.8359886735809,
+      "fy": -8.912476118995585,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to anatomy &amp; physiology",
+      "url": "https://www.youtube.com/watch?v=uBGl2BujkPQ",
+      "fx": 277.8359886735809,
+      "fy": 53.087523881004415,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. crash course anatomy &amp; physiology",
+      "url": "https://www.youtube.com/watch?v=uBGl2BujkPQ&amp;list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8",
+      "fx": 277.8359886735809,
+      "fy": 115.08752388100442,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "anatomy",
+      "target": "basics",
+      "curve": {
+        "x": -9.71057,
+        "y": 77.2387
+      }
+    }
+  ]
+}

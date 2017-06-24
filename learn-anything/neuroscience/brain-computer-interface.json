@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - neuroscience - brain computer interface",
+  "nodes": [
+    {
+      "text": "brain computer interface",
+      "url": "http://www.wikiwand.com/en/Brain%E2%80%93computer_interface",
+      "fx": -164.48772321428567,
+      "fy": -346.34486607142856,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -108.34207589285711,
+      "fy": -191.5675223214286
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. neuralink and the brain’s magical future  ️",
+      "url": "http://waitbutwhy.com/2017/04/neuralink.html",
+      "fx": 73.65792410714289,
+      "fy": -191.0675223214286,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "brain computer interface",
+      "target": "basics",
+      "curve": {
+        "x": -16.1772,
+        "y": 77.3888
+      }
+    }
+  ]
+}

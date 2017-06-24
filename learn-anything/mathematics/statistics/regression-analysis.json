@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - mathematics - statistics - regression analysis",
+  "nodes": [
+    {
+      "text": "regression analysis",
+      "url": "http://www.wikiwand.com/en/Regression_analysis",
+      "fx": -115.49609375,
+      "fy": -294.4453125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -60.489044061667414,
+      "fy": -128.53758445945948
+    },
+    {
+      "text": "linear regression  ️",
+      "url": "/mathematics/statistics/regression-analysis/linear-regression",
+      "fx": -211.8312142054009,
+      "fy": 10.67025867597647,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to linear regression analysis",
+      "url": "https://www.youtube.com/watch?v=zPG4NjIkCjc",
+      "fx": 95.51095593833259,
+      "fy": -128.03758445945948,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "regression analysis",
+      "target": "basics",
+      "curve": {
+        "x": -7.74648,
+        "y": 81.7039
+      }
+    },
+    {
+      "source": "basics",
+      "target": "linear regression  ️",
+      "curve": {
+        "x": -46.1711,
+        "y": 70.8539
+      }
+    }
+  ]
+}

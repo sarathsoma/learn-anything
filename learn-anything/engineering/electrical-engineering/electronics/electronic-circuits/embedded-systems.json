@@ -1,0 +1,94 @@
+{
+  "title": "learn anything - engineering - electrical engineering - electronics - electronic circuits - embedded systems",
+  "nodes": [
+    {
+      "text": "embedded systems",
+      "url": "http://www.wikiwand.com/en/Embedded_system",
+      "fx": -121.5,
+      "fy": -417.0625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 54.73828125,
+      "fy": -299.1640625
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 115.67826080322266,
+      "fy": -196.439697265625
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -50.35528641939163,
+      "fy": -93.53282928466797
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome embedded systems",
+      "url": "https://github.com/embedded-boston/awesome-embedded-systems",
+      "fx": 191.73828125,
+      "fy": -287.6640625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "hacking the pic 18f1320  ️",
+      "url": "http://www.bunniestudios.com/blog/?page_id=40",
+      "fx": 277.67826080322266,
+      "fy": -215.939697265625,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: how to pick a microcontroller (for beginners)  ️",
+      "url": "http://www.sureshjoshi.com/embedded/how-to-pick-a-microcontroller/",
+      "fx": 277.67826080322266,
+      "fy": -175.939697265625,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. low-level programmer university",
+      "url": "https://github.com/gurugio/lowlevelprogramming-university",
+      "fx": 131.64471358060837,
+      "fy": -79.03282928466797,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "embedded systems",
+      "target": "basics",
+      "curve": {
+        "x": -1.92764,
+        "y": 160.515
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -36.72,
+        "y": -51.3622
+      }
+    },
+    {
+      "source": "help",
+      "target": "embedded systems",
+      "curve": {
+        "x": -45.8691,
+        "y": -57.6992
+      }
+    }
+  ]
+}

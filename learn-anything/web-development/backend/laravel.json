@@ -1,0 +1,97 @@
+{
+  "title": "learn anything - web development - backend - laravel",
+  "nodes": [
+    {
+      "text": "laravel",
+      "url": "https://github.com/laravel/laravel",
+      "fx": -39.38671875,
+      "fy": -253.83984375,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 72.56008493257264,
+      "fy": -149.27838109439836
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -33.871272043568524,
+      "fy": -4.473628760373458
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome laravel",
+      "url": "https://github.com/chiraggude/awesome-laravel",
+      "fx": 209.56008493257264,
+      "fy": -194.77838109439836,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "laravel cheat sheet",
+      "url": "https://github.com/summerblue/laravel5-cheatsheet",
+      "fx": 209.56008493257264,
+      "fy": -154.77838109439836,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "larachat slack",
+      "url": "https://larachat.slack.com/",
+      "fx": 209.56008493257264,
+      "fy": -114.77838109439836,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "laravel videos",
+      "url": "https://laracasts.com/search?q=laravel",
+      "fx": 209.56008493257264,
+      "fy": -74.77838109439836,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. installation",
+      "url": "https://laravel.com/docs/5.4",
+      "fx": 148.12872795643148,
+      "fy": -9.973628760373458,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. laravel 5 fundamentals",
+      "url": "https://laracasts.com/series/laravel-5-fundamentals",
+      "fx": 148.12872795643148,
+      "fy": 24.026371239626542,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "laravel",
+      "curve": {
+        "x": -44.2234,
+        "y": -51.0307
+      }
+    },
+    {
+      "source": "laravel",
+      "target": "basics",
+      "curve": {
+        "x": -4.24227,
+        "y": 123.433
+      }
+    }
+  ]
+}

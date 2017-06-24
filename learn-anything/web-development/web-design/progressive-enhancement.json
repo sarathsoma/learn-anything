@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - web development - web design - progressive enhancement",
+  "nodes": [
+    {
+      "text": "progressive enhancement",
+      "url": "http://www.wikiwand.com/en/Progressive_enhancement",
+      "fx": -179.28905963897705,
+      "fy": -68.26193714141846,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 10.933131217956543,
+      "fy": 42.25707244873047
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -79.68359375,
+      "fy": 171.251953125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "resources",
+      "url": "https://github.com/jbmoelker/progressive-enhancement-resources",
+      "fx": 147.93313121795654,
+      "fy": 53.75707244873047,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. Jeremy Keith unprogressive enhancement",
+      "url": "https://www.youtube.com/watch?v=Uyw1m2t2RJw",
+      "fx": 76.31640625,
+      "fy": 140.751953125,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. modern progressive enhancement",
+      "url": "https://www.youtube.com/watch?v=EVEiIlJSx_Y",
+      "fx": 76.31640625,
+      "fy": 202.751953125,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "progressive enhancement",
+      "curve": {
+        "x": -39.3611,
+        "y": -54.0095
+      }
+    },
+    {
+      "source": "progressive enhancement",
+      "target": "basics",
+      "curve": {
+        "x": -1.19727,
+        "y": 118.507
+      }
+    }
+  ]
+}

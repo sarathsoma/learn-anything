@@ -1,0 +1,86 @@
+{
+  "title": "learn anything - cryptography - encryption",
+  "nodes": [
+    {
+      "text": "encryption",
+      "url": "http://www.wikiwand.com/en/Encryption",
+      "fx": -72.1015625,
+      "fy": -134.06640625,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 51.867006359110974,
+      "fy": -31.51057407869871
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -80.98889145353303,
+      "fy": 74.90349999310973
+    },
+    {
+      "text": "RSA  ️",
+      "url": "/cryptography/encryption/rsa",
+      "fx": -96.78279164140463,
+      "fy": 189.23178802865164,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "16: should all locks have keys?",
+      "url": "https://www.youtube.com/watch?v=VPBH1eW28mo",
+      "fx": 242.86700635911097,
+      "fy": -20.01057407869871,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. learn encryption",
+      "url": "https://learncryptography.com/encryption",
+      "fx": 101.01110854646697,
+      "fy": 69.40349999310973,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. modern cryptography",
+      "url": "https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/the-fundamental-theorem-of-arithmetic-1",
+      "fx": 101.01110854646697,
+      "fy": 103.40349999310973,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "encryption",
+      "target": "basics",
+      "curve": {
+        "x": -20.9437,
+        "y": 103.235
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "encryption",
+      "curve": {
+        "x": -54.2343,
+        "y": -50.0279
+      }
+    },
+    {
+      "source": "basics",
+      "target": "RSA  ️",
+      "curve": {
+        "x": -18.6469,
+        "y": 57.1641
+      }
+    }
+  ]
+}

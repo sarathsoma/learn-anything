@@ -1,0 +1,131 @@
+{
+  "title": "learn anything - security - information security - cybersecurity",
+  "nodes": [
+    {
+      "text": "cybersecurity",
+      "url": "http://www.wikiwand.com/en/Computer_security",
+      "fx": 47.62109375,
+      "fy": -444.4618419027094,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 190.23539391346844,
+      "fy": -329.9561031363679
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 73.581298828125,
+      "fy": -244.66389973958343
+    },
+    {
+      "text": "threats",
+      "url": "",
+      "fx": -18.938007161866153,
+      "fy": -139.4555438534922
+    },
+    {
+      "text": "cyberattacks",
+      "url": "http://www.wikiwand.com/en/Cyberattack",
+      "fx": -228.23122928686303,
+      "fy": -44.98174598134915,
+      "category": "wiki"
+    },
+    {
+      "text": "malware  ️",
+      "note": "short for malicious software  is a kind of software that can be installed on a computer without approval from the computer’s owner",
+      "fx": 36.51585719498269,
+      "fy": -23.164560640926766,
+      "category": "mindmap"
+    },
+    {
+      "text": "distributed denial of service  ️",
+      "url": "/security/information-security/cybersecurity/ddos",
+      "fx": -380.16035104986884,
+      "fy": 93.32283464566922,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/cybersecurity/",
+      "fx": 294.62109375,
+      "fy": -430.4618419027094,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "cybersecurity"
+    },
+    {
+      "text": "basic advice on computer security",
+      "url": "https://github.com/kristovatlas/how-to-security",
+      "fx": 327.23539391346844,
+      "fy": -318.4561031363679,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. cybersecurity 101",
+      "url": "https://www.youtube.com/watch?v=sdpxddDzXfE",
+      "fx": 255.581298828125,
+      "fy": -233.16389973958343,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "threats",
+      "target": "malware  ️",
+      "curve": {
+        "x": 31.2269,
+        "y": 58.1456
+      }
+    },
+    {
+      "source": "help",
+      "target": "cybersecurity",
+      "curve": {
+        "x": -33.0572,
+        "y": -56.0029
+      }
+    },
+    {
+      "source": "cybersecurity",
+      "target": "basics",
+      "curve": {
+        "x": -9.7699,
+        "y": 98.649
+      }
+    },
+    {
+      "source": "basics",
+      "target": "threats",
+      "curve": {
+        "x": -45.2597,
+        "y": 52.6042
+      }
+    },
+    {
+      "source": "threats",
+      "target": "cyberattacks",
+      "curve": {
+        "x": -91.1466,
+        "y": 47.2369
+      }
+    },
+    {
+      "source": "cyberattacks",
+      "target": "distributed denial of service  ️",
+      "curve": {
+        "x": -59.4646,
+        "y": 67.9023
+      }
+    }
+  ]
+}

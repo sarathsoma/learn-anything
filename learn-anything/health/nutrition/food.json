@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - health - nutrition - food",
+  "nodes": [
+    {
+      "text": "food",
+      "url": "http://www.wikiwand.com/en/Food",
+      "fx": -59.7421875,
+      "fy": -208.671875,
+      "category": "wiki"
+    },
+    {
+      "text": "cooking  ️",
+      "url": "/health/nutrition/food/cooking",
+      "fx": -148.46484375,
+      "fy": -71.671875,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/food/",
+      "fx": 108.2578125,
+      "fy": -194.671875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "food"
+    }
+  ],
+  "connections": [
+    {
+      "source": "food",
+      "target": "cooking  ️",
+      "curve": {
+        "x": -43.8613,
+        "y": 67.25
+      }
+    }
+  ]
+}

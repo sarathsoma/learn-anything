@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - type theory - dependent type theory",
+  "nodes": [
+    {
+      "text": "dependent type theory",
+      "url": "http://www.wikiwand.com/en/Dependent_type",
+      "fx": 168.89453125,
+      "fy": -206.48046875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 256.45703125,
+      "fy": -66.31640625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to dependent type theory",
+      "url": "https://www.youtube.com/watch?v=y-lX1mx5_i0&amp;list=PLt7hcIEdZLAnbUxKaG7XIynEWrozOBtXU",
+      "fx": 412.45703125,
+      "fy": -65.81640625,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "dependent type theory",
+      "target": "basics",
+      "curve": {
+        "x": -0.21875,
+        "y": 68.832
+      }
+    }
+  ]
+}

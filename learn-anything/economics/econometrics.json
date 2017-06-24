@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - economics - econometrics",
+  "nodes": [
+    {
+      "text": "econometrics",
+      "url": "http://www.wikiwand.com/en/Econometrics",
+      "fx": -28.50031852722168,
+      "fy": -37.30001175403595,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 17.984375,
+      "fy": 98.5
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. intro to econometrics",
+      "url": "https://www.youtube.com/watch?v=vEP4RIOKuE4",
+      "fx": 173.984375,
+      "fy": 110,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "econometrics",
+      "target": "basics",
+      "curve": {
+        "x": -0.257653,
+        "y": 66.65
+      }
+    }
+  ]
+}

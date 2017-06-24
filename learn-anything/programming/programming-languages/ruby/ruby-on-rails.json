@@ -1,0 +1,106 @@
+{
+  "title": "learn anything - programming - programming languages - ruby - ruby on rails",
+  "nodes": [
+    {
+      "text": "ruby on rails",
+      "url": "http://www.wikiwand.com/en/Ruby_on_Rails",
+      "fx": -97.42578125,
+      "fy": -187.703125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 34.7673891129034,
+      "fy": -75.98519405241927
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -66.9843425135457,
+      "fy": 49.84110561493907
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/rails/",
+      "fx": 139.57421875,
+      "fy": -193.703125,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "ruby on rails"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/rails/rails",
+      "fx": 139.57421875,
+      "fy": -153.703125,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "ruby on rails"
+    },
+    {
+      "text": "awesome rails",
+      "url": "https://github.com/ekremkaraca/awesome-rails",
+      "fx": 171.7673891129034,
+      "fy": -84.48519405241927,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome rails gems",
+      "url": "https://github.com/hothero/awesome-rails-gem",
+      "fx": 171.7673891129034,
+      "fy": -44.485194052419274,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. the odin project",
+      "url": "https://www.theodinproject.com/",
+      "fx": 115.0156574864543,
+      "fy": 27.341105614939067,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. get started with rails",
+      "url": "http://guides.rubyonrails.org/getting_started.html",
+      "fx": 115.0156574864543,
+      "fy": 61.34110561493907,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. ruby on rails tutorial",
+      "url": "https://www.railstutorial.org/",
+      "fx": 115.0156574864543,
+      "fy": 95.34110561493907,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "ruby on rails",
+      "curve": {
+        "x": -41.0966,
+        "y": -54.609
+      }
+    },
+    {
+      "source": "ruby on rails",
+      "target": "basics",
+      "curve": {
+        "x": -5.02928,
+        "y": 117.522
+      }
+    }
+  ]
+}

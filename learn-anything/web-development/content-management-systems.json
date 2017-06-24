@@ -1,0 +1,76 @@
+{
+  "title": "learn anything - web development - content management systems",
+  "nodes": [
+    {
+      "text": "content management system",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Content_management_system",
+      "fx": -178.62539720535267,
+      "fy": -68.07176971435541,
+      "category": "wiki"
+    },
+    {
+      "text": "wordpress  ️",
+      "url": "/web-development/content-management-systems/wordpress",
+      "fx": -235.40882189520198,
+      "fy": 67.32406651287641,
+      "category": "mindmap"
+    },
+    {
+      "text": "Drupal  ️",
+      "url": "/web-development/content-management-systems/drupal",
+      "fx": -46.083896061788096,
+      "fy": 67.65042213450192,
+      "category": "mindmap"
+    },
+    {
+      "text": "Joomla",
+      "url": "http://www.wikiwand.com/en/Joomla",
+      "fx": 98.85180660976789,
+      "fy": 68.47518457320871,
+      "category": "wiki"
+    },
+    {
+      "text": "TYPO3",
+      "url": "http://www.wikiwand.com/en/TYPO3",
+      "fx": 253.83689454199475,
+      "fy": 69.15486434264017,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "content management system",
+      "target": "wordpress  ️",
+      "curve": {
+        "x": -87.3918,
+        "y": 66.448
+      }
+    },
+    {
+      "source": "content management system",
+      "target": "Drupal  ️",
+      "curve": {
+        "x": -2.22926,
+        "y": 66.6111
+      }
+    },
+    {
+      "source": "content management system",
+      "target": "Joomla",
+      "curve": {
+        "x": 72.7386,
+        "y": 67.0235
+      }
+    },
+    {
+      "source": "content management system",
+      "target": "TYPO3",
+      "curve": {
+        "x": 195.072,
+        "y": 68.6133
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - design - design languages - material design",
+  "nodes": [
+    {
+      "text": "material design",
+      "url": "http://www.wikiwand.com/en/Material_Design",
+      "fx": -115.1796875,
+      "fy": -290.72265625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 29.23828125,
+      "fy": -184.7890625
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -64.61328125,
+      "fy": -61.3359375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "material components for the web",
+      "url": "https://github.com/material-components/material-components-web",
+      "fx": 166.23828125,
+      "fy": -204.2890625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome material",
+      "url": "https://github.com/sachin1092/awesome-material",
+      "fx": 166.23828125,
+      "fy": -142.2890625,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introduction",
+      "url": "https://material.io/guidelines/#",
+      "fx": 117.38671875,
+      "fy": -46.8359375,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "material design",
+      "curve": {
+        "x": -40.459,
+        "y": -51.7168
+      }
+    },
+    {
+      "source": "material design",
+      "target": "basics",
+      "curve": {
+        "x": -1.7168,
+        "y": 113.443
+      }
+    }
+  ]
+}

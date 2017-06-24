@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - mathematics - topology - differential topology",
+  "nodes": [
+    {
+      "text": "differential topology",
+      "url": "http://www.wikiwand.com/en/Differential_topology",
+      "fx": -123.671875,
+      "fy": -272.3203125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -64.38633817964603,
+      "fy": -118.29162154418287
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. differential topology lecture",
+      "url": "https://www.youtube.com/watch?v=1LwkljjLBns",
+      "fx": 117.61366182035397,
+      "fy": -137.79162154418287,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. topology from the differentiable viewpoint",
+      "url": "http://www.maths.ed.ac.uk/~aar/papers/milnortop.pdf",
+      "fx": 117.61366182035397,
+      "fy": -97.79162154418287,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "differential topology",
+      "target": "basics",
+      "curve": {
+        "x": -6.85723,
+        "y": 75.7643
+      }
+    }
+  ]
+}

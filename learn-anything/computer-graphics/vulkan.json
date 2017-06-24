@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - computer graphics - vulkan",
+  "nodes": [
+    {
+      "text": "vulkan",
+      "url": "http://www.wikiwand.com/en/Vulkan_(API)",
+      "fx": -55.6852964743573,
+      "fy": -477.46246722032225,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 25.47676282051293,
+      "fy": -352.0300480769228
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -45.824118589741374,
+      "fy": -236.22075320513784
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome vulkan",
+      "url": "https://github.com/vinjn/awesome-vulkan",
+      "fx": 162.47676282051293,
+      "fy": -360.5300480769228,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "vulkan resources",
+      "url": "https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/vulkan/resources.md",
+      "fx": 162.47676282051293,
+      "fy": -320.5300480769228,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. vulkan introduction",
+      "url": "https://vulkan-tutorial.com/",
+      "fx": 136.17588141025863,
+      "fy": -221.72075320513784,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "vulkan",
+      "curve": {
+        "x": -28.581,
+        "y": -61.4662
+      }
+    },
+    {
+      "source": "vulkan",
+      "target": "basics",
+      "curve": {
+        "x": -2.31941,
+        "y": 119.371
+      }
+    }
+  ]
+}

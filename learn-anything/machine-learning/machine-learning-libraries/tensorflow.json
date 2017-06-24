@@ -1,0 +1,222 @@
+{
+  "title": "learn anything - machine learning - machine learning libraries - tensorflow",
+  "nodes": [
+    {
+      "text": "tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "fx": -74.00390625,
+      "fy": -87.671875,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 67.13113291013087,
+      "fy": 40.73038127547056
+    },
+    {
+      "text": "implementations",
+      "url": "",
+      "fx": 112.01362753008289,
+      "fy": 243.6362766769069
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 524.4665772573444,
+      "fy": 384.27705112674937
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -93.00265921659252,
+      "fy": 453.19335258677484
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 632.2267262616774,
+      "fy": 553.7173606957737
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome tensorflow",
+      "url": "https://github.com/jtoy/awesome-tensorflow",
+      "fx": 204.13113291013087,
+      "fy": -49.76961872452944,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "recurrent neural networks - a short tensorflow tutorial",
+      "url": "https://github.com/silicon-valley-data-science/RNN-Tutorial",
+      "fx": 204.13113291013087,
+      "fy": -9.769618724529437,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "bare bone examples of machine learning in TensorFlow",
+      "url": "https://github.com/jostmey/NakedTensor",
+      "fx": 204.13113291013087,
+      "fy": 52.23038127547056,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "tensorflow resources",
+      "url": "https://github.com/skcript/tensorflow-resources",
+      "fx": 204.13113291013087,
+      "fy": 114.23038127547056,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "NakedTensor",
+      "note": "bare bottom simplest example of machine learning in tensorflow",
+      "url": "https://github.com/jostmey/NakedTensor",
+      "fx": 204.13113291013087,
+      "fy": 154.23038127547056,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "DeepSearch",
+      "url": "https://github.com/mozilla/DeepSpeech",
+      "fx": 359.0136275300829,
+      "fy": 215.1362766769069,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "implementations"
+    },
+    {
+      "text": "models built with TensorFlow",
+      "url": "https://github.com/tensorflow/models",
+      "fx": 359.0136275300829,
+      "fy": 255.1362766769069,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "implementations"
+    },
+    {
+      "text": "ebgan",
+      "url": "https://github.com/buriburisuri/ebgan",
+      "fx": 359.0136275300829,
+      "fy": 295.1362766769069,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "implementations"
+    },
+    {
+      "text": "15: generative adversarial nets in tensorflow  ️",
+      "url": "http://blog.evjang.com/2016/06/generative-adversarial-nets-in.html",
+      "fx": 686.4665772573444,
+      "fy": 311.77705112674937,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: understanding and implementing deepmind's DRAW model  ️",
+      "url": "http://blog.evjang.com/2016/06/understanding-and-implementing.html",
+      "fx": 686.4665772573444,
+      "fy": 373.77705112674937,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: adversarial exploration policies for robust model learning  ️",
+      "url": "http://blog.evjang.com/2016/06/adversarial-exploration-policies-for.html",
+      "fx": 686.4665772573444,
+      "fy": 457.77705112674937,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. get started with tensorflow",
+      "url": "https://www.tensorflow.org/get_started/get_started",
+      "fx": 88.99734078340748,
+      "fy": 405.69335258677484,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. tensorflow examples for beginners",
+      "url": "https://github.com/aymericdamien/TensorFlow-Examples",
+      "fx": 88.99734078340748,
+      "fy": 439.69335258677484,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. Tensorflow and deep learning - without a PhD by Martin Görner",
+      "url": "https://www.youtube.com/watch?v=vq2nnJ4g6N0",
+      "fx": 88.99734078340748,
+      "fy": 501.69335258677484,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "TensorBox",
+      "url": "https://github.com/TensorBox/TensorBox",
+      "fx": 823.2267262616774,
+      "fy": 565.2173606957737,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "tensorflow",
+      "curve": {
+        "x": -55.8175,
+        "y": -64.2011
+      }
+    },
+    {
+      "source": "tensorflow",
+      "target": "basics",
+      "curve": {
+        "x": -18.7494,
+        "y": 270.431
+      }
+    },
+    {
+      "source": "implementations",
+      "target": "help",
+      "curve": {
+        "x": -49.9412,
+        "y": -101.453
+      }
+    },
+    {
+      "source": "articles",
+      "target": "implementations",
+      "curve": {
+        "x": -198.457,
+        "y": -40.2281
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "articles",
+      "curve": {
+        "x": -61.1301,
+        "y": -84.7202
+      }
+    }
+  ]
+}

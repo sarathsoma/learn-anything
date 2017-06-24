@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - computer vision - facial recognition",
+  "nodes": [
+    {
+      "text": "facial recognition",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Facial_recognition_system",
+      "fx": -48.578125,
+      "fy": -129.1875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 118.80660053152451,
+      "fy": -16.811386292359202
+    },
+    {
+      "text": "OpenFace",
+      "url": "https://cmusatyalab.github.io/openface/",
+      "fx": -126.87113366991014,
+      "fy": 101.26368801654223
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "eigenfaces for recognition",
+      "url": "http://www.face-rec.org/algorithms/PCA/jcn.pdf",
+      "fx": 255.8066005315245,
+      "fy": -25.311386292359202,
+      "category": "paper",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "face recognition using eigenfaces",
+      "url": "http://www.cs.ucsb.edu/%7Emturk/Papers/mturk-CVPR91.pdf",
+      "fx": 255.8066005315245,
+      "fy": 14.688613707640798,
+      "category": "paper",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "usage",
+      "url": "https://cmusatyalab.github.io/openface/usage/",
+      "fx": 65.12886633008986,
+      "fy": 115.76368801654223,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "OpenFace"
+    }
+  ],
+  "connections": [
+    {
+      "source": "facial recognition",
+      "target": "OpenFace",
+      "curve": {
+        "x": -60.8965,
+        "y": 113.976
+      }
+    },
+    {
+      "source": "help",
+      "target": "facial recognition",
+      "curve": {
+        "x": -48.1924,
+        "y": -54.9381
+      }
+    }
+  ]
+}

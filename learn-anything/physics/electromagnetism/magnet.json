@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - physics - electromagnetism - magnet",
+  "nodes": [
+    {
+      "text": "magnet",
+      "url": "http://www.wikiwand.com/en/Magnet",
+      "fx": -1.500351905822754,
+      "fy": -37.30001175403595,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 123.40750915750914,
+      "fy": 65.41632326007601
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 18.140625,
+      "fy": 180.81640625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "magnets are cool",
+      "url": "http://i.imgur.com/KehYXiy.gifv",
+      "fx": 314.40750915750914,
+      "fy": 56.91632326007601,
+      "category": "image",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "magnets at work",
+      "url": "http://i.imgur.com/MKoDK.gif",
+      "fx": 314.40750915750914,
+      "fy": 96.91632326007601,
+      "category": "image",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. how do magnets work?",
+      "url": "https://www.youtube.com/watch?v=hFAOXdXZ5TM",
+      "fx": 174.140625,
+      "fy": 192.31640625,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "interesting",
+      "target": "magnet",
+      "curve": {
+        "x": -61.2039,
+        "y": -50.1082
+      }
+    },
+    {
+      "source": "magnet",
+      "target": "basics",
+      "curve": {
+        "x": -0.179512,
+        "y": 107.808
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - network science - computer networking - internet of things",
+  "nodes": [
+    {
+      "text": "internet of things",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Internet_of_things",
+      "fx": -170.10975958406925,
+      "fy": -429.2677364349365,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -50.75125456204387,
+      "fy": -312.31203993882013
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome IOT",
+      "url": "https://github.com/HQarroum/awesome-iot",
+      "fx": 86.24874543795613,
+      "fy": -320.81203993882013,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome IOT hybrid",
+      "url": "https://github.com/weblancaster/awesome-IoT-hybrid",
+      "fx": 86.24874543795613,
+      "fy": -280.81203993882013,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "internet of things",
+      "curve": {
+        "x": -31.6792,
+        "y": -58.4778
+      }
+    }
+  ]
+}

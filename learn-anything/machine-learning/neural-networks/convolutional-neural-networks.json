@@ -1,0 +1,105 @@
+{
+  "title": "learn anything - machine learning - neural networks - convolutional neural networks",
+  "nodes": [
+    {
+      "text": "convolutional neural networks",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Convolutional_neural_network",
+      "fx": 47.4570426940918,
+      "fy": -162.17669868469238,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 286.90625,
+      "fy": -21.9921875
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 371.94898986816406,
+      "fy": 93.62367248535156
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 170.36259522100897,
+      "fy": 207.37177700466577
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "cnn benchmarks",
+      "url": "https://github.com/jcjohnson/cnn-benchmarks",
+      "fx": 423.90625,
+      "fy": -41.4921875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "convolutional neural networks assignments",
+      "url": "https://github.com/MyHumbleSelf/cs231n",
+      "fx": 423.90625,
+      "fy": -1.4921875,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "picasso",
+      "note": "CNN visualiser",
+      "url": "https://github.com/merantix/picasso",
+      "fx": 513.9489898681641,
+      "fy": 105.12367248535156,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. a beginner's guide to understanding convolutional neural networks  ️",
+      "url": "https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/",
+      "fx": 326.362595221009,
+      "fy": 165.87177700466577,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. convolutional neural networks for visual recognition",
+      "url": "http://cs231n.github.io/convolutional-networks/",
+      "fx": 326.362595221009,
+      "fy": 248.87977261013452,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "convolutional neural networks",
+      "curve": {
+        "x": -60.9746,
+        "y": -62.5923
+      }
+    },
+    {
+      "source": "convolutional neural networks",
+      "target": "basics",
+      "curve": {
+        "x": 0.952779,
+        "y": 177.274
+      }
+    },
+    {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -43.7714,
+        "y": -57.808
+      }
+    }
+  ]
+}

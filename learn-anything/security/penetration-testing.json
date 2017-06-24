@@ -1,0 +1,105 @@
+{
+  "title": "learn anything - security - penetration testing",
+  "nodes": [
+    {
+      "text": "penetration testing",
+      "url": "http://www.wikiwand.com/en/Penetration_test",
+      "fx": -133.72265625,
+      "fy": -188.26171875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 23.16811466217041,
+      "fy": -72.85546684265137
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -66.18433415032666,
+      "fy": 23.110089869276408
+    },
+    {
+      "text": "capture the flag",
+      "note": "a computer security competition usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world",
+      "url": "http://www.wikiwand.com/en/Capture_the_flag#/Computer_security",
+      "fx": -170.4531712278108,
+      "fy": 164.00351331360764,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome pentest",
+      "url": "https://github.com/enaqx/awesome-pentest",
+      "fx": 160.1681146621704,
+      "fy": -81.35546684265137,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome hacking",
+      "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+      "fx": 160.1681146621704,
+      "fy": -41.35546684265137,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. how to prepare for pwk/oscp",
+      "url": "http://www.abatchy.com/search/label/OSCP%20Prep",
+      "fx": 115.81566584967334,
+      "fy": 37.61008986927641,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "awesome ctf",
+      "url": "https://github.com/apsdehal/awesome-ctf",
+      "fx": 123.5468287721892,
+      "fy": 158.00351331360764,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "capture the flag"
+    },
+    {
+      "text": "ctf resources",
+      "url": "https://github.com/ctfs/resources",
+      "fx": 123.5468287721892,
+      "fy": 198.00351331360764,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "capture the flag"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "penetration testing",
+      "curve": {
+        "x": -38.9454,
+        "y": -56.4531
+      }
+    },
+    {
+      "source": "penetration testing",
+      "target": "basics",
+      "curve": {
+        "x": -0.980837,
+        "y": 104.436
+      }
+    },
+    {
+      "source": "basics",
+      "target": "capture the flag",
+      "curve": {
+        "x": -30.6344,
+        "y": 71.6967
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "learn anything - chemistry - drugs - psychedelic - lsd",
+  "nodes": [
+    {
+      "text": "LSD",
+      "url": "https://psychonautwiki.org/w/index.php/LSD",
+      "fx": 69.28515625,
+      "fy": -421.1796875,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 214.0174429086543,
+      "fy": -309.54687500000006
+    },
+    {
+      "text": "papers",
+      "url": "",
+      "fx": 552.2708082932756,
+      "fy": -153.77381310094944
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 66.45819056103778,
+      "fy": -98.406744651091
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/LSD/",
+      "fx": 235.28515625,
+      "fy": -407.1796875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "LSD"
+    },
+    {
+      "text": "interview with Stanislav Grof",
+      "url": "https://www.youtube.com/watch?v=5ig3eU_oDS0&amp;feature=youtu.be",
+      "fx": 405.0174429086543,
+      "fy": -329.04687500000006,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "structure of LSD and its receptor explains its potency  ️",
+      "url": "https://www.eurekalert.org/pub_releases/2017-01/cp-sol011917.php",
+      "fx": 405.0174429086543,
+      "fy": -289.04687500000006,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "16: crystal structure of an LSD-bound human serotonin receptor",
+      "url": "http://www.cell.com/cell/fulltext/S0092-8674%2816%2931749-4",
+      "fx": 713.2708082932756,
+      "fy": -164.27381310094944,
+      "category": "paper",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "papers"
+    },
+    {
+      "text": "1. your brain on LSD",
+      "url": "https://www.youtube.com/watch?v=wG5JyorwYPo&amp;t=141s",
+      "fx": 222.45819056103778,
+      "fy": -117.906744651091,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. the first modern images of a human brain on LSD",
+      "url": "https://www.youtube.com/watch?v=kvalFfavNpU",
+      "fx": 222.45819056103778,
+      "fy": -77.906744651091,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "LSD",
+      "target": "basics",
+      "curve": {
+        "x": -3.91349,
+        "y": 160.136
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "LSD",
+      "curve": {
+        "x": -78.6162,
+        "y": -54.5664
+      }
+    },
+    {
+      "source": "papers",
+      "target": "interesting",
+      "curve": {
+        "x": -179.13,
+        "y": -75.9015
+      }
+    }
+  ]
+}

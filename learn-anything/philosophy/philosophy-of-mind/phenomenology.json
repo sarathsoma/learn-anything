@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - philosophy - philosophy of mind - phenomenology",
+  "nodes": [
+    {
+      "text": "phenomenology",
+      "url": "http://www.wikiwand.com/en/Phenomenology_(philosophy)",
+      "fx": 178.94140625,
+      "fy": -307.6875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 235.33572635135124,
+      "fy": -142.08657094594588
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction to phenomenology",
+      "url": "https://www.youtube.com/playlist?list=PLS8vfA_ckeuY6ayo3TlbFMnkPXIMMBXyw",
+      "fx": 391.33572635135124,
+      "fy": -141.58657094594588,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "phenomenology",
+      "target": "basics",
+      "curve": {
+        "x": -1.05284,
+        "y": 81.5505
+      }
+    }
+  ]
+}

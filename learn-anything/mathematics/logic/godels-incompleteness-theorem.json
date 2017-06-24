@@ -1,0 +1,47 @@
+{
+  "title": "learn anything - mathematics - logic - godels incompleteness theorem",
+  "nodes": [
+    {
+      "text": "Godel’s incompleteness theorem",
+      "url": "http://www.wikiwand.com/en/G%C3%B6del%27s_incompleteness_theorems",
+      "fx": -141.3203125,
+      "fy": -180.4296875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -63.11067708333337,
+      "fy": 18.398437500000057
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explained in layman terms",
+      "url": "https://math.stackexchange.com/questions/453503/can-someone-explain-g%c3%b6dels-incompleteness-theorems-in-layman-terms/453535#453535",
+      "fx": 92.88932291666663,
+      "fy": 12.898437500000057,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. math’s existential crisis",
+      "url": "https://www.youtube.com/watch?v=YrKLy4VN-7k",
+      "fx": 92.88932291666663,
+      "fy": 46.89843750000006,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "Godel’s incompleteness theorem",
+      "target": "basics",
+      "curve": {
+        "x": -1.64518,
+        "y": 91.9141
+      }
+    }
+  ]
+}

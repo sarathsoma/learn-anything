@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - computer science - compilers - llvm",
+  "nodes": [
+    {
+      "text": "LLVM",
+      "url": "http://www.wikiwand.com/en/LLVM",
+      "fx": -78.13671875,
+      "fy": -272.56640625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -70.65717872867344,
+      "fy": -143.3308073324585
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/llvm-mirror/llvm",
+      "fx": 99.86328125,
+      "fy": -258.56640625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "LLVM"
+    },
+    {
+      "text": "1. LLVM for  grad students  ️",
+      "url": "http://www.cs.cornell.edu/~asampson/blog/llvm.html",
+      "fx": 111.34282127132656,
+      "fy": -131.8308073324585,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "LLVM",
+      "target": "basics",
+      "curve": {
+        "x": -1.76023,
+        "y": 63.3678
+      }
+    }
+  ]
+}

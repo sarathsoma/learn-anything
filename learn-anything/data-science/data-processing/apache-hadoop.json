@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - data science - data processing - apache hadoop",
+  "nodes": [
+    {
+      "text": "apache hadoop",
+      "url": "http://www.wikiwand.com/en/Apache_Hadoop",
+      "fx": -204.19822692871094,
+      "fy": -184.28180015087128,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -69.99353981018066,
+      "fy": -79.27765464782715
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -151.90234375,
+      "fy": 28.4375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome hadoop",
+      "url": "https://github.com/youngwookim/awesome-hadoop",
+      "fx": 67.00646018981934,
+      "fy": -87.77765464782715,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how to learn hadoop for free  ️",
+      "url": "http://www.johnwittenauer.net/how-to-learn-hadoop-for-free/",
+      "fx": 67.00646018981934,
+      "fy": -47.77765464782715,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. apache hadoop essentials",
+      "url": "http://learn.mapr.com/ess-105-apache-hadoop-essentials",
+      "fx": 30.09765625,
+      "fy": 39.9375,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "apache hadoop",
+      "curve": {
+        "x": -33.8523,
+        "y": -51.2521
+      }
+    },
+    {
+      "source": "apache hadoop",
+      "target": "basics",
+      "curve": {
+        "x": -2.35206,
+        "y": 105.11
+      }
+    }
+  ]
+}

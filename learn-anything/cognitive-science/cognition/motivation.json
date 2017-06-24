@@ -1,0 +1,81 @@
+{
+  "title": "learn anything - cognitive science - cognition - motivation",
+  "nodes": [
+    {
+      "text": "motivation",
+      "url": "http://www.wikiwand.com/en/Motivation",
+      "fx": 25.91529369354248,
+      "fy": -228.4243403673172,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 160.86897274692365,
+      "fy": -124.07979773690187
+    },
+    {
+      "text": "basics",
+      "note": "if you think this can be improved in any way ",
+      "url": "",
+      "fx": 15.101053537415964,
+      "fy": 8.825422477118991
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "just do it",
+      "url": "https://www.youtube.com/watch?v=5-sfG8BV8wU",
+      "fx": 297.86897274692365,
+      "fy": -132.57979773690187,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "Elon Musk incredible speech",
+      "url": "https://www.youtube.com/watch?v=QygpaIJclm4",
+      "fx": 297.86897274692365,
+      "fy": -92.57979773690187,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. the science of motivation",
+      "url": "https://www.youtube.com/watch?v=pZT-FZqfxZA",
+      "fx": 197.10105353741596,
+      "fy": 0.3254224771189911,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the power of motivation",
+      "url": "https://www.youtube.com/watch?v=9hdSLiHaJz8",
+      "fx": 197.10105353741596,
+      "fy": 40.32542247711899,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "motivation",
+      "target": "basics",
+      "curve": {
+        "x": -21.4071,
+        "y": 117.375
+      }
+    },
+    {
+      "source": "help",
+      "target": "motivation",
+      "curve": {
+        "x": -46.7269,
+        "y": -50.9222
+      }
+    }
+  ]
+}

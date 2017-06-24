@@ -1,0 +1,200 @@
+{
+  "title": "learn anything - operating systems - unix",
+  "nodes": [
+    {
+      "text": "unix",
+      "url": "http://www.wikiwand.com/en/Unix",
+      "fx": 0.8506404533860632,
+      "fy": -319.2460201618,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 92.24091564279934,
+      "fy": -170.83602837084453
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 186.52585645272688,
+      "fy": -2.6874709226193545
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -77.57348394393921,
+      "fy": 130.0341567993164
+    },
+    {
+      "text": "unix philosophy",
+      "url": "http://www.wikiwand.com/en/Unix_philosophy",
+      "fx": -374.5454601027877,
+      "fy": 186.360130797411,
+      "category": "wiki"
+    },
+    {
+      "text": "shells  ️",
+      "url": "/operating-systems/unix/shells",
+      "fx": 103.81910453998137,
+      "fy": 248.0730726853635,
+      "category": "mindmap"
+    },
+    {
+      "text": "macOS  ️",
+      "url": "/operating-systems/unix/macos",
+      "fx": -184.22135238647468,
+      "fy": 258.92795181274414,
+      "category": "mindmap"
+    },
+    {
+      "text": "linux  ️",
+      "note": "is a Unix-like computer operating system assembled under the model of free and open-source software development and distribution",
+      "url": "/operating-systems/unix/linux",
+      "fx": -27.479805185029022,
+      "fy": 362.5279363320078,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/unix/",
+      "fx": 164.85064045338606,
+      "fy": -325.2460201618,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "unix"
+    },
+    {
+      "text": "️",
+      "url": "https://unix.stackexchange.com/",
+      "fx": 164.85064045338606,
+      "fy": -285.2460201618,
+      "category": "stack exchange",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "unix"
+    },
+    {
+      "text": "unix architecture evolution diagrams",
+      "url": "https://www.spinellis.gr/blog/20170510/",
+      "fx": 229.24091564279934,
+      "fy": -184.33602837084453,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "unix programmer’s manual",
+      "url": "",
+      "fx": 229.24091564279934,
+      "fy": -128.33602837084453,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "many things  ️",
+      "note": "When frameworks make your decisions for you, you very often won't even realise that a decision has been made at all so it's much harder to identify problems when the assumptions grounded in that technology choice no longer apply.",
+      "url": "https://github.com/substack/blog/blob/master/many_things.markdown",
+      "fx": 348.5258564527269,
+      "fy": -51.187470922619354,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "the TTY demystified  ️",
+      "url": "http://www.linusakesson.net/programming/tty/",
+      "fx": 348.5258564527269,
+      "fy": -11.187470922619354,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "14: hints for writing unix tools  ️",
+      "url": "https://monkey.org/~marius/unix-tools-hints.html",
+      "fx": 348.5258564527269,
+      "fy": 28.812529077380646,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: writing a unix shell  ️",
+      "url": "https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/",
+      "fx": 348.5258564527269,
+      "fy": 68.81252907738065,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. introduction to unix",
+      "url": "http://www.oliverelliott.org/article/computing/tut_unix/",
+      "fx": 104.42651605606079,
+      "fy": 141.5341567993164,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "unix",
+      "target": "basics",
+      "curve": {
+        "x": -41.2121,
+        "y": 223.39
+      }
+    },
+    {
+      "source": "help",
+      "target": "unix",
+      "curve": {
+        "x": -38.9452,
+        "y": -72.955
+      }
+    },
+    {
+      "source": "basics",
+      "target": "macOS  ️",
+      "curve": {
+        "x": -43.574,
+        "y": 65.6969
+      }
+    },
+    {
+      "source": "basics",
+      "target": "shells  ️",
+      "curve": {
+        "x": 95.9461,
+        "y": 60.2695
+      }
+    },
+    {
+      "source": "basics",
+      "target": "unix philosophy",
+      "curve": {
+        "x": -127.236,
+        "y": 29.413
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -53.3925,
+        "y": -84.0743
+      }
+    },
+    {
+      "source": "basics",
+      "target": "linux  ️",
+      "curve": {
+        "x": 28.0468,
+        "y": 117.497
+      }
+    }
+  ]
+}

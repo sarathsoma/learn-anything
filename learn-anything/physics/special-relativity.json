@@ -1,0 +1,50 @@
+{
+  "title": "learn anything - physics - special relativity",
+  "nodes": [
+    {
+      "text": "special relativity",
+      "url": "http://www.wikiwand.com/en/Special_relativity",
+      "fx": -95.2734375,
+      "fy": -428.88671875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -44.7223886986302,
+      "fy": -287.7867615582192
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. space, time and einstein",
+      "url": "http://www.worldscienceu.com/courses/university/space-time-and-einstein",
+      "fx": 137.2776113013698,
+      "fy": -296.2867615582192,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. special relativity",
+      "note": "calculus",
+      "url": "http://www.worldscienceu.com/courses/university/special-relativity",
+      "fx": 137.2776113013698,
+      "fy": -256.2867615582192,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "special relativity",
+      "target": "basics",
+      "curve": {
+        "x": -2.47448,
+        "y": 69.3
+      }
+    }
+  ]
+}

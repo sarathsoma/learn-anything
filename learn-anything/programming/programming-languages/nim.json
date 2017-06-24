@@ -1,0 +1,61 @@
+{
+  "title": "learn anything - programming - programming languages - nim",
+  "nodes": [
+    {
+      "text": "nim",
+      "url": "https://nim-lang.org/",
+      "fx": -20.95703125,
+      "fy": -193.5703125
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 53.8668780940593,
+      "fy": -85.67079207921125
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -51.252784653465596,
+      "fy": 17.985148514847765
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome nim",
+      "url": "https://github.com/VPashkov/awesome-nim",
+      "fx": 190.8668780940593,
+      "fy": -74.17079207921125,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. nimm tutorial",
+      "url": "https://nim-lang.org/docs/tut1.html",
+      "fx": 130.7472153465344,
+      "fy": 32.485148514847765,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "nim",
+      "curve": {
+        "x": -38.912,
+        "y": -53.9498
+      }
+    },
+    {
+      "source": "nim",
+      "target": "basics",
+      "curve": {
+        "x": -8.89788,
+        "y": 105.778
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "learn anything - mathematics - mathematical models - game theory",
+  "nodes": [
+    {
+      "text": "game theory",
+      "url": "http://www.wikiwand.com/en/Game_theory",
+      "fx": -60.7421875,
+      "fy": -279.1171875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -23.33704123542418,
+      "fy": -46.46998090834194
+    },
+    {
+      "text": "Nash equilibrium  ️",
+      "url": "/mathematics/mathematical-models/game-theory/nash-equilibrium",
+      "fx": -307.1621347402596,
+      "fy": 58.58827110389609,
+      "category": "mindmap"
+    },
+    {
+      "text": "evolutionary game theory  ️",
+      "url": "/mathematics/mathematical-models/game-theory/evolutionary-game-theory",
+      "fx": -205.1002438279918,
+      "fy": 174.9413082058992,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. ELI 5: game theory",
+      "url": "https://www.reddit.com/r/explainlikeimfive/comments/3749u4/eli5_game_theory_relating_to_mathematics_and_john/crjqgxi/",
+      "fx": 132.66295876457582,
+      "fy": -167.96998090834194,
+      "category": "reddit",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. game theory: the science of decision-making",
+      "url": "https://www.youtube.com/watch?v=MHS-htjGgSY",
+      "fx": 132.66295876457582,
+      "fy": -127.96998090834194,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. game theory wth 165 solved exercises",
+      "url": "https://arxiv.org/pdf/1512.06808.pdf",
+      "fx": 132.66295876457582,
+      "fy": -65.96998090834194,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. game theory",
+      "url": "https://www.coursera.org/learn/game-theory-1",
+      "fx": 132.66295876457582,
+      "fy": -3.969980908341938,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. game theory I: an introduction",
+      "url": "http://www.game-theory-class.org/game-theory-I.html",
+      "fx": 132.66295876457582,
+      "fy": 36.03001909165806,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. game theory II: advanced applications",
+      "url": "http://www.game-theory-class.org/game-theory-II.html",
+      "fx": 132.66295876457582,
+      "fy": 76.03001909165806,
+      "category": "",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "game theory",
+      "target": "basics",
+      "curve": {
+        "x": -2.54743,
+        "y": 115.074
+      }
+    },
+    {
+      "source": "basics",
+      "target": "evolutionary game theory  ️",
+      "curve": {
+        "x": -48.6316,
+        "y": 110.706
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Nash equilibrium  ️",
+      "curve": {
+        "x": -118.663,
+        "y": 52.5291
+      }
+    }
+  ]
+}

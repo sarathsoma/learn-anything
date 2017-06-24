@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - programming - programming languages - erlang",
+  "nodes": [
+    {
+      "text": "erlang",
+      "url": "http://www.wikiwand.com/en/Erlang_(programming_language)",
+      "fx": -56.22265625,
+      "fy": -392.90234375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 57.13099373711498,
+      "fy": -282.6432267865565
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -57.32992140452063,
+      "fy": -181.46597290039062
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "spawned shelter",
+      "note": "best articles, videos and books for learning erlang",
+      "url": "http://spawnedshelter.com/",
+      "fx": 194.13099373711498,
+      "fy": -288.1432267865565,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome erlang",
+      "url": "https://github.com/drobakowski/awesome-erlang",
+      "fx": 194.13099373711498,
+      "fy": -254.1432267865565,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learn you some erlang",
+      "url": "http://learnyousomeerlang.com/content",
+      "fx": 124.67007859547937,
+      "fy": -169.96597290039062,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "erlang",
+      "curve": {
+        "x": -45.1768,
+        "y": -53.8796
+      }
+    },
+    {
+      "source": "erlang",
+      "target": "basics",
+      "curve": {
+        "x": -7.30363,
+        "y": 104.468
+      }
+    }
+  ]
+}

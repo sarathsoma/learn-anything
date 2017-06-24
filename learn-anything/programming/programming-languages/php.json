@@ -1,0 +1,207 @@
+{
+  "title": "learn anything - programming - programming languages - php",
+  "nodes": [
+    {
+      "text": "php",
+      "url": "http://www.wikiwand.com/en/PHP",
+      "fx": -146.12890625,
+      "fy": -366.44921875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -53.33203125,
+      "fy": -258.15625
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -144.89453125,
+      "fy": -170.1604187252965
+    },
+    {
+      "text": "dependency management",
+      "url": "",
+      "fx": -554.6671602347934,
+      "fy": -113.13047469032949
+    },
+    {
+      "text": "XHProf",
+      "url": "https://github.com/phacility/xhprof",
+      "fx": 232.9493554656832,
+      "fy": -91.45254042160582,
+      "category": "github"
+    },
+    {
+      "text": "debugger",
+      "url": "",
+      "fx": 47.91501116359166,
+      "fy": -70.03566649060713
+    },
+    {
+      "text": "xDebug",
+      "url": "https://github.com/xdebug/xdebug",
+      "fx": 224.25687542632602,
+      "fy": -10.571721527444652,
+      "category": "github"
+    },
+    {
+      "text": "web frameworks",
+      "url": "",
+      "fx": -95.4433484570734,
+      "fy": 9.155673903197567
+    },
+    {
+      "text": "composer  ️",
+      "fx": -664.1871484917406,
+      "fy": 7.753653592107867,
+      "category": "mindmap"
+    },
+    {
+      "text": "testing",
+      "url": "",
+      "fx": -230.0008599746168,
+      "fy": 23.129497528075945
+    },
+    {
+      "text": "symfony  ️",
+      "url": "/programming/programming-languages/php/symfony",
+      "fx": 42.12694918611351,
+      "fy": 103.5341546474358,
+      "category": "mindmap"
+    },
+    {
+      "text": "PHPUnit",
+      "url": "https://github.com/sebastianbergmann/phpunit",
+      "fx": -356.1341080402011,
+      "fy": 132.64910489952263,
+      "category": "github"
+    },
+    {
+      "text": "laravel  ️",
+      "url": "/web-development/backend/laravel",
+      "fx": -126.14517116546631,
+      "fy": 150.19017791748047,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome php",
+      "url": "https://github.com/ziadoz/awesome-php",
+      "fx": 83.66796875,
+      "fy": -246.65625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. php the right way",
+      "url": "http://www.phptherightway.com/",
+      "fx": 11.10546875,
+      "fy": -158.6604187252965,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "php",
+      "curve": {
+        "x": -39.8985,
+        "y": -52.8965
+      }
+    },
+    {
+      "source": "php",
+      "target": "basics",
+      "curve": {
+        "x": -1.13281,
+        "y": 96.8941
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dependency management",
+      "curve": {
+        "x": -178.386,
+        "y": 28.515
+      }
+    },
+    {
+      "source": "dependency management",
+      "target": "composer  ️",
+      "curve": {
+        "x": -72.76,
+        "y": 60.4421
+      }
+    },
+    {
+      "source": "basics",
+      "target": "debugger",
+      "curve": {
+        "x": 103.905,
+        "y": 50.0624
+      }
+    },
+    {
+      "source": "debugger",
+      "target": "xDebug",
+      "curve": {
+        "x": 83.9209,
+        "y": 29.732
+      }
+    },
+    {
+      "source": "debugger",
+      "target": "XHProf",
+      "curve": {
+        "x": 86.5172,
+        "y": -10.7084
+      }
+    },
+    {
+      "source": "basics",
+      "target": "web frameworks",
+      "curve": {
+        "x": 47.9756,
+        "y": 89.658
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "laravel  ️",
+      "curve": {
+        "x": -38.8509,
+        "y": 70.5173
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "symfony  ️",
+      "curve": {
+        "x": 57.2852,
+        "y": 48.4392
+      }
+    },
+    {
+      "source": "basics",
+      "target": "testing",
+      "curve": {
+        "x": -41.8032,
+        "y": 96.645
+      }
+    },
+    {
+      "source": "testing",
+      "target": "PHPUnit",
+      "curve": {
+        "x": -51.8166,
+        "y": 56.0098
+      }
+    }
+  ]
+}

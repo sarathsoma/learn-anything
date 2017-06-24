@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - linguistics - languages - french",
+  "nodes": [
+    {
+      "text": "french language",
+      "url": "http://www.wikiwand.com/en/French_language",
+      "fx": -125.2542317211628,
+      "fy": -159.79037857055664,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -81.37893521785736,
+      "fy": -36.37018346786499
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/French/",
+      "fx": 146.7457682788372,
+      "fy": -165.79037857055664,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "french language"
+    },
+    {
+      "text": "️",
+      "url": "https://french.stackexchange.com/",
+      "fx": 146.7457682788372,
+      "fy": -125.79037857055664,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "french language"
+    },
+    {
+      "text": "1. duolingo",
+      "url": "https://www.duolingo.com/course/fr/en/Learn-French-Online",
+      "fx": 100.62106478214264,
+      "fy": -21.87018346786499,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "french language",
+      "target": "basics",
+      "curve": {
+        "x": 0.187648,
+        "y": 61.7101
+      }
+    }
+  ]
+}

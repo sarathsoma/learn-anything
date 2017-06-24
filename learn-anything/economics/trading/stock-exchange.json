@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - economics - trading - stock exchange",
+  "nodes": [
+    {
+      "text": "stock exchange",
+      "url": "http://www.wikiwand.com/en/Stock_exchange",
+      "fx": 34.905555725097656,
+      "fy": -228.60068893432617,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 85.9921875,
+      "fy": -92.23046875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. how the stock exchange works",
+      "url": "https://www.youtube.com/watch?v=F3QpgXBtDeo",
+      "fx": 241.9921875,
+      "fy": -80.73046875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "stock exchange",
+      "target": "basics",
+      "curve": {
+        "x": -2.95668,
+        "y": 66.9351
+      }
+    }
+  ]
+}

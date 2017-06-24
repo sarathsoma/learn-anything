@@ -1,0 +1,152 @@
+{
+  "title": "learn anything - web development - javascript libraries - react native",
+  "nodes": [
+    {
+      "text": "react native",
+      "url": "http://www.wikiwand.com/en/React_(JavaScript_library)",
+      "fx": -173.92187499999977,
+      "fy": -324.7519531250002,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -44.81914328977564,
+      "fy": -210.5509787322469
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 114.33993249325431,
+      "fy": -89.10442013394396
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 353.2438753963486,
+      "fy": 42.738746788213575
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -228.89341385585635,
+      "fy": 48.49940508480398
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/facebook/react-native",
+      "fx": 57.07812500000023,
+      "fy": -310.7519531250002,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "react native"
+    },
+    {
+      "text": "awesome react native",
+      "url": "https://github.com/jondot/awesome-react-native",
+      "fx": 92.18085671022436,
+      "fy": -219.0509787322469,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "create react native app",
+      "url": "https://github.com/react-community/create-react-native-app",
+      "fx": 92.18085671022436,
+      "fy": -179.0509787322469,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: powering ubereats with react native and uber engineering  ️",
+      "url": "https://eng.uber.com/ubereats-react-native/",
+      "fx": 276.3399324932543,
+      "fy": -119.60442013394396,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "why i'm not a react native developer  ️",
+      "url": "https://arielelkin.github.io/articles/why-im-not-a-react-native-developer",
+      "fx": 276.3399324932543,
+      "fy": -57.60442013394396,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "metro bundler",
+      "url": "https://github.com/facebook/metro-bundler",
+      "fx": 495.2438753963486,
+      "fy": 54.238746788213575,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. get started",
+      "url": "https://facebook.github.io/react-native/docs/getting-started.html",
+      "fx": -46.89341385585635,
+      "fy": 25.999405084803982,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. react native express",
+      "url": "http://www.reactnativeexpress.com/",
+      "fx": -46.89341385585635,
+      "fy": 59.99940508480398,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. react native in 5 minutes",
+      "url": "https://repl.it/site/react_native",
+      "fx": -46.89341385585635,
+      "fy": 99.99940508480398,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "react native",
+      "target": "basics",
+      "curve": {
+        "x": -46.2358,
+        "y": 185.376
+      }
+    },
+    {
+      "source": "help",
+      "target": "react native",
+      "curve": {
+        "x": -41.0513,
+        "y": -55.8505
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -90.4934,
+        "y": -50.9627
+      }
+    },
+    {
+      "source": "tools",
+      "target": "articles",
+      "curve": {
+        "x": -134.663,
+        "y": -38.9891
+      }
+    }
+  ]
+}

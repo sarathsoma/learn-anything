@@ -1,0 +1,104 @@
+{
+  "title": "learn anything - physics - general relativity",
+  "nodes": [
+    {
+      "text": "general relativity",
+      "url": "http://www.wikiwand.com/en/General_relativity",
+      "fx": -150.82421875,
+      "fy": -69.48735458485399,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 5.2255773749403716,
+      "fy": 37.81343017085902
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -125.34157317493657,
+      "fy": 201.64627389987925
+    },
+    {
+      "text": "spacetime  ️",
+      "url": "/physics/general-relativity/spacetime",
+      "fx": -219.97817887931046,
+      "fy": 351.76784752155174,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "lecture notes on general relativity",
+      "url": "http://www.preposterousuniverse.com/grnotes/",
+      "fx": 142.22557737494037,
+      "fy": 32.31343017085902,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "general relativity tutorial  ️",
+      "url": "http://math.ucr.edu/home/baez/gr/gr.html",
+      "fx": 142.22557737494037,
+      "fy": 66.31343017085902,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. general relativity",
+      "url": "https://www.youtube.com/watch?v=JRZgW1YjCKk&amp;index=10&amp;list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib",
+      "fx": 56.65842682506343,
+      "fy": 129.64627389987925,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. a most incomprehensible thing: notes towards a very gentle introduction to the mathematics of relativity",
+      "url": "http://www.goodreads.com/book/show/22745100-a-most-incomprehensible-thing",
+      "fx": 56.65842682506343,
+      "fy": 169.64627389987925,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. a fist course in general relativity",
+      "url": "http://www.goodreads.com/book/show/53520.A_First_Course_in_General_Relativity",
+      "fx": 56.65842682506343,
+      "fy": 274.64627389987925,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "general relativity",
+      "curve": {
+        "x": -44.5249,
+        "y": -52.4004
+      }
+    },
+    {
+      "source": "general relativity",
+      "target": "basics",
+      "curve": {
+        "x": -16.0087,
+        "y": 134.317
+      }
+    },
+    {
+      "source": "basics",
+      "target": "spacetime  ️",
+      "curve": {
+        "x": -44.8183,
+        "y": 75.0608
+      }
+    }
+  ]
+}

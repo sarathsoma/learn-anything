@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - physics - thermodynamics",
+  "nodes": [
+    {
+      "text": "thermodynamics",
+      "url": "http://www.wikiwand.com/en/Thermodynamics",
+      "fx": -41.171875,
+      "fy": -256.28125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 17.68359375,
+      "fy": -104.33203125
+    },
+    {
+      "text": "heat transfer  ️",
+      "url": "/physics/thermodynamics/heat-transfer",
+      "fx": -103.01099387886609,
+      "fy": 37.4918653350515,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. thermodynamics &amp; kinetics",
+      "url": "https://www.youtube.com/watch?v=kLqduWF6GXE",
+      "fx": 173.68359375,
+      "fy": -112.83203125,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. thermodynamics crash course",
+      "url": "https://www.youtube.com/watch?v=4i1MUWJoI0U",
+      "fx": 173.68359375,
+      "fy": -72.83203125,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "thermodynamics",
+      "target": "basics",
+      "curve": {
+        "x": -1.07227,
+        "y": 74.7246
+      }
+    },
+    {
+      "source": "basics",
+      "target": "heat transfer  ️",
+      "curve": {
+        "x": -46.3473,
+        "y": 70.9119
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "title": "learn anything - programming languages - c",
+  "nodes": [
+    {
+      "text": "c",
+      "url": "http://www.wikiwand.com/en/C_(programming_language)",
+      "fx": -1.0105413442158806,
+      "fy": -273.01435704521055,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 83.79258150667772,
+      "fy": -160.00291484111062
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 172.0347343651024,
+      "fy": 59.304928573402094
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -82.51960416118027,
+      "fy": 288.8994966455408
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "write a c interpreter",
+      "url": "https://github.com/lotabout/write-a-C-interpreter",
+      "fx": 220.79258150667772,
+      "fy": -243.00291484111062,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome c",
+      "url": "https://github.com/aleksandar-todorovic/awesome-c",
+      "fx": 220.79258150667772,
+      "fy": -203.00291484111062,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "c gibberish  ↔ english",
+      "url": "https://cdecl.org/",
+      "fx": 220.79258150667772,
+      "fy": -163.00291484111062,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how to C by Keith Thompson",
+      "url": "https://github.com/Keith-S-Thompson/how-to-c-response",
+      "fx": 220.79258150667772,
+      "fy": -122.00291484111062,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "deep C (and c++) slides",
+      "url": "https://www.slideshare.net/olvemaudal/deep-c",
+      "fx": 220.79258150667772,
+      "fy": -82.00291484111062,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how to learn C",
+      "url": "http://charliethe.ninja/slideshow/english/introtoc#1",
+      "fx": 220.79258150667772,
+      "fy": -48.00291484111062,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "lessons to learn from c  ️",
+      "url": "https://drewdevault.com/2017/01/30/Lessons-to-learn-from-C.html",
+      "fx": 334.0347343651024,
+      "fy": -0.19507142659790588,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "let’s stop copying c  ️",
+      "url": "https://eev.ee/blog/2016/12/01/lets-stop-copying-c/",
+      "fx": 334.0347343651024,
+      "fy": 39.804928573402094,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "principles for c programming  ️",
+      "url": "https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html",
+      "fx": 334.0347343651024,
+      "fy": 79.8049285734021,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "after all these years, the world is still powered by c programming  ️",
+      "url": "http://tekhinnovation.blogspot.nl/2017/03/after-all-these-years-world-is-still.html?m=1",
+      "fx": 334.0347343651024,
+      "fy": 119.8049285734021,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. c programming language",
+      "url": "https://www.goodreads.com/book/show/515601.The_C_Programming_Language",
+      "fx": 99.48039583881973,
+      "fy": 223.3994966455408,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. higher computing",
+      "url": "https://www.youtube.com/playlist?list=PL6B940F08B9773B9F",
+      "fx": 99.48039583881973,
+      "fy": 263.3994966455408,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. CS50 from Harvard",
+      "note": "first 6 lectures are done in C, the rest are in python",
+      "url": "https://cs50.harvard.edu/weeks",
+      "fx": 99.48039583881973,
+      "fy": 303.3994966455408,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. build your own text editor",
+      "url": "http://viewsourcecode.org/snaptoken/kilo/",
+      "fx": 99.48039583881973,
+      "fy": 343.3994966455408,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. beginner’s guide to linkers",
+      "url": "http://www.lurklurk.org/linkers/linkers.html",
+      "fx": 99.48039583881973,
+      "fy": 383.3994966455408,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "c",
+      "target": "basics",
+      "curve": {
+        "x": -36.2546,
+        "y": 279.706
+      }
+    },
+    {
+      "source": "help",
+      "target": "c",
+      "curve": {
+        "x": -42.1516,
+        "y": -55.2558
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -50.371,
+        "y": -109.653
+      }
+    }
+  ]
+}

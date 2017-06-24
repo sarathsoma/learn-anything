@@ -1,0 +1,100 @@
+{
+  "title": "learn anything - machine learning - reinforcement learning",
+  "nodes": [
+    {
+      "text": "reinforcement learning",
+      "url": "http://www.wikiwand.com/en/Reinforcement_learning",
+      "fx": -26.8671875,
+      "fy": -149.9296875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 161.84540719696963,
+      "fy": -49.53867869031228
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 21.13535568755742,
+      "fy": 112.22353506657487
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "deep enforcement learning papers",
+      "url": "https://github.com/muupan/deep-reinforcement-learning-papers",
+      "fx": 298.84540719696963,
+      "fy": -89.03867869031228,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "baselines",
+      "note": "high-quality implementations of reinforcement learning algorithms",
+      "url": "https://github.com/openai/baselines",
+      "fx": 298.84540719696963,
+      "fy": -27.03867869031228,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "practical RL",
+      "url": "https://github.com/yandexdataschool/Practical_RL",
+      "fx": 298.84540719696963,
+      "fy": 12.961321309687719,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. deep reinforcement learning",
+      "url": "http://rll.berkeley.edu/deeprlcourse/",
+      "fx": 203.13535568755742,
+      "fy": 72.72353506657487,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to reinforcement learning",
+      "url": "https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;feature=youtu.be&amp;list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT",
+      "fx": 203.13535568755742,
+      "fy": 112.72353506657487,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. notes on reinforcement learning  ️",
+      "url": "http://frnsys.com/ai_notes/artificial_intelligence/reinforcement_learning.html",
+      "fx": 203.13535568755742,
+      "fy": 174.72353506657487,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "reinforcement learning",
+      "curve": {
+        "x": -46.8563,
+        "y": -48.9455
+      }
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "basics",
+      "curve": {
+        "x": -18.7487,
+        "y": 129.827
+      }
+    }
+  ]
+}

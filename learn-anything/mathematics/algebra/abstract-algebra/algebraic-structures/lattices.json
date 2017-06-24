@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - algebra - abstract algebra - algebraic structures - lattices",
+  "nodes": [
+    {
+      "text": "lattices",
+      "url": "http://www.wikiwand.com/en/Lattice_(order)",
+      "fx": 0.70703125,
+      "fy": -133.10546875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 16.5,
+      "fy": -5
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=qPtGlrb_sXg",
+      "fx": 172.5,
+      "fy": 6.5,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "lattices",
+      "target": "basics",
+      "curve": {
+        "x": -0.603516,
+        "y": 62.8027
+      }
+    }
+  ]
+}

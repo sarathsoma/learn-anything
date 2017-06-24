@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - computer graphics - digital video",
+  "nodes": [
+    {
+      "text": "digital video",
+      "url": "http://www.wikiwand.com/en/Digital_video",
+      "fx": -77.67557684926817,
+      "fy": -141.74840437162908,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -48.512637071311474,
+      "fy": -6.1733856201171875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. hands on intro to video technology",
+      "url": "https://github.com/leandromoreira/digital_video_introduction",
+      "fx": 133.48736292868853,
+      "fy": -5.6733856201171875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "digital video",
+      "target": "basics",
+      "curve": {
+        "x": -4.91853,
+        "y": 66.5375
+      }
+    }
+  ]
+}

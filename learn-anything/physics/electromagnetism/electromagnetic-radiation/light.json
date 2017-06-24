@@ -1,0 +1,77 @@
+{
+  "title": "learn anything - physics - electromagnetism - electromagnetic radiation - light",
+  "nodes": [
+    {
+      "text": "light",
+      "url": "http://www.wikiwand.com/en/Light",
+      "fx": -4.431973042100253,
+      "fy": -237.07606639588283,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 99.67958314327234,
+      "fy": -127.66352229709781
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -7.418573156486673,
+      "fy": -20.428791044652655
+    },
+    {
+      "text": "light field  ️",
+      "url": "/physics/electromagnetism/electromagnetic-radiation/light/light-field",
+      "fx": -115.33308953440837,
+      "fy": 106.75657494232746,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "interesting questions answered about light",
+      "url": "https://www.reddit.com/r/askscience/search?q=light&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
+      "fx": 290.67958314327234,
+      "fy": -127.16352229709781,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. what is light?",
+      "url": "https://www.youtube.com/watch?v=IXxZRZxafEQ",
+      "fx": 148.58142684351333,
+      "fy": -8.928791044652655,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "light",
+      "target": "basics",
+      "curve": {
+        "x": -3.4933,
+        "y": 107.074
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "light",
+      "curve": {
+        "x": -58.8058,
+        "y": -53.4562
+      }
+    },
+    {
+      "source": "basics",
+      "target": "light field  ️",
+      "curve": {
+        "x": -48.7073,
+        "y": 63.5927
+      }
+    }
+  ]
+}

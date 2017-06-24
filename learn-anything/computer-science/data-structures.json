@@ -1,0 +1,283 @@
+{
+  "title": "learn anything - computer science - data structures",
+  "nodes": [
+    {
+      "text": "data structures",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Data_structure",
+      "fx": -108.23762920411082,
+      "fy": -586.9148180244451,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 45.72922185949369,
+      "fy": -474.5040462596995
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -77.0762246621614,
+      "fy": -373.0040118243252
+    },
+    {
+      "text": "arrays  ️",
+      "url": "/computer-science/data-structures/arrays",
+      "fx": -693.7373972819214,
+      "fy": -375.3333333333478,
+      "category": "mindmap"
+    },
+    {
+      "text": "bloom filter",
+      "url": "http://www.wikiwand.com/en/Bloom_filter",
+      "fx": -979.808708639706,
+      "fy": -280.363166360294,
+      "category": "wiki"
+    },
+    {
+      "text": "serialisation  ️",
+      "url": "/computer-science/data-structures/serialisation",
+      "fx": -524.3088353913074,
+      "fy": -262.5840053041354,
+      "category": "mindmap"
+    },
+    {
+      "text": "linked list  ️",
+      "url": "/computer-science/data-structures/linked-lists",
+      "fx": 347.8290108009471,
+      "fy": -225.8926435687746,
+      "category": "mindmap"
+    },
+    {
+      "text": "conflict-free replicated data type",
+      "url": "http://www.wikiwand.com/en/Conflict-free_replicated_data_type",
+      "fx": -289.44924729535364,
+      "fy": -204.38273714026627,
+      "category": "wiki"
+    },
+    {
+      "text": "self balancing binary search tree",
+      "url": "http://www.wikiwand.com/en/Self-balancing_binary_search_tree",
+      "fx": -913.5512820512841,
+      "fy": -197.1282051282053,
+      "category": "wiki"
+    },
+    {
+      "text": "priority queue",
+      "url": "http://www.wikiwand.com/en/Priority_queue",
+      "fx": 113.4727847789793,
+      "fy": -149.05775391277962,
+      "category": "wiki"
+    },
+    {
+      "text": "tries",
+      "url": "http://www.wikiwand.com/en/Trie",
+      "fx": 336.08984375,
+      "fy": -118.12109375,
+      "category": "wiki"
+    },
+    {
+      "text": "trees",
+      "url": "http://www.wikiwand.com/en/Tree_(data_structure)",
+      "fx": -424.15625,
+      "fy": -104.37799549102783,
+      "category": "wiki"
+    },
+    {
+      "text": "hash tables  ️",
+      "note": "a hash function is any function that can be used to map data of arbitrary size to data of fixed size  the values returned by a hash function are called hash values, hash codes, digests or simply hashes  one use is a data structure called a hash table, widely used in computer software for rapid data lookup",
+      "url": "/computer-science/data-structures/hash-tables",
+      "fx": -17.332408813639177,
+      "fy": -63.87630990227785,
+      "category": "mindmap"
+    },
+    {
+      "text": "log-structured merge-tree",
+      "url": "http://www.wikiwand.com/en/Log-structured_merge-tree",
+      "fx": -555.3125,
+      "fy": 25.81001377105713,
+      "category": "wiki"
+    },
+    {
+      "text": "binary search trees  ️",
+      "url": "/computer-science/data-structures/binary-search-trees",
+      "fx": -801.4516356306934,
+      "fy": 27.95839257682394,
+      "category": "mindmap"
+    },
+    {
+      "text": "quadtree  ️",
+      "url": "/computer-science/data-structures/quadtree",
+      "fx": -226.1950891629125,
+      "fy": 28.615145218582256,
+      "category": "mindmap"
+    },
+    {
+      "text": "red-black tree  ️",
+      "url": "/computer-science/data-structures/red-black-trees",
+      "fx": -799.6791930379746,
+      "fy": 165.8639240506326,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "some data structures",
+      "url": "https://github.com/voxsim/knowledge/tree/master/computer-science/data-structures",
+      "fx": 182.7292218594937,
+      "fy": -494.0040462596995,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "best online video courses for data structures and algorithms  ️",
+      "url": "https://www.techiedelight.com/best-online-courses-data-structures-algorithms/",
+      "fx": 182.7292218594937,
+      "fy": -454.0040462596995,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. data structures by Bereley uni",
+      "url": "https://www.youtube.com/watch?v=QMV45tHCYNI&amp;list=PL4BBB74C7D2A1049C",
+      "fx": 78.9237753378386,
+      "fy": -361.5040118243252,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "trees",
+      "target": "quadtree  ️",
+      "curve": {
+        "x": 107.981,
+        "y": 66.4966
+      }
+    },
+    {
+      "source": "trees",
+      "target": "log-structured merge-tree",
+      "curve": {
+        "x": -18.5779,
+        "y": 65.094
+      }
+    },
+    {
+      "source": "help",
+      "target": "data structures",
+      "curve": {
+        "x": -38.9834,
+        "y": -54.9554
+      }
+    },
+    {
+      "source": "data structures",
+      "target": "basics",
+      "curve": {
+        "x": -17.6693,
+        "y": 105.705
+      }
+    },
+    {
+      "source": "basics",
+      "target": "trees",
+      "curve": {
+        "x": -269.276,
+        "y": 127.17
+      }
+    },
+    {
+      "source": "basics",
+      "target": "conflict-free replicated data type",
+      "curve": {
+        "x": -48.1865,
+        "y": 91.8107
+      }
+    },
+    {
+      "source": "basics",
+      "target": "hash tables  ️",
+      "curve": {
+        "x": 96.2887,
+        "y": 167.785
+      }
+    },
+    {
+      "source": "basics",
+      "target": "serialisation  ️",
+      "curve": {
+        "x": -204.616,
+        "y": 56.46
+      }
+    },
+    {
+      "source": "basics",
+      "target": "priority queue",
+      "curve": {
+        "x": 118.775,
+        "y": 113.223
+      }
+    },
+    {
+      "source": "basics",
+      "target": "tries",
+      "curve": {
+        "x": 303.669,
+        "y": 165.324
+      }
+    },
+    {
+      "source": "basics",
+      "target": "self balancing binary search tree",
+      "curve": {
+        "x": -478.024,
+        "y": 64.1399
+      }
+    },
+    {
+      "source": "basics",
+      "target": "bloom filter",
+      "curve": {
+        "x": -486.745,
+        "y": 31.9298
+      }
+    },
+    {
+      "source": "basics",
+      "target": "linked list  ️",
+      "curve": {
+        "x": 225.953,
+        "y": 74.8057
+      }
+    },
+    {
+      "source": "basics",
+      "target": "arrays  ️",
+      "curve": {
+        "x": -309.081,
+        "y": -1.16466
+      }
+    },
+    {
+      "source": "trees",
+      "target": "binary search trees  ️",
+      "curve": {
+        "x": -178.98,
+        "y": 39.4753
+      }
+    },
+    {
+      "source": "binary search trees  ️",
+      "target": "red-black tree  ️",
+      "curve": {
+        "x": -17.6138,
+        "y": 67.7028
+      }
+    }
+  ]
+}

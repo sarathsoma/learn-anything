@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - mathematics - combinatorics",
+  "nodes": [
+    {
+      "text": "combinatorics",
+      "url": "http://www.wikiwand.com/en/Combinatorics",
+      "fx": -133.90234375,
+      "fy": -159.2109375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -96.9921875,
+      "fy": -16.54296875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. a walk through combinatorics",
+      "url": "https://www.goodreads.com/book/show/2335396.A_Walk_Through_Combinatorics",
+      "fx": 85.0078125,
+      "fy": -5.04296875,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "combinatorics",
+      "target": "basics",
+      "curve": {
+        "x": -12.7949,
+        "y": 70.084
+      }
+    }
+  ]
+}

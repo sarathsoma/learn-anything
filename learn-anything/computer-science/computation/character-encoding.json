@@ -1,0 +1,73 @@
+{
+  "title": "learn anything - computer science - computation - character encoding",
+  "nodes": [
+    {
+      "text": "character encoding",
+      "url": "http://www.wikiwand.com/en/Character_encoding",
+      "fx": -111.3822577213034,
+      "fy": -304.81228133566935,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -54.329485340551855,
+      "fy": -173.18686173178935
+    },
+    {
+      "text": "unicode",
+      "url": "http://www.wikiwand.com/en/Unicode",
+      "fx": -99.6929783821106,
+      "fy": -34.31278610229492,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what every programmer absolutely, positively needs to know about encodings and character sets to work with text  ️",
+      "url": "http://kunststube.net/encoding/",
+      "fx": 127.67051465944814,
+      "fy": -194.18686173178935,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "awesome code points",
+      "url": "https://github.com/Codepoints/awesome-codepoints",
+      "fx": 99.3070216178894,
+      "fy": -40.31278610229492,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "unicode"
+    },
+    {
+      "text": "awesome unicode",
+      "url": "https://github.com/jagracey/Awesome-Unicode",
+      "fx": 99.3070216178894,
+      "fy": -0.3127861022949219,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "unicode"
+    }
+  ],
+  "connections": [
+    {
+      "source": "character encoding",
+      "target": "basics",
+      "curve": {
+        "x": -7.97361,
+        "y": 64.5627
+      }
+    },
+    {
+      "source": "basics",
+      "target": "unicode",
+      "curve": {
+        "x": -11.9317,
+        "y": 70.687
+      }
+    }
+  ]
+}

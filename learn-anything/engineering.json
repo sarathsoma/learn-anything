@@ -1,0 +1,244 @@
+{
+  "title": "learn anything - engineering",
+  "nodes": [
+    {
+      "text": "engineering",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Engineering",
+      "fx": 278.0591612347001,
+      "fy": -88.55880184507521,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 927.7216423502502,
+      "fy": -47.77104599672333
+    },
+    {
+      "text": "mechanical engineering  ️",
+      "url": "/engineering/mechanical-engineering",
+      "fx": 53.58392333984375,
+      "fy": 192.07770919799805,
+      "category": "mindmap"
+    },
+    {
+      "text": "computer engineering  ️",
+      "fx": -1611.6077161538958,
+      "fy": 192.78640391189361,
+      "category": "mindmap"
+    },
+    {
+      "text": "aerospace engineering  ️",
+      "url": "/engineering/aerospace-engineering",
+      "fx": 342.19132232666016,
+      "fy": 193.01269149780273,
+      "category": "mindmap"
+    },
+    {
+      "text": "robotics  ️",
+      "note": "deals with design, construction, operation and use of robots, as well as computer systems for their control, sensory feedback, and information processing  these technologies are used to develop machines that can substitute for humans  robots can be used in any situation and for any purpose",
+      "url": "/engineering/robotics",
+      "fx": -355.61792755126953,
+      "fy": 194.88153076171852,
+      "category": "mindmap"
+    },
+    {
+      "text": "domain engineering",
+      "url": "http://www.wikiwand.com/en/Domain_engineering",
+      "fx": -1323.0885739063156,
+      "fy": 194.9191585379864,
+      "category": "wiki"
+    },
+    {
+      "text": "mechatronics  ️",
+      "url": "/engineering/mechatronics",
+      "fx": -853.0446428571427,
+      "fy": 195.95758928571428,
+      "category": "mindmap"
+    },
+    {
+      "text": "civil engineering  ️",
+      "url": "/engineering/civil-engineering",
+      "fx": -165.49814701080322,
+      "fy": 198.0479850769043,
+      "category": "mindmap"
+    },
+    {
+      "text": "biomedical engineering",
+      "url": "http://www.wikiwand.com/en/Biomedical_engineering",
+      "fx": 632.7463942307695,
+      "fy": 198.2922676282053,
+      "category": "wiki"
+    },
+    {
+      "text": "electrical engineering  ️",
+      "url": "/engineering/electrical-engineering",
+      "fx": -640.5023205981502,
+      "fy": 198.60651974403055,
+      "category": "mindmap"
+    },
+    {
+      "text": "control theory  ️",
+      "url": "/engineering/control-theory",
+      "fx": -1053.284182250657,
+      "fy": 199.40223097114142,
+      "category": "mindmap"
+    },
+    {
+      "text": "computer engineering",
+      "url": "http://www.wikiwand.com/en/Computer_engineering",
+      "fx": 930.7167583594382,
+      "fy": 199.96365081138617,
+      "category": "wiki"
+    },
+    {
+      "text": "industrial engineering",
+      "url": "http://www.wikiwand.com/en/Industrial_engineering",
+      "fx": 1204.2606154221758,
+      "fy": 202.08609468509007,
+      "category": "wiki"
+    },
+    {
+      "text": "chemical engineering  ️",
+      "url": "/engineering/chemical-engineering",
+      "fx": 1474.4524489182695,
+      "fy": 202.2187698559885,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/AskEngineers/",
+      "fx": 536.0591612347001,
+      "fy": -74.55880184507521,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "engineering"
+    },
+    {
+      "text": "empathy in engineering",
+      "url": "https://github.com/KimberlyMunoz/empathy-in-engineering",
+      "fx": 1064.7216423502502,
+      "fy": -36.27104599672333,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "engineering",
+      "target": "electrical engineering  ️",
+      "curve": {
+        "x": -538.459,
+        "y": 126.251
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "civil engineering  ️",
+      "curve": {
+        "x": -211.279,
+        "y": 143.303
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "mechanical engineering  ️",
+      "curve": {
+        "x": -82.2374,
+        "y": 140.317
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "aerospace engineering  ️",
+      "curve": {
+        "x": 50.5665,
+        "y": 140.785
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "biomedical engineering",
+      "curve": {
+        "x": 196.594,
+        "y": 143.424
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "computer engineering",
+      "curve": {
+        "x": 343.079,
+        "y": 144.26
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "industrial engineering",
+      "curve": {
+        "x": 478.101,
+        "y": 145.321
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "chemical engineering  ️",
+      "curve": {
+        "x": 687.57,
+        "y": 145.388
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "robotics  ️",
+      "curve": {
+        "x": -331.338,
+        "y": 141.72
+      }
+    },
+    {
+      "source": "help",
+      "target": "engineering",
+      "curve": {
+        "x": -294.009,
+        "y": 10.8098
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "mechatronics  ️",
+      "curve": {
+        "x": -655.887,
+        "y": 91.0378
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "control theory  ️",
+      "curve": {
+        "x": -811.808,
+        "y": 55.569
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "domain engineering",
+      "curve": {
+        "x": -991.815,
+        "y": 68.3902
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "computer engineering  ️",
+      "curve": {
+        "x": -1055.28,
+        "y": 35.4232
+      }
+    }
+  ]
+}

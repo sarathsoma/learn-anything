@@ -1,0 +1,196 @@
+{
+  "title": "learn anything - cryptography",
+  "nodes": [
+    {
+      "text": "cryptography",
+      "url": "https://www.wikiwand.com/en/Cryptography",
+      "fx": 83.27966413826766,
+      "fy": 12.729836167960173,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 217.79575619464856,
+      "fy": 127.17928561336925
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 115.48639472179764,
+      "fy": 321.7812012491876
+    },
+    {
+      "text": "zero-knowledge proofs  ️",
+      "url": "/cryptography/zero-knowledge-proofs",
+      "fx": -412.18652343749363,
+      "fy": 333.08251953125443,
+      "category": "mindmap"
+    },
+    {
+      "text": "encryption  ️",
+      "note": "allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted",
+      "url": "/cryptography/encryption",
+      "fx": -226.0142698126325,
+      "fy": 424.4288619736494,
+      "category": "mindmap"
+    },
+    {
+      "text": "cryptanalysis",
+      "url": "http://www.wikiwand.com/en/Cryptanalysis",
+      "fx": -79.81248758606489,
+      "fy": 516.7338184421258,
+      "category": "wiki"
+    },
+    {
+      "text": "private information retrieval",
+      "url": "http://www.wikiwand.com/en/Private_information_retrieval",
+      "fx": 151.94824218749898,
+      "fy": 530.4399414062557,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/crypto/",
+      "fx": 330.27966413826766,
+      "fy": 6.729836167960173,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "cryptography"
+    },
+    {
+      "text": "️",
+      "url": "https://crypto.stackexchange.com/",
+      "fx": 330.27966413826766,
+      "fy": 46.72983616796017,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "cryptography"
+    },
+    {
+      "text": "awesome cryptography",
+      "url": "https://github.com/sobolevn/awesome-cryptography",
+      "fx": 354.79575619464856,
+      "fy": 118.67928561336925,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "cryptographic right answers",
+      "url": "https://gist.github.com/TheZ3ro/fb521a3cde0c91fcb350",
+      "fx": 354.79575619464856,
+      "fy": 158.67928561336925,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. the code book",
+      "note": "- gives a very interesting historic overview of the evolution of cryptography, its uses throughout the years and where we are today",
+      "url": "https://www.goodreads.com/book/show/17994.The_Code_Book",
+      "fx": 297.48639472179764,
+      "fy": 236.28120124918757,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. crypto 101",
+      "url": "https://www.crypto101.io/",
+      "fx": 297.48639472179764,
+      "fy": 276.2812012491876,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. crypto for kids",
+      "url": "https://github.com/sustrik/crypto-for-kids",
+      "fx": 297.48639472179764,
+      "fy": 316.2812012491876,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. cryptography I",
+      "url": "https://www.coursera.org/learn/crypto",
+      "fx": 297.48639472179764,
+      "fy": 356.2812012491876,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. applied cryptography",
+      "url": "https://www.udacity.com/course/applied-cryptography--cs387",
+      "fx": 297.48639472179764,
+      "fy": 396.2812012491876,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. crypto challenges",
+      "url": "http://cryptopals.com/",
+      "fx": 297.48639472179764,
+      "fy": 436.2812012491876,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "cryptography",
+      "target": "basics",
+      "curve": {
+        "x": -6.64665,
+        "y": 153.275
+      }
+    },
+    {
+      "source": "help",
+      "target": "cryptography",
+      "curve": {
+        "x": -39.7581,
+        "y": -55.9748
+      }
+    },
+    {
+      "source": "basics",
+      "target": "encryption  ️",
+      "curve": {
+        "x": -160.75,
+        "y": 52.5738
+      }
+    },
+    {
+      "source": "basics",
+      "target": "cryptanalysis",
+      "curve": {
+        "x": -82.1495,
+        "y": 98.7259
+      }
+    },
+    {
+      "source": "basics",
+      "target": "private information retrieval",
+      "curve": {
+        "x": 32.4291,
+        "y": 116.005
+      }
+    },
+    {
+      "source": "basics",
+      "target": "zero-knowledge proofs  ️",
+      "curve": {
+        "x": -235.337,
+        "y": 5.65062
+      }
+    }
+  ]
+}

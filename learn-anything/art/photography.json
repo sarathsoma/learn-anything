@@ -1,0 +1,133 @@
+{
+  "title": "learn anything - art - photography",
+  "nodes": [
+    {
+      "text": "photography",
+      "url": "http://www.wikiwand.com/en/Photography",
+      "fx": -117.48666000366211,
+      "fy": -274.9888458251953
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -3.3828357374164852,
+      "fy": -160.44011752706183
+    },
+    {
+      "text": "inspiration",
+      "url": "",
+      "fx": 73.25726232394379,
+      "fy": -46.088028169003906
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -135.87656856590593,
+      "fy": 62.51408527266801
+    },
+    {
+      "text": "analog photography",
+      "url": "http://www.wikiwand.com/en/Analog_photography",
+      "fx": -273.18029269366184,
+      "fy": 217.70560079225345,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/photography/",
+      "fx": 96.51333999633789,
+      "fy": -283.4888458251953,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "photography"
+    },
+    {
+      "text": "️",
+      "url": "https://photo.stackexchange.com/",
+      "fx": 96.51333999633789,
+      "fy": -243.4888458251953,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "photography"
+    },
+    {
+      "text": "exposure guide",
+      "url": "http://www.exposureguide.com/",
+      "fx": 133.61716426258351,
+      "fy": -173.94011752706183,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome open source photography",
+      "url": "https://github.com/ibaaj/awesome-OpenSourcePhotography",
+      "fx": 133.61716426258351,
+      "fy": -139.94011752706183,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "artistic photos",
+      "url": "https://imgur.com/a/jAEYj",
+      "fx": 263.2572623239438,
+      "fy": -54.588028169003906,
+      "category": "image",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "inspiration"
+    },
+    {
+      "text": "beautiful photos",
+      "url": "https://imgur.com/a/vA2Ly",
+      "fx": 263.2572623239438,
+      "fy": -14.588028169003906,
+      "category": "image",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "inspiration"
+    },
+    {
+      "text": "lectures on digital photography",
+      "url": "https://sites.google.com/site/marclevoylectures/home",
+      "fx": 20.123431434094073,
+      "fy": 74.01408527266801,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "photography",
+      "target": "basics",
+      "curve": {
+        "x": -23.695,
+        "y": 168.751
+      }
+    },
+    {
+      "source": "help",
+      "target": "photography",
+      "curve": {
+        "x": -37.8019,
+        "y": -57.2743
+      }
+    },
+    {
+      "source": "basics",
+      "target": "analog photography",
+      "curve": {
+        "x": -30.4018,
+        "y": 78.8458
+      }
+    },
+    {
+      "source": "inspiration",
+      "target": "help",
+      "curve": {
+        "x": -51.57,
+        "y": -57.176
+      }
+    }
+  ]
+}

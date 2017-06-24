@@ -1,0 +1,128 @@
+{
+  "title": "learn anything - software - tooling - productivity",
+  "nodes": [
+    {
+      "text": "productivity",
+      "note": "",
+      "url": "",
+      "fx": -12.224785518898898,
+      "fy": -328.9179532078912
+    },
+    {
+      "text": "macOS",
+      "url": "http://www.wikiwand.com/en/Macintosh_operating_systems",
+      "fx": -253.95298243613138,
+      "fy": -210.23463161496363,
+      "category": "wiki"
+    },
+    {
+      "text": "terminal",
+      "url": "",
+      "fx": 181.16772702634125,
+      "fy": -206.08718603204585
+    },
+    {
+      "text": "alfred  ️",
+      "url": "/software/tooling/productivity/alfred",
+      "fx": -250.10663767881408,
+      "fy": -105.78489774550076,
+      "category": "mindmap"
+    },
+    {
+      "text": "karabiner  ️",
+      "url": "/software/tooling/productivity/karabiner",
+      "fx": -412.3867107548326,
+      "fy": -103.90725003103569,
+      "category": "mindmap"
+    },
+    {
+      "text": "hammerspoon  ️",
+      "url": "/software/tooling/productivity/hammerspoon",
+      "fx": -123.66009039907044,
+      "fy": -102.87452071385138,
+      "category": "mindmap"
+    },
+    {
+      "text": "tmux  ️",
+      "url": "/software/tooling/productivity/tmux",
+      "fx": 292.2664385134344,
+      "fy": -95.60749063581233,
+      "category": "mindmap"
+    },
+    {
+      "text": "hyper",
+      "url": "https://github.com/zeit/hyper",
+      "fx": 246.22932330827052,
+      "fy": 32.04010025062655,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome hyper",
+      "url": "https://github.com/bnb/awesome-hyper",
+      "fx": 424.2293233082705,
+      "fy": 49.04010025062655,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "hyper"
+    }
+  ],
+  "connections": [
+    {
+      "source": "macOS",
+      "target": "karabiner  ️",
+      "curve": {
+        "x": -75.4669,
+        "y": 53.1637
+      }
+    },
+    {
+      "source": "macOS",
+      "target": "alfred  ️",
+      "curve": {
+        "x": -2.82682,
+        "y": 52.2249
+      }
+    },
+    {
+      "source": "macOS",
+      "target": "hammerspoon  ️",
+      "curve": {
+        "x": 88.1464,
+        "y": 54.9301
+      }
+    },
+    {
+      "source": "terminal",
+      "target": "tmux  ️",
+      "curve": {
+        "x": 49.0494,
+        "y": 55.2398
+      }
+    },
+    {
+      "source": "productivity",
+      "target": "macOS",
+      "curve": {
+        "x": -122.614,
+        "y": 60.5917
+      }
+    },
+    {
+      "source": "productivity",
+      "target": "terminal",
+      "curve": {
+        "x": 88.6963,
+        "y": 61.4154
+      }
+    },
+    {
+      "source": "terminal",
+      "target": "hyper",
+      "curve": {
+        "x": 9.43158,
+        "y": 133.118
+      }
+    }
+  ]
+}

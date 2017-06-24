@@ -1,0 +1,90 @@
+{
+  "title": "learn anything - cognitive science - cognition",
+  "nodes": [
+    {
+      "text": "cognition",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Cognition",
+      "fx": 80.5974916757242,
+      "fy": -399.9073433524906,
+      "category": "wiki"
+    },
+    {
+      "text": "teaching",
+      "url": "",
+      "fx": -193.18454850196156,
+      "fy": -255.7722084123523
+    },
+    {
+      "text": "motivation  ️",
+      "url": "/cognitive-science/cognition/motivation",
+      "fx": 306.69064465408815,
+      "fy": -257.53031510283887,
+      "category": "mindmap"
+    },
+    {
+      "text": "learning  ️",
+      "url": "/cognitive-science/cognition/learning",
+      "fx": -18.858738469142622,
+      "fy": -257.3712720520641,
+      "category": "mindmap"
+    },
+    {
+      "text": "rationality  ️",
+      "url": "/cognitive-science/cognition/rationality",
+      "fx": 135.25559403448835,
+      "fy": -256.23933946211565,
+      "category": "mindmap"
+    },
+    {
+      "text": "emotions  ️",
+      "url": "/cognitive-science/cognition/emotions",
+      "fx": 479.5420413669067,
+      "fy": -255.7176258992805,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "teaching",
+      "target": "learning  ️",
+      "curve": {
+        "x": 85.4129,
+        "y": -0.799532
+      }
+    },
+    {
+      "source": "cognition",
+      "target": "learning  ️",
+      "curve": {
+        "x": -52.7281,
+        "y": 71.268
+      }
+    },
+    {
+      "source": "cognition",
+      "target": "rationality  ️",
+      "curve": {
+        "x": 28.079,
+        "y": 71.834
+      }
+    },
+    {
+      "source": "cognition",
+      "target": "motivation  ️",
+      "curve": {
+        "x": 101.797,
+        "y": 69.9385
+      }
+    },
+    {
+      "source": "cognition",
+      "target": "emotions  ️",
+      "curve": {
+        "x": 265.727,
+        "y": 68.5938
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "learn anything - medicine - specialties - psychiatry - mental disorders",
+  "nodes": [
+    {
+      "text": "mental disorders",
+      "url": "http://www.wikiwand.com/en/Mental_disorder",
+      "fx": -25.0234375,
+      "fy": -196.86810661764707,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 34.78896239807818,
+      "fy": -80.43921993304713
+    },
+    {
+      "text": "addiction  ️",
+      "url": "/medicine/specialties/psychiatry/mental-disorders/addiction",
+      "fx": 178.10279406821746,
+      "fy": 7.628243691180046,
+      "category": "mindmap"
+    },
+    {
+      "text": "anxiety  ️",
+      "url": "/medicine/specialties/psychiatry/mental-disorders/anxiety",
+      "fx": -90.08270701476795,
+      "fy": 27.917721518987378,
+      "category": "mindmap"
+    },
+    {
+      "text": "depression  ️",
+      "url": "/medicine/specialties/psychiatry/mental-disorders/depression",
+      "fx": 62.78555590175279,
+      "fy": 117.98256528419574,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. psychological disorders",
+      "url": "https://www.youtube.com/watch?v=wuhJ-GkRRQc",
+      "fx": 190.78896239807818,
+      "fy": -68.93921993304713,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "mental disorders",
+      "target": "basics",
+      "curve": {
+        "x": -0.3438,
+        "y": 56.9644
+      }
+    },
+    {
+      "source": "basics",
+      "target": "addiction  ️",
+      "curve": {
+        "x": 85.1569,
+        "y": 45.2837
+      }
+    },
+    {
+      "source": "basics",
+      "target": "depression  ️",
+      "curve": {
+        "x": 18.2579,
+        "y": 100.461
+      }
+    },
+    {
+      "source": "basics",
+      "target": "anxiety  ️",
+      "curve": {
+        "x": -61.1858,
+        "y": 54.1785
+      }
+    }
+  ]
+}

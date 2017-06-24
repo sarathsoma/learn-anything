@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - physics - condensed matter physics",
+  "nodes": [
+    {
+      "text": "condensed matter physics",
+      "url": "http://www.wikiwand.com/en/Condensed_matter_physics",
+      "fx": -277.72184619815664,
+      "fy": -32.5047523041475,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -177.11693548387075,
+      "fy": 119.95283698158033
+    },
+    {
+      "text": "solid-state physics",
+      "url": "http://www.wikiwand.com/en/Solid-state_physics",
+      "fx": -330.9603439977227,
+      "fy": 272.92269017907483,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. so close and such a stranger: documentary about condensed matter physics",
+      "url": "https://www.youtube.com/watch?v=3De1rLxvzyU",
+      "fx": -21.116935483870748,
+      "fy": 78.45283698158033,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. principles of condensed matter physics",
+      "url": "http://www.dsf.unica.it/~fiore/libricorsoptr/Chaikin%20Lubensky%20-%20Principles%20of%20Condensed%20Matter%20Physics.jb2.pdf",
+      "fx": -21.116935483870748,
+      "fy": 162.45283698158033,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "condensed matter physics",
+      "target": "basics",
+      "curve": {
+        "x": -2.44754,
+        "y": 74.9788
+      }
+    },
+    {
+      "source": "basics",
+      "target": "solid-state physics",
+      "curve": {
+        "x": -42.1717,
+        "y": 77.7349
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "title": "learn anything - marketing",
+  "nodes": [
+    {
+      "text": "marketing",
+      "url": "http://www.wikiwand.com/en/Marketing",
+      "fx": -64.16622920980694,
+      "fy": -382.8829336071209,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 55.45492300710043,
+      "fy": -279.4517804865375
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -110.99180831971341,
+      "fy": -77.16281670800862
+    },
+    {
+      "text": "growth hacking  ️",
+      "note": "how to accelerate startup growth, acquire and keep new customers",
+      "url": "/marketing/growth-hacking",
+      "fx": -100.15428748180182,
+      "fy": 110.39230995605385,
+      "category": "mindmap"
+    },
+    {
+      "text": "advertising  ️",
+      "url": "/marketing/advertising",
+      "fx": -530.8002853393555,
+      "fy": 111.15017509460449,
+      "category": "mindmap"
+    },
+    {
+      "text": "digital marketing  ️",
+      "url": "/marketing/digital-marketing",
+      "fx": -343.56883362058875,
+      "fy": 111.27779775989325,
+      "category": "mindmap"
+    },
+    {
+      "text": "multi-level marketing  ️",
+      "fx": -1030.8136203972872,
+      "fy": 113.0194706879845,
+      "category": "mindmap"
+    },
+    {
+      "text": "affiliate marketing  ️",
+      "url": "/marketing/affiliate-marketing",
+      "fx": -762.9415584415584,
+      "fy": 114.16477272727263,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/marketing/",
+      "fx": 152.83377079019306,
+      "fy": -368.8829336071209,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "marketing"
+    },
+    {
+      "text": "marketing for engineers",
+      "url": "https://github.com/LisaDziuba/Marketing-for-Engineers",
+      "fx": 192.45492300710043,
+      "fy": -284.9517804865375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "growth tools",
+      "url": "http://growthtools.io/",
+      "fx": 192.45492300710043,
+      "fy": -244.95178048653747,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. contagious: why things catch on",
+      "url": "https://www.goodreads.com/book/show/15801967-contagious",
+      "fx": 71.00819168028659,
+      "fy": -169.66281670800862,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. how brands grow: what marketers don't know",
+      "url": "https://www.goodreads.com/book/show/9128288-how-brands-grow",
+      "fx": 71.00819168028659,
+      "fy": -107.66281670800862,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. positioning: the battle for your mind: how to be seen and heard in the overcrowded marketplace",
+      "url": "https://www.goodreads.com/book/show/760025.Positioning",
+      "fx": 71.00819168028659,
+      "fy": -45.66281670800862,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. traction",
+      "url": "http://tractionbook.com/",
+      "fx": 71.00819168028659,
+      "fy": 38.33718329199138,
+      "category": "non-free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "marketing",
+      "target": "basics",
+      "curve": {
+        "x": -24.9128,
+        "y": 152.86
+      }
+    },
+    {
+      "source": "basics",
+      "target": "growth hacking  ️",
+      "curve": {
+        "x": 19.1688,
+        "y": 93.7775
+      }
+    },
+    {
+      "source": "help",
+      "target": "marketing",
+      "curve": {
+        "x": -39.8105,
+        "y": -50.4657
+      }
+    },
+    {
+      "source": "basics",
+      "target": "digital marketing  ️",
+      "curve": {
+        "x": -93.0385,
+        "y": 95.4703
+      }
+    },
+    {
+      "source": "basics",
+      "target": "advertising  ️",
+      "curve": {
+        "x": -258.91,
+        "y": 79.0474
+      }
+    },
+    {
+      "source": "basics",
+      "target": "affiliate marketing  ️",
+      "curve": {
+        "x": -348.342,
+        "y": 52.9216
+      }
+    },
+    {
+      "source": "basics",
+      "target": "multi-level marketing  ️",
+      "curve": {
+        "x": -520.977,
+        "y": 36.0169
+      }
+    }
+  ]
+}

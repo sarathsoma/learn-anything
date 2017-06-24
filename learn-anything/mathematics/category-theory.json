@@ -1,0 +1,131 @@
+{
+  "title": "learn anything - mathematics - category theory",
+  "nodes": [
+    {
+      "text": "category theory",
+      "url": "http://www.wikiwand.com/en/Category_theory",
+      "fx": -152.48117405746098,
+      "fy": -126.05984112394964,
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 24.481335644815317,
+      "fy": 5.921654772977718
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -129.58813589848842,
+      "fy": 266.85503147571114
+    },
+    {
+      "text": "profunctors  ️",
+      "fx": -262.0255025519741,
+      "fy": 471.5246473379576,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "category theory, syntactically  ️",
+      "url": "http://www.hedonisticlearning.com/posts/category-theory-syntactically.html",
+      "fx": 186.48133564481532,
+      "fy": 17.421654772977718,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. basic category theory",
+      "url": "https://arxiv.org/pdf/1612.09375.pdf",
+      "fx": 52.41186410151158,
+      "fy": 114.35503147571114,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. category theory for scientists",
+      "url": "https://arxiv.org/abs/1302.6946",
+      "fx": 52.41186410151158,
+      "fy": 154.35503147571114,
+      "category": "paper",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. conceptual mathematics: a first introduction to categories",
+      "url": "http://www.goodreads.com/book/show/1511125.Conceptual_Mathematics",
+      "fx": 52.41186410151158,
+      "fy": 194.35503147571114,
+      "category": "non-free book",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. category theory for programmers",
+      "url": "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
+      "fx": 52.41186410151158,
+      "fy": 256.35503147571114,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. category theory lectures",
+      "url": "https://www.youtube.com/watch?v=I8LbkfSSR58&amp;list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_",
+      "fx": 52.41186410151158,
+      "fy": 318.35503147571114,
+      "category": "video",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. category theory by Tom Lagatta",
+      "url": "https://www.youtube.com/watch?v=o6L6XeNdd_k&amp;feature=youtu.be",
+      "fx": 52.41186410151158,
+      "fy": 358.35503147571114,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. the categorical abstract machine",
+      "url": "http://www.sciencedirect.com/science/article/pii/0167642387900207",
+      "fx": 52.41186410151158,
+      "fy": 420.35503147571114,
+      "category": "paper",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "category theory",
+      "target": "basics",
+      "curve": {
+        "x": -16.5534,
+        "y": 195.207
+      }
+    },
+    {
+      "source": "articles",
+      "target": "category theory",
+      "curve": {
+        "x": -61.9813,
+        "y": -64.7407
+      }
+    },
+    {
+      "source": "basics",
+      "target": "profunctors  ️",
+      "curve": {
+        "x": -61.2187,
+        "y": 102.335
+      }
+    }
+  ]
+}

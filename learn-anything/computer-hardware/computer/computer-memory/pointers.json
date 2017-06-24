@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - computer hardware - computer - computer memory - pointers",
+  "nodes": [
+    {
+      "text": "pointers",
+      "url": "http://www.wikiwand.com/en/Pointer_(computer_programming)",
+      "fx": -192.05859375,
+      "fy": -85.359375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -173.40234375,
+      "fy": 44.9375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is a pointer  ️",
+      "url": "https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back",
+      "fx": -17.40234375,
+      "fy": 56.4375,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "pointers",
+      "target": "basics",
+      "curve": {
+        "x": 0.828125,
+        "y": 63.8984
+      }
+    }
+  ]
+}

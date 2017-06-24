@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - computer science - concurrency",
+  "nodes": [
+    {
+      "text": "concurrency",
+      "url": "http://www.wikiwand.com/en/Concurrency",
+      "fx": -274.5078125,
+      "fy": -323.33203125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -243.68359375,
+      "fy": -192.90625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the deadlock empire",
+      "url": "https://deadlockempire.github.io/",
+      "fx": -61.68359375,
+      "fy": -181.40625,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "concurrency",
+      "target": "basics",
+      "curve": {
+        "x": -5.33789,
+        "y": 63.9629
+      }
+    }
+  ]
+}

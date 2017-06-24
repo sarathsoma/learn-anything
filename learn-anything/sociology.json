@@ -1,0 +1,132 @@
+{
+  "title": "learn anything - sociology",
+  "nodes": [
+    {
+      "text": "sociology",
+      "url": "http://www.wikiwand.com/en/Sociology",
+      "fx": -71.6828710077092,
+      "fy": -231.49187775330392,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -41.56617549326256,
+      "fy": -105.50238673896473
+    },
+    {
+      "text": "society",
+      "note": "is a group of people involved in persistent social interaction, or a large social grouping sharing the same geographical or social territory, typically subject to the same political authority and dominant cultural expectations  they are characterised by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions",
+      "url": "http://www.wikiwand.com/en/Society",
+      "fx": -76.19178457383975,
+      "fy": 20.67861540905858,
+      "category": "wiki"
+    },
+    {
+      "text": "social change",
+      "url": "http://www.wikiwand.com/en/Social_change",
+      "fx": -106.91566753387451,
+      "fy": 150.53414916992188,
+      "category": "wiki"
+    },
+    {
+      "text": "activism",
+      "note": "consists of efforts to promote, impede, or direct social, political, economic, and/or environmental reform or stasis with the desire to make improvements in society  forms of activism range from writing letters to newspapers or to politicians, political campaigning, economic activism such as boycotts or preferentially patronising businesses, rallies, street marches, strikes, sit-ins, and hunger strikes",
+      "url": "http://www.wikiwand.com/en/Activism",
+      "fx": -98.28535917207671,
+      "fy": 276.5494622564968,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/sociology/",
+      "fx": 141.3171289922908,
+      "fy": -217.49187775330392,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "sociology"
+    },
+    {
+      "text": "1. crash course sociology",
+      "url": "https://www.youtube.com/watch?v=YnCJU6PaCio&amp;list=PL8dPuuaLjXtMJ-AfB_7J1538YKWkZAnGA&amp;index=2",
+      "fx": 140.43382450673744,
+      "fy": -134.00238673896473,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the sociological imagination",
+      "url": "http://www.goodreads.com/book/show/414773.The_Sociological_Imagination",
+      "fx": 140.43382450673744,
+      "fy": -94.00238673896473,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. four sociological traditions",
+      "url": "http://www.goodreads.com/book/show/879073.Four_Sociological_Traditions",
+      "fx": 140.43382450673744,
+      "fy": -54.00238673896473,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "escape to another world  ️",
+      "url": "https://www.1843magazine.com/features/escape-to-another-world",
+      "fx": 140.80821542616025,
+      "fy": 34.67861540905858,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "society"
+    },
+    {
+      "text": "tools for activism",
+      "url": "https://github.com/drewrwilson/toolsforactivism",
+      "fx": 127.71464082792329,
+      "fy": 290.5494622564968,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "activism"
+    }
+  ],
+  "connections": [
+    {
+      "source": "sociology",
+      "target": "basics",
+      "curve": {
+        "x": 0.808348,
+        "y": 61.7447
+      }
+    },
+    {
+      "source": "basics",
+      "target": "society",
+      "curve": {
+        "x": -15.0628,
+        "y": 64.3405
+      }
+    },
+    {
+      "source": "society",
+      "target": "social change",
+      "curve": {
+        "x": -0.36194,
+        "y": 64.9278
+      }
+    },
+    {
+      "source": "social change",
+      "target": "activism",
+      "curve": {
+        "x": -8.43485,
+        "y": 63.0077
+      }
+    }
+  ]
+}

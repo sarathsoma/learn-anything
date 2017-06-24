@@ -1,0 +1,148 @@
+{
+  "title": "learn anything - linguistics",
+  "nodes": [
+    {
+      "text": "linguistics",
+      "url": "http://www.wikiwand.com/en/Linguistics",
+      "fx": -86.75191304831435,
+      "fy": -370.47431861455715,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 57.074932707458174,
+      "fy": -259.9923133315753
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -136.6802827661686,
+      "fy": -133.44853103522127
+    },
+    {
+      "text": "languages  ️",
+      "url": "/linguistics/languages",
+      "fx": -259.6507457386364,
+      "fy": 22.13156960227161,
+      "category": "mindmap"
+    },
+    {
+      "text": "morphology  ️",
+      "url": "/linguistics/morphology",
+      "fx": -450.11610583843674,
+      "fy": 25.160235176534,
+      "category": "mindmap"
+    },
+    {
+      "text": "computational linguistics  ️",
+      "fx": -78.83876433006935,
+      "fy": 25.265833980176808,
+      "category": "mindmap"
+    },
+    {
+      "text": "formal language  ️",
+      "fx": -677.0424292501172,
+      "fy": 25.409943813409086,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/linguistics/",
+      "fx": 127.24808695168565,
+      "fy": -376.47431861455715,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "linguistics"
+    },
+    {
+      "text": "️",
+      "url": "https://linguistics.stackexchange.com/",
+      "fx": 127.24808695168565,
+      "fy": -336.47431861455715,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "linguistics"
+    },
+    {
+      "text": "awesome linguistics",
+      "url": "https://github.com/theimpossibleastronaut/awesome-linguistics",
+      "fx": 194.07493270745817,
+      "fy": -248.4923133315753,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. course in general linguistics",
+      "url": "http://home.wlu.edu/~levys/courses/anth252f2006/saussure.pdf",
+      "fx": 45.3197172338314,
+      "fy": -152.94853103522127,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the atoms of language: the mind's hidden rules of grammar",
+      "url": "https://www.goodreads.com/book/show/926311.The_Atoms_Of_Language",
+      "fx": 45.3197172338314,
+      "fy": -112.94853103522127,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "linguistics",
+      "target": "basics",
+      "curve": {
+        "x": -32.7142,
+        "y": 118.513
+      }
+    },
+    {
+      "source": "help",
+      "target": "linguistics",
+      "curve": {
+        "x": -58.6635,
+        "y": -55.241
+      }
+    },
+    {
+      "source": "basics",
+      "target": "languages  ️",
+      "curve": {
+        "x": -51.9853,
+        "y": 79.0401
+      }
+    },
+    {
+      "source": "basics",
+      "target": "computational linguistics  ️",
+      "curve": {
+        "x": 70.6707,
+        "y": 80.6072
+      }
+    },
+    {
+      "source": "basics",
+      "target": "morphology  ️",
+      "curve": {
+        "x": -116.051,
+        "y": 52.7195
+      }
+    },
+    {
+      "source": "basics",
+      "target": "formal language  ️",
+      "curve": {
+        "x": -287.965,
+        "y": 43.7025
+      }
+    }
+  ]
+}

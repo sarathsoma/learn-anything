@@ -1,0 +1,112 @@
+{
+  "title": "learn anything - art - music - guitar",
+  "nodes": [
+    {
+      "text": "guitar",
+      "url": "http://www.wikiwand.com/en/Guitar",
+      "fx": 2427.4026794433594,
+      "fy": -3989.2539462730538,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 2522.2325744628906,
+      "fy": -3882.0546264648438
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 2583.6810302734375,
+      "fy": -3779.4462280273438
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 2423.9075185652264,
+      "fy": -3672.311746501236
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Guitar/",
+      "fx": 2605.4026794433594,
+      "fy": -3975.2539462730538,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "guitar"
+    },
+    {
+      "text": "LickNRiff",
+      "url": "https://www.youtube.com/user/LickNRiff/videos",
+      "fx": 2659.2325744628906,
+      "fy": -3890.5546264648438,
+      "category": "youtube",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "guitar specs",
+      "url": "https://github.com/gitfrage/guitarspecs",
+      "fx": 2659.2325744628906,
+      "fy": -3850.5546264648438,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "guitar tuner",
+      "url": "https://guitar-tuner.appspot.com/",
+      "fx": 2725.6810302734375,
+      "fy": -3764.9462280273438,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. beginner’s course",
+      "url": "https://www.justinguitar.com/en/BC-000-BeginnersCourse.php",
+      "fx": 2605.9075185652264,
+      "fy": -3680.811746501236,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. intermediate guitar",
+      "url": "https://www.justinguitar.com/en/IM-000-IntermediateMethod.php",
+      "fx": 2605.9075185652264,
+      "fy": -3640.811746501236,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "guitar",
+      "target": "basics",
+      "curve": {
+        "x": 0.0024225,
+        "y": 158.471
+      }
+    },
+    {
+      "source": "help",
+      "target": "guitar",
+      "curve": {
+        "x": -37.1649,
+        "y": -52.3497
+      }
+    },
+    {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -31.9742,
+        "y": -51.3042
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - neuroscience - human brain - memories",
+  "nodes": [
+    {
+      "text": "memory",
+      "url": "http://www.wikiwand.com/en/Memory",
+      "fx": -121.97643799800801,
+      "fy": -203.68821588645415,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -98.58203125,
+      "fy": -75.92312001992036
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. how we make memories",
+      "url": "https://www.youtube.com/watch?v=bSycdIx-C48",
+      "fx": 57.41796875,
+      "fy": -64.42312001992036,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "memory",
+      "target": "basics",
+      "curve": {
+        "x": 0.447203,
+        "y": 62.6325
+      }
+    }
+  ]
+}

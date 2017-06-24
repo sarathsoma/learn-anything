@@ -1,0 +1,115 @@
+{
+  "title": "learn anything - web development - static site generators",
+  "nodes": [
+    {
+      "text": "static web pages",
+      "note": "if you think this can be improved in any way ",
+      "url": "http://www.wikiwand.com/en/Static_web_page",
+      "fx": -65.86578773443739,
+      "fy": -419.68185417498,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 150.61246293353395,
+      "fy": -309.2271073616869
+    },
+    {
+      "text": "static website generators",
+      "url": "",
+      "fx": -148.23706218540258,
+      "fy": -195.2939453125
+    },
+    {
+      "text": "hugo  ️",
+      "url": "/web-development/static-site-generators/hugo",
+      "fx": -324.7534361489285,
+      "fy": -75.11292244060382,
+      "category": "mindmap"
+    },
+    {
+      "text": "hakyll",
+      "url": "https://github.com/jaspervdj/hakyll",
+      "fx": -42.70765644187543,
+      "fy": -74.7349714106632,
+      "category": "github"
+    },
+    {
+      "text": "jekyll  ️",
+      "url": "/web-development/static-site-generators/jekyll",
+      "fx": -173.88148206602602,
+      "fy": -74.32266507998429,
+      "category": "mindmap"
+    },
+    {
+      "text": "phenomic",
+      "note": "based on the React and Webpack ecosystem",
+      "url": "https://github.com/MoOx/phenomic",
+      "fx": 93.2132316468244,
+      "fy": -72.91331845238119,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome static website services",
+      "url": "https://github.com/aharris88/awesome-static-website-services",
+      "fx": 287.61246293353395,
+      "fy": -308.7271073616869,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "static web pages",
+      "target": "static website generators",
+      "curve": {
+        "x": -30.1856,
+        "y": 110.944
+      }
+    },
+    {
+      "source": "static website generators",
+      "target": "hakyll",
+      "curve": {
+        "x": 16.0147,
+        "y": 61.5295
+      }
+    },
+    {
+      "source": "help",
+      "target": "static web pages",
+      "curve": {
+        "x": -65.7391,
+        "y": -53.9774
+      }
+    },
+    {
+      "source": "static website generators",
+      "target": "phenomic",
+      "curve": {
+        "x": 93.7251,
+        "y": 62.4403
+      }
+    },
+    {
+      "source": "static website generators",
+      "target": "hugo  ️",
+      "curve": {
+        "x": -126.258,
+        "y": 61.3405
+      }
+    },
+    {
+      "source": "static website generators",
+      "target": "jekyll  ️",
+      "curve": {
+        "x": -51.5722,
+        "y": 61.7356
+      }
+    }
+  ]
+}

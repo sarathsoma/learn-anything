@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - machine learning - deep learning - autonomous driving",
+  "nodes": [
+    {
+      "text": "autonomous driving",
+      "url": "http://www.wikiwand.com/en/Autonomous_car",
+      "fx": -163.94140625,
+      "fy": -262.6640625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -89.37919061302671,
+      "fy": -101.55100574712645
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. learning to drive  ️",
+      "url": "http://lab.janhuenermann.de/article/learning-to-drive",
+      "fx": 66.62080938697329,
+      "fy": -90.05100574712645,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "autonomous driving",
+      "target": "basics",
+      "curve": {
+        "x": -0.218892,
+        "y": 79.3065
+      }
+    }
+  ]
+}

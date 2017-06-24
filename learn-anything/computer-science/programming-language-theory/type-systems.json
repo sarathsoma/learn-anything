@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - computer science - programming language theory - type systems",
+  "nodes": [
+    {
+      "text": "type systems",
+      "url": "http://www.wikiwand.com/en/Type_system",
+      "fx": -111.92578125,
+      "fy": -153.19140625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -69.51214361190796,
+      "fy": -45.182718716458794
+    },
+    {
+      "text": "type classes  ️",
+      "url": "/computer-science/programming-language-theory/type-systems/type-classes",
+      "fx": -207.080357142857,
+      "fy": 72.99798387098076,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=ozwFIuVfPsQ",
+      "fx": 86.48785638809204,
+      "fy": -33.682718716458794,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "type systems",
+      "target": "basics",
+      "curve": {
+        "x": 0.956819,
+        "y": 52.7543
+      }
+    },
+    {
+      "source": "basics",
+      "target": "type classes  ️",
+      "curve": {
+        "x": -55.2841,
+        "y": 59.0904
+      }
+    }
+  ]
+}

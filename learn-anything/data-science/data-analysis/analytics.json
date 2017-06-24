@@ -1,0 +1,68 @@
+{
+  "title": "learn anything - data science - data analysis - analytics",
+  "nodes": [
+    {
+      "text": "analytics",
+      "url": "http://www.wikiwand.com/en/Analytics",
+      "fx": 77.69140625,
+      "fy": -213.68359375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 100.50542068481445,
+      "fy": -93.72172737121582
+    },
+    {
+      "text": "web analytics  ️",
+      "fx": 125.36039959016364,
+      "fy": 48.056181693989004,
+      "category": "mindmap"
+    },
+    {
+      "text": "predictive analytics  ️",
+      "url": "/data-science/data-analysis/analytics/predictive-analytics",
+      "fx": -135.13517556225293,
+      "fy": 48.34643067756713,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. how it works: analytics",
+      "url": "https://www.youtube.com/watch?v=_HbjsNaUJ2A",
+      "fx": 256.50542068481445,
+      "fy": -82.22172737121582,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "analytics",
+      "target": "basics",
+      "curve": {
+        "x": -0.842993,
+        "y": 58.7309
+      }
+    },
+    {
+      "source": "basics",
+      "target": "predictive analytics  ️",
+      "curve": {
+        "x": -82.3203,
+        "y": 72.2841
+      }
+    },
+    {
+      "source": "basics",
+      "target": "web analytics  ️",
+      "curve": {
+        "x": 28.6775,
+        "y": 70.889
+      }
+    }
+  ]
+}

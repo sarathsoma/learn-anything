@@ -1,0 +1,215 @@
+{
+  "title": "learn anything - design - typesetting - latex",
+  "nodes": [
+    {
+      "text": "LaTeX",
+      "url": "http://www.wikiwand.com/en/LaTeX",
+      "fx": -133.80477873974417,
+      "fy": -337.0260656181764,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -17.63632869720459,
+      "fy": -148.3899811816816
+    },
+    {
+      "text": "inspiration",
+      "url": "",
+      "fx": 97.15741652104953,
+      "fy": 24.383965459403953
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -140.93434535699544,
+      "fy": 109.22121607351937
+    },
+    {
+      "text": "packages",
+      "url": "",
+      "fx": -176.31038533834578,
+      "fy": 217.29738408521348
+    },
+    {
+      "text": "booktabs",
+      "url": "https://www.ctan.org/pkg/booktabs?lang=en",
+      "fx": -397.3754425048828,
+      "fy": 277.8074580601283
+    },
+    {
+      "text": "microtype",
+      "url": "https://www.ctan.org/pkg/microtype?lang=en",
+      "fx": -72.33958983421326,
+      "fy": 303.8929138183594
+    },
+    {
+      "text": "cleverref",
+      "note": "make references easier and consistent",
+      "url": "https://www.ctan.org/pkg/cleveref?lang=en",
+      "fx": -220.46453475952148,
+      "fy": 357.6796875
+    },
+    {
+      "text": "todonotes",
+      "url": "https://www.ctan.org/pkg/todonotes?lang=en",
+      "fx": -379.1329002380371,
+      "fy": 384.12503814697266
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/LaTeX/",
+      "fx": 48.195221260255835,
+      "fy": -343.0260656181764,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "LaTeX"
+    },
+    {
+      "text": "️",
+      "url": "https://tex.stackexchange.com/",
+      "fx": 48.195221260255835,
+      "fy": -303.0260656181764,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "LaTeX"
+    },
+    {
+      "text": "the comprehensive LaTeX symbol list",
+      "url": "http://mirrors.rit.edu/CTAN/info/symbols/comprehensive/symbols-a4.pdf",
+      "fx": 119.36367130279541,
+      "fy": -215.8899811816816,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "detexify",
+      "note": "draw symbols and get respective latex code and package",
+      "url": "http://detexify.kirelabs.org/classify.html",
+      "fx": 119.36367416381836,
+      "fy": -160.38000193363473,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "overleaf",
+      "note": "collaborative writing and publishing",
+      "url": "https://www.overleaf.com/",
+      "fx": 119.36367130279541,
+      "fy": -125.8899811816816,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "latex wikibook",
+      "url": "https://en.wikibooks.org/wiki/LaTeX",
+      "fx": 119.36367130279541,
+      "fy": -91.8899811816816,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome latex",
+      "url": "https://github.com/egeerardyn/awesome-LaTeX",
+      "fx": 119.36367130279541,
+      "fy": -57.889981181681605,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "showcase  of beautiful typography done in TeX",
+      "url": "http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends",
+      "fx": 287.1574165210495,
+      "fy": 27.883965459403953,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "inspiration"
+    },
+    {
+      "text": "1. begin latex in minutes",
+      "url": "https://github.com/VoLuong/Begin-Latex-in-minutes",
+      "fx": 41.065654643004564,
+      "fy": 106.72121607351937,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learn latex in 30 minutes",
+      "url": "https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes",
+      "fx": 41.065654643004564,
+      "fy": 140.72121607351937,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "LaTeX",
+      "target": "basics",
+      "curve": {
+        "x": -6.81479,
+        "y": 221.874
+      }
+    },
+    {
+      "source": "help",
+      "target": "LaTeX",
+      "curve": {
+        "x": -50.0842,
+        "y": -93.068
+      }
+    },
+    {
+      "source": "inspiration",
+      "target": "help",
+      "curve": {
+        "x": -93.3885,
+        "y": -68.0276
+      }
+    },
+    {
+      "source": "basics",
+      "target": "packages",
+      "curve": {
+        "x": -16.688,
+        "y": 54.0381
+      }
+    },
+    {
+      "source": "packages",
+      "target": "microtype",
+      "curve": {
+        "x": 52.4854,
+        "y": 43.2978
+      }
+    },
+    {
+      "source": "packages",
+      "target": "cleverref",
+      "curve": {
+        "x": -18.5771,
+        "y": 70.1912
+      }
+    },
+    {
+      "source": "packages",
+      "target": "todonotes",
+      "curve": {
+        "x": -100.411,
+        "y": 83.4138
+      }
+    },
+    {
+      "source": "packages",
+      "target": "booktabs",
+      "curve": {
+        "x": -111.033,
+        "y": 30.255
+      }
+    }
+  ]
+}

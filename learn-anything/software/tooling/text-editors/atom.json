@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - software - tooling - text editors - atom",
+  "nodes": [
+    {
+      "text": "atom",
+      "url": "https://github.com/atom/atom",
+      "fx": -67.71484375,
+      "fy": -186.0859375,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 27.986328125,
+      "fy": -82.90491832386363
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -57.00994318181813,
+      "fy": 2.099431818181756
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome atom",
+      "url": "https://github.com/mehcode/awesome-atom",
+      "fx": 164.986328125,
+      "fy": -91.40491832386363,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome atom packages",
+      "url": "https://github.com/shery15/awesome-atom-packages",
+      "fx": 164.986328125,
+      "fy": -51.404918323863626,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. atom flight manual",
+      "url": "https://flight-manual.atom.io/",
+      "fx": 124.99005681818187,
+      "fy": 13.599431818181756,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "atom",
+      "curve": {
+        "x": -38.6006,
+        "y": -50.3405
+      }
+    },
+    {
+      "source": "atom",
+      "target": "basics",
+      "curve": {
+        "x": 0.85245,
+        "y": 92.8427
+      }
+    }
+  ]
+}

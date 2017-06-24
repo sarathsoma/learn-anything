@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - physics - optics",
+  "nodes": [
+    {
+      "text": "optics",
+      "url": "http://www.wikiwand.com/en/Optics",
+      "fx": -51.66732548639686,
+      "fy": -134.00522232055664,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -49.62890672683716,
+      "fy": 2.9696531295776367
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. learn optics",
+      "url": "http://www.learnoptics.com/",
+      "fx": 132.37109327316284,
+      "fy": -5.530346870422363,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. waves &amp; optics",
+      "url": "https://www.edx.org/course/waves-optics-ricex-phys201x",
+      "fx": 132.37109327316284,
+      "fy": 34.46965312957764,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "optics",
+      "target": "basics",
+      "curve": {
+        "x": -5.48079,
+        "y": 67.2374
+      }
+    }
+  ]
+}

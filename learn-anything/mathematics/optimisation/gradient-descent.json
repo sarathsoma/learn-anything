@@ -1,0 +1,94 @@
+{
+  "title": "learn anything - mathematics - optimisation - gradient descent",
+  "nodes": [
+    {
+      "text": "gradient descent",
+      "url": "http://www.wikiwand.com/en/Gradient_descent",
+      "fx": -121.5087890625,
+      "fy": -295.6769353693182,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 60.22052192687977,
+      "fy": -178.10420504483312
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 170.21528764204527,
+      "fy": -77.53702059659167
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -78.1860457251081,
+      "fy": 46.713981331168895
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "gradient descent example",
+      "url": "https://github.com/mattnedrich/GradientDescentExample",
+      "fx": 197.22052192687977,
+      "fy": -166.60420504483312,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: types of optimisation algorithms used in neural networks and ways to optimise gradient descent  ️",
+      "url": "https://medium.com/towards-data-science/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f",
+      "fx": 332.21528764204527,
+      "fy": -88.03702059659167,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. gradient descent",
+      "url": "https://www.youtube.com/watch?v=LN0PLnDpGN4",
+      "fx": 77.8139542748919,
+      "fy": 27.213981331168895,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. neural networks demystified : gradient descent",
+      "url": "https://www.youtube.com/watch?v=5u0jaA3qAGk",
+      "fx": 77.8139542748919,
+      "fy": 67.2139813311689,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "gradient descent",
+      "target": "basics",
+      "curve": {
+        "x": -9.08863,
+        "y": 169.946
+      }
+    },
+    {
+      "source": "help",
+      "target": "gradient descent",
+      "curve": {
+        "x": -55.3646,
+        "y": -57.5363
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -61.2474,
+        "y": -50.2836
+      }
+    }
+  ]
+}

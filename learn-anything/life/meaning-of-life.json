@@ -1,0 +1,78 @@
+{
+  "title": "learn anything - life - meaning of life",
+  "nodes": [
+    {
+      "text": "meaning of life",
+      "url": "http://www.wikiwand.com/en/Meaning_of_life",
+      "fx": 158.81472156398092,
+      "fy": -142.37707345971563,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 204.50514796052778,
+      "fy": -20.204486727101596
+    },
+    {
+      "text": "happiness  ️",
+      "url": "/cognitive-science/cognition/emotions/happiness",
+      "fx": 55.539062059751814,
+      "fy": 103.37526767098052,
+      "category": "mindmap"
+    },
+    {
+      "text": "love  ️",
+      "url": "/cognitive-science/cognition/emotions/love",
+      "fx": 266.962153098566,
+      "fy": 105.7306919783997,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the secret of life",
+      "url": "https://www.youtube.com/watch?v=iZ8so-ld-l0",
+      "fx": 360.5051479605278,
+      "fy": -28.704486727101596,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. is there a purpose to living?",
+      "url": "https://www.youtube.com/watch?v=21RwqnB8GrE",
+      "fx": 360.5051479605278,
+      "fy": 11.295513272898404,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "meaning of life",
+      "target": "basics",
+      "curve": {
+        "x": -2.65479,
+        "y": 59.8363
+      }
+    },
+    {
+      "source": "basics",
+      "target": "happiness  ️",
+      "curve": {
+        "x": -65.733,
+        "y": 61.7899
+      }
+    },
+    {
+      "source": "basics",
+      "target": "love  ️",
+      "curve": {
+        "x": 33.2285,
+        "y": 64.2176
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - biology - evolution",
+  "nodes": [
+    {
+      "text": "evolution",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Evolution",
+      "fx": -69.30736528268551,
+      "fy": -383.7212483436396,
+      "category": "wiki"
+    },
+    {
+      "text": "videos",
+      "url": "",
+      "fx": 1.95703125,
+      "fy": -269.453125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "13: how evolution works",
+      "url": "https://www.youtube.com/watch?v=hOfRN0KihOU",
+      "fx": 158.95703125,
+      "fy": -257.953125,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "videos"
+    }
+  ],
+  "connections": [
+    {
+      "source": "videos",
+      "target": "evolution",
+      "curve": {
+        "x": -22.8822,
+        "y": -55.8841
+      }
+    }
+  ]
+}

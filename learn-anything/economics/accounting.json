@@ -1,0 +1,90 @@
+{
+  "title": "learn anything - economics - accounting",
+  "nodes": [
+    {
+      "text": "accounting",
+      "url": "http://www.wikiwand.com/en/Accounting",
+      "fx": -131.32352028145692,
+      "fy": 10.548789321191975,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -116.5603070888211,
+      "fy": 161.28900843890273
+    },
+    {
+      "text": "financial accounting",
+      "url": "http://www.wikiwand.com/en/Financial_accounting",
+      "fx": -260.22231414295857,
+      "fy": 318.0032054057135,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Accounting/",
+      "fx": 95.67647971854308,
+      "fy": 24.548789321191975,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "accounting"
+    },
+    {
+      "text": "wiki",
+      "url": "https://www.reddit.com/r/Accounting/wiki/index",
+      "fx": 205.67647971854308,
+      "fy": 24.548789321191975,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "1. what is accounting?",
+      "url": "https://www.youtube.com/watch?v=sCH7u1xHsX0",
+      "fx": 65.4396929111789,
+      "fy": 155.78900843890273,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. accounting basics",
+      "url": "https://www.accountingcoach.com/accounting-basics/outline",
+      "fx": 65.4396929111789,
+      "fy": 195.78900843890273,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "videos on financial accounting",
+      "url": "http://bus.emory.edu/scrosso/FA%20Videos.htm",
+      "fx": 45.77768585704143,
+      "fy": 332.0032054057135,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "financial accounting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "accounting",
+      "target": "basics",
+      "curve": {
+        "x": -10.3684,
+        "y": 74.1201
+      }
+    },
+    {
+      "source": "basics",
+      "target": "financial accounting",
+      "curve": {
+        "x": -40.831,
+        "y": 79.6071
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "title": "learn anything - cognitive science - cognition - learning",
+  "nodes": [
+    {
+      "text": "learning",
+      "url": "http://www.wikiwand.com/en/Learning",
+      "fx": -71.69128047769311,
+      "fy": -161.77747808366996,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 51.618623372670754,
+      "fy": -38.90566229605463
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 108.83644372063713,
+      "fy": 134.63077839000806
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -74.87839041819257,
+      "fy": 340.1309467564547
+    },
+    {
+      "text": "information mapping  ️",
+      "url": "/cognitive-science/cognition/learning/information-mapping",
+      "fx": -323.14820658866984,
+      "fy": 522.9983579638754,
+      "category": "mindmap"
+    },
+    {
+      "text": "research  ️",
+      "url": "/cognitive-science/cognition/learning/research",
+      "fx": -22.41558173607143,
+      "fy": 527.2385892319953,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "how to study based on how memory works",
+      "url": "https://www.reddit.com/r/AskReddit/comments/2b0yf8/good_students_how_do_you_go_about_getting_good/cj0qre2/",
+      "fx": 188.61862337267075,
+      "fy": -75.40566229605463,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "getting things done by David Allen",
+      "url": "https://www.youtube.com/watch?v=xfnAK69XUVo",
+      "fx": 188.61862337267075,
+      "fy": -13.40566229605463,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how can I improve my focus",
+      "url": "https://www.quora.com/How-can-I-improve-my-focus-10/answer/Yishan-Wong?share=1",
+      "fx": 188.61862337267075,
+      "fy": 26.59433770394537,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: learning without a mentor: how to become an expert programmer on your own  ️",
+      "url": "https://codewithoutrules.com/2017/04/17/learning-without-a-mentor/",
+      "fx": 270.83644372063713,
+      "fy": 93.13077839000806,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "the timer knows best: why i love the pomodoro technique  ️",
+      "url": "http://heydave.org/post/26317198789/the-timer-knows-best-why-i-love-the-pomodoro",
+      "fx": 270.83644372063713,
+      "fy": 177.13077839000806,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. how to study  ️",
+      "url": "http://www.cse.buffalo.edu/~rapaport/howtostudy.html",
+      "fx": 107.12160958180743,
+      "fy": 260.6309467564547,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learning how to learn",
+      "url": "https://www.coursera.org/learn/learning-how-to-learn",
+      "fx": 107.12160958180743,
+      "fy": 300.6309467564547,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "based on this book",
+      "url": "http://www.goodreads.com/book/show/18693655-a-mind-for-numbers",
+      "fx": 395.12160958180743,
+      "fy": 300.6309467564547,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "1. learning how to learn"
+    },
+    {
+      "text": "1. how to learn on your own  ️",
+      "url": "https://metacademy.org/roadmaps/rgrosse/learn_on_your_own",
+      "fx": 107.12160958180743,
+      "fy": 340.6309467564547,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. why procrastinator’s procrastinate  ️",
+      "url": "http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html",
+      "fx": 107.12160958180743,
+      "fy": 380.6309467564547,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. study less, study smart",
+      "url": "https://www.youtube.com/watch?v=IlU-zDU6aQ0&amp;feature=youtu.be",
+      "fx": 107.12160958180743,
+      "fy": 442.6309467564547,
+      "category": "video",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "basics",
+      "target": "research  ️",
+      "curve": {
+        "x": 31.2314,
+        "y": 93.5538
+      }
+    },
+    {
+      "source": "help",
+      "target": "learning",
+      "curve": {
+        "x": -46.4049,
+        "y": -60.186
+      }
+    },
+    {
+      "source": "learning",
+      "target": "basics",
+      "curve": {
+        "x": -12.0935,
+        "y": 249.704
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -34.8589,
+        "y": -86.7682
+      }
+    },
+    {
+      "source": "basics",
+      "target": "information mapping  ️",
+      "curve": {
+        "x": -98.6349,
+        "y": 91.4337
+      }
+    }
+  ]
+}

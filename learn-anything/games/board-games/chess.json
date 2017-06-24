@@ -1,0 +1,106 @@
+{
+  "title": "learn anything - games - board games - chess",
+  "nodes": [
+    {
+      "text": "chess",
+      "url": "http://www.wikiwand.com/en/Chess",
+      "fx": -156.87890625,
+      "fy": -344.3515625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -58.07466007769108,
+      "fy": -181.65365982055664
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -167.8789371997118,
+      "fy": 5.008691787719727
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/chess/",
+      "fx": 24.12109375,
+      "fy": -350.3515625,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "chess"
+    },
+    {
+      "text": "️",
+      "url": "https://chess.stackexchange.com/",
+      "fx": 24.12109375,
+      "fy": -310.3515625,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "chess"
+    },
+    {
+      "text": "ChessNetwork",
+      "url": "https://www.youtube.com/user/ChessNetwork/videos",
+      "fx": 78.92533992230892,
+      "fy": -238.15365982055664,
+      "category": "youtube",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "climbing the rating ladder: up to 1000",
+      "url": "https://www.youtube.com/watch?v=U2huVf1l4UE&amp;list=PLl9uuRYQ-6MCBnhtCk_bTZsD8GxeWP6BV",
+      "fx": 78.92533992230892,
+      "fy": -198.15365982055664,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome chess",
+      "url": "https://github.com/hkirat/awesome-chess",
+      "fx": 78.92533992230892,
+      "fy": -136.15365982055664,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "chess tactics",
+      "url": "http://www.chesstactics.org/",
+      "fx": 78.92533992230892,
+      "fy": -96.15365982055664,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. chess academy",
+      "url": "https://www.chesscademy.com/",
+      "fx": 14.1210628002882,
+      "fy": 19.508691787719727,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "chess",
+      "curve": {
+        "x": -38.4022,
+        "y": -80.099
+      }
+    },
+    {
+      "source": "chess",
+      "target": "basics",
+      "curve": {
+        "x": -11.75,
+        "y": 173.431
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "learn anything - philosophy - spirituality",
+  "nodes": [
+    {
+      "text": "spirituality",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Spirituality",
+      "fx": -112.54976624015751,
+      "fy": -164.83203125,
+      "category": "wiki"
+    },
+    {
+      "text": "religion",
+      "url": "http://www.wikiwand.com/en/Religion",
+      "fx": -109.171875,
+      "fy": -46.71484375,
+      "category": "wiki"
+    },
+    {
+      "text": "buddhism  ️",
+      "url": "/philosophy/spirituality/buddhism",
+      "fx": -137.9545454545456,
+      "fy": 79.86363636363893,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "spirituality",
+      "target": "religion",
+      "curve": {
+        "x": -11.8111,
+        "y": 57.8086
+      }
+    },
+    {
+      "source": "religion",
+      "target": "buddhism  ️",
+      "curve": {
+        "x": -14.8913,
+        "y": 62.0392
+      }
+    }
+  ]
+}

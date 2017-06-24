@@ -1,0 +1,112 @@
+{
+  "title": "learn anything - economics - investing",
+  "nodes": [
+    {
+      "text": "investing",
+      "url": "http://www.wikiwand.com/en/Investment",
+      "fx": -135.68359375,
+      "fy": -285.76171875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -44.10721564292908,
+      "fy": -177.87726879119873
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": -5.1953125,
+      "fy": -55.22506648936172
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -120.61350757517721,
+      "fy": 74.25235732058275
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "bogleheads wiki",
+      "note": "",
+      "url": "https://www.bogleheads.org/wiki/Main_Page",
+      "fx": 92.89278435707092,
+      "fy": -194.37726879119873,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "investing start-up kit",
+      "url": "https://www.bogleheads.org/wiki/Bogleheads%c2%ae_investing_start-up_kit",
+      "fx": 320.8927843570709,
+      "fy": -194.37726879119873,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "bogleheads wiki"
+    },
+    {
+      "text": "investing returns on the market as a whole",
+      "url": "https://github.com/zonination/investing",
+      "fx": 92.89278435707092,
+      "fy": -160.37726879119873,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "11: how to make money in the stock market  ️",
+      "url": "http://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/",
+      "fx": 156.8046875,
+      "fy": -54.72506648936172,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. intelligent investor",
+      "url": "https://www.goodreads.com/book/show/106835.The_Intelligent_Investor",
+      "fx": 60.38649242482279,
+      "fy": 54.752357320582746,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. security analysis: principles and technique",
+      "url": "https://www.goodreads.com/book/show/203409.Security_Analysis",
+      "fx": 60.38649242482279,
+      "fy": 94.75235732058275,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "investing",
+      "target": "basics",
+      "curve": {
+        "x": 2.28505,
+        "y": 180.007
+      }
+    },
+    {
+      "source": "help",
+      "target": "investing",
+      "curve": {
+        "x": -35.7882,
+        "y": -53.9422
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -25.706,
+        "y": -61.3261
+      }
+    }
+  ]
+}

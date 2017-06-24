@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - linear algebra - eigenvectors",
+  "nodes": [
+    {
+      "text": "eigenvectors and eigenvalues",
+      "url": "http://www.wikiwand.com/en/Eigenvalues_and_eigenvectors",
+      "fx": 74.22041349809876,
+      "fy": -84.21096720532319,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 197.21304657794678,
+      "fy": 63.52008079847906
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. visual explanation",
+      "url": "http://setosa.io/ev/eigenvectors-and-eigenvalues/",
+      "fx": 353.2130465779468,
+      "fy": 75.02008079847906,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "eigenvectors and eigenvalues",
+      "target": "basics",
+      "curve": {
+        "x": -0.503683,
+        "y": 72.6155
+      }
+    }
+  ]
+}

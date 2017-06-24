@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - machine learning - neural networks - generative adversarial networks",
+  "nodes": [
+    {
+      "text": "generative adversarial networks",
+      "url": "http://www.wikiwand.com/en/Generative_adversarial_networks",
+      "fx": 45.79296875,
+      "fy": -299.3125,
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 328.4887809108702,
+      "fy": -175.32730497246064
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 182.606534090909,
+      "fy": -56.26658887987014
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "17: generative models and GANs  ️",
+      "url": "https://medium.com/towards-data-science/generative-models-and-gans-fe7efc20020b",
+      "fx": 490.4887809108702,
+      "fy": -163.82730497246064,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. Ian Goodfellow : generative adversarial networks",
+      "url": "https://www.youtube.com/watch?v=HN9NRhm9waY",
+      "fx": 338.606534090909,
+      "fy": -55.76658887987014,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "generative adversarial networks",
+      "target": "basics",
+      "curve": {
+        "x": -2.59321,
+        "y": 120.273
+      }
+    },
+    {
+      "source": "articles",
+      "target": "generative adversarial networks",
+      "curve": {
+        "x": -71.8479,
+        "y": -60.7426
+      }
+    }
+  ]
+}

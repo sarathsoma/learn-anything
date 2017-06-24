@@ -1,0 +1,61 @@
+{
+  "title": "learn anything - environmental science",
+  "nodes": [
+    {
+      "text": "environmental science",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Environmental_science",
+      "fx": 495.310202205882,
+      "fy": -919.2220145486485,
+      "category": "wiki"
+    },
+    {
+      "text": "sustainability",
+      "url": "http://www.wikiwand.com/en/Sustainability",
+      "fx": 651.9013562867756,
+      "fy": -752.3799937261674,
+      "category": "wiki"
+    },
+    {
+      "text": "ecology",
+      "url": "http://www.wikiwand.com/en/Ecology",
+      "fx": 451.4949046623145,
+      "fy": -751.6217113934388,
+      "category": "wiki"
+    },
+    {
+      "text": "renewable energy  ️",
+      "note": "is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat",
+      "fx": 615.4852340733621,
+      "fy": -638.6151029175164,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "environmental science",
+      "target": "ecology",
+      "curve": {
+        "x": -54.4077,
+        "y": 83.8001
+      }
+    },
+    {
+      "source": "sustainability",
+      "target": "renewable energy  ️",
+      "curve": {
+        "x": -6.95807,
+        "y": 56.8824
+      }
+    },
+    {
+      "source": "environmental science",
+      "target": "sustainability",
+      "curve": {
+        "x": 56.7956,
+        "y": 83.421
+      }
+    }
+  ]
+}

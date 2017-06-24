@@ -1,0 +1,53 @@
+{
+  "title": "learn anything - mathematics - linear algebra - vectors - vector space",
+  "nodes": [
+    {
+      "text": "vector space",
+      "url": "http://www.wikiwand.com/en/Vector_space",
+      "fx": -126.44921875,
+      "fy": -131.22265625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -86.17578125,
+      "fy": -5.0859375
+    },
+    {
+      "text": "vector space model  ️",
+      "fx": -286.66237745098033,
+      "fy": 125.37254901963615,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is a vector space",
+      "url": "https://www.youtube.com/watch?v=ozwodzD5bJM",
+      "fx": 69.82421875,
+      "fy": 6.4140625,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "vector space",
+      "target": "basics",
+      "curve": {
+        "x": -1.86328,
+        "y": 61.8184
+      }
+    },
+    {
+      "source": "basics",
+      "target": "vector space model  ️",
+      "curve": {
+        "x": -69.9933,
+        "y": 65.2292
+      }
+    }
+  ]
+}

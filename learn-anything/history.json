@@ -1,0 +1,266 @@
+{
+  "title": "learn anything - history",
+  "nodes": [
+    {
+      "text": "history",
+      "url": "http://www.wikiwand.com/en/History",
+      "fx": 1551.68359375,
+      "fy": -1936.9634399414062,
+      "category": "wiki"
+    },
+    {
+      "text": "podcasts",
+      "url": "",
+      "fx": 1702.5673217773438,
+      "fy": -1784.8809204101562
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 1997.0197392751315,
+      "fy": -1641.6036427514666
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 1521.0569763183594,
+      "fy": -1301.471782564367
+    },
+    {
+      "text": "world history  ️",
+      "url": "/history/world-history",
+      "fx": 1320.4309584794364,
+      "fy": -1068.550213675214,
+      "category": "mindmap"
+    },
+    {
+      "text": "art history  ️",
+      "url": "/history/art-history",
+      "fx": 1513.956938729644,
+      "fy": -1067.617675205447,
+      "category": "mindmap"
+    },
+    {
+      "text": "inventions  ️",
+      "url": "/history/inventions",
+      "fx": 1140.738473865878,
+      "fy": -1065.5258875739648,
+      "category": "mindmap"
+    },
+    {
+      "text": "future  ️",
+      "fx": 776.2899816176492,
+      "fy": -1063.53650210084,
+      "category": "mindmap"
+    },
+    {
+      "text": "ancient history  ️",
+      "url": "/history/ancient-history",
+      "fx": 908.8736087328766,
+      "fy": -1062.1492936643833,
+      "category": "mindmap"
+    },
+    {
+      "text": "US history  ️",
+      "url": "/history/united-states",
+      "fx": 1331.770289179105,
+      "fy": -941.2544309701495,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/history/",
+      "fx": 1738.68359375,
+      "fy": -1962.9634399414062,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "history"
+    },
+    {
+      "text": "️",
+      "url": "https://history.stackexchange.com/",
+      "fx": 1738.68359375,
+      "fy": -1922.9634399414062,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "history"
+    },
+    {
+      "text": "ask historians",
+      "url": "https://www.reddit.com/r/AskHistorians/",
+      "fx": 1738.68359375,
+      "fy": -1882.9634399414062,
+      "category": "reddit",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "history"
+    },
+    {
+      "text": "stuff you missed in history class  ️",
+      "url": "http://www.missedinhistory.com/",
+      "fx": 1884.5673217773438,
+      "fy": -1824.3809204101562,
+      "category": "podcast",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "podcasts"
+    },
+    {
+      "text": "history of the world in 100 objects  ️",
+      "url": "http://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads",
+      "fx": 1884.5673217773438,
+      "fy": -1784.3809204101562,
+      "category": "podcast",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "podcasts"
+    },
+    {
+      "text": "Dan Carlin’s hardcode history  ️",
+      "url": "http://www.dancarlin.com/hardcore-history-series/",
+      "fx": 1884.5673217773438,
+      "fy": -1722.8769226074219,
+      "category": "podcast",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "podcasts"
+    },
+    {
+      "text": "computer history",
+      "url": "https://github.com/watson/awesome-computer-history",
+      "fx": 2188.0197392751315,
+      "fy": -1630.1036427514666,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. history of the entire world",
+      "note": "a quick and fun video going over the history of our world ",
+      "url": "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+      "fx": 1703.0569763183594,
+      "fy": -1433.971782564367,
+      "category": "video",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. crash course big history",
+      "url": "https://www.youtube.com/watch?v=tq6be-CZJ3w&amp;list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey",
+      "fx": 1703.0569763183594,
+      "fy": -1393.971782564367,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. khan academy world history",
+      "url": "https://www.khanacademy.org/humanities/world-history",
+      "fx": 1703.0569763183594,
+      "fy": -1353.971782564367,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. the history of the ancient world: from the earliest accounts to the fall of rome",
+      "url": "http://www.goodreads.com/book/show/225947.The_History_of_the_Ancient_World",
+      "fx": 1703.0569763183594,
+      "fy": -1313.971782564367,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. a short history of nearly everything",
+      "url": "http://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything",
+      "fx": 1703.0569763183594,
+      "fy": -1229.971782564367,
+      "category": "non-free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. sapiens: a brief history of humankind",
+      "url": "https://www.goodreads.com/book/show/23692271-sapiens",
+      "fx": 1703.0569763183594,
+      "fy": -1167.971782564367,
+      "category": "non-free book",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "history",
+      "target": "basics",
+      "curve": {
+        "x": -21.8133,
+        "y": 317.746
+      }
+    },
+    {
+      "source": "podcasts",
+      "target": "history",
+      "curve": {
+        "x": -62.9419,
+        "y": -74.7912
+      }
+    },
+    {
+      "source": "basics",
+      "target": "art history  ️",
+      "curve": {
+        "x": 4.45012,
+        "y": 116.927
+      }
+    },
+    {
+      "source": "basics",
+      "target": "world history  ️",
+      "curve": {
+        "x": -85.063,
+        "y": 116.461
+      }
+    },
+    {
+      "source": "basics",
+      "target": "inventions  ️",
+      "curve": {
+        "x": -188.409,
+        "y": 117.973
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "podcasts",
+      "curve": {
+        "x": -178.625,
+        "y": -61.2558
+      }
+    },
+    {
+      "source": "basics",
+      "target": "ancient history  ️",
+      "curve": {
+        "x": -343.65,
+        "y": 115.7
+      }
+    },
+    {
+      "source": "world history  ️",
+      "target": "US history  ️",
+      "curve": {
+        "x": -7.08033,
+        "y": 62.3979
+      }
+    },
+    {
+      "source": "basics",
+      "target": "future  ️",
+      "curve": {
+        "x": -432.325,
+        "y": 89.4252
+      }
+    }
+  ]
+}

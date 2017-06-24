@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - data science - information retrieval",
+  "nodes": [
+    {
+      "text": "information retrieval",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Information_retrieval",
+      "fx": -225.671875,
+      "fy": -151.2265625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -94.421875,
+      "fy": -16.4609375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome information retrieval",
+      "url": "https://github.com/harpribot/awesome-information-retrieval",
+      "fx": 42.578125,
+      "fy": -4.9609375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "information retrieval",
+      "curve": {
+        "x": -24.125,
+        "y": -66.1328
+      }
+    }
+  ]
+}

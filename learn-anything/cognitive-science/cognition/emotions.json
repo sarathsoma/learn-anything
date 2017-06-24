@@ -1,0 +1,70 @@
+{
+  "title": "learn anything - cognitive science - cognition - emotions",
+  "nodes": [
+    {
+      "text": "emotions",
+      "url": "http://www.wikiwand.com/en/Emotion",
+      "fx": -132.20012517265184,
+      "fy": -212.49216591850825,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "i",
+      "url": "",
+      "fx": -115.61959551122573,
+      "fy": -95.88623687318125
+    },
+    {
+      "text": "happiness  ️",
+      "url": "/cognitive-science/cognition/emotions/happiness",
+      "fx": -234.58096886734938,
+      "fy": 39.06710568995936,
+      "category": "mindmap"
+    },
+    {
+      "text": "love  ️",
+      "url": "/cognitive-science/cognition/emotions/love",
+      "fx": -54.169921875,
+      "fy": 40.68359375,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. feeling all the feels",
+      "url": "https://www.youtube.com/watch?v=gAMbkJk6gnE",
+      "fx": 66.38040448877427,
+      "fy": -84.38623687318125,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "emotions",
+      "target": "basics",
+      "curve": {
+        "x": -5.45974,
+        "y": 57.053
+      }
+    },
+    {
+      "source": "basics",
+      "target": "happiness  ️",
+      "curve": {
+        "x": -60.2307,
+        "y": 67.4767
+      }
+    },
+    {
+      "source": "basics",
+      "target": "love  ️",
+      "curve": {
+        "x": 26.2248,
+        "y": 69.5349
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "title": "learn anything - engineering - electrical engineering - electronics",
+  "nodes": [
+    {
+      "text": "electronics",
+      "url": "http://www.wikiwand.com/en/Electronics",
+      "fx": 94.07601610429447,
+      "fy": -579.4799415260736,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 263.6747286825557,
+      "fy": -461.06293976139307
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 107.86883933387344,
+      "fy": -345.8017630798306
+    },
+    {
+      "text": "network analysis",
+      "url": "http://www.wikiwand.com/en/Network_analysis_(electrical_circuits)",
+      "fx": 236.39861452742764,
+      "fy": -231.54188251590136,
+      "category": "wiki"
+    },
+    {
+      "text": "logic gates  ️",
+      "fx": -23.822261682968474,
+      "fy": -198.2709136901296,
+      "category": "mindmap"
+    },
+    {
+      "text": "electronic components  ️",
+      "url": "/engineering/electrical-engineering/electronics/electronic-components",
+      "fx": -519.351276676829,
+      "fy": -69.25880153890802,
+      "category": "mindmap"
+    },
+    {
+      "text": "electronic circuits  ️",
+      "fx": -222.42708333333326,
+      "fy": -64.16796875,
+      "category": "mindmap"
+    },
+    {
+      "text": "analog electronics  ️",
+      "url": "/engineering/electrical-engineering/electronics/analog-electronics",
+      "fx": 22.200057983398438,
+      "fy": -59.07197046279907,
+      "category": "mindmap"
+    },
+    {
+      "text": "solid-state electronics",
+      "url": "http://www.wikiwand.com/en/Solid-state_electronics",
+      "fx": 281.8515625,
+      "fy": -57.007812500000114,
+      "category": "wiki"
+    },
+    {
+      "text": "power electronics  ️",
+      "fx": 295.37678006328906,
+      "fy": 92.2094541139628,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "open electronics",
+      "url": "https://github.com/intajay/open-electronics",
+      "fx": 400.6747286825557,
+      "fy": -449.56293976139307,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. beginner electronics",
+      "url": "https://www.youtube.com/watch?v=r-X9coYTOV4&amp;list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs",
+      "fx": 263.86883933387344,
+      "fy": -334.3017630798306,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "logic gates  ️",
+      "target": "electronic components  ️",
+      "curve": {
+        "x": -213.265,
+        "y": 65.7561
+      }
+    },
+    {
+      "source": "logic gates  ️",
+      "target": "analog electronics  ️",
+      "curve": {
+        "x": 46.5116,
+        "y": 70.8495
+      }
+    },
+    {
+      "source": "logic gates  ️",
+      "target": "electronic circuits  ️",
+      "curve": {
+        "x": -80.0524,
+        "y": 68.3015
+      }
+    },
+    {
+      "source": "electronics",
+      "target": "basics",
+      "curve": {
+        "x": -10.1036,
+        "y": 115.589
+      }
+    },
+    {
+      "source": "help",
+      "target": "electronics",
+      "curve": {
+        "x": -63.0494,
+        "y": -57.9585
+      }
+    },
+    {
+      "source": "basics",
+      "target": "logic gates  ️",
+      "curve": {
+        "x": -48.5956,
+        "y": 75.0154
+      }
+    },
+    {
+      "source": "basics",
+      "target": "network analysis",
+      "curve": {
+        "x": 94.5149,
+        "y": 58.3799
+      }
+    },
+    {
+      "source": "logic gates  ️",
+      "target": "solid-state electronics",
+      "curve": {
+        "x": 177.587,
+        "y": 70.6316
+      }
+    },
+    {
+      "source": "solid-state electronics",
+      "target": "power electronics  ️",
+      "curve": {
+        "x": -9.73739,
+        "y": 73.3586
+      }
+    }
+  ]
+}

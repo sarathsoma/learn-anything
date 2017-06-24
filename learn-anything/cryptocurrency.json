@@ -1,0 +1,137 @@
+{
+  "title": "learn anything - cryptocurrency",
+  "nodes": [
+    {
+      "text": "cryptocurrency",
+      "url": "http://www.wikiwand.com/en/Cryptocurrency",
+      "fx": -166.05311546228086,
+      "fy": -304.4728592878118,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 7.823332055214905,
+      "fy": -189.9132476993865
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -148.2194370288944,
+      "fy": -59.980789830850654
+    },
+    {
+      "text": "proof-of-work system",
+      "url": "http://www.wikiwand.com/en/Proof-of-work_system",
+      "fx": -473.46938775510193,
+      "fy": 43.26203762755108,
+      "category": "wiki"
+    },
+    {
+      "text": "currencies",
+      "url": "",
+      "fx": -100.08122822299651,
+      "fy": 70.96515679442507
+    },
+    {
+      "text": "monero",
+      "url": "http://www.wikiwand.com/en/Monero_(cryptocurrency)",
+      "fx": 94.60990175189386,
+      "fy": 108.57949662642045,
+      "category": "wiki"
+    },
+    {
+      "text": "bitcoin  ️",
+      "url": "/cryptocurrency/bitcoin",
+      "fx": -182.4449700438795,
+      "fy": 189.78781655509283,
+      "category": "mindmap"
+    },
+    {
+      "text": "dash",
+      "url": "http://www.wikiwand.com/en/Dash_(cryptocurrency)",
+      "fx": 6.092316691080555,
+      "fy": 192.6236171549017,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "overview of top cryptocurrencies in the market",
+      "url": "https://github.com/kilimchoi/cryptocurrency",
+      "fx": 144.8233320552149,
+      "fy": -189.4132476993865,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. bitcoin and cryptocurrency technologies",
+      "url": "https://www.coursera.org/learn/cryptocurrency",
+      "fx": 33.78056297110561,
+      "fy": -59.480789830850654,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "cryptocurrency",
+      "target": "basics",
+      "curve": {
+        "x": -4.08316,
+        "y": 122.246
+      }
+    },
+    {
+      "source": "help",
+      "target": "cryptocurrency",
+      "curve": {
+        "x": -55.6882,
+        "y": -56.0298
+      }
+    },
+    {
+      "source": "basics",
+      "target": "currencies",
+      "curve": {
+        "x": 26.3191,
+        "y": 65.473
+      }
+    },
+    {
+      "source": "currencies",
+      "target": "bitcoin  ️",
+      "curve": {
+        "x": -42.1819,
+        "y": 60.6613
+      }
+    },
+    {
+      "source": "currencies",
+      "target": "monero",
+      "curve": {
+        "x": 98.8456,
+        "y": 20.0572
+      }
+    },
+    {
+      "source": "currencies",
+      "target": "dash",
+      "curve": {
+        "x": 48.3368,
+        "y": 62.0792
+      }
+    },
+    {
+      "source": "basics",
+      "target": "proof-of-work system",
+      "curve": {
+        "x": -127.625,
+        "y": 52.8714
+      }
+    }
+  ]
+}

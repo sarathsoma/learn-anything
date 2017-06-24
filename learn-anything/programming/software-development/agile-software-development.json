@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - programming - software development - agile software development",
+  "nodes": [
+    {
+      "text": "agile software development",
+      "url": "http://www.wikiwand.com/en/Agile_software_development",
+      "fx": -95.02177526595733,
+      "fy": -157.96642287234044,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 11.058292555939033,
+      "fy": -17.15847441689482
+    },
+    {
+      "text": "Scrum  ️",
+      "url": "/programming/software-development/agile-software-development/scrum",
+      "fx": -80.81647208567415,
+      "fy": 108.86203037219104,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. manifesto for agile software development",
+      "url": "http://agilemanifesto.org/",
+      "fx": 167.05829255593903,
+      "fy": -33.65847441689482,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. what is agile development",
+      "url": "https://www.youtube.com/watch?v=-zDct5d2smY",
+      "fx": 167.05829255593903,
+      "fy": 22.34152558310518,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "agile software development",
+      "target": "basics",
+      "curve": {
+        "x": -1.45997,
+        "y": 69.1539
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Scrum  ️",
+      "curve": {
+        "x": -45.4374,
+        "y": 63.0103
+      }
+    }
+  ]
+}

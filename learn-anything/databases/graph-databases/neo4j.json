@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - databases - graph databases - neo4j",
+  "nodes": [
+    {
+      "text": "Neo4j",
+      "url": "http://www.wikiwand.com/en/Neo4j",
+      "fx": 60.2421875,
+      "fy": -287.88671875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 163.0493246822033,
+      "fy": -182.63632150423723
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 70.23172669491464,
+      "fy": -91.04131355934663
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome neo4j",
+      "url": "https://github.com/neueda/awesome-neo4j",
+      "fx": 300.0493246822033,
+      "fy": -171.13632150423723,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. get started",
+      "url": "",
+      "fx": 252.23172669491464,
+      "fy": -76.54131355934663,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "Neo4j",
+      "curve": {
+        "x": -40.6536,
+        "y": -51.3752
+      }
+    },
+    {
+      "source": "Neo4j",
+      "target": "basics",
+      "curve": {
+        "x": -1.00523,
+        "y": 97.1727
+      }
+    }
+  ]
+}

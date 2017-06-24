@@ -1,0 +1,219 @@
+{
+  "title": "learn anything - mathematics - topology",
+  "nodes": [
+    {
+      "text": "topology",
+      "url": "http://www.wikiwand.com/en/Topology",
+      "fx": -90.55078125,
+      "fy": -306.5,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 70.50828836999585,
+      "fy": -186.8637076555214
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -86.50455239661665,
+      "fy": 17.074806156014972
+    },
+    {
+      "text": "geometric topology",
+      "url": "http://www.wikiwand.com/en/Geometric_topology",
+      "fx": -534.9560699462891,
+      "fy": 206.05990982055664,
+      "category": "wiki"
+    },
+    {
+      "text": "fiber bundle",
+      "url": "http://www.wikiwand.com/en/Fiber_bundle",
+      "fx": -1272.8316283632266,
+      "fy": 206.50714686098843,
+      "category": "wiki"
+    },
+    {
+      "text": "topological space",
+      "url": "http://www.wikiwand.com/en/Topological_space",
+      "fx": -1075.7472854526422,
+      "fy": 206.98219191522742,
+      "category": "wiki"
+    },
+    {
+      "text": "computational topology  ️",
+      "url": "/mathematics/topology/computational-topology",
+      "fx": -823.0983068287477,
+      "fy": 208.3480997260658,
+      "category": "mindmap"
+    },
+    {
+      "text": "differential topology  ️",
+      "url": "/mathematics/topology/differential-topology",
+      "fx": -254.7693742655092,
+      "fy": 218.70611572265625,
+      "category": "mindmap"
+    },
+    {
+      "text": "algebraic topology  ️",
+      "url": "/mathematics/topology/algebraic-topology",
+      "fx": 11.467171968586626,
+      "fy": 219.79312754874695,
+      "category": "mindmap"
+    },
+    {
+      "text": "vector flow",
+      "url": "http://www.wikiwand.com/en/Vector_flow",
+      "fx": -141.72979270377414,
+      "fy": 343.92983282798946,
+      "category": "wiki"
+    },
+    {
+      "text": "morse theory  ️",
+      "url": "/mathematics/topology/morse-theory",
+      "fx": -380.7070202099991,
+      "fy": 354.1691706598458,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "17: stolen necklaces and Borsuk-Ulam",
+      "url": "https://www.youtube.com/watch?v=FhSFkLhDANA",
+      "fx": 261.50828836999585,
+      "fy": -186.3637076555214,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. geometry and topology",
+      "url": "http://www.math.columbia.edu/%7Ehliu/shp/s17-geometry-and-topology.pdf",
+      "fx": 95.49544760338335,
+      "fy": -64.42519384398503,
+      "category": "free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. topology lectures",
+      "url": "https://www.youtube.com/watch?v=7G4SqIboeig",
+      "fx": 95.49544760338335,
+      "fy": -24.425193843985028,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. topology from the differentiable viewpoint",
+      "url": "http://www.maths.ed.ac.uk/~aar/papers/milnortop.pdf",
+      "fx": 95.49544760338335,
+      "fy": 15.574806156014972,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. euler's gem: the polyhedron formula and the birth of topology",
+      "url": "http://www.goodreads.com/book/show/5182228-euler-s-gem",
+      "fx": 95.49544760338335,
+      "fy": 77.57480615601497,
+      "category": "non-free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "vector fields",
+      "url": "http://vf.rohanp.xyz/",
+      "fx": 84.27020729622586,
+      "fy": 357.92983282798946,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "vector flow"
+    }
+  ],
+  "connections": [
+    {
+      "source": "topology",
+      "target": "basics",
+      "curve": {
+        "x": -10.4769,
+        "y": 160.537
+      }
+    },
+    {
+      "source": "basics",
+      "target": "differential topology  ️",
+      "curve": {
+        "x": -54.6324,
+        "y": 100.816
+      }
+    },
+    {
+      "source": "differential topology  ️",
+      "target": "morse theory  ️",
+      "curve": {
+        "x": -83.9689,
+        "y": 66.4814
+      }
+    },
+    {
+      "source": "differential topology  ️",
+      "target": "vector flow",
+      "curve": {
+        "x": 30.2694,
+        "y": 61.362
+      }
+    },
+    {
+      "source": "basics",
+      "target": "algebraic topology  ️",
+      "curve": {
+        "x": 57.3701,
+        "y": 111.368
+      }
+    },
+    {
+      "source": "basics",
+      "target": "geometric topology",
+      "curve": {
+        "x": -194.226,
+        "y": 95.7425
+      }
+    },
+    {
+      "source": "basics",
+      "target": "computational topology  ️",
+      "curve": {
+        "x": -408.633,
+        "y": 84.5156
+      }
+    },
+    {
+      "source": "basics",
+      "target": "topological space",
+      "curve": {
+        "x": -583.559,
+        "y": 54.1568
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fiber bundle",
+      "curve": {
+        "x": -822.367,
+        "y": 74.4193
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "topology",
+      "curve": {
+        "x": -76.7795,
+        "y": -58.5681
+      }
+    }
+  ]
+}

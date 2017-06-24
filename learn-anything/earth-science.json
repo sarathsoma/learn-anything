@@ -1,0 +1,41 @@
+{
+  "title": "learn anything - earth science",
+  "nodes": [
+    {
+      "text": "earth science",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Earth_science",
+      "fx": -281.4799268424856,
+      "fy": -177.81554822976898,
+      "category": "wiki"
+    },
+    {
+      "text": "geology  ️",
+      "url": "/earth-science/geology",
+      "fx": -273.28427565028903,
+      "fy": -66.87030346820825,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://earthscience.stackexchange.com/",
+      "fx": -7.479926842485611,
+      "fy": -163.81554822976898,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "earth science"
+    }
+  ],
+  "connections": [
+    {
+      "source": "earth science",
+      "target": "geology  ️",
+      "curve": {
+        "x": -15.4022,
+        "y": 54.2226
+      }
+    }
+  ]
+}

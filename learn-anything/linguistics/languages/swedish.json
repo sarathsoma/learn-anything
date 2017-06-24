@@ -1,0 +1,79 @@
+{
+  "title": "learn anything - linguistics - languages - swedish",
+  "nodes": [
+    {
+      "text": "swedish language",
+      "url": "http://www.wikiwand.com/en/Swedish_language",
+      "fx": -114,
+      "fy": -2,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 113.12812500000007,
+      "fy": 114.23750000000013
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -53.40781249999998,
+      "fy": 233.06718750000016
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Svenska/",
+      "fx": 176,
+      "fy": 12,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "swedish language"
+    },
+    {
+      "text": "best way to learn swedish in Sweden",
+      "url": "https://www.reddit.com/r/Svenska/comments/5sj893/best_way_to_learn_swedish_in_sweden/ddfqq02/",
+      "fx": 250.12812500000007,
+      "fy": 114.73750000000013,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. duolingo",
+      "url": "https://www.duolingo.com/course/sv/en/Learn-Swedish-Online",
+      "fx": 102.59218750000002,
+      "fy": 227.56718750000016,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learn swedish",
+      "url": "https://learningswedish.se/courses/1",
+      "fx": 102.59218750000002,
+      "fy": 261.56718750000016,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "swedish language",
+      "target": "basics",
+      "curve": {
+        "x": -3.20391,
+        "y": 116.284
+      }
+    },
+    {
+      "source": "help",
+      "target": "swedish language",
+      "curve": {
+        "x": -75.3141,
+        "y": -56.8688
+      }
+    }
+  ]
+}

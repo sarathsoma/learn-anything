@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - computer graphics - opengl",
+  "nodes": [
+    {
+      "text": "opengl",
+      "url": "http://www.wikiwand.com/en/OpenGL",
+      "fx": -100.51165674603158,
+      "fy": -168.09995039682354,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 8.17578125,
+      "fy": -70.29296875
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -94.03106398809541,
+      "fy": 46.820808531749776
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome opengl",
+      "url": "https://github.com/eug/awesome-opengl",
+      "fx": 145.17578125,
+      "fy": -58.79296875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learn opengl",
+      "url": "https://learnopengl.com/#!PBR/Theory",
+      "fx": 87.96893601190459,
+      "fy": 61.320808531749776,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "opengl",
+      "target": "basics",
+      "curve": {
+        "x": -5.0097,
+        "y": 106.21
+      }
+    },
+    {
+      "source": "help",
+      "target": "opengl",
+      "curve": {
+        "x": -41.3437,
+        "y": -47.6535
+      }
+    }
+  ]
+}

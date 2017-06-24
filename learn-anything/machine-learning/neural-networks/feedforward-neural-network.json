@@ -1,0 +1,53 @@
+{
+  "title": "learn anything - machine learning - neural networks - feedforward neural network",
+  "nodes": [
+    {
+      "text": "feedforward neural network",
+      "url": "http://www.wikiwand.com/en/Feedforward_neural_network",
+      "fx": -153.2109375,
+      "fy": -206.85546875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -46.184810772613105,
+      "fy": -70.3359375
+    },
+    {
+      "text": "extreme learning machines  ️",
+      "fx": -228.0383800014166,
+      "fy": 74.1390768536744,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. feedforward neural network - artificial neuron",
+      "url": "https://www.youtube.com/watch?v=SGZ6BttHMPw",
+      "fx": 109.8151892273869,
+      "fy": -69.8359375,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "feedforward neural network",
+      "target": "basics",
+      "curve": {
+        "x": -0.986936,
+        "y": 67.0098
+      }
+    },
+    {
+      "source": "basics",
+      "target": "extreme learning machines  ️",
+      "curve": {
+        "x": -44.9268,
+        "y": 72.2375
+      }
+    }
+  ]
+}

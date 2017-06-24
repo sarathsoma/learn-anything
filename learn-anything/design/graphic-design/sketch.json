@@ -1,0 +1,130 @@
+{
+  "title": "learn anything - design - graphic design - sketch",
+  "nodes": [
+    {
+      "text": "sketch",
+      "url": "https://www.sketchapp.com/",
+      "fx": -79.7478215144231,
+      "fy": -430.24060997596155
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 17.723839393030744,
+      "fy": -343.04094989483366
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 61.300442682591324,
+      "fy": -256.2341153263446
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 151.93684269832727,
+      "fy": -163.7266657902626
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -194.3904539894893,
+      "fy": -91.04863758484817
+    },
+    {
+      "text": "plugins",
+      "url": "",
+      "fx": -176.394465519832,
+      "fy": 64.095703125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome sketch",
+      "url": "https://github.com/diessica/awesome-sketch",
+      "fx": 154.72383939303074,
+      "fy": -331.54094989483366,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "render react components to sketch",
+      "url": "https://github.com/airbnb/react-sketchapp",
+      "fx": 202.30044268259132,
+      "fy": -255.73411532634458,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "17: Sketch open file format  ️",
+      "url": "https://medium.com/sketch-app-sources/sketch-43-is-coming-to-town-with-a-new-game-an-open-file-format-ae62e7e7c223",
+      "fx": 313.93684269832727,
+      "fy": -152.2266657902626,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. learn sketch",
+      "url": "https://www.sketchapp.com/learn/",
+      "fx": -12.390453989489288,
+      "fy": -76.54863758484817,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "sketch flex box",
+      "url": "https://github.com/hrescak/Sketch-Flex-Layout",
+      "fx": -13.39446551983201,
+      "fy": 75.595703125,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "plugins"
+    }
+  ],
+  "connections": [
+    {
+      "source": "sketch",
+      "target": "basics",
+      "curve": {
+        "x": -57.8213,
+        "y": 169.596
+      }
+    },
+    {
+      "source": "basics",
+      "target": "plugins",
+      "curve": {
+        "x": 4.24797,
+        "y": 77.5721
+      }
+    },
+    {
+      "source": "help",
+      "target": "sketch",
+      "curve": {
+        "x": -43.4858,
+        "y": -43.5998
+      }
+    },
+    {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -23.0383,
+        "y": -43.4034
+      }
+    },
+    {
+      "source": "articles",
+      "target": "tools",
+      "curve": {
+        "x": -50.3182,
+        "y": -46.2537
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "title": "learn anything - programming - software development - devops - google cloud",
+  "nodes": [
+    {
+      "text": "google cloud platform",
+      "url": "http://www.wikiwand.com/en/Google_Cloud_Platform",
+      "fx": -126.80859375,
+      "fy": -266.34765625,
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 34.11127321085746,
+      "fy": -154.8130110251572
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 121.47006107644336,
+      "fy": -21.988455227007307
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -62.01954120932669,
+      "fy": 56.08624902877807
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "17: espresso makes google cloud faster, more available and cost effective by extending SDN to the public internet  ️",
+      "url": "https://www.blog.google/topics/google-cloud/making-google-cloud-faster-more-available-and-cost-effective-extending-sdn-public-internet-espresso/",
+      "fx": 196.11127321085746,
+      "fy": -206.8130110251572,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: getting started with terraform and google compute engine  ️",
+      "url": "https://blog.elasticbyte.net/getting-started-with-terraform-and-google-compute-engine/",
+      "fx": 196.11127321085746,
+      "fy": -101.81301102515721,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "container engine",
+      "url": "https://cloud.google.com/container-engine/",
+      "fx": 263.47006107644336,
+      "fy": -7.488455227007307,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. what are the google cloud platform (gcp) services?  ️",
+      "url": "https://hackernoon.com/what-are-the-google-cloud-platform-gcp-services-285f1988957a",
+      "fx": 119.98045879067331,
+      "fy": 56.58624902877807,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "articles",
+      "target": "google cloud platform",
+      "curve": {
+        "x": -33.4599,
+        "y": -54.5173
+      }
+    },
+    {
+      "source": "tools",
+      "target": "articles",
+      "curve": {
+        "x": -44.9294,
+        "y": -66.4123
+      }
+    },
+    {
+      "source": "google cloud platform",
+      "target": "basics",
+      "curve": {
+        "x": -9.85549,
+        "y": 159.967
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "learn anything - economics - mathematical finance",
+  "nodes": [
+    {
+      "text": "mathematical finance",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Mathematical_finance",
+      "fx": -128,
+      "fy": -2,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 69.11328124999989,
+      "fy": 130.89423076921526
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://quant.stackexchange.com/",
+      "fx": 217,
+      "fy": 12,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "mathematical finance"
+    },
+    {
+      "text": "quantitative finance reading list",
+      "url": "https://www.quantstart.com/articles/Quantitative-Finance-Reading-List#general-quant-finance-reading",
+      "fx": 206.1132812499999,
+      "fy": 105.39423076921526,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "wilmott forum",
+      "url": "https://forum.wilmott.com/",
+      "fx": 206.1132812499999,
+      "fy": 139.39423076921526,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "math finance cheat sheet",
+      "url": "https://github.com/daleroberts/math-finance-cheat-sheet",
+      "fx": 206.1132812499999,
+      "fy": 179.39423076921526,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "mathematical finance",
+      "curve": {
+        "x": -53.0566,
+        "y": -65.1971
+      }
+    }
+  ]
+}

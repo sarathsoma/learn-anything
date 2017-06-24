@@ -1,0 +1,89 @@
+{
+  "title": "learn anything - mathematics - statistics - probability theory - markov chains",
+  "nodes": [
+    {
+      "text": "markov chains",
+      "url": "http://www.wikiwand.com/en/Markov_chain",
+      "fx": 301.43359375,
+      "fy": -221.94921875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 434.53515625,
+      "fy": -115.01171875
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 337.18154080962313,
+      "fy": 23.618321572580612
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome funny markov chains",
+      "url": "https://github.com/sublimino/awesome-funny-markov",
+      "fx": 571.53515625,
+      "fy": -145.51171875,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: introduction to hidden markov models with python networkx and sklearn  ️",
+      "url": "http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017",
+      "fx": 571.53515625,
+      "fy": -105.51171875,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. visually explained",
+      "url": "http://setosa.io/ev/markov-chains/",
+      "fx": 519.1815408096231,
+      "fy": 15.118321572580612,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. N-Grams and markov chains",
+      "url": "https://www.youtube.com/watch?list=PLRqwX-V7Uu6ah9Oqs_BFQIbGIn1XynsVT&amp;v=v4kL0OHuxXs",
+      "fx": 519.1815408096231,
+      "fy": 55.11832157258061,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "code",
+      "url": "http://shiffman.net/a2z/markov/",
+      "fx": 870.1815408096231,
+      "fy": 58.11832157258061,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "1. N-Grams and markov chains"
+    }
+  ],
+  "connections": [
+    {
+      "source": "markov chains",
+      "target": "basics",
+      "curve": {
+        "x": -0.62603,
+        "y": 122.784
+      }
+    },
+    {
+      "source": "help",
+      "target": "markov chains",
+      "curve": {
+        "x": -43.3008,
+        "y": -53.4688
+      }
+    }
+  ]
+}

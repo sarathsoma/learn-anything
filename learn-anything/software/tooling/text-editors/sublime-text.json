@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - software - tooling - text editors - sublime text",
+  "nodes": [
+    {
+      "text": "sublime text",
+      "note": "",
+      "url": "https://www.sublimetext.com/",
+      "fx": -169.2734375,
+      "fy": -217.73046875
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -71.0515846631206,
+      "fy": -98.88228612588654
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 20.370373538822378,
+      "fy": 26.62261981079763
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "sublime text 3 plugins for frontend web development",
+      "url": "https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development",
+      "fx": 65.9484153368794,
+      "fy": -118.38228612588654,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome sublime text",
+      "url": "https://github.com/dreikanter/sublime-bookmarks",
+      "fx": 65.9484153368794,
+      "fy": -56.38228612588654,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: sublime text 3 heaven  ️",
+      "url": "https://www.kennethreitz.org/essays/sublime-text-3-heaven",
+      "fx": 182.37037353882238,
+      "fy": 38.12261981079763,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "sublime text",
+      "curve": {
+        "x": -31.6109,
+        "y": -59.4241
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -51.961,
+        "y": -62.7525
+      }
+    }
+  ]
+}

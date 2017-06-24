@@ -1,0 +1,242 @@
+{
+  "title": "learn anything - data science",
+  "nodes": [
+    {
+      "text": "data science",
+      "url": "http://www.wikiwand.com/en/Data_science",
+      "fx": 23.234053778231555,
+      "fy": -697.1709924281728,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 244.69327907962406,
+      "fy": -524.4266266722778
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -54.72885343792586,
+      "fy": -307.3064117285419
+    },
+    {
+      "text": "data mining  ️",
+      "url": "/data-science/data-mining",
+      "fx": -77.03343531468568,
+      "fy": -178.41728583916085,
+      "category": "mindmap"
+    },
+    {
+      "text": "information retrieval  ️",
+      "url": "/data-science/information-retrieval",
+      "fx": -446.38255775342805,
+      "fy": -76.43724658291069,
+      "category": "mindmap"
+    },
+    {
+      "text": "data visualisation  ️",
+      "url": "/data-science/data-visualisation",
+      "fx": 139.90162566677282,
+      "fy": -64.16174141426586,
+      "category": "mindmap"
+    },
+    {
+      "text": "data analysis  ️",
+      "url": "/data-science/data-analysis",
+      "fx": -122.2082981792737,
+      "fy": -11.074470984618642,
+      "category": "mindmap"
+    },
+    {
+      "text": "data processing  ️",
+      "url": "/data-science/data-processing",
+      "fx": -207.9072616618614,
+      "fy": 98.47068156366754,
+      "category": "mindmap"
+    },
+    {
+      "text": "big data  ️",
+      "url": "/data-science/big-data",
+      "fx": -172.85541721635866,
+      "fy": 242.6647839709765,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/datascience/",
+      "fx": 265.23405377823156,
+      "fy": -703.1709924281728,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "data science"
+    },
+    {
+      "text": "️",
+      "url": "https://datascience.stackexchange.com/",
+      "fx": 265.23405377823156,
+      "fy": -663.1709924281728,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "data science"
+    },
+    {
+      "text": "17: top data science resources  ️",
+      "url": "http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/",
+      "fx": 381.69327907962406,
+      "fy": -649.9266266722778,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome data science",
+      "url": "https://github.com/bulutyazilim/awesome-datascience",
+      "fx": 381.69327907962406,
+      "fy": -609.9266266722778,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "data school  ️",
+      "url": "http://www.dataschool.io/",
+      "fx": 381.69327907962406,
+      "fy": -569.9266266722781,
+      "category": "blog",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome big data",
+      "url": "https://github.com/onurakpolat/awesome-bigdata",
+      "fx": 381.69327907962406,
+      "fy": -529.9266266722778,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome data engineering",
+      "url": "https://github.com/igorbarinov/awesome-data-engineering",
+      "fx": 381.69327907962406,
+      "fy": -489.92662667227796,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "data science ipython notebooks",
+      "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+      "fx": 381.69327907962406,
+      "fy": -449.92662667227796,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "big data university",
+      "url": "https://bigdatauniversity.com/",
+      "fx": 381.69327907962406,
+      "fy": -409.92662667227796,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "data science blogs",
+      "url": "https://github.com/rushter/data-science-blogs",
+      "fx": 381.69327907962406,
+      "fy": -375.92662667227796,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. self taught data science",
+      "url": "https://github.com/open-source-society/data-science",
+      "fx": 127.27114656207414,
+      "fy": -315.8064117285419,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. data science ontology",
+      "url": "http://worldofdatascience.com/",
+      "fx": 127.27114656207414,
+      "fy": -275.8064117285419,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "data analysis  ️",
+      "target": "data processing  ️",
+      "curve": {
+        "x": -35.8495,
+        "y": 54.7727
+      }
+    },
+    {
+      "source": "help",
+      "target": "data science",
+      "curve": {
+        "x": -77.9798,
+        "y": -85.1226
+      }
+    },
+    {
+      "source": "data science",
+      "target": "basics",
+      "curve": {
+        "x": -66.9814,
+        "y": 193.683
+      }
+    },
+    {
+      "source": "basics",
+      "target": "data mining  ️",
+      "curve": {
+        "x": -5.65226,
+        "y": 64.4445
+      }
+    },
+    {
+      "source": "data mining  ️",
+      "target": "data visualisation  ️",
+      "curve": {
+        "x": 127.718,
+        "y": 58.3778
+      }
+    },
+    {
+      "source": "data mining  ️",
+      "target": "information retrieval  ️",
+      "curve": {
+        "x": -159.925,
+        "y": 52.24
+      }
+    },
+    {
+      "source": "data mining  ️",
+      "target": "data analysis  ️",
+      "curve": {
+        "x": -12.5874,
+        "y": 84.9214
+      }
+    },
+    {
+      "source": "data processing  ️",
+      "target": "big data  ️",
+      "curve": {
+        "x": -0.224078,
+        "y": 72.0971
+      }
+    }
+  ]
+}

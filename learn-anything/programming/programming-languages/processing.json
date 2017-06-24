@@ -1,0 +1,79 @@
+{
+  "title": "learn anything - programming - programming languages - processing",
+  "nodes": [
+    {
+      "text": "processing",
+      "url": "http://www.wikiwand.com/en/Processing_(programming_language)",
+      "fx": -169.69057846069336,
+      "fy": -446.9271697998047,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -8.037515889043334,
+      "fy": -342.3173602560292
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -137.1550968004309,
+      "fy": -234.194886920368
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/processing/processing",
+      "fx": 56.30942153930664,
+      "fy": -432.9271697998047,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "processing"
+    },
+    {
+      "text": "projects and tutorials on processing",
+      "url": "http://fyprocessing.tumblr.com/",
+      "fx": 128.96248411095667,
+      "fy": -327.8173602560292,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. video tutorials",
+      "url": "https://processing.org/tutorials/",
+      "fx": 44.8449031995691,
+      "fy": -239.694886920368,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. processing tutorials",
+      "url": "https://processing.org/tutorials/",
+      "fx": 44.8449031995691,
+      "fy": -199.694886920368,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "processing",
+      "target": "basics",
+      "curve": {
+        "x": -1.23226,
+        "y": 105.116
+      }
+    },
+    {
+      "source": "help",
+      "target": "processing",
+      "curve": {
+        "x": -58.5765,
+        "y": -51.0549
+      }
+    }
+  ]
+}

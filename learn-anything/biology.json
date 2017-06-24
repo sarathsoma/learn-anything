@@ -1,0 +1,311 @@
+{
+  "title": "learn anything - biology",
+  "nodes": [
+    {
+      "text": "biology",
+      "url": "http://www.wikiwand.com/en/Biology",
+      "fx": 40.84958101848815,
+      "fy": -184.7221384565994,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 163.4619612149013,
+      "fy": -68.53902651908271
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 37.128189599482994,
+      "fy": 79.74204618863035
+    },
+    {
+      "text": "botany  ️",
+      "url": "/biology/botany",
+      "fx": -1357.790366113396,
+      "fy": 247.01888709361526,
+      "category": "mindmap"
+    },
+    {
+      "text": "computational biology  ️",
+      "url": "/biology/computational-biology",
+      "fx": -1639.8091824680903,
+      "fy": 248.70301761168366,
+      "category": "mindmap"
+    },
+    {
+      "text": "genetics  ️",
+      "url": "/biology/genetics",
+      "fx": -193.71339225769043,
+      "fy": 250.04178619384766,
+      "category": "mindmap"
+    },
+    {
+      "text": "physiology  ️",
+      "url": "/biology/physiology",
+      "fx": -1199.4658324688794,
+      "fy": 250.07099325728655,
+      "category": "mindmap"
+    },
+    {
+      "text": "abiogenesis  ️",
+      "note": "how life came to be from just chemistry",
+      "url": "/biology/abiogenesis",
+      "fx": -42.62024688720703,
+      "fy": 251.27873992919922,
+      "category": "mindmap"
+    },
+    {
+      "text": "ecology  ️",
+      "url": "/biology/ecology",
+      "fx": -1008.6614583333333,
+      "fy": 251.5295138888889,
+      "category": "mindmap"
+    },
+    {
+      "text": "bioinformatics  ️",
+      "url": "/biology/bioinformatics",
+      "fx": -394.83669662475586,
+      "fy": 252.87469482421875,
+      "category": "mindmap"
+    },
+    {
+      "text": "immunology  ️",
+      "url": "/biology/immunology",
+      "fx": -1835.6416967200096,
+      "fy": 253.22319022739646,
+      "category": "mindmap"
+    },
+    {
+      "text": "anatomy  ️",
+      "url": "/biology/anatomy",
+      "fx": -841.8911290615536,
+      "fy": 253.71481105411522,
+      "category": "mindmap"
+    },
+    {
+      "text": "astrobiology  ️",
+      "fx": -2024.7691978663452,
+      "fy": 254.74537037035327,
+      "category": "mindmap"
+    },
+    {
+      "text": "human development  ️",
+      "url": "/biology/human-development",
+      "fx": -657.6057169631739,
+      "fy": 254.78125,
+      "category": "mindmap"
+    },
+    {
+      "text": "organisms  ️",
+      "fx": 166.40821641156504,
+      "fy": 255.37344990079373,
+      "category": "mindmap"
+    },
+    {
+      "text": "evolution  ️",
+      "url": "/biology/evolution",
+      "fx": -22.207409175377165,
+      "fy": 358.28421808832695,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/biology/",
+      "fx": 232.84958101848815,
+      "fy": -190.7221384565994,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "biology"
+    },
+    {
+      "text": "️",
+      "url": "https://biology.stackexchange.com/",
+      "fx": 232.84958101848815,
+      "fy": -150.7221384565994,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "biology"
+    },
+    {
+      "text": "notes on biology",
+      "url": "https://github.com/SirSharpest/Bio-Cramming",
+      "fx": 300.4619612149013,
+      "fy": -57.03902651908271,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. crash course biology",
+      "url": "https://www.youtube.com/watch?v=QnQe0xW_JY4&amp;list=PL3EED4C1D684D3ADF",
+      "fx": 219.128189599483,
+      "fy": 11.242046188630354,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. khan academy biology",
+      "url": "https://www.khanacademy.org/science/biology",
+      "fx": 219.128189599483,
+      "fy": 51.242046188630354,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. human behavioural biology",
+      "url": "https://www.youtube.com/watch?v=NNnIGh9g6fA&amp;list=PL150326949691B199",
+      "fx": 219.128189599483,
+      "fy": 91.24204618863035,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to biology",
+      "url": "https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-5",
+      "fx": 219.128189599483,
+      "fy": 131.24204618863035,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the selfish gene",
+      "url": "https://www.goodreads.com/book/show/61535.The_Selfish_Gene",
+      "fx": 219.128189599483,
+      "fy": 171.24204618863035,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "basics",
+      "target": "bioinformatics  ️",
+      "curve": {
+        "x": -205.482,
+        "y": 86.5663
+      }
+    },
+    {
+      "source": "basics",
+      "target": "genetics  ️",
+      "curve": {
+        "x": -117.42,
+        "y": 85.1498
+      }
+    },
+    {
+      "source": "biology",
+      "target": "basics",
+      "curve": {
+        "x": -4.36069,
+        "y": 130.982
+      }
+    },
+    {
+      "source": "basics",
+      "target": "abiogenesis  ️",
+      "curve": {
+        "x": -26.6242,
+        "y": 87.0183
+      }
+    },
+    {
+      "source": "abiogenesis  ️",
+      "target": "evolution  ️",
+      "curve": {
+        "x": 3.45641,
+        "y": 53.5028
+      }
+    },
+    {
+      "source": "help",
+      "target": "biology",
+      "curve": {
+        "x": -47.5562,
+        "y": -56.8416
+      }
+    },
+    {
+      "source": "basics",
+      "target": "human development  ️",
+      "curve": {
+        "x": -381.518,
+        "y": 85.0806
+      }
+    },
+    {
+      "source": "basics",
+      "target": "anatomy  ️",
+      "curve": {
+        "x": -483.857,
+        "y": 60.4786
+      }
+    },
+    {
+      "source": "basics",
+      "target": "ecology  ️",
+      "curve": {
+        "x": -656.05,
+        "y": 36.8303
+      }
+    },
+    {
+      "source": "basics",
+      "target": "physiology  ️",
+      "curve": {
+        "x": -819.591,
+        "y": 34.287
+      }
+    },
+    {
+      "source": "basics",
+      "target": "botany  ️",
+      "curve": {
+        "x": -1051.39,
+        "y": 35.6448
+      }
+    },
+    {
+      "source": "basics",
+      "target": "computational biology  ️",
+      "curve": {
+        "x": -1074.34,
+        "y": 7.60549
+      }
+    },
+    {
+      "source": "basics",
+      "target": "immunology  ️",
+      "curve": {
+        "x": -1184.32,
+        "y": -38.908
+      }
+    },
+    {
+      "source": "basics",
+      "target": "organisms  ️",
+      "curve": {
+        "x": 67.14,
+        "y": 87.8157
+      }
+    },
+    {
+      "source": "basics",
+      "target": "astrobiology  ️",
+      "curve": {
+        "x": -1329.45,
+        "y": -52.3328
+      }
+    }
+  ]
+}

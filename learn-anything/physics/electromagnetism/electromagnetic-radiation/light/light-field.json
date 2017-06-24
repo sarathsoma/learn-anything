@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - physics - electromagnetism - electromagnetic radiation - light - light field",
+  "nodes": [
+    {
+      "text": "light field",
+      "url": "http://www.wikiwand.com/en/Light_field",
+      "fx": -130.73448371887207,
+      "fy": -170.71303176879883,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -108.5,
+      "fy": -28
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. light field technology: the future of VR and 3D displays",
+      "url": "https://www.youtube.com/watch?v=c8Ge08MwSLQ",
+      "fx": 47.5,
+      "fy": -27.5,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "light field",
+      "target": "basics",
+      "curve": {
+        "x": -1.38276,
+        "y": 70.1065
+      }
+    }
+  ]
+}

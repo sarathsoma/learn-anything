@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - programming - programming paradigms - stream processing - apache kafka",
+  "nodes": [
+    {
+      "text": "apache kafka",
+      "url": "http://www.wikiwand.com/en/Apache_Kafka",
+      "fx": -87.48537234042556,
+      "fy": -257.7585605053192,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 84.29231572948345,
+      "fy": -161.90178571428976
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -47.81701177811544,
+      "fy": -53.775265957446834
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/apache/kafka",
+      "fx": 160.51462765957444,
+      "fy": -243.75856050531922,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "apache kafka"
+    },
+    {
+      "text": "awesome kafka",
+      "url": "https://github.com/infoslack/awesome-kafka",
+      "fx": 221.29231572948345,
+      "fy": -150.40178571428976,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introduction",
+      "url": "https://kafka.apache.org/intro",
+      "fx": 134.18298822188456,
+      "fy": -39.275265957446834,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "apache kafka",
+      "target": "basics",
+      "curve": {
+        "x": -3.16582,
+        "y": 100.742
+      }
+    },
+    {
+      "source": "help",
+      "target": "apache kafka",
+      "curve": {
+        "x": -58.1388,
+        "y": -46.6784
+      }
+    }
+  ]
+}

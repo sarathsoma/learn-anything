@@ -1,0 +1,82 @@
+{
+  "title": "learn anything - physics - particle physics - string theory",
+  "nodes": [
+    {
+      "text": "string theory",
+      "url": "http://www.wikiwand.com/en/String_theory",
+      "fx": -150.2748395877892,
+      "fy": -168.12026738406576,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -108.25055221982097,
+      "fy": 16.32496170364078
+    },
+    {
+      "text": "superstring theory",
+      "url": "http://www.wikiwand.com/en/Superstring_theory",
+      "fx": -244.8656248229761,
+      "fy": 207.80938438225132,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. making sense of string theory",
+      "url": "https://www.ted.com/talks/brian_greene_on_string_theory",
+      "fx": 73.74944778017903,
+      "fy": -75.67503829635922,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the elegant universe: superstrings, hidden dimensions and the quest for the ultimate theory",
+      "url": "http://www.goodreads.com/book/show/8049273-the-elegant-universe",
+      "fx": 73.74944778017903,
+      "fy": -35.67503829635922,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1 a first course in string theory",
+      "url": "http://www.goodreads.com/book/show/17360.A_First_Course_in_String_Theory",
+      "fx": 73.74944778017903,
+      "fy": 69.32496170364078,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. string theory and M-theory: a modern introduction",
+      "url": "http://www.goodreads.com/book/show/222587.String_Theory_and_M_Theory",
+      "fx": 73.74944778017903,
+      "fy": 109.32496170364078,
+      "category": "non-free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "string theory",
+      "target": "basics",
+      "curve": {
+        "x": 0.262144,
+        "y": 90.9726
+      }
+    },
+    {
+      "source": "basics",
+      "target": "superstring theory",
+      "curve": {
+        "x": -34.8075,
+        "y": 96.9922
+      }
+    }
+  ]
+}

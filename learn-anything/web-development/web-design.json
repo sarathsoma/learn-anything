@@ -1,0 +1,174 @@
+{
+  "title": "learn anything - web development - web design",
+  "nodes": [
+    {
+      "text": "web design",
+      "url": "http://www.wikiwand.com/en/Web_design",
+      "fx": -74.04877749975867,
+      "fy": -486.8944630351493,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 74.2356451834329,
+      "fy": -325.4396784092298
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 370.81059451219176,
+      "fy": -138.14557926829264
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -236.12427660314256,
+      "fy": -131.65152271927343
+    },
+    {
+      "text": "responsive web design  ️",
+      "url": "/web-development/web-design/responsive-web-development",
+      "fx": -648.5055612645441,
+      "fy": -19.969229824082845,
+      "category": "mindmap"
+    },
+    {
+      "text": "web accessibility  ️",
+      "url": "/web-development/web-design/web-accessibility",
+      "fx": -359.61870655994136,
+      "fy": -17.158802158553613,
+      "category": "mindmap"
+    },
+    {
+      "text": "progressive enhancement  ️",
+      "url": "/web-development/web-design/progressive-enhancement",
+      "fx": -123.75058282935356,
+      "fy": -14.052854562909488,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/web_design/",
+      "fx": 157.95122250024133,
+      "fy": -472.8944630351493,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "web design"
+    },
+    {
+      "text": "inspire",
+      "url": "https://github.com/NoahBuscher/Inspire",
+      "fx": 211.2356451834329,
+      "fy": -393.9396784092298,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome web design",
+      "url": "https://github.com/nicolesaidy/awesome-web-design",
+      "fx": 211.2356451834329,
+      "fy": -353.9396784092298,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome stock resources",
+      "url": "https://github.com/neutraltone/awesome-stock-resources",
+      "fx": 211.2356451834329,
+      "fy": -313.9396784092298,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "creative commons media",
+      "url": "https://github.com/shime/creative-commons-media",
+      "fx": 211.2356451834329,
+      "fy": -273.9396784092298,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "beautiful open source icons",
+      "url": "https://github.com/colebemis/feather",
+      "fx": 211.2356451834329,
+      "fy": -233.93967840922983,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "gradient Hues",
+      "url": "https://webkul.github.io/coolhue/",
+      "fx": 512.8105945121918,
+      "fy": -123.64557926829264,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. web design in 4 minutes",
+      "url": "http://jgthms.com/web-design-in-4-minutes/",
+      "fx": -54.12427660314256,
+      "fy": -117.15152271927343,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "web design",
+      "target": "basics",
+      "curve": {
+        "x": -100.038,
+        "y": 176.371
+      }
+    },
+    {
+      "source": "basics",
+      "target": "progressive enhancement  ️",
+      "curve": {
+        "x": 107.187,
+        "y": 60.0493
+      }
+    },
+    {
+      "source": "help",
+      "target": "web design",
+      "curve": {
+        "x": -50.3922,
+        "y": -79.4774
+      }
+    },
+    {
+      "source": "basics",
+      "target": "web accessibility  ️",
+      "curve": {
+        "x": -37.4972,
+        "y": 58.4964
+      }
+    },
+    {
+      "source": "basics",
+      "target": "responsive web design  ️",
+      "curve": {
+        "x": -197.945,
+        "y": 35.0755
+      }
+    },
+    {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -182.234,
+        "y": -46.8807
+      }
+    }
+  ]
+}

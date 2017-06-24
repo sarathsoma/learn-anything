@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - machine learning - machine learning libraries - scikit-learn",
+  "nodes": [
+    {
+      "text": "scikit-learn",
+      "url": "https://github.com/scikit-learn/scikit-learn",
+      "fx": -116.2265625,
+      "fy": -154.10546875,
+      "category": "github"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -96.828125,
+      "fy": -28.93359375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. quick start",
+      "url": "http://scikit-learn.org/stable/tutorial/basic/tutorial.html",
+      "fx": 85.171875,
+      "fy": -45.43359375,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. machine learning in python with scikit-learn",
+      "url": "https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A",
+      "fx": 85.171875,
+      "fy": -11.43359375,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "scikit-learn",
+      "target": "basics",
+      "curve": {
+        "x": -7.55079,
+        "y": 61.3359
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "learn anything - game development - game engines - unity",
+  "nodes": [
+    {
+      "text": "unity",
+      "url": "http://www.wikiwand.com/en/Unity_(game_engine)",
+      "fx": -52,
+      "fy": -434.89453125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 27.279226842629555,
+      "fy": -321.6462587151394
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -55.34950821713119,
+      "fy": -199.1445156872511
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome unity",
+      "url": "https://github.com/RyanNielson/awesome-unity",
+      "fx": 164.27922684262955,
+      "fy": -361.1462587151394,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "productive VR Toolkit for rapidly building VR solutions in Unity3d",
+      "url": "https://github.com/thestonefox/VRTK",
+      "fx": 164.27922684262955,
+      "fy": -321.1462587151394,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "game dev tutorials",
+      "url": "https://www.youtube.com/user/Brackeys/videos",
+      "fx": 164.27922684262955,
+      "fy": -259.1462587151394,
+      "category": "youtube",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. unity tutorials",
+      "url": "https://unity3d.com/learn/tutorials",
+      "fx": 126.65049178286881,
+      "fy": -184.6445156872511,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "unity",
+      "curve": {
+        "x": -31.3896,
+        "y": -55.3741
+      }
+    },
+    {
+      "source": "unity",
+      "target": "basics",
+      "curve": {
+        "x": -5.17475,
+        "y": 116.625
+      }
+    }
+  ]
+}

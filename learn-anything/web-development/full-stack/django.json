@@ -1,0 +1,102 @@
+{
+  "title": "learn anything - web development - full stack - django",
+  "nodes": [
+    {
+      "text": "django",
+      "url": "http://www.wikiwand.com/en/Django_(web_framework)",
+      "fx": -63.00034713745117,
+      "fy": 63.99460411071777,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 50.2781096813726,
+      "fy": 172.76049325980392
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -62.83172464089023,
+      "fy": 289.59936937071126
+    },
+    {
+      "text": "libraries",
+      "url": "",
+      "fx": -133.70467163705575,
+      "fy": 415.77645145939096
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://github.com/django/django",
+      "fx": 125.99965286254883,
+      "fy": 77.99460411071777,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "django"
+    },
+    {
+      "text": "awesome django",
+      "url": "https://github.com/rosarior/awesome-django",
+      "fx": 187.2781096813726,
+      "fy": 184.26049325980392,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. writing your first django app",
+      "url": "https://docs.djangoproject.com/en/1.11/intro/tutorial01/",
+      "fx": 119.16827535910977,
+      "fy": 287.09936937071126,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. django girls tutorial",
+      "url": "https://tutorial.djangogirls.org/en/",
+      "fx": 119.16827535910977,
+      "fy": 321.09936937071126,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "django REST framework",
+      "url": "https://github.com/encode/django-rest-framework",
+      "fx": 33.29532836294425,
+      "fy": 427.27645145939096,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "libraries"
+    }
+  ],
+  "connections": [
+    {
+      "source": "django",
+      "target": "basics",
+      "curve": {
+        "x": -8.16569,
+        "y": 111.553
+      }
+    },
+    {
+      "source": "help",
+      "target": "django",
+      "curve": {
+        "x": -43.6392,
+        "y": -53.1329
+      }
+    },
+    {
+      "source": "basics",
+      "target": "libraries",
+      "curve": {
+        "x": -32.6865,
+        "y": 63.0885
+      }
+    }
+  ]
+}

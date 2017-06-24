@@ -1,0 +1,70 @@
+{
+  "title": "learn anything - programming - programming languages - python - python libraries - flask",
+  "nodes": [
+    {
+      "text": "flask",
+      "url": "http://flask.pocoo.org/",
+      "fx": -31.89453125,
+      "fy": -123.9765625
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 77.65269076439643,
+      "fy": -26.3383465120869
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -39.13540957050952,
+      "fy": 78.0258529724614
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "source",
+      "url": "https://github.com/pallets/flask",
+      "fx": 107.10546875,
+      "fy": -112.4765625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "flask"
+    },
+    {
+      "text": "awesome flask",
+      "url": "https://github.com/humiaozuzu/awesome-flask",
+      "fx": 214.65269076439643,
+      "fy": -14.8383465120869,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. welcome to Flask",
+      "url": "http://flask.pocoo.org/docs/0.12/",
+      "fx": 142.86459042949048,
+      "fy": 92.5258529724614,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "flask",
+      "curve": {
+        "x": -54.2736,
+        "y": -48.8191
+      }
+    },
+    {
+      "source": "flask",
+      "target": "basics",
+      "curve": {
+        "x": 0.629561,
+        "y": 101.001
+      }
+    }
+  ]
+}

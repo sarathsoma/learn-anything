@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - security - information security - cybersecurity - ddos",
+  "nodes": [
+    {
+      "text": "distributed denial of service",
+      "url": "http://www.wikiwand.com/en/Denial-of-service_attack",
+      "fx": -39.132527470588684,
+      "fy": -226.18833827972412,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 42.45968646836718,
+      "fy": -61.108456599342105
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. DDoS attacks explained",
+      "url": "https://www.youtube.com/watch?v=0I4O4hoKzb8",
+      "fx": 198.45968646836718,
+      "fy": -80.6084565993421,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the attack that could disrupt the whole internet",
+      "url": "https://www.youtube.com/watch?v=BcDZS7iYNsA",
+      "fx": 198.45968646836718,
+      "fy": -40.608456599342105,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "distributed denial of service",
+      "target": "basics",
+      "curve": {
+        "x": -4.45389,
+        "y": 81.2899
+      }
+    }
+  ]
+}

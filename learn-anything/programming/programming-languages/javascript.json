@@ -1,0 +1,413 @@
+{
+  "title": "learn anything - programming - programming languages - javascript",
+  "nodes": [
+    {
+      "text": "javascript",
+      "url": "http://www.wikiwand.com/en/JavaScript",
+      "fx": -122.83775029765388,
+      "fy": -813.5583772512393,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 60.63497539224295,
+      "fy": -487.7906707237506
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 141.0388005504135,
+      "fy": -100.21576654139903
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 265.5255542681193,
+      "fy": 19.094544664426394
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -273.5469545883918,
+      "fy": 116.79042443268986
+    },
+    {
+      "text": "promises  ️",
+      "url": "/programming/programming-languages/javascript/promises",
+      "fx": -613.2223914823428,
+      "fy": 216.28562818413388,
+      "category": "mindmap"
+    },
+    {
+      "text": "ES6  ️",
+      "url": "/programming/programming-languages/javascript/es6",
+      "fx": -302.6810119275051,
+      "fy": 276.18781490330525,
+      "category": "mindmap"
+    },
+    {
+      "text": "package managers",
+      "url": "",
+      "fx": -535.1099860335195,
+      "fy": 348.20687849162005
+    },
+    {
+      "text": "static type checking",
+      "url": "",
+      "fx": -95.58151181776361,
+      "fy": 354.92711335684453
+    },
+    {
+      "text": "npm  ️",
+      "fx": -601.3985298767409,
+      "fy": 453.74422361968186,
+      "category": "mindmap"
+    },
+    {
+      "text": "yarn",
+      "url": "https://github.com/yarnpkg/yarn",
+      "fx": -427.2213736679148,
+      "fy": 454.5375819052417,
+      "category": "github"
+    },
+    {
+      "text": "flow  ️",
+      "url": "/programming/programming-languages/javascript/flow",
+      "fx": -38.465957000334356,
+      "fy": 468.8140618594564,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/javascript/",
+      "fx": 90.16224970234612,
+      "fy": -819.5583772512393,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "javascript"
+    },
+    {
+      "text": "learn javascript",
+      "url": "https://www.reddit.com/r/learnjavascript/",
+      "fx": 90.16224970234612,
+      "fy": -779.5583772512393,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "javascript"
+    },
+    {
+      "text": "awesome javascript",
+      "url": "https://github.com/sorrycc/awesome-javascript",
+      "fx": 197.63497539224295,
+      "fy": -736.2906707237506,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome promises",
+      "url": "https://github.com/wbinnssmith/awesome-promises",
+      "fx": 197.63497539224295,
+      "fy": -696.2906707237506,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "high level style in javascript",
+      "url": "https://gist.github.com/dominictarr/2401787",
+      "fx": 197.63497539224295,
+      "fy": -656.2906707237506,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "js must watch",
+      "url": "https://github.com/bolshchikov/js-must-watch",
+      "fx": 197.63497539224295,
+      "fy": -616.2906707237506,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome js tips",
+      "url": "https://github.com/loverajoel/jstips",
+      "fx": 197.63497539224295,
+      "fy": -576.2906707237506,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome network js",
+      "url": "https://github.com/Kikobeats/awesome-network-js",
+      "fx": 197.63497539224295,
+      "fy": -536.2906707237506,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome observables",
+      "url": "https://github.com/sindresorhus/awesome-observables",
+      "fx": 197.63497539224295,
+      "fy": -496.2906707237506,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome fp in js",
+      "url": "https://github.com/stoeffel/awesome-fp-js",
+      "fx": 197.63497539224295,
+      "fy": -456.2906707237506,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome javascript learning",
+      "url": "https://github.com/micromata/awesome-javascript-learning",
+      "fx": 197.63497539224295,
+      "fy": -416.2906707237506,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome standard",
+      "note": "- explosion of packages in the standard ecosystem",
+      "url": "https://github.com/feross/awesome-standard",
+      "fx": 197.63497539224295,
+      "fy": -376.2906707237506,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "clean code javascript",
+      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "fx": 197.63497539224295,
+      "fy": -336.2906707237506,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "js concepts with code",
+      "url": "https://github.com/vasanthk/js-bits",
+      "fx": 197.63497539224295,
+      "fy": -296.2906707237506,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "javascript in one pic",
+      "url": "https://github.com/coodict/javascript-in-one-pic",
+      "fx": 197.63497539224295,
+      "fy": -256.2906707237506,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "js interview questions",
+      "url": "https://github.com/vvscode/js--interview-questions",
+      "fx": 197.63497539224295,
+      "fy": -216.29067072375062,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "write any js with []()!+",
+      "url": "https://github.com/aemkei/jsfuck",
+      "fx": 332.0388005504135,
+      "fy": -119.71576654139903,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "list of languages that compile to js",
+      "url": "https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js",
+      "fx": 332.0388005504135,
+      "fy": -79.71576654139903,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "javascript primer  ️",
+      "url": "https://www.discovermeteor.com/blog/javascript-for-meteor/",
+      "fx": 427.5255542681193,
+      "fy": 30.594544664426394,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. freecodecamp",
+      "note": "project-based learning",
+      "url": "https://www.freecodecamp.com/",
+      "fx": -91.54695458839183,
+      "fy": -2.7095755673101394,
+      "category": "interactive",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. you don’t know js series",
+      "note": "goes over javascript language in detail",
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "fx": -91.54695458839183,
+      "fy": 37.29042443268986,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. javascript30",
+      "note": "build 30 things in 30 days with vanilla js",
+      "url": "https://javascript30.com/",
+      "fx": -91.54695458839183,
+      "fy": 77.29042443268986,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. modern js tutorial",
+      "url": "http://javascript.info/",
+      "fx": -91.54695458839183,
+      "fy": 117.29042443268986,
+      "category": "free book",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. practical javascript",
+      "url": "https://watchandcode.com/p/practical-javascript",
+      "fx": -91.54695458839183,
+      "fy": 157.29042443268986,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. learning javascript design patterns",
+      "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+      "fx": -91.54695458839183,
+      "fy": 197.29042443268986,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. eloquent javascript",
+      "url": "http://eloquentjavascript.net/",
+      "fx": -91.54695458839183,
+      "fy": 259.29042443268986,
+      "category": "free book",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "javascript",
+      "curve": {
+        "x": -79.9862,
+        "y": -162.885
+      }
+    },
+    {
+      "source": "javascript",
+      "target": "basics",
+      "curve": {
+        "x": -82.3547,
+        "y": 465.175
+      }
+    },
+    {
+      "source": "basics",
+      "target": "ES6  ️",
+      "curve": {
+        "x": -19.567,
+        "y": 79.6985
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -74.0926,
+        "y": -192.181
+      }
+    },
+    {
+      "source": "articles",
+      "target": "interesting",
+      "curve": {
+        "x": -54.9933,
+        "y": -59.6551
+      }
+    },
+    {
+      "source": "basics",
+      "target": "package managers",
+      "curve": {
+        "x": -108.282,
+        "y": 115.708
+      }
+    },
+    {
+      "source": "package managers",
+      "target": "npm  ️",
+      "curve": {
+        "x": -66.3944,
+        "y": 52.7688
+      }
+    },
+    {
+      "source": "package managers",
+      "target": "yarn",
+      "curve": {
+        "x": 27.4443,
+        "y": 54.4153
+      }
+    },
+    {
+      "source": "static type checking",
+      "target": "flow  ️",
+      "curve": {
+        "x": -7.44222,
+        "y": 56.9435
+      }
+    },
+    {
+      "source": "basics",
+      "target": "static type checking",
+      "curve": {
+        "x": 71.8806,
+        "y": 149.066
+      }
+    },
+    {
+      "source": "basics",
+      "target": "promises  ️",
+      "curve": {
+        "x": -170.088,
+        "y": 49.7476
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "title": "learn anything - programming - programming languages - rust",
+  "nodes": [
+    {
+      "text": "rust",
+      "url": "http://www.wikiwand.com/en/Rust_(programming_language)",
+      "fx": -75.21484375,
+      "fy": -268.75390625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 34.510141695114726,
+      "fy": -153.572120282894
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 59.40254181221633,
+      "fy": 30.376493529689697
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -91.79493820789685,
+      "fy": 173.1241486219169
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/rust/",
+      "fx": 86.78515625,
+      "fy": -254.75390625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "rust"
+    },
+    {
+      "text": "awesome rust",
+      "url": "https://github.com/kud1ing/awesome-rust",
+      "fx": 171.51014169511473,
+      "fy": -199.072120282894,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "alternative introduction to rust  ️",
+      "url": "http://words.steveklabnik.com/a-new-introduction-to-rust",
+      "fx": 171.51014169511473,
+      "fy": -159.072120282894,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "rust cookbook",
+      "url": "https://brson.github.io/rust-cookbook/basics.html",
+      "fx": 171.51014169511473,
+      "fy": -119.07212028289399,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "new rustacean",
+      "url": "http://www.newrustacean.com/",
+      "fx": 171.51014169511473,
+      "fy": -85.07212028289399,
+      "category": "podcast",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "16: the path to rust  ️",
+      "url": "https://thesquareplanet.com/blog/the-path-to-rust/",
+      "fx": 221.40254181221633,
+      "fy": -9.123506470310303,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: I made a game in rust  ️",
+      "url": "https://michaelfairley.com/blog/i-made-a-game-in-rust/",
+      "fx": 221.40254181221633,
+      "fy": 30.876493529689697,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: rust's language ergonomics initiative  ️",
+      "url": "https://blog.rust-lang.org/2017/03/02/lang-ergonomics.html",
+      "fx": 221.40254181221633,
+      "fy": 70.8764935296897,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. the rust programming language",
+      "url": "https://doc.rust-lang.org/book/",
+      "fx": 90.20506179210315,
+      "fy": 156.6241486219169,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. gentle rust tutorial",
+      "url": "https://github.com/stevedonovan/gentle-intro",
+      "fx": 90.20506179210315,
+      "fy": 218.6241486219169,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "rust",
+      "target": "basics",
+      "curve": {
+        "x": -2.54011,
+        "y": 220.937
+      }
+    },
+    {
+      "source": "help",
+      "target": "rust",
+      "curve": {
+        "x": -55.8624,
+        "y": -57.5909
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -18.6962,
+        "y": -91.9743
+      }
+    }
+  ]
+}

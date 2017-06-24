@@ -1,0 +1,115 @@
+{
+  "title": "learn anything - physics - classical mechanics",
+  "nodes": [
+    {
+      "text": "classical mechanics",
+      "url": "http://www.wikiwand.com/en/Classical_mechanics",
+      "fx": -67.61254293778859,
+      "fy": -174.61494942731474,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -11.148254617478983,
+      "fy": 35.43007898467721
+    },
+    {
+      "text": "gravity  ️",
+      "url": "/physics/classical-mechanics/gravity",
+      "fx": -151.36810541775446,
+      "fy": 201.55442232376004,
+      "category": "mindmap"
+    },
+    {
+      "text": "vibration  ️",
+      "url": "/physics/classical-mechanics/vibration",
+      "fx": 18.654358860167804,
+      "fy": 278.90109536082446,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. newtonian dynamics",
+      "url": "http://farside.ph.utexas.edu/teaching/336k/lectures/",
+      "fx": 170.85174538252102,
+      "fy": -86.06992101532279,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. classical mechanics by Joel Shapiro",
+      "url": "http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf",
+      "fx": 170.85174538252102,
+      "fy": -46.06992101532279,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introductory classical mechanics with problems and solutions",
+      "url": "http://math-wiki.com/images/a/a9/Morin,_David-Introductory_Classical_Mechanics,_With_Problems_and_Solutions_(2003)(519s).pdf",
+      "fx": 170.85174538252102,
+      "fy": 15.930078984677209,
+      "category": "free book",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. on classical mechanics  ️",
+      "url": "http://torassa.tripod.com/paper.htm",
+      "fx": 170.85174538252102,
+      "fy": 77.93007898467721,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. mathematics of classical and quantum physics",
+      "url": "http://www.goodreads.com/book/show/100026.Mathematics_of_Classical_and_Quantum_Physics",
+      "fx": 170.85174538252102,
+      "fy": 117.93007898467721,
+      "category": "non-free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "classical mechanics by John Taylor",
+      "url": "http://www.goodreads.com/book/show/245483.Classical_Mechanics",
+      "fx": 170.85174538252102,
+      "fy": 179.9300789846772,
+      "category": "non-free book",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "classical mechanics",
+      "target": "basics",
+      "curve": {
+        "x": -9.26786,
+        "y": 103.772
+      }
+    },
+    {
+      "source": "basics",
+      "target": "vibration  ️",
+      "curve": {
+        "x": 13.1513,
+        "y": 121.735
+      }
+    },
+    {
+      "source": "basics",
+      "target": "gravity  ️",
+      "curve": {
+        "x": -76.3599,
+        "y": 83.0622
+      }
+    }
+  ]
+}

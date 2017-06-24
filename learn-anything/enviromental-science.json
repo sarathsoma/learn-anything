@@ -1,0 +1,192 @@
+{
+  "title": "learn anything - enviromental science",
+  "nodes": [
+    {
+      "text": "environmental science",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Environmental_science",
+      "fx": 495.310202205882,
+      "fy": -919.2220145486485,
+      "category": "wiki"
+    },
+    {
+      "text": "sustainability",
+      "url": "http://www.wikiwand.com/en/Sustainability",
+      "fx": 651.9013562867756,
+      "fy": -752.3799937261674,
+      "category": "wiki"
+    },
+    {
+      "text": "ecology",
+      "url": "http://www.wikiwand.com/en/Ecology",
+      "fx": 451.4949046623145,
+      "fy": -751.6217113934388,
+      "category": "wiki"
+    },
+    {
+      "text": "renewable energy",
+      "note": "is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat",
+      "url": "http://www.wikiwand.com/en/Renewable_energy",
+      "fx": 624.2544648425926,
+      "fy": -653.9997183021319,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "if you think this can be improved in any way ",
+      "url": "",
+      "fx": 671.9546541647073,
+      "fy": -546.5273846925827
+    },
+    {
+      "text": "solar energy",
+      "url": "http://www.wikiwand.com/en/Solar_energy",
+      "fx": 102.05773843071256,
+      "fy": -340.69555689875403,
+      "category": "wiki"
+    },
+    {
+      "text": "wind power",
+      "url": "http://www.wikiwand.com/en/Wind_power",
+      "fx": 293.18664468071256,
+      "fy": -338.64575221125403,
+      "category": "wiki"
+    },
+    {
+      "text": "tidal power",
+      "url": "http://www.wikiwand.com/en/Tidal_power",
+      "fx": 478.1359780798998,
+      "fy": -337.10912415927737,
+      "category": "wiki"
+    },
+    {
+      "text": "geothermal energy",
+      "url": "http://www.wikiwand.com/en/Geothermal_energy",
+      "fx": 661.6721982333215,
+      "fy": -335.45946469247895,
+      "category": "wiki"
+    },
+    {
+      "text": "biofuel",
+      "url": "http://www.wikiwand.com/en/Biofuel",
+      "fx": 905.0968619658687,
+      "fy": -331.742115278881,
+      "category": "wiki"
+    },
+    {
+      "text": "nuclear power  ️",
+      "url": "/enviromental-science/nuclear-power",
+      "fx": 1193.5557929982253,
+      "fy": -329.7492685795793,
+      "category": "mindmap"
+    },
+    {
+      "text": "biomass",
+      "url": "http://www.wikiwand.com/en/Biomass",
+      "fx": 1039.19401467583,
+      "fy": -329.5401432711295,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. sustainable energy - without the hot air",
+      "url": "http://www.withouthotair.com/c1/page_2.shtml",
+      "fx": 853.9546541647073,
+      "fy": -546.0273846925827,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "basics",
+      "target": "wind power",
+      "curve": {
+        "x": -176.633,
+        "y": 105.191
+      }
+    },
+    {
+      "source": "basics",
+      "target": "geothermal energy",
+      "curve": {
+        "x": 23.3588,
+        "y": 106.784
+      }
+    },
+    {
+      "source": "renewable energy",
+      "target": "basics",
+      "curve": {
+        "x": -4.14987,
+        "y": 53.7363
+      }
+    },
+    {
+      "source": "basics",
+      "target": "solar energy",
+      "curve": {
+        "x": -271.198,
+        "y": 104.166
+      }
+    },
+    {
+      "source": "basics",
+      "target": "tidal power",
+      "curve": {
+        "x": -85.6594,
+        "y": 105.959
+      }
+    },
+    {
+      "source": "basics",
+      "target": "nuclear power  ️",
+      "curve": {
+        "x": 275.816,
+        "y": 118.333
+      }
+    },
+    {
+      "source": "basics",
+      "target": "biofuel",
+      "curve": {
+        "x": 117.572,
+        "y": 108.642
+      }
+    },
+    {
+      "source": "basics",
+      "target": "biomass",
+      "curve": {
+        "x": 189.12,
+        "y": 109.743
+      }
+    },
+    {
+      "source": "environmental science",
+      "target": "ecology",
+      "curve": {
+        "x": -54.4077,
+        "y": 83.8001
+      }
+    },
+    {
+      "source": "sustainability",
+      "target": "renewable energy",
+      "curve": {
+        "x": -2.57345,
+        "y": 49.1901
+      }
+    },
+    {
+      "source": "environmental science",
+      "target": "sustainability",
+      "curve": {
+        "x": 56.7956,
+        "y": 83.421
+      }
+    }
+  ]
+}

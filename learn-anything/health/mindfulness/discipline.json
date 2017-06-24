@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - health - mindfulness - discipline",
+  "nodes": [
+    {
+      "text": "discipline",
+      "url": "http://www.wikiwand.com/en/Discipline",
+      "fx": -87.72436361754978,
+      "fy": -331.24857719370857,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -75.33307961050605,
+      "fy": -195.534280643194
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/getdisciplined/",
+      "fx": 122.27563638245022,
+      "fy": -317.24857719370857,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "discipline"
+    },
+    {
+      "text": "1. why procrastinator’s procrastinate  ️",
+      "url": "http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html",
+      "fx": 106.66692038949395,
+      "fy": -195.034280643194,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "discipline",
+      "target": "basics",
+      "curve": {
+        "x": -7.30436,
+        "y": 66.6071
+      }
+    }
+  ]
+}

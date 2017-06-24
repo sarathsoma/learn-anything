@@ -1,0 +1,102 @@
+{
+  "title": "learn anything - programming - programming languages - r",
+  "nodes": [
+    {
+      "text": "r",
+      "url": "http://www.wikiwand.com/en/R_(programming_language)",
+      "fx": 34.86328125,
+      "fy": -107.71484375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 105.80859375,
+      "fy": -6.78515625
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 20.2109375,
+      "fy": 123.09375
+    },
+    {
+      "text": "RStudio  ️",
+      "fx": -76.64089209401698,
+      "fy": 282.6497729700402,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "r documentation",
+      "url": "https://www.rdocumentation.org/",
+      "fx": 242.80859375,
+      "fy": -49.28515625,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome r",
+      "url": "https://github.com/qinwf/awesome-R",
+      "fx": 242.80859375,
+      "fy": -15.28515625,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "r books",
+      "url": "https://github.com/RomanTsegelskyi/rbooks",
+      "fx": 242.80859375,
+      "fy": 24.71484375,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "free resources for learning R",
+      "url": "https://stats.stackexchange.com/questions/138/free-resources-for-learning-r",
+      "fx": 242.80859375,
+      "fy": 64.71484375,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. R for data science",
+      "url": "http://r4ds.had.co.nz/",
+      "fx": 202.2109375,
+      "fy": 134.59375,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "r",
+      "target": "basics",
+      "curve": {
+        "x": 2.17383,
+        "y": 115.404
+      }
+    },
+    {
+      "source": "help",
+      "target": "r",
+      "curve": {
+        "x": -36.2227,
+        "y": -49.2148
+      }
+    },
+    {
+      "source": "basics",
+      "target": "RStudio  ️",
+      "curve": {
+        "x": -51.1759,
+        "y": 79.778
+      }
+    }
+  ]
+}

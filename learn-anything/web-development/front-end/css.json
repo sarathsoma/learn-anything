@@ -1,0 +1,161 @@
+{
+  "title": "learn anything - web development - front end - css",
+  "nodes": [
+    {
+      "text": "css",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "fx": 15.90625,
+      "fy": -235.26171875
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 104.98740871106577,
+      "fy": -152.23412958116018
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 254.3573708619881,
+      "fy": -31.53517019686376
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -88.79007228417515,
+      "fy": 34.43961043532909
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 373.2412162401853,
+      "fy": 77.34774449569306
+    },
+    {
+      "text": "styled components  ️",
+      "url": "/web-development/front-end/css/styled-components",
+      "fx": -291.2832660654035,
+      "fy": 162.98593488196616,
+      "category": "mindmap"
+    },
+    {
+      "text": "Sass  ️",
+      "url": "/web-development/front-end/css/sass",
+      "fx": 8.706407432070023,
+      "fy": 177.28265677114223,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/css/",
+      "fx": 145.90625,
+      "fy": -223.76171875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "css"
+    },
+    {
+      "text": "css almanac",
+      "url": "https://css-tricks.com/almanac/",
+      "fx": 241.98740871106577,
+      "fy": -154.73412958116018,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "css reference",
+      "url": "http://cssreference.io/#hn",
+      "fx": 241.98740871106577,
+      "fy": -120.73412958116018,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: the state of CSS  ️",
+      "url": "http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html",
+      "fx": 416.3573708619881,
+      "fy": -51.03517019686376,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "14: a pattern for writing CSS to scale  ️",
+      "url": "http://www.intelligiblebabble.com/a-pattern-for-writing-css-to-scale",
+      "fx": 416.3573708619881,
+      "fy": -11.03517019686376,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. intro to css",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS",
+      "fx": 93.20992771582485,
+      "fy": 48.93961043532909,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "blend",
+      "url": "http://colinkeany.com/blend/",
+      "fx": 515.2412162401853,
+      "fy": 91.84774449569306,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    }
+  ],
+  "connections": [
+    {
+      "source": "css",
+      "target": "basics",
+      "curve": {
+        "x": -45.8481,
+        "y": 134.851
+      }
+    },
+    {
+      "source": "help",
+      "target": "css",
+      "curve": {
+        "x": -46.2906,
+        "y": -41.5138
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Sass  ️",
+      "curve": {
+        "x": 38.9983,
+        "y": 71.4215
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -93.8918,
+        "y": -53.8699
+      }
+    },
+    {
+      "source": "tools",
+      "target": "articles",
+      "curve": {
+        "x": -54.4419,
+        "y": -54.4415
+      }
+    },
+    {
+      "source": "basics",
+      "target": "styled components  ️",
+      "curve": {
+        "x": -78.9966,
+        "y": 64.2732
+      }
+    }
+  ]
+}

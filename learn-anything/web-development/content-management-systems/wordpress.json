@@ -1,0 +1,102 @@
+{
+  "title": "learn anything - web development - content management systems - wordpress",
+  "nodes": [
+    {
+      "text": "wordpress",
+      "url": "http://www.wikiwand.com/en/WordPress",
+      "fx": -62.198863636363626,
+      "fy": -275.76349431818176,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 56.37139179180201,
+      "fy": -130.03821276379875
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 137.8192344764608,
+      "fy": 7.812347808482059
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -40.22981770833337,
+      "fy": 124.51627604166663
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Wordpress/",
+      "fx": 159.80113636363637,
+      "fy": -281.76349431818176,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "wordpress"
+    },
+    {
+      "text": "️",
+      "url": "https://wordpress.stackexchange.com/",
+      "fx": 159.80113636363637,
+      "fy": -241.76349431818176,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "wordpress"
+    },
+    {
+      "text": "awesome wordpress",
+      "url": "https://github.com/miziomon/awesome-wordpress",
+      "fx": 193.371391791802,
+      "fy": -118.53821276379875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "14: where to learn wordpress development  ️",
+      "url": "https://poststatus.com/learn-wordpress-development/",
+      "fx": 299.8192344764608,
+      "fy": 8.312347808482059,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. getting started with wordpress",
+      "url": "https://codex.wordpress.org/Getting_Started_with_WordPress",
+      "fx": 115.77018229166663,
+      "fy": 139.01627604166663,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "wordpress",
+      "curve": {
+        "x": -38.0351,
+        "y": -71.6126
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -46.9739,
+        "y": -68.9253
+      }
+    },
+    {
+      "source": "wordpress",
+      "target": "basics",
+      "curve": {
+        "x": -5.51548,
+        "y": 198.89
+      }
+    }
+  ]
+}

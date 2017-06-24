@@ -1,0 +1,120 @@
+{
+  "title": "learn anything - computer science - algorithms - search",
+  "nodes": [
+    {
+      "text": "search algorithms",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Search_algorithm",
+      "fx": -126.94814116379325,
+      "fy": -211.47265625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 78.500083111702,
+      "fy": -84.28255388520648
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -61.81107415531574,
+      "fy": 12.57428218416527
+    },
+    {
+      "text": "depth-first search  ️",
+      "fx": -691.3341538975728,
+      "fy": 167.526866515837,
+      "category": "mindmap"
+    },
+    {
+      "text": "binary search  ️",
+      "fx": -194.70638416013549,
+      "fy": 168.9847735969388,
+      "category": "mindmap"
+    },
+    {
+      "text": "Monte Carlo tree search  ️",
+      "url": "/computer-science/algorithms/search/monte-carlo-tree-search",
+      "fx": 6.272921161497948,
+      "fy": 170.68128108169446,
+      "category": "mindmap"
+    },
+    {
+      "text": "breadth-first search  ️",
+      "fx": -452.02650451660156,
+      "fy": 171.90843200683594,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "list of search algorithms",
+      "url": "https://en.wikipedia.org/wiki/Category:Search_algorithms",
+      "fx": 215.500083111702,
+      "fy": -72.78255388520648,
+      "category": "wiki",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. notes on search  ️",
+      "url": "http://frnsys.com/ai_notes/artificial_intelligence/search.html",
+      "fx": 94.18892584468426,
+      "fy": 24.07428218416527,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "search algorithms",
+      "curve": {
+        "x": -58.7241,
+        "y": -62.3451
+      }
+    },
+    {
+      "source": "search algorithms",
+      "target": "basics",
+      "curve": {
+        "x": -6.68147,
+        "y": 110.773
+      }
+    },
+    {
+      "source": "basics",
+      "target": "binary search  ️",
+      "curve": {
+        "x": -43.4475,
+        "y": 79.4552
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Monte Carlo tree search  ️",
+      "curve": {
+        "x": 81.292,
+        "y": 80.3034
+      }
+    },
+    {
+      "source": "basics",
+      "target": "breadth-first search  ️",
+      "curve": {
+        "x": -169.858,
+        "y": 79.6671
+      }
+    },
+    {
+      "source": "basics",
+      "target": "depth-first search  ️",
+      "curve": {
+        "x": -314.097,
+        "y": 44.5466
+      }
+    }
+  ]
+}

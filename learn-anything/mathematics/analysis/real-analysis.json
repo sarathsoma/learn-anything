@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - mathematics - analysis - real analysis",
+  "nodes": [
+    {
+      "text": "real analysis",
+      "url": "http://www.wikiwand.com/en/Real_analysis",
+      "fx": 167.70428493449788,
+      "fy": -113.78733965611357,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 195.5172625545805,
+      "fy": 12.094022925757372
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. real analysis",
+      "url": "https://www.youtube.com/watch?v=sqEyWLGvvdw&amp;list=PL04BA7A9EB907EDAF",
+      "fx": 377.5172625545805,
+      "fy": 3.594022925757372,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introductory real analysis",
+      "url": "http://www.goodreads.com/book/show/218517.Introductory_Real_Analysis",
+      "fx": 377.5172625545805,
+      "fy": 43.59402292575737,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "real analysis",
+      "target": "basics",
+      "curve": {
+        "x": -6.09351,
+        "y": 61.6907
+      }
+    }
+  ]
+}

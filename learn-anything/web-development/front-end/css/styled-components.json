@@ -1,0 +1,47 @@
+{
+  "title": "learn anything - web development - front end - css - styled components",
+  "nodes": [
+    {
+      "text": "styled components",
+      "url": "https://github.com/styled-components/styled-components",
+      "fx": -118.50000381469727,
+      "fy": -134.3077735900879,
+      "category": "github"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -50.6679996997118,
+      "fy": 53.86679267883301
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. basics",
+      "url": "https://www.styled-components.com/docs/basics#motivation",
+      "fx": 105.3320003002882,
+      "fy": 37.36679267883301,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. styling react apps with styled components",
+      "url": "https://www.youtube.com/watch?v=qu4U7lwZTRI",
+      "fx": 105.3320003002882,
+      "fy": 71.36679267883301,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "styled components",
+      "target": "basics",
+      "curve": {
+        "x": -2.084,
+        "y": 92.8373
+      }
+    }
+  ]
+}

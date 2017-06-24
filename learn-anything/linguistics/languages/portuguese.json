@@ -1,0 +1,47 @@
+{
+  "title": "learn anything - linguistics - languages - portuguese",
+  "nodes": [
+    {
+      "text": "portuguese language",
+      "url": "http://www.wikiwand.com/en/Portuguese_language",
+      "fx": -120.52734375,
+      "fy": -168.640625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -38.5859375,
+      "fy": -25.45703125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Portuguese/",
+      "fx": 197.47265625,
+      "fy": -154.640625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "portuguese language"
+    },
+    {
+      "text": "1. duolingo",
+      "url": "https://www.duolingo.com/course/pt/en/Learn-Portuguese-Online",
+      "fx": 117.4140625,
+      "fy": -10.95703125,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "portuguese language",
+      "target": "basics",
+      "curve": {
+        "x": 0.470703,
+        "y": 70.3418
+      }
+    }
+  ]
+}

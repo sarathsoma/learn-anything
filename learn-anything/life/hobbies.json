@@ -1,0 +1,85 @@
+{
+  "title": "learn anything - life - hobbies",
+  "nodes": [
+    {
+      "text": "hobbies",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Hobby",
+      "fx": 254.93868885869574,
+      "fy": -176.1368885869565,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 39.49541440217388,
+      "fy": -15.076936141304145
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "programming  ️",
+      "url": "/programming",
+      "fx": 479.93868885869574,
+      "fy": -242.1368885869565,
+      "category": "mindmap",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "hobbies"
+    },
+    {
+      "text": "gardening  ️",
+      "url": "/life/hobbies/gardening",
+      "fx": 479.93868885869574,
+      "fy": -202.1368885869565,
+      "category": "mindmap",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "hobbies"
+    },
+    {
+      "text": "knitting  ️",
+      "url": "/life/hobbies/knitting",
+      "fx": 479.93868885869574,
+      "fy": -162.1368885869565,
+      "category": "mindmap",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "hobbies"
+    },
+    {
+      "text": "woodworking  ️",
+      "url": "/life/hobbies/woodworking",
+      "fx": 479.93868885869574,
+      "fy": -122.1368885869565,
+      "category": "mindmap",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "hobbies"
+    },
+    {
+      "text": "carpentry  ️",
+      "url": "/life/hobbies/carpentry",
+      "fx": 479.93868885869574,
+      "fy": -82.1368885869565,
+      "category": "mindmap",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "hobbies"
+    },
+    {
+      "text": "list of hobbies",
+      "url": "http://www.wikiwand.com/en/List_of_hobbies",
+      "fx": 176.49541440217388,
+      "fy": -3.576936141304145,
+      "category": "wiki",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "hobbies",
+      "curve": {
+        "x": 74.5905,
+        "y": -109.027
+      }
+    }
+  ]
+}

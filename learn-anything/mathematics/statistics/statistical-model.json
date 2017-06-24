@@ -1,0 +1,75 @@
+{
+  "title": "learn anything - mathematics - statistics - statistical model",
+  "nodes": [
+    {
+      "text": "statistical model",
+      "url": "http://www.wikiwand.com/en/Statistical_model",
+      "fx": -254.71085151336467,
+      "fy": -39.028326454402475,
+      "category": "wiki"
+    },
+    {
+      "text": "probabilistic graphical models  ️",
+      "url": "/mathematics/statistics/statistical-model/probabilistic-graphical-models",
+      "fx": -271.1274424356127,
+      "fy": 155.7792668821951,
+      "category": "mindmap"
+    },
+    {
+      "text": "model selection  ️",
+      "url": "/mathematics/statistics/statistical-model/model-selection",
+      "fx": 98.79784733972576,
+      "fy": 156.07128064317936,
+      "category": "mindmap"
+    },
+    {
+      "text": "conditional random fields  ️",
+      "url": "/mathematics/statistics/statistical-model/conditional-random-fields",
+      "fx": -815.4329427083331,
+      "fy": 158.76106770833167,
+      "category": "mindmap"
+    },
+    {
+      "text": "Gaussian process  ️",
+      "url": "/mathematics/statistics/statistical-model/gaussian-process",
+      "fx": -514.2885513305664,
+      "fy": 158.96113967895508,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "statistical model",
+      "target": "probabilistic graphical models  ️",
+      "curve": {
+        "x": 24.5417,
+        "y": 97.4038
+      }
+    },
+    {
+      "source": "statistical model",
+      "target": "model selection  ️",
+      "curve": {
+        "x": 176.004,
+        "y": 97.5498
+      }
+    },
+    {
+      "source": "statistical model",
+      "target": "Gaussian process  ️",
+      "curve": {
+        "x": -132.789,
+        "y": 97.7447
+      }
+    },
+    {
+      "source": "statistical model",
+      "target": "conditional random fields  ️",
+      "curve": {
+        "x": -268.861,
+        "y": 97.6447
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "learn anything - philosophy - epistemology",
+  "nodes": [
+    {
+      "text": "epistemology",
+      "url": "http://www.wikiwand.com/en/Epistemology",
+      "fx": -93.6601647734642,
+      "fy": -145.54193496704102,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -59.176721146573755,
+      "fy": -18.463487924794492
+    },
+    {
+      "text": "naturalised epistemology",
+      "url": "http://www.wikiwand.com/en/Naturalized_epistemology",
+      "fx": -208.36247552219356,
+      "fy": 133.41628590078358,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is knowledge?  ️",
+      "url": "https://plato.stanford.edu/entries/epistemology/",
+      "fx": 122.82327885342625,
+      "fy": -46.96348792479449,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the meaning of knowledge",
+      "url": "https://www.youtube.com/watch?v=kXhJ3hHK9hQ",
+      "fx": 122.82327885342625,
+      "fy": -6.963487924794492,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. epistemology: an anthology",
+      "url": "http://www.goodreads.com/book/show/752489.Epistemology",
+      "fx": 122.82327885342625,
+      "fy": 33.03651207520551,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "epistemology",
+      "target": "basics",
+      "curve": {
+        "x": 1.49172,
+        "y": 63.5392
+      }
+    },
+    {
+      "source": "basics",
+      "target": "naturalised epistemology",
+      "curve": {
+        "x": -25.8429,
+        "y": 77.1899
+      }
+    }
+  ]
+}

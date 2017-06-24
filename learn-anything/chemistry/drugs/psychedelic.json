@@ -1,0 +1,293 @@
+{
+  "title": "learn anything - chemistry - drugs - psychedelic",
+  "nodes": [
+    {
+      "text": "psychedelic drugs",
+      "note": "",
+      "url": "https://psychonautwiki.org/w/index.php/Psychedelic",
+      "fx": 100.48125000000027,
+      "fy": -296.21328124999997,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 432.1189856150793,
+      "fy": -178.51227678571428
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 587.3829579174153,
+      "fy": 10.647071499378967
+    },
+    {
+      "text": "entactogen",
+      "note": "is used to describe a class of psychoactive drugs that produce distinctive emotional and social effects similar to those of MDMA",
+      "url": "https://psychonautwiki.org/wiki/Entactogen",
+      "fx": -739.6439021462375,
+      "fy": 108.50043428270499,
+      "category": "wiki"
+    },
+    {
+      "text": "phenethylamine",
+      "url": "https://psychonautwiki.org/wiki/Phenethylamine",
+      "fx": 377.1951368630912,
+      "fy": 111.53001643972232,
+      "category": "wiki"
+    },
+    {
+      "text": "lysergamide",
+      "note": "refers to a class of compounds derived from alkaloids of a group of fungi known as ergot in the claviceps genus",
+      "url": "https://psychonautwiki.org/w/index.php/Lysergamide",
+      "fx": -365.2358151291039,
+      "fy": 112.16969209558806,
+      "category": "wiki"
+    },
+    {
+      "text": "tryptamine",
+      "note": "is a monoamine alkaloid found in animals, plants and fungi  substituted tryptamine refers to a class of compounds which are typically capable of producing strong psychedelic and entheogenic effects",
+      "url": "https://psychonautwiki.org/w/index.php/Tryptamine",
+      "fx": 11.603355529006194,
+      "fy": 121.29171476680165,
+      "category": "wiki"
+    },
+    {
+      "text": "experiences",
+      "url": "",
+      "fx": 720.022497650375,
+      "fy": 189.76157189851608
+    },
+    {
+      "text": "LSD  ️",
+      "url": "/chemistry/drugs/psychedelic/lsd",
+      "fx": -330.4929311814914,
+      "fy": 237.6608301755366,
+      "category": "mindmap"
+    },
+    {
+      "text": "MDMA  ️",
+      "url": "/chemistry/drugs/psychedelic/mdma",
+      "fx": -707.1569283613684,
+      "fy": 247.9482720352301,
+      "category": "mindmap"
+    },
+    {
+      "text": "psilocin",
+      "url": "https://psychonautwiki.org/wiki/Psilocin",
+      "fx": -65.79722065577175,
+      "fy": 248.6035451892592,
+      "category": "wiki"
+    },
+    {
+      "text": "DMT  ️",
+      "url": "/chemistry/drugs/psychedelic/dmt",
+      "fx": 127.87342975661761,
+      "fy": 256.14065367492685,
+      "category": "mindmap"
+    },
+    {
+      "text": "mescaline",
+      "url": "https://psychonautwiki.org/wiki/Mescaline",
+      "fx": 403.1767961456694,
+      "fy": 273.9118592780284,
+      "category": "wiki"
+    },
+    {
+      "text": "microdosing",
+      "note": "are sub-perceptual doses which are so low that they are unlikely to induce directly noticeable or perceptible effects",
+      "url": "https://psychonautwiki.org/wiki/Dosage#Microdose",
+      "fx": -283.87225202984735,
+      "fy": 364.2417299691888,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "psychoactive substance index",
+      "url": "https://psychonautwiki.org/wiki/Psychoactive_substance_index",
+      "fx": 569.1189856150793,
+      "fy": -247.01227678571428,
+      "category": "wiki",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "psychedelic drug research",
+      "url": "https://www.reddit.com/r/ShrugLifeSyndicate/comments/69p6qo/old_human_trial_of_lsd/",
+      "fx": 569.1189856150793,
+      "fy": -207.01227678571428,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "psychedelic replications",
+      "url": "http://imgur.com/a/ep7CH",
+      "fx": 569.1189856150793,
+      "fy": -167.01227678571428,
+      "category": "image",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "16: psychedelics",
+      "url": "http://pharmrev.aspetjournals.org/content/68/2/264.long",
+      "fx": 569.1189856150793,
+      "fy": -127.01227678571428,
+      "category": "paper",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "big list of hallucinogens",
+      "url": "https://www.reddit.com/r/researchchemicals/comments/616ed2/the_great_big_list_of_every_hallucinogen_that_has/",
+      "fx": 569.1189856150793,
+      "fy": -87.01227678571428,
+      "category": "reddit",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: Roland Griffiths, Ph.D. on psilocybin, psychedelic therapies &amp; mystical experiences",
+      "url": "https://www.youtube.com/watch?v=rkBq33KWFmY",
+      "fx": 778.3829579174153,
+      "fy": -30.852928500621033,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "psychedelic symmetrical texture repetition",
+      "url": "https://www.youtube.com/watch?v=El7kyjyz6qY",
+      "fx": 778.3829579174153,
+      "fy": 53.14707149937897,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "doors of perception",
+      "url": "http://psychedelicfrontier.com/wp-content/uploads/2013/05/The-Doors-Of-Perception-Aldous-Huxley.pdf",
+      "fx": 927.022497650375,
+      "fy": 201.26157189851608,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "experiences"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "psychedelic drugs",
+      "curve": {
+        "x": -129.818,
+        "y": -57.6
+      }
+    },
+    {
+      "source": "tryptamine",
+      "target": "DMT  ️",
+      "curve": {
+        "x": 41.135,
+        "y": 67.4241
+      }
+    },
+    {
+      "source": "tryptamine",
+      "target": "psilocin",
+      "curve": {
+        "x": -45.7003,
+        "y": 63.6559
+      }
+    },
+    {
+      "source": "lysergamide",
+      "target": "LSD  ️",
+      "curve": {
+        "x": -1.37851,
+        "y": 62.7455
+      }
+    },
+    {
+      "source": "phenethylamine",
+      "target": "mescaline",
+      "curve": {
+        "x": 0.240829,
+        "y": 81.1909
+      }
+    },
+    {
+      "source": "psychedelic drugs",
+      "target": "lysergamide",
+      "curve": {
+        "x": -244.359,
+        "y": 204.192
+      }
+    },
+    {
+      "source": "psychedelic drugs",
+      "target": "tryptamine",
+      "curve": {
+        "x": -58.9389,
+        "y": 208.753
+      }
+    },
+    {
+      "source": "psychedelic drugs",
+      "target": "phenethylamine",
+      "curve": {
+        "x": 135.357,
+        "y": 203.872
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -131.642,
+        "y": -94.58
+      }
+    },
+    {
+      "source": "psychedelic drugs",
+      "target": "entactogen",
+      "curve": {
+        "x": -474.925,
+        "y": 174.359
+      }
+    },
+    {
+      "source": "entactogen",
+      "target": "MDMA  ️",
+      "curve": {
+        "x": -0.25651,
+        "y": 69.7239
+      }
+    },
+    {
+      "source": "LSD  ️",
+      "target": "microdosing",
+      "curve": {
+        "x": 46.3103,
+        "y": 63.2904
+      }
+    },
+    {
+      "source": "psilocin",
+      "target": "microdosing",
+      "curve": {
+        "x": -93.2875,
+        "y": 57.8191
+      }
+    },
+    {
+      "source": "experiences",
+      "target": "interesting",
+      "curve": {
+        "x": -70.3198,
+        "y": -89.5573
+      }
+    }
+  ]
+}

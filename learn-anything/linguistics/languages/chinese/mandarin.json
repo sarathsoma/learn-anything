@@ -1,0 +1,58 @@
+{
+  "title": "learn anything - linguistics - languages - chinese - mandarin",
+  "nodes": [
+    {
+      "text": "mandarin chinese",
+      "url": "http://www.wikiwand.com/en/Mandarin_Chinese",
+      "fx": -164.17578125,
+      "fy": -345.98828125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -110.12313247011957,
+      "fy": -200.4135333664952
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/learnmandarin/",
+      "fx": 122.82421875,
+      "fy": -331.98828125,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "mandarin chinese"
+    },
+    {
+      "text": "1. where to start?",
+      "url": "https://www.reddit.com/r/learnmandarin/comments/6cynax/where_to_start/",
+      "fx": 70.87686752988043,
+      "fy": -208.9135333664952,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. chinese pod",
+      "url": "https://chinesepod.com/",
+      "fx": 70.87686752988043,
+      "fy": -168.9135333664952,
+      "category": "podcast",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "mandarin chinese",
+      "target": "basics",
+      "curve": {
+        "x": -5.72368,
+        "y": 71.5374
+      }
+    }
+  ]
+}

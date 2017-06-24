@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - machine learning - supervised learning - support vector machines",
+  "nodes": [
+    {
+      "text": "support vector machines",
+      "url": "http://www.wikiwand.com/en/Support_vector_machine",
+      "fx": 14.405423677884642,
+      "fy": -163.35426682692304,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 108.63844651442298,
+      "fy": 5.80859375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. learning: support vector machines",
+      "url": "https://www.youtube.com/watch?v=_PwhiWxHK8o&amp;t=449s",
+      "fx": 264.638446514423,
+      "fy": -44.69140625,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. quick look at support vector machines  ️",
+      "url": "https://generalabstractnonsense.com/2017/03/A-quick-look-at-Support-Vector-Machines/",
+      "fx": 264.638446514423,
+      "fy": 17.30859375,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. ELI 5: support vector machines",
+      "url": "https://www.reddit.com/r/explainlikeimfive/comments/rkmjp/what_is_support_vector_machine/c46o79n/",
+      "fx": 264.638446514423,
+      "fy": 79.30859375,
+      "category": "reddit",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "support vector machines",
+      "target": "basics",
+      "curve": {
+        "x": -1.88349,
+        "y": 83.3314
+      }
+    }
+  ]
+}

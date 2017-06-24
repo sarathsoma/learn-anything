@@ -1,0 +1,304 @@
+{
+  "title": "learn anything - economics",
+  "nodes": [
+    {
+      "text": "economics",
+      "url": "http://www.wikiwand.com/en/Economics",
+      "fx": -34.93959999084473,
+      "fy": -806.2744445800781,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 96.40475463867188,
+      "fy": -685.9774169921875
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -14.695998191833496,
+      "fy": -497.1587600708008
+    },
+    {
+      "text": "trading  ️",
+      "url": "/economics/trading",
+      "fx": -478.14044443375155,
+      "fy": -250.50950982280722,
+      "category": "mindmap"
+    },
+    {
+      "text": "macroeconomics  ️",
+      "url": "/economics/macroeconomics",
+      "fx": 235.54940795898438,
+      "fy": -249.23212432861328,
+      "category": "mindmap"
+    },
+    {
+      "text": "economic systems  ️",
+      "url": "/economics/economic-systems",
+      "fx": -760.8909874037703,
+      "fy": -248.81665299299254,
+      "category": "mindmap"
+    },
+    {
+      "text": "finance",
+      "url": "http://www.wikiwand.com/en/Finance",
+      "fx": -128.63916015625,
+      "fy": -248.38209533691406,
+      "category": "wiki"
+    },
+    {
+      "text": "microeconomics  ️",
+      "url": "/economics/microeconomics-",
+      "fx": 11.442358016967773,
+      "fy": -247.70105743408203,
+      "category": "mindmap"
+    },
+    {
+      "text": "mathematical finance  ️",
+      "url": "/economics/mathematical-finance",
+      "fx": -1032.3165654388713,
+      "fy": -245.68093652037658,
+      "category": "mindmap"
+    },
+    {
+      "text": "business  ️",
+      "note": "organisational entity involved in providing goods or services to customers",
+      "url": "/economics/business",
+      "fx": -310.8922702302482,
+      "fy": -245.2669325832486,
+      "category": "mindmap"
+    },
+    {
+      "text": "accounting  ️",
+      "url": "/economics/accounting",
+      "fx": -1217.2993936459297,
+      "fy": -244.08035456174537,
+      "category": "mindmap"
+    },
+    {
+      "text": "basic income  ️",
+      "url": "/economics/basic-income",
+      "fx": -1420.5957772974764,
+      "fy": -241.7073175698688,
+      "category": "mindmap"
+    },
+    {
+      "text": "econometrics  ️",
+      "url": "/economics/econometrics",
+      "fx": -1629.102417408251,
+      "fy": -240.55089899410848,
+      "category": "mindmap"
+    },
+    {
+      "text": "behavioural economics  ️",
+      "url": "/economics/behavioural-economics",
+      "fx": -1920.628710045659,
+      "fy": -238.83247716895107,
+      "category": "mindmap"
+    },
+    {
+      "text": "investing  ️",
+      "url": "/economics/investing",
+      "fx": -292.2645066891862,
+      "fy": -107.39317885347373,
+      "category": "mindmap"
+    },
+    {
+      "text": "personal finance  ️",
+      "url": "/economics/personal-finance",
+      "fx": -132.98630712365582,
+      "fy": -105.29763868522912,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Economics/",
+      "fx": 191.06040000915527,
+      "fy": -792.2744445800781,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "economics"
+    },
+    {
+      "text": "wiki",
+      "url": "https://www.reddit.com/r/Economics/wiki/index",
+      "fx": 301.0604000091553,
+      "fy": -792.2744445800781,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "recommended reading",
+      "url": "https://www.reddit.com/r/Economics/wiki/reading",
+      "fx": 233.40475463867188,
+      "fy": -694.4774169921875,
+      "category": "reddit",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome economics",
+      "url": "https://github.com/antontarasenko/awesome-economics",
+      "fx": 233.40475463867188,
+      "fy": -654.4774169921875,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. principles of economics",
+      "url": "http://www.goodreads.com/book/show/1753460.Principles_of_Economics",
+      "fx": 167.3040018081665,
+      "fy": -547.6587600708008,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. khan academy economics and finance",
+      "url": "https://www.khanacademy.org/economics-finance-domain",
+      "fx": 167.3040018081665,
+      "fy": -507.6587600708008,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. how the economic machine works",
+      "url": "https://www.youtube.com/watch?v=PHe0bXAIuk0&amp;app=desktop",
+      "fx": 167.3040018081665,
+      "fy": -445.6587600708008,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "economics",
+      "target": "basics",
+      "curve": {
+        "x": 5.12183,
+        "y": 154.557
+      }
+    },
+    {
+      "source": "basics",
+      "target": "business  ️",
+      "curve": {
+        "x": -149.099,
+        "y": 125.946
+      }
+    },
+    {
+      "source": "help",
+      "target": "economics",
+      "curve": {
+        "x": -43.4222,
+        "y": -58.8985
+      }
+    },
+    {
+      "source": "basics",
+      "target": "finance",
+      "curve": {
+        "x": -61.7215,
+        "y": 124.388
+      }
+    },
+    {
+      "source": "basics",
+      "target": "microeconomics  ️",
+      "curve": {
+        "x": 36.5692,
+        "y": 125.979
+      }
+    },
+    {
+      "source": "basics",
+      "target": "macroeconomics  ️",
+      "curve": {
+        "x": 150.372,
+        "y": 130.782
+      }
+    },
+    {
+      "source": "finance",
+      "target": "investing  ️",
+      "curve": {
+        "x": -78.3127,
+        "y": 70.4945
+      }
+    },
+    {
+      "source": "finance",
+      "target": "personal finance  ️",
+      "curve": {
+        "x": 18.5764,
+        "y": 71.5422
+      }
+    },
+    {
+      "source": "basics",
+      "target": "trading  ️",
+      "curve": {
+        "x": -229.723,
+        "y": 124.575
+      }
+    },
+    {
+      "source": "basics",
+      "target": "economic systems  ️",
+      "curve": {
+        "x": -411.894,
+        "y": 106.577
+      }
+    },
+    {
+      "source": "basics",
+      "target": "mathematical finance  ️",
+      "curve": {
+        "x": -557.302,
+        "y": 98.7791
+      }
+    },
+    {
+      "source": "basics",
+      "target": "accounting  ️",
+      "curve": {
+        "x": -805.079,
+        "y": 101.251
+      }
+    },
+    {
+      "source": "basics",
+      "target": "basic income  ️",
+      "curve": {
+        "x": -952.982,
+        "y": 94.8811
+      }
+    },
+    {
+      "source": "basics",
+      "target": "econometrics  ️",
+      "curve": {
+        "x": -989.476,
+        "y": 58.3943
+      }
+    },
+    {
+      "source": "basics",
+      "target": "behavioural economics  ️",
+      "curve": {
+        "x": -1225.75,
+        "y": 69.7484
+      }
+    }
+  ]
+}

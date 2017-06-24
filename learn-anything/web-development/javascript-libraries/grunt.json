@@ -1,0 +1,61 @@
+{
+  "title": "learn anything - web development - javascript libraries - grunt",
+  "nodes": [
+    {
+      "text": "grunt",
+      "url": "https://github.com/gruntjs/grunt",
+      "fx": 5.76171875,
+      "fy": -205.140625,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 111.50000190734863,
+      "fy": -73.86237812042236
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 25.49997043609619,
+      "fy": 36.12758255004883
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome grunt",
+      "url": "https://github.com/brunowego/awesome-grunt",
+      "fx": 248.50000190734863,
+      "fy": -62.36237812042236,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. getting started",
+      "url": "https://gruntjs.com/getting-started",
+      "fx": 181.4999704360962,
+      "fy": 50.62758255004883,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "grunt",
+      "curve": {
+        "x": -43.6191,
+        "y": -64.3891
+      }
+    },
+    {
+      "source": "grunt",
+      "target": "basics",
+      "curve": {
+        "x": 5.36913,
+        "y": 119.384
+      }
+    }
+  ]
+}

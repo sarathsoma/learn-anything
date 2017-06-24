@@ -1,0 +1,76 @@
+{
+  "title": "learn anything - philosophy - ethics - veganism",
+  "nodes": [
+    {
+      "text": "veganism",
+      "url": "http://www.wikiwand.com/en/Veganism",
+      "fx": -82.7890625,
+      "fy": -288.30859375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -70.20766020824408,
+      "fy": -103.56966844679476
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/vegan/",
+      "fx": 130.2109375,
+      "fy": -274.30859375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "veganism"
+    },
+    {
+      "text": "1. earthlings",
+      "url": "https://letterboxd.com/film/earthlings/",
+      "fx": 111.79233979175592,
+      "fy": -174.06966844679476,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. Food, Inc",
+      "url": "https://letterboxd.com/film/food-inc/",
+      "fx": 111.79233979175592,
+      "fy": -134.06966844679476,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. go vegan for life: yours, theirs, and ours",
+      "url": "https://sunaku.github.io/vegan-for-life.html#whats-this-about",
+      "fx": 111.79233979175592,
+      "fy": -94.06966844679476,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. advice for new vegans (B12, protein and more)",
+      "url": "https://www.youtube.com/watch?v=OGoZ-oJjy7U",
+      "fx": 111.79233979175592,
+      "fy": -32.069668446794765,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "veganism",
+      "target": "basics",
+      "curve": {
+        "x": -7.9593,
+        "y": 91.1195
+      }
+    }
+  ]
+}

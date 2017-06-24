@@ -1,0 +1,60 @@
+{
+  "title": "learn anything - programming - software development - devops - jenkins",
+  "nodes": [
+    {
+      "text": "jenkins",
+      "url": "https://jenkins.io/",
+      "fx": 175.62109375,
+      "fy": -236.1953125
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 284.5882545837178,
+      "fy": -129.72300219095337
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 178.69666708669354,
+      "fy": -50.67408014112897
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome jenkins",
+      "url": "https://github.com/sahilsk/awesome-jenkins",
+      "fx": 421.5882545837178,
+      "fy": -118.22300219095337,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. guided tour",
+      "url": "https://jenkins.io/doc/",
+      "fx": 334.69666708669354,
+      "fy": -36.17408014112897,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "jenkins",
+      "curve": {
+        "x": -48.7336,
+        "y": -53.2362
+      }
+    },
+    {
+      "source": "jenkins",
+      "target": "basics",
+      "curve": {
+        "x": 0.537787,
+        "y": 92.7606
+      }
+    }
+  ]
+}

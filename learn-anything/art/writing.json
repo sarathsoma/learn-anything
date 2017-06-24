@@ -1,0 +1,121 @@
+{
+  "title": "learn anything - art - writing",
+  "nodes": [
+    {
+      "text": "writing",
+      "url": "http://www.wikiwand.com/en/Writing",
+      "fx": -72.04973180970137,
+      "fy": -414.21289849117505
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 20.756481388908128,
+      "fy": -306.64337046229423
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 56.81357138904161,
+      "fy": -200.53129492233046
+    },
+    {
+      "text": "basics",
+      "note": "- if you think this can be improved in any way",
+      "url": "",
+      "fx": -89.46602922885631,
+      "fy": -78.9294931591624
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/writing/",
+      "fx": 85.95026819029863,
+      "fy": -422.71289849117505,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "writing"
+    },
+    {
+      "text": "️",
+      "url": "https://writers.stackexchange.com/",
+      "fx": 85.95026819029863,
+      "fy": -382.71289849117505,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "writing"
+    },
+    {
+      "text": "notes on writing well",
+      "url": "https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md",
+      "fx": 157.75648138890813,
+      "fy": -295.14337046229423,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "05: writing briefly  ️",
+      "url": "http://paulgraham.com/writing44.html",
+      "fx": 218.8135713890416,
+      "fy": -209.03129492233046,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: writing in 21st century  ️",
+      "url": "https://www.edge.org/conversation/writing-in-the-21st-century",
+      "fx": 218.8135713890416,
+      "fy": -169.03129492233046,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. write like you talk  ️",
+      "url": "http://paulgraham.com/talk.html",
+      "fx": 92.53397077114369,
+      "fy": -98.4294931591624,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. on writing: a memoir of the craft",
+      "url": "https://www.goodreads.com/book/show/10569.On_Writing",
+      "fx": 92.53397077114369,
+      "fy": -58.429493159162405,
+      "category": "non-free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "writing",
+      "target": "basics",
+      "curve": {
+        "x": -2.70814,
+        "y": 167.642
+      }
+    },
+    {
+      "source": "help",
+      "target": "writing",
+      "curve": {
+        "x": -41.1531,
+        "y": -53.7847
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -24.2786,
+        "y": -53.0561
+      }
+    }
+  ]
+}

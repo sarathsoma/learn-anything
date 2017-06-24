@@ -1,0 +1,55 @@
+{
+  "title": "learn anything - programming - programming paradigms - stream processing",
+  "nodes": [
+    {
+      "text": "stream processing",
+      "url": "http://www.wikiwand.com/en/Stream_processing",
+      "fx": -115.5,
+      "fy": -265.71484375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "if you think this can be improved in any way ",
+      "url": "",
+      "fx": -64.01171875,
+      "fy": -154.35546875
+    },
+    {
+      "text": "apache kafka  ️",
+      "url": "/programming/programming-paradigms/stream-processing/apache-kafka",
+      "fx": -169.2049239309206,
+      "fy": 3.819130345389226,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is stream processing?",
+      "url": "https://www.youtube.com/watch?v=8vD36mTvAio",
+      "fx": 117.98828125,
+      "fy": -142.85546875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "stream processing",
+      "target": "basics",
+      "curve": {
+        "x": -8.75586,
+        "y": 54.4297
+      }
+    },
+    {
+      "source": "basics",
+      "target": "apache kafka  ️",
+      "curve": {
+        "x": -43.0966,
+        "y": 79.0873
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "learn anything - biology - bioinformatics",
+  "nodes": [
+    {
+      "text": "bioinformatics",
+      "url": "http://www.wikiwand.com/en/Bioinformatics",
+      "fx": -96.54296875,
+      "fy": -261.8359375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 32.00869278169273,
+      "fy": -163.5943551936836
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -68.8293353873238,
+      "fy": -68.18783010563362
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/bioinformatics/",
+      "fx": 156.45703125,
+      "fy": -247.8359375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "bioinformatics"
+    },
+    {
+      "text": "awesome bioinformatics",
+      "url": "https://github.com/danielecook/Awesome-Bioinformatics",
+      "fx": 169.00869278169273,
+      "fy": -152.0943551936836,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. rosalind",
+      "url": "http://rosalind.info/about/",
+      "fx": 113.1706646126762,
+      "fy": -53.68783010563362,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "bioinformatics",
+      "target": "basics",
+      "curve": {
+        "x": -3.89318,
+        "y": 95.5741
+      }
+    },
+    {
+      "source": "help",
+      "target": "bioinformatics",
+      "curve": {
+        "x": -35.2758,
+        "y": -47.8708
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": "learn anything - programming - programming languages - lisp",
+  "nodes": [
+    {
+      "text": "lisp",
+      "url": "http://www.wikiwand.com/en/Lisp_(programming_language)",
+      "fx": -72.83335542678833,
+      "fy": -213.8428726196289,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 25.845347800401555,
+      "fy": -99.39249317798448
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 90.18248174302187,
+      "fy": 25.86607265329252
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -106.76870766227978,
+      "fy": 147.83569356411
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "fear of macros  ️",
+      "url": "http://www.greghendershott.com/fear-of-macros/index.html",
+      "fx": 162.84534780040156,
+      "fy": -107.89249317798448,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome cl",
+      "url": "https://github.com/CodyReichert/awesome-cl",
+      "fx": 162.84534780040156,
+      "fy": -67.89249317798448,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "14: why racket, why lisp?  ️",
+      "url": "http://beautifulracket.com/appendix/why-racket-why-lisp.html",
+      "fx": 252.18248174302187,
+      "fy": 37.36607265329252,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. build your own lisp",
+      "url": "http://www.buildyourownlisp.com/chapter1_introduction",
+      "fx": 75.23129233772022,
+      "fy": 119.33569356410999,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. lisp quickstart",
+      "url": "http://cs.gmu.edu/~sean/lisp/LispTutorial.html",
+      "fx": 75.23129233772022,
+      "fy": 159.33569356411,
+      "category": "free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. on lisp",
+      "url": "http://ep.yimg.com/ty/cdn/paulgraham/onlisp.pdf",
+      "fx": 75.23129233772022,
+      "fy": 199.33569356411,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "lisp",
+      "curve": {
+        "x": -44.3394,
+        "y": -55.9751
+      }
+    },
+    {
+      "source": "lisp",
+      "target": "basics",
+      "curve": {
+        "x": -17.2177,
+        "y": 179.59
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -38.4186,
+        "y": -62.6293
+      }
+    }
+  ]
+}

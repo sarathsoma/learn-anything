@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - programming - programming languages - lua",
+  "nodes": [
+    {
+      "text": "lua",
+      "url": "http://www.wikiwand.com/en/Lua_(programming_language)",
+      "fx": -85.3125,
+      "fy": -302.37890625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -0.37890625,
+      "fy": -193.21484375
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -98.46484375,
+      "fy": -112.0390625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome lua",
+      "url": "https://github.com/LewisJEllis/awesome-lua",
+      "fx": 136.62109375,
+      "fy": -181.71484375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. learn lua in 15 minutes",
+      "url": "http://tylerneylon.com/a/learn-lua/",
+      "fx": 83.53515625,
+      "fy": -97.5390625,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "lua",
+      "curve": {
+        "x": -38.4668,
+        "y": -53.332
+      }
+    },
+    {
+      "source": "lua",
+      "target": "basics",
+      "curve": {
+        "x": -5.82617,
+        "y": 93.9199
+      }
+    }
+  ]
+}

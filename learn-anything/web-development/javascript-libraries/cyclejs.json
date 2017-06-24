@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - web development - javascript libraries - cyclejs",
+  "nodes": [
+    {
+      "text": "cycle.js",
+      "url": "https://github.com/cyclejs/cyclejs",
+      "fx": -31.82030963897705,
+      "fy": -163.87928676605225,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 78.54760176610773,
+      "fy": -72.84440592357089
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -23.684802918820765,
+      "fy": 20.91684882337057
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome cyclejs",
+      "url": "https://github.com/cyclejs-community/awesome-cyclejs",
+      "fx": 215.54760176610773,
+      "fy": -61.34440592357089,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. getting started",
+      "url": "https://cycle.js.org/getting-started.html",
+      "fx": 158.31519708117924,
+      "fy": 35.41684882337057,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "cycle.js",
+      "target": "basics",
+      "curve": {
+        "x": -5.18225,
+        "y": 91.1481
+      }
+    },
+    {
+      "source": "help",
+      "target": "cycle.js",
+      "curve": {
+        "x": -41.184,
+        "y": -44.2674
+      }
+    }
+  ]
+}

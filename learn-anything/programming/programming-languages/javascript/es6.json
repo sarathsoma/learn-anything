@@ -1,0 +1,90 @@
+{
+  "title": "learn anything - programming - programming languages - javascript - es6",
+  "nodes": [
+    {
+      "text": "ES6",
+      "url": "https://github.com/lukehoban/es6features",
+      "fx": 242.1519145361948,
+      "fy": -483.5344734361136,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 355.13437029780175,
+      "fy": -379.7870408142505
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 239.89061533704398,
+      "fy": -232.24235923707124
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "es6 quick notes",
+      "url": "https://github.com/voxsim/knowledge/tree/master/programming-languages/javascript",
+      "fx": 492.13437029780175,
+      "fy": -388.2870408142505,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "es6 tools",
+      "url": "https://github.com/addyosmani/es6-tools",
+      "fx": 492.02835986079003,
+      "fy": -348.33956919559813,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. practical ES6",
+      "url": "https://ponyfoo.com/books/practical-es6/chapters",
+      "fx": 421.890615337044,
+      "fy": -260.74235923707124,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. javascript style guide",
+      "url": "https://github.com/airbnb/javascript",
+      "fx": 421.890615337044,
+      "fy": -220.74235923707124,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. ES6 for humans",
+      "url": "https://github.com/metagrover/ES6-for-humans",
+      "fx": 421.890615337044,
+      "fy": -180.74235923707124,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "ES6",
+      "curve": {
+        "x": -49.4912,
+        "y": -50.6237
+      }
+    },
+    {
+      "source": "ES6",
+      "target": "basics",
+      "curve": {
+        "x": -3.38065,
+        "y": 124.396
+      }
+    }
+  ]
+}

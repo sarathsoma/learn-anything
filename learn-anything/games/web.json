@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - games - web",
+  "nodes": [
+    {
+      "text": "web games",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Online_game",
+      "fx": -306.2734375,
+      "fy": -273.44140625,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "the founder",
+      "url": "http://thefounder.biz/",
+      "fx": -47.2734375,
+      "fy": -307.44140625,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "web games"
+    },
+    {
+      "text": "particle clicker",
+      "note": "incremental game that teaches players the history of high energy particle physics",
+      "url": "http://particle-clicker.web.cern.ch/particle-clicker/",
+      "fx": -47.2734375,
+      "fy": -273.44140625,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "web games"
+    },
+    {
+      "text": "chain reaction",
+      "url": "http://yvoschaap.com/chainrxnadvanced/",
+      "fx": -47.2734375,
+      "fy": -239.44140625,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "web games"
+    },
+    {
+      "text": "ztype",
+      "url": "http://zty.pe/",
+      "fx": -47.2734375,
+      "fy": -205.44140625,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "web games"
+    }
+  ],
+  "connections": []
+}

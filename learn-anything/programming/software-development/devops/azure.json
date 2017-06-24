@@ -1,0 +1,56 @@
+{
+  "title": "learn anything - programming - software development - devops - azure",
+  "nodes": [
+    {
+      "text": "microsoft azure",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Microsoft_Azure",
+      "fx": -263.35546875,
+      "fy": -168.51953125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -140.87851991758237,
+      "fy": -8.978064903846132
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "azure info hub",
+      "url": "https://azureinfohub.azurewebsites.net/",
+      "fx": -3.8785199175823664,
+      "fy": -31.478064903846132,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome azure",
+      "url": "https://github.com/kristofferandreasen/awesome-azure",
+      "fx": -3.8785199175823664,
+      "fy": 2.521935096153868,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "learning paths",
+      "url": "https://azure.microsoft.com/en-in/documentation/learning-paths/",
+      "fx": -3.8785199175823664,
+      "fy": 42.52193509615387,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "microsoft azure",
+      "curve": {
+        "x": -28.9885,
+        "y": -78.5208
+      }
+    }
+  ]
+}

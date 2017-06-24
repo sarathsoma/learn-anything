@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - biology - organisms - cells",
+  "nodes": [
+    {
+      "text": "cells",
+      "url": "http://www.wikiwand.com/en/Cell_(biology)",
+      "fx": 44.96850299835205,
+      "fy": -96.37813675403595,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 45.585941314697266,
+      "fy": 14.82853889465332
+    },
+    {
+      "text": "stem cells  ️",
+      "url": "/biology/organisms/cells/stem-cells",
+      "fx": -73.96875,
+      "fy": 135.39453125,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. cell structure",
+      "url": "https://www.youtube.com/watch?v=URUJD5NEXC8",
+      "fx": 201.58594131469727,
+      "fy": 26.32853889465332,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "cells",
+      "target": "basics",
+      "curve": {
+        "x": -2.44128,
+        "y": 54.3534
+      }
+    },
+    {
+      "source": "basics",
+      "target": "stem cells  ️",
+      "curve": {
+        "x": -51.5273,
+        "y": 60.283
+      }
+    }
+  ]
+}

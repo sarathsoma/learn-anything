@@ -1,0 +1,321 @@
+{
+  "title": "learn anything - operating systems - unix - linux - distributions",
+  "nodes": [
+    {
+      "text": "distributions",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Linux_distribution",
+      "fx": 751.762958260309,
+      "fy": -597.0070352932431,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 1150.46155789138,
+      "fy": -521.8164084656835
+    },
+    {
+      "text": "debian  ️",
+      "url": "/operating-systems/unix/linux/distributions/debian",
+      "fx": -80.93588917525801,
+      "fy": -237.55734536089432,
+      "category": "mindmap"
+    },
+    {
+      "text": "nixOS  ️",
+      "url": "/operating-systems/unix/linux/distributions/nixos",
+      "fx": 1702.6189880371094,
+      "fy": -231.74641036987305,
+      "category": "mindmap"
+    },
+    {
+      "text": "arch  ️",
+      "url": "/operating-systems/unix/linux/distributions/arch",
+      "fx": 88.39133828182196,
+      "fy": -231.6609813122575,
+      "category": "mindmap"
+    },
+    {
+      "text": "gentoo",
+      "url": "http://www.wikiwand.com/en/Gentoo_Linux",
+      "fx": 247.37412537179512,
+      "fy": -230.71368734114571,
+      "category": "wiki"
+    },
+    {
+      "text": "openSUSE",
+      "url": "https://www.opensuse.org/",
+      "fx": 1556.4794311523438,
+      "fy": -227.8498306274414
+    },
+    {
+      "text": "fedora",
+      "url": "https://getfedora.org/",
+      "fx": 565.640713809744,
+      "fy": -227.5840598360527
+    },
+    {
+      "text": "stali",
+      "url": "http://sta.li/",
+      "fx": 1128.6228332519531,
+      "fy": -227.22063446044922
+    },
+    {
+      "text": "solus",
+      "url": "https://solus-project.com/",
+      "fx": 1330.7311125724545,
+      "fy": -226.79079683365342
+    },
+    {
+      "text": "coreOS  ️",
+      "url": "/operating-systems/unix/linux/distributions/coreos",
+      "fx": 984.4948927356354,
+      "fy": -228.8636787168441,
+      "category": "mindmap"
+    },
+    {
+      "text": "gobolinux",
+      "url": "https://www.gobolinux.org/",
+      "fx": 418.4802673966426,
+      "fy": -226.1021736183817
+    },
+    {
+      "text": "elementary OS",
+      "url": "https://elementary.io/",
+      "fx": 804.3594970703125,
+      "fy": -225.98509216308594
+    },
+    {
+      "text": "mint",
+      "url": "http://www.wikiwand.com/en/Linux_Mint",
+      "fx": 681.1761592741932,
+      "fy": -228.332409274194,
+      "category": "wiki"
+    },
+    {
+      "text": "chakra",
+      "url": "https://chakralinux.org/",
+      "fx": 1436.8193182176149,
+      "fy": -224.62096257363578
+    },
+    {
+      "text": "guixSD",
+      "url": "https://www.gnu.org/software/guix/",
+      "fx": 1208.9351649130547,
+      "fy": -224.47380878079298
+    },
+    {
+      "text": "exherbo",
+      "url": "https://exherbo.org/",
+      "fx": 381.9307340160308,
+      "fy": -144.48885629905908
+    },
+    {
+      "text": "ubuntu  ️",
+      "fx": -183.253970940199,
+      "fy": -130.11458534608346,
+      "category": "mindmap"
+    },
+    {
+      "text": "manjaro",
+      "url": "http://www.wikiwand.com/en/Manjaro_Linux",
+      "fx": -15.987710952758789,
+      "fy": -120.58028602600098,
+      "category": "wiki"
+    },
+    {
+      "text": "antergos",
+      "url": "http://www.wikiwand.com/en/Antergos",
+      "fx": 132.15832413074588,
+      "fy": -119.87283378423672,
+      "category": "wiki"
+    },
+    {
+      "text": "funtoo",
+      "url": "http://www.wikiwand.com/en/Gentoo_Linux",
+      "fx": 300.8701993272132,
+      "fy": -58.81740109043875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "distro watch",
+      "url": "https://distrowatch.com/",
+      "fx": 1287.46155789138,
+      "fy": -507.3164084656835,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "install funtoo",
+      "url": "http://www.funtoo.org/Install",
+      "fx": 456.8701993272132,
+      "fy": -44.31740109043875,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "funtoo"
+    }
+  ],
+  "connections": [
+    {
+      "source": "arch  ️",
+      "target": "manjaro",
+      "curve": {
+        "x": -43.9395,
+        "y": 55.5403
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "fedora",
+      "curve": {
+        "x": -113.311,
+        "y": 183.461
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "mint",
+      "curve": {
+        "x": -53.0433,
+        "y": 184.337
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "elementary OS",
+      "curve": {
+        "x": 25.0483,
+        "y": 184.261
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "solus",
+      "curve": {
+        "x": 266.734,
+        "y": 183.858
+      }
+    },
+    {
+      "source": "debian  ️",
+      "target": "ubuntu  ️",
+      "curve": {
+        "x": -50.6591,
+        "y": 53.7214
+      }
+    },
+    {
+      "source": "arch  ️",
+      "target": "antergos",
+      "curve": {
+        "x": 31.8835,
+        "y": 55.8941
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "nixOS  ️",
+      "curve": {
+        "x": 621.069,
+        "y": 222.048
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "chakra",
+      "curve": {
+        "x": 323.278,
+        "y": 184.943
+      }
+    },
+    {
+      "source": "gentoo",
+      "target": "exherbo",
+      "curve": {
+        "x": 62.5283,
+        "y": 41.8624
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "arch  ️",
+      "curve": {
+        "x": -356.436,
+        "y": 181.423
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "gobolinux",
+      "curve": {
+        "x": -179.391,
+        "y": 184.202
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "openSUSE",
+      "curve": {
+        "x": 392.608,
+        "y": 183.328
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "guixSD",
+      "curve": {
+        "x": 210.086,
+        "y": 185.017
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "debian  ️",
+      "curve": {
+        "x": -435.599,
+        "y": 178.475
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "gentoo",
+      "curve": {
+        "x": -263.694,
+        "y": 183.147
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "stali",
+      "curve": {
+        "x": 162.43,
+        "y": 183.643
+      }
+    },
+    {
+      "source": "gentoo",
+      "target": "funtoo",
+      "curve": {
+        "x": 17.9981,
+        "y": 84.6982
+      }
+    },
+    {
+      "source": "distributions",
+      "target": "coreOS  ️",
+      "curve": {
+        "x": 98.866,
+        "y": 182.822
+      }
+    },
+    {
+      "source": "help",
+      "target": "distributions",
+      "curve": {
+        "x": -167.849,
+        "y": -36.3453
+      }
+    }
+  ]
+}

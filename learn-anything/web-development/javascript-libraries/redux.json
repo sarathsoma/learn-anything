@@ -1,0 +1,108 @@
+{
+  "title": "learn anything - web development - javascript libraries - redux",
+  "nodes": [
+    {
+      "text": "redux",
+      "url": "https://github.com/reactjs/redux",
+      "fx": -31.988788555194787,
+      "fy": -228.774384469697,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 66.03482941736308,
+      "fy": -116.62131128578051
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -102.73072536732593,
+      "fy": 89.18053530931525
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "slim redux",
+      "note": "redux without the sanity checks in a single file",
+      "url": "https://gist.github.com/gaearon/ffd88b0e4f00b22c3159",
+      "fx": 203.03482941736308,
+      "fy": -125.12131128578051,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome redux",
+      "url": "https://github.com/brillout/awesome-redux",
+      "fx": 203.03482941736308,
+      "fy": -85.12131128578051,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. getting started with redux",
+      "url": "https://egghead.io/courses/getting-started-with-redux",
+      "fx": 79.26927463267407,
+      "fy": 12.680535309315246,
+      "category": "",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. redux readme",
+      "url": "http://redux.js.org/",
+      "fx": 79.26927463267407,
+      "fy": 52.680535309315246,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. redux tutorial",
+      "url": "https://www.youtube.com/watch?v=1w-oQ-i1XB8",
+      "fx": 79.26927463267407,
+      "fy": 86.68053530931525,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. full-stack redux tutorial",
+      "url": "http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html",
+      "fx": 79.26927463267407,
+      "fy": 126.68053530931525,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. building react applications with idiomatic redux",
+      "url": "https://egghead.io/courses/building-react-applications-with-idiomatic-redux",
+      "fx": 79.26927463267407,
+      "fy": 166.68053530931525,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "redux",
+      "target": "basics",
+      "curve": {
+        "x": -40.8709,
+        "y": 157.728
+      }
+    },
+    {
+      "source": "help",
+      "target": "redux",
+      "curve": {
+        "x": -38.7619,
+        "y": -54.8265
+      }
+    }
+  ]
+}

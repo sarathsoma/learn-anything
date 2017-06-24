@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - art - creative coding",
+  "nodes": [
+    {
+      "text": "creative coding",
+      "url": "http://www.wikiwand.com/en/Creative_coding",
+      "fx": 35.671875,
+      "fy": -427.6640625,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 153.96875,
+      "fy": -314.7421875
+    },
+    {
+      "text": "projects",
+      "url": "",
+      "fx": 211.56017821285093,
+      "fy": -197.5685240964208
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome creative coding",
+      "url": "https://github.com/terkelg/awesome-creative-coding",
+      "fx": 290.96875,
+      "fy": -303.2421875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "primitive",
+      "url": "https://github.com/fogleman/primitive",
+      "fx": 381.56017821285093,
+      "fy": -186.0685240964208,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "projects"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "creative coding",
+      "curve": {
+        "x": -27.3984,
+        "y": -55.2109
+      }
+    },
+    {
+      "source": "projects",
+      "target": "help",
+      "curve": {
+        "x": -37.0457,
+        "y": -58.5868
+      }
+    }
+  ]
+}

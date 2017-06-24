@@ -1,0 +1,344 @@
+{
+  "title": "learn anything - computer science",
+  "nodes": [
+    {
+      "text": "computer science",
+      "url": "http://www.wikiwand.com/en/Computer_science",
+      "fx": 598.8837324573149,
+      "fy": -1071.8018533029863,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 775.7559051513672,
+      "fy": -883.288330078125
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 838.3578469047186,
+      "fy": -693.075908156851
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 693.1934268793616,
+      "fy": -475.0472540266063
+    },
+    {
+      "text": "algorithms  ️",
+      "note": "is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  they are essential to the way computers process data  they can be expressed in many kinds of notation, including  - natural languages - pseudocode - flowcharts - drakon-charts - programming languages - control tables  most algorithms are intended to be implemented as computer programs  however some are implemented as a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device",
+      "url": "/computer-science/algorithms",
+      "fx": 140.81180426139383,
+      "fy": -238.313236705044,
+      "category": "mindmap"
+    },
+    {
+      "text": "compilers  ️",
+      "note": "are computer programs (or a set of programs) that transform source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code",
+      "url": "/computer-science/compilers",
+      "fx": 351.78001418057045,
+      "fy": -238.01228051436567,
+      "category": "mindmap"
+    },
+    {
+      "text": "data structures  ️",
+      "note": "is a particular way of organising data in a computer so that it can be used efficiently  can implement one or more particular abstract data types (ADT), which specify the operations that can be performed on a data structure and the computational complexity of those operations  a data structure is a concrete implementation of the specification provided by an ADT  are generally based on the ability of a computer to fetch and store data at any place ints its memory, specified by a pointer (a bit string, representing a memory address), that can be itself stored in memory and manipulated by the program  implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure",
+      "url": "/computer-science/data-structures",
+      "fx": -105.10284015379466,
+      "fy": -235.44336700439453,
+      "category": "mindmap"
+    },
+    {
+      "text": "virtual machines  ️",
+      "url": "/computer-science/virtual-machines",
+      "fx": -350.49400795305667,
+      "fy": -234.8864814073529,
+      "category": "mindmap"
+    },
+    {
+      "text": "programming language theory  ️",
+      "url": "/computer-science/programming-language-theory",
+      "fx": 802.8155822753906,
+      "fy": -246.94061660766602,
+      "category": "mindmap"
+    },
+    {
+      "text": "computation  ️",
+      "note": "computation is any type of calculation that follows a well-defined model understood and expressed as, for example, an algorithm",
+      "url": "/computer-science/computation",
+      "fx": 568.0502079441524,
+      "fy": -234.0604268416771,
+      "category": "mindmap"
+    },
+    {
+      "text": "concurrency  ️",
+      "note": "is the decomposability property of a program, algorithm or problem into order-independent or partially-ordered components or units  this means that even if the concurrent units of the program, algorithm, or problem are executed out-of-order or in partial order, the final outcome will remain the same  this allows for parallel execution of the concurrent units  design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation and execution scheduling to minimise response time and maxima throughput",
+      "url": "/computer-science/concurrency",
+      "fx": -565.6000219580799,
+      "fy": -233.11078847544468,
+      "category": "mindmap"
+    },
+    {
+      "text": "recursion  ️",
+      "url": "/computer-science/recursion",
+      "fx": -740.930084745763,
+      "fy": -232.43365995762701,
+      "category": "mindmap"
+    },
+    {
+      "text": "regular expressions  ️",
+      "note": "are sequences of characters that define a search pattern  usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis",
+      "url": "/computer-science/regular-expressions",
+      "fx": 826.8982637871441,
+      "fy": -115.9460398353649,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/compsci/",
+      "fx": 887.8837324573149,
+      "fy": -1077.8018533029863,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "computer science"
+    },
+    {
+      "text": "️",
+      "url": "https://cs.stackexchange.com/",
+      "fx": 887.8837324573149,
+      "fy": -1037.8018533029863,
+      "category": "stack exchange",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "computer science"
+    },
+    {
+      "text": "cs student resources",
+      "url": "http://www.computersciencestudent.com/",
+      "fx": 912.7559051513672,
+      "fy": -964.788330078125,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "cs concept map",
+      "url": "https://fkcd.ca/b7d.svg",
+      "fx": 912.7559051513672,
+      "fy": -930.788330078125,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "path to a free self-taught education in cs",
+      "url": "https://github.com/open-source-society/computer-science",
+      "fx": 912.7559051513672,
+      "fy": -896.788330078125,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "notes to cs freshmen from the future",
+      "url": "https://github.com/nushackers/notes-to-cs-freshmen-from-the-future",
+      "fx": 912.7559051513672,
+      "fy": -834.788330078125,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "papers we love",
+      "url": "https://github.com/papers-we-love/papers-we-love",
+      "fx": 912.7559051513672,
+      "fy": -778.788330078125,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "what every cs major should know  ️",
+      "url": "http://matt.might.net/articles/what-cs-majors-should-know/",
+      "fx": 1000.3578469047186,
+      "fy": -723.575908156851,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: teach yourself computer science  ️",
+      "url": "https://teachyourselfcs.com/",
+      "fx": 1000.3578469047186,
+      "fy": -661.575908156851,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. code: hidden language",
+      "note": "goes over what a computer actually is and what it is made of, starting from the beginning",
+      "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
+      "fx": 875.1934268793616,
+      "fy": -593.5472540266063,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. CS50 from Harvard",
+      "note": "first 6 lectures are done in C, the rest are in python",
+      "url": "https://cs50.harvard.edu/weeks",
+      "fx": 875.1934268793616,
+      "fy": -553.5472540266063,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. structure and interpretation of computer programs",
+      "url": "http://sarabander.github.io/sicp/html/index.xhtml",
+      "fx": 875.1934268793616,
+      "fy": -513.5472540266063,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "SICP guide",
+      "url": "https://github.com/zv/SICP-guile",
+      "fx": 1212.1934268793616,
+      "fy": -502.5472540266063,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "2. structure and interpretation of computer programs"
+    },
+    {
+      "text": "2. crash course computer science",
+      "url": "https://www.youtube.com/watch?v=tpIctyqH29Q&amp;list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
+      "fx": 875.1934268793616,
+      "fy": -451.5472540266063,
+      "category": "video",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. build a computer from first principles",
+      "note": "will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer",
+      "url": "https://www.coursera.org/learn/build-a-computer",
+      "fx": 875.1934268793616,
+      "fy": -411.5472540266063,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. mathematics for computer science",
+      "note": "goes over the mathematical foundation that you need to do research in this field",
+      "url": "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
+      "fx": 875.1934268793616,
+      "fy": -349.5472540266063,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "computer science",
+      "target": "basics",
+      "curve": {
+        "x": 13.9048,
+        "y": 297.128
+      }
+    },
+    {
+      "source": "help",
+      "target": "computer science",
+      "curve": {
+        "x": -50.4361,
+        "y": -93.0068
+      }
+    },
+    {
+      "source": "basics",
+      "target": "algorithms  ️",
+      "curve": {
+        "x": -259.941,
+        "y": 119.617
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -37.551,
+        "y": -95.1062
+      }
+    },
+    {
+      "source": "basics",
+      "target": "programming language theory  ️",
+      "curve": {
+        "x": 70.221,
+        "y": 138.715
+      }
+    },
+    {
+      "source": "basics",
+      "target": "data structures  ️",
+      "curve": {
+        "x": -430.484,
+        "y": 112.821
+      }
+    },
+    {
+      "source": "programming language theory  ️",
+      "target": "regular expressions  ️",
+      "curve": {
+        "x": -6.45868,
+        "y": 59.2473
+      }
+    },
+    {
+      "source": "basics",
+      "target": "compilers  ️",
+      "curve": {
+        "x": -156.707,
+        "y": 118.516
+      }
+    },
+    {
+      "source": "basics",
+      "target": "virtual machines  ️",
+      "curve": {
+        "x": -580.852,
+        "y": 118.059
+      }
+    },
+    {
+      "source": "basics",
+      "target": "computation  ️",
+      "curve": {
+        "x": -55.0716,
+        "y": 120.493
+      }
+    },
+    {
+      "source": "basics",
+      "target": "concurrency  ️",
+      "curve": {
+        "x": -762.792,
+        "y": 91.2716
+      }
+    },
+    {
+      "source": "basics",
+      "target": "recursion  ️",
+      "curve": {
+        "x": -977.773,
+        "y": 53.2795
+      }
+    }
+  ]
+}

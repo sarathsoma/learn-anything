@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - biology - ecology",
+  "nodes": [
+    {
+      "text": "ecology",
+      "url": "http://www.wikiwand.com/en/Ecology",
+      "fx": -129.703125,
+      "fy": -219.88671875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -121.03027343749977,
+      "fy": -72.92692057298729
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. khan academy ecology",
+      "url": "https://www.khanacademy.org/science/biology/ecology",
+      "fx": 60.96972656250023,
+      "fy": -81.42692057298729,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. crash course ecology",
+      "url": "https://www.youtube.com/watch?v=sjE-Pkjp3u4&amp;list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX",
+      "fx": 60.96972656250023,
+      "fy": -41.426920572987285,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "ecology",
+      "target": "basics",
+      "curve": {
+        "x": -6.16357,
+        "y": 72.2299
+      }
+    }
+  ]
+}

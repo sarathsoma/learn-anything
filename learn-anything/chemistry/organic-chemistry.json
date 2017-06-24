@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - chemistry - organic chemistry",
+  "nodes": [
+    {
+      "text": "organic chemistry",
+      "url": "http://www.wikiwand.com/en/Organic_chemistry",
+      "fx": -145.01171875,
+      "fy": -293.125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -98.41796875,
+      "fy": -119.65508319805184
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. khan academy organic chemistry",
+      "url": "https://www.khanacademy.org/science/organic-chemistry",
+      "fx": 83.58203125,
+      "fy": -171.65508319805184,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. strategic applications of named reactions in organic synthesis: background and detailed mechanisms",
+      "url": "http://www.goodreads.com/book/show/354826.Strategic_Applications_of_Named_Reactions_in_Organic_Synthesis",
+      "fx": 83.58203125,
+      "fy": -109.65508319805184,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "organic chemistry",
+      "target": "basics",
+      "curve": {
+        "x": -9.45313,
+        "y": 85.485
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "title": "learn anything - programming - programming languages - swift - apple frameworks",
+  "nodes": [
+    {
+      "text": "apple frameworks",
+      "url": "https://developer.apple.com/documentation",
+      "fx": -144.4516522227052,
+      "fy": -500.97786567307304
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 194.37300973721858,
+      "fy": -449.08659255689435
+    },
+    {
+      "text": "Core Data",
+      "url": "https://developer.apple.com/documentation/coredata",
+      "fx": -1055.6856786809817,
+      "fy": -273.2934240797547
+    },
+    {
+      "text": "Cocoa",
+      "url": "https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html",
+      "fx": -905.6671865898505,
+      "fy": -272.5897009702198
+    },
+    {
+      "text": "Foundation",
+      "url": "https://developer.apple.com/documentation/foundation",
+      "fx": -1212.8302001953125,
+      "fy": -271.8034782409668
+    },
+    {
+      "text": "Core Motion",
+      "url": "https://developer.apple.com/documentation/coremotion",
+      "fx": -772.8039434523807,
+      "fy": -271.35602678571445
+    },
+    {
+      "text": "Core NFC",
+      "url": "https://developer.apple.com/documentation/corenfc",
+      "fx": -593.9800604452462,
+      "fy": -271.2456174904172
+    },
+    {
+      "text": "CoreML  ️",
+      "url": "/programming/programming-languages/swift/apple-frameworks/coreML",
+      "fx": -429.1581481590058,
+      "fy": -273.34475587769697,
+      "category": "mindmap"
+    },
+    {
+      "text": "SceneKit",
+      "url": "https://developer.apple.com/documentation/scenekit",
+      "fx": -1357.301926691729,
+      "fy": -269.680744830827
+    },
+    {
+      "text": "PDFKit",
+      "url": "https://developer.apple.com/documentation/pdfkit",
+      "fx": -137.33560180664062,
+      "fy": -269.59037017822266
+    },
+    {
+      "text": "SiriKit",
+      "url": "https://developer.apple.com/sirikit/",
+      "fx": -1486.5155042554302,
+      "fy": -269.0612762374687
+    },
+    {
+      "text": "Metal 2  ️",
+      "url": "/computer-graphics/metal",
+      "fx": -25.506264085111525,
+      "fy": -271.1104885449511,
+      "category": "mindmap"
+    },
+    {
+      "text": "ARKit  ️",
+      "url": "/programming/programming-languages/swift/apple-frameworks/arkit",
+      "fx": -280.95410919189453,
+      "fy": -269.4948921203613,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "WWDC 2017 videos",
+      "url": "https://developer.apple.com/videos/wwdc2017/",
+      "fx": 331.3730097372186,
+      "fy": -434.58659255689435,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "apple frameworks",
+      "curve": {
+        "x": -138.662,
+        "y": -25.9456
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "Metal 2  ️",
+      "curve": {
+        "x": 42.9727,
+        "y": 116.184
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "PDFKit",
+      "curve": {
+        "x": -21.192,
+        "y": 115.694
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "ARKit  ️",
+      "curve": {
+        "x": -96.0012,
+        "y": 115.742
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "CoreML  ️",
+      "curve": {
+        "x": -157.603,
+        "y": 115.067
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "Core NFC",
+      "curve": {
+        "x": -242.514,
+        "y": 114.866
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "Core Motion",
+      "curve": {
+        "x": -351.18,
+        "y": 96.1663
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "Cocoa",
+      "curve": {
+        "x": -450.936,
+        "y": 71.4519
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "Core Data",
+      "curve": {
+        "x": -584.912,
+        "y": 46.74
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "Foundation",
+      "curve": {
+        "x": -691.046,
+        "y": 32.6311
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "SceneKit",
+      "curve": {
+        "x": -763.176,
+        "y": -8.16454
+      }
+    },
+    {
+      "source": "apple frameworks",
+      "target": "SiriKit",
+      "curve": {
+        "x": -811.731,
+        "y": -18.0411
+      }
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "title": "learn anything - programming - programming languages - python",
+  "nodes": [
+    {
+      "text": "python",
+      "url": "http://www.wikiwand.com/en/Python_(programming_language)",
+      "fx": -13.916222252976013,
+      "fy": -659.1641376795345,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 164.4522654914258,
+      "fy": -455.02444076625454
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 455.7839253819375,
+      "fy": -183.5539283546699
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -122.4129427152568,
+      "fy": -123.62730003609113
+    },
+    {
+      "text": "package manager",
+      "url": "http://www.wikiwand.com/en/Package_manager",
+      "fx": -346.2056231217888,
+      "fy": 39.035120728630204,
+      "category": "wiki"
+    },
+    {
+      "text": "python libraries  ️",
+      "url": "/programming/programming-languages/python/python-libraries",
+      "fx": -78.69331502906573,
+      "fy": 100.14771605920942,
+      "category": "mindmap"
+    },
+    {
+      "text": "pip",
+      "url": "https://pypi.python.org/pypi/pip",
+      "fx": -317.77054724755226,
+      "fy": 153.56934975958518
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Python/",
+      "fx": 176.083777747024,
+      "fy": -665.1641376795345,
+      "category": "reddit",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "python"
+    },
+    {
+      "text": "",
+      "note": "original python implementation in c, compiles python code into byte code and interprets the byte code in a evaluation loop",
+      "url": "https://github.com/python/cpython",
+      "fx": 176.083777747024,
+      "fy": -625.1641376795345,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "python"
+    },
+    {
+      "text": "awesome python",
+      "url": "https://github.com/vinta/awesome-python",
+      "fx": 301.4522654914258,
+      "fy": -568.5244407662545,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome asyncio",
+      "url": "https://github.com/timofurrer/awesome-asyncio",
+      "fx": 301.4522654914258,
+      "fy": -528.5244407662545,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "python data model",
+      "url": "https://docs.python.org/3/reference/datamodel.html",
+      "fx": 301.4522654914258,
+      "fy": -488.52444076625454,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "scientific python cheat sheet",
+      "url": "https://ipgp.github.io/scientific_python_cheat_sheet/",
+      "fx": 301.4522654914258,
+      "fy": -454.52444076625454,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "structuring your project",
+      "url": "http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/",
+      "fx": 301.4522654914258,
+      "fy": -420.52444076625454,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "style guide for python code",
+      "url": "https://www.python.org/dev/peps/pep-0008/",
+      "fx": 301.4522654914258,
+      "fy": -386.52444076625454,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "cpython internals  ️",
+      "url": "http://pgbovine.net/cpython-internals.htm",
+      "fx": 301.4522654914258,
+      "fy": -352.52444076625454,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "API at a glance",
+      "url": "http://overapi.com/python",
+      "fx": 301.4522654914258,
+      "fy": -312.52444076625454,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "16: the history behind the decision to move python to github  ️",
+      "url": "https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/",
+      "fx": 617.7839253819375,
+      "fy": -245.0539283546699,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "15: a modern python development toolchain  ️",
+      "url": "http://www.chriskrycho.com/2015/a-modern-python-development-toolchain.html",
+      "fx": 617.7839253819375,
+      "fy": -183.0539283546699,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: python's instance, class, and static methods demystified  ️",
+      "url": "https://realpython.com/blog/python/instance-class-and-static-methods-demystified/",
+      "fx": 617.7839253819375,
+      "fy": -121.05392835466989,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. the python tutorial",
+      "url": "https://docs.python.org/3/tutorial/",
+      "fx": 59.587057284743196,
+      "fy": -228.12730003609113,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. dive into python 3",
+      "url": "http://www.diveintopython3.net",
+      "fx": 59.587057284743196,
+      "fy": -194.12730003609113,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learn python in Y minutes",
+      "url": "https://learnxinyminutes.com/docs/python3/",
+      "fx": 59.587057284743196,
+      "fy": -154.12730003609113,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. automate the boring stuff with python",
+      "url": "https://automatetheboringstuff.com/",
+      "fx": 59.587057284743196,
+      "fy": -120.12730003609113,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. problem solving with algorithms and data structures using python",
+      "url": "http://interactivepython.org/runestone/static/pythonds/index.html",
+      "fx": 59.587057284743196,
+      "fy": -58.12730003609113,
+      "category": "free book",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. python testing",
+      "url": "http://pythontesting.net/framework/pytest/pytest-introduction/",
+      "fx": 59.587057284743196,
+      "fy": 3.8726999639088717,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "python",
+      "target": "basics",
+      "curve": {
+        "x": -55.4984,
+        "y": 267.769
+      }
+    },
+    {
+      "source": "help",
+      "target": "python",
+      "curve": {
+        "x": -83.1843,
+        "y": -102.07
+      }
+    },
+    {
+      "source": "basics",
+      "target": "python libraries  ️",
+      "curve": {
+        "x": 41.6098,
+        "y": 111.888
+      }
+    },
+    {
+      "source": "basics",
+      "target": "package manager",
+      "curve": {
+        "x": -91.896,
+        "y": 81.3311
+      }
+    },
+    {
+      "source": "package manager",
+      "target": "pip",
+      "curve": {
+        "x": -19.7824,
+        "y": 57.2671
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -193.606,
+        "y": -81.7232
+      }
+    }
+  ]
+}

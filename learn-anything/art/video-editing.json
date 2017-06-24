@@ -1,0 +1,111 @@
+{
+  "title": "learn anything - art - video editing",
+  "nodes": [
+    {
+      "text": "video editing",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Video_editing",
+      "fx": -58.76953125,
+      "fy": -212.58984375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 90.21827789738688,
+      "fy": -88.33438130990601
+    },
+    {
+      "text": "software",
+      "url": "",
+      "fx": -134.6939191878979,
+      "fy": -48.38813694267526
+    },
+    {
+      "text": "logic pro",
+      "url": "http://www.wikiwand.com/en/Logic_Pro",
+      "fx": -256.5519332885742,
+      "fy": 72.73299789428711,
+      "category": "wiki"
+    },
+    {
+      "text": "adobe after effects",
+      "url": "http://www.wikiwand.com/en/Adobe_After_Effects",
+      "fx": -81.38557330826382,
+      "fy": 75.3317669172933,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/VideoEditing/",
+      "fx": 208.23046875,
+      "fy": -218.58984375,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "video editing"
+    },
+    {
+      "text": "️",
+      "url": "https://video.stackexchange.com/",
+      "fx": 208.23046875,
+      "fy": -178.58984375,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "video editing"
+    },
+    {
+      "text": "Justin Odisho",
+      "url": "https://www.youtube.com/user/Justthisgood/videos",
+      "fx": 227.21827789738688,
+      "fy": -96.83438130990601,
+      "category": "youtube",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "this guy edits",
+      "url": "https://www.youtube.com/user/svenpape/videos",
+      "fx": 227.21827789738688,
+      "fy": -56.83438130990601,
+      "category": "youtube",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "video editing",
+      "curve": {
+        "x": -48.4939,
+        "y": -60.8777
+      }
+    },
+    {
+      "source": "video editing",
+      "target": "software",
+      "curve": {
+        "x": -54.2122,
+        "y": 80.8509
+      }
+    },
+    {
+      "source": "software",
+      "target": "logic pro",
+      "curve": {
+        "x": -53.679,
+        "y": 61.8106
+      }
+    },
+    {
+      "source": "software",
+      "target": "adobe after effects",
+      "curve": {
+        "x": 56.6542,
+        "y": 63.11
+      }
+    }
+  ]
+}

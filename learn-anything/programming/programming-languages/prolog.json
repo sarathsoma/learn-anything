@@ -1,0 +1,49 @@
+{
+  "title": "learn anything - programming - programming languages - prolog",
+  "nodes": [
+    {
+      "text": "prolog",
+      "url": "http://www.wikiwand.com/en/Prolog",
+      "fx": -61,
+      "fy": -114.61328125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -65.64332633706476,
+      "fy": 19.2900342039801
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the power of prolog",
+      "url": "https://www.metalevel.at/prolog",
+      "fx": 116.35667366293524,
+      "fy": -0.20996579601990106,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. do-it-yourself course for beginners",
+      "url": "http://cs.union.edu/%7Estriegnk/courses/esslli04prolog/",
+      "fx": 116.35667366293524,
+      "fy": 39.7900342039801,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "prolog",
+      "target": "basics",
+      "curve": {
+        "x": -9.57166,
+        "y": 65.7016
+      }
+    }
+  ]
+}

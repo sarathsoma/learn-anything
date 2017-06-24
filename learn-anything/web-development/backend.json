@@ -1,0 +1,281 @@
+{
+  "title": "learn anything - web development - backend",
+  "nodes": [
+    {
+      "text": "backend development ",
+      "note": "",
+      "url": "",
+      "fx": -1498.7082966947735,
+      "fy": -899.0736306714209
+    },
+    {
+      "text": "c#  ️",
+      "fx": -1112.1970915514073,
+      "fy": -873.7816524504269,
+      "category": "mindmap"
+    },
+    {
+      "text": "java  ️",
+      "url": "/programming/programming-languages/java",
+      "fx": -1137.9885007022476,
+      "fy": -792.7491221910112,
+      "category": "mindmap"
+    },
+    {
+      "text": "symfony",
+      "url": "https://github.com/symfony/symfony",
+      "fx": -981.25390625,
+      "fy": -770.25390625,
+      "category": "github"
+    },
+    {
+      "text": "php  ️",
+      "url": "/programming/programming-languages/php",
+      "fx": -1123.5374150706473,
+      "fy": -692.1394810052024,
+      "category": "mindmap"
+    },
+    {
+      "text": "laravel  ️",
+      "fx": -959.9360365500816,
+      "fy": -675.1213204799553,
+      "category": "mindmap"
+    },
+    {
+      "text": "go  ️",
+      "url": "/programming/programming-languages/go",
+      "fx": -1748.7118469938616,
+      "fy": -652.5840007675807,
+      "category": "mindmap"
+    },
+    {
+      "text": "pyramid",
+      "url": "https://trypyramid.com/",
+      "fx": -961.9539695945946,
+      "fy": -594.8454391891897
+    },
+    {
+      "text": "ruby  ️",
+      "url": "/programming/programming-languages/ruby",
+      "fx": -1626.1175698412874,
+      "fy": -589.4823099016896,
+      "category": "mindmap"
+    },
+    {
+      "text": "node.js  ️",
+      "url": "/web-development/backend/nodejs",
+      "fx": -1451.7429739620836,
+      "fy": -569.4477472516611,
+      "category": "mindmap"
+    },
+    {
+      "text": "python  ️",
+      "url": "/programming/programming-languages/python",
+      "fx": -1153.2974649101423,
+      "fy": -560.70618556701,
+      "category": "mindmap"
+    },
+    {
+      "text": "flask",
+      "url": "http://flask.pocoo.org/",
+      "fx": -946.2862334203971,
+      "fy": -526.3981452123427
+    },
+    {
+      "text": "ruby on rails  ️",
+      "url": "/programming/programming-languages/ruby/ruby-on-rails",
+      "fx": -1814.5085442818227,
+      "fy": -486.5618869849413,
+      "category": "mindmap"
+    },
+    {
+      "text": "sinatra",
+      "url": "https://github.com/sinatra/sinatra",
+      "fx": -1599.4310169584726,
+      "fy": -485.87109883345124,
+      "category": "github"
+    },
+    {
+      "text": "django  ️",
+      "url": "/web-development/full-stack/django",
+      "fx": -963.1403798117724,
+      "fy": -442.20811936409063,
+      "category": "mindmap"
+    },
+    {
+      "text": "hapi",
+      "url": "https://github.com/hapijs/hapi",
+      "fx": -1375.559505312683,
+      "fy": -410.99126324422843,
+      "category": "github"
+    },
+    {
+      "text": "koa",
+      "url": "https://github.com/koajs/koa",
+      "fx": -1262.4647177150268,
+      "fy": -409.3300579524804,
+      "category": "github"
+    },
+    {
+      "text": "express",
+      "url": "https://github.com/expressjs/express",
+      "fx": -1521.6836813380737,
+      "fy": -407.4477909541894,
+      "category": "github"
+    },
+    {
+      "text": "sails.js",
+      "url": "https://github.com/balderdashy/sails",
+      "fx": -1154.48940643573,
+      "fy": -407.31662258871086,
+      "category": "github"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "backend development ",
+      "target": "go  ️",
+      "curve": {
+        "x": -201.197,
+        "y": 124.495
+      }
+    },
+    {
+      "source": "backend development ",
+      "target": "ruby  ️",
+      "curve": {
+        "x": -98.4547,
+        "y": 156.046
+      }
+    },
+    {
+      "source": "backend development ",
+      "target": "node.js  ️",
+      "curve": {
+        "x": -4.76772,
+        "y": 166.063
+      }
+    },
+    {
+      "source": "backend development ",
+      "target": "python  ️",
+      "curve": {
+        "x": 137.205,
+        "y": 170.434
+      }
+    },
+    {
+      "source": "backend development ",
+      "target": "php  ️",
+      "curve": {
+        "x": 145.335,
+        "y": 104.717
+      }
+    },
+    {
+      "source": "ruby  ️",
+      "target": "ruby on rails  ️",
+      "curve": {
+        "x": -76.6955,
+        "y": 51.4602
+      }
+    },
+    {
+      "source": "ruby  ️",
+      "target": "sinatra",
+      "curve": {
+        "x": 18.3433,
+        "y": 51.8056
+      }
+    },
+    {
+      "source": "node.js  ️",
+      "target": "express",
+      "curve": {
+        "x": -33.7204,
+        "y": 81
+      }
+    },
+    {
+      "source": "node.js  ️",
+      "target": "hapi",
+      "curve": {
+        "x": 31.0917,
+        "y": 79.2282
+      }
+    },
+    {
+      "source": "node.js  ️",
+      "target": "koa",
+      "curve": {
+        "x": 86.3891,
+        "y": 80.0588
+      }
+    },
+    {
+      "source": "node.js  ️",
+      "target": "sails.js",
+      "curve": {
+        "x": 146.877,
+        "y": 81.0656
+      }
+    },
+    {
+      "source": "python  ️",
+      "target": "pyramid",
+      "curve": {
+        "x": 90.9217,
+        "y": -18.3196
+      }
+    },
+    {
+      "source": "python  ️",
+      "target": "flask",
+      "curve": {
+        "x": 90.7556,
+        "y": 15.904
+      }
+    },
+    {
+      "source": "python  ️",
+      "target": "django  ️",
+      "curve": {
+        "x": 94.8285,
+        "y": 59.249
+      }
+    },
+    {
+      "source": "php  ️",
+      "target": "symfony",
+      "curve": {
+        "x": 81.1418,
+        "y": -39.0572
+      }
+    },
+    {
+      "source": "php  ️",
+      "target": "laravel  ️",
+      "curve": {
+        "x": 87.0507,
+        "y": 8.50908
+      }
+    },
+    {
+      "source": "backend development ",
+      "target": "java  ️",
+      "curve": {
+        "x": 130.86,
+        "y": 53.1623
+      }
+    },
+    {
+      "source": "backend development ",
+      "target": "c#  ️",
+      "curve": {
+        "x": 147.756,
+        "y": 13.896
+      }
+    }
+  ]
+}

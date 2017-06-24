@@ -1,0 +1,114 @@
+{
+  "title": "learn anything - web development - javascript libraries - meteor",
+  "nodes": [
+    {
+      "text": "meteor",
+      "url": "http://www.wikiwand.com/en/Meteor_(web_framework)",
+      "fx": -73.08690893650055,
+      "fy": -228.54401652018225,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 30.47333304087317,
+      "fy": -66.71478017171228
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -69.72203615804506,
+      "fy": 97.29072378735839
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://github.com/meteor/meteor",
+      "fx": 117.91309106349945,
+      "fy": -214.54401652018225,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "meteor"
+    },
+    {
+      "text": "meteor learning",
+      "url": "https://github.com/ericdouglas/Meteor-Learning",
+      "fx": 167.47333304087317,
+      "fy": -149.21478017171228,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "meteor api",
+      "url": "http://docs.meteor.com/",
+      "fx": 167.47333304087317,
+      "fy": -109.21478017171228,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "discovering meteor  ️",
+      "url": "https://www.discovermeteor.com/blog/",
+      "fx": 167.47333304087317,
+      "fy": -75.21478017171228,
+      "category": "blog",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "awesome meteor",
+      "url": "https://github.com/Urigo/awesome-meteor",
+      "fx": 167.47333304087317,
+      "fy": -35.21478017171228,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "application structure",
+      "url": "https://guide.meteor.com/structure.html",
+      "fx": 167.47333304087317,
+      "fy": 4.7852198282877225,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "meteor forum",
+      "url": "https://forums.meteor.com/",
+      "fx": 167.47333304087317,
+      "fy": 38.78521982828772,
+      "category": "",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. create your first app",
+      "url": "https://www.meteor.com/tutorials/blaze/creating-an-app",
+      "fx": 112.27796384195494,
+      "fy": 111.79072378735839,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "meteor",
+      "curve": {
+        "x": -38.2801,
+        "y": -79.6646
+      }
+    },
+    {
+      "source": "meteor",
+      "target": "basics",
+      "curve": {
+        "x": -7.06757,
+        "y": 161.668
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "title": "learn anything - computer science - computation",
+  "nodes": [
+    {
+      "text": "computing",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Computing",
+      "fx": -42.64111275438108,
+      "fy": -575.0138947828299,
+      "category": "wiki"
+    },
+    {
+      "text": "finite-state machine  ️",
+      "fx": -573.0399199695152,
+      "fy": -515.7953506097576,
+      "category": "mindmap"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 264.1915564292965,
+      "fy": -462.2647384737038
+    },
+    {
+      "text": "computational science",
+      "url": "http://www.wikiwand.com/en/Computational_science",
+      "fx": -563.3316287456836,
+      "fy": -429.08751531692224,
+      "category": "wiki"
+    },
+    {
+      "text": "character encoding  ️",
+      "url": "/computer-science/computation/character-encoding",
+      "fx": -457.9257472234316,
+      "fy": -337.1666417138502,
+      "category": "mindmap"
+    },
+    {
+      "text": "theory of computation  ️",
+      "url": "/computer-science/computation/theory-of-computation",
+      "fx": 314.3988155241916,
+      "fy": -327.22492439516134,
+      "category": "mindmap"
+    },
+    {
+      "text": "computational geometry",
+      "url": "http://www.wikiwand.com/en/Computational_geometry",
+      "fx": 201.97654239039684,
+      "fy": -250.91924319459963,
+      "category": "wiki"
+    },
+    {
+      "text": "evolutionary computation",
+      "url": "http://www.wikiwand.com/en/Evolutionary_computation",
+      "fx": -492.87593591816665,
+      "fy": -214.73306266404222
+    },
+    {
+      "text": "dna computing",
+      "note": "DNA computing is the performing of computations using biological molecules rather than traditional silicon chips. In DNA computing, information is represented using the four-character genetic alphabet - A [adenine], G [guanine], C [cytosine], and T [thymine] - rather than the binary alphabet, which is a series of 1s and 0s used by traditional computers.",
+      "url": "http://www.wikiwand.com/en/DNA_computing",
+      "fx": 81.86752055547447,
+      "fy": -176.54146758280302,
+      "category": "wiki"
+    },
+    {
+      "text": "symbolic computation",
+      "url": "http://www.wikiwand.com/en/Symbolic_computation",
+      "fx": -368.56927490234375,
+      "fy": -115.1402587890625,
+      "category": "wiki"
+    },
+    {
+      "text": "bandwidth",
+      "note": "is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second  the actual bit rate that can be achieved depends not only on the signal bandwidth, but also on the noise on the channel",
+      "url": "http://www.wikiwand.com/en/Bandwidth_(computing)",
+      "fx": -184.54161791504202,
+      "fy": -23.33242339235005,
+      "category": "wiki"
+    },
+    {
+      "text": "computer simulations  ️",
+      "fx": 28.740400476539662,
+      "fy": -19.034556757087216,
+      "category": "mindmap"
+    },
+    {
+      "text": "computer algebra system",
+      "url": "http://www.wikiwand.com/en/Computer_algebra_system",
+      "fx": -550.936237077068,
+      "fy": 7.329740366541387,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://scicomp.stackexchange.com/",
+      "fx": 207.35888724561892,
+      "fy": -561.0138947828299,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "computing"
+    },
+    {
+      "text": "mechanical calculator",
+      "url": "http://www.snotr.com/video/1002/Mechanical_calculator",
+      "fx": 455.1915564292965,
+      "fy": -450.7647384737038,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "computing",
+      "target": "dna computing",
+      "curve": {
+        "x": 65.0043,
+        "y": 197.984
+      }
+    },
+    {
+      "source": "computing",
+      "target": "bandwidth",
+      "curve": {
+        "x": -71.2002,
+        "y": 275.84
+      }
+    },
+    {
+      "source": "computing",
+      "target": "symbolic computation",
+      "curve": {
+        "x": -137.464,
+        "y": 229.936
+      }
+    },
+    {
+      "source": "symbolic computation",
+      "target": "computer algebra system",
+      "curve": {
+        "x": -83.1835,
+        "y": 61.235
+      }
+    },
+    {
+      "source": "computing",
+      "target": "computational geometry",
+      "curve": {
+        "x": 153.059,
+        "y": 162.046
+      }
+    },
+    {
+      "source": "computing",
+      "target": "evolutionary computation",
+      "curve": {
+        "x": -191.196,
+        "y": 217.379
+      }
+    },
+    {
+      "source": "computing",
+      "target": "theory of computation  ️",
+      "curve": {
+        "x": 188.985,
+        "y": 151.093
+      }
+    },
+    {
+      "source": "computing",
+      "target": "character encoding  ️",
+      "curve": {
+        "x": -201.892,
+        "y": 117.674
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "computing",
+      "curve": {
+        "x": -138.666,
+        "y": -55.1246
+      }
+    },
+    {
+      "source": "computing",
+      "target": "computational science",
+      "curve": {
+        "x": -240.345,
+        "y": 72.9632
+      }
+    },
+    {
+      "source": "computing",
+      "target": "finite-state machine  ️",
+      "curve": {
+        "x": -258.949,
+        "y": 28.3593
+      }
+    },
+    {
+      "source": "computing",
+      "target": "computer simulations  ️",
+      "curve": {
+        "x": -10.1411,
+        "y": 340.876
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - history - world history - cold war",
+  "nodes": [
+    {
+      "text": "cold war",
+      "url": "http://www.wikiwand.com/en/Cold_War",
+      "fx": -86.2890625,
+      "fy": -373.82421875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -65.5859375,
+      "fy": -241.79296875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. cold war in 9 minutes",
+      "url": "https://www.youtube.com/watch?v=wVqziNV7dGY",
+      "fx": 116.4140625,
+      "fy": -230.29296875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "cold war",
+      "target": "basics",
+      "curve": {
+        "x": -1.89844,
+        "y": 64.7656
+      }
+    }
+  ]
+}

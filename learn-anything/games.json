@@ -1,0 +1,141 @@
+{
+  "title": "learn anything - games",
+  "nodes": [
+    {
+      "text": "games",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Game",
+      "fx": -260.9535063101911,
+      "fy": -385.8317791910766,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": -102.56893920898438,
+      "fy": -276.17470932006836
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -235.8332405090332,
+      "fy": -170.01554679870605
+    },
+    {
+      "text": "videos games  ️",
+      "url": "/games/video-games",
+      "fx": -301.1653981208801,
+      "fy": -9.480899214744568,
+      "category": "mindmap"
+    },
+    {
+      "text": "board games  ️",
+      "url": "/games/board-games",
+      "fx": -512.7891235351562,
+      "fy": -9.148769617080688,
+      "category": "mindmap"
+    },
+    {
+      "text": "card games  ️",
+      "url": "/games/card",
+      "fx": -88.57138061523438,
+      "fy": -6.8050315380096436,
+      "category": "mindmap"
+    },
+    {
+      "text": "web games  ️",
+      "url": "/games/web",
+      "fx": 93.43531546208533,
+      "fy": -2.7459271327014676,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "️",
+      "url": "https://gaming.stackexchange.com/",
+      "fx": -46.953506310191074,
+      "fy": -391.8317791910766,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "games"
+    },
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/patientgamers/",
+      "fx": -46.953506310191074,
+      "fy": -351.8317791910766,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "games"
+    },
+    {
+      "text": "science based games",
+      "url": "https://github.com/stared/science-based-games-list",
+      "fx": 88.43106079101562,
+      "fy": -264.67470932006836,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. crash course games",
+      "url": "https://www.youtube.com/watch?v=QPqR2wOs8WI&amp;index=1&amp;list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG",
+      "fx": -79.8332405090332,
+      "fy": -158.51554679870605,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "games",
+      "target": "basics",
+      "curve": {
+        "x": -1.93987,
+        "y": 106.658
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "games",
+      "curve": {
+        "x": -73.4423,
+        "y": -53.5785
+      }
+    },
+    {
+      "source": "basics",
+      "target": "board games  ️",
+      "curve": {
+        "x": -115.728,
+        "y": 81.6834
+      }
+    },
+    {
+      "source": "basics",
+      "target": "videos games  ️",
+      "curve": {
+        "x": -1.41608,
+        "y": 81.5173
+      }
+    },
+    {
+      "source": "basics",
+      "target": "card games  ️",
+      "curve": {
+        "x": 93.1309,
+        "y": 82.8553
+      }
+    },
+    {
+      "source": "basics",
+      "target": "web games  ️",
+      "curve": {
+        "x": 183.884,
+        "y": 84.8848
+      }
+    }
+  ]
+}

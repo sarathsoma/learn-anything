@@ -1,0 +1,107 @@
+{
+  "title": "learn anything - computer vision - augmented reality",
+  "nodes": [
+    {
+      "text": "augmented reality",
+      "url": "http://www.wikiwand.com/en/Augmented_reality",
+      "fx": -149.7140043904958,
+      "fy": -237.1860472623967,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 65.37170600891113,
+      "fy": -114.53353250519308
+    },
+    {
+      "text": "basics",
+      "note": "fif you think this can be improved in any way ",
+      "url": "",
+      "fx": -83.8275174700525,
+      "fy": 2.2683801389922564
+    },
+    {
+      "text": "develop",
+      "url": "",
+      "fx": -137.90194515306132,
+      "fy": 111.8105867346934
+    },
+    {
+      "text": "unity  ️",
+      "url": "/game-development/game-engines/unity",
+      "fx": -42.1504703443876,
+      "fy": 238.81154336734517,
+      "category": "mindmap"
+    },
+    {
+      "text": "AR.js",
+      "url": "https://github.com/jeromeetienne/AR.js",
+      "fx": -181.48553093112218,
+      "fy": 239.6067442602034,
+      "category": "github"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "16: hyper-reality",
+      "url": "https://www.youtube.com/watch?v=YJg02ivYzSs",
+      "fx": 256.37170600891113,
+      "fy": -103.03353250519308,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. what is augmented reality?",
+      "url": "https://www.youtube.com/watch?v=09vxKN1zLNI",
+      "fx": 98.1724825299475,
+      "fy": 13.768380138992256,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "augmented reality",
+      "target": "basics",
+      "curve": {
+        "x": -0.0567565,
+        "y": 118.477
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "augmented reality",
+      "curve": {
+        "x": -83.2929,
+        "y": -60.0763
+      }
+    },
+    {
+      "source": "basics",
+      "target": "develop",
+      "curve": {
+        "x": -23.5372,
+        "y": 54.7711
+      }
+    },
+    {
+      "source": "develop",
+      "target": "AR.js",
+      "curve": {
+        "x": -20.7918,
+        "y": 65.1481
+      }
+    },
+    {
+      "source": "develop",
+      "target": "unity  ️",
+      "curve": {
+        "x": 47.8757,
+        "y": 64.7505
+      }
+    }
+  ]
+}
