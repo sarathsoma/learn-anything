@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - analysis",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "analysis",
@@ -24,27 +26,24 @@
       "category": "mindmap"
     },
     {
-      "text": "fourier analysis",
+      "text": "fourier analysis  ️",
       "note": "is the study of the way general functions may be represented or approximated by sums of simpler trigonometric functions  it grew from the study of Fourier series which shows that representing a function as a sum of trigonometric functions greatly simplifies the study of heat transfer  the decomposition process is called a Fourier transformation",
-      "url": "http://www.wikiwand.com/en/Fourier_analysis",
-      "fx": -531.1339142568977,
+      "fx": -530.1339142568977,
       "fy": 11.322760022402463,
-      "category": "wiki"
+      "category": "mindmap"
+    },
+    {
+      "text": "harmonic analysis  ️",
+      "fx": -526.4985383100279,
+      "fy": 99.87646778959243,
+      "category": "mindmap"
     },
     {
       "text": "space-filling curve  ️",
       "url": "/mathematics/analysis/space-filling-curve",
-      "fx": 400.50199021635876,
-      "fy": 85.59378108609144,
+      "fx": 370.77933396635876,
+      "fy": 119.40237483609144,
       "category": "mindmap"
-    },
-    {
-      "text": "harmonic analysis",
-      "note": "is concerned with the representation of functions or signals as the superposition of basic waves, and the study of and generalisation of the notions of Fourier series and Fourier transforms (i.e. an extended form of Fourier analysis)  Fourier series can be conveniently studied in the context of Hilbert spaces, which provide a connection between harmonic analysis and functional analysis",
-      "url": "http://www.wikiwand.com/en/Harmonic_analysis",
-      "fx": -491.8640670776366,
-      "fy": 98.7572135925293,
-      "category": "wiki"
     },
     {
       "text": "functional analysis  ️",
@@ -70,12 +69,11 @@
       "category": "mindmap"
     },
     {
-      "text": "numerical analysis",
+      "text": "numerical analysis  ️",
       "note": "is the study of algorithms that use numerical approximation (as opposed to general symbolic manipulations) for the problems of mathematical analysis ",
-      "url": "http://www.wikiwand.com/en/Numerical_analysis",
-      "fx": -22.43908905044873,
+      "fx": -21.43908905044873,
       "fy": 270.834491824314,
-      "category": "wiki"
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -83,7 +81,7 @@
       "text": "1. principles of mathematical analysis",
       "url": "http://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis",
       "fx": 123.40808823529414,
-      "fy": -253.02299883021385,
+      "fy": -233.02299883021385,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -92,7 +90,7 @@
       "text": "2. visual complex analysis",
       "url": "https://www.goodreads.com/book/show/149800.Visual_Complex_Analysis",
       "fx": 123.40808823529414,
-      "fy": -191.02299883021385,
+      "fy": -171.02299883021385,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -101,18 +99,9 @@
       "text": "2. introductory functional analysis with applications",
       "url": "http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications",
       "fx": 123.40808823529414,
-      "fy": -151.02299883021385,
+      "fy": -131.02299883021385,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. complex analysis",
-      "url": "http://www.goodreads.com/book/show/202427.Complex_Analysis",
-      "fx": 123.40808823529414,
-      "fy": -89.02299883021385,
-      "category": "non-free book",
-      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],
@@ -123,14 +112,6 @@
       "curve": {
         "x": -1.4959,
         "y": 88.373
-      }
-    },
-    {
-      "source": "basics",
-      "target": "harmonic analysis",
-      "curve": {
-        "x": -183.637,
-        "y": 141.89
       }
     },
     {
@@ -151,17 +132,17 @@
     },
     {
       "source": "basics",
-      "target": "numerical analysis",
+      "target": "numerical analysis  ️",
       "curve": {
-        "x": 42.8822,
+        "x": 43.3822,
         "y": 258.082
       }
     },
     {
       "source": "basics",
-      "target": "fourier analysis",
+      "target": "fourier analysis  ️",
       "curve": {
-        "x": -208.271,
+        "x": -207.771,
         "y": 119.68
       }
     },
@@ -185,8 +166,16 @@
       "source": "basics",
       "target": "space-filling curve  ️",
       "curve": {
-        "x": 183.973,
-        "y": 192.187
+        "x": 169.112,
+        "y": 209.091
+      }
+    },
+    {
+      "source": "basics",
+      "target": "harmonic analysis  ️",
+      "curve": {
+        "x": -186.774,
+        "y": 174.512
       }
     }
   ]

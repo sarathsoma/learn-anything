@@ -1,11 +1,13 @@
 {
   "title": "learn anything - programming - programming languages - racket",
+  "tag": "racket programming language",
+  "description": "",
   "nodes": [
     {
       "text": "racket",
       "url": "http://www.wikiwand.com/en/Racket_(programming_language)",
-      "fx": -83.58698156682033,
-      "fy": -248.9925115207373,
+      "fx": -85.23377432997825,
+      "fy": -265.84489638915835,
       "category": "wiki"
     },
     {
@@ -23,6 +25,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Racket/",
+      "fx": 97.76622567002175,
+      "fy": -271.84489638915835,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "racket"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/racket/racket",
+      "fx": 97.76622567002175,
+      "fy": -231.84489638915835,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "racket"
+    },
     {
       "text": "official site",
       "url": "https://racket-lang.org/",
@@ -55,16 +75,16 @@
       "source": "help",
       "target": "racket",
       "curve": {
-        "x": -38.1446,
-        "y": -46.0335
+        "x": -38.968,
+        "y": -54.4597
       }
     },
     {
       "source": "racket",
       "target": "basics",
       "curve": {
-        "x": -8.13572,
-        "y": 109.663
+        "x": -7.31232,
+        "y": 118.089
       }
     }
   ]

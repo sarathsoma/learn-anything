@@ -1,5 +1,7 @@
 {
   "title": "learn anything - economics - econometrics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "econometrics",
@@ -20,9 +22,18 @@
       "text": "1. intro to econometrics",
       "url": "https://www.youtube.com/watch?v=vEP4RIOKuE4",
       "fx": 173.984375,
-      "fy": 110,
+      "fy": 90,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. full course on econometrics",
+      "url": "https://www.youtube.com/watch?v=M_5SLG7sUa0&amp;list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU",
+      "fx": 173.984375,
+      "fy": 130,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],

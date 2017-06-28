@@ -1,5 +1,7 @@
 {
   "title": "learn anything - games",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "games",
@@ -26,6 +28,12 @@
       "url": "/games/video-games",
       "fx": -301.1653981208801,
       "fy": -9.480899214744568,
+      "category": "mindmap"
+    },
+    {
+      "text": "puzzles  ️",
+      "fx": -676.2146561135413,
+      "fy": -9.434770742362502,
       "category": "mindmap"
     },
     {
@@ -135,6 +143,14 @@
       "curve": {
         "x": 183.884,
         "y": 84.8848
+      }
+    },
+    {
+      "source": "basics",
+      "target": "puzzles  ️",
+      "curve": {
+        "x": -223.187,
+        "y": 72.1011
       }
     }
   ]

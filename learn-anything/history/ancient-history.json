@@ -1,5 +1,7 @@
 {
   "title": "learn anything - history - ancient history",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "ancient history",
@@ -18,8 +20,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 16.582052595627943,
-      "fy": 231.08734631147166
+      "fx": -4.308913934426528,
+      "fy": 265.9596994535481
     }
   ],
   "subnodes": [
@@ -33,10 +35,19 @@
       "parent": "podcasts"
     },
     {
+      "text": "1. introduction to ancient greek history",
+      "url": "https://www.youtube.com/watch?v=9FrHGAd_yto&amp;feature=youtu.be&amp;list=PL023BCE5134243987",
+      "fx": 177.69108606557347,
+      "fy": 224.45969945354813,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. the history of the ancient world: from the earliest accounts to the fall of Rome",
       "url": "http://www.goodreads.com/book/show/225947.The_History_of_the_Ancient_World",
-      "fx": 198.58205259562794,
-      "fy": 220.58734631147166,
+      "fx": 177.69108606557347,
+      "fy": 286.4596994535481,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -55,8 +66,8 @@
       "source": "ancient history",
       "target": "basics",
       "curve": {
-        "x": -0.958974,
-        "y": 112.294
+        "x": -11.4045,
+        "y": 129.73
       }
     }
   ]

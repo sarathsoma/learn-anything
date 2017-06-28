@@ -1,5 +1,7 @@
 {
   "title": "learn anything - life - relationships - seduction",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "seduction",
@@ -12,8 +14,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -47.5,
-      "fy": -23.80859375
+      "fx": -59.68149038461547,
+      "fy": 2.0072115384614335
     }
   ],
   "subnodes": [
@@ -29,10 +31,19 @@
     {
       "text": "1. models: attract women through honesty",
       "url": "http://www.goodreads.com/book/show/12633800-models",
-      "fx": 134.5,
-      "fy": -23.30859375,
+      "fx": 122.31850961538453,
+      "fy": -28.492788461538566,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. 3 pillars of seductive success - James Marshall",
+      "url": "https://www.youtube.com/watch?v=33rsHCWgISI",
+      "fx": 122.31850961538453,
+      "fy": 33.50721153846143,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -41,8 +52,8 @@
       "source": "seduction",
       "target": "basics",
       "curve": {
-        "x": -1.0625,
-        "y": 64.3125
+        "x": -7.15325,
+        "y": 77.2204
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - computation",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "computing",
@@ -10,58 +12,56 @@
       "category": "wiki"
     },
     {
-      "text": "finite-state machine  ️",
-      "fx": -573.0399199695152,
-      "fy": -515.7953506097576,
-      "category": "mindmap"
-    },
-    {
       "text": "interesting",
       "url": "",
-      "fx": 264.1915564292965,
-      "fy": -462.2647384737038
+      "fx": 208.2384314292965,
+      "fy": -481.9014572237038
+    },
+    {
+      "text": "finite-state machine  ️",
+      "fx": -635.2078887195152,
+      "fy": -472.95160060975763,
+      "category": "mindmap"
     },
     {
       "text": "computational science",
       "url": "http://www.wikiwand.com/en/Computational_science",
-      "fx": -563.3316287456836,
-      "fy": -429.08751531692224,
+      "fx": -610.0738162456836,
+      "fy": -389.64220281692224,
       "category": "wiki"
+    },
+    {
+      "text": "interactive computing  ️",
+      "fx": 318.5091932583673,
+      "fy": -330.26349043276014,
+      "category": "mindmap"
     },
     {
       "text": "character encoding  ️",
       "url": "/computer-science/computation/character-encoding",
-      "fx": -457.9257472234316,
-      "fy": -337.1666417138502,
+      "fx": -492.6030570060402,
+      "fy": -311.8235710616763,
       "category": "mindmap"
     },
     {
       "text": "theory of computation  ️",
       "url": "/computer-science/computation/theory-of-computation",
-      "fx": 314.3988155241916,
-      "fy": -327.22492439516134,
+      "fx": 236.78729489849934,
+      "fy": -216.23806264464724,
       "category": "mindmap"
     },
     {
-      "text": "computational geometry",
-      "url": "http://www.wikiwand.com/en/Computational_geometry",
-      "fx": 201.97654239039684,
-      "fy": -250.91924319459963,
-      "category": "wiki"
+      "text": "evolutionary computation  ️",
+      "fx": -505.37593591816665,
+      "fy": -209.4783072292596,
+      "category": "mindmap"
     },
     {
-      "text": "evolutionary computation",
-      "url": "http://www.wikiwand.com/en/Evolutionary_computation",
-      "fx": -492.87593591816665,
-      "fy": -214.73306266404222
-    },
-    {
-      "text": "dna computing",
+      "text": "DNA computing  ️",
       "note": "DNA computing is the performing of computations using biological molecules rather than traditional silicon chips. In DNA computing, information is represented using the four-character genetic alphabet - A [adenine], G [guanine], C [cytosine], and T [thymine] - rather than the binary alphabet, which is a series of 1s and 0s used by traditional computers.",
-      "url": "http://www.wikiwand.com/en/DNA_computing",
-      "fx": 81.86752055547447,
-      "fy": -176.54146758280302,
-      "category": "wiki"
+      "fx": 114.99642680547447,
+      "fy": -136.70943633280302,
+      "category": "mindmap"
     },
     {
       "text": "symbolic computation",
@@ -105,8 +105,8 @@
     {
       "text": "mechanical calculator",
       "url": "http://www.snotr.com/video/1002/Mechanical_calculator",
-      "fx": 455.1915564292965,
-      "fy": -450.7647384737038,
+      "fx": 399.2384314292965,
+      "fy": -470.4014572237038,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -115,10 +115,10 @@
   "connections": [
     {
       "source": "computing",
-      "target": "dna computing",
+      "target": "DNA computing  ️",
       "curve": {
-        "x": 65.0043,
-        "y": 197.984
+        "x": 81.5688,
+        "y": 217.9
       }
     },
     {
@@ -147,58 +147,50 @@
     },
     {
       "source": "computing",
-      "target": "computational geometry",
+      "target": "evolutionary computation  ️",
       "curve": {
-        "x": 153.059,
-        "y": 162.046
-      }
-    },
-    {
-      "source": "computing",
-      "target": "evolutionary computation",
-      "curve": {
-        "x": -191.196,
-        "y": 217.379
+        "x": -197.446,
+        "y": 220.006
       }
     },
     {
       "source": "computing",
       "target": "theory of computation  ️",
       "curve": {
-        "x": 188.985,
-        "y": 151.093
+        "x": 150.179,
+        "y": 206.586
       }
     },
     {
       "source": "computing",
       "target": "character encoding  ️",
       "curve": {
-        "x": -201.892,
-        "y": 117.674
+        "x": -219.231,
+        "y": 130.346
       }
     },
     {
       "source": "interesting",
       "target": "computing",
       "curve": {
-        "x": -138.666,
-        "y": -55.1246
+        "x": -110.689,
+        "y": -45.3062
       }
     },
     {
       "source": "computing",
       "target": "computational science",
       "curve": {
-        "x": -240.345,
-        "y": 72.9632
+        "x": -263.716,
+        "y": 92.6859
       }
     },
     {
       "source": "computing",
       "target": "finite-state machine  ️",
       "curve": {
-        "x": -258.949,
-        "y": 28.3593
+        "x": -290.033,
+        "y": 49.7812
       }
     },
     {
@@ -207,6 +199,14 @@
       "curve": {
         "x": -10.1411,
         "y": 340.876
+      }
+    },
+    {
+      "source": "computing",
+      "target": "interactive computing  ️",
+      "curve": {
+        "x": 176.133,
+        "y": 167.997
       }
     }
   ]

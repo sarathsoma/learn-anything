@@ -1,18 +1,20 @@
 {
   "title": "learn anything - programming - programming languages - c sharp",
+  "tag": "c# programming language",
+  "description": "",
   "nodes": [
     {
       "text": "c#",
       "url": "http://www.wikiwand.com/en/C_Sharp_(programming_language)",
       "fx": -84.88145913145684,
-      "fy": -97.73679260600528,
+      "fy": -107.91536403457673,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": -4.26357883319497,
-      "fy": 2.4154686007582313
+      "fx": -5.977864547480635,
+      "fy": -5.923817113527491
     },
     {
       "text": "basics",
@@ -40,7 +42,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/csharp/",
       "fx": 65.11854086854316,
-      "fy": -83.73679260600528,
+      "fy": -93.91536403457673,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "c#"
@@ -48,10 +50,19 @@
     {
       "text": "c# algorithms",
       "url": "https://github.com/aalhour/C-Sharp-Algorithms",
-      "fx": 132.73642116680503,
-      "fy": 13.915468600758231,
+      "fx": 131.02213545251936,
+      "fy": -14.423817113527491,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "c# language design",
+      "url": "https://github.com/dotnet/csharplang",
+      "fx": 131.02213545251936,
+      "fy": 25.57618288647251,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
@@ -88,15 +99,15 @@
       "target": "basics",
       "curve": {
         "x": -41.6897,
-        "y": 102.989
+        "y": 108.078
       }
     },
     {
       "source": "help",
       "target": "c#",
       "curve": {
-        "x": -25.8089,
-        "y": -48.8261
+        "x": -24.9518,
+        "y": -49.7457
       }
     },
     {

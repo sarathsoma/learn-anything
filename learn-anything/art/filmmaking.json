@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - filmmaking",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "filmmaking",
@@ -24,8 +26,14 @@
     {
       "text": "new movies  ️",
       "url": "/art/filmmaking/new-movies",
-      "fx": -430.2288641800642,
-      "fy": 76.55289215020366,
+      "fx": -472.7520575394392,
+      "fy": -1.471399841983839,
+      "category": "mindmap"
+    },
+    {
+      "text": "visual effects  ️",
+      "fx": -291.173920688773,
+      "fy": 83.58973714004173,
       "category": "mindmap"
     }
   ],
@@ -115,8 +123,16 @@
       "source": "basics",
       "target": "new movies  ️",
       "curve": {
-        "x": -106.343,
-        "y": 101.765
+        "x": -127.605,
+        "y": 62.7529
+      }
+    },
+    {
+      "source": "basics",
+      "target": "visual effects  ️",
+      "curve": {
+        "x": -34.816,
+        "y": 105.284
       }
     }
   ]

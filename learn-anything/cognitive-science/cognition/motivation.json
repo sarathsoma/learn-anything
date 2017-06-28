@@ -1,51 +1,71 @@
 {
   "title": "learn anything - cognitive science - cognition - motivation",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "motivation",
       "url": "http://www.wikiwand.com/en/Motivation",
-      "fx": 25.91529369354248,
+      "fx": 26.41529369354248,
       "fy": -228.4243403673172,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 160.86897274692365,
-      "fy": -124.07979773690187
+      "fx": 156.70100399692365,
+      "fy": -100.51641360624353
     },
     {
       "text": "basics",
       "note": "if you think this can be improved in any way ",
       "url": "",
       "fx": 15.101053537415964,
-      "fy": 8.825422477118991
+      "fy": 70.59104747711899
     }
   ],
   "subnodes": [
     {
       "text": "just do it",
       "url": "https://www.youtube.com/watch?v=5-sfG8BV8wU",
-      "fx": 297.86897274692365,
-      "fy": -132.57979773690187,
+      "fx": 293.70100399692365,
+      "fy": -149.01641360624353,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
+      "text": "Roy Jones",
+      "url": "https://www.youtube.com/watch?v=GoCOg8ZzUfg",
+      "fx": 293.70100399692365,
+      "fy": -109.01641360624353,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "Elon Musk incredible speech",
       "url": "https://www.youtube.com/watch?v=QygpaIJclm4",
-      "fx": 297.86897274692365,
-      "fy": -92.57979773690187,
+      "fx": 293.70100399692365,
+      "fy": -69.01641360624353,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "Steve Jobs commencement speech",
+      "url": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
+      "fx": 293.70100399692365,
+      "fy": -29.016413606243532,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. the science of motivation",
       "url": "https://www.youtube.com/watch?v=pZT-FZqfxZA",
       "fx": 197.10105353741596,
-      "fy": 0.3254224771189911,
+      "fy": 62.09104747711899,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -54,7 +74,7 @@
       "text": "1. the power of motivation",
       "url": "https://www.youtube.com/watch?v=9hdSLiHaJz8",
       "fx": 197.10105353741596,
-      "fy": 40.32542247711899,
+      "fy": 102.09104747711899,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -65,16 +85,16 @@
       "source": "motivation",
       "target": "basics",
       "curve": {
-        "x": -21.4071,
-        "y": 117.375
+        "x": -21.6571,
+        "y": 148.258
       }
     },
     {
       "source": "help",
       "target": "motivation",
       "curve": {
-        "x": -46.7269,
-        "y": -50.9222
+        "x": -44.3929,
+        "y": -62.7039
       }
     }
   ]

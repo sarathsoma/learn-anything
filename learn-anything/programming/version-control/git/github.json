@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - version control - git - github",
+  "tag": "GitHub",
+  "description": "",
   "nodes": [
     {
       "text": "GitHub",
@@ -23,9 +25,16 @@
     {
       "text": "open source  ️",
       "url": "/programming/software-development/open-source",
-      "fx": -52.029852078045906,
-      "fy": 281.8336522446066,
+      "fx": -188.58696414701149,
+      "fy": 274.64413177046856,
       "category": "mindmap"
+    },
+    {
+      "text": "market place",
+      "url": "https://github.com/marketplace/category/code-quality",
+      "fx": 54.16857215447169,
+      "fy": 275.4444021002712,
+      "category": "github"
     }
   ],
   "subnodes": [
@@ -87,8 +96,16 @@
       "source": "basics",
       "target": "open source  ️",
       "curve": {
-        "x": -1.06969,
-        "y": 70.8018
+        "x": -69.3482,
+        "y": 67.207
+      }
+    },
+    {
+      "source": "basics",
+      "target": "market place",
+      "curve": {
+        "x": 53.0295,
+        "y": 67.6072
       }
     }
   ]

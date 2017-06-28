@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "web development",
@@ -211,6 +213,15 @@
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
+    },
+    {
+      "text": "forum",
+      "url": "https://forum.freecodecamp.com/",
+      "fx": 934.1371415008277,
+      "fy": -466.3372472512891,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "1. freecodecamp"
     },
     {
       "text": "2. you don’t know js series",

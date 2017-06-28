@@ -1,5 +1,7 @@
 {
   "title": "learn anything - infrastructure - urban planning",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "urban planning",
@@ -17,6 +19,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/urbanplanning/",
+      "fx": 459.7890625,
+      "fy": -206.125,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "urban planning"
+    },
     {
       "text": "1. the city in history: its origins, its transformations, and its prospects",
       "url": "https://www.goodreads.com/book/show/544053.The_City_in_History?from_search=true",

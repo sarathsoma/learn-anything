@@ -1,11 +1,13 @@
 {
   "title": "learn anything - programming - programming languages - go",
+  "tag": "go programming language",
+  "description": "",
   "nodes": [
     {
       "text": "go",
       "url": "https://www.reddit.com/r/golang/",
-      "fx": 40.45751978661815,
-      "fy": -919.7139070018217,
+      "fx": -5.915834183507741,
+      "fy": -979.9248445018218,
       "category": "wiki"
     },
     {
@@ -28,32 +30,56 @@
       "fy": -67.9210399301412
     },
     {
-      "text": "go packages",
-      "url": "https://godoc.org/",
-      "fx": -418.3235951230904,
-      "fy": 134.68264831800116
+      "text": "go interfaces  ️",
+      "fx": -498.6679067460291,
+      "fy": 33.27207341269809,
+      "category": "mindmap"
+    },
+    {
+      "text": "go packages  ️",
+      "fx": -430.4104002106915,
+      "fy": 175.19627562033656,
+      "category": "mindmap"
     },
     {
       "text": "web",
       "url": "",
-      "fx": -204.66055204459371,
-      "fy": 138.13752933775118
+      "fx": -154.03544675483658,
+      "fy": 185.8998615760711
     },
     {
       "text": "talks",
       "url": "",
-      "fx": 693.2736621278398,
-      "fy": 452.1346908245257
+      "fx": 692.5286844492682,
+      "fy": 462.9633738602399
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/golang/",
-      "fx": 190.45751978661815,
-      "fy": -905.7139070018217,
+      "fx": 145.08416581649226,
+      "fy": -1005.9248445018218,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "go"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/golang/go",
+      "fx": 145.08416581649226,
+      "fy": -965.9248445018218,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "go"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/go",
+      "fx": 145.08416581649226,
+      "fy": -925.9248445018218,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "go"
     },
     {
@@ -383,61 +409,87 @@
       "text": "1. go tour",
       "url": "https://tour.golang.org/welcome/1",
       "fx": -77.21495715566141,
-      "fy": -113.4210399301412,
+      "fy": -130.4210399301412,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
-      "text": "2. the little go book",
+      "text": "1. the little go book",
       "url": "http://openmymind.net/The-Little-Go-Book/",
       "fx": -77.21495715566141,
-      "fy": -73.4210399301412,
+      "fy": -90.4210399301412,
       "category": "free book",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
     {
-      "text": "2. go programming language",
+      "text": "1. go programming language",
       "url": "https://www.goodreads.com/book/show/25080953-the-go-programming-language",
       "fx": -77.21495715566141,
-      "fy": -33.421039930141205,
+      "fy": -50.421039930141205,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
-      "text": "3. effective go",
+      "text": "2. effective go",
       "url": "https://golang.org/doc/effective_go.html",
       "fx": -77.21495715566141,
-      "fy": 6.578960069858795,
+      "fy": -10.421039930141205,
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. how to write go code",
+      "url": "https://golang.org/doc/code.html",
+      "fx": -77.21495715566141,
+      "fy": 23.578960069858795,
+      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     },
     {
       "text": "build web applications with golang",
       "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/en/",
-      "fx": -67.66055204459371,
-      "fy": 121.63752933775118,
+      "fx": -17.035446754836585,
+      "fy": 138.3998615760711,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "web"
     },
     {
+      "text": "web application secure coding practices in golang",
+      "url": "https://checkmarx.gitbooks.io/go-scp/",
+      "fx": -17.035446754836585,
+      "fy": 200.3998615760711,
+      "category": "free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "web"
+    },
+    {
       "text": "writing web applications",
       "url": "https://golang.org/doc/articles/wiki/",
-      "fx": -67.66055204459371,
-      "fy": 183.14152714048555,
+      "fx": -17.035446754836585,
+      "fy": 262.3998615760711,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "web"
     },
     {
       "text": "15: go proverbs - Rob Pike",
       "url": "https://www.youtube.com/watch?v=PAAkCSZUG1c&amp;feature=youtu.be",
-      "fx": 833.2736621278398,
-      "fy": 463.6346908245257,
+      "fx": 832.5286844492682,
+      "fy": 443.4633738602399,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
+      "text": "15: simplicity is complicated - Rob Pike",
+      "url": "https://www.youtube.com/watch?v=rFejpH_tAHM",
+      "fx": 832.5286844492682,
+      "fy": 483.4633738602399,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "talks"
     }
   ],
@@ -446,16 +498,16 @@
       "source": "help",
       "target": "go",
       "curve": {
-        "x": -93.8651,
-        "y": -132.316
+        "x": -117.052,
+        "y": -162.421
       }
     },
     {
       "source": "go",
       "target": "basics",
       "curve": {
-        "x": -141.337,
-        "y": 425.897
+        "x": -118.15,
+        "y": 456.002
       }
     },
     {
@@ -468,26 +520,34 @@
     },
     {
       "source": "basics",
-      "target": "go packages",
+      "target": "go packages  ️",
       "curve": {
-        "x": -64.5543,
-        "y": 101.302
+        "x": -76.9631,
+        "y": 112.353
       }
     },
     {
       "source": "basics",
       "target": "web",
       "curve": {
-        "x": 22.5272,
-        "y": 103.029
+        "x": 47.8397,
+        "y": 126.91
       }
     },
     {
       "source": "talks",
       "target": "articles",
       "curve": {
-        "x": -88.0495,
-        "y": -286.168
+        "x": -87.677,
+        "y": -291.582
+      }
+    },
+    {
+      "source": "basics",
+      "target": "go interfaces  ️",
+      "curve": {
+        "x": -111.476,
+        "y": 50.5966
       }
     }
   ]

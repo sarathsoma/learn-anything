@@ -1,5 +1,7 @@
 {
   "title": "learn anything - databases - graph databases - neo4j",
+  "tag": "Neo4j database",
+  "description": "",
   "nodes": [
     {
       "text": "Neo4j",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Neo4j/",
+      "fx": 240.2421875,
+      "fy": -273.88671875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "Neo4j"
+    },
     {
       "text": "awesome neo4j",
       "url": "https://github.com/neueda/awesome-neo4j",

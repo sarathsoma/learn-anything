@@ -1,5 +1,7 @@
 {
   "title": "learn anything - data science - big data - datasets",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "data sets",
@@ -15,7 +17,7 @@
       "text": "awesome public data sets",
       "url": "https://github.com/caesar0301/awesome-public-datasets",
       "fx": 155.66013437509537,
-      "fy": -205.75131607055664,
+      "fy": -262.75131607055664,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "data sets"
@@ -24,7 +26,7 @@
       "text": "awesome json datasets",
       "url": "https://github.com/jdorfman/awesome-json-datasets",
       "fx": 155.66013437509537,
-      "fy": -165.75131607055664,
+      "fy": -222.75131607055664,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "data sets"
@@ -33,16 +35,42 @@
       "text": "statistical computing datasets",
       "url": "http://stat-computing.org/dataexpo/2009/the-data.html",
       "fx": 155.66013437509537,
-      "fy": -125.75131607055664,
+      "fy": -182.75131607055664,
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "data sets"
+    },
+    {
+      "text": "more awesome datasets",
+      "url": "https://github.com/viisar/awesome-datasets",
+      "fx": 155.66013437509537,
+      "fy": -148.75131607055664,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
       "parent": "data sets"
     },
     {
       "text": "open source datasets",
       "url": "https://deepmind.com/research/open-source/open-source-datasets/",
       "fx": 155.66013437509537,
-      "fy": -91.75131607055664,
+      "fy": -108.75131607055664,
       "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "data sets"
+    },
+    {
+      "text": "awesome world",
+      "url": "https://github.com/planetopendata/awesome-world",
+      "fx": 155.66013437509537,
+      "fy": -74.75131607055664,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "data sets"
+    },
+    {
+      "text": "n-gram models",
+      "url": "https://research.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html",
+      "fx": 155.66013437509537,
+      "fy": -34.75131607055664,
+      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "data sets"
     }
   ],

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - games - board games - chess",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "chess",
@@ -18,7 +20,7 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -167.8789371997118,
+      "fx": -167.3789371997118,
       "fy": 5.008691787719727
     }
   ],
@@ -79,9 +81,17 @@
     {
       "text": "1. chess academy",
       "url": "https://www.chesscademy.com/",
-      "fx": 14.1210628002882,
-      "fy": 19.508691787719727,
+      "fx": 13.6210628002882,
+      "fy": 2.5086917877197266,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. lichess.org",
+      "url": "https://lichess.org/",
+      "fx": 13.6210628002882,
+      "fy": 36.50869178771973,
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -98,7 +108,7 @@
       "source": "chess",
       "target": "basics",
       "curve": {
-        "x": -11.75,
+        "x": -11.5,
         "y": 173.431
       }
     }

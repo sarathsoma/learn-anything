@@ -1,5 +1,7 @@
 {
   "title": "learn anything - software - tooling - productivity",
+  "tag": "productivity software",
+  "description": "",
   "nodes": [
     {
       "text": "productivity",
@@ -58,6 +60,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/programmingtools/",
+      "fx": 215.7752144811011,
+      "fy": -317.4179532078912,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "productivity"
+    },
     {
       "text": "awesome hyper",
       "url": "https://github.com/bnb/awesome-hyper",

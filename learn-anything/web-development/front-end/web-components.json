@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - front end - web components",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "web components",
@@ -22,11 +24,10 @@
       "fy": 33.34674064806728
     },
     {
-      "text": "polymer",
-      "url": "https://github.com/Polymer/polymer",
-      "fx": -121.29952330508468,
+      "text": "polymer library  ️",
+      "fx": -149.29952330508468,
       "fy": 156.04224046610182,
-      "category": "github"
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -46,15 +47,6 @@
       "fy": 47.84674064806728,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
-    },
-    {
-      "text": "awesome polymer",
-      "url": "https://github.com/Granze/awesome-polymer",
-      "fx": 78.70047669491532,
-      "fy": 173.04224046610182,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "polymer"
     }
   ],
   "connections": [
@@ -76,9 +68,9 @@
     },
     {
       "source": "basics",
-      "target": "polymer",
+      "target": "polymer library  ️",
       "curve": {
-        "x": -42.905,
+        "x": -56.905,
         "y": 61.3477
       }
     }

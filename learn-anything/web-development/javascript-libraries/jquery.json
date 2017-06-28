@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - javascript libraries - jquery",
+  "tag": "jQuery",
+  "description": "",
   "nodes": [
     {
       "text": "jQuery",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/jquery/",
+      "fx": 167.18387066997354,
+      "fy": -176.35314430048652,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "jQuery"
+    },
     {
       "text": "10 things I learned from the jQuery source",
       "url": "https://www.youtube.com/watch?v=i_qE1iAmjFg",

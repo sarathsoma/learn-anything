@@ -1,5 +1,7 @@
 {
   "title": "learn anything - medicine - specialties - psychiatry - mental disorders",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "mental disorders",
@@ -15,24 +17,36 @@
       "fy": -80.43921993304713
     },
     {
-      "text": "addiction  ️",
-      "url": "/medicine/specialties/psychiatry/mental-disorders/addiction",
-      "fx": 178.10279406821746,
-      "fy": 7.628243691180046,
+      "text": "schizophrenia  ️",
+      "fx": -292.760154282116,
+      "fy": 10.537665302266987,
       "category": "mindmap"
     },
     {
-      "text": "anxiety  ️",
-      "url": "/medicine/specialties/psychiatry/mental-disorders/anxiety",
-      "fx": -90.08270701476795,
-      "fy": 27.917721518987378,
+      "text": "addiction  ️",
+      "url": "/medicine/specialties/psychiatry/mental-disorders/addiction",
+      "fx": 215.63373466227677,
+      "fy": 39.62661930999195,
       "category": "mindmap"
     },
     {
       "text": "depression  ️",
       "url": "/medicine/specialties/psychiatry/mental-disorders/depression",
-      "fx": 62.78555590175279,
-      "fy": 117.98256528419574,
+      "fx": 151.61986902056458,
+      "fy": 149.98094090300754,
+      "category": "mindmap"
+    },
+    {
+      "text": "post traumatic stress disorder  ️",
+      "fx": -390.2199283928464,
+      "fy": 180.59410990618903,
+      "category": "mindmap"
+    },
+    {
+      "text": "anxiety  ️",
+      "url": "/medicine/specialties/psychiatry/mental-disorders/anxiety",
+      "fx": 6.388131475331079,
+      "fy": 211.37804020710632,
       "category": "mindmap"
     }
   ],
@@ -60,24 +74,40 @@
       "source": "basics",
       "target": "addiction  ️",
       "curve": {
-        "x": 85.1569,
-        "y": 45.2837
+        "x": 103.922,
+        "y": 61.2829
       }
     },
     {
       "source": "basics",
       "target": "depression  ️",
       "curve": {
-        "x": 18.2579,
-        "y": 100.461
+        "x": 62.6751,
+        "y": 116.46
       }
     },
     {
       "source": "basics",
       "target": "anxiety  ️",
       "curve": {
-        "x": -61.1858,
-        "y": 54.1785
+        "x": -12.9504,
+        "y": 145.909
+      }
+    },
+    {
+      "source": "basics",
+      "target": "post traumatic stress disorder  ️",
+      "curve": {
+        "x": -159.504,
+        "y": 130.517
+      }
+    },
+    {
+      "source": "basics",
+      "target": "schizophrenia  ️",
+      "curve": {
+        "x": -147.025,
+        "y": 45.4884
       }
     }
   ]

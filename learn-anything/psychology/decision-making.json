@@ -1,5 +1,7 @@
 {
   "title": "learn anything - psychology - decision making",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "decision making",
@@ -23,10 +25,16 @@
       "category": "wiki"
     },
     {
+      "text": "leadership  ️",
+      "fx": 68.943359375,
+      "fy": -56.8291015625,
+      "category": "mindmap"
+    },
+    {
       "text": "problem solving  ️",
       "url": "/psychology/decision-making/problem-solving",
-      "fx": 24.865102964131097,
-      "fy": -34.76250619898531,
+      "fx": -132.97408570046525,
+      "fy": 44.056399080517735,
       "category": "mindmap"
     }
   ],
@@ -71,8 +79,16 @@
       "source": "basics",
       "target": "problem solving  ️",
       "curve": {
-        "x": 62.7109,
-        "y": 80.6387
+        "x": -16.2087,
+        "y": 120.048
+      }
+    },
+    {
+      "source": "basics",
+      "target": "leadership  ️",
+      "curve": {
+        "x": 65.7501,
+        "y": 69.6054
       }
     }
   ]

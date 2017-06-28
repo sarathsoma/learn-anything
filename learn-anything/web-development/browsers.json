@@ -1,19 +1,27 @@
 {
   "title": "learn anything - web development - browsers",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "web browser",
       "note": "",
       "url": "http://www.wikiwand.com/en/Web_browser",
-      "fx": 100.15905743263625,
-      "fy": -291.5467811468709,
+      "fx": 112.77969162381282,
+      "fy": -487.50266349981206,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 690.236235119047,
-      "fy": -184.30691964285728
+      "fx": 300.6969428396351,
+      "fy": -376.9999343487396
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 158.1325827205867,
+      "fy": -276.2799862132355
     },
     {
       "text": "safari  ️",
@@ -37,11 +45,10 @@
       "category": "wiki"
     },
     {
-      "text": "firefox",
-      "url": "http://www.wikiwand.com/en/Firefox",
-      "fx": 210.53131064812715,
+      "text": "firefox  ️",
+      "fx": 211.53131064812715,
       "fy": -63.910092394017965,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "tor browser",
@@ -108,22 +115,22 @@
   ],
   "subnodes": [
     {
-      "text": "11: how browsers work: behind the scenes of modern web browsers",
-      "url": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
-      "fx": 371.15905743263625,
-      "fy": -299.5467811468709,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "web browser"
-    },
-    {
       "text": "awesome browser extensions and apps",
       "url": "https://github.com/vitalets/awesome-browser-extensions-and-apps",
-      "fx": 827.236235119047,
-      "fy": -183.80691964285728,
+      "fx": 437.6969428396351,
+      "fy": -376.4999343487396,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "1. how browsers work",
+      "url": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
+      "fx": 314.1325827205867,
+      "fy": -264.7799862132355,
+      "category": "free book",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "list of all headless web browsers",
@@ -136,46 +143,6 @@
     }
   ],
   "connections": [
-    {
-      "source": "web browser",
-      "target": "safari  ️",
-      "curve": {
-        "x": -246.888,
-        "y": 109.677
-      }
-    },
-    {
-      "source": "web browser",
-      "target": "google chrome  ️",
-      "curve": {
-        "x": -112.416,
-        "y": 111.424
-      }
-    },
-    {
-      "source": "web browser",
-      "target": "brave",
-      "curve": {
-        "x": -28.0937,
-        "y": 112.63
-      }
-    },
-    {
-      "source": "web browser",
-      "target": "firefox",
-      "curve": {
-        "x": 39.1861,
-        "y": 113.818
-      }
-    },
-    {
-      "source": "web browser",
-      "target": "tor browser",
-      "curve": {
-        "x": 110.452,
-        "y": 113.996
-      }
-    },
     {
       "source": "javascript engines",
       "target": "WebKit",
@@ -242,18 +209,10 @@
     },
     {
       "source": "Gecko",
-      "target": "firefox",
+      "target": "firefox  ️",
       "curve": {
-        "x": -84.4565,
+        "x": -83.9565,
         "y": -59.173
-      }
-    },
-    {
-      "source": "web browser",
-      "target": "microsoft edge",
-      "curve": {
-        "x": 205.241,
-        "y": 115.371
       }
     },
     {
@@ -273,11 +232,67 @@
       }
     },
     {
+      "source": "web browser",
+      "target": "basics",
+      "curve": {
+        "x": -6.07355,
+        "y": 104.361
+      }
+    },
+    {
       "source": "help",
       "target": "web browser",
       "curve": {
-        "x": -225.479,
-        "y": -11.6824
+        "x": -60.4586,
+        "y": -54.0014
+      }
+    },
+    {
+      "source": "basics",
+      "target": "safari  ️",
+      "curve": {
+        "x": -202.589,
+        "y": 104.544
+      }
+    },
+    {
+      "source": "basics",
+      "target": "google chrome  ️",
+      "curve": {
+        "x": -119.153,
+        "y": 105.041
+      }
+    },
+    {
+      "source": "basics",
+      "target": "brave",
+      "curve": {
+        "x": -34.8304,
+        "y": 106.247
+      }
+    },
+    {
+      "source": "basics",
+      "target": "firefox  ️",
+      "curve": {
+        "x": 32.9494,
+        "y": 107.435
+      }
+    },
+    {
+      "source": "basics",
+      "target": "tor browser",
+      "curve": {
+        "x": 103.716,
+        "y": 107.612
+      }
+    },
+    {
+      "source": "basics",
+      "target": "microsoft edge",
+      "curve": {
+        "x": 198.505,
+        "y": 108.988
       }
     }
   ]

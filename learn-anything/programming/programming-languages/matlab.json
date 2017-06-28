@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - matlab",
+  "tag": "matlab programming language",
+  "description": "",
   "nodes": [
     {
       "text": "matlab",
@@ -17,6 +19,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/matlab/",
+      "fx": 105.1015625,
+      "fy": -234.4609375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "matlab"
+    },
     {
       "text": "1. introduction to matlab programming",
       "url": "https://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/index.htm",

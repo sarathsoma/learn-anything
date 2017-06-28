@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - processing",
+  "tag": "processing programming language",
+  "description": "",
   "nodes": [
     {
       "text": "processing",
@@ -15,19 +17,34 @@
       "fy": -342.3173602560292
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 241.2660840321746,
+      "fy": -223.6041482185725
+    },
+    {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -137.1550968004309,
-      "fy": -234.194886920368
+      "fx": -176.0730655504309,
+      "fy": -125.12066817036799
     }
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
+      "url": "https://www.reddit.com/r/processing/",
+      "fx": 56.30942153930664,
+      "fy": -452.9271697998047,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "processing"
+    },
+    {
+      "text": "",
       "url": "https://github.com/processing/processing",
       "fx": 56.30942153930664,
-      "fy": -432.9271697998047,
+      "fy": -412.9271697998047,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "processing"
@@ -41,10 +58,28 @@
       "parent": "help"
     },
     {
+      "text": "orbiting dots to Mona Lisa",
+      "url": "http://imgur.com/a/BipBX",
+      "fx": 432.2660840321746,
+      "fy": -232.1041482185725,
+      "category": "image",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "open processing",
+      "url": "https://www.openprocessing.org/",
+      "fx": 432.2660840321746,
+      "fy": -192.1041482185725,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "1. video tutorials",
       "url": "https://processing.org/tutorials/",
-      "fx": 44.8449031995691,
-      "fy": -239.694886920368,
+      "fx": 5.926934449569103,
+      "fy": -130.620668170368,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -52,8 +87,8 @@
     {
       "text": "1. processing tutorials",
       "url": "https://processing.org/tutorials/",
-      "fx": 44.8449031995691,
-      "fy": -199.694886920368,
+      "fx": 5.926934449569103,
+      "fy": -90.62066817036799,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
@@ -63,8 +98,8 @@
       "source": "processing",
       "target": "basics",
       "curve": {
-        "x": -1.23226,
-        "y": 105.116
+        "x": -20.6912,
+        "y": 159.653
       }
     },
     {
@@ -73,6 +108,14 @@
       "curve": {
         "x": -58.5765,
         "y": -51.0549
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -149.655,
+        "y": -40.2133
       }
     }
   ]

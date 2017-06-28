@@ -1,5 +1,7 @@
 {
   "title": "learn anything - software - tooling - productivity - alfred",
+  "tag": "alfred macOS launcher",
+  "description": "",
   "nodes": [
     {
       "text": "alfred",
@@ -43,11 +45,20 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/Alfred/",
+      "fx": 1.0287395670316073,
+      "fy": -370.9950749054513,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "alfred"
+    },
+    {
       "text": "powerpack",
       "note": "need power pack to create and use other people’s workflows   costs 19 £",
       "url": "https://www.alfredapp.com/powerpack/",
       "fx": 1.0287395670316073,
-      "fy": -350.9950749054513,
+      "fy": -330.9950749054513,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "alfred"
     },

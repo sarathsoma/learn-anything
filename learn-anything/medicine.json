@@ -1,5 +1,7 @@
 {
   "title": "learn anything - medicine",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "medicine",
@@ -35,6 +37,13 @@
       "fx": -594.6828296779792,
       "fy": 95.44218198622957,
       "category": "mindmap"
+    },
+    {
+      "text": "physiatry",
+      "url": "http://www.wikiwand.com/en/Physical_medicine_and_rehabilitation",
+      "fx": -768.4473791787792,
+      "fy": 95.46511627906978,
+      "category": "wiki"
     },
     {
       "text": "specialties  ️",
@@ -130,6 +139,14 @@
       "curve": {
         "x": -263.32,
         "y": 90.0608
+      }
+    },
+    {
+      "source": "basics",
+      "target": "physiatry",
+      "curve": {
+        "x": -334.631,
+        "y": 75.9959
       }
     }
   ]

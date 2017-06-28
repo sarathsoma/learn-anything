@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - concurrency",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "concurrency",
@@ -14,6 +16,12 @@
       "url": "",
       "fx": -243.68359375,
       "fy": -192.90625
+    },
+    {
+      "text": "process calculus  ️",
+      "fx": -387.4966063348411,
+      "fy": -35.16911764705236,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -34,6 +42,14 @@
       "curve": {
         "x": -5.33789,
         "y": 63.9629
+      }
+    },
+    {
+      "source": "basics",
+      "target": "process calculus  ️",
+      "curve": {
+        "x": -55.1565,
+        "y": 78.8686
       }
     }
   ]

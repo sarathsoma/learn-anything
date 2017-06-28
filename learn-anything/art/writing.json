@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - writing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "writing",
@@ -16,15 +18,21 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 56.81357138904161,
-      "fy": -200.53129492233046
+      "fx": 53.68857138904161,
+      "fy": -198.63188085983046
     },
     {
       "text": "basics",
       "note": "- if you think this can be improved in any way",
       "url": "",
-      "fx": -89.46602922885631,
-      "fy": -78.9294931591624
+      "fx": -116.61934954135643,
+      "fy": -40.540821284162405
+    },
+    {
+      "text": "creative writing  ️",
+      "fx": -243.84814453125,
+      "fy": 95.16308593749989,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -58,8 +66,8 @@
     {
       "text": "05: writing briefly  ️",
       "url": "http://paulgraham.com/writing44.html",
-      "fx": 218.8135713890416,
-      "fy": -209.03129492233046,
+      "fx": 215.6885713890416,
+      "fy": -238.13188085983046,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -67,17 +75,26 @@
     {
       "text": "17: writing in 21st century  ️",
       "url": "https://www.edge.org/conversation/writing-in-the-21st-century",
-      "fx": 218.8135713890416,
-      "fy": -169.03129492233046,
+      "fx": 215.6885713890416,
+      "fy": -198.13188085983046,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "17: guide to clearer thinking through essay writing  ️",
+      "url": "https://medium.com/@immeasurablematt/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937",
+      "fx": 215.6885713890416,
+      "fy": -158.13188085983046,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
       "text": "1. write like you talk  ️",
       "url": "http://paulgraham.com/talk.html",
-      "fx": 92.53397077114369,
-      "fy": -98.4294931591624,
+      "fx": 65.38065045864357,
+      "fy": -60.040821284162405,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -85,8 +102,8 @@
     {
       "text": "1. on writing: a memoir of the craft",
       "url": "https://www.goodreads.com/book/show/10569.On_Writing",
-      "fx": 92.53397077114369,
-      "fy": -58.429493159162405,
+      "fx": 65.38065045864357,
+      "fy": -20.040821284162405,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -97,8 +114,8 @@
       "source": "writing",
       "target": "basics",
       "curve": {
-        "x": -2.70814,
-        "y": 167.642
+        "x": -16.2848,
+        "y": 186.836
       }
     },
     {
@@ -113,8 +130,16 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -24.2786,
-        "y": -53.0561
+        "x": -22.7161,
+        "y": -54.0058
+      }
+    },
+    {
+      "source": "basics",
+      "target": "creative writing  ️",
+      "curve": {
+        "x": -50.8644,
+        "y": 67.852
       }
     }
   ]

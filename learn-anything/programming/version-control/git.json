@@ -1,24 +1,26 @@
 {
   "title": "learn anything - programming - version control - git",
+  "tag": "git version control",
+  "description": "",
   "nodes": [
     {
       "text": "git",
       "url": "http://www.wikiwand.com/en/Git",
-      "fx": -66.39780464385478,
-      "fy": -244.53175192039103,
+      "fx": -67.14801979064941,
+      "fy": -245.26853942871094,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 19.5722825354037,
-      "fy": -64.47699884995404
+      "fx": 16.22855567932129,
+      "fy": -67.30604553222656
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 232.51490655274483,
-      "fy": 295.3990648688658
+      "fx": 238.88713621427223,
+      "fy": 341.1544070110641
     },
     {
       "text": "basics",
@@ -45,8 +47,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/git/",
-      "fx": 82.60219535614522,
-      "fy": -230.53175192039103,
+      "fx": 81.85198020935059,
+      "fy": -231.26853942871094,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "git"
@@ -54,8 +56,8 @@
     {
       "text": "git internals",
       "url": "https://github.com/pluralsight/git-internals-pdf",
-      "fx": 156.5722825354037,
-      "fy": -203.97699884995404,
+      "fx": 153.2285556793213,
+      "fy": -206.80604553222656,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -63,8 +65,8 @@
     {
       "text": "git cheat sheet",
       "url": "https://github.com/arslanbilal/git-cheat-sheet",
-      "fx": 156.5722825354037,
-      "fy": -163.97699884995404,
+      "fx": 153.2285556793213,
+      "fy": -166.80604553222656,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -72,8 +74,8 @@
     {
       "text": "common git tips and tricks",
       "url": "https://github.com/git-tips/tips",
-      "fx": 156.5722825354037,
-      "fy": -123.97699884995404,
+      "fx": 153.2285556793213,
+      "fy": -126.80604553222656,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -81,24 +83,24 @@
     {
       "text": "awesome git addons",
       "url": "https://github.com/stevemao/awesome-git-addons",
-      "fx": 156.5722825354037,
-      "fy": -83.97699884995404,
+      "fx": 153.2285556793213,
+      "fy": -86.80604553222656,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "git tips and tricks from CIA",
       "url": "https://wikileaks.org/ciav7p1/cms/page_1179773.html",
-      "fx": 156.5722825354037,
-      "fy": -49.97699884995404,
+      "fx": 153.2285556793213,
+      "fy": -52.80604553222656,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "git is hard",
       "url": "https://github.com/Nezteb/Git_Is_Hard",
-      "fx": 156.5722825354037,
-      "fy": -15.976998849954043,
+      "fx": 153.2285556793213,
+      "fy": -18.806045532226562,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -106,8 +108,8 @@
     {
       "text": "gitignore",
       "url": "https://github.com/github/gitignore",
-      "fx": 156.5722825354037,
-      "fy": 24.023001150045957,
+      "fx": 153.2285556793213,
+      "fy": 21.193954467773438,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -115,16 +117,16 @@
     {
       "text": "become a git guru",
       "url": "https://www.atlassian.com/git/tutorials",
-      "fx": 156.5722825354037,
-      "fy": 64.02300115004596,
+      "fx": 153.2285556793213,
+      "fy": 61.19395446777344,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "git commit style guide",
       "url": "https://github.com/slashsBin/styleguide-git-commit-message",
-      "fx": 156.5722825354037,
-      "fy": 98.02300115004596,
+      "fx": 153.2285556793213,
+      "fy": 95.19395446777344,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -132,8 +134,8 @@
     {
       "text": "oh shit, git  ️",
       "url": "http://ohshitgit.com/",
-      "fx": 394.51490655274483,
-      "fy": 133.89906486886582,
+      "fx": 400.88713621427223,
+      "fy": 148.6544070110641,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "articles"
@@ -141,8 +143,8 @@
     {
       "text": "better git configuration  ️",
       "url": "https://blog.scottnonnenberg.com/better-git-configuration/",
-      "fx": 394.51490655274483,
-      "fy": 173.89906486886582,
+      "fx": 400.88713621427223,
+      "fy": 188.6544070110641,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -150,17 +152,26 @@
     {
       "text": "08: a note about git commit messages  ️",
       "url": "http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html",
-      "fx": 394.51490655274483,
-      "fy": 213.89906486886582,
+      "fx": 400.88713621427223,
+      "fy": 228.6544070110641,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "12: repository integrity with signed commits  ️",
+      "url": "https://mikegerwitz.com/papers/git-horror-story",
+      "fx": 400.88713621427223,
+      "fy": 290.6544070110641,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
       "text": "13: keep your commits atomic  ️",
       "url": "https://www.freshconsulting.com/atomic-commits/",
-      "fx": 394.51490655274483,
-      "fy": 275.8990648688658,
+      "fx": 400.88713621427223,
+      "fy": 352.6544070110641,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -168,8 +179,8 @@
     {
       "text": "14: how to write a git commit message  ️",
       "url": "https://chris.beams.io/posts/git-commit/",
-      "fx": 394.51490655274483,
-      "fy": 315.8990648688658,
+      "fx": 400.88713621427223,
+      "fy": 392.6544070110641,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -177,8 +188,8 @@
     {
       "text": "14: reinventing git interface  ️",
       "url": "http://tonsky.me/blog/reinventing-git-interface/",
-      "fx": 394.51490655274483,
-      "fy": 377.8990648688658,
+      "fx": 400.88713621427223,
+      "fy": 454.6544070110641,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -186,8 +197,8 @@
     {
       "text": "17: little things i like to do with git  ️",
       "url": "https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/",
-      "fx": 394.51490655274483,
-      "fy": 417.8990648688658,
+      "fx": 400.88713621427223,
+      "fy": 494.6544070110641,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
@@ -195,8 +206,8 @@
     {
       "text": "17: closer look at git rebase  ️",
       "url": "https://dev.to/gonedark/a-closer-look-at-git-rebase",
-      "fx": 394.51490655274483,
-      "fy": 479.8990648688658,
+      "fx": 400.88713621427223,
+      "fy": 556.6544070110641,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -258,24 +269,24 @@
       "source": "git",
       "target": "basics",
       "curve": {
-        "x": -42.6402,
-        "y": 380.405
+        "x": -42.2651,
+        "y": 380.773
       }
     },
     {
       "source": "help",
       "target": "git",
       "curve": {
-        "x": -39.9851,
-        "y": -88.777
+        "x": -38.6883,
+        "y": -87.7309
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -145.508,
-        "y": -167.889
+        "x": -150.366,
+        "y": -192.181
       }
     },
     {

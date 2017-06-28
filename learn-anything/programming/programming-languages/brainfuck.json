@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - brainfuck",
+  "tag": "brainfuck programming language",
+  "description": "",
   "nodes": [
     {
       "text": "brainfuck",
@@ -28,6 +30,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/brainfuck/",
+      "fx": 140.51953125,
+      "fy": -212.48828125,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "brainfuck"
+    },
     {
       "text": "written in C",
       "url": "https://github.com/fabianishere/brainfuck",

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - front end - css - styled components",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "styled components",
@@ -9,18 +11,33 @@
       "category": "github"
     },
     {
+      "text": "help",
+      "url": "",
+      "fx": 70.90387806139495,
+      "fy": -25.586674044006713
+    },
+    {
       "text": "basics",
       "url": "",
       "fx": -50.6679996997118,
-      "fy": 53.86679267883301
+      "fy": 90.0150245867278
     }
   ],
   "subnodes": [
     {
+      "text": "awesome styled components",
+      "url": "https://github.com/romellogood/awesome-styled-components",
+      "fx": 207.90387806139495,
+      "fy": -14.086674044006713,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "1. basics",
       "url": "https://www.styled-components.com/docs/basics#motivation",
       "fx": 105.3320003002882,
-      "fy": 37.36679267883301,
+      "fy": 73.5150245867278,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
@@ -28,7 +45,7 @@
       "text": "1. styling react apps with styled components",
       "url": "https://www.youtube.com/watch?v=qu4U7lwZTRI",
       "fx": 105.3320003002882,
-      "fy": 71.36679267883301,
+      "fy": 107.5150245867278,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -40,7 +57,15 @@
       "target": "basics",
       "curve": {
         "x": -2.084,
-        "y": 92.8373
+        "y": 110.911
+      }
+    },
+    {
+      "source": "help",
+      "target": "styled components",
+      "curve": {
+        "x": -53.9519,
+        "y": -53.1105
       }
     }
   ]

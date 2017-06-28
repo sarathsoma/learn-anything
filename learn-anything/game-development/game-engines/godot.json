@@ -1,5 +1,7 @@
 {
   "title": "learn anything - game development - game engines - godot",
+  "tag": "godot game engine",
+  "description": "",
   "nodes": [
     {
       "text": "godot",
@@ -16,6 +18,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/godot/",
+      "fx": 124.57421875,
+      "fy": -354.69921875,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "godot"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/godotengine/godot",
+      "fx": 124.57421875,
+      "fy": -314.69921875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "godot"
+    },
     {
       "text": "awesome godot",
       "url": "https://github.com/Calinou/awesome-godot",

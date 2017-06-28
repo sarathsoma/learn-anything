@@ -1,11 +1,13 @@
 {
   "title": "learn anything - machine learning - machine learning libraries - tensorflow",
+  "tag": "tensorflow library",
+  "description": "",
   "nodes": [
     {
       "text": "tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "fx": -74.00390625,
-      "fy": -87.671875,
+      "fy": -105.31155303030303,
       "category": "github"
     },
     {
@@ -17,8 +19,8 @@
     {
       "text": "implementations",
       "url": "",
-      "fx": 112.01362753008289,
-      "fy": 243.6362766769069
+      "fx": 128.995161620992,
+      "fy": 246.08656076781602
     },
     {
       "text": "articles",
@@ -31,7 +33,7 @@
       "note": "",
       "url": "",
       "fx": -93.00265921659252,
-      "fy": 453.19335258677484
+      "fy": 460.48738667768396
     },
     {
       "text": "interesting",
@@ -41,6 +43,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/tensorflow/",
+      "fx": 146.99609375,
+      "fy": -91.31155303030303,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tensorflow"
+    },
     {
       "text": "awesome tensorflow",
       "url": "https://github.com/jtoy/awesome-tensorflow",
@@ -90,8 +101,8 @@
     {
       "text": "DeepSearch",
       "url": "https://github.com/mozilla/DeepSpeech",
-      "fx": 359.0136275300829,
-      "fy": 215.1362766769069,
+      "fx": 375.995161620992,
+      "fy": 197.58656076781602,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "implementations"
@@ -99,8 +110,8 @@
     {
       "text": "models built with TensorFlow",
       "url": "https://github.com/tensorflow/models",
-      "fx": 359.0136275300829,
-      "fy": 255.1362766769069,
+      "fx": 375.995161620992,
+      "fy": 237.58656076781602,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "implementations"
@@ -108,10 +119,19 @@
     {
       "text": "ebgan",
       "url": "https://github.com/buriburisuri/ebgan",
-      "fx": 359.0136275300829,
-      "fy": 295.1362766769069,
+      "fx": 375.995161620992,
+      "fy": 277.586560767816,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "implementations"
+    },
+    {
+      "text": "transformer",
+      "url": "https://github.com/Kyubyong/transformer",
+      "fx": 375.995161620992,
+      "fy": 317.586560767816,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "implementations"
     },
     {
@@ -142,10 +162,19 @@
       "parent": "articles"
     },
     {
+      "text": "1. TensorFlow world",
+      "url": "https://github.com/astorfi/TensorFlow-World",
+      "fx": 88.99734078340748,
+      "fy": 392.98738667768396,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. get started with tensorflow",
       "url": "https://www.tensorflow.org/get_started/get_started",
       "fx": 88.99734078340748,
-      "fy": 405.69335258677484,
+      "fy": 432.98738667768396,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -153,7 +182,7 @@
       "text": "1. tensorflow examples for beginners",
       "url": "https://github.com/aymericdamien/TensorFlow-Examples",
       "fx": 88.99734078340748,
-      "fy": 439.69335258677484,
+      "fy": 466.98738667768396,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -162,7 +191,7 @@
       "text": "1. Tensorflow and deep learning - without a PhD by Martin Görner",
       "url": "https://www.youtube.com/watch?v=vq2nnJ4g6N0",
       "fx": 88.99734078340748,
-      "fy": 501.69335258677484,
+      "fy": 528.987386677684,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -183,7 +212,7 @@
       "target": "tensorflow",
       "curve": {
         "x": -55.8175,
-        "y": -64.2011
+        "y": -73.0209
       }
     },
     {
@@ -191,23 +220,23 @@
       "target": "basics",
       "curve": {
         "x": -18.7494,
-        "y": 270.431
+        "y": 282.898
       }
     },
     {
       "source": "implementations",
       "target": "help",
       "curve": {
-        "x": -49.9412,
-        "y": -101.453
+        "x": -81.7842,
+        "y": -93.8311
       }
     },
     {
       "source": "articles",
       "target": "implementations",
       "curve": {
-        "x": -198.457,
-        "y": -40.2281
+        "x": -189.966,
+        "y": -39.003
       }
     },
     {

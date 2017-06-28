@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - type theory - dependent type theory",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "dependent type theory",
@@ -16,6 +18,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/dependent_types/",
+      "fx": 500.89453125,
+      "fy": -192.48046875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "dependent type theory"
+    },
     {
       "text": "1. introduction to dependent type theory",
       "url": "https://www.youtube.com/watch?v=y-lX1mx5_i0&amp;list=PLt7hcIEdZLAnbUxKaG7XIynEWrozOBtXU",

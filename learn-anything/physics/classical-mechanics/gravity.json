@@ -1,18 +1,20 @@
 {
   "title": "learn anything - physics - classical mechanics - gravity",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "gravity",
       "url": "http://www.wikiwand.com/en/Gravity",
-      "fx": 43.84375,
-      "fy": -131.96875,
+      "fx": 42.88681220095691,
+      "fy": -155.02683911483254,
       "category": "wiki"
     },
     {
-      "text": "help",
+      "text": "interesting",
       "url": "",
-      "fx": 172.79295047960784,
-      "fy": -40.83914949449047
+      "fx": 156.2707465322394,
+      "fy": -42.29324638444268
     },
     {
       "text": "basics",
@@ -23,13 +25,13 @@
   ],
   "subnodes": [
     {
-      "text": "interesting questions on gravity",
+      "text": "askscience: gravity",
       "url": "https://www.reddit.com/r/askscience/search?q=gravity&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
-      "fx": 309.79295047960784,
-      "fy": -29.33914949449047,
+      "fx": 347.2707465322394,
+      "fy": -30.793246384442682,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "interesting"
     },
     {
       "text": "1. what is gravity",
@@ -55,16 +57,16 @@
       "source": "gravity",
       "target": "basics",
       "curve": {
-        "x": -4.31493,
-        "y": 92.4878
+        "x": -3.83646,
+        "y": 104.017
       }
     },
     {
-      "source": "help",
+      "source": "interesting",
       "target": "gravity",
       "curve": {
-        "x": -52.2246,
-        "y": -44.3148
+        "x": -44.442,
+        "y": -55.1168
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - security - virtual private networks",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "virtual private network",
@@ -17,15 +19,21 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 226.07475790711578,
-      "fy": -14.549880830247162
+      "fx": 248.73687360075883,
+      "fy": -16.141129110946167
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 384.71330749096524,
+      "fy": 100.05653833532006
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 83.23514920652633,
-      "fy": 99.67073363206134
+      "fx": -7.57054807238535,
+      "fy": 236.70038924430628
     }
   ],
   "subnodes": [
@@ -49,17 +57,25 @@
     {
       "text": "17: which vpn services keep you anonymous in 2017?  ️",
       "url": "https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/",
-      "fx": 388.0747579071158,
-      "fy": -14.049880830247162,
+      "fx": 410.7368736007588,
+      "fy": -15.641129110946167,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "goSecure",
+      "url": "https://iadgov.github.io/goSecure/documentation.html",
+      "fx": 526.7133074909652,
+      "fy": 114.55653833532006,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
       "text": "1. how to set up a VPN in 10 minutes for free and why you need one  ️",
       "url": "https://medium.freecodecamp.com/how-to-set-up-a-vpn-in-5-minutes-for-free-and-why-you-urgently-need-one-d5cdba361907",
-      "fx": 265.23514920652633,
-      "fy": 89.17073363206134,
+      "fx": 174.42945192761465,
+      "fy": 226.20038924430628,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -78,16 +94,24 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -36.6679,
-        "y": -68.4752
+        "x": -47.999,
+        "y": -67.6796
       }
     },
     {
       "source": "virtual private network",
       "target": "basics",
       "curve": {
-        "x": -6.74766,
-        "y": 187.158
+        "x": -52.1505,
+        "y": 255.673
+      }
+    },
+    {
+      "source": "tools",
+      "target": "articles",
+      "curve": {
+        "x": -62.9882,
+        "y": -58.0988
       }
     }
   ]

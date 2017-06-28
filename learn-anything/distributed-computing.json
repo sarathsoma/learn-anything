@@ -1,5 +1,7 @@
 {
   "title": "learn anything - distributed computing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "distributed computing",
@@ -65,6 +67,15 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/DistributedComputing/",
+      "fx": 129.0507812500001,
+      "fy": -425.3108618951612,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "distributed computing"
+    },
+    {
       "text": "high scalability blog",
       "url": "http://highscalability.com/",
       "fx": 137.57267769960185,
@@ -82,21 +93,13 @@
       "parent": "tools"
     },
     {
-      "text": "",
-      "url": "",
-      "fx": 419.4711277173915,
-      "fy": -115.1033457880435,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
       "text": "15: scalability! but at what cost?  ️",
       "url": "http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html",
-      "fx": 529.4711277173915,
+      "fx": 419.4711277173915,
       "fy": -118.1033457880435,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": ""
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
     },
     {
       "text": "1. distributed computer systems engineering",

@@ -1,11 +1,13 @@
 {
   "title": "learn anything - programming",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
-      "text": "computer programming",
+      "text": "programming",
       "note": "",
       "url": "http://www.wikiwand.com/en/Computer_programming",
-      "fx": 322.37282789075743,
+      "fx": 369.37282789075743,
       "fy": -688.5762595537226,
       "category": "wiki"
     },
@@ -94,28 +96,40 @@
     {
       "text": "design patterns  ️",
       "url": "/programming/design-patterns",
-      "fx": -1096.862480957675,
-      "fy": 403.30009709253864,
+      "fx": -1095.383056640625,
+      "fy": 403.30010986328125,
+      "category": "mindmap"
+    },
+    {
+      "text": "markup languages  ️",
+      "fx": -1728.074595668844,
+      "fy": 405.7163628472222,
       "category": "mindmap"
     },
     {
       "text": "dynamic programming  ️",
       "url": "/programming/dynamic-programming",
-      "fx": -1481.7055917749285,
-      "fy": 405.78929750566454,
+      "fx": -1479.6054077148438,
+      "fy": 405.7892761230469,
+      "category": "mindmap"
+    },
+    {
+      "text": "mobile applications development  ️",
+      "fx": -1978.5415590935172,
+      "fy": 394.06681203031303,
       "category": "mindmap"
     },
     {
       "text": "API  ️",
       "url": "/programming/api",
-      "fx": -1204.3439217032965,
-      "fy": 406.6817479395604,
+      "fx": -1201.5083923339844,
+      "fy": 406.6817626953125,
       "category": "mindmap"
     },
     {
       "text": "programming language design  ️",
       "url": "/programming/programming-language-design",
-      "fx": -54.258946309846124,
+      "fx": 40.60662238384748,
       "fy": 506.95995304136227,
       "category": "mindmap"
     },
@@ -138,20 +152,29 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/programming/",
-      "fx": 689.3728278907574,
-      "fy": -674.5762595537226,
+      "fx": 642.3728278907574,
+      "fy": -694.5762595537226,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "computer programming"
+      "parent": "programming"
     },
     {
       "text": "wiki",
       "url": "https://www.reddit.com/r/learnprogramming/wiki/faq",
-      "fx": 799.3728278907574,
-      "fy": -674.5762595537226,
+      "fx": 752.3728278907574,
+      "fy": -694.5762595537226,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": ""
+    },
+    {
+      "text": "learn programming",
+      "url": "https://www.reddit.com/r/learnprogramming/",
+      "fx": 642.3728278907574,
+      "fy": -654.5762595537226,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "programming"
     },
     {
       "text": "project based learning",
@@ -435,15 +458,15 @@
       "source": "programming languages  ️",
       "target": "programming language design  ️",
       "curve": {
-        "x": -0.780436,
+        "x": 46.6523,
         "y": 52.7611
       }
     },
     {
       "source": "help",
-      "target": "computer programming",
+      "target": "programming",
       "curve": {
-        "x": -213.451,
+        "x": -189.951,
         "y": -106.358
       }
     },
@@ -456,10 +479,10 @@
       }
     },
     {
-      "source": "computer programming",
+      "source": "programming",
       "target": "basics",
       "curve": {
-        "x": -45.327,
+        "x": -68.827,
         "y": 257.309
       }
     },
@@ -467,7 +490,7 @@
       "source": "basics",
       "target": "design patterns  ️",
       "curve": {
-        "x": -689.04,
+        "x": -688.3,
         "y": 288.629
       }
     },
@@ -539,7 +562,7 @@
       "source": "basics",
       "target": "API  ️",
       "curve": {
-        "x": -917.933,
+        "x": -916.515,
         "y": 243.199
       }
     },
@@ -547,7 +570,7 @@
       "source": "basics",
       "target": "dynamic programming  ️",
       "curve": {
-        "x": -1160.1,
+        "x": -1159.05,
         "y": 277.644
       }
     },
@@ -573,6 +596,22 @@
       "curve": {
         "x": 89.0269,
         "y": 72.7582
+      }
+    },
+    {
+      "source": "basics",
+      "target": "markup languages  ️",
+      "curve": {
+        "x": -1163.85,
+        "y": 180.628
+      }
+    },
+    {
+      "source": "basics",
+      "target": "mobile applications development  ️",
+      "curve": {
+        "x": -1343.67,
+        "y": 195.85
       }
     }
   ]

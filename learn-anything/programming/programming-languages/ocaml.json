@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - ocaml",
+  "tag": "OCaml programming language",
+  "description": "",
   "nodes": [
     {
       "text": "OCaml",
@@ -35,6 +37,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/ocaml/",
+      "fx": 136.28097438812256,
+      "fy": -53.22029983997345,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "OCaml"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/ocaml/ocaml",
+      "fx": 136.28097438812256,
+      "fy": -13.22029983997345,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "OCaml"
+    },
     {
       "text": "awesome ocaml",
       "url": "https://github.com/rizo/awesome-ocaml",

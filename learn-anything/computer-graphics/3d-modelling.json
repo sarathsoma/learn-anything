@@ -1,13 +1,21 @@
 {
   "title": "learn anything - computer graphics - 3d modelling",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "3d modelling",
       "note": "",
       "url": "http://www.wikiwand.com/en/3D_modeling",
-      "fx": -95.73046875,
-      "fy": -337.18359375,
+      "fx": -62.47747672872333,
+      "fy": -420.5496176861701,
       "category": "wiki"
+    },
+    {
+      "text": "texture mapping  ️",
+      "fx": 85.36170212766001,
+      "fy": -253.37965425531928,
+      "category": "mindmap"
     },
     {
       "text": "software",
@@ -16,29 +24,75 @@
       "fy": -211.65438033873778
     },
     {
+      "text": "autodesk 3DS  ️",
+      "fx": -187.86188674991968,
+      "fy": -94.34090518951416,
+      "category": "mindmap"
+    },
+    {
+      "text": "cinema 4D  ️",
+      "fx": -373.80771178719937,
+      "fy": -93.92256090340732,
+      "category": "mindmap"
+    },
+    {
       "text": "blender  ️",
       "url": "/computer-graphics/3d-modelling/blender",
-      "fx": -128.59863794855335,
-      "fy": -96.88598715540843,
+      "fx": 27.939558029174805,
+      "fy": -92.74507427215576,
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/3Dmodeling/",
+      "fx": 207.52252327127667,
+      "fy": -406.5496176861701,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "3d modelling"
+    }
+  ],
   "connections": [
     {
       "source": "3d modelling",
       "target": "software",
       "curve": {
-        "x": -27.9421,
-        "y": 61.5146
+        "x": -44.5686,
+        "y": 103.198
       }
     },
     {
       "source": "software",
       "target": "blender  ️",
       "curve": {
-        "x": -7.99203,
-        "y": 57.3842
+        "x": 70.2771,
+        "y": 59.4547
+      }
+    },
+    {
+      "source": "software",
+      "target": "autodesk 3DS  ️",
+      "curve": {
+        "x": -23.6237,
+        "y": 58.6568
+      }
+    },
+    {
+      "source": "software",
+      "target": "cinema 4D  ️",
+      "curve": {
+        "x": -132.458,
+        "y": 42.7495
+      }
+    },
+    {
+      "source": "3d modelling",
+      "target": "texture mapping  ️",
+      "curve": {
+        "x": 67.9196,
+        "y": 82.335
       }
     }
   ]

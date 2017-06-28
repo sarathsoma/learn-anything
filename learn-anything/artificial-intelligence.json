@@ -1,5 +1,7 @@
 {
   "title": "learn anything - artificial intelligence",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "artificial intelligence",
@@ -17,8 +19,8 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 466.1405711670975,
-      "fy": -110.8872133397931
+      "fx": 434.1293532183797,
+      "fy": -89.98376782697255
     },
     {
       "text": "basics",
@@ -37,8 +39,8 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 614.0763215977604,
-      "fy": 126.23965062446143
+      "fx": 597.1826250165636,
+      "fy": 136.00527562446143
     },
     {
       "text": "general artificial intelligence  ️",
@@ -109,8 +111,8 @@
     {
       "text": "15: the AI revolution: the road to superintelligence  ️",
       "url": "http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
-      "fx": 628.1405711670975,
-      "fy": -212.3872133397931,
+      "fx": 596.1293532183797,
+      "fy": -191.48376782697255,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
@@ -118,8 +120,8 @@
     {
       "text": "17: the myth of superhuman AI  ️",
       "url": "https://backchannel.com/the-myth-of-a-superhuman-ai-59282b686c62",
-      "fx": 628.1405711670975,
-      "fy": -150.3872133397931,
+      "fx": 596.1293532183797,
+      "fy": -129.48376782697255,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -127,8 +129,8 @@
     {
       "text": "17: deepmind's new algorithm adds 'memory' to ai  ️",
       "url": "http://www.wired.co.uk/article/deepmind-atari-learning-sequential-memory-ewc",
-      "fx": 628.1405711670975,
-      "fy": -110.3872133397931,
+      "fx": 596.1293532183797,
+      "fy": -89.48376782697255,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -136,8 +138,8 @@
     {
       "text": "17: ai is all around us  ️",
       "url": "http://www.livemint.com/Industry/fJ2aNzCUokPneLlENJY5YI/Artificial-intelligence-is-already-all-around-us-John-MacIn.html",
-      "fx": 628.1405711670975,
-      "fy": -48.38721333979311,
+      "fx": 596.1293532183797,
+      "fy": -27.483767826972553,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -145,8 +147,8 @@
     {
       "text": "17: the arrival of artificial intelligence  ️",
       "url": "https://stratechery.com/2017/the-arrival-of-artificial-intelligence/",
-      "fx": 628.1405711670975,
-      "fy": -8.387213339793107,
+      "fx": 596.1293532183797,
+      "fy": 12.516232173027447,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -181,10 +183,19 @@
     {
       "text": "17: elon musk nick bostrom ray kurzweil superintelligence",
       "url": "https://www.youtube.com/watch?v=Xc2tiSH_eBg",
-      "fx": 804.0763215977604,
-      "fy": 126.73965062446143,
+      "fx": 788.1826250165636,
+      "fy": 105.50527562446143,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "17: measuring the process of AI research  ️",
+      "url": "https://www.eff.org/ai/metrics",
+      "fx": 788.1826250165636,
+      "fy": 167.50527562446143,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
     }
   ],
@@ -225,16 +236,16 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -107.094,
-        "y": -108.448
+        "x": -91.0884,
+        "y": -118.9
       }
     },
     {
       "source": "interesting",
       "target": "articles",
       "curve": {
-        "x": -101.422,
-        "y": -104.855
+        "x": -108.981,
+        "y": -99.2861
       }
     },
     {

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - algorithms - genetic algorithms",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "genetic algorithms",
@@ -24,8 +26,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -56.418913570954714,
-      "fy": 114.49858120800985
+      "fx": -113.65905394528636,
+      "fy": 111.64304979089746
     }
   ],
   "subnodes": [
@@ -68,10 +70,28 @@
     {
       "text": "1. genetic algorithms",
       "url": "https://www.youtube.com/watch?v=kHyNqSnzP8Y",
-      "fx": 125.58108642904529,
-      "fy": 125.99858120800985,
+      "fx": 68.34094605471364,
+      "fy": 72.14304979089746,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. continuous evolutionary system",
+      "url": "https://www.youtube.com/watch?v=Sx_l2GxBC5w",
+      "fx": 68.34094605471364,
+      "fy": 112.14304979089746,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. genetic algorithms and evolutionary computing",
+      "url": "https://www.youtube.com/watch?v=6l6b78Y4V7Y",
+      "fx": 68.34094605471364,
+      "fy": 152.14304979089746,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -96,8 +116,8 @@
       "source": "genetic algorithms",
       "target": "basics",
       "curve": {
-        "x": -6.04404,
-        "y": 187.187
+        "x": -34.6641,
+        "y": 185.759
       }
     }
   ]

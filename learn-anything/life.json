@@ -1,5 +1,7 @@
 {
   "title": "learn anything - life",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "life",
@@ -42,6 +44,12 @@
       "url": "/life/meaning-of-life",
       "fx": 457.3396444361226,
       "fy": -25.955228365384414,
+      "category": "mindmap"
+    },
+    {
+      "text": "social skills  ️",
+      "fx": 664.9381737724291,
+      "fy": -21.65448189073595,
       "category": "mindmap"
     },
     {
@@ -130,6 +138,14 @@
       "curve": {
         "x": 349.31,
         "y": 55.8086
+      }
+    },
+    {
+      "source": "life",
+      "target": "social skills  ️",
+      "curve": {
+        "x": 511.378,
+        "y": 79.4251
       }
     }
   ]

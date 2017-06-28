@@ -1,5 +1,7 @@
 {
   "title": "learn anything - databases - relational databases - mysql",
+  "tag": "mySQL",
+  "description": "",
   "nodes": [
     {
       "text": "MySQL",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/mysql/",
+      "fx": 212.3203125,
+      "fy": -251.8671875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "MySQL"
+    },
     {
       "text": "awesome mySQL",
       "url": "http://shlomi-noach.github.io/awesome-mysql/",

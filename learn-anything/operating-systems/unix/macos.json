@@ -1,5 +1,7 @@
 {
   "title": "learn anything - operating systems - unix - macos",
+  "tag": "macOS",
+  "description": "",
   "nodes": [
     {
       "text": "macOS",
@@ -34,56 +36,29 @@
       "fy": 68.66423798554229
     },
     {
-      "text": "automation",
-      "url": "",
-      "fx": 12.650011036777869,
-      "fy": 95.78709769735792
+      "text": "launchd  ️",
+      "fx": 67.43094877151566,
+      "fy": 66.39849679971769,
+      "category": "mindmap"
+    },
+    {
+      "text": "automation  ️",
+      "fx": -93.15316436644775,
+      "fy": 151.07943640703536,
+      "category": "mindmap"
     },
     {
       "text": "apps  ️",
       "url": "/operating-systems/unix/macos/apps",
-      "fx": -257.3626089132639,
+      "fx": -240.8118276632639,
       "fy": 162.7248688811187,
       "category": "mindmap"
     },
     {
-      "text": "launchd",
-      "url": "http://www.launchd.info",
-      "fx": 4.021044537644684,
-      "fy": 170.35515002552415
-    },
-    {
-      "text": "API",
-      "url": "http://www.wikiwand.com/en/Application_programming_interface",
-      "fx": -437.6988535235006,
-      "fy": 174.82912051293147,
-      "category": "wiki"
-    },
-    {
-      "text": "jxa  ️",
-      "url": "/operating-systems/unix/macos/jxa",
-      "fx": -66.60675317328878,
-      "fy": 258.85093919891403,
+      "text": "cocoa  ️",
+      "fx": -402.13654765725175,
+      "fy": 162.90066154530052,
       "category": "mindmap"
-    },
-    {
-      "text": "cocoa",
-      "url": "http://www.wikiwand.com/en/Cocoa_(API)",
-      "fx": -469.60920390725175,
-      "fy": 275.0256615453005,
-      "category": "wiki"
-    },
-    {
-      "text": "Foundation",
-      "url": "https://developer.apple.com/reference/foundation",
-      "fx": -541.7742566669548,
-      "fy": 373.4633475022531
-    },
-    {
-      "text": "AppKit",
-      "url": "https://developer.apple.com/reference/appkit",
-      "fx": -385.27971639763166,
-      "fy": 373.9317079628594
     }
   ],
   "subnodes": [
@@ -228,49 +203,23 @@
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
-    },
-    {
-      "text": "macOS automation",
-      "url": "https://www.macosxautomation.com/",
-      "fx": 212.65001103677787,
-      "fy": 110.28709769735792,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "automation"
-    },
-    {
-      "text": "schedule jobs using launchd  ️",
-      "url": "https://nathangrigg.com/2012/07/schedule-jobs-using-launchd",
-      "fx": 174.02104453764468,
-      "fy": 181.85515002552415,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "launchd"
-    },
-    {
-      "text": "learn cocoa",
-      "note": "a lot of articles",
-      "url": "http://www.cocoadevcentral.com/",
-      "fx": -286.60920390725175,
-      "fy": 292.0256615453005,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "cocoa"
     }
   ],
   "connections": [
     {
       "source": "basics",
-      "target": "launchd",
+      "target": "launchd  ️",
       "curve": {
-        "x": 60.076,
-        "y": 99.0718
+        "x": 91.781,
+        "y": 47.0935
       }
     },
     {
       "source": "basics",
-      "target": "automation",
+      "target": "automation  ️",
       "curve": {
-        "x": 110.25,
-        "y": 52.1427
+        "x": 57.3484,
+        "y": 79.7889
       }
     },
     {
@@ -287,38 +236,6 @@
       "curve": {
         "x": -69.8445,
         "y": -131.167
-      }
-    },
-    {
-      "source": "basics",
-      "target": "API",
-      "curve": {
-        "x": -132.425,
-        "y": 91.6638
-      }
-    },
-    {
-      "source": "API",
-      "target": "cocoa",
-      "curve": {
-        "x": -16.7051,
-        "y": 48.8482
-      }
-    },
-    {
-      "source": "cocoa",
-      "target": "Foundation",
-      "curve": {
-        "x": -31.8325,
-        "y": 47.9688
-      }
-    },
-    {
-      "source": "cocoa",
-      "target": "AppKit",
-      "curve": {
-        "x": 36.4147,
-        "y": 48.203
       }
     },
     {
@@ -339,18 +256,18 @@
     },
     {
       "source": "basics",
-      "target": "jxa  ️",
+      "target": "apps  ️",
       "curve": {
-        "x": 44.8716,
-        "y": 133.674
+        "x": -29.9809,
+        "y": 86.8617
       }
     },
     {
       "source": "basics",
-      "target": "apps  ️",
+      "target": "cocoa  ️",
       "curve": {
-        "x": -38.2563,
-        "y": 86.8617
+        "x": -107.893,
+        "y": 86.9496
       }
     }
   ]

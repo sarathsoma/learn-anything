@@ -1,5 +1,7 @@
 {
   "title": "learn anything - cognitive science - cognition - learning",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "learning",
@@ -12,33 +14,45 @@
       "text": "help",
       "url": "",
       "fx": 51.618623372670754,
-      "fy": -38.90566229605463
+      "fy": -36.93197808552827
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 108.83644372063713,
-      "fy": 134.63077839000806
+      "fx": 112.23899306274234,
+      "fy": 141.4615760873765
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 425.40571200844306,
+      "fy": 304.8154212857577
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -74.87839041819257,
-      "fy": 340.1309467564547
+      "fx": -201.2013070848592,
+      "fy": 476.8809467564547
     },
     {
       "text": "information mapping  ️",
       "url": "/cognitive-science/cognition/learning/information-mapping",
-      "fx": -323.14820658866984,
-      "fy": 522.9983579638754,
+      "fx": -341.674899297003,
+      "fy": 665.4379971007801,
+      "category": "mindmap"
+    },
+    {
+      "text": "education  ️",
+      "fx": -518.0823739035087,
+      "fy": 666.561369243421,
       "category": "mindmap"
     },
     {
       "text": "research  ️",
       "url": "/cognitive-science/cognition/learning/research",
-      "fx": -22.41558173607143,
-      "fy": 527.2385892319953,
+      "fx": -40.942274444404575,
+      "fy": 669.6782283689,
       "category": "mindmap"
     }
   ],
@@ -47,7 +61,7 @@
       "text": "how to study based on how memory works",
       "url": "https://www.reddit.com/r/AskReddit/comments/2b0yf8/good_students_how_do_you_go_about_getting_good/cj0qre2/",
       "fx": 188.61862337267075,
-      "fy": -75.40566229605463,
+      "fy": -90.43197808552827,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -56,7 +70,7 @@
       "text": "getting things done by David Allen",
       "url": "https://www.youtube.com/watch?v=xfnAK69XUVo",
       "fx": 188.61862337267075,
-      "fy": -13.40566229605463,
+      "fy": -28.43197808552827,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -65,15 +79,23 @@
       "text": "how can I improve my focus",
       "url": "https://www.quora.com/How-can-I-improve-my-focus-10/answer/Yishan-Wong?share=1",
       "fx": 188.61862337267075,
-      "fy": 26.59433770394537,
+      "fy": 11.568021914471728,
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "notes on learning",
+      "url": "https://www.simongriffee.com/what/learning/",
+      "fx": 188.61862337267075,
+      "fy": 45.56802191447173,
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "17: learning without a mentor: how to become an expert programmer on your own  ️",
       "url": "https://codewithoutrules.com/2017/04/17/learning-without-a-mentor/",
-      "fx": 270.83644372063713,
-      "fy": 93.13077839000806,
+      "fx": 274.23899306274234,
+      "fy": 99.9615760873765,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -81,17 +103,26 @@
     {
       "text": "the timer knows best: why i love the pomodoro technique  ️",
       "url": "http://heydave.org/post/26317198789/the-timer-knows-best-why-i-love-the-pomodoro",
-      "fx": 270.83644372063713,
-      "fy": 177.13077839000806,
+      "fx": 274.23899306274234,
+      "fy": 183.9615760873765,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "13: good enough good enough",
+      "url": "https://www.youtube.com/watch?v=gHG9FRSlPxw",
+      "fx": 565.4057120084431,
+      "fy": 316.3154212857577,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
+    },
+    {
       "text": "1. how to study  ️",
       "url": "http://www.cse.buffalo.edu/~rapaport/howtostudy.html",
-      "fx": 107.12160958180743,
-      "fy": 260.6309467564547,
+      "fx": -19.201307084859195,
+      "fy": 397.3809467564547,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -99,8 +130,8 @@
     {
       "text": "1. learning how to learn",
       "url": "https://www.coursera.org/learn/learning-how-to-learn",
-      "fx": 107.12160958180743,
-      "fy": 300.6309467564547,
+      "fx": -19.201307084859195,
+      "fy": 437.3809467564547,
       "category": "",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -108,8 +139,8 @@
     {
       "text": "based on this book",
       "url": "http://www.goodreads.com/book/show/18693655-a-mind-for-numbers",
-      "fx": 395.12160958180743,
-      "fy": 300.6309467564547,
+      "fx": 268.7986929151408,
+      "fy": 437.3809467564547,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "1. learning how to learn"
@@ -117,8 +148,8 @@
     {
       "text": "1. how to learn on your own  ️",
       "url": "https://metacademy.org/roadmaps/rgrosse/learn_on_your_own",
-      "fx": 107.12160958180743,
-      "fy": 340.6309467564547,
+      "fx": -19.201307084859195,
+      "fy": 477.3809467564547,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -126,8 +157,8 @@
     {
       "text": "1. why procrastinator’s procrastinate  ️",
       "url": "http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html",
-      "fx": 107.12160958180743,
-      "fy": 380.6309467564547,
+      "fx": -19.201307084859195,
+      "fy": 517.3809467564547,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -135,8 +166,8 @@
     {
       "text": "1. study less, study smart",
       "url": "https://www.youtube.com/watch?v=IlU-zDU6aQ0&amp;feature=youtu.be",
-      "fx": 107.12160958180743,
-      "fy": 442.6309467564547,
+      "fx": -19.201307084859195,
+      "fy": 579.3809467564547,
       "category": "video",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
@@ -147,8 +178,8 @@
       "source": "basics",
       "target": "research  ️",
       "curve": {
-        "x": 31.2314,
-        "y": 93.5538
+        "x": 60.1272,
+        "y": 99.5004
       }
     },
     {
@@ -156,31 +187,47 @@
       "target": "learning",
       "curve": {
         "x": -46.4049,
-        "y": -60.186
+        "y": -61.1728
       }
     },
     {
       "source": "learning",
       "target": "basics",
       "curve": {
-        "x": -12.0935,
-        "y": 249.704
+        "x": -75.255,
+        "y": 318.079
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -34.8589,
-        "y": -86.7682
+        "x": -36.5602,
+        "y": -89.1968
       }
     },
     {
       "source": "basics",
       "target": "information mapping  ️",
       "curve": {
-        "x": -98.6349,
-        "y": 91.4337
+        "x": -44.7368,
+        "y": 94.2785
+      }
+    },
+    {
+      "source": "basics",
+      "target": "education  ️",
+      "curve": {
+        "x": -167.228,
+        "y": 82.4944
+      }
+    },
+    {
+      "source": "talks",
+      "target": "articles",
+      "curve": {
+        "x": -198.2,
+        "y": -59.2892
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - prolog",
+  "tag": "prolog programming language",
+  "description": "",
   "nodes": [
     {
       "text": "prolog",
@@ -17,6 +19,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/prolog/",
+      "fx": 124,
+      "fy": -120.61328125,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "prolog"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/SWI-Prolog/swipl-devel",
+      "fx": 124,
+      "fy": -80.61328125,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "prolog"
+    },
     {
       "text": "1. the power of prolog",
       "url": "https://www.metalevel.at/prolog",

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - philosophy - philosophy of mind - phenomenology",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "phenomenology",
@@ -11,18 +13,36 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 235.33572635135124,
-      "fy": -142.08657094594588
+      "fx": 233.103885135135,
+      "fy": -158.15287162162156
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/Phenomenology/",
+      "fx": 451.94140625,
+      "fy": -293.6875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "phenomenology"
+    },
+    {
       "text": "1. introduction to phenomenology",
       "url": "https://www.youtube.com/playlist?list=PLS8vfA_ckeuY6ayo3TlbFMnkPXIMMBXyw",
-      "fx": 391.33572635135124,
-      "fy": -141.58657094594588,
+      "fx": 389.103885135135,
+      "fy": -177.65287162162156,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. Jordan Peterson: phenomenology of being",
+      "url": "https://www.youtube.com/watch?v=7jYR5wbElWQ",
+      "fx": 389.103885135135,
+      "fy": -137.65287162162156,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -31,8 +51,8 @@
       "source": "phenomenology",
       "target": "basics",
       "curve": {
-        "x": -1.05284,
-        "y": 81.5505
+        "x": -2.16876,
+        "y": 73.5173
       }
     }
   ]

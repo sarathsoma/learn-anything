@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - compilers - llvm",
+  "tag": "LLVM compiler infrastructure",
+  "description": "",
   "nodes": [
     {
       "text": "LLVM",
@@ -18,10 +20,19 @@
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
+      "url": "https://www.reddit.com/r/LLVM/",
+      "fx": 99.86328125,
+      "fy": -278.56640625,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "LLVM"
+    },
+    {
+      "text": "",
       "url": "https://github.com/llvm-mirror/llvm",
       "fx": 99.86328125,
-      "fy": -258.56640625,
+      "fy": -238.56640625,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "LLVM"

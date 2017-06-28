@@ -1,17 +1,19 @@
 {
   "title": "learn anything - web development - backend - nodejs",
+  "tag": "node.js",
+  "description": "",
   "nodes": [
     {
       "text": "node.js",
       "url": "https://nodejs.org/en/",
       "fx": -105.84240459450439,
-      "fy": -502.64807599129006
+      "fy": -564.17932599129
     },
     {
       "text": "help",
       "url": "",
-      "fx": 10.828768170508283,
-      "fy": -380.78500646487527
+      "fx": 24.293611920508283,
+      "fy": -378.69906896487527
     },
     {
       "text": "articles",
@@ -118,18 +120,36 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/node/",
+      "fx": 58.15759540549561,
+      "fy": -572.67932599129,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "node.js"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/nodejs/node",
+      "fx": 58.15759540549561,
+      "fy": -532.67932599129,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "node.js"
+    },
+    {
       "text": "docs",
       "url": "https://nodejs.org/api/documentation.html",
-      "fx": 147.82876817050828,
-      "fy": -514.2850064648753,
+      "fx": 161.29361192050828,
+      "fy": -512.1990689648753,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "art of node",
       "url": "https://github.com/maxogden/art-of-node",
-      "fx": 147.82876817050828,
-      "fy": -480.2850064648753,
+      "fx": 161.29361192050828,
+      "fy": -478.1990689648753,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -137,8 +157,8 @@
     {
       "text": "node.js learning",
       "url": "https://github.com/sergtitov/NodeJS-Learning",
-      "fx": 147.82876817050828,
-      "fy": -440.2850064648753,
+      "fx": 161.29361192050828,
+      "fy": -438.1990689648753,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -147,8 +167,8 @@
       "text": "stream handbook",
       "note": "how to write node programs with streams",
       "url": "https://github.com/substack/stream-handbook",
-      "fx": 147.82876817050828,
-      "fy": -400.2850064648753,
+      "fx": 161.29361192050828,
+      "fy": -398.1990689648753,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -156,8 +176,8 @@
     {
       "text": "awesome node.js",
       "url": "https://www.youtube.com/watch?v=w-7RQ46RgxU&amp;list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
-      "fx": 147.82876817050828,
-      "fy": -360.2850064648753,
+      "fx": 161.29361192050828,
+      "fy": -358.1990689648753,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -165,8 +185,8 @@
     {
       "text": "tiny guide to non fancy node",
       "url": "https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node",
-      "fx": 147.82876817050828,
-      "fy": -320.2850064648753,
+      "fx": 161.29361192050828,
+      "fy": -318.1990689648753,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -174,8 +194,8 @@
     {
       "text": "learn node.js from self-guided workshops",
       "url": "https://github.com/workshopper/learnyounode",
-      "fx": 147.82876817050828,
-      "fy": -280.2850064648753,
+      "fx": 161.29361192050828,
+      "fy": -278.1990689648753,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -183,8 +203,8 @@
     {
       "text": "node.js original slide deck",
       "url": "http://tinyclouds.org/jsconf.pdf",
-      "fx": 147.82876817050828,
-      "fy": -218.28500646487532,
+      "fx": 161.29361192050828,
+      "fy": -216.19906896487532,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
@@ -256,15 +276,15 @@
       "target": "basics",
       "curve": {
         "x": -37.2209,
-        "y": 211.19
+        "y": 241.956
       }
     },
     {
       "source": "help",
       "target": "node.js",
       "curve": {
-        "x": -51.5857,
-        "y": -60.9316
+        "x": -58.3181,
+        "y": -92.7402
       }
     },
     {
@@ -367,8 +387,8 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -275.837,
-        "y": -74.6022
+        "x": -269.105,
+        "y": -73.5592
       }
     },
     {

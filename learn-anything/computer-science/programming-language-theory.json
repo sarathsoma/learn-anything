@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - programming language theory",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "programming language theory",
@@ -24,65 +26,35 @@
     {
       "text": "closures  ️",
       "url": "/computer-science/programming-language-theory/closures",
-      "fx": -280.04851752021636,
-      "fy": -679.4097035040431,
+      "fx": -309.0340673322464,
+      "fy": -670.9774901581784,
+      "category": "mindmap"
+    },
+    {
+      "text": "session types  ️",
+      "fx": 151.16490765171375,
+      "fy": -582.2928759894461,
+      "category": "mindmap"
+    },
+    {
+      "text": "evaluation strategies  ️",
+      "fx": -428.9995597466659,
+      "fy": -523.6946419047815,
+      "category": "mindmap"
+    },
+    {
+      "text": "type systems  ️",
+      "url": "/computer-science/programming-language-theory/type-systems",
+      "fx": -116.89297793065043,
+      "fy": -497.2360053434495,
       "category": "mindmap"
     },
     {
       "text": "formal language",
       "note": "is a set of strings of symbols together with a set of rules that are specific to it  the alphabet of a formal language is the set of symbols, letters, or tokens from which the strings of the language may be formed  the strings formed from this alphabet are called words, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas  a formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, also called it formation rule",
       "url": "http://www.wikiwand.com/en/Formal_language",
-      "fx": 183.00288244472063,
-      "fy": -565.1614122375477,
-      "category": "wiki"
-    },
-    {
-      "text": "type systems  ️",
-      "url": "/computer-science/programming-language-theory/type-systems",
-      "fx": -37.572606690048815,
-      "fy": -497.2360053434495,
-      "category": "mindmap"
-    },
-    {
-      "text": "evaluation strategies",
-      "url": "http://www.wikiwand.com/en/Evaluation_strategy",
-      "fx": -479.65078742523747,
-      "fy": -433.8857691369244,
-      "category": "wiki"
-    },
-    {
-      "text": "lazy evaluation",
-      "url": "http://www.wikiwand.com/en/Lazy_evaluation",
-      "fx": -992.3580624841495,
-      "fy": -294.76356119397803,
-      "category": "wiki"
-    },
-    {
-      "text": "partial evaluation",
-      "url": "http://www.wikiwand.com/en/Partial_evaluation",
-      "fx": -779.4446112479222,
-      "fy": -293.22003853542265,
-      "category": "wiki"
-    },
-    {
-      "text": "short-circuit evaluation",
-      "url": "http://www.wikiwand.com/en/Short-circuit_evaluation",
-      "fx": -542.8772375575242,
-      "fy": -291.0318443745465,
-      "category": "wiki"
-    },
-    {
-      "text": "eager evaluation",
-      "url": "http://www.wikiwand.com/en/Eager_evaluation",
-      "fx": -14.932161817539395,
-      "fy": -288.05414310448475,
-      "category": "wiki"
-    },
-    {
-      "text": "remote evaluation",
-      "url": "http://www.wikiwand.com/en/Remote_evaluation",
-      "fx": -254.60019620521086,
-      "fy": -287.06853811340113,
+      "fx": 9.536012143968719,
+      "fy": -391.3802797187509,
       "category": "wiki"
     }
   ],
@@ -152,46 +124,6 @@
   ],
   "connections": [
     {
-      "source": "evaluation strategies",
-      "target": "lazy evaluation",
-      "curve": {
-        "x": -276.854,
-        "y": 68.3111
-      }
-    },
-    {
-      "source": "evaluation strategies",
-      "target": "partial evaluation",
-      "curve": {
-        "x": -158.147,
-        "y": 70.3333
-      }
-    },
-    {
-      "source": "evaluation strategies",
-      "target": "short-circuit evaluation",
-      "curve": {
-        "x": -26.6132,
-        "y": 71.4273
-      }
-    },
-    {
-      "source": "evaluation strategies",
-      "target": "remote evaluation",
-      "curve": {
-        "x": 106.525,
-        "y": 73.4083
-      }
-    },
-    {
-      "source": "evaluation strategies",
-      "target": "eager evaluation",
-      "curve": {
-        "x": 223.359,
-        "y": 72.9163
-      }
-    },
-    {
       "source": "programming language theory",
       "target": "basics",
       "curve": {
@@ -201,10 +133,10 @@
     },
     {
       "source": "basics",
-      "target": "evaluation strategies",
+      "target": "evaluation strategies  ️",
       "curve": {
-        "x": -241.07,
-        "y": 184.672
+        "x": -215.744,
+        "y": 139.768
       }
     },
     {
@@ -219,7 +151,7 @@
       "source": "basics",
       "target": "type systems  ️",
       "curve": {
-        "x": -50.261,
+        "x": -89.9212,
         "y": 176.847
       }
     },
@@ -227,16 +159,24 @@
       "source": "basics",
       "target": "formal language",
       "curve": {
-        "x": 66.7574,
-        "y": 117.784
+        "x": -19.976,
+        "y": 204.675
       }
     },
     {
       "source": "basics",
       "target": "closures  ️",
       "curve": {
-        "x": -182.018,
-        "y": 60.6592
+        "x": -196.511,
+        "y": 64.8753
+      }
+    },
+    {
+      "source": "basics",
+      "target": "session types  ️",
+      "curve": {
+        "x": 38.7362,
+        "y": 113.411
       }
     }
   ]

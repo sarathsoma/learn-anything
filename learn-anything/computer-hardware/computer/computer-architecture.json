@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer hardware - computer - computer architecture",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "computer architecture",
@@ -16,7 +18,17 @@
       "category": "wiki"
     }
   ],
-  "subnodes": [],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/comparch/",
+      "fx": 332.40481505102036,
+      "fy": -80.92522321428572,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "computer architecture"
+    }
+  ],
   "connections": [
     {
       "source": "computer architecture",

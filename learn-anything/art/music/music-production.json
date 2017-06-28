@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - music - music production",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "music production",
@@ -24,11 +26,26 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -52.552221457915266,
-      "fy": 65.79206099509082
+      "fx": -95.36533180947777,
+      "fy": 77.91059126852832
+    },
+    {
+      "text": "Ableton Live  ️",
+      "fx": -195.9078100854215,
+      "fy": 210.69406765109886,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/WeAreTheMusicMakers/",
+      "fx": 176.29477163461536,
+      "fy": -257.14302884615375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "music production"
+    },
     {
       "text": "awesome music production",
       "url": "https://github.com/adius/awesome-music-production",
@@ -48,10 +65,19 @@
       "parent": "articles"
     },
     {
+      "text": "1. get started making music",
+      "url": "https://learningmusic.ableton.com/",
+      "fx": 86.63466819052223,
+      "fy": 58.41059126852832,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. beginner’s tutorial to music production",
       "url": "https://www.youtube.com/watch?v=ydE5gEOWC0Q",
-      "fx": 129.44777854208473,
-      "fy": 66.29206099509082,
+      "fx": 86.63466819052223,
+      "fy": 98.41059126852832,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -62,8 +88,8 @@
       "source": "music production",
       "target": "basics",
       "curve": {
-        "x": -4.4235,
-        "y": 167.218
+        "x": -25.8301,
+        "y": 173.277
       }
     },
     {
@@ -80,6 +106,14 @@
       "curve": {
         "x": -51.1109,
         "y": -58.9265
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Ableton Live  ️",
+      "curve": {
+        "x": -43.5212,
+        "y": 66.3917
       }
     }
   ]

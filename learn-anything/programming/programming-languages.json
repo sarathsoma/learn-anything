@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "programming languages",
@@ -233,6 +235,12 @@
       "category": "mindmap"
     },
     {
+      "text": "pascal  ️",
+      "fx": 3353.382007312727,
+      "fy": -473.71831756745314,
+      "category": "mindmap"
+    },
+    {
       "text": "c++  ️",
       "note": "imperative, object oriented and generic with low level memory manipulation",
       "url": "/programming-languages/c--",
@@ -412,6 +420,12 @@
       "category": "mindmap"
     },
     {
+      "text": "frege  ️",
+      "fx": 920.0952443741226,
+      "fy": -377.21864011954744,
+      "category": "mindmap"
+    },
+    {
       "text": "typescript  ️",
       "note": "- good understanding of javascript is helpful as typescript is superset of javascript",
       "url": "/programming/programming-languages/typescript",
@@ -423,8 +437,8 @@
       "text": "coq  ️",
       "note": "interactive theorem prover, allows expression of mathematical assertions, mechanically checks proofs of these assertions and helps find formal proofs",
       "url": "/programming/programming-languages/coq",
-      "fx": 1049.522950183994,
-      "fy": -371.37987180595314,
+      "fx": 1072.8157742580688,
+      "fy": -372.2366747894923,
       "category": "mindmap"
     },
     {
@@ -458,8 +472,8 @@
       "text": "idris  ️",
       "note": "general purpose, purely functional with dependent types, supports interactive theorem proving",
       "url": "/programming/programming-languages/idris",
-      "fx": 808.2208251953125,
-      "fy": -314.0372314453125,
+      "fx": 801.8128390842012,
+      "fy": -306.6431342230903,
       "category": "mindmap"
     }
   ],
@@ -468,7 +482,7 @@
       "text": "most popular languages on github",
       "url": "http://githut.info/",
       "fx": 337.89765294392873,
-      "fy": -1317.273491753472,
+      "fy": -1337.273491753472,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
@@ -476,7 +490,7 @@
       "text": "endangered languages",
       "url": "https://github.com/RichardLitt/endangered-languages",
       "fx": 337.89765294392873,
-      "fy": -1283.273491753472,
+      "fy": -1303.273491753472,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -494,7 +508,7 @@
       "text": "escher",
       "url": "https://github.com/gocircuit/escher",
       "fx": 679.8976529439287,
-      "fy": -1243.273491753472,
+      "fy": -1263.273491753472,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "esoteric programming languages"
@@ -503,7 +517,16 @@
       "text": "oblivion",
       "url": "http://obliv.me/",
       "fx": 679.8976529439287,
-      "fy": -1203.273491753472,
+      "fy": -1223.273491753472,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "esoteric programming languages"
+    },
+    {
+      "text": "dale",
+      "url": "https://github.com/tomhrr/dale",
+      "fx": 679.8976529439287,
+      "fy": -1189.273491753472,
+      "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "esoteric programming languages"
     },
@@ -512,7 +535,7 @@
       "note": "quick reference guide for checking syntax etc for a bunch of different languages",
       "url": "https://learnxinyminutes.com/",
       "fx": 337.89765294392873,
-      "fy": -1169.273491753472,
+      "fy": -1149.273491753472,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
@@ -520,7 +543,7 @@
       "text": "programming languages influence network",
       "url": "https://exploringdata.github.io/vis/programming-languages-influence-network/",
       "fx": 337.89765294392873,
-      "fy": -1135.273491753472,
+      "fy": -1115.273491753472,
       "category": "interactive",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -529,7 +552,7 @@
       "text": "the programming languages beacon",
       "url": "http://www.lextrait.com/Vincent/implementations.html",
       "fx": 337.89765294392873,
-      "fy": -1073.273491753472,
+      "fy": -1053.273491753472,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     }
@@ -763,8 +786,8 @@
       "source": "idris  ️",
       "target": "functional  ️",
       "curve": {
-        "x": -36.7068,
-        "y": -152.422
+        "x": -33.5028,
+        "y": -156.119
       }
     },
     {
@@ -899,8 +922,8 @@
       "source": "coq  ️",
       "target": "functional  ️",
       "curve": {
-        "x": -29.6829,
-        "y": -156.718
+        "x": -41.3293,
+        "y": -156.29
       }
     },
     {
@@ -1037,6 +1060,22 @@
       "curve": {
         "x": 25.0234,
         "y": -204.095
+      }
+    },
+    {
+      "source": "structured",
+      "target": "pascal  ️",
+      "curve": {
+        "x": 92.2437,
+        "y": 64.6703
+      }
+    },
+    {
+      "source": "frege  ️",
+      "target": "functional  ️",
+      "curve": {
+        "x": 9.43334,
+        "y": -131.952
       }
     }
   ]

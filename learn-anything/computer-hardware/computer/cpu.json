@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer hardware - computer - cpu",
+  "tag": "central processing unit",
+  "description": "",
   "nodes": [
     {
       "text": "CPU",
@@ -29,6 +31,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/cpudesign/",
+      "fx": 323.78125,
+      "fy": -269.18359375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "CPU"
+    },
     {
       "text": "what limits CPU speed?   ️",
       "url": "https://electronics.stackexchange.com/questions/122050/what-limits-cpu-speed",

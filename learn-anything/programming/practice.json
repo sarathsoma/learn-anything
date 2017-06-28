@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - practice",
+  "tag": "programming practice",
+  "description": "",
   "nodes": [
     {
       "text": "project ideas",
@@ -26,7 +28,7 @@
       "text": "list of practical projects to code in any language",
       "url": "https://github.com/karan/Projects",
       "fx": 165.66108399700283,
-      "fy": -496.0349051179309,
+      "fy": -516.034905117931,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "project ideas"
@@ -35,7 +37,7 @@
       "text": "awesome foss apps",
       "url": "https://github.com/jwaterfaucett/awesome-foss-apps",
       "fx": 165.66108399700283,
-      "fy": -434.0349051179309,
+      "fy": -454.034905117931,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "project ideas"
@@ -44,7 +46,7 @@
       "text": "awesome open source apps",
       "url": "https://github.com/unicodeveloper/awesome-opensource-apps",
       "fx": 165.66108399700283,
-      "fy": -394.0349051179309,
+      "fy": -414.034905117931,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "project ideas"
@@ -53,7 +55,7 @@
       "text": "awesome for beginners",
       "url": "https://github.com/MunGell/awesome-for-beginners",
       "fx": 165.66108399700283,
-      "fy": -354.0349051179309,
+      "fy": -374.034905117931,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "project ideas"
@@ -62,8 +64,17 @@
       "text": "mega project ideas list",
       "url": "http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/",
       "fx": 165.66108399700283,
-      "fy": -314.0349051179309,
+      "fy": -334.034905117931,
       "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "project ideas"
+    },
+    {
+      "text": "cool github projects",
+      "url": "https://www.reddit.com/r/coolgithubprojects/",
+      "fx": 165.66108399700283,
+      "fy": -300.034905117931,
+      "category": "reddit",
+      "color": "rgba(49, 187, 71, 1.0)",
       "parent": "project ideas"
     },
     {

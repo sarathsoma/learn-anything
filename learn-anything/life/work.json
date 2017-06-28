@@ -1,120 +1,98 @@
 {
   "title": "learn anything - life - work",
+  "tag": "finding work",
+  "description": "",
   "nodes": [
     {
       "text": "cv",
       "url": "http://www.wikiwand.com/en/Curriculum_vitae",
-      "fx": -191.6520658446991,
-      "fy": -157.79500992039766,
+      "fx": -205.36762916706743,
+      "fy": -232.67720564408185,
       "category": "wiki"
     },
     {
-      "text": "freelancing",
-      "url": "",
-      "fx": 192.5221275894403,
-      "fy": -70.6321419135665
+      "text": "freelancing  ️",
+      "fx": 84.21260867496619,
+      "fy": -116.6703820451454,
+      "category": "mindmap"
     },
     {
-      "text": "prepare",
-      "url": "",
-      "fx": -211.86863212257742,
-      "fy": 11.46653920790601
+      "text": "independent  ️",
+      "fx": 58.77654616637312,
+      "fy": -29.848470366754214,
+      "category": "mindmap"
     },
     {
-      "text": "independent",
-      "url": "",
-      "fx": 175.64578958742572,
-      "fy": 13.923733580614055
-    },
-    {
-      "text": "programming  ️",
+      "text": "prepare  ️",
       "url": "/programming/programming-interview-preparation",
-      "fx": -367.6034846702479,
-      "fy": 208.99802931513761,
+      "fx": -266.522001756416,
+      "fy": -7.952258140578806,
       "category": "mindmap"
     },
     {
-      "text": "iOS  ️",
-      "url": "/operating-systems/ios",
-      "fx": -159.90441182226505,
-      "fy": 209.02219968853592,
+      "text": "remote  ️",
+      "fx": 60.48250931072289,
+      "fy": 57.01225360456101,
       "category": "mindmap"
     },
     {
-      "text": "web  ️",
-      "url": "/web-development",
-      "fx": -47.89184817950547,
-      "fy": 210.7677959631054,
-      "category": "mindmap"
-    },
-    {
-      "text": "android  ️",
-      "url": "/operating-systems/android",
-      "fx": 79.05019203910706,
-      "fy": 213.7587290502796,
+      "text": "interview questions  ️",
+      "fx": -322.59582632962304,
+      "fy": 131.78344761517042,
       "category": "mindmap"
     },
     {
       "text": "find work",
       "note": "",
       "url": "",
-      "fx": -110.64733586120633,
-      "fy": 502.77773728165505
+      "fx": -275.89733586120633,
+      "fy": 342.45742478165505
     },
     {
       "text": "salary negotiations",
       "url": "",
-      "fx": -108.47038287941723,
-      "fy": 744.3046159394282
+      "fx": -273.72038287941723,
+      "fy": 583.9843034394282
     },
     {
       "text": "succeed",
       "url": "",
-      "fx": -67.268962201754,
-      "fy": 900.1145245862232
+      "fx": -232.518962201754,
+      "fy": 739.7942120862232
     }
   ],
   "subnodes": [
     {
       "text": "simple resume template",
       "url": "https://github.com/deedy/Deedy-Resume",
-      "fx": -43.65206584469911,
-      "fy": -143.79500992039766,
+      "fx": -57.367629167067435,
+      "fy": -238.67720564408185,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "cv"
     },
     {
-      "text": "the remote freelancer",
-      "url": "https://github.com/engineerapart/TheRemoteFreelancer",
-      "fx": 388.52212758944074,
-      "fy": -59.1321419135665,
+      "text": "awesome cv",
+      "url": "https://github.com/posquit0/Awesome-CV",
+      "fx": -57.367629167067435,
+      "fy": -198.67720564408185,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "freelancing"
-    },
-    {
-      "text": "awesome indie",
-      "url": "https://github.com/mezod/awesome-indie",
-      "fx": 386.6457895874263,
-      "fy": 25.423733580614055,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "independent"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "cv"
     },
     {
       "text": "who is hiring",
       "url": "https://whoishiring.io/",
-      "fx": 96.35266413879367,
-      "fy": 383.27773728165505,
+      "fx": -68.89733586120633,
+      "fy": 222.95742478165505,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "find work"
     },
     {
       "text": "awesome remote job",
       "url": "https://github.com/lukasz-madon/awesome-remote-job",
-      "fx": 96.35266413879367,
-      "fy": 417.27773728165505,
+      "fx": -68.89733586120633,
+      "fy": 256.95742478165505,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "find work"
@@ -122,8 +100,8 @@
     {
       "text": "awesome job boards",
       "url": "https://github.com/wfhio/awesome-job-boards",
-      "fx": 96.35266413879367,
-      "fy": 457.27773728165505,
+      "fx": -68.89733586120633,
+      "fy": 296.95742478165505,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "find work"
@@ -131,8 +109,8 @@
     {
       "text": "awesome open company",
       "url": "https://github.com/opencompany/awesome-open-company",
-      "fx": 96.35266413879367,
-      "fy": 497.27773728165505,
+      "fx": -68.89733586120633,
+      "fy": 336.95742478165505,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "find work"
@@ -141,16 +119,16 @@
       "text": "monsterboard",
       "note": "for Netherlands",
       "url": "https://www.monsterboard.nl",
-      "fx": 96.35266413879367,
-      "fy": 537.277737281655,
+      "fx": -68.89733586120633,
+      "fy": 376.95742478165505,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "find work"
     },
     {
       "text": "remote jobs",
       "url": "https://github.com/jessicard/remote-jobs",
-      "fx": 96.35266413879367,
-      "fy": 571.277737281655,
+      "fx": -68.89733586120633,
+      "fy": 410.95742478165505,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "find work"
@@ -158,8 +136,8 @@
     {
       "text": "hiring without whiteboards",
       "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "fx": 96.35266413879367,
-      "fy": 611.277737281655,
+      "fx": -68.89733586120633,
+      "fy": 450.95742478165505,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "find work"
@@ -167,16 +145,16 @@
     {
       "text": "angel.co",
       "url": "https://angel.co/",
-      "fx": 96.35266413879367,
-      "fy": 651.277737281655,
+      "fx": -68.89733586120633,
+      "fy": 490.95742478165505,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "find work"
     },
     {
       "text": "16: how to not set a bunch of money on fire  ️",
       "url": "https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b",
-      "fx": 157.52961712058277,
-      "fy": 744.8046159394282,
+      "fx": -7.72038287941723,
+      "fy": 584.4843034394282,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "salary negotiations"
@@ -184,8 +162,8 @@
     {
       "text": "the secret to career success  ️",
       "url": "http://algeri-wong.com/yishan/the-secret-to-career-success.html",
-      "fx": 108.731037798246,
-      "fy": 891.6145245862232,
+      "fx": -56.51896220175399,
+      "fy": 731.2942120862232,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "succeed"
@@ -193,8 +171,8 @@
     {
       "text": "apprenticeship patterns",
       "url": "http://chimera.labs.oreilly.com/books/1234000001813/index.html",
-      "fx": 108.731037798246,
-      "fy": 931.6145245862232,
+      "fx": -56.51896220175399,
+      "fy": 771.2942120862232,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "succeed"
@@ -203,74 +181,26 @@
   "connections": [
     {
       "source": "cv",
-      "target": "freelancing",
+      "target": "freelancing  ️",
       "curve": {
-        "x": 203.8,
-        "y": 60.1945
+        "x": 150.359,
+        "y": 79.3888
       }
     },
     {
       "source": "cv",
-      "target": "independent",
+      "target": "independent  ️",
       "curve": {
-        "x": 187.032,
-        "y": 108.355
+        "x": 135.455,
+        "y": 123.91
       }
     },
     {
       "source": "cv",
-      "target": "prepare",
+      "target": "prepare  ️",
       "curve": {
-        "x": -5.10828,
-        "y": 83.3808
-      }
-    },
-    {
-      "source": "prepare",
-      "target": "programming  ️",
-      "curve": {
-        "x": -57.8673,
-        "y": 100.016
-      }
-    },
-    {
-      "source": "prepare",
-      "target": "iOS  ️",
-      "curve": {
-        "x": 23.9821,
-        "y": 100.027
-      }
-    },
-    {
-      "source": "prepare",
-      "target": "web  ️",
-      "curve": {
-        "x": 96.2442,
-        "y": 99.6226
-      }
-    },
-    {
-      "source": "programming  ️",
-      "target": "find work",
-      "curve": {
-        "x": 118.228,
-        "y": 145.64
-      }
-    },
-    {
-      "source": "iOS  ️",
-      "target": "find work",
-      "curve": {
-        "x": 36.3792,
-        "y": 145.628
-      }
-    },
-    {
-      "source": "web  ️",
-      "target": "find work",
-      "curve": {
-        "x": -21.1275,
-        "y": 144.755
+        "x": -25.5772,
+        "y": 111.112
       }
     },
     {
@@ -290,19 +220,27 @@
       }
     },
     {
-      "source": "android  ️",
-      "target": "find work",
+      "source": "prepare  ️",
+      "target": "interview questions  ️",
       "curve": {
-        "x": -91.8488,
-        "y": 143.26
+        "x": -9.53691,
+        "y": 68.6179
       }
     },
     {
-      "source": "prepare",
-      "target": "android  ️",
+      "source": "interview questions  ️",
+      "target": "find work",
       "curve": {
-        "x": 152.209,
-        "y": 102.396
+        "x": 0.0992452,
+        "y": 104.087
+      }
+    },
+    {
+      "source": "cv",
+      "target": "remote  ️",
+      "curve": {
+        "x": 107.73,
+        "y": 169.433
       }
     }
   ]

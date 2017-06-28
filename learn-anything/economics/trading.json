@@ -1,5 +1,7 @@
 {
   "title": "learn anything - economics - trading",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "trading",
@@ -29,7 +31,17 @@
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Trading/",
+      "fx": 161.32886176601426,
+      "fy": 49.80370051156581,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "trading"
+    }
+  ],
   "connections": [
     {
       "source": "trading",

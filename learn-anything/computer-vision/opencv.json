@@ -1,11 +1,13 @@
 {
   "title": "learn anything - computer vision - opencv",
+  "tag": "OpenCV",
+  "description": "",
   "nodes": [
     {
       "text": "OpenCV",
       "url": "http://www.wikiwand.com/en/OpenCV",
-      "fx": -70.5,
-      "fy": -2,
+      "fx": -68.03374630177518,
+      "fy": -19.247596153846132,
       "category": "wiki"
     },
     {
@@ -24,10 +26,19 @@
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
+      "url": "https://www.reddit.com/r/opencv/",
+      "fx": 135.96625369822482,
+      "fy": -25.247596153846132,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "OpenCV"
+    },
+    {
+      "text": "",
       "url": "https://github.com/opencv/opencv",
-      "fx": 133.5,
-      "fy": 12,
+      "fx": 135.96625369822482,
+      "fy": 14.752403846153868,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "OpenCV"
@@ -65,16 +76,16 @@
       "source": "OpenCV",
       "target": "basics",
       "curve": {
-        "x": -6.96977,
-        "y": 123.137
+        "x": -8.2029,
+        "y": 131.761
       }
     },
     {
       "source": "help",
       "target": "OpenCV",
       "curve": {
-        "x": -57.6599,
-        "y": -52.6523
+        "x": -56.4268,
+        "y": -61.2761
       }
     }
   ]

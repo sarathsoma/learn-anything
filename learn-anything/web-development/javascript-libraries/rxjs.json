@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - javascript libraries - rxjs",
+  "tag": "RxJS library",
+  "description": "",
   "nodes": [
     {
       "text": "RxJS",
@@ -11,29 +13,35 @@
     {
       "text": "help",
       "url": "",
-      "fx": 218.31478147153507,
-      "fy": -219.19216784724495
+      "fx": 210.0422134399414,
+      "fy": -212.6605453491211
     },
     {
       "text": "talks",
       "url": "",
-      "fx": 332.7790781656903,
-      "fy": -59.3186211541846
+      "fx": 307.31783433394,
+      "fy": -36.52860394391155
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 614.7156939175043,
+      "fy": 87.04925813521925
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 67.47152780603471,
-      "fy": 47.33833885192871
+      "fx": 57.49467595418298,
+      "fy": 118.64620922229915
     }
   ],
   "subnodes": [
     {
       "text": "how to think majorly in terms of streams",
       "url": "https://github.com/staltz/ama/issues/24",
-      "fx": 355.31478147153507,
-      "fy": -277.69216784724495,
+      "fx": 347.0422134399414,
+      "fy": -291.1605453491211,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -41,8 +49,8 @@
     {
       "text": "introduction to reactive programming you've been missing",
       "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
-      "fx": 355.31478147153507,
-      "fy": -215.69216784724495,
+      "fx": 347.0422134399414,
+      "fy": -229.1605453491211,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -50,16 +58,25 @@
     {
       "text": "RxMarbles",
       "url": "http://rxmarbles.com/",
-      "fx": 355.31478147153507,
-      "fy": -131.69216784724495,
+      "fx": 347.0422134399414,
+      "fy": -145.1605453491211,
       "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "Rx visualiser",
+      "url": "https://rxviz.com/",
+      "fx": 347.0422134399414,
+      "fy": -111.1605453491211,
+      "category": "interactive",
+      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "15: what if the user was a function?",
       "url": "https://www.youtube.com/watch?v=1zj7M1LnJV4",
-      "fx": 472.7790781656903,
-      "fy": -78.8186211541846,
+      "fx": 447.31783433394,
+      "fy": -56.02860394391155,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "talks"
@@ -67,19 +84,45 @@
     {
       "text": "16: you will learn RxJS",
       "url": "https://www.youtube.com/watch?v=uQ1zhJHclvs",
-      "fx": 472.7790781656903,
-      "fy": -16.818621154184598,
+      "fx": 447.31783433394,
+      "fy": 5.971396056088452,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "talks"
     },
     {
+      "text": "16: learning observable by building observable  ️",
+      "url": "https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87",
+      "fx": 776.7156939175043,
+      "fy": 67.54925813521925,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: how vs cold observables  ️",
+      "url": "https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339",
+      "fx": 776.7156939175043,
+      "fy": 129.54925813521925,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
       "text": "1. learn RxJS",
       "url": "https://www.learnrxjs.io/",
-      "fx": 249.47152780603471,
-      "fy": 58.83833885192871,
+      "fx": 239.49467595418298,
+      "fy": 113.14620922229915,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learn RxJS with exercises ",
+      "url": "http://reactivex.io/learnrx/",
+      "fx": 239.49467595418298,
+      "fy": 153.14620922229915,
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -88,24 +131,32 @@
       "source": "help",
       "target": "RxJS",
       "curve": {
-        "x": -56.634,
-        "y": -51.9253
+        "x": -52.4977,
+        "y": -55.1911
       }
     },
     {
       "source": "RxJS",
       "target": "basics",
       "curve": {
-        "x": -14.0376,
-        "y": 185.19
+        "x": -19.026,
+        "y": 220.844
       }
     },
     {
       "source": "talks",
       "target": "help",
       "curve": {
-        "x": -57.9821,
-        "y": -79.9368
+        "x": -49.3878,
+        "y": -88.066
+      }
+    },
+    {
+      "source": "articles",
+      "target": "talks",
+      "curve": {
+        "x": -213.304,
+        "y": -43.8983
       }
     }
   ]

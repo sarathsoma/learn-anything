@@ -1,5 +1,7 @@
 {
   "title": "learn anything - games - video games",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "computer games",
@@ -14,16 +16,24 @@
       "text": "hearthstone  ️",
       "url": "/games/video-games/hearthstone",
       "fx": 41.83405535772533,
-      "fy": -40.33430972213995,
+      "fy": -60.33430972213995,
       "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "computer games"
+    },
+    {
+      "text": "factorio  ️",
+      "fx": 41.83405535772533,
+      "fy": -20.33430972213995,
+      "category": "mindmap",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "computer games"
     },
     {
       "text": "dota 2  ️",
       "url": "/games/video-games/dota-2",
       "fx": 41.83405535772533,
-      "fy": -0.3343097221399489,
+      "fy": 19.66569027786005,
       "category": "mindmap",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "computer games"

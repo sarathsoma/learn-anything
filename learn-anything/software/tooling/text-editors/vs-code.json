@@ -1,11 +1,14 @@
 {
   "title": "learn anything - software - tooling - text editors - vs code",
+  "tag": "vs code text editor",
+  "description": "",
   "nodes": [
     {
       "text": "vs code",
       "url": "https://github.com/Microsoft/vscode",
-      "fx": -103.24609375,
-      "fy": -146.4921875
+      "fx": -117.24609375,
+      "fy": -146.4921875,
+      "category": "github"
     },
     {
       "text": "help",
@@ -17,17 +20,26 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -103.52352523803711,
-      "fy": 62.75161361694336
+      "fx": -134.47784381442614,
+      "fy": 56.235771603054445
     },
     {
       "text": "extensions",
       "url": "",
-      "fx": -204.8137478298612,
+      "fx": -222.91813151041674,
       "fy": 203.00352647568968
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/vscode/",
+      "fx": 81.75390625,
+      "fy": -132.4921875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "vs code"
+    },
     {
       "text": "vs code tips and tricks",
       "url": "https://github.com/Microsoft/vscode-tips-and-tricks",
@@ -57,15 +69,15 @@
     {
       "text": "1. getting started",
       "url": "https://code.visualstudio.com/docs",
-      "fx": 78.47647476196289,
-      "fy": 77.25161361694336,
+      "fx": 47.52215618557386,
+      "fy": 70.73577160305445,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "vs code go",
       "url": "https://github.com/Microsoft/vscode-go",
-      "fx": -9.8137478298612,
+      "fx": -27.918131510416742,
       "fy": 174.50352647568968,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
@@ -74,7 +86,7 @@
     {
       "text": "code runner",
       "url": "https://github.com/formulahendry/vscode-code-runner",
-      "fx": -9.8137478298612,
+      "fx": -27.918131510416742,
       "fy": 214.50352647568968,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
@@ -83,7 +95,7 @@
     {
       "text": "vim",
       "url": "https://github.com/VSCodeVim/Vim",
-      "fx": -9.8137478298612,
+      "fx": -27.918131510416742,
       "fy": 254.50352647568968,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
@@ -95,15 +107,15 @@
       "source": "vs code",
       "target": "basics",
       "curve": {
-        "x": -3.63872,
-        "y": 104.622
+        "x": -12.1159,
+        "y": 101.364
       }
     },
     {
       "source": "help",
       "target": "vs code",
       "curve": {
-        "x": -37.9082,
+        "x": -44.9082,
         "y": -49.5186
       }
     },
@@ -111,8 +123,8 @@
       "source": "basics",
       "target": "extensions",
       "curve": {
-        "x": -40.8951,
-        "y": 70.1259
+        "x": -34.4701,
+        "y": 73.3838
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - javascript libraries - react native",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "react native",
@@ -36,7 +38,7 @@
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
       "url": "https://github.com/facebook/react-native",
       "fx": 57.07812500000023,
       "fy": -310.7519531250002,

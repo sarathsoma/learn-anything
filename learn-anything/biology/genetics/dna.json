@@ -1,5 +1,7 @@
 {
   "title": "learn anything - biology - genetics - dna",
+  "tag": "DNA",
+  "description": "",
   "nodes": [
     {
       "text": "DNA",
@@ -12,19 +14,46 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -181.5175107758621,
-      "fy": -122.25963092672424
+      "fx": -183.564304530272,
+      "fy": -140.90124288637048
+    },
+    {
+      "text": "DNA replication  ️",
+      "fx": -446.4132270781081,
+      "fy": 2.3016199352580884,
+      "category": "mindmap"
+    },
+    {
+      "text": "genomes  ️",
+      "fx": -228.75217340225504,
+      "fy": 3.831159931077366,
+      "category": "mindmap"
+    },
+    {
+      "text": "DNA repair  ️",
+      "fx": -64.98302923678602,
+      "fy": 7.680058869432173,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
-      "text": "6-letter DNA",
+      "text": "1. 6-letter DNA",
       "note": "DNA = fundamental code containing just 4 nucleic acid bases  1. adenine 2. thymine 3. guanine 4. cytosine",
       "url": "https://www.youtube.com/watch?v=Xp9HEp4cYzM",
-      "fx": 0.4824892241379075,
-      "fy": -110.75963092672424,
+      "fx": -1.564304530272011,
+      "fy": -149.40124288637048,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the structure of DNA",
+      "url": "https://www.youtube.com/watch?v=o_-6JXLYS-k",
+      "fx": -1.564304530272011,
+      "fy": -109.40124288637048,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -33,8 +62,32 @@
       "source": "DNA",
       "target": "basics",
       "curve": {
-        "x": -0.849003,
-        "y": 62.6121
+        "x": -1.8724,
+        "y": 53.2913
+      }
+    },
+    {
+      "source": "basics",
+      "target": "genomes  ️",
+      "curve": {
+        "x": -22.3439,
+        "y": 72.3662
+      }
+    },
+    {
+      "source": "basics",
+      "target": "DNA replication  ️",
+      "curve": {
+        "x": -117.174,
+        "y": 71.6014
+      }
+    },
+    {
+      "source": "basics",
+      "target": "DNA repair  ️",
+      "curve": {
+        "x": 63.0406,
+        "y": 74.2907
       }
     }
   ]

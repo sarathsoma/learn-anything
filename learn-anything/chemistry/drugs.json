@@ -1,12 +1,14 @@
 {
   "title": "learn anything - chemistry - drugs",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "drugs",
       "note": "",
       "url": "http://www.wikiwand.com/en/Drug",
       "fx": -325.2270033104829,
-      "fy": -755.4837487202445,
+      "fy": -760.9736135851093,
       "category": "wiki"
     },
     {
@@ -16,41 +18,32 @@
       "fy": -618.3267573230888
     },
     {
-      "text": "stimulants",
-      "url": "http://www.wikiwand.com/en/Stimulant",
-      "fx": -406.17545316921405,
-      "fy": -471.02633212419335,
-      "category": "wiki"
+      "text": "psychedelic drugs  ️",
+      "note": "is a drug whose primary action is to alter cognition and perception, typically by agonising serotonin receptors  not to be confused with psychoactive drugs, such as stimulants and opioids, which induce familiar states of consciousness, psychedelics tend to affect the mind in ways that result in the experience being qualitatively different from those of ordinary consciousness  the psychedelic experience is often compared to non-ordinary forms of consciousness such as trance, meditation, yoga, religious ecstasy, dreaming and even near-death experiences",
+      "url": "/chemistry/drugs/psychedelic",
+      "fx": -203.74964032313335,
+      "fy": -473.35379859618683,
+      "category": "mindmap"
+    },
+    {
+      "text": "stimulants  ️",
+      "fx": -396.2976122601233,
+      "fy": -469.68509523608145,
+      "category": "mindmap"
     },
     {
       "text": "nootropics  ️",
       "note": "are drugs, supplements, nutraceuticals, and functional foods that purportedly improve mental functions such as cognition, memory, intelligence, motivation, attention, and concentration  they are thought to work by altering the availability of the brain's supply of neurochemicals (neurotransmitters, enzymes, and hormones), by improving the brain's oxygen supply, or by stimulating nerve growth",
       "url": "/chemistry/drugs/nootropics",
-      "fx": -631.7912086332158,
-      "fy": -468.86438994167935,
+      "fx": -622.913367724125,
+      "fy": -467.52315305356746,
       "category": "mindmap"
     },
     {
-      "text": "psychedelic drugs  ️",
-      "note": "is a drug whose primary action is to alter cognition and perception, typically by agonising serotonin receptors  not to be confused with psychoactive drugs, such as stimulants and opioids, which induce familiar states of consciousness, psychedelics tend to affect the mind in ways that result in the experience being qualitatively different from those of ordinary consciousness  the psychedelic experience is often compared to non-ordinary forms of consciousness such as trance, meditation, yoga, religious ecstasy, dreaming and even near-death experiences",
-      "url": "/chemistry/drugs/psychedelic",
-      "fx": -175.73936934411233,
-      "fy": -442.6118842605225,
+      "text": "antibiotics  ️",
+      "fx": -801.2815263675055,
+      "fy": -467.0005629708435,
       "category": "mindmap"
-    },
-    {
-      "text": "amphetamine",
-      "url": "http://www.wikiwand.com/en/Amphetamine",
-      "fx": -583.9950256495856,
-      "fy": -360.5663436437592,
-      "category": "wiki"
-    },
-    {
-      "text": "caffeine",
-      "url": "https://psychonautwiki.org/wiki/Caffeine",
-      "fx": -348.29578966767883,
-      "fy": -358.549266691055,
-      "category": "wiki"
     }
   ],
   "subnodes": [
@@ -58,9 +51,18 @@
       "text": "",
       "url": "https://www.reddit.com/r/Drugs/",
       "fx": -120.22700331048293,
-      "fy": -741.4837487202445,
+      "fy": -766.9736135851093,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "drugs"
+    },
+    {
+      "text": "drug nerds",
+      "url": "https://www.reddit.com/r/DrugNerds/",
+      "fx": -120.22700331048293,
+      "fy": -726.9736135851093,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "drugs"
     },
     {
@@ -83,51 +85,43 @@
   ],
   "connections": [
     {
-      "source": "stimulants",
-      "target": "caffeine",
-      "curve": {
-        "x": 30.6898,
-        "y": 57.4885
-      }
-    },
-    {
-      "source": "stimulants",
-      "target": "amphetamine",
-      "curve": {
-        "x": -80.9098,
-        "y": 55.23
-      }
-    },
-    {
       "source": "drugs",
       "target": "basics",
       "curve": {
         "x": -0.15169,
-        "y": 67.3285
+        "y": 70.0734
       }
     },
     {
       "source": "basics",
       "target": "nootropics  ️",
       "curve": {
-        "x": -142.13,
-        "y": 75.9812
+        "x": -137.691,
+        "y": 76.6518
       }
     },
     {
       "source": "basics",
-      "target": "stimulants",
+      "target": "stimulants  ️",
       "curve": {
-        "x": -36.8225,
-        "y": 74.9002
+        "x": -31.8835,
+        "y": 75.5708
       }
     },
     {
       "source": "basics",
       "target": "psychedelic drugs  ️",
       "curve": {
-        "x": 88.8383,
-        "y": 94.7161
+        "x": 74.8332,
+        "y": 79.3451
+      }
+    },
+    {
+      "source": "basics",
+      "target": "antibiotics  ️",
+      "curve": {
+        "x": -282.532,
+        "y": 51.0303
       }
     }
   ]

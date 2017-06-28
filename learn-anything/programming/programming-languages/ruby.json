@@ -1,18 +1,20 @@
 {
   "title": "learn anything - programming - programming languages - ruby",
+  "tag": "ruby programming language",
+  "description": "",
   "nodes": [
     {
       "text": "ruby",
       "url": "http://www.wikiwand.com/en/Ruby_(programming_language)",
-      "fx": 232.47482062381425,
-      "fy": -748.372836093624,
+      "fx": 234.82539003948818,
+      "fy": -808.6924857206122,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 307.29327033547816,
-      "fy": -619.1353939280791
+      "fx": 330.43959045410156,
+      "fy": -627.0095672607422
     },
     {
       "text": "articles",
@@ -32,6 +34,12 @@
       "url": "",
       "fx": 203.77689743041992,
       "fy": -346.85961151123047
+    },
+    {
+      "text": "padrino",
+      "url": "http://padrinorb.com/",
+      "fx": 675.7562864962699,
+      "fy": -201.39814173859008
     },
     {
       "text": "package manager",
@@ -57,15 +65,15 @@
     {
       "text": "web frameworks",
       "url": "http://www.wikiwand.com/en/Web_framework",
-      "fx": 372.7471767013417,
+      "fx": 373.2471767013417,
       "fy": -180.3154494956724,
       "category": "wiki"
     },
     {
-      "text": "padrino",
-      "url": "http://padrinorb.com/",
-      "fx": 663.5780783043808,
-      "fy": -134.15911276482416
+      "text": "hanami  ️",
+      "fx": 682.6091408167299,
+      "fy": -113.67032929911159,
+      "category": "mindmap"
     },
     {
       "text": "RubyGems",
@@ -110,17 +118,35 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/ruby/",
-      "fx": 399.47482062381425,
-      "fy": -734.372836093624,
+      "fx": 401.8253900394882,
+      "fy": -834.6924857206122,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "ruby"
     },
     {
+      "text": "",
+      "url": "https://github.com/ruby/ruby",
+      "fx": 401.8253900394882,
+      "fy": -794.6924857206122,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "ruby"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/ruby",
+      "fx": 401.8253900394882,
+      "fy": -754.6924857206122,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "ruby"
+    },
+    {
       "text": "awesome ruby",
       "url": "https://github.com/Froren?page=6&amp;tab=stars",
-      "fx": 444.29327033547816,
-      "fy": -684.6353939280791,
+      "fx": 467.43959045410156,
+      "fy": -692.5079345703125,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -128,8 +154,8 @@
     {
       "text": "airbnb ruby style guide",
       "url": "https://github.com/airbnb/ruby",
-      "fx": 444.29327033547816,
-      "fy": -644.6353939280791,
+      "fx": 467.43959045410156,
+      "fy": -652.5095672607422,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -137,8 +163,8 @@
     {
       "text": "community ruby style guide",
       "url": "https://github.com/bbatsov/ruby-style-guide",
-      "fx": 444.29327033547816,
-      "fy": -604.6353939280791,
+      "fx": 467.43959045410156,
+      "fy": -612.5095672607422,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -146,16 +172,16 @@
     {
       "text": "awesome ruby",
       "url": "https://ruby.libhunt.com/",
-      "fx": 444.29327033547816,
-      "fy": -564.6353939280791,
+      "fx": 467.43959045410156,
+      "fy": -572.5095672607422,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome ruby events",
       "url": "https://github.com/planetruby/awesome-events",
-      "fx": 444.29327033547816,
-      "fy": -530.6353939280791,
+      "fx": 467.43959045410156,
+      "fy": -538.5095672607422,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -227,8 +253,8 @@
       "source": "ruby",
       "target": "basics",
       "curve": {
-        "x": -9.84896,
-        "y": 200.757
+        "x": -11.0242,
+        "y": 230.917
       }
     },
     {
@@ -283,23 +309,23 @@
       "source": "help",
       "target": "ruby",
       "curve": {
-        "x": -37.1592,
-        "y": -64.6188
+        "x": -47.5571,
+        "y": -90.8415
       }
     },
     {
       "source": "web frameworks",
       "target": "padrino",
       "curve": {
-        "x": 124.915,
-        "y": 23.0782
+        "x": 130.754,
+        "y": -10.5413
       }
     },
     {
       "source": "web frameworks",
       "target": "sinatra",
       "curve": {
-        "x": 61.3312,
+        "x": 61.0812,
         "y": 57.1262
       }
     },
@@ -307,7 +333,7 @@
       "source": "web frameworks",
       "target": "ruby on rails  ️",
       "curve": {
-        "x": -24.227,
+        "x": -24.477,
         "y": 57.1264
       }
     },
@@ -315,7 +341,7 @@
       "source": "basics",
       "target": "web frameworks",
       "curve": {
-        "x": 101.235,
+        "x": 101.485,
         "y": 83.2721
       }
     },
@@ -323,8 +349,8 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -163.028,
-        "y": -56.3084
+        "x": -151.455,
+        "y": -60.2454
       }
     },
     {
@@ -341,6 +367,14 @@
       "curve": {
         "x": -61.2524,
         "y": 55.5022
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "hanami  ️",
+      "curve": {
+        "x": 126.431,
+        "y": 32.0726
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - coq",
+  "tag": "coq programming language",
+  "description": "",
   "nodes": [
     {
       "text": "coq",
@@ -13,12 +15,21 @@
       "note": "",
       "url": "",
       "fx": -69.421875,
-      "fy": -104.578125
+      "fy": -76.59375
     }
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
+      "url": "https://www.reddit.com/r/Coq/",
+      "fx": 109.4609375,
+      "fy": -263.9921875,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "coq"
+    },
+    {
+      "text": "",
       "url": "https://github.com/coq/coq",
       "fx": 109.4609375,
       "fy": -223.9921875,
@@ -27,10 +38,28 @@
       "parent": "coq"
     },
     {
+      "text": "trending",
+      "url": "https://github.com/trending/coq",
+      "fx": 109.4609375,
+      "fy": -183.9921875,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "coq"
+    },
+    {
+      "text": "1. software foundations by Benjamin Pierce",
+      "url": "https://www.youtube.com/watch?v=KKrD4JcfW90&amp;list=PLGCr8P_YncjUT7gXUVJWSoefQ40gTOz89",
+      "fx": 112.578125,
+      "fy": -93.09375,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. tutorial by Mike Nahas",
       "url": "https://coq.inria.fr/tutorial-nahas",
       "fx": 112.578125,
-      "fy": -90.078125,
+      "fy": -31.09375,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -41,7 +70,7 @@
       "target": "basics",
       "curve": {
         "x": -9.94141,
-        "y": 65.457
+        "y": 79.4492
       }
     }
   ]

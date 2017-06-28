@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - crystal",
+  "tag": "crystal programming language",
+  "description": "",
   "nodes": [
     {
       "text": "crystal",
@@ -23,6 +25,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/crystal_programming/",
+      "fx": 132.83984375,
+      "fy": -284.265625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "crystal"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/crystal-lang/crystal",
+      "fx": 132.83984375,
+      "fy": -244.265625,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "crystal"
+    },
     {
       "text": "awesome crystal",
       "url": "https://github.com/veelenga/awesome-crystal",

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - statistics - probability theory - distributions",
+  "tag": "probability distributions",
+  "description": "",
   "nodes": [
     {
       "text": "probability distributions",
@@ -47,6 +49,12 @@
       "url": "/mathematics/statistics/probability-theory/distributions/bernoulli-distribution",
       "fx": -1039.4437746063,
       "fy": -81.8222194881887,
+      "category": "mindmap"
+    },
+    {
+      "text": "F-distribution  ️",
+      "fx": -1240.9554100801572,
+      "fy": -77.6847614222794,
       "category": "mindmap"
     }
   ],
@@ -108,6 +116,14 @@
       "curve": {
         "x": -443.362,
         "y": 33.3094
+      }
+    },
+    {
+      "source": "basics",
+      "target": "F-distribution  ️",
+      "curve": {
+        "x": -705.945,
+        "y": 3.73094
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - software development - devops - docker",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "docker",
@@ -34,16 +36,25 @@
       "text": "",
       "url": "https://www.reddit.com/r/docker/",
       "fx": 139.34746785112793,
-      "fy": -53.52763492244685,
+      "fy": -73.52763492244685,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "docker"
     },
     {
       "text": "",
+      "url": "https://twitter.com/Docker?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "fx": 139.34746785112793,
+      "fy": -33.52763492244685,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "docker"
+    },
+    {
+      "text": "",
       "url": "https://github.com/veggiemonk/awesome-docker",
       "fx": 139.34746785112793,
-      "fy": -13.52763492244685,
+      "fy": 6.47236507755315,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "docker"

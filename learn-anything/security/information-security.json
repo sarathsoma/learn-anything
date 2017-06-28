@@ -1,5 +1,7 @@
 {
   "title": "learn anything - security - information security",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "information security",
@@ -16,11 +18,10 @@
       "fy": -191.41143002717388
     },
     {
-      "text": "network security",
-      "url": "http://www.wikiwand.com/en/Network_security",
-      "fx": -401.1319141421386,
+      "text": "network security  ️",
+      "fx": -400.1319141421386,
       "fy": -100.5352515811843,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "sanitisation  ️",
@@ -85,9 +86,9 @@
     },
     {
       "source": "information security",
-      "target": "network security",
+      "target": "network security  ️",
       "curve": {
-        "x": -151.873,
+        "x": -151.373,
         "y": 110.875
       }
     },

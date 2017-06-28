@@ -1,5 +1,7 @@
 {
   "title": "learn anything - law - software licenses",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "software licenses",
@@ -9,37 +11,92 @@
       "category": "wiki"
     },
     {
+      "text": "help",
+      "url": "",
+      "fx": 405.68987283416755,
+      "fy": -50.67983642359195
+    },
+    {
       "text": "MIT",
       "note": "A short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/ source.  There are many variations of this license in use.",
-      "url": "http://www.wikiwand.com/en/MIT_License",
-      "fx": 283.67506100383423,
-      "fy": -39.76702792150701,
-      "category": "wiki"
+      "url": "https://opensource.org/licenses/MIT",
+      "fx": 370.7609915033087,
+      "fy": 53.822354656833
     },
     {
       "text": "GPL",
       "url": "http://www.wikiwand.com/en/GNU_General_Public_License",
-      "fx": 281.5492364609577,
-      "fy": 76.46898614609574,
+      "fx": 343.9885553746791,
+      "fy": 143.18268094362918,
       "category": "wiki"
+    },
+    {
+      "text": "Apache",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0",
+      "fx": 317.2641317927215,
+      "fy": 223.06629859935816
+    },
+    {
+      "text": "BSD-3",
+      "url": "https://opensource.org/licenses/BSD-3-Clause",
+      "fx": 288.8971063662308,
+      "fy": 301.2789243370664
+    },
+    {
+      "text": "GNU",
+      "url": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "fx": 264.1875038413734,
+      "fy": 395.852926347639
     }
   ],
   "subnodes": [
     {
-      "text": "quick summary",
+      "text": "software licenses in plain english",
+      "url": "https://tldrlegal.com/",
+      "fx": 542.6898728341675,
+      "fy": -36.17983642359195,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "summary",
       "url": "https://tldrlegal.com/license/mit-license",
-      "fx": 470.67506100383423,
-      "fy": -22.767027921507008,
+      "fx": 527.7609915033087,
+      "fy": 68.322354656833,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "MIT"
     },
     {
-      "text": "quick summary",
+      "text": "summary",
       "url": "https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)",
-      "fx": 448.5492364609577,
-      "fy": 93.46898614609574,
+      "fx": 510.9885553746791,
+      "fy": 160.18268094362918,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "GPL"
+    },
+    {
+      "text": "summary",
+      "url": "https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)",
+      "fx": 485.2641317927215,
+      "fy": 237.56629859935816,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "Apache"
+    },
+    {
+      "text": "summary",
+      "url": "https://tldrlegal.com/license/bsd-3-clause-license-(revised)",
+      "fx": 448.8971063662308,
+      "fy": 315.7789243370664,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "BSD-3"
+    },
+    {
+      "text": "summary",
+      "url": "https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)",
+      "fx": 407.1875038413734,
+      "fy": 410.352926347639,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "GNU"
     }
   ],
   "connections": [
@@ -47,16 +104,48 @@
       "source": "software licenses",
       "target": "MIT",
       "curve": {
-        "x": 12.4137,
-        "y": 62.4998
+        "x": 55.9567,
+        "y": 109.294
       }
     },
     {
       "source": "software licenses",
       "target": "GPL",
       "curve": {
-        "x": -37.7901,
-        "y": 145.042
+        "x": -6.57044,
+        "y": 178.399
+      }
+    },
+    {
+      "source": "software licenses",
+      "target": "Apache",
+      "curve": {
+        "x": -10.9714,
+        "y": 238.672
+      }
+    },
+    {
+      "source": "help",
+      "target": "software licenses",
+      "curve": {
+        "x": -72.1711,
+        "y": -57.0433
+      }
+    },
+    {
+      "source": "software licenses",
+      "target": "BSD-3",
+      "curve": {
+        "x": -38.6482,
+        "y": 330.532
+      }
+    },
+    {
+      "source": "software licenses",
+      "target": "GNU",
+      "curve": {
+        "x": -55.8869,
+        "y": 396.683
       }
     }
   ]

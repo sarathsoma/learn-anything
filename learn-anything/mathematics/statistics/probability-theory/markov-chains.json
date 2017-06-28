@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - statistics - probability theory - markov chains",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "markov chains",
@@ -19,7 +21,13 @@
       "note": "",
       "url": "",
       "fx": 337.18154080962313,
-      "fy": 23.618321572580612
+      "fy": 21.951654905913983
+    },
+    {
+      "text": "Markov Chain Monte Carlo  ️",
+      "fx": 113.36729655774104,
+      "fy": 183.10719714995764,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -45,7 +53,7 @@
       "text": "1. visually explained",
       "url": "http://setosa.io/ev/markov-chains/",
       "fx": 519.1815408096231,
-      "fy": 15.118321572580612,
+      "fy": 13.451654905913983,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -54,7 +62,7 @@
       "text": "1. N-Grams and markov chains",
       "url": "https://www.youtube.com/watch?list=PLRqwX-V7Uu6ah9Oqs_BFQIbGIn1XynsVT&amp;v=v4kL0OHuxXs",
       "fx": 519.1815408096231,
-      "fy": 55.11832157258061,
+      "fy": 53.45165490591398,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -63,7 +71,7 @@
       "text": "code",
       "url": "http://shiffman.net/a2z/markov/",
       "fx": 870.1815408096231,
-      "fy": 58.11832157258061,
+      "fy": 56.45165490591398,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "1. N-Grams and markov chains"
     }
@@ -74,7 +82,7 @@
       "target": "basics",
       "curve": {
         "x": -0.62603,
-        "y": 122.784
+        "y": 121.951
       }
     },
     {
@@ -83,6 +91,14 @@
       "curve": {
         "x": -43.3008,
         "y": -53.4688
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Markov Chain Monte Carlo  ️",
+      "curve": {
+        "x": -74.1571,
+        "y": 80.5778
       }
     }
   ]

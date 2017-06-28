@@ -1,33 +1,62 @@
 {
   "title": "learn anything - programming - programming languages - groovy",
+  "tag": "groovy programming language",
+  "description": "",
   "nodes": [
     {
       "text": "groovy",
       "url": "http://www.wikiwand.com/en/Groovy_(programming_language)",
       "fx": -62.50022315979004,
-      "fy": -29.454605102539062,
+      "fy": -74.72055393673597,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 46.94017163212436,
-      "fy": 61.86129774083747
+      "fx": 61.93167098445588,
+      "fy": 41.917159139801186
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -55.90725830193128,
-      "fy": 142.08766365191406
+      "fx": -71.55047397550652,
+      "fy": 134.0080004394788
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/groovy/",
+      "fx": 125.49977684020996,
+      "fy": -100.72055393673597,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "groovy"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/apache/groovy",
+      "fx": 125.49977684020996,
+      "fy": -60.72055393673597,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "groovy"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/groovy",
+      "fx": 125.49977684020996,
+      "fy": -20.720553936735968,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "groovy"
+    },
+    {
       "text": "awesome groovy",
       "url": "https://github.com/kdabir/awesome-groovy",
-      "fx": 183.94017163212436,
-      "fy": 73.36129774083747,
+      "fx": 198.93167098445588,
+      "fy": 53.417159139801186,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -35,8 +64,8 @@
     {
       "text": "1. get started",
       "url": "http://groovy-lang.org/documentation.html#gettingstarted",
-      "fx": 126.09274169806872,
-      "fy": 156.58766365191406,
+      "fx": 110.44952602449348,
+      "fy": 148.5080004394788,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -46,16 +75,16 @@
       "source": "help",
       "target": "groovy",
       "curve": {
-        "x": -41.9702,
-        "y": -44.408
+        "x": -49.4659,
+        "y": -57.0689
       }
     },
     {
       "source": "groovy",
       "target": "basics",
       "curve": {
-        "x": -4.70352,
-        "y": 84.5211
+        "x": -12.5251,
+        "y": 103.114
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - swift - apple frameworks",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "apple frameworks",
@@ -16,14 +18,8 @@
     {
       "text": "Core Data",
       "url": "https://developer.apple.com/documentation/coredata",
-      "fx": -1055.6856786809817,
-      "fy": -273.2934240797547
-    },
-    {
-      "text": "Cocoa",
-      "url": "https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html",
-      "fx": -905.6671865898505,
-      "fy": -272.5897009702198
+      "fx": -1057.8097534179688,
+      "fy": -273.2934226989746
     },
     {
       "text": "Foundation",
@@ -51,6 +47,12 @@
       "category": "mindmap"
     },
     {
+      "text": "Cocoa  ️",
+      "fx": -919.6671865898505,
+      "fy": -272.5897009702198,
+      "category": "mindmap"
+    },
+    {
       "text": "SceneKit",
       "url": "https://developer.apple.com/documentation/scenekit",
       "fx": -1357.301926691729,
@@ -59,7 +61,7 @@
     {
       "text": "PDFKit",
       "url": "https://developer.apple.com/documentation/pdfkit",
-      "fx": -137.33560180664062,
+      "fx": -145.37857055664062,
       "fy": -269.59037017822266
     },
     {
@@ -114,7 +116,7 @@
       "source": "apple frameworks",
       "target": "PDFKit",
       "curve": {
-        "x": -21.192,
+        "x": -25.2135,
         "y": 115.694
       }
     },
@@ -152,9 +154,9 @@
     },
     {
       "source": "apple frameworks",
-      "target": "Cocoa",
+      "target": "Cocoa  ️",
       "curve": {
-        "x": -450.936,
+        "x": -457.936,
         "y": 71.4519
       }
     },
@@ -162,7 +164,7 @@
       "source": "apple frameworks",
       "target": "Core Data",
       "curve": {
-        "x": -584.912,
+        "x": -585.974,
         "y": 46.74
       }
     },

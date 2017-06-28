@@ -1,5 +1,7 @@
 {
   "title": "learn anything - engineering - electrical engineering",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "electrical engineering",
@@ -24,15 +26,8 @@
     {
       "text": "electronics  ️",
       "url": "/engineering/electrical-engineering/electronics",
-      "fx": -202.08342978395058,
-      "fy": 41.97371720678984,
-      "category": "mindmap"
-    },
-    {
-      "text": "signal processing  ️",
-      "url": "/engineering/electrical-engineering/signal-processing",
-      "fx": -59.35301722288409,
-      "fy": 163.0126569443854,
+      "fx": -174.84319540895058,
+      "fy": 78.48055314428984,
       "category": "mindmap"
     }
   ],
@@ -129,14 +124,6 @@
       }
     },
     {
-      "source": "basics",
-      "target": "signal processing  ️",
-      "curve": {
-        "x": 15.3016,
-        "y": 118.216
-      }
-    },
-    {
       "source": "help",
       "target": "electrical engineering",
       "curve": {
@@ -148,8 +135,8 @@
       "source": "basics",
       "target": "electronics  ️",
       "curve": {
-        "x": -77.5636,
-        "y": 57.6965
+        "x": -63.9435,
+        "y": 75.9499
       }
     }
   ]

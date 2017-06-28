@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "mathematics",
@@ -18,8 +20,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 1292.7254333496094,
-      "fy": -961.4227905273438
+      "fx": 1311.2051654284514,
+      "fy": -975.7926788330078
     },
     {
       "text": "algebra  ️",
@@ -189,12 +191,6 @@
       "category": "mindmap"
     },
     {
-      "text": "articles",
-      "url": "",
-      "fx": 1596.2048463563665,
-      "fy": -457.541901459565
-    },
-    {
       "text": "lambda calculus  ️",
       "note": "is a formal system in mathematical logic for expressing computation based on function abstraction and application using variable binding and substitution  it is a universal model of computation that can be used to simulate any single-taped Turing machine   it consists of constructing lambda terms and performing reduction operations on them",
       "url": "/mathematics/lambda-calculus",
@@ -208,6 +204,12 @@
       "fx": 749.9878122346668,
       "fy": -405.79717719977634,
       "category": "mindmap"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 1659.6622314453125,
+      "fy": -314.490466733522
     }
   ],
   "subnodes": [
@@ -270,8 +272,8 @@
     {
       "text": "wolfram alpha",
       "url": "https://www.wolframalpha.com/",
-      "fx": 1429.7254333496094,
-      "fy": -1281.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -1316.2926788330078,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -279,8 +281,8 @@
     {
       "text": "napkin project",
       "url": "http://web.evanchen.cc/napkin.html",
-      "fx": 1429.7254333496094,
-      "fy": -1241.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -1276.2926788330078,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -288,8 +290,8 @@
       "text": "undergraduate mathematics bibliography",
       "note": "annotated bibliography of books that may be useful to undergraduates in pure mathematics",
       "url": "https://github.com/ystael/chicago-ug-math-bib",
-      "fx": 1429.7254333496094,
-      "fy": -1207.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -1242.2926788330078,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -297,24 +299,24 @@
     {
       "text": "how to become a pure mathematician",
       "url": "http://hbpms.blogspot.nl/",
-      "fx": 1429.7254333496094,
-      "fy": -1145.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -1180.2926788330078,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "better explained",
       "url": "https://betterexplained.com/",
-      "fx": 1429.7254333496094,
-      "fy": -1089.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -1124.2926788330078,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "world of mathematics",
       "url": "http://world.mathigon.org/",
-      "fx": 1429.7254333496094,
-      "fy": -1055.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -1090.2926788330078,
       "category": "interactive",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -322,16 +324,16 @@
     {
       "text": "math insight",
       "url": "http://mathinsight.org/",
-      "fx": 1429.7254333496094,
-      "fy": -1015.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -1050.2926788330078,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "math album",
       "url": "http://imgur.com/a/hmK2C",
-      "fx": 1429.7254333496094,
-      "fy": -981.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -1016.2926788330078,
       "category": "image",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -339,8 +341,8 @@
     {
       "text": "audio/video courses and lectures on math  ️",
       "url": "http://www.infocobuild.com/education/audio-video-courses/mathematics/mathematics.html",
-      "fx": 1429.7254333496094,
-      "fy": -941.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -976.2926788330078,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -348,8 +350,8 @@
     {
       "text": "free and open-source textbooks  ️",
       "url": "https://dcernst.github.io/resources/free-and-open-source-textbooks/",
-      "fx": 1429.7254333496094,
-      "fy": -879.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -914.2926788330078,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -357,8 +359,8 @@
     {
       "text": "explained visually",
       "url": "http://setosa.io/ev/",
-      "fx": 1429.7254333496094,
-      "fy": -839.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -874.2926788330078,
       "category": "interactive",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -366,16 +368,16 @@
     {
       "text": "math concepts map",
       "url": "https://fkcd.ca/bHd.svg",
-      "fx": 1429.7254333496094,
-      "fy": -799.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -834.2926788330078,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome math",
       "url": "https://github.com/rossant/awesome-math",
-      "fx": 1429.7254333496094,
-      "fy": -765.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -800.2926788330078,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -384,16 +386,16 @@
       "text": "map of the Tricki",
       "note": "quick solutions to problems",
       "url": "http://www.tricki.org/tricki/map",
-      "fx": 1429.7254333496094,
-      "fy": -725.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -760.2926788330078,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "for potential PhD students  ️",
       "url": "http://math.stanford.edu/%7Evakil/potentialstudents.html",
-      "fx": 1429.7254333496094,
-      "fy": -691.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -726.2926788330078,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -401,8 +403,8 @@
     {
       "text": "math with python",
       "url": "https://github.com/calebmadrigal/math-with-python",
-      "fx": 1429.7254333496094,
-      "fy": -651.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -686.2926788330078,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -410,16 +412,25 @@
     {
       "text": "online mathematics text books",
       "url": "http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html",
-      "fx": 1429.7254333496094,
-      "fy": -611.9227905273438,
+      "fx": 1448.2051654284514,
+      "fy": -646.2926788330078,
       "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "geometric representation of math",
+      "url": "http://nada.kth.se/%7Eaxelhu/mapthematics.pdf",
+      "fx": 1448.2051654284514,
+      "fy": -612.2926788330078,
+      "category": "image",
+      "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "there’s more to mathematics than rigour and proofs  ️",
       "url": "https://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/",
-      "fx": 1758.2048463563665,
-      "fy": -643.041901459565,
+      "fx": 1821.6622314453125,
+      "fy": -499.990466733522,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -427,8 +438,8 @@
     {
       "text": "does one have to be a genius to do maths?  ️",
       "url": "https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/",
-      "fx": 1758.2048463563665,
-      "fy": -581.041901459565,
+      "fx": 1821.6622314453125,
+      "fy": -437.990466733522,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -436,8 +447,8 @@
     {
       "text": "16: toward an exploratory medium for mathematics  ️",
       "url": "http://cognitivemedium.com/emm/emm.html",
-      "fx": 1758.2048463563665,
-      "fy": -519.041901459565,
+      "fx": 1821.6622314453125,
+      "fy": -375.990466733522,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -445,8 +456,8 @@
     {
       "text": "how to play mathematics  ️",
       "url": "https://aeon.co/essays/theres-more-maths-in-slugs-and-corals-than-we-can-think-of",
-      "fx": 1758.2048463563665,
-      "fy": -457.041901459565,
+      "fx": 1821.6622314453125,
+      "fy": -313.990466733522,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -454,8 +465,8 @@
     {
       "text": "the unreasonable effectiveness of mathematics in the natural sciences  ️",
       "url": "",
-      "fx": 1758.2048463563665,
-      "fy": -417.041901459565,
+      "fx": 1821.6622314453125,
+      "fy": -273.990466733522,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
@@ -463,8 +474,8 @@
     {
       "text": "the reasonable ineffectiveness of mathematics  ️",
       "url": "https://pdfs.semanticscholar.org/462d/7b6b1ee8243b6aa8897be3cf306239fb43c6.pdf",
-      "fx": 1758.2048463563665,
-      "fy": -333.041901459565,
+      "fx": 1821.6622314453125,
+      "fy": -189.990466733522,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "articles"
@@ -472,8 +483,8 @@
     {
       "text": "John Conway: genius behind the numbers  ️",
       "url": "https://www.52-insights.com/john-conway-genius-behind-the-numbers/",
-      "fx": 1758.2048463563665,
-      "fy": -271.041901459565,
+      "fx": 1821.6622314453125,
+      "fy": -127.990466733522,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -484,8 +495,8 @@
       "source": "basics",
       "target": "help",
       "curve": {
-        "x": 215.362,
-        "y": 154.375
+        "x": 224.602,
+        "y": 147.19
       }
     },
     {
@@ -668,8 +679,8 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -232.196,
-        "y": -115.719
+        "x": -254.685,
+        "y": -194.43
       }
     },
     {

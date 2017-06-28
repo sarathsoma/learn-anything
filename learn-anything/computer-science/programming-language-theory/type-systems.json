@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - programming language theory - type systems",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "type systems",
@@ -15,10 +17,16 @@
       "fy": -45.182718716458794
     },
     {
+      "text": "gradual typing  ️",
+      "fx": -41.2989742249016,
+      "fy": 124.14410063976379,
+      "category": "mindmap"
+    },
+    {
       "text": "type classes  ️",
       "url": "/computer-science/programming-language-theory/type-systems/type-classes",
-      "fx": -207.080357142857,
-      "fy": 72.99798387098076,
+      "fx": -250.459008967125,
+      "fy": 130.45892278839437,
       "category": "mindmap"
     }
   ],
@@ -27,9 +35,18 @@
       "text": "1. explanation",
       "url": "https://www.youtube.com/watch?v=ozwFIuVfPsQ",
       "fx": 86.48785638809204,
-      "fy": -33.682718716458794,
+      "fy": -53.682718716458794,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. propositions as types",
+      "url": "http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf",
+      "fx": 86.48785638809204,
+      "fy": -13.682718716458794,
+      "category": "paper",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -46,8 +63,16 @@
       "source": "basics",
       "target": "type classes  ️",
       "curve": {
-        "x": -55.2841,
-        "y": 59.0904
+        "x": -76.9735,
+        "y": 87.8208
+      }
+    },
+    {
+      "source": "basics",
+      "target": "gradual typing  ️",
+      "curve": {
+        "x": 31.6065,
+        "y": 84.6634
       }
     }
   ]

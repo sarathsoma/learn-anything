@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - api - rest",
+  "tag": "REST api",
+  "description": "",
   "nodes": [
     {
       "text": "REST",
@@ -22,6 +24,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/rest/",
+      "fx": 345.515625,
+      "fy": -236.51171875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "REST"
+    },
     {
       "text": "awesome rest",
       "url": "https://github.com/marmelab/awesome-rest",

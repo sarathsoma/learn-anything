@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer graphics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "computer graphics",
@@ -22,19 +24,17 @@
       "fy": 46.98382535242877
     },
     {
+      "text": "digital images  ️",
+      "fx": -747.7833182594995,
+      "fy": 249.89363953561474,
+      "category": "mindmap"
+    },
+    {
       "text": "graphics API",
       "url": "http://www.wikiwand.com/en/Application_programming_interface",
       "fx": -531.9455871582031,
       "fy": 250.42773818969727,
       "category": "wiki"
-    },
-    {
-      "text": "vector graphics  ️",
-      "note": "is the use of polygons to represent images  are based on vectors, which lead through locations called control points or nodes  each of these points has a definite position on the x- and y- axes of the work place and determines the direction of the path   further, each path may be assigned various attributes, including such values as stroke colour, shape, curve, thickness and fill",
-      "url": "/computer-graphics/vector-graphics",
-      "fx": -772.9533774678146,
-      "fy": 250.60901191139408,
-      "category": "mindmap"
     },
     {
       "text": "bezier curves  ️",
@@ -61,36 +61,29 @@
     {
       "text": "digital video  ️",
       "url": "/computer-graphics/digital-video",
-      "fx": -964.9060363769531,
+      "fx": -941.4685363769531,
       "fy": 253.64232635498047,
       "category": "mindmap"
     },
     {
       "text": "volume rendering  ️",
       "url": "/computer-graphics/volume-rendering",
-      "fx": -1196.0320129394531,
+      "fx": -1172.5945129394531,
       "fy": 253.74662017822266,
       "category": "mindmap"
     },
     {
       "text": "polygon mesh  ️",
       "url": "/computer-graphics/polygon-mesh",
-      "fx": -1399.1218566894531,
+      "fx": -1375.6843566894531,
       "fy": 255.05864715576172,
-      "category": "mindmap"
-    },
-    {
-      "text": "image processing  ️",
-      "url": "/computer-graphics/image-processing",
-      "fx": -1634.2044982910156,
-      "fy": 257.6860580444336,
       "category": "mindmap"
     },
     {
       "text": "shaders  ️",
       "url": "/computer-graphics/shaders",
-      "fx": -1780.5367692786067,
-      "fy": 258.54003420398055,
+      "fx": -1526.7404417699695,
+      "fy": 255.1176426167391,
       "category": "mindmap"
     },
     {
@@ -292,17 +285,9 @@
     },
     {
       "source": "basics",
-      "target": "vector graphics  ️",
-      "curve": {
-        "x": -369.261,
-        "y": 91.9404
-      }
-    },
-    {
-      "source": "basics",
       "target": "digital video  ️",
       "curve": {
-        "x": -568.588,
+        "x": -556.869,
         "y": 85.9035
       }
     },
@@ -310,7 +295,7 @@
       "source": "basics",
       "target": "volume rendering  ️",
       "curve": {
-        "x": -560.834,
+        "x": -549.115,
         "y": 48.3035
       }
     },
@@ -318,24 +303,24 @@
       "source": "basics",
       "target": "polygon mesh  ️",
       "curve": {
-        "x": -837.799,
+        "x": -826.08,
         "y": 40.3586
-      }
-    },
-    {
-      "source": "basics",
-      "target": "image processing  ️",
-      "curve": {
-        "x": -952.667,
-        "y": -8.38758
       }
     },
     {
       "source": "basics",
       "target": "shaders  ️",
       "curve": {
-        "x": -1104.19,
-        "y": -13.5245
+        "x": -977.292,
+        "y": -15.2357
+      }
+    },
+    {
+      "source": "basics",
+      "target": "digital images  ️",
+      "curve": {
+        "x": -306.062,
+        "y": 102.705
       }
     }
   ]

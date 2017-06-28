@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - f sharp",
+  "tag": "F# programming language",
+  "description": "",
   "nodes": [
     {
       "text": "f sharp",
@@ -29,6 +31,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/fsharp/",
+      "fx": 118.2421875,
+      "fy": -210.35546875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "f sharp"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/fsharp/fsharp",
+      "fx": 118.2421875,
+      "fy": -170.35546875,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "f sharp"
+    },
     {
       "text": "awesome f#",
       "url": "https://github.com/fsprojects/awesome-fsharp",

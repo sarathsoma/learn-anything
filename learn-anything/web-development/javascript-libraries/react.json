@@ -1,11 +1,13 @@
 {
   "title": "learn anything - web development - javascript libraries - react",
+  "tag": "react.js",
+  "description": "",
   "nodes": [
     {
       "text": "react",
       "url": "https://facebook.github.io/react/",
-      "fx": -113.13512819463563,
-      "fy": -467.6999539462003
+      "fx": -113.96950319463565,
+      "fy": -486.8374539462003
     },
     {
       "text": "help",
@@ -23,7 +25,7 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -313.9561233520508,
+      "fx": -314.2061233520508,
       "fy": 35.4533109664917
     },
     {
@@ -39,9 +41,16 @@
       "category": "mindmap"
     },
     {
+      "text": "react move",
+      "url": "https://github.com/tannerlinsley/react-move",
+      "fx": -188.447265625,
+      "fy": 184.4541015625,
+      "category": "github"
+    },
+    {
       "text": "relay  ️",
-      "fx": -287.9842826919985,
-      "fy": 214.64821322873638,
+      "fx": -324.72126185866523,
+      "fy": 250.39300489540312,
       "category": "mindmap"
     }
   ],
@@ -49,10 +58,28 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/reactjs/",
-      "fx": 30.864871805364373,
-      "fy": -456.1999539462003,
+      "fx": 30.03049680536435,
+      "fy": -515.3374539462003,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "react"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/reactjs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "fx": 30.03049680536435,
+      "fy": -475.3374539462003,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "react"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/facebook/react",
+      "fx": 30.03049680536435,
+      "fy": -435.3374539462003,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "react"
     },
     {
@@ -148,16 +175,24 @@
     {
       "text": "1. quick start",
       "url": "https://facebook.github.io/react/docs/hello-world.html",
-      "fx": -131.95612335205078,
-      "fy": 9.9533109664917,
+      "fx": -132.20612335205078,
+      "fy": -7.046689033508301,
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. react express",
+      "url": "http://www.react.express/",
+      "fx": -132.20612335205078,
+      "fy": 26.9533109664917,
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. react fundamentals",
       "url": "https://reacttraining.com/online/react-fundamentals",
-      "fx": -131.95612335205078,
-      "fy": 43.9533109664917,
+      "fx": -132.20612335205078,
+      "fy": 60.9533109664917,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -165,8 +200,8 @@
     {
       "text": "2. react koans",
       "url": "https://github.com/arkency/reactjs_koans",
-      "fx": -131.95612335205078,
-      "fy": 83.9533109664917,
+      "fx": -132.20612335205078,
+      "fy": 100.9533109664917,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -203,16 +238,16 @@
       "source": "help",
       "target": "react",
       "curve": {
-        "x": -67.602,
-        "y": -73.8378
+        "x": -68.0192,
+        "y": -83.4065
       }
     },
     {
       "source": "react",
       "target": "basics",
       "curve": {
-        "x": -97.41,
-        "y": 251.577
+        "x": -97.1178,
+        "y": 261.146
       }
     },
     {
@@ -227,8 +262,8 @@
       "source": "basics",
       "target": "relay  ️",
       "curve": {
-        "x": 9.736,
-        "y": 90.8476
+        "x": -8.50749,
+        "y": 108.72
       }
     },
     {
@@ -243,8 +278,16 @@
       "source": "basics",
       "target": "react router  ️",
       "curve": {
-        "x": -67.8601,
+        "x": -67.7351,
         "y": 56.5243
+      }
+    },
+    {
+      "source": "basics",
+      "target": "react move",
+      "curve": {
+        "x": 74.3794,
+        "y": 75.7504
       }
     }
   ]

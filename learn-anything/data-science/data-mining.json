@@ -1,10 +1,12 @@
 {
   "title": "learn anything - data science - data mining",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "data mining",
       "url": "http://www.wikiwand.com/en/Data_mining",
-      "fx": -85.00038021802902,
+      "fx": -83.23121234012206,
       "fy": -186.34115982055664,
       "category": "wiki"
     },
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/datamining/",
+      "fx": 149.76878765987794,
+      "fy": -172.34115982055664,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "data mining"
+    },
     {
       "text": "1. basics of data mining",
       "url": "https://www.youtube.com/watch?v=u2oSiVOQRmg",
@@ -65,7 +76,7 @@
       "source": "data mining",
       "target": "basics",
       "curve": {
-        "x": -0.489747,
+        "x": -1.37433,
         "y": 75.8863
       }
     },

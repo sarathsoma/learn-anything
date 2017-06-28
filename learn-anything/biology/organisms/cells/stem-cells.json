@@ -1,11 +1,13 @@
 {
   "title": "learn anything - biology - organisms - cells - stem cells",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "stem cells",
       "url": "http://www.wikiwand.com/en/Stem_cell",
-      "fx": -85.83001270933005,
-      "fy": -173.64851226076559,
+      "fx": -86.80750971889938,
+      "fy": -169.2394961124403,
       "category": "wiki"
     },
     {
@@ -16,6 +18,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/stemcells/",
+      "fx": 131.19249028110062,
+      "fy": -155.2394961124403,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "stem cells"
+    },
     {
       "text": "1. what are stem cells?",
       "url": "https://www.youtube.com/watch?v=evH0I7Coc54",
@@ -49,8 +60,8 @@
       "source": "stem cells",
       "target": "basics",
       "curve": {
-        "x": -4.16241,
-        "y": 84.3247
+        "x": -3.67366,
+        "y": 82.1202
       }
     }
   ]

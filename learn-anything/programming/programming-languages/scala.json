@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - scala",
+  "tag": "scala programming language",
+  "description": "",
   "nodes": [
     {
       "text": "scala",
@@ -29,6 +31,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://github.com/scala/scala",
+      "fx": 131.1704926818444,
+      "fy": -344.9199460698755,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "scala"
+    },
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/scala/",
+      "fx": 131.1704926818444,
+      "fy": -304.9199460698755,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "scala"
+    },
     {
       "text": "awesome scala",
       "url": "https://github.com/lauris/awesome-scala",

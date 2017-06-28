@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - linear algebra - vectors",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "Euclidean vector",
@@ -38,10 +40,19 @@
   ],
   "subnodes": [
     {
+      "text": "1. explanation",
+      "url": "http://natureofcode.com/book/chapter-1-vectors/",
+      "fx": 259.2772333259718,
+      "fy": -12.435902605629735,
+      "category": "interactive",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. what are vectors?",
       "url": "https://www.youtube.com/watch?v=ml4NSzCQobk",
       "fx": 259.2772333259718,
-      "fy": 7.564097394370265,
+      "fy": 27.564097394370265,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -50,7 +61,7 @@
       "text": "1. intro to vectors",
       "url": "http://immersivemath.com/ila/ch02_vectors/ch02.html",
       "fx": 259.2772333259718,
-      "fy": 47.564097394370265,
+      "fy": 67.56409739437026,
       "category": "interactive",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"

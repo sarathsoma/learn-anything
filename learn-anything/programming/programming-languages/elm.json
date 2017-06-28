@@ -1,11 +1,13 @@
 {
   "title": "learn anything - programming - programming languages - elm",
+  "tag": "elm programming language",
+  "description": "",
   "nodes": [
     {
       "text": "elm",
       "url": "http://www.wikiwand.com/en/Elm_(programming_language)",
       "fx": -158.22265625,
-      "fy": -353.81640625,
+      "fy": -386.08984375,
       "category": "wiki"
     },
     {
@@ -30,11 +32,38 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -151.00211784638554,
-      "fy": 108.52164909638543
+      "fx": -157.08805534638554,
+      "fy": 110.56461784638543
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/elm/",
+      "fx": 1.77734375,
+      "fy": -412.08984375,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "elm"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/elm-lang",
+      "fx": 1.77734375,
+      "fy": -372.08984375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "elm"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/elm",
+      "fx": 1.77734375,
+      "fy": -332.08984375,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "elm"
+    },
     {
       "text": "awesome elm",
       "url": "https://github.com/isRuslan/awesome-elm",
@@ -74,8 +103,8 @@
     {
       "text": "1. why elm?",
       "url": "http://www.oreilly.com/web-platform/free/files/why-elm.pdf",
-      "fx": 30.997882153614455,
-      "fy": 89.02164909638543,
+      "fx": 24.911944653614455,
+      "fy": 71.06461784638543,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -83,10 +112,19 @@
     {
       "text": "1. functional programming in elm",
       "url": "https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/Home.html",
-      "fx": 30.997882153614455,
-      "fy": 129.02164909638543,
+      "fx": 24.911944653614455,
+      "fy": 111.06461784638543,
       "category": "",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. 25 elm exercises",
+      "url": "https://github.com/bryanjenningz/25-elm-examples",
+      "fx": 24.911944653614455,
+      "fy": 173.06461784638543,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -95,8 +133,8 @@
       "source": "elm",
       "target": "basics",
       "curve": {
-        "x": 2.61027,
-        "y": 229.919
+        "x": -0.432699,
+        "y": 247.077
       }
     },
     {
@@ -104,7 +142,7 @@
       "target": "elm",
       "curve": {
         "x": -41.5059,
-        "y": -47.6387
+        "y": -63.7754
       }
     },
     {

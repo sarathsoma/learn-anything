@@ -1,5 +1,7 @@
 {
   "title": "learn anything - biology - organisms - cells",
+  "tag": "biological cells",
+  "description": "",
   "nodes": [
     {
       "text": "cells",
@@ -15,10 +17,28 @@
       "fy": 14.82853889465332
     },
     {
+      "text": "autophagy  ️",
+      "fx": -196.27586377009135,
+      "fy": 136.24381547789898,
+      "category": "mindmap"
+    },
+    {
       "text": "stem cells  ️",
       "url": "/biology/organisms/cells/stem-cells",
-      "fx": -73.96875,
-      "fy": 135.39453125,
+      "fx": -20.793179946844702,
+      "fy": 137.67424436475414,
+      "category": "mindmap"
+    },
+    {
+      "text": "cell division  ️",
+      "fx": -372.4858174891068,
+      "fy": 138.1151226836276,
+      "category": "mindmap"
+    },
+    {
+      "text": "membrane potential  ️",
+      "fx": 149.6817812277268,
+      "fy": 141.26672558278483,
       "category": "mindmap"
     }
   ],
@@ -46,8 +66,32 @@
       "source": "basics",
       "target": "stem cells  ️",
       "curve": {
-        "x": -51.5273,
-        "y": 60.283
+        "x": -24.9395,
+        "y": 61.4229
+      }
+    },
+    {
+      "source": "basics",
+      "target": "membrane potential  ️",
+      "curve": {
+        "x": 82.7979,
+        "y": 63.2191
+      }
+    },
+    {
+      "source": "basics",
+      "target": "autophagy  ️",
+      "curve": {
+        "x": -111.431,
+        "y": 60.7076
+      }
+    },
+    {
+      "source": "basics",
+      "target": "cell division  ️",
+      "curve": {
+        "x": -223.734,
+        "y": 36.459
       }
     }
   ]

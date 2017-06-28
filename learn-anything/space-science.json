@@ -1,5 +1,7 @@
 {
   "title": "learn anything - space science",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "space science",
@@ -10,11 +12,17 @@
       "category": "wiki"
     },
     {
+      "text": "help",
+      "url": "",
+      "fx": 6.874232700892776,
+      "fy": -105.77176339285722
+    },
+    {
       "text": "astronomy  ️",
       "note": "studies celestial objects and phenomena   applies mathematics, physics and chemistry, in effort to explain the origin of those objects and phenomena and their evolution  objects of interest include planets, moons, stars, galaxies and comets  while the phenomena include supernovae explosions, gamma ray bursts and cosmic microwave background radiation",
       "url": "/space-science/astronomy",
-      "fx": -180.5966155218207,
-      "fy": -82.14191653399138,
+      "fx": -189.02431381692554,
+      "fy": -1.351478187316502,
       "category": "mindmap"
     }
   ],
@@ -27,6 +35,15 @@
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "space science"
+    },
+    {
+      "text": "PBS space time",
+      "url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/videos",
+      "fx": 143.87423270089278,
+      "fy": -94.27176339285722,
+      "category": "youtube",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
     }
   ],
   "connections": [
@@ -34,8 +51,16 @@
       "source": "space science",
       "target": "astronomy  ️",
       "curve": {
-        "x": -1.35177,
-        "y": 63.386
+        "x": -5.56562,
+        "y": 103.781
+      }
+    },
+    {
+      "source": "help",
+      "target": "space science",
+      "curve": {
+        "x": -64.3836,
+        "y": -50.3211
       }
     }
   ]

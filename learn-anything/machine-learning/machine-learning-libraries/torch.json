@@ -1,5 +1,7 @@
 {
   "title": "learn anything - machine learning - machine learning libraries - torch",
+  "tag": "torch library",
+  "description": "",
   "nodes": [
     {
       "text": "torch",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://github.com/torch/torch7",
+      "fx": 82.64453125,
+      "fy": -341.94140625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "torch"
+    },
     {
       "text": "awesome torch",
       "url": "https://github.com/carpedm20/awesome-torch",

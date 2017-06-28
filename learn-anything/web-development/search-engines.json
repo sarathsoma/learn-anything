@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - search engines",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "web search engine",
@@ -12,8 +14,8 @@
     {
       "text": "Elasticsearch  ️",
       "url": "/web-development/search-engines/elasticsearch",
-      "fx": -315.1875494449447,
-      "fy": 104.84389436127594,
+      "fx": -357.15070400575553,
+      "fy": 92.51017392208666,
       "category": "mindmap"
     },
     {
@@ -25,14 +27,21 @@
     {
       "text": "sphinx",
       "url": "http://sphinxsearch.com/",
-      "fx": -163.02871456852677,
-      "fy": 194.94473746970817
+      "fx": -245.7910667644727,
+      "fy": 189.98538358457307
+    },
+    {
+      "text": "query understanding",
+      "url": "http://www.wikiwand.com/en/Query_understanding",
+      "fx": -58.84572208737234,
+      "fy": 288.4224817961165,
+      "category": "wiki"
     },
     {
       "text": "Solr  ️",
       "url": "/web-development/search-engines/solr",
-      "fx": -25.914003708221685,
-      "fy": 228.17857108817793,
+      "fx": -196.30716249200543,
+      "fy": 304.99181010844825,
       "category": "mindmap"
     }
   ],
@@ -69,24 +78,32 @@
       "source": "web search engine",
       "target": "Elasticsearch  ️",
       "curve": {
-        "x": -117.621,
-        "y": 52.1717
+        "x": -138.603,
+        "y": 46.0048
       }
     },
     {
       "source": "web search engine",
       "target": "sphinx",
       "curve": {
-        "x": -63.0423,
-        "y": 97.222
+        "x": -104.423,
+        "y": 94.7423
       }
     },
     {
       "source": "web search engine",
       "target": "Solr  ️",
       "curve": {
-        "x": -0.984887,
-        "y": 113.84
+        "x": -86.1815,
+        "y": 152.247
+      }
+    },
+    {
+      "source": "web search engine",
+      "target": "query understanding",
+      "curve": {
+        "x": 20.7992,
+        "y": 143.961
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - machine learning - neural networks - generative adversarial networks",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "generative adversarial networks",
@@ -17,8 +19,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 182.606534090909,
-      "fy": -56.26658887987014
+      "fx": 170.22659632034618,
+      "fy": -28.076484713203513
     }
   ],
   "subnodes": [
@@ -34,10 +36,19 @@
     {
       "text": "1. Ian Goodfellow : generative adversarial networks",
       "url": "https://www.youtube.com/watch?v=HN9NRhm9waY",
-      "fx": 338.606534090909,
-      "fy": -55.76658887987014,
+      "fx": 326.2265963203462,
+      "fy": -47.57648471320351,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. delving deep into GANs",
+      "url": "https://github.com/GKalliatakis/Delving-deep-into-GANs",
+      "fx": 326.2265963203462,
+      "fy": 14.423515286796487,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -46,8 +57,8 @@
       "source": "generative adversarial networks",
       "target": "basics",
       "curve": {
-        "x": -2.59321,
-        "y": 120.273
+        "x": -8.78318,
+        "y": 134.368
       }
     },
     {

@@ -1,33 +1,53 @@
 {
   "title": "learn anything - programming - programming languages - dart",
+  "tag": "dart programming language",
+  "description": "",
   "nodes": [
     {
       "text": "dart",
       "url": "http://www.wikiwand.com/en/Dart_(programming_language)",
-      "fx": -85.09784409403801,
-      "fy": -161.40365982055664,
+      "fx": -80.01190659403801,
+      "fy": -192.13022232055664,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 1.531496286392212,
-      "fy": -63.104976654052734
+      "fx": 21.254152536392212,
+      "fy": -87.17138290405273
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -84.09765625,
-      "fy": 22.89453125
+      "fx": -97.3984375,
+      "fy": 12.72265625
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/dartlang/",
+      "fx": 82.98809340596199,
+      "fy": -198.13022232055664,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "dart"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/dart-lang/sdk",
+      "fx": 82.98809340596199,
+      "fy": -158.13022232055664,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "dart"
+    },
+    {
       "text": "awesome dart",
       "url": "https://github.com/yissachar/awesome-dart",
-      "fx": 138.5314962863922,
-      "fy": -51.604976654052734,
+      "fx": 158.2541525363922,
+      "fy": -75.67138290405273,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -35,8 +55,8 @@
     {
       "text": "1. get started",
       "url": "https://www.dartlang.org/guides/get-started",
-      "fx": 97.90234375,
-      "fy": 37.39453125,
+      "fx": 84.6015625,
+      "fy": 27.22265625,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -46,16 +66,16 @@
       "source": "help",
       "target": "dart",
       "curve": {
-        "x": -36.8147,
-        "y": -47.8993
+        "x": -44.1331,
+        "y": -51.2294
       }
     },
     {
       "source": "dart",
       "target": "basics",
       "curve": {
-        "x": -1.24991,
-        "y": 90.8991
+        "x": -10.4433,
+        "y": 101.176
       }
     }
   ]

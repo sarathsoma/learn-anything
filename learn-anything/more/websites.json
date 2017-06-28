@@ -1,19 +1,21 @@
 {
   "title": "learn anything - more - websites",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "websites",
       "note": "",
-      "url": "https://github.com/learn-anything/websites/tree/master",
-      "fx": -140.2608973792876,
-      "fy": -172.84277588761478,
+      "url": "https://github.com/learn-anything/websites",
+      "fx": 20.193938387135745,
+      "fy": -182.47724212849067,
       "category": "github"
     },
     {
-      "text": "more websites",
+      "text": "find websites",
       "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
-      "fx": -249.4606316725998,
-      "fy": 14.704292704626084,
+      "fx": -77.87976721876169,
+      "fy": 187.76827536885963,
       "category": "github"
     }
   ],
@@ -21,107 +23,150 @@
     {
       "text": "edX",
       "url": "https://www.edx.org/",
-      "fx": 92.7391026207124,
-      "fy": -342.8427758876148,
+      "fx": 253.19393838713574,
+      "fy": -406.4772421284907,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "websites"
     },
     {
       "text": "reddit",
       "url": "https://www.reddit.com",
-      "fx": 92.7391026207124,
-      "fy": -308.8427758876148,
+      "fx": 253.19393838713574,
+      "fy": -372.4772421284907,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "websites"
     },
     {
       "text": "quora",
       "url": "https://www.quora.com/",
-      "fx": 92.7391026207124,
-      "fy": -274.8427758876148,
+      "fx": 253.19393838713574,
+      "fy": -338.4772421284907,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "websites"
     },
     {
       "text": "udacity",
       "url": "https://www.udacity.com/",
-      "fx": 92.7391026207124,
-      "fy": -240.84277588761478,
+      "fx": 253.19393838713574,
+      "fy": -304.4772421284907,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "websites"
     },
     {
       "text": "lobsters",
       "url": "https://lobste.rs/",
-      "fx": 92.7391026207124,
-      "fy": -206.84277588761478,
+      "fx": 253.19393838713574,
+      "fy": -270.4772421284907,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "websites"
     },
     {
       "text": "coursera",
       "url": "https://www.coursera.org/",
-      "fx": 92.7391026207124,
-      "fy": -172.84277588761478,
+      "fx": 253.19393838713574,
+      "fy": -236.47724212849067,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "websites"
     },
     {
+      "text": "github",
+      "url": "https://github.com/",
+      "fx": 253.19393838713574,
+      "fy": -202.47724212849067,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "websites"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending",
+      "fx": 403.19393838713574,
+      "fy": -202.47724212849067,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "github"
+    },
+    {
       "text": "pinboard",
       "url": "https://pinboard.in/popular/",
-      "fx": 92.7391026207124,
-      "fy": -138.84277588761478,
+      "fx": 253.19393838713574,
+      "fy": -162.47724212849067,
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "websites"
+    },
+    {
+      "text": "wiki search",
+      "url": "http://wikisearch.surge.sh/machine%20learning",
+      "fx": 253.19393838713574,
+      "fy": -128.47724212849067,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "websites"
+    },
+    {
+      "text": "find lectures",
+      "url": "https://www.findlectures.com/",
+      "fx": 253.19393838713574,
+      "fy": -94.47724212849067,
+      "color": "rgba(49, 187, 71, 1.0)",
       "parent": "websites"
     },
     {
       "text": "hacker news",
       "url": "http://hckrnews.com/",
-      "fx": 92.7391026207124,
-      "fy": -104.84277588761478,
+      "fx": 253.19393838713574,
+      "fy": -60.47724212849067,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "websites"
     },
     {
       "text": "product hunt",
       "url": "https://www.producthunt.com/",
-      "fx": 92.7391026207124,
-      "fy": -70.84277588761478,
+      "fx": 253.19393838713574,
+      "fy": -26.477242128490673,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "websites"
     },
     {
       "text": "freecodecamp",
       "url": "http://freecodecamp.com",
-      "fx": 92.7391026207124,
-      "fy": -36.84277588761478,
+      "fx": 253.19393838713574,
+      "fy": 7.522757871509327,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "websites"
     },
     {
-      "text": "find lectures",
-      "url": "https://www.findlectures.com/",
-      "fx": 92.7391026207124,
-      "fy": -2.8427758876147777,
-      "color": "rgba(49, 187, 71, 1.0)",
+      "text": "search awesome lists",
+      "url": "https://ankitgyawali.github.io/awesome-interface/#/search",
+      "fx": 253.19393838713574,
+      "fy": 41.52275787150933,
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "websites"
     },
     {
       "text": "MIT open courseware",
       "url": "https://ocw.mit.edu/index.htm",
-      "fx": 92.7391026207124,
-      "fy": 31.157224112385222,
+      "fx": 253.19393838713574,
+      "fy": 75.52275787150933,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "websites"
+    },
+    {
+      "text": "internet is beautiful",
+      "url": "https://www.reddit.com/r/InternetIsBeautiful/",
+      "fx": 168.12023278123831,
+      "fy": 201.76827536885963,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "find websites"
     }
   ],
   "connections": [
     {
-      "source": "more websites",
+      "source": "find websites",
       "target": "websites",
       "curve": {
-        "x": 48.0999,
-        "y": -93.7736
+        "x": 42.5369,
+        "y": -185.123
       }
     }
   ]

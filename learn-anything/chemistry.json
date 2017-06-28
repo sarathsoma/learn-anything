@@ -1,5 +1,7 @@
 {
   "title": "learn anything - chemistry",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "chemistry",
@@ -71,6 +73,12 @@
       "url": "/chemistry/organic-chemistry",
       "fx": -247.4729118347168,
       "fy": 1.9662890434265137,
+      "category": "mindmap"
+    },
+    {
+      "text": "physical chemistry  ️",
+      "fx": -1866.7926718040346,
+      "fy": 2.118421236318568,
       "category": "mindmap"
     },
     {
@@ -240,6 +248,14 @@
       "curve": {
         "x": -840.507,
         "y": 75.3037
+      }
+    },
+    {
+      "source": "basics",
+      "target": "physical chemistry  ️",
+      "curve": {
+        "x": -989.245,
+        "y": 42.5841
       }
     }
   ]
