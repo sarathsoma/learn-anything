@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - software development - build automation",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "build automation",
@@ -15,17 +17,22 @@
       "fy": 28.845640182495117
     },
     {
-      "text": "jenkins  ️",
-      "url": "/programming/software-development/devops/jenkins",
-      "fx": 125.98198532790286,
-      "fy": 170.82510759589377,
+      "text": "Gradle  ️",
+      "url": "/programming/software-development/build-automation/gradle",
+      "fx": -148.8625529870326,
+      "fy": 171.68581680279283,
       "category": "mindmap"
     },
     {
-      "text": "Gradle  ️",
-      "url": "/programming/software-development/build-automation/gradle",
-      "fx": -113.76655897107514,
-      "fy": 179.81829685598439,
+      "text": "cmake  ️",
+      "fx": 126.99997356984454,
+      "fy": 173.45891798116895,
+      "category": "mindmap"
+    },
+    {
+      "text": "jenkins  ️",
+      "fx": -10.135604858398438,
+      "fy": 173.82377243041992,
       "category": "mindmap"
     }
   ],
@@ -53,16 +60,24 @@
       "source": "basics",
       "target": "Gradle  ️",
       "curve": {
-        "x": -68.8752,
-        "y": 75.4863
+        "x": -86.4232,
+        "y": 71.4201
       }
     },
     {
       "source": "basics",
       "target": "jenkins  ️",
       "curve": {
-        "x": 59.499,
-        "y": 72.2397
+        "x": -8.5598,
+        "y": 73.739
+      }
+    },
+    {
+      "source": "basics",
+      "target": "cmake  ️",
+      "curve": {
+        "x": 52.508,
+        "y": 72.3066
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - virtual machines - jvm",
+  "tag": "java virtual machine",
+  "description": "",
   "nodes": [
     {
       "text": "java virtual machine",
@@ -24,8 +26,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -65.72858502538054,
-      "fy": -132.75341053299513
+      "fx": -69.87897565038043,
+      "fy": -122.20130394817369
     },
     {
       "text": "vert.x  ️",
@@ -72,18 +74,18 @@
     {
       "text": "1. inside the java virtual machine",
       "url": "http://www.artima.com/insidejvm/ed2/",
-      "fx": 90.27141497461946,
-      "fy": -138.25341053299513,
+      "fx": 86.12102434961957,
+      "fy": -127.70130394817369,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. JVM architecture",
-      "url": "https://www.youtube.com/watch?v=dncpVFP1JeQ",
-      "fx": 90.27141497461946,
-      "fy": -104.25341053299513,
+      "url": "https://www.youtube.com/watch?v=ZBJ0u9MaKtM",
+      "fx": 86.12102434961957,
+      "fy": -93.70130394817369,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -108,24 +110,24 @@
       "source": "java virtual machine",
       "target": "basics",
       "curve": {
-        "x": -0.725621,
-        "y": 135.274
+        "x": -2.80082,
+        "y": 140.55
       }
     },
     {
       "source": "basics",
       "target": "vert.x  ️",
       "curve": {
-        "x": -93.5271,
-        "y": 64.0587
+        "x": -91.4519,
+        "y": 58.7826
       }
     },
     {
       "source": "basics",
       "target": "RxJava  ️",
       "curve": {
-        "x": 1.56599,
-        "y": 77.72
+        "x": 3.64119,
+        "y": 72.4439
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - data structures - quadtree",
+  "tag": "quadtree data structure",
+  "description": "",
   "nodes": [
     {
       "text": "quadtree",
@@ -9,18 +11,33 @@
       "category": "wiki"
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": -6.412629570976037,
+      "fy": -181.3098235994962
+    },
+    {
       "text": "basics",
       "url": "",
-      "fx": -136.18108393719808,
-      "fy": -144.25775588768113
+      "fx": -137.18878321256034,
+      "fy": -65.54398777173913
     }
   ],
   "subnodes": [
     {
+      "text": "computer art based on quadtrees",
+      "url": "https://github.com/fogleman/Quads",
+      "fx": 184.58737042902396,
+      "fy": -169.8098235994962,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "1. interactive explanation",
       "url": "http://jimkang.com/quadtreevis/",
-      "fx": 19.818916062801918,
-      "fy": -132.75775588768113,
+      "fx": 18.811216787439662,
+      "fy": -54.043987771739125,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -31,8 +48,16 @@
       "source": "quadtree",
       "target": "basics",
       "curve": {
-        "x": -2.98312,
-        "y": 68.0977
+        "x": -3.48697,
+        "y": 107.455
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "quadtree",
+      "curve": {
+        "x": -70.6511,
+        "y": -49.5717
       }
     }
   ]

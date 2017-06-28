@@ -1,5 +1,7 @@
 {
   "title": "learn anything - philosophy - philosophy of mind - metaphysics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "metaphysics",
@@ -16,6 +18,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Metaphysics/",
+      "fx": 9.61328125,
+      "fy": -262.43359375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "metaphysics"
+    },
     {
       "text": "1. introduction to metaphysics",
       "url": "https://www.youtube.com/watch?v=qKq0Afmsj-U",

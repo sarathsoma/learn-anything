@@ -1,11 +1,13 @@
 {
   "title": "learn anything - programming - programming languages - lua",
+  "tag": "lua programming language",
+  "description": "",
   "nodes": [
     {
       "text": "lua",
       "url": "http://www.wikiwand.com/en/Lua_(programming_language)",
       "fx": -85.3125,
-      "fy": -302.37890625,
+      "fy": -318.015625,
       "category": "wiki"
     },
     {
@@ -23,6 +25,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/lua/",
+      "fx": 67.6875,
+      "fy": -324.015625,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "lua"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/lua/lua",
+      "fx": 67.6875,
+      "fy": -284.015625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "lua"
+    },
     {
       "text": "awesome lua",
       "url": "https://github.com/LewisJEllis/awesome-lua",
@@ -47,7 +67,7 @@
       "target": "lua",
       "curve": {
         "x": -38.4668,
-        "y": -53.332
+        "y": -61.1504
       }
     },
     {
@@ -55,7 +75,7 @@
       "target": "basics",
       "curve": {
         "x": -5.82617,
-        "y": 93.9199
+        "y": 101.738
       }
     }
   ]

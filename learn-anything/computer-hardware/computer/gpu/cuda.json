@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer hardware - computer - gpu - cuda",
+  "tag": "CUDA",
+  "description": "",
   "nodes": [
     {
       "text": "CUDA",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/CUDA/",
+      "fx": 100.21875,
+      "fy": -174.35546875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "CUDA"
+    },
     {
       "text": "awesome CUDA",
       "url": "https://github.com/Erkaman/Awesome-CUDA",

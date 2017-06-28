@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - energy",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "energy",
@@ -11,13 +13,31 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 1.984375,
-      "fy": -40.5546875
+      "fx": 1.5689868927001953,
+      "fy": -48.19976234436035
+    },
+    {
+      "text": "conservation of energy  ️",
+      "fx": 86.38194932864451,
+      "fy": 100.59687100383627,
+      "category": "mindmap"
     },
     {
       "text": "dark energy  ️",
-      "fx": -150.55650308098666,
-      "fy": 64.16219190136638,
+      "fx": -113.32361917038008,
+      "fy": 101.01471515098302,
+      "category": "mindmap"
+    },
+    {
+      "text": "potential energy  ️",
+      "fx": -534.0221362421285,
+      "fy": 104.58916967795085,
+      "category": "mindmap"
+    },
+    {
+      "text": "kinetic energy  ️",
+      "fx": -315.17929252356464,
+      "fy": 104.59457981566948,
       "category": "mindmap"
     }
   ],
@@ -25,8 +45,8 @@
     {
       "text": "1. what is energy",
       "url": "https://www.youtube.com/watch?v=CW0_S5YpYVo",
-      "fx": 157.984375,
-      "fy": -29.0546875,
+      "fx": 157.5689868927002,
+      "fy": -36.69976234436035,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -37,16 +57,40 @@
       "source": "energy",
       "target": "basics",
       "curve": {
-        "x": 1.50195,
-        "y": 70.3242
+        "x": 1.29426,
+        "y": 66.5017
       }
     },
     {
       "source": "basics",
       "target": "dark energy  ️",
       "curve": {
-        "x": -64.0204,
-        "y": 52.3584
+        "x": -45.1963,
+        "y": 74.6072
+      }
+    },
+    {
+      "source": "basics",
+      "target": "conservation of energy  ️",
+      "curve": {
+        "x": 79.4065,
+        "y": 74.3983
+      }
+    },
+    {
+      "source": "basics",
+      "target": "kinetic energy  ️",
+      "curve": {
+        "x": -151.103,
+        "y": 66.9511
+      }
+    },
+    {
+      "source": "basics",
+      "target": "potential energy  ️",
+      "curve": {
+        "x": -303.287,
+        "y": 60.3555
       }
     }
   ]

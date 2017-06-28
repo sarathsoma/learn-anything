@@ -1,19 +1,21 @@
 {
   "title": "learn anything - security",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "security",
       "note": "",
       "url": "http://www.wikiwand.com/en/Security",
-      "fx": -200.8634788268621,
-      "fy": -385.33435302759153,
+      "fx": -208.94526863098145,
+      "fy": -391.9048156738281,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 10.690355615082012,
-      "fy": -277.8277380243253
+      "fx": 18.772143363952637,
+      "fy": -271.2567367553711
     },
     {
       "text": "penetration testing  ️",
@@ -55,10 +57,19 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/security/",
+      "fx": 14.054731369018555,
+      "fy": -377.9048156738281,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "security"
+    },
+    {
       "text": "15: advanced threat tactics",
       "url": "https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c",
-      "fx": 147.690355615082,
-      "fy": -446.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -439.7567367553711,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -66,8 +77,8 @@
     {
       "text": "security tips for startups",
       "url": "https://github.com/forter/security-101-for-saas-startups",
-      "fx": 147.690355615082,
-      "fy": -406.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -399.7567367553711,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -75,8 +86,8 @@
     {
       "text": "awesome application security",
       "url": "https://github.com/paragonie/awesome-appsec",
-      "fx": 147.690355615082,
-      "fy": -366.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -359.7567367553711,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -84,8 +95,8 @@
     {
       "text": "awesome security",
       "url": "https://github.com/sbilly/awesome-security",
-      "fx": 147.690355615082,
-      "fy": -326.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -319.7567367553711,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -93,8 +104,8 @@
     {
       "text": "awesome vehicle security",
       "url": "https://github.com/jaredthecoder/awesome-vehicle-security",
-      "fx": 147.690355615082,
-      "fy": -286.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -279.7567367553711,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -102,8 +113,8 @@
     {
       "text": "awesome incident response",
       "url": "https://github.com/meirwah/awesome-incident-response",
-      "fx": 147.690355615082,
-      "fy": -246.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -239.7567367553711,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -111,8 +122,8 @@
     {
       "text": "awesome honeypots",
       "url": "https://github.com/paralax/awesome-honeypots",
-      "fx": 147.690355615082,
-      "fy": -206.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -199.7567367553711,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -120,8 +131,8 @@
     {
       "text": "security guide for developers",
       "url": "https://github.com/FallibleInc/security-guide-for-developers",
-      "fx": 147.690355615082,
-      "fy": -166.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -159.7567367553711,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -129,8 +140,8 @@
     {
       "text": "awesome OSINT",
       "url": "https://github.com/jivoi/awesome-osint",
-      "fx": 147.690355615082,
-      "fy": -126.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -119.7567367553711,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -138,8 +149,8 @@
     {
       "text": "security 101 for SaaS startups",
       "url": "https://github.com/forter/security-101-for-saas-startups",
-      "fx": 147.690355615082,
-      "fy": -86.3277380243253,
+      "fx": 155.77214336395264,
+      "fy": -79.7567367553711,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -150,24 +161,24 @@
       "source": "help",
       "target": "security",
       "curve": {
-        "x": -90.7769,
-        "y": -52.5033
+        "x": -98.8587,
+        "y": -59.074
       }
     },
     {
       "source": "security",
       "target": "privacy  ️",
       "curve": {
-        "x": -49.4563,
-        "y": 196.808
+        "x": -45.4154,
+        "y": 200.093
       }
     },
     {
       "source": "security",
       "target": "penetration testing  ️",
       "curve": {
-        "x": 64.8262,
-        "y": 196.607
+        "x": 68.8671,
+        "y": 199.892
       }
     },
     {
@@ -182,16 +193,16 @@
       "source": "security",
       "target": "hacking  ️",
       "curve": {
-        "x": -144.144,
-        "y": 197.376
+        "x": -140.103,
+        "y": 200.661
       }
     },
     {
       "source": "security",
       "target": "information security  ️",
       "curve": {
-        "x": -248.824,
-        "y": 199.992
+        "x": -244.783,
+        "y": 203.277
       }
     }
   ]

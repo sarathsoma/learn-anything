@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - analysis - complex analysis",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "complex analysis",
@@ -43,9 +45,18 @@
       "text": "1. introduction to complex analysis",
       "url": "https://www.coursera.org/learn/complex-analysis",
       "fx": 151.3612195375016,
-      "fy": 17.68139080125451,
+      "fy": -2.3186091987454915,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. complex analysis",
+      "url": "http://www.goodreads.com/book/show/202427.Complex_Analysis",
+      "fx": 151.3612195375016,
+      "fy": 37.68139080125451,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],

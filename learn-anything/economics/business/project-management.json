@@ -1,5 +1,7 @@
 {
   "title": "learn anything - economics - business - project management",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "project management",
@@ -14,6 +16,12 @@
       "url": "",
       "fx": -218.74542297979815,
       "fy": -462.9764046717176
+    },
+    {
+      "text": "event management  ️",
+      "fx": -394.4033203125,
+      "fy": -320.3310546875,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -52,6 +60,14 @@
       "curve": {
         "x": -0.549169,
         "y": 69.0957
+      }
+    },
+    {
+      "source": "basics",
+      "target": "event management  ️",
+      "curve": {
+        "x": -65.3289,
+        "y": 71.3227
       }
     }
   ]

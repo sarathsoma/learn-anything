@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - assembly - arm",
+  "tag": "ARM architecture",
+  "description": "",
   "nodes": [
     {
       "text": "ARM",
@@ -22,6 +24,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/arm/",
+      "fx": 110.48611111111109,
+      "fy": -232.04600694444446,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "ARM"
+    },
     {
       "text": "VisUAL",
       "note": "a highly visual ARM emulator",

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - linguistics - languages - spanish",
+  "tag": "spanish language",
+  "description": "",
   "nodes": [
     {
       "text": "spanish language",
@@ -18,8 +20,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -106.76565599441528,
-      "fy": 16.934473037719727
+      "fx": -113.98049974441528,
+      "fy": 23.063379287719727
     }
   ],
   "subnodes": [
@@ -52,9 +54,17 @@
     {
       "text": "1. duolingo",
       "url": "https://www.duolingo.com/course/es/en/Learn-Spanish-Online",
-      "fx": 75.23434400558472,
-      "fy": 31.434473037719727,
+      "fx": 68.01950025558472,
+      "fy": 20.563379287719727,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. clozemaster",
+      "url": "https://www.clozemaster.com/about",
+      "fx": 68.01950025558472,
+      "fy": 54.56337928771973,
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -63,8 +73,8 @@
       "source": "spanish language",
       "target": "basics",
       "curve": {
-        "x": -9.91793,
-        "y": 106.538
+        "x": -13.5254,
+        "y": 109.602
       }
     },
     {

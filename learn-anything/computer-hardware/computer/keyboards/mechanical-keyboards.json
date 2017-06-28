@@ -1,12 +1,20 @@
 {
   "title": "learn anything - computer hardware - computer - keyboards - mechanical keyboards",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "mechanical keyboards",
       "url": "https://www.reddit.com/r/MechanicalKeyboards/",
-      "fx": -85.578125,
-      "fy": -186.95703125,
+      "fx": -83.90267319277109,
+      "fy": -219.44008847891564,
       "category": "reddit"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 128.82890193370167,
+      "fy": -81.42929903314922
     },
     {
       "text": "ortholinear",
@@ -27,14 +35,24 @@
       "fy": 93.40763707571818
     }
   ],
-  "subnodes": [],
+  "subnodes": [
+    {
+      "text": "keyboard PCB guide",
+      "url": "https://github.com/ruiqimao/keyboard-pcb-guide",
+      "fx": 319.8289019337017,
+      "fy": -69.92929903314922,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
   "connections": [
     {
       "source": "mechanical keyboards",
       "target": "ortholinear",
       "curve": {
-        "x": -30.3449,
-        "y": 78.0736
+        "x": -31.1826,
+        "y": 94.3151
       }
     },
     {
@@ -51,6 +69,14 @@
       "curve": {
         "x": 19.373,
         "y": 60.8587
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "mechanical keyboards",
+      "curve": {
+        "x": -71.6158,
+        "y": -67.7554
       }
     }
   ]

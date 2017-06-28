@@ -1,24 +1,26 @@
 {
   "title": "learn anything - programming languages - c",
+  "tag": "c programming language",
+  "description": "",
   "nodes": [
     {
       "text": "c",
       "url": "http://www.wikiwand.com/en/C_(programming_language)",
-      "fx": -1.0105413442158806,
-      "fy": -273.01435704521055,
+      "fx": -5.150930185575589,
+      "fy": -322.28045097557276,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 83.79258150667772,
-      "fy": -160.00291484111062
+      "fx": 87.97102381732009,
+      "fy": -146.76596275535786
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 172.0347343651024,
-      "fy": 59.304928573402094
+      "fx": 203.8527242299673,
+      "fy": 70.18119546529397
     },
     {
       "text": "basics",
@@ -30,10 +32,28 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/C_Programming/",
+      "fx": 132.8490698144244,
+      "fy": -328.28045097557276,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "c"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/swift",
+      "fx": 132.8490698144244,
+      "fy": -288.28045097557276,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "c"
+    },
+    {
       "text": "write a c interpreter",
       "url": "https://github.com/lotabout/write-a-C-interpreter",
-      "fx": 220.79258150667772,
-      "fy": -243.00291484111062,
+      "fx": 224.95829607989333,
+      "fy": -230.05071846214497,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -41,8 +61,8 @@
     {
       "text": "awesome c",
       "url": "https://github.com/aleksandar-todorovic/awesome-c",
-      "fx": 220.79258150667772,
-      "fy": -203.00291484111062,
+      "fx": 224.9710238173201,
+      "fy": -189.76596275535786,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -50,16 +70,16 @@
     {
       "text": "c gibberish  ↔ english",
       "url": "https://cdecl.org/",
-      "fx": 220.79258150667772,
-      "fy": -163.00291484111062,
+      "fx": 224.9710238173201,
+      "fy": -149.76596275535786,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "how to C by Keith Thompson",
       "url": "https://github.com/Keith-S-Thompson/how-to-c-response",
-      "fx": 220.79258150667772,
-      "fy": -122.00291484111062,
+      "fx": 224.9710238173201,
+      "fy": -108.76596275535786,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -67,24 +87,24 @@
     {
       "text": "deep C (and c++) slides",
       "url": "https://www.slideshare.net/olvemaudal/deep-c",
-      "fx": 220.79258150667772,
-      "fy": -82.00291484111062,
+      "fx": 224.9710238173201,
+      "fy": -68.76596275535786,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "how to learn C",
       "url": "http://charliethe.ninja/slideshow/english/introtoc#1",
-      "fx": 220.79258150667772,
-      "fy": -48.00291484111062,
+      "fx": 224.9710238173201,
+      "fy": -34.76596275535786,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "lessons to learn from c  ️",
       "url": "https://drewdevault.com/2017/01/30/Lessons-to-learn-from-C.html",
-      "fx": 334.0347343651024,
-      "fy": -0.19507142659790588,
+      "fx": 365.8527242299673,
+      "fy": 10.681195465293968,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -92,8 +112,8 @@
     {
       "text": "let’s stop copying c  ️",
       "url": "https://eev.ee/blog/2016/12/01/lets-stop-copying-c/",
-      "fx": 334.0347343651024,
-      "fy": 39.804928573402094,
+      "fx": 365.8527242299673,
+      "fy": 50.68119546529397,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -101,8 +121,8 @@
     {
       "text": "principles for c programming  ️",
       "url": "https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html",
-      "fx": 334.0347343651024,
-      "fy": 79.8049285734021,
+      "fx": 365.8527242299673,
+      "fy": 90.68119546529397,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -110,8 +130,8 @@
     {
       "text": "after all these years, the world is still powered by c programming  ️",
       "url": "http://tekhinnovation.blogspot.nl/2017/03/after-all-these-years-world-is-still.html?m=1",
-      "fx": 334.0347343651024,
-      "fy": 119.8049285734021,
+      "fx": 365.8527242299673,
+      "fy": 130.68119546529397,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -167,24 +187,24 @@
       "source": "c",
       "target": "basics",
       "curve": {
-        "x": -36.2546,
-        "y": 279.706
+        "x": -34.1844,
+        "y": 304.339
       }
     },
     {
       "source": "help",
       "target": "c",
       "curve": {
-        "x": -42.1516,
-        "y": -55.2558
+        "x": -46.311,
+        "y": -86.5073
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -50.371,
-        "y": -109.653
+        "x": -64.1908,
+        "y": -108.473
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - network science - computer networking",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "computer networking",
@@ -46,15 +48,21 @@
     {
       "text": "peer to peer  ️",
       "url": "/network-science/computer-networking/peer-to-peer",
-      "fx": -438.0813908811476,
-      "fy": 187.53400358606575,
+      "fx": -436.33768463134766,
+      "fy": 187.53400421142578,
       "category": "mindmap"
     },
     {
       "text": "internet  ️",
       "url": "/network-science/computer-networking/internet",
-      "fx": -583.0809025998925,
-      "fy": 190.5794137423038,
+      "fx": -579.4438934326172,
+      "fy": 190.57941055297852,
+      "category": "mindmap"
+    },
+    {
+      "text": "proxy server  ️",
+      "fx": -765.5084206448187,
+      "fy": 193.38123196066567,
       "category": "mindmap"
     }
   ],
@@ -160,7 +168,7 @@
       "source": "basics",
       "target": "peer to peer  ️",
       "curve": {
-        "x": -358.839,
+        "x": -357.967,
         "y": 74.9877
       }
     },
@@ -176,8 +184,16 @@
       "source": "basics",
       "target": "internet  ️",
       "curve": {
-        "x": -484.39,
+        "x": -482.571,
         "y": 63.9714
+      }
+    },
+    {
+      "source": "basics",
+      "target": "proxy server  ️",
+      "curve": {
+        "x": -551.822,
+        "y": 23.2824
       }
     }
   ]

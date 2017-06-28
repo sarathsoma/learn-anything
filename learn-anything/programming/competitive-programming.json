@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - competitive programming",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "competitive programming",
@@ -18,14 +20,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -154.650760548089,
-      "fy": -30.464270622499498
+      "fx": -156.3890417980889,
+      "fy": 16.823327033750502
     },
     {
       "text": "practice  ️",
       "url": "/programming/practice",
-      "fx": -172.6052384942999,
-      "fy": 149.13269307066992,
+      "fx": -191.8825822442999,
+      "fy": 148.00232197691992,
       "category": "mindmap"
     }
   ],
@@ -40,10 +42,19 @@
       "parent": "help"
     },
     {
+      "text": "1. ACM curriculum",
+      "url": "https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum",
+      "fx": 25.610958201911103,
+      "fy": -31.676672966249498,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. competitive programming 1",
       "url": "https://www.goodreads.com/book/show/22820951-competitive-programming",
-      "fx": 27.34923945191099,
-      "fy": -58.9642706224995,
+      "fx": 25.610958201911103,
+      "fy": 8.323327033750502,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -51,8 +62,8 @@
     {
       "text": "2. competitive programming 2",
       "url": "https://www.goodreads.com/book/show/21464930-competitive-programming-2",
-      "fx": 27.34923945191099,
-      "fy": -18.964270622499498,
+      "fx": 25.610958201911103,
+      "fy": 48.3233270337505,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -60,8 +71,8 @@
     {
       "text": "3. competitive programming 3",
       "url": "https://www.goodreads.com/book/show/22820968-competitive-programming-3",
-      "fx": 27.34923945191099,
-      "fy": 21.035729377500502,
+      "fx": 25.610958201911103,
+      "fy": 88.3233270337505,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -72,8 +83,8 @@
       "source": "competitive programming",
       "target": "basics",
       "curve": {
-        "x": -2.50313,
-        "y": 109.909
+        "x": -3.37227,
+        "y": 133.553
       }
     },
     {
@@ -88,8 +99,8 @@
       "source": "basics",
       "target": "practice  ️",
       "curve": {
-        "x": -11.7272,
-        "y": 89.7985
+        "x": -20.4968,
+        "y": 65.5895
       }
     }
   ]

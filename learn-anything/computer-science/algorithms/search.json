@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - algorithms - search",
+  "tag": "search algorithms",
+  "description": "",
   "nodes": [
     {
       "text": "search algorithms",
@@ -23,27 +25,33 @@
     },
     {
       "text": "depth-first search  ️",
-      "fx": -691.3341538975728,
-      "fy": 167.526866515837,
+      "fx": -804.6398179600728,
+      "fy": 169.69971807833724,
       "category": "mindmap"
     },
     {
       "text": "binary search  ️",
-      "fx": -194.70638416013549,
-      "fy": 168.9847735969388,
+      "fx": -308.0120482226355,
+      "fy": 171.15762515943902,
       "category": "mindmap"
     },
     {
       "text": "Monte Carlo tree search  ️",
       "url": "/computer-science/algorithms/search/monte-carlo-tree-search",
-      "fx": 6.272921161497948,
-      "fy": 170.68128108169446,
+      "fx": -108.84935855865479,
+      "fy": 172.85195922851562,
       "category": "mindmap"
     },
     {
       "text": "breadth-first search  ️",
-      "fx": -452.02650451660156,
-      "fy": 171.90843200683594,
+      "fx": -565.3321685791016,
+      "fy": 174.08128356933616,
+      "category": "mindmap"
+    },
+    {
+      "text": "string searching  ️",
+      "fx": 184.29296875,
+      "fy": 175.12890625,
       "category": "mindmap"
     }
   ],
@@ -88,32 +96,40 @@
       "source": "basics",
       "target": "binary search  ️",
       "curve": {
-        "x": -43.4475,
-        "y": 79.4552
+        "x": -100.1,
+        "y": 80.5416
       }
     },
     {
       "source": "basics",
       "target": "Monte Carlo tree search  ️",
       "curve": {
-        "x": 81.292,
-        "y": 80.3034
+        "x": 23.7309,
+        "y": 81.3887
       }
     },
     {
       "source": "basics",
       "target": "breadth-first search  ️",
       "curve": {
-        "x": -169.858,
-        "y": 79.6671
+        "x": -226.511,
+        "y": 80.7535
       }
     },
     {
       "source": "basics",
       "target": "depth-first search  ️",
       "curve": {
-        "x": -314.097,
-        "y": 44.5466
+        "x": -370.75,
+        "y": 45.633
+      }
+    },
+    {
+      "source": "basics",
+      "target": "string searching  ️",
+      "curve": {
+        "x": 169.068,
+        "y": 81.2773
       }
     }
   ]

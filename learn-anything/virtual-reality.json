@@ -1,24 +1,26 @@
 {
   "title": "learn anything - virtual reality",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "virtual reality",
       "url": "http://www.wikiwand.com/en/Virtual_reality",
       "fx": 44.878239329268354,
-      "fy": -275.60232469512175,
+      "fy": -294.1063756210477,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 151.36869591609855,
-      "fy": -145.2708060535066
+      "fx": 170.3588579531356,
+      "fy": -156.7291393868399
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 195.89861393405658,
-      "fy": 18.854237240291923
+      "fx": 200.34305837850093,
+      "fy": 17.3727557588104
     },
     {
       "text": "basics",
@@ -44,10 +46,19 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/virtualreality/",
+      "fx": 281.87823932926835,
+      "fy": -280.1063756210477,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "virtual reality"
+    },
+    {
       "text": "how to build your first multi-user virtual reality experience (on the web)",
       "url": "https://github.com/haydenjameslee/networked-aframe/blob/master/docs/Tutorial:%20Create%20your%20first%20Networked-Aframe%20experience.md",
-      "fx": 288.36869591609855,
-      "fy": -212.7708060535066,
+      "fx": 307.3588579531356,
+      "fy": -224.2291393868399,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -55,16 +66,16 @@
     {
       "text": "the UX of VR",
       "url": "http://www.uxofvr.com/",
-      "fx": 288.36869591609855,
-      "fy": -128.7708060535066,
+      "fx": 307.3588579531356,
+      "fy": -140.2291393868399,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "fuseman youtube channel",
       "url": "https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ/videos",
-      "fx": 288.36869591609855,
-      "fy": -94.77080605350659,
+      "fx": 307.3588579531356,
+      "fy": -106.2291393868399,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -72,8 +83,8 @@
     {
       "text": "17: how to get into VR  ️",
       "url": "https://blog.ycombinator.com/how-to-get-into-vr/",
-      "fx": 288.36869591609855,
-      "fy": -54.77080605350659,
+      "fx": 307.3588579531356,
+      "fy": -66.2291393868399,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -81,8 +92,8 @@
     {
       "text": "shared reality: vive + hololenses",
       "url": "https://www.youtube.com/watch?v=XPYb2IsZL68&amp;feature=youtu.be",
-      "fx": 386.8986139340566,
-      "fy": -0.6457627597080773,
+      "fx": 391.3430583785009,
+      "fy": -2.127244241189601,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -90,8 +101,8 @@
     {
       "text": "catching a real ball in virtual reality",
       "url": "https://www.youtube.com/watch?v=Qxu_y8ABajQ&amp;feature=youtu.be",
-      "fx": 386.8986139340566,
-      "fy": 39.35423724029192,
+      "fx": 391.3430583785009,
+      "fy": 37.8727557588104,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
@@ -121,7 +132,7 @@
       "target": "basics",
       "curve": {
         "x": -13.1007,
-        "y": 207.126
+        "y": 216.378
       }
     },
     {
@@ -136,8 +147,8 @@
       "source": "help",
       "target": "virtual reality",
       "curve": {
-        "x": -28.2452,
-        "y": -63.9158
+        "x": -37.7403,
+        "y": -67.4387
       }
     },
     {
@@ -152,8 +163,8 @@
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -35.765,
-        "y": -82.0625
+        "x": -28.4921,
+        "y": -87.0509
       }
     }
   ]

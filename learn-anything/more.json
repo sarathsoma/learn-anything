@@ -1,5 +1,7 @@
 {
   "title": "learn anything - more",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "more",
@@ -14,7 +16,7 @@
       "text": "quora  ️",
       "url": "/more/quora",
       "fx": -35.7266652786401,
-      "fy": -273.19983167240696,
+      "fy": -253.19983167240696,
       "category": "mindmap",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "more"
@@ -23,7 +25,7 @@
       "text": "reddit  ️",
       "url": "/more/reddit",
       "fx": -35.7266652786401,
-      "fy": -233.19983167240696,
+      "fy": -213.19983167240696,
       "category": "mindmap",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "more"
@@ -32,7 +34,7 @@
       "text": "blogs  ️",
       "url": "/more/blogs",
       "fx": -35.7266652786401,
-      "fy": -193.19983167240696,
+      "fy": -173.19983167240696,
       "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "more"
@@ -41,7 +43,7 @@
       "text": "books  ️",
       "url": "/more/books",
       "fx": -35.7266652786401,
-      "fy": -153.19983167240696,
+      "fy": -133.19983167240696,
       "category": "mindmap",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "more"
@@ -50,7 +52,7 @@
       "text": "images  ️",
       "url": "/more/images",
       "fx": -35.7266652786401,
-      "fy": -113.19983167240696,
+      "fy": -93.19983167240696,
       "category": "mindmap",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "more"
@@ -59,7 +61,7 @@
       "text": "humans  ️",
       "url": "/more/humans",
       "fx": -35.7266652786401,
-      "fy": -73.19983167240696,
+      "fy": -53.19983167240696,
       "category": "mindmap",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "more"
@@ -68,7 +70,7 @@
       "text": "courses  ️",
       "url": "/more/courses",
       "fx": -35.7266652786401,
-      "fy": -33.19983167240696,
+      "fy": -13.199831672406958,
       "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "more"
@@ -77,7 +79,7 @@
       "text": "websites  ️",
       "url": "/more/websites",
       "fx": -35.7266652786401,
-      "fy": 6.800168327593042,
+      "fy": 26.800168327593042,
       "category": "mindmap",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "more"
@@ -86,7 +88,7 @@
       "text": "podcasts  ️",
       "url": "/more/podcasts",
       "fx": -35.7266652786401,
-      "fy": 46.80016832759304,
+      "fy": 66.80016832759304,
       "category": "mindmap",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "more"
@@ -94,7 +96,7 @@
     {
       "text": "newsletters  ️",
       "fx": -35.7266652786401,
-      "fy": 86.80016832759304,
+      "fy": 106.80016832759304,
       "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "more"
@@ -103,25 +105,16 @@
       "text": "documentaries  ️",
       "url": "/more/documentaries",
       "fx": -35.7266652786401,
-      "fy": 126.80016832759304,
+      "fy": 146.80016832759304,
       "category": "mindmap",
       "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "more"
-    },
-    {
-      "text": "research papers  ️",
-      "url": "/more/research-papers",
-      "fx": -35.7266652786401,
-      "fy": 166.80016832759304,
-      "category": "mindmap",
-      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "more"
     },
     {
       "text": "youtube channels  ️",
       "url": "/more/youtube-channels",
       "fx": -35.7266652786401,
-      "fy": 206.80016832759304,
+      "fy": 186.80016832759304,
       "category": "mindmap",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "more"

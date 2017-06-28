@@ -1,5 +1,7 @@
 {
   "title": "learn anything - network science - computer networking - internet of things",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "internet of things",
@@ -12,16 +14,25 @@
     {
       "text": "help",
       "url": "",
-      "fx": -50.75125456204387,
-      "fy": -312.31203993882013
+      "fx": -13.537712895377013,
+      "fy": -316.3658593832646
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/IOT/",
+      "fx": 133.89024041593075,
+      "fy": -415.2677364349365,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "internet of things"
+    },
+    {
       "text": "awesome IOT",
       "url": "https://github.com/HQarroum/awesome-iot",
-      "fx": 86.24874543795613,
-      "fy": -320.81203993882013,
+      "fx": 123.46228710462299,
+      "fy": -324.8658593832646,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -29,8 +40,8 @@
     {
       "text": "awesome IOT hybrid",
       "url": "https://github.com/weblancaster/awesome-IoT-hybrid",
-      "fx": 86.24874543795613,
-      "fy": -280.81203993882013,
+      "fx": 123.46228710462299,
+      "fy": -284.8658593832646,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -41,8 +52,8 @@
       "source": "help",
       "target": "internet of things",
       "curve": {
-        "x": -31.6792,
-        "y": -58.4778
+        "x": -50.286,
+        "y": -56.4509
       }
     }
   ]

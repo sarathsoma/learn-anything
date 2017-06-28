@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - full stack",
+  "tag": "full stack web development",
+  "description": "",
   "nodes": [
     {
       "text": "full stack development",
@@ -43,19 +45,6 @@
       "category": "mindmap"
     },
     {
-      "text": "react js  ️",
-      "url": "/web-development/javascript-libraries/react",
-      "fx": 532.9900858918004,
-      "fy": -2.0898665935675353,
-      "category": "mindmap"
-    },
-    {
-      "text": "mongoDB",
-      "url": "",
-      "fx": 201.6456048976513,
-      "fy": 1.446774488304186
-    },
-    {
       "text": "mongoDB  ️",
       "url": "/databases/nosql-databases/mongodb",
       "fx": -445.38124380866384,
@@ -63,16 +52,23 @@
       "category": "mindmap"
     },
     {
-      "text": "express",
-      "url": "https://github.com/expressjs/express",
-      "fx": 361.9117736816406,
+      "text": "react js  ️",
+      "url": "/web-development/javascript-libraries/react",
+      "fx": 515.6072733918004,
+      "fy": -0.007835343567535347,
+      "category": "mindmap"
+    },
+    {
+      "text": "express  ️",
+      "url": "/web-development/javascript-libraries/express",
+      "fx": 362.9117736816406,
       "fy": 0.23488450050354004,
-      "category": "github"
+      "category": "mindmap"
     },
     {
       "text": "angular 2  ️",
       "url": "/web-development/javascript-libraries/angular-2",
-      "fx": -123.30296478631249,
+      "fx": -122.30296478631249,
       "fy": 1.311465984632946,
       "category": "mindmap"
     },
@@ -84,17 +80,24 @@
       "category": "mindmap"
     },
     {
-      "text": "express",
-      "url": "https://github.com/expressjs/express",
-      "fx": -277.23726654052734,
+      "text": "express  ️",
+      "url": "/web-development/javascript-libraries/express",
+      "fx": -276.23726654052734,
       "fy": 1.3982019424438477,
-      "category": "github"
+      "category": "mindmap"
+    },
+    {
+      "text": "mongoDB  ️",
+      "url": "/databases/nosql-databases/mongodb",
+      "fx": 187.6456048976513,
+      "fy": 1.446774488304186,
+      "category": "mindmap"
     },
     {
       "text": "node.js  ️",
       "url": "/web-development/backend/nodejs",
-      "fx": 677.0153051900531,
-      "fy": 1.4370888157894797,
+      "fx": 661.8004614400531,
+      "fy": 5.60896381578948,
       "category": "mindmap"
     }
   ],
@@ -110,9 +113,9 @@
     },
     {
       "source": "MEAN",
-      "target": "express",
+      "target": "express  ️",
       "curve": {
-        "x": -51.5903,
+        "x": -51.0903,
         "y": 73.3203
       }
     },
@@ -120,7 +123,7 @@
       "source": "MEAN",
       "target": "angular 2  ️",
       "curve": {
-        "x": 30.377,
+        "x": 30.877,
         "y": 73.2769
       }
     },
@@ -142,17 +145,17 @@
     },
     {
       "source": "MERN",
-      "target": "mongoDB",
+      "target": "mongoDB  ️",
       "curve": {
-        "x": -101.187,
+        "x": -108.187,
         "y": 69.4161
       }
     },
     {
       "source": "MERN",
-      "target": "express",
+      "target": "express  ️",
       "curve": {
-        "x": -26.5538,
+        "x": -26.0538,
         "y": 68.8102
       }
     },
@@ -160,16 +163,16 @@
       "source": "MERN",
       "target": "react js  ️",
       "curve": {
-        "x": 57.4853,
-        "y": 67.6478
+        "x": 48.7939,
+        "y": 68.6888
       }
     },
     {
       "source": "MERN",
       "target": "node.js  ️",
       "curve": {
-        "x": 129.748,
-        "y": 69.4113
+        "x": 122.141,
+        "y": 71.4972
       }
     },
     {

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - software development - devops - nginx",
+  "tag": "nginx server",
+  "description": "",
   "nodes": [
     {
       "text": "nginx",
@@ -23,6 +25,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/nginx/",
+      "fx": 132.44921875,
+      "fy": -235.15234375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "nginx"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/nginx/nginx",
+      "fx": 132.44921875,
+      "fy": -195.15234375,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "nginx"
+    },
     {
       "text": "nginx resources",
       "url": "https://github.com/fcambus/nginx-resources",

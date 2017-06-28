@@ -1,5 +1,7 @@
 {
   "title": "learn anything - databases - nosql databases - redis",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "redis",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/redis/",
+      "fx": 122.3404017857141,
+      "fy": -161.89006696428572,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "redis"
+    },
     {
       "text": "17: Learn Redis the hard way (in production)  ️",
       "url": "http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/?",

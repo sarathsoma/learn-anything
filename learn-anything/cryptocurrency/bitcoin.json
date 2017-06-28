@@ -1,5 +1,7 @@
 {
   "title": "learn anything - cryptocurrency - bitcoin",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "bitcoin",
@@ -95,7 +97,7 @@
       "parent": "help"
     },
     {
-      "text": "1. masering bitcoin",
+      "text": "1. mastering bitcoin",
       "url": "https://github.com/bitcoinbook/bitcoinbook",
       "fx": 22.997756151588533,
       "fy": -5.428325611923924,

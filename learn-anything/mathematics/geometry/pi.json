@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - geometry - pi",
+  "tag": "pi constant",
+  "description": "",
   "nodes": [
     {
       "text": "pi",
@@ -18,8 +20,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 102.8783723654094,
-      "fy": -171.88246506450633
+      "fx": 95.927303286462,
+      "fy": -126.95236638029581
     }
   ],
   "subnodes": [
@@ -51,28 +53,37 @@
       "parent": "interesting"
     },
     {
-      "text": "1. pi is beautiful",
-      "url": "https://www.youtube.com/watch?v=NPoj8lk9Fo4",
-      "fx": 284.8783723654094,
-      "fy": -200.38246506450633,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "text": "1. visually explained",
+      "url": "http://setosa.io/ev/pi/",
+      "fx": 277.927303286462,
+      "fy": -175.4523663802958,
+      "category": "interactive",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. visualising pi",
       "url": "https://public.tableau.com/views/VisualizingPi/pi?:embed=y&amp;:display_count=no&amp;:showVizHome=no",
-      "fx": 284.8783723654094,
-      "fy": -160.38246506450633,
+      "fx": 277.927303286462,
+      "fy": -135.4523663802958,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. pi is beautiful",
+      "url": "https://www.youtube.com/watch?v=NPoj8lk9Fo4",
+      "fx": 277.927303286462,
+      "fy": -95.45236638029581,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "2. understanding e to the pi i",
       "url": "https://www.youtube.com/watch?v=F_0yfvm0UoU",
-      "fx": 284.8783723654094,
-      "fy": -120.38246506450633,
+      "fx": 277.927303286462,
+      "fy": -55.452366380295814,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -91,8 +102,8 @@
       "source": "pi",
       "target": "basics",
       "curve": {
-        "x": -3.93157,
-        "y": 129.792
+        "x": -7.4071,
+        "y": 152.257
       }
     }
   ]

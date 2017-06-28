@@ -1,5 +1,7 @@
 {
   "title": "learn anything - design - graphic design - adobe illustrator",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "adobe illustrator",
@@ -12,8 +14,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -99.859375,
-      "fy": -100.87890625
+      "fx": -105.802734375,
+      "fy": -91.462890625
     }
   ],
   "subnodes": [
@@ -29,8 +31,8 @@
     {
       "text": "1. learn adobe illustrator",
       "url": "https://www.youtube.com/watch?v=IBouhf4seWQ&amp;list=PLYfCBK8IplO4X-jM1Rp43wAIdpP2XNGwP",
-      "fx": 82.140625,
-      "fy": -120.37890625,
+      "fx": 76.197265625,
+      "fy": -130.962890625,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -38,10 +40,19 @@
     {
       "text": "1. 10 things beginners should know how to do",
       "url": "https://www.youtube.com/watch?v=Kgmu8RwLi28",
-      "fx": 82.140625,
-      "fy": -80.37890625,
+      "fx": 76.197265625,
+      "fy": -90.962890625,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. lynda courses to get started",
+      "url": "https://www.lynda.com/Illustrator-training-tutorials/227-0.html",
+      "fx": 76.197265625,
+      "fy": -28.962890625,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -50,8 +61,8 @@
       "source": "adobe illustrator",
       "target": "basics",
       "curve": {
-        "x": -2.71094,
-        "y": 69.6387
+        "x": -5.68262,
+        "y": 74.3467
       }
     }
   ]

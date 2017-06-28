@@ -1,5 +1,7 @@
 {
   "title": "learn anything - economics - investing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "investing",
@@ -26,9 +28,24 @@
       "url": "",
       "fx": -120.61350757517721,
       "fy": 74.25235732058275
+    },
+    {
+      "text": "rate of return  ️",
+      "fx": -266.4511370865134,
+      "fy": 216.180423027992,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/investing/",
+      "fx": 70.31640625,
+      "fy": -271.76171875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "investing"
+    },
     {
       "text": "bogleheads wiki",
       "note": "",
@@ -106,6 +123,14 @@
       "curve": {
         "x": -25.706,
         "y": -61.3261
+      }
+    },
+    {
+      "source": "basics",
+      "target": "rate of return  ️",
+      "curve": {
+        "x": -64.6688,
+        "y": 70.964
       }
     }
   ]

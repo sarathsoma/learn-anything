@@ -1,10 +1,12 @@
 {
   "title": "learn anything - databases",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
-      "text": "database",
+      "text": "databases",
       "url": "http://www.wikiwand.com/en/Database",
-      "fx": 18.027658871334324,
+      "fx": 13.527658871334324,
       "fy": -432.8098971539046,
       "category": "wiki"
     },
@@ -75,20 +77,20 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/Database/",
-      "fx": 229.02765887133432,
+      "fx": 233.52765887133432,
       "fy": -438.8098971539046,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "database"
+      "parent": "databases"
     },
     {
       "text": "️",
       "url": "https://dba.stackexchange.com/",
-      "fx": 229.02765887133432,
+      "fx": 233.52765887133432,
       "fy": -398.8098971539046,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "database"
+      "parent": "databases"
     },
     {
       "text": "awesome db",
@@ -111,10 +113,10 @@
   ],
   "connections": [
     {
-      "source": "database",
+      "source": "databases",
       "target": "basics",
       "curve": {
-        "x": -5.06861,
+        "x": -2.81861,
         "y": 122.451
       }
     },
@@ -168,9 +170,9 @@
     },
     {
       "source": "help",
-      "target": "database",
+      "target": "databases",
       "curve": {
-        "x": -48.0469,
+        "x": -50.2969,
         "y": -57.8953
       }
     },

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - marketing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "marketing",
@@ -22,18 +24,10 @@
       "fy": -77.16281670800862
     },
     {
-      "text": "growth hacking  ️",
-      "note": "how to accelerate startup growth, acquire and keep new customers",
-      "url": "/marketing/growth-hacking",
-      "fx": -100.15428748180182,
-      "fy": 110.39230995605385,
-      "category": "mindmap"
-    },
-    {
       "text": "advertising  ️",
       "url": "/marketing/advertising",
-      "fx": -530.8002853393555,
-      "fy": 111.15017509460449,
+      "fx": -526.1994934082031,
+      "fy": 111.15018463134766,
       "category": "mindmap"
     },
     {
@@ -44,16 +38,30 @@
       "category": "mindmap"
     },
     {
+      "text": "growth hacking  ️",
+      "note": "how to accelerate startup growth, acquire and keep new customers",
+      "url": "/marketing/growth-hacking",
+      "fx": -115.70538545477496,
+      "fy": 111.74366130740532,
+      "category": "mindmap"
+    },
+    {
       "text": "multi-level marketing  ️",
-      "fx": -1030.8136203972872,
-      "fy": 113.0194706879845,
+      "fx": -1018.4154663085938,
+      "fy": 113.01947212219238,
       "category": "mindmap"
     },
     {
       "text": "affiliate marketing  ️",
       "url": "/marketing/affiliate-marketing",
-      "fx": -762.9415584415584,
-      "fy": 114.16477272727263,
+      "fx": -758.3227081298828,
+      "fy": 114.1647777557373,
+      "category": "mindmap"
+    },
+    {
+      "text": "branding  ️",
+      "fx": -1173.4270213117252,
+      "fy": 117.95716148479323,
       "category": "mindmap"
     }
   ],
@@ -134,8 +142,8 @@
       "source": "basics",
       "target": "growth hacking  ️",
       "curve": {
-        "x": 19.1688,
-        "y": 93.7775
+        "x": 11.3933,
+        "y": 94.4532
       }
     },
     {
@@ -158,7 +166,7 @@
       "source": "basics",
       "target": "advertising  ️",
       "curve": {
-        "x": -258.91,
+        "x": -256.61,
         "y": 79.0474
       }
     },
@@ -166,7 +174,7 @@
       "source": "basics",
       "target": "affiliate marketing  ️",
       "curve": {
-        "x": -348.342,
+        "x": -346.033,
         "y": 52.9216
       }
     },
@@ -174,8 +182,16 @@
       "source": "basics",
       "target": "multi-level marketing  ️",
       "curve": {
-        "x": -520.977,
+        "x": -514.778,
         "y": 36.0169
+      }
+    },
+    {
+      "source": "basics",
+      "target": "branding  ️",
+      "curve": {
+        "x": -749.125,
+        "y": 35.7462
       }
     }
   ]

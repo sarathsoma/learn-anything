@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - kotlin",
+  "tag": "kotlin programming language",
+  "description": "",
   "nodes": [
     {
       "text": "kotlin",
@@ -11,15 +13,15 @@
     {
       "text": "help",
       "url": "",
-      "fx": 24.757672991071445,
-      "fy": -49.576729910714334
+      "fx": 31.372140066964334,
+      "fy": -35.66768973214295
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -73.9609375,
-      "fy": 99.41796875
+      "fx": -79.04255022321422,
+      "fy": 104.05315290178567
     }
   ],
   "subnodes": [
@@ -27,50 +29,59 @@
       "text": "",
       "url": "https://www.reddit.com/r/Kotlin/",
       "fx": 92.58091517857156,
-      "fy": -172.4153180803571,
+      "fy": -192.4153180803571,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "kotlin"
     },
     {
+      "text": "",
+      "url": "https://github.com/JetBrains/kotlin",
+      "fx": 92.58091517857156,
+      "fy": -152.4153180803571,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "kotlin"
+    },
+    {
       "text": "learn kotlin in Y minutes",
       "url": "https://learnxinyminutes.com/docs/kotlin/",
-      "fx": 161.75767299107144,
-      "fy": -89.07672991071433,
+      "fx": 168.37214006696433,
+      "fy": -75.16768973214295,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "swift is like kotlin",
       "url": "http://nilhcem.com/swift-is-like-kotlin/",
-      "fx": 161.75767299107144,
-      "fy": -55.076729910714334,
+      "fx": 168.37214006696433,
+      "fy": -41.16768973214295,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "resources to learn kotlin",
       "url": "https://developer.android.com/kotlin/resources.html",
-      "fx": 161.75767299107144,
-      "fy": -21.076729910714334,
+      "fx": 168.37214006696433,
+      "fy": -7.1676897321429465,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome kotlin",
       "url": "https://github.com/KotlinBy/awesome-kotlin",
-      "fx": 161.75767299107144,
-      "fy": 12.923270089285666,
+      "fx": 168.37214006696433,
+      "fy": 26.832310267857054,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
-      "text": "1. kotlin koans",
-      "url": "http://try.kotlinlang.org/#/Kotlin%20Koans/Introduction/Hello,%20world!/Task.kt",
-      "fx": 108.0390625,
-      "fy": 113.91796875,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "text": "1. try kotlin",
+      "url": "https://try.kotlinlang.org/#/Kotlin%20Koans/Introduction/Hello,%20world!/Task.kt",
+      "fx": 102.95744977678578,
+      "fy": 118.55315290178567,
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -79,16 +90,16 @@
       "source": "kotlin",
       "target": "basics",
       "curve": {
-        "x": -0.520928,
-        "y": 141.666
+        "x": -3.06173,
+        "y": 143.984
       }
     },
     {
       "source": "help",
       "target": "kotlin",
       "curve": {
-        "x": -44.0883,
-        "y": -67.1693
+        "x": -47.3955,
+        "y": -74.1238
       }
     }
   ]

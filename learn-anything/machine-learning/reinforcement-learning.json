@@ -1,11 +1,13 @@
 {
   "title": "learn anything - machine learning - reinforcement learning",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "reinforcement learning",
       "url": "http://www.wikiwand.com/en/Reinforcement_learning",
       "fx": -26.8671875,
-      "fy": -149.9296875,
+      "fy": -195.22604597107437,
       "category": "wiki"
     },
     {
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/reinforcementlearning/",
+      "fx": 300.1328125,
+      "fy": -181.22604597107437,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "reinforcement learning"
+    },
     {
       "text": "deep enforcement learning papers",
       "url": "https://github.com/muupan/deep-reinforcement-learning-papers",
@@ -85,7 +96,7 @@
       "target": "reinforcement learning",
       "curve": {
         "x": -46.8563,
-        "y": -48.9455
+        "y": -71.5937
       }
     },
     {
@@ -93,7 +104,7 @@
       "target": "basics",
       "curve": {
         "x": -18.7487,
-        "y": 129.827
+        "y": 152.475
       }
     }
   ]

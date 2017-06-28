@@ -1,5 +1,7 @@
 {
   "title": "learn anything - operating systems - ios",
+  "tag": "iOS",
+  "description": "",
   "nodes": [
     {
       "text": "iOS",
@@ -28,17 +30,17 @@
       "fy": 58.58101222826082
     },
     {
-      "text": "swift  ️",
-      "url": "/programming/programming-languages/swift",
-      "fx": -121.51406989194936,
-      "fy": 191.06696637576647,
+      "text": "Xcode  ️",
+      "url": "/software/tooling/ide/xcode",
+      "fx": -314.63378175061075,
+      "fy": 141.9768205764667,
       "category": "mindmap"
     },
     {
-      "text": "Xcode  ️",
-      "url": "/software/tooling/ide/xcode",
-      "fx": -265.25328858654825,
-      "fy": 192.4406877639667,
+      "text": "swift  ️",
+      "url": "/programming/programming-languages/swift",
+      "fx": -170.62954840757448,
+      "fy": 196.76764996951647,
       "category": "mindmap"
     },
     {
@@ -406,25 +408,16 @@
       "text": "awesome iOS",
       "url": "https://github.com/vsouza/awesome-ios",
       "fx": 362.49068298339853,
-      "fy": -556.0863014221192,
+      "fy": -536.0863014221192,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "15: iOS  architecture patterns  ️",
-      "url": "https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52",
-      "fx": 362.49068298339853,
-      "fy": -516.0863014221192,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "iOS interview questions",
       "url": "https://github.com/onthecodepath/iOS-Interview-Questions",
       "fx": 362.49068298339853,
-      "fy": -476.08630142211916,
+      "fy": -496.08630142211916,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -433,7 +426,7 @@
       "text": "iOS 10 security guide",
       "url": "https://www.apple.com/business/docs/iOS_Security_Guide.pdf",
       "fx": 362.49068298339853,
-      "fy": -436.08630142211916,
+      "fy": -456.08630142211916,
       "category": "paper",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -442,7 +435,7 @@
       "text": "secure iOS app dev",
       "url": "https://github.com/felixgr/secure-ios-app-dev",
       "fx": 362.49068298339853,
-      "fy": -396.08630142211916,
+      "fy": -416.08630142211916,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -451,7 +444,7 @@
       "text": "learn iOS design",
       "url": "https://designcode.io/iosdesign",
       "fx": 362.49068298339853,
-      "fy": -356.08630142211916,
+      "fy": -376.08630142211916,
       "category": "",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -460,7 +453,7 @@
       "text": "iOS swift cheat sheet",
       "url": "https://github.com/vdthatte/ios-swift-cheatsheet",
       "fx": 362.49068298339853,
-      "fy": -316.08630142211916,
+      "fy": -336.08630142211916,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -469,7 +462,7 @@
       "text": "iOS awesome UI",
       "url": "https://github.com/cjwirth/awesome-ios-ui",
       "fx": 362.49068298339853,
-      "fy": -276.08630142211916,
+      "fy": -296.08630142211916,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -478,7 +471,7 @@
       "text": "iOS good practices",
       "url": "https://github.com/futurice/ios-good-practices",
       "fx": 362.49068298339853,
-      "fy": -236.08630142211916,
+      "fy": -256.08630142211916,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -487,7 +480,7 @@
       "text": "fantastic iOS architecture",
       "url": "https://github.com/onmyway133/fantastic-ios-architecture",
       "fx": 362.49068298339853,
-      "fy": -196.08630142211916,
+      "fy": -216.08630142211916,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -496,7 +489,7 @@
       "text": "iOS guide",
       "url": "https://github.com/sashakid/ios-guide",
       "fx": 362.49068298339853,
-      "fy": -156.08630142211916,
+      "fy": -176.08630142211916,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -505,34 +498,25 @@
       "text": "bump version with plistbuddy  ️",
       "url": "https://ninjapro.wordpress.com/2017/02/26/bump-version-with-plistbuddy/",
       "fx": 619.4863566557635,
-      "fy": -106.07950622344617,
+      "fy": -75.07950622344617,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
     },
     {
-      "text": "iOS interview questions for seniors  ️",
-      "url": "http://www.sm-cloud.com/ios-interview-questions-for-senior-developers/",
+      "text": "15: iOS architecture patterns  ️",
+      "url": "https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52",
       "fx": 619.4863566557635,
-      "fy": -66.07950622344617,
+      "fy": -35.079506223446174,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "20 iOS dev questions  ️",
-      "url": "https://www.codementor.io/mattgoldspink/ios-interview-tips-questions-answers-objective-c-du1088nfb",
-      "fx": 619.4863566557635,
-      "fy": -4.079506223446174,
-      "category": "article",
-      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
     },
     {
       "text": "17: getting started with tensorflow on iOS  ️",
       "url": "http://machinethink.net/blog/tensorflow-on-ios/",
       "fx": 619.4863566557635,
-      "fy": 35.920493776553826,
+      "fy": 4.920493776553826,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -541,7 +525,7 @@
       "text": "17: the navbar is tapped out  ️",
       "url": "https://medium.com/tall-west/lets-ditch-the-nav-bar-3692cb17cc67",
       "fx": 619.4863566557635,
-      "fy": 97.92049377655383,
+      "fy": 66.92049377655383,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -595,16 +579,16 @@
       "source": "basics",
       "target": "Xcode  ️",
       "curve": {
-        "x": -93.929,
-        "y": 66.9298
+        "x": -118.619,
+        "y": 41.6979
       }
     },
     {
       "source": "basics",
       "target": "swift  ️",
       "curve": {
-        "x": -26.5593,
-        "y": 66.243
+        "x": -51.117,
+        "y": 69.0933
       }
     },
     {

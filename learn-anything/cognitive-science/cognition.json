@@ -1,5 +1,7 @@
 {
   "title": "learn anything - cognitive science - cognition",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "cognition",
@@ -8,12 +10,6 @@
       "fx": 80.5974916757242,
       "fy": -399.9073433524906,
       "category": "wiki"
-    },
-    {
-      "text": "teaching",
-      "url": "",
-      "fx": -193.18454850196156,
-      "fy": -255.7722084123523
     },
     {
       "text": "motivation  ️",
@@ -39,21 +35,19 @@
     {
       "text": "emotions  ️",
       "url": "/cognitive-science/cognition/emotions",
-      "fx": 479.5420413669067,
-      "fy": -255.7176258992805,
+      "fx": 476.6558380126953,
+      "fy": -255.71762466430664,
+      "category": "mindmap"
+    },
+    {
+      "text": "cognitive biases  ️",
+      "fx": 635.796875,
+      "fy": -253.3515625,
       "category": "mindmap"
     }
   ],
   "subnodes": [],
   "connections": [
-    {
-      "source": "teaching",
-      "target": "learning  ️",
-      "curve": {
-        "x": 85.4129,
-        "y": -0.799532
-      }
-    },
     {
       "source": "cognition",
       "target": "learning  ️",
@@ -82,8 +76,16 @@
       "source": "cognition",
       "target": "emotions  ️",
       "curve": {
-        "x": 265.727,
+        "x": 264.284,
         "y": 68.5938
+      }
+    },
+    {
+      "source": "cognition",
+      "target": "cognitive biases  ️",
+      "curve": {
+        "x": 397.092,
+        "y": 68.9029
       }
     }
   ]

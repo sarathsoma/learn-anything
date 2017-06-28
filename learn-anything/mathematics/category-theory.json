@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - category theory",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "category theory",
@@ -18,13 +20,19 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -129.58813589848842,
-      "fy": 266.85503147571114
+      "fx": -129.0505014898862,
+      "fy": 286.1741679004424
+    },
+    {
+      "text": "categories  ️",
+      "fx": -315.3396337365612,
+      "fy": 413.40524193548356,
+      "category": "mindmap"
     },
     {
       "text": "profunctors  ️",
-      "fx": -262.0255025519741,
-      "fy": 471.5246473379576,
+      "fx": -132.71182647670537,
+      "fy": 560.4989416927965,
       "category": "mindmap"
     }
   ],
@@ -39,10 +47,19 @@
       "parent": "articles"
     },
     {
+      "text": "category theory in context",
+      "url": "http://www.math.jhu.edu/~eriehl/context.pdf",
+      "fx": 52.94949851011381,
+      "fy": 113.6741679004424,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. basic category theory",
       "url": "https://arxiv.org/pdf/1612.09375.pdf",
-      "fx": 52.41186410151158,
-      "fy": 114.35503147571114,
+      "fx": 52.94949851011381,
+      "fy": 153.6741679004424,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -50,8 +67,8 @@
     {
       "text": "1. category theory for scientists",
       "url": "https://arxiv.org/abs/1302.6946",
-      "fx": 52.41186410151158,
-      "fy": 154.35503147571114,
+      "fx": 52.94949851011381,
+      "fy": 193.6741679004424,
       "category": "paper",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -59,8 +76,8 @@
     {
       "text": "2. conceptual mathematics: a first introduction to categories",
       "url": "http://www.goodreads.com/book/show/1511125.Conceptual_Mathematics",
-      "fx": 52.41186410151158,
-      "fy": 194.35503147571114,
+      "fx": 52.94949851011381,
+      "fy": 233.6741679004424,
       "category": "non-free book",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
@@ -68,8 +85,8 @@
     {
       "text": "2. category theory for programmers",
       "url": "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
-      "fx": 52.41186410151158,
-      "fy": 256.35503147571114,
+      "fx": 52.94949851011381,
+      "fy": 295.6741679004424,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -77,8 +94,8 @@
     {
       "text": "2. category theory lectures",
       "url": "https://www.youtube.com/watch?v=I8LbkfSSR58&amp;list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_",
-      "fx": 52.41186410151158,
-      "fy": 318.35503147571114,
+      "fx": 52.94949851011381,
+      "fy": 357.6741679004424,
       "category": "video",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
@@ -86,8 +103,8 @@
     {
       "text": "2. category theory by Tom Lagatta",
       "url": "https://www.youtube.com/watch?v=o6L6XeNdd_k&amp;feature=youtu.be",
-      "fx": 52.41186410151158,
-      "fy": 358.35503147571114,
+      "fx": 52.94949851011381,
+      "fy": 397.6741679004424,
       "category": "video",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -95,8 +112,8 @@
     {
       "text": "2. the categorical abstract machine",
       "url": "http://www.sciencedirect.com/science/article/pii/0167642387900207",
-      "fx": 52.41186410151158,
-      "fy": 420.35503147571114,
+      "fx": 52.94949851011381,
+      "fy": 459.6741679004424,
       "category": "paper",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -107,8 +124,8 @@
       "source": "category theory",
       "target": "basics",
       "curve": {
-        "x": -16.5534,
-        "y": 195.207
+        "x": -16.2846,
+        "y": 204.867
       }
     },
     {
@@ -123,8 +140,16 @@
       "source": "basics",
       "target": "profunctors  ️",
       "curve": {
-        "x": -61.2187,
-        "y": 102.335
+        "x": 3.16932,
+        "y": 137.162
+      }
+    },
+    {
+      "source": "basics",
+      "target": "categories  ️",
+      "curve": {
+        "x": -90.6445,
+        "y": 63.6155
       }
     }
   ]

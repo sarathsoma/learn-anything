@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - clojure - clojurescript",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "clojurescript",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Clojurescript/",
+      "fx": 326.45775182038847,
+      "fy": -297.01380461165047,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "clojurescript"
+    },
     {
       "text": "awesome clojurescript",
       "url": "https://github.com/hantuzun/awesome-clojurescript",

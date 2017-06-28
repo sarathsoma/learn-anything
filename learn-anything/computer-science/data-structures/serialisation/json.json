@@ -1,10 +1,12 @@
 {
   "title": "learn anything - computer science - data structures - serialisation - json",
+  "tag": "JSON",
+  "description": "",
   "nodes": [
     {
-      "text": "json",
+      "text": "JSON",
       "url": "http://www.wikiwand.com/en/JSON",
-      "fx": -74.4765625,
+      "fx": -82.4765625,
       "fy": -325.1796875,
       "category": "wiki"
     },
@@ -22,14 +24,22 @@
       "fy": -125.796875
     },
     {
-      "text": "GeoJSON",
-      "url": "http://www.wikiwand.com/en/GeoJSON",
-      "fx": -124.34147891674411,
-      "fy": 22.658402722044116,
-      "category": "wiki"
+      "text": "GeoJSON  ️",
+      "fx": -157.60894731562064,
+      "fy": 6.502328283841848,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/json/",
+      "fx": 97.5234375,
+      "fy": -311.1796875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "JSON"
+    },
     {
       "text": "15: schema-free json data infrastructure  ️",
       "url": "https://drill.apache.org/blog/2015/01/27/schema-free-json-data-infrastructure/",
@@ -55,40 +65,31 @@
       "fy": -111.296875,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
-    },
-    {
-      "text": "awesome GeoJSON",
-      "url": "https://github.com/tmcw/awesome-geojson",
-      "fx": 95.65852108325589,
-      "fy": 36.658402722044116,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "GeoJSON"
     }
   ],
   "connections": [
     {
-      "source": "json",
+      "source": "JSON",
       "target": "basics",
       "curve": {
-        "x": -2.01384,
+        "x": 1.98616,
         "y": 98.4414
       }
     },
     {
       "source": "help",
-      "target": "json",
+      "target": "JSON",
       "curve": {
-        "x": -38.7676,
+        "x": -42.7676,
         "y": -50.8945
       }
     },
     {
       "source": "basics",
-      "target": "GeoJSON",
+      "target": "GeoJSON  ️",
       "curve": {
-        "x": -15.4186,
-        "y": 75.4776
+        "x": -32.0523,
+        "y": 67.3996
       }
     }
   ]

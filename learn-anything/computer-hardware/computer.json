@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer hardware - computer",
+  "tag": "computers",
+  "description": "",
   "nodes": [
     {
       "text": "computer",
@@ -12,8 +14,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -5.307291666666174,
-      "fy": -21.75747263036584
+      "fx": -0.2031249999998863,
+      "fy": -30.445623672032468
     },
     {
       "text": "computer architectures  ️",
@@ -61,10 +63,19 @@
     {
       "text": "1. building a modern computer from first principles",
       "url": "http://www.nand2tetris.org/",
-      "fx": 150.69270833333383,
-      "fy": -21.25747263036584,
+      "fx": 155.7968750000001,
+      "fy": -60.94562367203247,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. building an 8-bit breadboard computer",
+      "url": "https://www.youtube.com/watch?v=HyznrdDSSGM&amp;list=PLowKtXNTBypGqImE405J2565dvjafglHU",
+      "fx": 155.7968750000001,
+      "fy": 1.0543763279675318,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -89,24 +100,24 @@
       "source": "computer",
       "target": "basics",
       "curve": {
-        "x": 1.20546,
-        "y": 59.5142
+        "x": 3.75754,
+        "y": 55.1701
       }
     },
     {
       "source": "basics",
       "target": "parts",
       "curve": {
-        "x": -40.3235,
-        "y": 75.6594
+        "x": -42.8756,
+        "y": 80.0035
       }
     },
     {
       "source": "basics",
       "target": "computer architectures  ️",
       "curve": {
-        "x": 43.5957,
-        "y": 71.5145
+        "x": 41.0436,
+        "y": 75.8586
       }
     },
     {

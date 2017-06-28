@@ -1,5 +1,7 @@
 {
   "title": "learn anything - databases - relational databases - postgresql",
+  "tag": "postgreSQL",
+  "description": "",
   "nodes": [
     {
       "text": "PostgreSQL",
@@ -29,6 +31,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/PostgreSQL/",
+      "fx": 210.2890625,
+      "fy": -273.90625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "PostgreSQL"
+    },
     {
       "text": "awesome PostgreSQL",
       "url": "https://github.com/dhamaniasad/awesome-postgres",

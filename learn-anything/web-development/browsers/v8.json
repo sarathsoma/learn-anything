@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - browsers - v8",
+  "tag": "v8 javascript engine",
+  "description": "",
   "nodes": [
     {
       "text": "chrome v8",
@@ -42,7 +44,7 @@
     },
     {
       "text": "1. how the V8 engine works  ️",
-      "url": "http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/",
+      "url": "http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works",
       "fx": 188.17482727389074,
       "fy": 110.04800992803126,
       "category": "article",

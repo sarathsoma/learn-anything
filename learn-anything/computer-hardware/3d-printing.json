@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer hardware - 3d printing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "3d printing",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/3Dprinting/",
+      "fx": 171.50425606343288,
+      "fy": -330.08214785447757,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "3d printing"
+    },
     {
       "text": "3D printing materials",
       "url": "https://www.shapeways.com/materials?li=nav",

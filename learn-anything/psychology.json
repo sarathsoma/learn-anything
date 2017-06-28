@@ -1,73 +1,93 @@
 {
   "title": "learn anything - psychology",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "psychology",
       "url": "http://www.wikiwand.com/en/Psychology",
-      "fx": -159.93086320641294,
-      "fy": -407.96564796751096,
+      "fx": -118.39690887948984,
+      "fy": -413.3142056598186,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": -6.895766804916207,
-      "fy": -310.92205739241473
+      "fx": 34.63818752200689,
+      "fy": -316.27061508472235
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -150.68172194043245,
-      "fy": -195.2454585846196
+      "fx": -109.14776761350936,
+      "fy": -200.59401627692722
     },
     {
       "text": "decision making  ️",
       "url": "/psychology/decision-making",
-      "fx": -540.0164649527821,
-      "fy": -41.303604331781685,
+      "fx": -498.48251062585905,
+      "fy": -46.65216202408931,
       "category": "mindmap"
     },
     {
       "text": "neuropsychology",
       "url": "http://www.wikiwand.com/en/Neuropsychology",
-      "fx": -315.930804661342,
-      "fy": -40.94962233054548,
+      "fx": -274.3968503344189,
+      "fy": -46.2981800228531,
       "category": "wiki"
     },
     {
       "text": "creativity  ️",
       "url": "/psychology/creativity",
-      "fx": -704.5225243506494,
-      "fy": -39.49749729437224,
+      "fx": -662.9885700237263,
+      "fy": -44.84605498667986,
       "category": "mindmap"
     },
     {
       "text": "psychotherapy",
       "url": "http://www.wikiwand.com/en/Psychotherapy",
-      "fx": -78.34606434268835,
-      "fy": -38.73126522631401,
+      "fx": -36.812110015765256,
+      "fy": -44.07982291862163,
       "category": "wiki"
     },
     {
       "text": "social psychology  ️",
       "url": "/psychology/social-psychology",
-      "fx": -950.7821807861328,
-      "fy": -33.93146061897278,
+      "fx": -909.2482264592097,
+      "fy": -39.2800183112804,
+      "category": "mindmap"
+    },
+    {
+      "text": "behaviour analysis  ️",
+      "fx": -1419.865979306484,
+      "fy": -36.17934419347182,
       "category": "mindmap"
     },
     {
       "text": "cognitive psychology  ️",
       "url": "/psychology/cognitive-psychology",
-      "fx": -1214.9265397775873,
-      "fy": -30.100620188217704,
+      "fx": -1173.3925854506642,
+      "fy": -35.449177880525326,
+      "category": "mindmap"
+    },
+    {
+      "text": "evolutionary psychology  ️",
+      "fx": -1721.274912348841,
+      "fy": -32.193928189033045,
+      "category": "mindmap"
+    },
+    {
+      "text": "cognitive dissonance  ️",
+      "fx": -1995.1976902173917,
+      "fy": -30.287535394592624,
       "category": "mindmap"
     },
     {
       "text": "analytical psychology",
       "url": "http://www.wikiwand.com/en/Analytical_psychology",
-      "fx": -103.39814453442659,
-      "fy": 74.22947727953317,
+      "fx": -61.8641902075035,
+      "fy": 68.88091958722555,
       "category": "wiki"
     }
   ],
@@ -75,25 +95,34 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/psychology/",
-      "fx": 70.06913679358706,
-      "fy": -393.96564796751096,
+      "fx": 111.60309112051016,
+      "fy": -419.3142056598186,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "psychology"
     },
     {
+      "text": "️",
+      "url": "https://cogsci.stackexchange.com/",
+      "fx": 111.60309112051016,
+      "fy": -379.3142056598186,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "psychology"
+    },
+    {
       "text": "list of cognitive biases",
       "url": "http://rationalwiki.org/wiki/List_of_cognitive_biases",
-      "fx": 130.1042331950838,
-      "fy": -296.42205739241473,
+      "fx": 171.6381875220069,
+      "fy": -301.77061508472235,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. crash course psychology",
       "url": "https://www.youtube.com/watch?v=vo4pMVb0R6M&amp;list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6",
-      "fx": 31.318278059567547,
-      "fy": -223.7454585846196,
+      "fx": 72.85223238649064,
+      "fy": -229.09401627692722,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -101,8 +130,8 @@
     {
       "text": "1. introduction to psychology",
       "url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00-introduction-to-psychology-fall-2004/",
-      "fx": 31.318278059567547,
-      "fy": -183.7454585846196,
+      "fx": 72.85223238649064,
+      "fy": -189.09401627692722,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -110,8 +139,8 @@
     {
       "text": "1. thinking, fast and slow",
       "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
-      "fx": 31.318278059567547,
-      "fy": -143.7454585846196,
+      "fx": 72.85223238649064,
+      "fy": -149.09401627692722,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -188,6 +217,30 @@
       "curve": {
         "x": -579.974,
         "y": 23.2795
+      }
+    },
+    {
+      "source": "basics",
+      "target": "behaviour analysis  ️",
+      "curve": {
+        "x": -776.57,
+        "y": 32.5913
+      }
+    },
+    {
+      "source": "basics",
+      "target": "evolutionary psychology  ️",
+      "curve": {
+        "x": -1022.99,
+        "y": 11.5376
+      }
+    },
+    {
+      "source": "basics",
+      "target": "cognitive dissonance  ️",
+      "curve": {
+        "x": -1167.27,
+        "y": -7.13672
       }
     }
   ]

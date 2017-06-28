@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - electromagnetism - electromagnetic radiation - light",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "light",
@@ -21,19 +23,25 @@
       "fy": -20.428791044652655
     },
     {
+      "text": "speed of light  ️",
+      "fx": 31.92877435065168,
+      "fy": 108.09841720777854,
+      "category": "mindmap"
+    },
+    {
       "text": "light field  ️",
       "url": "/physics/electromagnetism/electromagnetic-radiation/light/light-field",
-      "fx": -115.33308953440837,
-      "fy": 106.75657494232746,
+      "fx": -144.4777729759669,
+      "fy": 108.59707818908066,
       "category": "mindmap"
     }
   ],
   "subnodes": [
     {
-      "text": "interesting questions answered about light",
+      "text": "askscience: light",
       "url": "https://www.reddit.com/r/askscience/search?q=light&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
       "fx": 290.67958314327234,
-      "fy": -127.16352229709781,
+      "fy": -116.16352229709781,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -69,8 +77,16 @@
       "source": "basics",
       "target": "light field  ️",
       "curve": {
-        "x": -48.7073,
-        "y": 63.5927
+        "x": -63.2796,
+        "y": 64.513
+      }
+    },
+    {
+      "source": "basics",
+      "target": "speed of light  ️",
+      "curve": {
+        "x": 35.6737,
+        "y": 64.2636
       }
     }
   ]

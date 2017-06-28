@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - smalltalk",
+  "tag": "smalltalk programming language",
+  "description": "",
   "nodes": [
     {
       "text": "smalltalk",
@@ -35,6 +37,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/smalltalk/",
+      "fx": 81.41954787234044,
+      "fy": -372.14166657729925,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "smalltalk"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/bonzini/smalltalk",
+      "fx": 81.41954787234044,
+      "fy": -332.14166657729925,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "smalltalk"
+    },
     {
       "text": "on smalltalk  ️",
       "url": "http://onsmalltalk.com/",

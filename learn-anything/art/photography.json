@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - photography",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "photography",
@@ -28,9 +30,15 @@
     {
       "text": "analog photography",
       "url": "http://www.wikiwand.com/en/Analog_photography",
-      "fx": -273.18029269366184,
-      "fy": 217.70560079225345,
+      "fx": -366.03989747307344,
+      "fy": 188.77062836578295,
       "category": "wiki"
+    },
+    {
+      "text": "adobe lightroom  ️",
+      "fx": -51.837499999999864,
+      "fy": 220.4197916666668,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -117,8 +125,8 @@
       "source": "basics",
       "target": "analog photography",
       "curve": {
-        "x": -30.4018,
-        "y": 78.8458
+        "x": -76.8316,
+        "y": 64.3783
       }
     },
     {
@@ -127,6 +135,14 @@
       "curve": {
         "x": -51.57,
         "y": -57.176
+      }
+    },
+    {
+      "source": "basics",
+      "target": "adobe lightroom  ️",
+      "curve": {
+        "x": 64.5195,
+        "y": 78.9529
       }
     }
   ]

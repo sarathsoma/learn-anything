@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - literature",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "literature",
@@ -14,6 +16,12 @@
       "url": "",
       "fx": 68.296875,
       "fy": -173.30000000000007
+    },
+    {
+      "text": "literary theory  ️",
+      "fx": -41.850054824561425,
+      "fy": -50.75027412280707,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -34,6 +42,14 @@
       "curve": {
         "x": -7.16722,
         "y": 56.6551
+      }
+    },
+    {
+      "source": "basics",
+      "target": "literary theory  ️",
+      "curve": {
+        "x": -45.8235,
+        "y": 61.2749
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - philosophy - philosophy of mind - consciousness",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "consciousness",
@@ -23,11 +25,26 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -344.2271969580245,
-      "fy": 47.01362651479559
+      "fx": -411.6611875997356,
+      "fy": 105.61782103351203
+    },
+    {
+      "text": "attention schema theory  ️",
+      "fx": -575.2690769134358,
+      "fy": 247.84773458389043,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/RationalPsychonaut/",
+      "fx": -130.02741228070158,
+      "fy": -262.09772478070164,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "consciousness"
+    },
     {
       "text": "the war on consciousness",
       "url": "https://www.youtube.com/watch?v=Y0c5nIvJH7w",
@@ -56,11 +73,29 @@
       "parent": "articles"
     },
     {
-      "text": "consciousness wiki",
+      "text": "1. consciousness wiki",
       "url": "https://plato.stanford.edu/entries/consciousness/",
-      "fx": -188.22719695802448,
-      "fy": 61.51362651479559,
+      "fx": -255.66118759973563,
+      "fy": 69.11782103351203,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. Giulio Tononi on consciousness",
+      "url": "https://www.youtube.com/watch?v=zvJyMmw2Thw",
+      "fx": -255.66118759973563,
+      "fy": 103.11782103351203,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. what’s the essence of consciousness",
+      "url": "https://www.youtube.com/watch?v=CQ0I8BvvXNc",
+      "fx": -255.66118759973563,
+      "fy": 143.11782103351203,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -85,8 +120,16 @@
       "source": "consciousness",
       "target": "basics",
       "curve": {
-        "x": -2.59989,
-        "y": 160.306
+        "x": -36.3169,
+        "y": 189.608
+      }
+    },
+    {
+      "source": "basics",
+      "target": "attention schema theory  ️",
+      "curve": {
+        "x": -41.554,
+        "y": 71.1149
       }
     }
   ]

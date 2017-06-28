@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming paradigms - functional programming",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "functional programming",
@@ -19,36 +21,45 @@
       "note": "",
       "url": "",
       "fx": -110.51159512007234,
-      "fy": 54.323672594370635
+      "fy": 67.66466524142953
     },
     {
       "text": "callback functions  ️",
-      "fx": -771.8076933732267,
-      "fy": 201.209441489362,
+      "fx": -808.4023624908739,
+      "fy": 249.66072825406786,
       "category": "mindmap"
     },
     {
       "text": "immutability  ️",
       "url": "/programming/programming-paradigms/functional-programming/immutability",
-      "fx": -239.59482935855453,
-      "fy": 202.5206106085525,
+      "fx": -276.1894984762017,
+      "fy": 250.97189737325834,
       "category": "mindmap"
     },
     {
       "text": "anonymous functions  ️",
-      "fx": -524.0612848141773,
-      "fy": 203.21450029793448,
+      "fx": -560.6559539318245,
+      "fy": 251.66578706264033,
       "category": "mindmap"
     },
     {
       "text": "monads  ️",
       "url": "/programming/programming-paradigms/functional-programming/monads",
-      "fx": -49.58353726023597,
-      "fy": 204.2660890785728,
+      "fx": -86.17820637788316,
+      "fy": 252.71737584327866,
       "category": "mindmap"
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/functionalprogramming/",
+      "fx": 167.68359375,
+      "fy": -194.99609375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "functional programming"
+    },
     {
       "text": "functional programming jargon",
       "url": "https://github.com/hemanth/functional-programming-jargon",
@@ -71,7 +82,7 @@
       "text": "1. introduction to functional programming",
       "url": "https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/all.pdf",
       "fx": 71.48840487992766,
-      "fy": 23.823672594370635,
+      "fy": 37.16466524142953,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -80,7 +91,7 @@
       "text": "1. lecture series on functional programming",
       "url": "http://lambda-the-ultimate.org/node/3642",
       "fx": 71.48840487992766,
-      "fy": 85.82367259437063,
+      "fy": 99.16466524142953,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -100,39 +111,39 @@
       "target": "basics",
       "curve": {
         "x": -14.8476,
-        "y": 130.409
+        "y": 137.079
       }
     },
     {
       "source": "basics",
       "target": "monads  ️",
       "curve": {
-        "x": 27.9641,
-        "y": 74.9713
+        "x": 9.66677,
+        "y": 92.5264
       }
     },
     {
       "source": "basics",
       "target": "immutability  ️",
       "curve": {
-        "x": -58.7916,
-        "y": 74.0985
+        "x": -77.0889,
+        "y": 91.6536
       }
     },
     {
       "source": "basics",
       "target": "anonymous functions  ️",
       "curve": {
-        "x": -181.775,
-        "y": 74.4454
+        "x": -200.072,
+        "y": 92.0005
       }
     },
     {
       "source": "basics",
       "target": "callback functions  ️",
       "curve": {
-        "x": -350.243,
-        "y": 36.0861
+        "x": -368.54,
+        "y": 53.6412
       }
     }
   ]

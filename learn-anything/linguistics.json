@@ -1,5 +1,7 @@
 {
   "title": "learn anything - linguistics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "linguistics",
@@ -43,8 +45,14 @@
     },
     {
       "text": "formal language  ️",
-      "fx": -677.0424292501172,
-      "fy": 25.409943813409086,
+      "fx": -675.2427825927734,
+      "fy": 25.409942626953125,
+      "category": "mindmap"
+    },
+    {
+      "text": "corpus linguistics  ️",
+      "fx": -906.3851354125608,
+      "fy": 29.384845946660334,
       "category": "mindmap"
     }
   ],
@@ -140,8 +148,16 @@
       "source": "basics",
       "target": "formal language  ️",
       "curve": {
-        "x": -287.965,
+        "x": -287.065,
         "y": 43.7025
+      }
+    },
+    {
+      "source": "basics",
+      "target": "corpus linguistics  ️",
+      "curve": {
+        "x": -452.169,
+        "y": 33.5026
       }
     }
   ]

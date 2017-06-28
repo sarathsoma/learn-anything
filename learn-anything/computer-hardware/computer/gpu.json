@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer hardware - computer - gpu",
+  "tag": "graphics processing unit",
+  "description": "",
   "nodes": [
     {
       "text": "GPU",
@@ -32,6 +34,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/graphicscard/",
+      "fx": 139.77001401262737,
+      "fy": -67.8076899513718,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "GPU"
+    },
     {
       "text": "1. what is a GPU",
       "url": "https://www.youtube.com/watch?v=0_TN845dxUU",

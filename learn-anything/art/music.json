@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - music",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "music",
@@ -25,23 +27,22 @@
     {
       "text": "music genres  ️",
       "url": "/art/music/music-genres",
-      "fx": -561.267697596498,
-      "fy": 28.145370509033683,
+      "fx": -538.545041346498,
+      "fy": 60.03990175903368,
       "category": "mindmap"
     },
     {
-      "text": "instruments",
-      "url": "http://www.wikiwand.com/en/List_of_musical_instruments",
-      "fx": -299.0797121732369,
+      "text": "instruments  ️",
+      "fx": -298.0797121732369,
       "fy": 70.1164229407317,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "live coding music",
       "note": "write code and generate music",
       "url": "http://www.wikiwand.com/en/Live_coding",
-      "fx": -76.16385459899902,
-      "fy": 102.01253509521484
+      "fx": -86.89729676317825,
+      "fy": 91.27909293103573
     },
     {
       "text": "new music  ️",
@@ -65,38 +66,10 @@
       "category": "mindmap"
     },
     {
-      "text": "drums  ️",
-      "url": "/art/music/drums",
-      "fx": -543.806872351695,
-      "fy": 151.63665254237287,
-      "category": "mindmap"
-    },
-    {
       "text": "sonic PI  ️",
       "url": "/art/music/sonic-pi",
-      "fx": -36.268930186665216,
-      "fy": 200.60323576966823,
-      "category": "mindmap"
-    },
-    {
-      "text": "guitar  ️",
-      "url": "/art/music/guitar",
-      "fx": -192.54793648485963,
-      "fy": 224.2556920244681,
-      "category": "mindmap"
-    },
-    {
-      "text": "ukulele  ️",
-      "url": "/art/music/ukulele",
-      "fx": -478.3358089999041,
-      "fy": 243.26227683810748,
-      "category": "mindmap"
-    },
-    {
-      "text": "piano  ️",
-      "url": "/art/music/piano",
-      "fx": -326.3782014101131,
-      "fy": 252.40576846903753,
+      "fx": 38.84767429094666,
+      "fy": 189.18474229951903,
       "category": "mindmap"
     }
   ],
@@ -160,32 +133,8 @@
       "source": "live coding music",
       "target": "sonic PI  ️",
       "curve": {
-        "x": -1.05258,
-        "y": 49.2953
-      }
-    },
-    {
-      "source": "instruments",
-      "target": "piano  ️",
-      "curve": {
-        "x": -27.6493,
-        "y": 91.1447
-      }
-    },
-    {
-      "source": "instruments",
-      "target": "guitar  ️",
-      "curve": {
-        "x": 39.5159,
-        "y": 77.0696
-      }
-    },
-    {
-      "source": "instruments",
-      "target": "ukulele  ️",
-      "curve": {
-        "x": -107.628,
-        "y": 85.323
+        "x": 41.8724,
+        "y": 48.9528
       }
     },
     {
@@ -198,9 +147,9 @@
     },
     {
       "source": "music theory  ️",
-      "target": "instruments",
+      "target": "instruments  ️",
       "curve": {
-        "x": -95.166,
+        "x": -94.666,
         "y": 63.9259
       }
     },
@@ -208,8 +157,8 @@
       "source": "music theory  ️",
       "target": "live coding music",
       "curve": {
-        "x": 28.0419,
-        "y": 78.624
+        "x": 22.6752,
+        "y": 73.2573
       }
     },
     {
@@ -218,14 +167,6 @@
       "curve": {
         "x": 283.719,
         "y": 73.795
-      }
-    },
-    {
-      "source": "instruments",
-      "target": "drums  ️",
-      "curve": {
-        "x": -141.614,
-        "y": 39.5101
       }
     },
     {
@@ -240,8 +181,8 @@
       "source": "music theory  ️",
       "target": "music genres  ️",
       "curve": {
-        "x": -256.883,
-        "y": 13.6756
+        "x": -245.522,
+        "y": 29.6229
       }
     },
     {

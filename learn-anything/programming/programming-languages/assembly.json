@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - assembly",
+  "tag": "assembly programming",
+  "description": "",
   "nodes": [
     {
       "text": "assembly",
@@ -58,6 +60,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/asm/",
+      "fx": 193.68747742052028,
+      "fy": -458.72014992774564,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "assembly"
+    },
     {
       "text": "awesome asm",
       "url": "https://github.com/jaspergould/awesome-asm",

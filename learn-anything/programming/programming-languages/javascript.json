@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - javascript",
+  "tag": "javascript programming language",
+  "description": "",
   "nodes": [
     {
       "text": "javascript",
@@ -31,7 +33,7 @@
       "note": "",
       "url": "",
       "fx": -273.5469545883918,
-      "fy": 116.79042443268986
+      "fy": 102.00018470666237
     },
     {
       "text": "promises  ️",
@@ -85,7 +87,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/javascript/",
       "fx": 90.16224970234612,
-      "fy": -819.5583772512393,
+      "fy": -839.5583772512393,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "javascript"
@@ -94,16 +96,25 @@
       "text": "learn javascript",
       "url": "https://www.reddit.com/r/learnjavascript/",
       "fx": 90.16224970234612,
-      "fy": -779.5583772512393,
+      "fy": -799.5583772512393,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "javascript"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/javascript",
+      "fx": 90.16224970234612,
+      "fy": -759.5583772512393,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "javascript"
     },
     {
       "text": "awesome javascript",
       "url": "https://github.com/sorrycc/awesome-javascript",
       "fx": 197.63497539224295,
-      "fy": -736.2906707237506,
+      "fy": -716.2906707237506,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -112,7 +123,7 @@
       "text": "awesome promises",
       "url": "https://github.com/wbinnssmith/awesome-promises",
       "fx": 197.63497539224295,
-      "fy": -696.2906707237506,
+      "fy": -676.2906707237506,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -121,7 +132,7 @@
       "text": "high level style in javascript",
       "url": "https://gist.github.com/dominictarr/2401787",
       "fx": 197.63497539224295,
-      "fy": -656.2906707237506,
+      "fy": -636.2906707237506,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -130,7 +141,7 @@
       "text": "js must watch",
       "url": "https://github.com/bolshchikov/js-must-watch",
       "fx": 197.63497539224295,
-      "fy": -616.2906707237506,
+      "fy": -596.2906707237506,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -139,7 +150,7 @@
       "text": "awesome js tips",
       "url": "https://github.com/loverajoel/jstips",
       "fx": 197.63497539224295,
-      "fy": -576.2906707237506,
+      "fy": -556.2906707237506,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -148,7 +159,7 @@
       "text": "awesome network js",
       "url": "https://github.com/Kikobeats/awesome-network-js",
       "fx": 197.63497539224295,
-      "fy": -536.2906707237506,
+      "fy": -516.2906707237506,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -157,7 +168,7 @@
       "text": "awesome observables",
       "url": "https://github.com/sindresorhus/awesome-observables",
       "fx": 197.63497539224295,
-      "fy": -496.2906707237506,
+      "fy": -476.2906707237506,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -166,7 +177,7 @@
       "text": "awesome fp in js",
       "url": "https://github.com/stoeffel/awesome-fp-js",
       "fx": 197.63497539224295,
-      "fy": -456.2906707237506,
+      "fy": -436.2906707237506,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -175,7 +186,7 @@
       "text": "awesome javascript learning",
       "url": "https://github.com/micromata/awesome-javascript-learning",
       "fx": 197.63497539224295,
-      "fy": -416.2906707237506,
+      "fy": -396.2906707237506,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -185,7 +196,7 @@
       "note": "- explosion of packages in the standard ecosystem",
       "url": "https://github.com/feross/awesome-standard",
       "fx": 197.63497539224295,
-      "fy": -376.2906707237506,
+      "fy": -356.2906707237506,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -194,7 +205,7 @@
       "text": "clean code javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
       "fx": 197.63497539224295,
-      "fy": -336.2906707237506,
+      "fy": -316.2906707237506,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -203,7 +214,7 @@
       "text": "js concepts with code",
       "url": "https://github.com/vasanthk/js-bits",
       "fx": 197.63497539224295,
-      "fy": -296.2906707237506,
+      "fy": -276.2906707237506,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -212,18 +223,9 @@
       "text": "javascript in one pic",
       "url": "https://github.com/coodict/javascript-in-one-pic",
       "fx": 197.63497539224295,
-      "fy": -256.2906707237506,
+      "fy": -236.29067072375062,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "js interview questions",
-      "url": "https://github.com/vvscode/js--interview-questions",
-      "fx": 197.63497539224295,
-      "fy": -216.29067072375062,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
@@ -258,7 +260,7 @@
       "note": "project-based learning",
       "url": "https://www.freecodecamp.com/",
       "fx": -91.54695458839183,
-      "fy": -2.7095755673101394,
+      "fy": -37.49981529333763,
       "category": "interactive",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -268,7 +270,7 @@
       "note": "goes over javascript language in detail",
       "url": "https://github.com/getify/You-Dont-Know-JS",
       "fx": -91.54695458839183,
-      "fy": 37.29042443268986,
+      "fy": 2.500184706662367,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -278,8 +280,17 @@
       "note": "build 30 things in 30 days with vanilla js",
       "url": "https://javascript30.com/",
       "fx": -91.54695458839183,
-      "fy": 77.29042443268986,
+      "fy": 42.50018470666237,
       "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. learn javascript",
+      "url": "https://www.quirksmode.org/js/contents.html",
+      "fx": -91.54695458839183,
+      "fy": 82.50018470666237,
+      "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
@@ -287,7 +298,7 @@
       "text": "1. modern js tutorial",
       "url": "http://javascript.info/",
       "fx": -91.54695458839183,
-      "fy": 117.29042443268986,
+      "fy": 122.50018470666237,
       "category": "free book",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
@@ -296,7 +307,7 @@
       "text": "1. practical javascript",
       "url": "https://watchandcode.com/p/practical-javascript",
       "fx": -91.54695458839183,
-      "fy": 157.29042443268986,
+      "fy": 162.50018470666237,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -305,7 +316,7 @@
       "text": "2. learning javascript design patterns",
       "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
       "fx": -91.54695458839183,
-      "fy": 197.29042443268986,
+      "fy": 202.50018470666237,
       "category": "free book",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -314,7 +325,7 @@
       "text": "2. eloquent javascript",
       "url": "http://eloquentjavascript.net/",
       "fx": -91.54695458839183,
-      "fy": 259.29042443268986,
+      "fy": 264.50018470666237,
       "category": "free book",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
@@ -334,7 +345,7 @@
       "target": "basics",
       "curve": {
         "x": -82.3547,
-        "y": 465.175
+        "y": 457.78
       }
     },
     {
@@ -342,7 +353,7 @@
       "target": "ES6  ️",
       "curve": {
         "x": -19.567,
-        "y": 79.6985
+        "y": 87.0936
       }
     },
     {
@@ -366,7 +377,7 @@
       "target": "package managers",
       "curve": {
         "x": -108.282,
-        "y": 115.708
+        "y": 123.103
       }
     },
     {
@@ -398,7 +409,7 @@
       "target": "static type checking",
       "curve": {
         "x": 71.8806,
-        "y": 149.066
+        "y": 156.461
       }
     },
     {
@@ -406,7 +417,7 @@
       "target": "promises  ️",
       "curve": {
         "x": -170.088,
-        "y": 49.7476
+        "y": 57.1427
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - perl",
+  "tag": "perl programming language",
+  "description": "",
   "nodes": [
     {
       "text": "perl",
@@ -27,9 +29,18 @@
       "text": "",
       "url": "https://www.reddit.com/r/perl/",
       "fx": 85.36749031007741,
-      "fy": -191.43662185077517,
+      "fy": -211.43662185077517,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "perl"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/Perl/perl5",
+      "fx": 85.36749031007741,
+      "fy": -171.43662185077517,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "perl"
     },
     {

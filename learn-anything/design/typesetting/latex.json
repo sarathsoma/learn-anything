@@ -1,5 +1,7 @@
 {
   "title": "learn anything - design - typesetting - latex",
+  "tag": "LaTeX",
+  "description": "",
   "nodes": [
     {
       "text": "LaTeX",
@@ -24,39 +26,39 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -140.93434535699544,
-      "fy": 109.22121607351937
+      "fx": -158.55988726450983,
+      "fy": 143.26881361687174
     },
     {
       "text": "packages",
       "url": "",
-      "fx": -176.31038533834578,
-      "fy": 217.29738408521348
+      "fx": -211.0523208662264,
+      "fy": 252.988785914603
     },
     {
       "text": "booktabs",
       "url": "https://www.ctan.org/pkg/booktabs?lang=en",
-      "fx": -397.3754425048828,
-      "fy": 277.8074580601283
+      "fx": -431.93107834303305,
+      "fy": 311.760221788452
     },
     {
       "text": "microtype",
       "url": "https://www.ctan.org/pkg/microtype?lang=en",
-      "fx": -72.33958983421326,
-      "fy": 303.8929138183594
+      "fx": -106.8952256723635,
+      "fy": 337.8456775466831
     },
     {
       "text": "cleverref",
       "note": "make references easier and consistent",
       "url": "https://www.ctan.org/pkg/cleveref?lang=en",
-      "fx": -220.46453475952148,
-      "fy": 357.6796875
+      "fx": -255.02017059767172,
+      "fy": 391.6324512283237
     },
     {
       "text": "todonotes",
       "url": "https://www.ctan.org/pkg/todonotes?lang=en",
-      "fx": -379.1329002380371,
-      "fy": 384.12503814697266
+      "fx": -413.68853607618735,
+      "fy": 418.07780187529636
     }
   ],
   "subnodes": [
@@ -130,18 +132,26 @@
       "parent": "inspiration"
     },
     {
+      "text": "1. simple gude to latex",
+      "url": "https://www.latex-tutorial.com/tutorials/",
+      "fx": 23.440112735490175,
+      "fy": 123.76881361687174,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. begin latex in minutes",
       "url": "https://github.com/VoLuong/Begin-Latex-in-minutes",
-      "fx": 41.065654643004564,
-      "fy": 106.72121607351937,
+      "fx": 23.440112735490175,
+      "fy": 157.76881361687174,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. learn latex in 30 minutes",
       "url": "https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes",
-      "fx": 41.065654643004564,
-      "fy": 140.72121607351937,
+      "fx": 23.440112735490175,
+      "fy": 191.76881361687174,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
@@ -151,8 +161,8 @@
       "source": "LaTeX",
       "target": "basics",
       "curve": {
-        "x": -6.81479,
-        "y": 221.874
+        "x": -15.6276,
+        "y": 238.898
       }
     },
     {
@@ -175,40 +185,40 @@
       "source": "basics",
       "target": "packages",
       "curve": {
-        "x": -16.688,
-        "y": 54.0381
+        "x": -25.2462,
+        "y": 54.86
       }
     },
     {
       "source": "packages",
       "target": "microtype",
       "curve": {
-        "x": 52.4854,
-        "y": 43.2978
+        "x": 52.5785,
+        "y": 42.4285
       }
     },
     {
       "source": "packages",
       "target": "cleverref",
       "curve": {
-        "x": -18.5771,
-        "y": 70.1912
+        "x": -18.484,
+        "y": 69.3219
       }
     },
     {
       "source": "packages",
       "target": "todonotes",
       "curve": {
-        "x": -100.411,
-        "y": 83.4138
+        "x": -100.318,
+        "y": 82.5445
       }
     },
     {
       "source": "packages",
       "target": "booktabs",
       "curve": {
-        "x": -111.033,
-        "y": 30.255
+        "x": -110.94,
+        "y": 29.3857
       }
     }
   ]

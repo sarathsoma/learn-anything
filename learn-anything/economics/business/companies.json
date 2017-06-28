@@ -1,5 +1,7 @@
 {
   "title": "learn anything - economics - business - companies",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "companies",
@@ -822,11 +824,10 @@
       "parent": "companies"
     },
     {
-      "text": "04: facebook",
-      "url": "http://www.wikiwand.com/en/Facebook",
+      "text": "04: facebook  ️",
       "fx": 278.7109375,
       "fy": 425.1796875,
-      "category": "wiki",
+      "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "companies"
     },
@@ -837,7 +838,7 @@
       "fy": 405.1796875,
       "category": "wiki",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "04: facebook"
+      "parent": "04: facebook  ️"
     },
     {
       "text": "12: oculus rift",
@@ -846,7 +847,7 @@
       "fy": 445.1796875,
       "category": "wiki",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "04: facebook"
+      "parent": "04: facebook  ️"
     },
     {
       "text": "04: yelp",

@@ -1,83 +1,185 @@
 {
   "title": "learn anything - web development - front end - css",
+  "tag": "CSS",
+  "description": "",
   "nodes": [
     {
-      "text": "css",
+      "text": "CSS",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-      "fx": 15.90625,
-      "fy": -235.26171875
+      "fx": 12.1015625,
+      "fy": -329.359375
     },
     {
       "text": "help",
       "url": "",
-      "fx": 104.98740871106577,
-      "fy": -152.23412958116018
+      "fx": 103.20639545349002,
+      "fy": -237.56521386146318
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 254.3573708619881,
-      "fy": -31.53517019686376
+      "fx": 255.0526833619881,
+      "fy": -125.63282644686376
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -88.79007228417515,
-      "fy": 34.43961043532909
+      "fx": -97.93281855900955,
+      "fy": -41.55736286765091
     },
     {
       "text": "tools",
       "url": "",
-      "fx": 373.2412162401853,
-      "fy": 77.34774449569306
+      "fx": 373.9365287401853,
+      "fy": -16.749911754306936
+    },
+    {
+      "text": "methodologies",
+      "url": "",
+      "fx": 485.82421875,
+      "fy": 188.01953125
     },
     {
       "text": "styled components  ️",
       "url": "/web-development/front-end/css/styled-components",
-      "fx": -291.2832660654035,
-      "fy": 162.98593488196616,
+      "fx": -195.2764898143443,
+      "fy": 189.57817861980186,
       "category": "mindmap"
+    },
+    {
+      "text": "frameworks",
+      "url": "",
+      "fx": 90.1551117549684,
+      "fy": 192.67280629139043
+    },
+    {
+      "text": "CSS3  ️",
+      "fx": -337.8883099663052,
+      "fy": 191.25318248927806,
+      "category": "mindmap"
+    },
+    {
+      "text": "preprocessors",
+      "url": "http://www.wikiwand.com/en/Preprocessor",
+      "fx": -551.80078125,
+      "fy": 193.5546875,
+      "category": "wiki"
+    },
+    {
+      "text": "Stylus",
+      "url": "http://stylus-lang.com/",
+      "fx": -542.3624188823087,
+      "fy": 305.5390774665341
+    },
+    {
+      "text": "Less",
+      "url": "http://lesscss.org/",
+      "fx": -631.4435956401212,
+      "fy": 305.5525338111386
+    },
+    {
+      "text": "PostCSS",
+      "url": "https://github.com/postcss/postcss",
+      "fx": -441.25579046433995,
+      "fy": 305.41253203730435,
+      "category": "github"
     },
     {
       "text": "Sass  ️",
       "url": "/web-development/front-end/css/sass",
-      "fx": 8.706407432070023,
-      "fy": 177.28265677114223,
+      "fx": -751.4740347444736,
+      "fy": 307.1971169001497,
       "category": "mindmap"
+    },
+    {
+      "text": "materialise css",
+      "url": "http://materializecss.com/",
+      "fx": 192.11547088623047,
+      "fy": 310.25228118896484
+    },
+    {
+      "text": "bootstrap  ️",
+      "url": "/web-development/front-end/css/bootstrap",
+      "fx": 29.542805428950942,
+      "fy": 307.7720374239403,
+      "category": "mindmap"
+    },
+    {
+      "text": "foundation",
+      "url": "http://foundation.zurb.com/",
+      "fx": -118.13103057155286,
+      "fy": 310.46770915591566
+    },
+    {
+      "text": "semantic UI",
+      "url": "https://semantic-ui.com/",
+      "fx": 371.2657165527344,
+      "fy": 312.3289260864258
+    },
+    {
+      "text": "SUITCSS",
+      "url": "https://suitcss.github.io/",
+      "fx": 533.7204881751018,
+      "fy": 314.5549912452698
+    },
+    {
+      "text": "BEM",
+      "url": "http://getbem.com/",
+      "fx": 665.830412491508,
+      "fy": 316.4063687324524
+    },
+    {
+      "text": "SMACSS",
+      "url": "https://smacss.com/",
+      "fx": 905.10009765625,
+      "fy": 317.2682089805603
+    },
+    {
+      "text": "Systematic CSS",
+      "url": "https://www.yumpu.com/en/document/view/47573458/systematic-css",
+      "fx": 1036.2451782226562,
+      "fy": 318.6321921348572
+    },
+    {
+      "text": "OOCSS",
+      "url": "https://github.com/stubbornella/oocss/wiki",
+      "fx": 756.96142578125,
+      "fy": 316.56557989120483,
+      "category": "github"
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/css/",
-      "fx": 145.90625,
-      "fy": -223.76171875,
+      "fx": 151.1015625,
+      "fy": -317.859375,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "css"
+      "parent": "CSS"
     },
     {
       "text": "css almanac",
       "url": "https://css-tricks.com/almanac/",
-      "fx": 241.98740871106577,
-      "fy": -154.73412958116018,
+      "fx": 240.20639545349002,
+      "fy": -240.06521386146318,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "css reference",
       "url": "http://cssreference.io/#hn",
-      "fx": 241.98740871106577,
-      "fy": -120.73412958116018,
+      "fx": 240.20639545349002,
+      "fy": -206.06521386146318,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "17: the state of CSS  ️",
       "url": "http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html",
-      "fx": 416.3573708619881,
-      "fy": -51.03517019686376,
+      "fx": 417.0526833619881,
+      "fy": -145.13282644686376,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -85,8 +187,8 @@
     {
       "text": "14: a pattern for writing CSS to scale  ️",
       "url": "http://www.intelligiblebabble.com/a-pattern-for-writing-css-to-scale",
-      "fx": 416.3573708619881,
-      "fy": -11.03517019686376,
+      "fx": 417.0526833619881,
+      "fy": -105.13282644686376,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -94,51 +196,52 @@
     {
       "text": "1. intro to css",
       "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS",
-      "fx": 93.20992771582485,
-      "fy": 48.93961043532909,
+      "fx": 84.06718144099045,
+      "fy": -47.05736286765091,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. grid garden",
+      "url": "http://cssgridgarden.com/",
+      "fx": 84.06718144099045,
+      "fy": -13.057362867650909,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "blend",
       "url": "http://colinkeany.com/blend/",
-      "fx": 515.2412162401853,
-      "fy": 91.84774449569306,
+      "fx": 515.9365287401853,
+      "fy": -2.249911754306936,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "tools"
     }
   ],
   "connections": [
     {
-      "source": "css",
+      "source": "CSS",
       "target": "basics",
       "curve": {
-        "x": -45.8481,
-        "y": 134.851
+        "x": -48.5171,
+        "y": 143.901
       }
     },
     {
       "source": "help",
-      "target": "css",
+      "target": "CSS",
       "curve": {
-        "x": -46.2906,
-        "y": -41.5138
-      }
-    },
-    {
-      "source": "basics",
-      "target": "Sass  ️",
-      "curve": {
-        "x": 38.9983,
-        "y": 71.4215
+        "x": -47.3024,
+        "y": -45.8971
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -93.8918,
-        "y": -53.8699
+        "x": -95.13,
+        "y": -49.4866
       }
     },
     {
@@ -153,8 +256,144 @@
       "source": "basics",
       "target": "styled components  ️",
       "curve": {
-        "x": -78.9966,
-        "y": 64.2732
+        "x": -26.4219,
+        "y": 115.568
+      }
+    },
+    {
+      "source": "basics",
+      "target": "CSS3  ️",
+      "curve": {
+        "x": -127.728,
+        "y": 116.405
+      }
+    },
+    {
+      "source": "frameworks",
+      "target": "semantic UI",
+      "curve": {
+        "x": 121.055,
+        "y": 59.8281
+      }
+    },
+    {
+      "source": "frameworks",
+      "target": "foundation",
+      "curve": {
+        "x": -126.393,
+        "y": 58.8975
+      }
+    },
+    {
+      "source": "frameworks",
+      "target": "bootstrap  ️",
+      "curve": {
+        "x": -54.5562,
+        "y": 57.5496
+      }
+    },
+    {
+      "source": "frameworks",
+      "target": "materialise css",
+      "curve": {
+        "x": 37.9802,
+        "y": 58.7897
+      }
+    },
+    {
+      "source": "basics",
+      "target": "frameworks",
+      "curve": {
+        "x": 99.5439,
+        "y": 117.115
+      }
+    },
+    {
+      "source": "preprocessors",
+      "target": "PostCSS",
+      "curve": {
+        "x": 43.5225,
+        "y": 55.9289
+      }
+    },
+    {
+      "source": "preprocessors",
+      "target": "Less",
+      "curve": {
+        "x": -61.5714,
+        "y": 55.9989
+      }
+    },
+    {
+      "source": "preprocessors",
+      "target": "Sass  ️",
+      "curve": {
+        "x": -170.646,
+        "y": 56.8212
+      }
+    },
+    {
+      "source": "preprocessors",
+      "target": "Stylus",
+      "curve": {
+        "x": -14.0308,
+        "y": 55.9922
+      }
+    },
+    {
+      "source": "basics",
+      "target": "preprocessors",
+      "curve": {
+        "x": -223.821,
+        "y": 102.126
+      }
+    },
+    {
+      "source": "methodologies",
+      "target": "SMACSS",
+      "curve": {
+        "x": 271.286,
+        "y": 66.6673
+      }
+    },
+    {
+      "source": "methodologies",
+      "target": "OOCSS",
+      "curve": {
+        "x": 159.373,
+        "y": 66.316
+      }
+    },
+    {
+      "source": "methodologies",
+      "target": "SUITCSS",
+      "curve": {
+        "x": 11.9469,
+        "y": 63.2677
+      }
+    },
+    {
+      "source": "methodologies",
+      "target": "Systematic CSS",
+      "curve": {
+        "x": 366.43,
+        "y": 52.0993
+      }
+    },
+    {
+      "source": "methodologies",
+      "target": "BEM",
+      "curve": {
+        "x": 78.8039,
+        "y": 64.1934
+      }
+    },
+    {
+      "source": "basics",
+      "target": "methodologies",
+      "curve": {
+        "x": 292.605,
+        "y": 135.902
       }
     }
   ]

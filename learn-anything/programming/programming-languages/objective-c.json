@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - objective c",
+  "tag": "objective c programming language",
+  "description": "",
   "nodes": [
     {
       "text": "objective c",
@@ -54,6 +56,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/ObjectiveC/",
+      "fx": 118,
+      "fy": -279.8456503378378,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "objective c"
+    },
     {
       "text": "objc style guide",
       "url": "https://github.com/NYTimes/objective-c-style-guide",

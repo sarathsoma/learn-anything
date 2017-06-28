@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - set theory",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "set theory",
@@ -12,20 +14,20 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -97.5078125,
-      "fy": -98.98828125
+      "fx": -110.86654183884286,
+      "fy": -80.88717071280996
     },
     {
       "text": "naive set theory  ️",
       "url": "/mathematics/set-theory/naive-set-theory",
-      "fx": -64.78472858626935,
-      "fy": 50.08301595473233,
+      "fx": -92.82902094164115,
+      "fy": 109.99068640927794,
       "category": "mindmap"
     },
     {
       "text": "binary relation  ️",
-      "fx": -297.96994710440583,
-      "fy": 50.68891987230643,
+      "fx": -326.0142394597776,
+      "fy": 110.59659032685204,
       "category": "mindmap"
     }
   ],
@@ -33,8 +35,8 @@
     {
       "text": "1. naive set theory",
       "url": "https://www.goodreads.com/book/show/558194.Naive_Set_Theory",
-      "fx": 84.4921875,
-      "fy": -118.48828125,
+      "fx": 71.13345816115714,
+      "fy": -120.38717071280996,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -42,10 +44,19 @@
     {
       "text": "1. set theory and foundations of mathematics",
       "url": "http://www.settheory.net/",
-      "fx": 84.4921875,
-      "fy": -78.48828125,
+      "fx": 71.13345816115714,
+      "fy": -80.38717071280996,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. set theory and axiomatic systems  ️",
+      "url": "http://0a.io/set-theory-and-axiomatic-systems",
+      "fx": 71.13345816115714,
+      "fy": -18.38717071280996,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -54,24 +65,24 @@
       "source": "set theory",
       "target": "basics",
       "curve": {
-        "x": -2.11523,
-        "y": 61.746
+        "x": -8.79459,
+        "y": 70.7966
       }
     },
     {
       "source": "basics",
       "target": "naive set theory  ️",
       "curve": {
-        "x": 38.1116,
-        "y": 75.7857
+        "x": 30.7688,
+        "y": 96.689
       }
     },
     {
       "source": "basics",
       "target": "binary relation  ️",
       "curve": {
-        "x": -89.7311,
-        "y": 74.8386
+        "x": -97.0739,
+        "y": 95.7419
       }
     }
   ]

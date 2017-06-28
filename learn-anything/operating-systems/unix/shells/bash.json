@@ -1,38 +1,49 @@
 {
   "title": "learn anything - operating systems - unix - shells - bash",
+  "tag": "bash shell",
+  "description": "",
   "nodes": [
     {
       "text": "bash",
       "url": "http://www.wikiwand.com/en/Bash_(Unix_shell)",
       "fx": -65.62109375,
-      "fy": -296.0625,
+      "fy": -304.9252897350993,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 31.80025153760073,
+      "fx": 33.15321097468677,
       "fy": -204.14998549657156
     },
     {
       "text": "tools",
       "url": "",
-      "fx": 96.64569536423892,
-      "fy": -103.88162251655677
+      "fx": 98.68936258278188,
+      "fy": -99.82274420529848
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -77.70995447019857,
-      "fy": 11.340542218503856
+      "fx": -80.44174254966879,
+      "fy": 46.605442880755504
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/bash/",
+      "fx": 106.37890625,
+      "fy": -290.9252897350993,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "bash"
+    },
+    {
       "text": "bash one liners",
       "url": "https://github.com/janosgyerik/bashoneliners",
-      "fx": 168.80025153760073,
+      "fx": 170.15321097468677,
       "fy": -212.64998549657156,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
@@ -41,7 +52,7 @@
     {
       "text": "bash notes",
       "url": "https://github.com/jp2011/bash-playground",
-      "fx": 168.80025153760073,
+      "fx": 170.15321097468677,
       "fy": -172.64998549657156,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
@@ -51,8 +62,8 @@
       "text": "explain shell",
       "note": "match command-line arguments to their help text",
       "url": "https://github.com/idank/explainshell",
-      "fx": 238.64569536423892,
-      "fy": -109.38162251655677,
+      "fx": 240.68936258278188,
+      "fy": -105.32274420529848,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "tools"
     },
@@ -60,8 +71,8 @@
       "text": "spellcheck",
       "note": "static analysis tool for shell scripts",
       "url": "https://github.com/koalaman/shellcheck",
-      "fx": 238.64569536423892,
-      "fy": -75.38162251655677,
+      "fx": 240.68936258278188,
+      "fy": -71.32274420529848,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "tools"
@@ -69,8 +80,8 @@
     {
       "text": "1. bash guide",
       "url": "https://github.com/Idnan/bash-guide",
-      "fx": 104.29004552980143,
-      "fy": -14.159457781496144,
+      "fx": 101.55825745033121,
+      "fy": 4.105442880755504,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -78,8 +89,8 @@
     {
       "text": "1. learn you bash",
       "url": "https://github.com/denysdovhan/learnyoubash",
-      "fx": 104.29004552980143,
-      "fy": 25.840542218503856,
+      "fx": 101.55825745033121,
+      "fy": 44.105442880755504,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -87,9 +98,17 @@
     {
       "text": "2. advanced bash scripting",
       "url": "http://www.tldp.org/LDP/abs/html/",
-      "fx": 104.29004552980143,
-      "fy": 65.84054221850386,
+      "fx": 101.55825745033121,
+      "fy": 84.1054428807555,
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. practice",
+      "url": "http://exercism.io/languages/bash/launch",
+      "fx": 101.55825745033121,
+      "fy": 118.1054428807555,
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],
@@ -98,24 +117,24 @@
       "source": "help",
       "target": "bash",
       "curve": {
-        "x": -39.9607,
-        "y": -44.7063
+        "x": -40.6372,
+        "y": -49.1377
       }
     },
     {
       "source": "bash",
       "target": "basics",
       "curve": {
-        "x": -10.0444,
-        "y": 152.452
+        "x": -11.4103,
+        "y": 174.515
       }
     },
     {
       "source": "tools",
       "target": "help",
       "curve": {
-        "x": -33.6728,
-        "y": -50.1342
+        "x": -34.0182,
+        "y": -52.1636
       }
     }
   ]

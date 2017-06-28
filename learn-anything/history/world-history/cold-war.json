@@ -1,5 +1,7 @@
 {
   "title": "learn anything - history - world history - cold war",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "cold war",
@@ -12,18 +14,27 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -65.5859375,
-      "fy": -241.79296875
+      "fx": -71.5859375,
+      "fy": -237.79296875
     }
   ],
   "subnodes": [
     {
       "text": "1. cold war in 9 minutes",
       "url": "https://www.youtube.com/watch?v=wVqziNV7dGY",
-      "fx": 116.4140625,
-      "fy": -230.29296875,
+      "fx": 110.4140625,
+      "fy": -246.29296875,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. origins of the cold war",
+      "url": "https://www.khanacademy.org/humanities/ap-us-history/period-8/apush-postwar-era/v/origins-of-the-cold-war",
+      "fx": 110.4140625,
+      "fy": -206.29296875,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -32,8 +43,8 @@
       "source": "cold war",
       "target": "basics",
       "curve": {
-        "x": -1.89844,
-        "y": 64.7656
+        "x": -4.89844,
+        "y": 66.7656
       }
     }
   ]

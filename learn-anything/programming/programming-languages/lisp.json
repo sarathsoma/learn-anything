@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - lisp",
+  "tag": "lisp programming language",
+  "description": "",
   "nodes": [
     {
       "text": "lisp",
@@ -29,6 +31,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/lisp/",
+      "fx": 84.16664457321167,
+      "fy": -199.8428726196289,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "lisp"
+    },
     {
       "text": "fear of macros  ️",
       "url": "http://www.greghendershott.com/fear-of-macros/index.html",

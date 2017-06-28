@@ -1,5 +1,7 @@
 {
   "title": "learn anything - medicine - specialties - psychiatry - mental disorders - depression",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "depression",
@@ -16,6 +18,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/depression/",
+      "fx": 130.71484375,
+      "fy": -177.83203125,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "depression"
+    },
     {
       "text": "Alan Watts: worry, disease, depression and the mind",
       "url": "https://www.youtube.com/watch?v=ChGUVLSpWh4&amp;t=4s",

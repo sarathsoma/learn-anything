@@ -1,5 +1,7 @@
 {
   "title": "learn anything - operating systems",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "operating systems",
@@ -52,8 +54,14 @@
     {
       "text": "kernel  ️",
       "url": "/operating-systems/kernel",
-      "fx": -446.4587834553449,
-      "fy": 273.34798593667426,
+      "fx": -445.1591262817383,
+      "fy": 273.34798431396484,
+      "category": "mindmap"
+    },
+    {
+      "text": "file systems  ️",
+      "fx": -625.3028746488528,
+      "fy": 274.1538660055512,
       "category": "mindmap"
     },
     {
@@ -272,8 +280,16 @@
       "source": "basics",
       "target": "kernel  ️",
       "curve": {
-        "x": -420.359,
+        "x": -419.709,
         "y": 90.9444
+      }
+    },
+    {
+      "source": "basics",
+      "target": "file systems  ️",
+      "curve": {
+        "x": -505.987,
+        "y": 61.6031
       }
     }
   ]

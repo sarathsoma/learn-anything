@@ -1,33 +1,34 @@
 {
   "title": "learn anything - web development - javascript libraries - angular 2",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "Angular 2",
-      "url": "http://www.wikiwand.com/en/AngularJS",
-      "fx": -97.70987401832463,
-      "fy": -333.7287099149215,
-      "category": "wiki"
+      "url": "https://angular.io/",
+      "fx": -82.70987401832463,
+      "fy": -333.7287099149215
     },
     {
       "text": "help",
       "url": "",
       "fx": 84.98774376126175,
-      "fy": -188.08021456636197
+      "fy": -222.2411432386785
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -154.60228530270876,
-      "fy": 8.349354148545103
+      "fx": -143.655957619093,
+      "fy": -51.19116491925149
     }
   ],
   "subnodes": [
     {
       "text": "",
-      "url": "https://www.reddit.com/r/angularjs/",
-      "fx": 116.29012598167537,
-      "fy": -339.7287099149215,
+      "url": "https://www.reddit.com/r/Angular2/",
+      "fx": 102.29012598167537,
+      "fy": -342.2287099149215,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "Angular 2"
@@ -35,35 +36,26 @@
     {
       "text": "",
       "url": "https://github.com/angular/angular.js",
-      "fx": 116.29012598167537,
-      "fy": -299.7287099149215,
+      "fx": 102.29012598167537,
+      "fy": -302.2287099149215,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "Angular 2"
     },
     {
-      "text": "awesome angular",
+      "text": "awesome angular 2",
       "url": "https://github.com/AngularClass/awesome-angular",
       "fx": 221.98774376126175,
-      "fy": -216.58021456636197,
+      "fy": -230.7411432386785,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome angular 2",
-      "url": "https://github.com/gianarb/awesome-angularjs",
-      "fx": 221.98774376126175,
-      "fy": -176.58021456636197,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome angular components",
       "url": "https://github.com/brillout/awesome-angular-components",
       "fx": 221.98774376126175,
-      "fy": -136.58021456636197,
+      "fy": -190.7411432386785,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -71,8 +63,8 @@
     {
       "text": "1. learn angular 2 development",
       "url": "https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course",
-      "fx": 27.397714697291235,
-      "fy": -39.1506458514549,
+      "fx": 38.34404238090701,
+      "fy": -98.69116491925149,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -81,16 +73,16 @@
       "text": "1. create angular application in typescript",
       "note": "typescript",
       "url": "https://angular.io/docs/ts/latest/tutorial/",
-      "fx": 27.397714697291235,
-      "fy": 0.8493541485451033,
+      "fx": 38.34404238090701,
+      "fy": -58.69116491925149,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. build a whatsapp clone with Meteor, Ionic 2 and angular 2",
       "url": "https://angular-meteor.com/tutorials/whatsapp2/",
-      "fx": 27.397714697291235,
-      "fy": 56.8493541485451,
+      "fx": 38.34404238090701,
+      "fy": -2.6911649192514915,
       "category": "",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -101,16 +93,16 @@
       "source": "help",
       "target": "Angular 2",
       "curve": {
-        "x": -71.0988,
-        "y": -71.5742
+        "x": -63.5988,
+        "y": -54.4937
       }
     },
     {
       "source": "Angular 2",
       "target": "basics",
       "curve": {
-        "x": -43.9461,
-        "y": 169.788
+        "x": -45.9729,
+        "y": 140.018
       }
     }
   ]

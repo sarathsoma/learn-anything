@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - fortran",
+  "tag": "fortran programming language",
+  "description": "",
   "nodes": [
     {
       "text": "fortran",
@@ -12,19 +14,43 @@
     {
       "text": "help",
       "url": "",
-      "fx": 5.828125,
-      "fy": -32.40234375
+      "fx": 50.15160672169816,
+      "fy": -46.894383844339586
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 142.05373001098633,
+      "fy": 61.17322540283203
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/fortran/",
+      "fx": 162.3203125,
+      "fy": -130.36328125,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "fortran"
+    },
+    {
       "text": "awesome fortran",
       "url": "https://github.com/rabbiabram/awesome-fortran",
-      "fx": 142.828125,
-      "fy": -20.90234375,
+      "fx": 187.15160672169816,
+      "fy": -35.394383844339586,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "functional fortran",
+      "url": "https://github.com/wavebitscientific/functional-fortran",
+      "fx": 333.0537300109863,
+      "fy": 72.67322540283203,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
     }
   ],
   "connections": [
@@ -32,8 +58,16 @@
       "source": "help",
       "target": "fortran",
       "curve": {
-        "x": -15.5039,
-        "y": -54.7305
+        "x": -37.6656,
+        "y": -47.4845
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -59.4511,
+        "y": -54.0338
       }
     }
   ]

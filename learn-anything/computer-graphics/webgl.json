@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer graphics - webgl",
+  "tag": "webGL",
+  "description": "",
   "nodes": [
     {
       "text": "WebGL",
@@ -20,6 +22,13 @@
       "url": "",
       "fx": -116.53796571493149,
       "fy": 35.45623779296875
+    },
+    {
+      "text": "pixie.js",
+      "url": "https://github.com/pixijs/pixi.js?utm_source=html5weekly",
+      "fx": -276.609375,
+      "fy": 201.359375,
+      "category": "github"
     }
   ],
   "subnodes": [
@@ -100,6 +109,14 @@
       "curve": {
         "x": -4.15357,
         "y": 129.834
+      }
+    },
+    {
+      "source": "basics",
+      "target": "pixie.js",
+      "curve": {
+        "x": -78.5357,
+        "y": 84.2016
       }
     }
   ]

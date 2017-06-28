@@ -1,5 +1,7 @@
 {
   "title": "learn anything - machine learning - neural networks - convolutional neural networks",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "convolutional neural networks",
@@ -22,10 +24,22 @@
       "fy": 93.62367248535156
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 604.3579327069156,
+      "fy": 187.08031739943578
+    },
+    {
+      "text": "papers",
+      "url": "",
+      "fx": 745.3731496266482,
+      "fy": 311.44037825141163
+    },
+    {
       "text": "basics",
       "url": "",
-      "fx": 170.36259522100897,
-      "fy": 207.37177700466577
+      "fx": 139.15846406570586,
+      "fy": 351.6716809150935
     }
   ],
   "subnodes": [
@@ -58,10 +72,37 @@
       "parent": "tools"
     },
     {
+      "text": "fast pixel cnn",
+      "url": "https://github.com/PrajitR/fast-pixel-cnn",
+      "fx": 795.3579327069156,
+      "fy": 198.58031739943578,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "16: a guide to convolution arithmetic for deep learning",
+      "url": "https://arxiv.org/abs/1603.07285",
+      "fx": 906.3731496266482,
+      "fy": 311.94037825141163,
+      "category": "paper",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "papers"
+    },
+    {
+      "text": "1. neural network that changes everything",
+      "url": "https://www.youtube.com/watch?v=py5byOOHZM8",
+      "fx": 295.15846406570586,
+      "fy": 279.1716809150935,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. a beginner's guide to understanding convolutional neural networks  ️",
       "url": "https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/",
-      "fx": 326.362595221009,
-      "fy": 165.87177700466577,
+      "fx": 295.15846406570586,
+      "fy": 341.1716809150935,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -69,8 +110,8 @@
     {
       "text": "2. convolutional neural networks for visual recognition",
       "url": "http://cs231n.github.io/convolutional-networks/",
-      "fx": 326.362595221009,
-      "fy": 248.87977261013452,
+      "fx": 295.15846406570586,
+      "fy": 425.1716809150935,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -89,8 +130,8 @@
       "source": "convolutional neural networks",
       "target": "basics",
       "curve": {
-        "x": 0.952779,
-        "y": 177.274
+        "x": -14.6493,
+        "y": 249.424
       }
     },
     {
@@ -99,6 +140,22 @@
       "curve": {
         "x": -43.7714,
         "y": -57.808
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "tools",
+      "curve": {
+        "x": -136.856,
+        "y": -35.3542
+      }
+    },
+    {
+      "source": "papers",
+      "target": "interesting",
+      "curve": {
+        "x": -63.0076,
+        "y": -62.18
       }
     }
   ]

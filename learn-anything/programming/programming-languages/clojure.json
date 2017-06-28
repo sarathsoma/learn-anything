@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - clojure",
+  "tag": "clojure programming language",
+  "description": "",
   "nodes": [
     {
       "text": "clojure",
@@ -42,6 +44,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Clojure/",
+      "fx": 118.24609375,
+      "fy": -233.18359375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "clojure"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/clojure/clojure",
+      "fx": 118.24609375,
+      "fy": -193.18359375,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "clojure"
+    },
     {
       "text": "awesome clojure",
       "url": "https://github.com/razum2um/awesome-clojure",
@@ -90,16 +110,25 @@
       "text": "1. brave clojure",
       "url": "http://www.braveclojure.com/introduction/",
       "fx": 61.72417967500735,
-      "fy": 209.3149344070613,
+      "fy": 189.3149344070613,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. clojure newbie guide  ️",
+      "url": "http://www.clojurenewbieguide.com/",
+      "fx": 61.72417967500735,
+      "fy": 229.3149344070613,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. clojure problems",
       "url": "http://www.4clojure.com/problems",
       "fx": 61.72417967500735,
-      "fy": 249.3149344070613,
+      "fy": 269.3149344070613,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }

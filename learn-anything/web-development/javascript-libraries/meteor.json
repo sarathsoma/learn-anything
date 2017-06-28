@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - javascript libraries - meteor",
+  "tag": "meteor library",
+  "description": "",
   "nodes": [
     {
       "text": "meteor",
@@ -25,9 +27,18 @@
   "subnodes": [
     {
       "text": "",
+      "url": "https://www.reddit.com/r/Meteor/",
+      "fx": 117.91309106349945,
+      "fy": -234.54401652018225,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "meteor"
+    },
+    {
+      "text": "",
       "url": "https://github.com/meteor/meteor",
       "fx": 117.91309106349945,
-      "fy": -214.54401652018225,
+      "fy": -194.54401652018225,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "meteor"

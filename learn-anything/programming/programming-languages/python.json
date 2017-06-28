@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - python",
+  "tag": "python programming language",
+  "description": "",
   "nodes": [
     {
       "text": "python",
@@ -30,22 +32,29 @@
     {
       "text": "package manager",
       "url": "http://www.wikiwand.com/en/Package_manager",
-      "fx": -346.2056231217888,
-      "fy": 39.035120728630204,
+      "fx": -373.4439043717888,
+      "fy": 76.6601207286302,
       "category": "wiki"
     },
     {
       "text": "python libraries  ️",
       "url": "/programming/programming-languages/python/python-libraries",
-      "fx": -78.69331502906573,
-      "fy": 100.14771605920942,
+      "fx": -176.04714567422695,
+      "fy": 150.09731283340284,
       "category": "mindmap"
+    },
+    {
+      "text": "micropython",
+      "url": "https://github.com/micropython/micropython",
+      "fx": 59.61824900283068,
+      "fy": 153.37582197540632,
+      "category": "github"
     },
     {
       "text": "pip",
       "url": "https://pypi.python.org/pypi/pip",
-      "fx": -317.77054724755226,
-      "fy": 153.56934975958518
+      "fx": -345.00882849755226,
+      "fy": 191.19434975958518
     }
   ],
   "subnodes": [
@@ -53,7 +62,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/Python/",
       "fx": 176.083777747024,
-      "fy": -665.1641376795345,
+      "fy": -685.1641376795345,
       "category": "reddit",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "python"
@@ -63,9 +72,18 @@
       "note": "original python implementation in c, compiles python code into byte code and interprets the byte code in a evaluation loop",
       "url": "https://github.com/python/cpython",
       "fx": 176.083777747024,
-      "fy": -625.1641376795345,
+      "fy": -645.1641376795345,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "python"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/python",
+      "fx": 176.083777747024,
+      "fy": -605.1641376795345,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "python"
     },
     {
@@ -236,16 +254,16 @@
       "source": "basics",
       "target": "python libraries  ️",
       "curve": {
-        "x": 41.6098,
-        "y": 111.888
+        "x": -7.06712,
+        "y": 136.863
       }
     },
     {
       "source": "basics",
       "target": "package manager",
       "curve": {
-        "x": -91.896,
-        "y": 81.3311
+        "x": -105.515,
+        "y": 100.144
       }
     },
     {
@@ -262,6 +280,14 @@
       "curve": {
         "x": -193.606,
         "y": -81.7232
+      }
+    },
+    {
+      "source": "basics",
+      "target": "micropython",
+      "curve": {
+        "x": 83.6231,
+        "y": 180.28
       }
     }
   ]

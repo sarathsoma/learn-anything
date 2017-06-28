@@ -1,5 +1,7 @@
 {
   "title": "learn anything - linguistics - languages",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "languages",
@@ -50,10 +52,22 @@
       "category": "mindmap"
     },
     {
+      "text": "finnish  ️",
+      "fx": -945.8598681780052,
+      "fy": -74.66084608478639,
+      "category": "mindmap"
+    },
+    {
       "text": "chinese  ️",
       "url": "https://github.com/nikitavoloboev/knowledge-map/issues/670",
       "fx": -40.64679818559989,
       "fy": -74.6480655251238,
+      "category": "mindmap"
+    },
+    {
+      "text": "vietnamese  ️",
+      "fx": -1133.8058000385788,
+      "fy": -73.30792186819929,
       "category": "mindmap"
     },
     {
@@ -365,6 +379,22 @@
       "curve": {
         "x": -665.329,
         "y": 123.721
+      }
+    },
+    {
+      "source": "languages",
+      "target": "finnish  ️",
+      "curve": {
+        "x": -889.055,
+        "y": 117.529
+      }
+    },
+    {
+      "source": "languages",
+      "target": "vietnamese  ️",
+      "curve": {
+        "x": -989.753,
+        "y": 64.4388
       }
     }
   ]

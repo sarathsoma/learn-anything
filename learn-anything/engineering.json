@@ -1,5 +1,7 @@
 {
   "title": "learn anything - engineering",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "engineering",
@@ -62,6 +64,12 @@
       "url": "/engineering/civil-engineering",
       "fx": -165.49814701080322,
       "fy": 198.0479850769043,
+      "category": "mindmap"
+    },
+    {
+      "text": "audio engineering  ️",
+      "fx": -1851.8366955500153,
+      "fy": 198.22155789907197,
       "category": "mindmap"
     },
     {
@@ -238,6 +246,14 @@
       "curve": {
         "x": -1055.28,
         "y": 35.4232
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "audio engineering  ️",
+      "curve": {
+        "x": -1350.26,
+        "y": -22.3759
       }
     }
   ]

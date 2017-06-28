@@ -1,5 +1,7 @@
 {
   "title": "learn anything - data science - data processing - apache spark",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "apache spark",
@@ -20,6 +22,12 @@
       "url": "",
       "fx": -76.37009286008902,
       "fy": -80.05710911300935
+    },
+    {
+      "text": "PySpark  ️",
+      "fx": -196.02815713367477,
+      "fy": 52.18814267352002,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -66,6 +74,14 @@
       "curve": {
         "x": -8.35302,
         "y": 103.262
+      }
+    },
+    {
+      "source": "basics",
+      "target": "PySpark  ️",
+      "curve": {
+        "x": -62.829,
+        "y": 66.1226
       }
     }
   ]

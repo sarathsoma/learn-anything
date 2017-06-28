@@ -1,32 +1,43 @@
 {
   "title": "learn anything - art - music - sonic pi",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "sonic pi",
       "url": "http://sonic-pi.net/",
-      "fx": -19.409104567307622,
-      "fy": -147.28740985576923
+      "fx": -20.697514057159424,
+      "fy": -153.4809055328369
     },
     {
       "text": "help",
       "url": "",
-      "fx": 78.39520615797778,
-      "fy": -60.94555414028662
+      "fx": 79.68361282348633,
+      "fy": -40.40342634777687
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -21.652233911825874,
-      "fy": 47.24396098960915
+      "fy": 78.28956418728353
     }
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
+      "url": "https://www.reddit.com/r/SonicPi/",
+      "fx": 147.30248594284058,
+      "fy": -161.9809055328369,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "sonic pi"
+    },
+    {
+      "text": "",
       "url": "https://github.com/samaaron/sonic-pi",
-      "fx": 148.59089543269238,
-      "fy": -135.78740985576923,
+      "fx": 147.30248594284058,
+      "fy": -121.98090553283691,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "sonic pi"
@@ -34,8 +45,8 @@
     {
       "text": "preparations  ️",
       "url": "https://aimxhaisse.com/aerodynamic-preparations-en.html",
-      "fx": 215.39520615797778,
-      "fy": -89.44555414028662,
+      "fx": 216.68361282348633,
+      "fy": -68.90342634777687,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -43,8 +54,8 @@
     {
       "text": "sonic pi tutorials",
       "url": "https://github.com/rbnpi/SonicPi-Tutorials",
-      "fx": 215.39520615797778,
-      "fy": -49.44555414028662,
+      "fx": 216.68361282348633,
+      "fy": -28.903426347776872,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -52,8 +63,8 @@
     {
       "text": "sonic pi shortcuts",
       "url": "https://github.com/samaaron/sonic-pi/blob/master/etc/doc/tutorial/10.2-Shortcut-Cheatsheet.md",
-      "fx": 215.39520615797778,
-      "fy": -9.445554140286617,
+      "fx": 216.68361282348633,
+      "fy": 11.096573652223128,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -62,7 +73,7 @@
       "text": "1. introduction",
       "url": "http://www.daveconservatoire.org/lesson/introduction-to-sonic-pi",
       "fx": 160.34776608817413,
-      "fy": 41.74396098960915,
+      "fy": 72.78956418728353,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -71,7 +82,7 @@
       "text": "1. getting started with sonic pi",
       "url": "https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/worksheet/",
       "fx": 160.34776608817413,
-      "fy": 81.74396098960915,
+      "fy": 112.78956418728353,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
@@ -81,16 +92,16 @@
       "source": "sonic pi",
       "target": "basics",
       "curve": {
-        "x": -4.12156,
-        "y": 97.2657
+        "x": -3.47736,
+        "y": 115.885
       }
     },
     {
       "source": "help",
       "target": "sonic pi",
       "curve": {
-        "x": -41.1522,
-        "y": -43.1709
+        "x": -42.4406,
+        "y": -56.5387
       }
     }
   ]

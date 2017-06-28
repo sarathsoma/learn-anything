@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - data structures - hash tables",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "hash tables",
@@ -18,8 +20,8 @@
       "text": "basics",
       "note": "f",
       "url": "",
-      "fx": -69.61223118279577,
-      "fy": -195.0262096774194
+      "fx": -97.42641129032268,
+      "fy": -150.5831653225806
     }
   ],
   "subnodes": [
@@ -33,10 +35,19 @@
       "parent": "interesting"
     },
     {
+      "text": "1. know your hash tables  ️",
+      "url": "http://www.zeroequalsfalse.press/2017/02/20/hashtables/",
+      "fx": 84.57358870967732,
+      "fy": -159.0831653225806,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. hash tables explained",
       "url": "https://www.youtube.com/watch?v=shs0KM3wKv8",
-      "fx": 112.38776881720423,
-      "fy": -183.5262096774194,
+      "fx": 84.57358870967732,
+      "fy": -119.08316532258061,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -55,8 +66,8 @@
       "source": "hash tables",
       "target": "basics",
       "curve": {
-        "x": -4.88619,
-        "y": 119.2
+        "x": -18.7933,
+        "y": 141.422
       }
     }
   ]

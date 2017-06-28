@@ -1,5 +1,7 @@
 {
   "title": "learn anything - law",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "law",
@@ -16,18 +18,24 @@
       "fy": -226.76604306023444
     },
     {
-      "text": "rights  ️",
-      "url": "/law/rights",
-      "fx": -489.8411750280268,
-      "fy": -160.95380815582968,
-      "category": "mindmap"
-    },
-    {
       "text": "licensing",
       "url": "http://www.wikiwand.com/en/Brand_licensing",
       "fx": -166.13717022613037,
       "fy": -132.44982726130684,
       "category": "wiki"
+    },
+    {
+      "text": "rights  ️",
+      "url": "/law/rights",
+      "fx": -449.7513620359007,
+      "fy": -129.82683965189273,
+      "category": "mindmap"
+    },
+    {
+      "text": "property law  ️",
+      "fx": -642.3700534986431,
+      "fy": -127.89266304347814,
+      "category": "mindmap"
     },
     {
       "text": "piracy",
@@ -162,8 +170,8 @@
       "source": "basics",
       "target": "rights  ️",
       "curve": {
-        "x": -297.645,
-        "y": 26.3215
+        "x": -277.6,
+        "y": 41.885
       }
     },
     {
@@ -172,6 +180,14 @@
       "curve": {
         "x": 196.899,
         "y": 80.3926
+      }
+    },
+    {
+      "source": "basics",
+      "target": "property law  ️",
+      "curve": {
+        "x": -335.476,
+        "y": 10.9943
       }
     }
   ]

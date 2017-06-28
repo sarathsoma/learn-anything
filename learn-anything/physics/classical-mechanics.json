@@ -1,32 +1,106 @@
 {
   "title": "learn anything - physics - classical mechanics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "classical mechanics",
       "url": "http://www.wikiwand.com/en/Classical_mechanics",
-      "fx": -67.61254293778859,
-      "fy": -174.61494942731474,
+      "fx": -60.924363589962695,
+      "fy": -235.34864507948856,
       "category": "wiki"
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -11.148254617478983,
-      "fy": 35.43007898467721
-    },
-    {
-      "text": "gravity  ️",
-      "url": "/physics/classical-mechanics/gravity",
-      "fx": -151.36810541775446,
-      "fy": 201.55442232376004,
-      "category": "mindmap"
+      "fx": 0.19021641363394792,
+      "fy": -27.08350797184454
     },
     {
       "text": "vibration  ️",
       "url": "/physics/classical-mechanics/vibration",
-      "fx": 18.654358860167804,
-      "fy": 278.90109536082446,
+      "fx": 182.92406523708905,
+      "fy": 272.0208687248595,
+      "category": "mindmap"
+    },
+    {
+      "text": "gravity  ️",
+      "url": "/physics/classical-mechanics/gravity",
+      "fx": 40.896599667079386,
+      "fy": 273.3683712181588,
+      "category": "mindmap"
+    },
+    {
+      "text": "principle of least action  ️",
+      "fx": -247.38029919383058,
+      "fy": 273.5659681084735,
+      "category": "mindmap"
+    },
+    {
+      "text": "harmonic oscillators  ️",
+      "fx": -512.5289110220994,
+      "fy": 274.6182872470465,
+      "category": "mindmap"
+    },
+    {
+      "text": "simple harmonic motion  ️",
+      "fx": -808.5524762697239,
+      "fy": 274.86920570889095,
+      "category": "mindmap"
+    },
+    {
+      "text": "Hamiltonian mechanics  ️",
+      "fx": -1096.147705078125,
+      "fy": 275.0478706359863,
+      "category": "mindmap"
+    },
+    {
+      "text": "inertial frame of reference  ️",
+      "fx": -1399.2902462121212,
+      "fy": 278.9382891414141,
+      "category": "mindmap"
+    },
+    {
+      "text": "forces  ️",
+      "fx": -1535.82861328125,
+      "fy": 278.9774475097656,
+      "category": "mindmap"
+    },
+    {
+      "text": "Lagrangian mechanics  ️",
+      "fx": -1821.011093073593,
+      "fy": 282.55130546534144,
+      "category": "mindmap"
+    },
+    {
+      "text": "analytical mechanics  ️",
+      "fx": -2081.3647693452376,
+      "fy": 288.20430672269924,
+      "category": "mindmap"
+    },
+    {
+      "text": "kinematics  ️",
+      "fx": -2262.988114064074,
+      "fy": 290.6075044844923,
+      "category": "mindmap"
+    },
+    {
+      "text": "momentum  ️",
+      "fx": -2594.103282869176,
+      "fy": 295.10409245466417,
+      "category": "mindmap"
+    },
+    {
+      "text": "motion  ️",
+      "fx": -2407.3481500879366,
+      "fy": 295.7264186323197,
+      "category": "mindmap"
+    },
+    {
+      "text": "mechanical equilibrium   ️",
+      "fx": -2884.6543019805636,
+      "fy": 296.3385008221826,
       "category": "mindmap"
     }
   ],
@@ -34,8 +108,8 @@
     {
       "text": "1. newtonian dynamics",
       "url": "http://farside.ph.utexas.edu/teaching/336k/lectures/",
-      "fx": 170.85174538252102,
-      "fy": -86.06992101532279,
+      "fx": 182.19021641363395,
+      "fy": -148.58350797184454,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -43,8 +117,8 @@
     {
       "text": "1. classical mechanics by Joel Shapiro",
       "url": "http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf",
-      "fx": 170.85174538252102,
-      "fy": -46.06992101532279,
+      "fx": 182.19021641363395,
+      "fy": -108.58350797184454,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -52,8 +126,8 @@
     {
       "text": "1. introductory classical mechanics with problems and solutions",
       "url": "http://math-wiki.com/images/a/a9/Morin,_David-Introductory_Classical_Mechanics,_With_Problems_and_Solutions_(2003)(519s).pdf",
-      "fx": 170.85174538252102,
-      "fy": 15.930078984677209,
+      "fx": 182.19021641363395,
+      "fy": -46.58350797184454,
       "category": "free book",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
@@ -61,8 +135,8 @@
     {
       "text": "1. on classical mechanics  ️",
       "url": "http://torassa.tripod.com/paper.htm",
-      "fx": 170.85174538252102,
-      "fy": 77.93007898467721,
+      "fx": 182.19021641363395,
+      "fy": 15.41649202815546,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -70,8 +144,8 @@
     {
       "text": "1. mathematics of classical and quantum physics",
       "url": "http://www.goodreads.com/book/show/100026.Mathematics_of_Classical_and_Quantum_Physics",
-      "fx": 170.85174538252102,
-      "fy": 117.93007898467721,
+      "fx": 182.19021641363395,
+      "fy": 55.41649202815546,
       "category": "non-free book",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -79,8 +153,8 @@
     {
       "text": "classical mechanics by John Taylor",
       "url": "http://www.goodreads.com/book/show/245483.Classical_Mechanics",
-      "fx": 170.85174538252102,
-      "fy": 179.9300789846772,
+      "fx": 182.19021641363395,
+      "fy": 117.41649202815546,
       "category": "non-free book",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
@@ -91,24 +165,120 @@
       "source": "classical mechanics",
       "target": "basics",
       "curve": {
-        "x": -9.26786,
-        "y": 103.772
+        "x": -6.94271,
+        "y": 102.882
       }
     },
     {
       "source": "basics",
       "target": "vibration  ️",
       "curve": {
-        "x": 13.1513,
-        "y": 121.735
+        "x": 76.369,
+        "y": 156.915
       }
     },
     {
       "source": "basics",
       "target": "gravity  ️",
       "curve": {
-        "x": -76.3599,
-        "y": 83.0622
+        "x": 14.1032,
+        "y": 150.226
+      }
+    },
+    {
+      "source": "basics",
+      "target": "principle of least action  ️",
+      "curve": {
+        "x": -93.0357,
+        "y": 150.325
+      }
+    },
+    {
+      "source": "basics",
+      "target": "harmonic oscillators  ️",
+      "curve": {
+        "x": -232.36,
+        "y": 150.851
+      }
+    },
+    {
+      "source": "basics",
+      "target": "simple harmonic motion  ️",
+      "curve": {
+        "x": -371.121,
+        "y": 150.976
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Hamiltonian mechanics  ️",
+      "curve": {
+        "x": -565.133,
+        "y": 102.507
+      }
+    },
+    {
+      "source": "basics",
+      "target": "inertial frame of reference  ️",
+      "curve": {
+        "x": -803.361,
+        "y": 95.4495
+      }
+    },
+    {
+      "source": "basics",
+      "target": "forces  ️",
+      "curve": {
+        "x": -1052.29,
+        "y": 76.7312
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Lagrangian mechanics  ️",
+      "curve": {
+        "x": -1152.59,
+        "y": 37.8628
+      }
+    },
+    {
+      "source": "basics",
+      "target": "analytical mechanics  ️",
+      "curve": {
+        "x": -1281.9,
+        "y": -16.9116
+      }
+    },
+    {
+      "source": "basics",
+      "target": "kinematics  ️",
+      "curve": {
+        "x": -1429.02,
+        "y": -43.0482
+      }
+    },
+    {
+      "source": "basics",
+      "target": "motion  ️",
+      "curve": {
+        "x": -1518.99,
+        "y": -96.0352
+      }
+    },
+    {
+      "source": "basics",
+      "target": "momentum  ️",
+      "curve": {
+        "x": -1721.66,
+        "y": -30.4334
+      }
+    },
+    {
+      "source": "basics",
+      "target": "mechanical equilibrium   ️",
+      "curve": {
+        "x": -1843.51,
+        "y": 33.9766
       }
     }
   ]

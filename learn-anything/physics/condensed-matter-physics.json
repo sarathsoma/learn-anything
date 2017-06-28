@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - condensed matter physics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "condensed matter physics",
@@ -17,8 +19,8 @@
     {
       "text": "solid-state physics",
       "url": "http://www.wikiwand.com/en/Solid-state_physics",
-      "fx": -330.9603439977227,
-      "fy": 272.92269017907483,
+      "fx": -297.25657032215656,
+      "fy": 266.71151242886503,
       "category": "wiki"
     }
   ],
@@ -55,8 +57,8 @@
       "source": "basics",
       "target": "solid-state physics",
       "curve": {
-        "x": -42.1717,
-        "y": 77.7349
+        "x": -25.3198,
+        "y": 74.6293
       }
     }
   ]

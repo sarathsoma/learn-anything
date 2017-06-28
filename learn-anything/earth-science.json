@@ -1,5 +1,7 @@
 {
   "title": "learn anything - earth science",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "earth science",
@@ -12,8 +14,14 @@
     {
       "text": "geology  ️",
       "url": "/earth-science/geology",
-      "fx": -273.28427565028903,
-      "fy": -66.87030346820825,
+      "fx": -371.19443190028903,
+      "fy": -44.28436596820825,
+      "category": "mindmap"
+    },
+    {
+      "text": "atmospheric sciences  ️",
+      "fx": -205.84662356321837,
+      "fy": -37.94169061307542,
       "category": "mindmap"
     }
   ],
@@ -33,8 +41,16 @@
       "source": "earth science",
       "target": "geology  ️",
       "curve": {
-        "x": -15.4022,
-        "y": 54.2226
+        "x": -64.3573,
+        "y": 65.5156
+      }
+    },
+    {
+      "source": "earth science",
+      "target": "atmospheric sciences  ️",
+      "curve": {
+        "x": 43.0667,
+        "y": 68.6869
       }
     }
   ]

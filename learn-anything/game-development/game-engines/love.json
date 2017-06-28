@@ -1,5 +1,7 @@
 {
   "title": "learn anything - game development - game engines - love",
+  "tag": "LOVE game engine",
+  "description": "",
   "nodes": [
     {
       "text": "LÖVE",
@@ -22,6 +24,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/love2d/",
+      "fx": 58.703125,
+      "fy": -177.06640625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "LÖVE"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/love2d/love",
+      "fx": 58.703125,
+      "fy": -137.06640625,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "LÖVE"
+    },
     {
       "text": "awesome LÖVE",
       "url": "https://github.com/love2d-community/awesome-love2d",
