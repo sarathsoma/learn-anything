@@ -1,21 +1,20 @@
 <div align="center">
 <h1><a href="https://learn-anything.xyz">You can learn anything 🚀</a></h1>
 <a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">
-		<img src="https://img.shields.io/badge/Slack-channel-green.svg">
+		<img src="https://img.shields.io/badge/Slack-💬-green.svg">
+	</a>
+		<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg">
 	</a>
 	<a href="https://twitter.com/learnanything_">
 		<img src="https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square">
 	</a>
-	<a href="https://www.patreon.com/learnanything">
-		<img src="https://img.shields.io/badge/patreon-116$-ff69b4.svg">
-	</a>
 	<a href="http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7">
-		<img src="https://img.shields.io/badge/Newsletter-Sign%20up-red.svg">
+		<img src="https://img.shields.io/badge/Newsletter-🗞-blue.svg">
 	</a>
 	<a href="https://github.com/nikitavoloboev/learn-anything/blob/master/LICENSE">
-		<img src="https://img.shields.io/github/license/mashape/apistatus.svg">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
 	</a>
-
   <a href="https://learn-anything.xyz/learn_anything">
     <img width="900" heigth="900" src="http://i.imgur.com/w0Ek1j2.png">
   </a>
@@ -27,6 +26,7 @@
   <div>
   <p align="center"><img src="https://raw.githubusercontent.com/learn-anything/img/master/i_want_to_learn.mp4.gif" alt="img" width="600"></p>
   </div>
+  
   
 The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn_anything) as well as [searched through](https://learn-anything.xyz). 🔎
 
