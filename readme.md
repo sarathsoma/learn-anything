@@ -1,5 +1,5 @@
 <div align="center">
-<h1><a href="https://learn-anything.xyz">You can learn anything 🚀</a></h1>
+<h1><a href="https://learn-anything.xyz">You can learn anything 🔭</a></h1>
 <a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">
 		<img src="https://img.shields.io/badge/Slack-💬-green.svg">
 	</a>
