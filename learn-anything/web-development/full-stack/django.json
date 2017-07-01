@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - full stack - django",
+  "tag": "django library",
+  "description": "",
   "nodes": [
     {
       "text": "django",

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - version control",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "version control",
@@ -11,9 +13,23 @@
     {
       "text": "git  ️",
       "url": "/programming/version-control/git",
-      "fx": -206.00224173717334,
-      "fy": -106.87925619005063,
+      "fx": -331.558064774964,
+      "fy": -95.08619659702742,
       "category": "mindmap"
+    },
+    {
+      "text": "mercurial",
+      "url": "http://www.wikiwand.com/en/Mercurial",
+      "fx": -219.33501448270226,
+      "fy": -91.83453512565279,
+      "category": "wiki"
+    },
+    {
+      "text": "SVN",
+      "url": "http://www.wikiwand.com/en/Apache_Subversion",
+      "fx": -43.794478214748096,
+      "fy": -89.900201941906,
+      "category": "wiki"
     }
   ],
   "subnodes": [],
@@ -22,8 +38,24 @@
       "source": "version control",
       "target": "git  ️",
       "curve": {
-        "x": -0.56689,
-        "y": 52.5202
+        "x": -63.3448,
+        "y": 58.4167
+      }
+    },
+    {
+      "source": "version control",
+      "target": "mercurial",
+      "curve": {
+        "x": 7.76672,
+        "y": 60.0425
+      }
+    },
+    {
+      "source": "version control",
+      "target": "SVN",
+      "curve": {
+        "x": 85.287,
+        "y": 61.0097
       }
     }
   ]

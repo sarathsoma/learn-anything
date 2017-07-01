@@ -1,5 +1,7 @@
 {
   "title": "learn anything - operating systems - unix - linux - wayland",
+  "tag": "Wayland protocol",
+  "description": "",
   "nodes": [
     {
       "text": "Wayland",
@@ -16,6 +18,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/wayland/",
+      "fx": 204.062424659729,
+      "fy": -39.58907425403595,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "Wayland"
+    },
     {
       "text": "1. an introduction to Wayland  ️",
       "url": "https://drewdevault.com/2017/06/10/Introduction-to-Wayland.html",

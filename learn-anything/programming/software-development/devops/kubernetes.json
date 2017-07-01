@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - software development - devops - kubernetes",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "kubernetes",
@@ -24,8 +26,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -196.7164943910525,
-      "fy": 122.15435321246412
+      "fx": -272.4946686036509,
+      "fy": 101.42662191325155
     }
   ],
   "subnodes": [
@@ -83,10 +85,19 @@
       "parent": "tools"
     },
     {
+      "text": "1. illustrated children’s guide to kubernetes",
+      "url": "https://www.youtube.com/watch?v=4ht22ReBjno",
+      "fx": -90.4946686036509,
+      "fy": 64.92662191325155,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. kubernetes by example",
       "url": "http://kubernetesbyexample.com/",
-      "fx": -14.716494391052493,
-      "fy": 116.65435321246412,
+      "fx": -90.4946686036509,
+      "fy": 126.92662191325155,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -94,8 +105,8 @@
     {
       "text": "1. kubernetes basics",
       "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
-      "fx": -14.716494391052493,
-      "fy": 156.65435321246412,
+      "fx": -90.4946686036509,
+      "fy": 166.92662191325155,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -113,8 +124,8 @@
       "source": "kubernetes",
       "target": "basics",
       "curve": {
-        "x": -69.5477,
-        "y": 220.753
+        "x": -107.437,
+        "y": 210.389
       }
     },
     {

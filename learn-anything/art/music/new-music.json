@@ -1,20 +1,28 @@
 {
   "title": "learn anything - art - music - new music",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "find new music",
       "note": "",
       "url": "",
-      "fx": -782.75390625,
-      "fy": -15.174812758264409
+      "fx": -809.0516201761745,
+      "fy": -111.29548843832134
+    },
+    {
+      "text": "coding music  ️",
+      "fx": -703.3805773894003,
+      "fy": 183.38676228335362,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "listen to this",
       "url": "https://www.reddit.com/r/listentothis/",
-      "fx": -522.75390625,
-      "fy": -194.6748127582644,
+      "fx": -549.0516201761745,
+      "fy": -273.79548843832134,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "find new music"
@@ -22,8 +30,8 @@
     {
       "text": "future beats",
       "url": "https://www.reddit.com/r/futurebeats/",
-      "fx": -522.75390625,
-      "fy": -154.6748127582644,
+      "fx": -549.0516201761745,
+      "fy": -233.79548843832134,
       "category": "reddit",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "find new music"
@@ -31,8 +39,8 @@
     {
       "text": "experimental music",
       "url": "https://www.reddit.com/r/experimentalmusic/",
-      "fx": -522.75390625,
-      "fy": -114.67481275826441,
+      "fx": -549.0516201761745,
+      "fy": -193.79548843832134,
       "category": "reddit",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "find new music"
@@ -40,8 +48,8 @@
     {
       "text": "future pop music",
       "url": "https://www.reddit.com/r/futurepopmusic/",
-      "fx": -522.75390625,
-      "fy": -74.67481275826441,
+      "fx": -549.0516201761745,
+      "fy": -153.79548843832134,
       "category": "reddit",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "find new music"
@@ -49,8 +57,8 @@
     {
       "text": "listen to us",
       "url": "https://www.reddit.com/r/listentous/",
-      "fx": -522.75390625,
-      "fy": -34.67481275826441,
+      "fx": -549.0516201761745,
+      "fy": -113.79548843832134,
       "category": "reddit",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "find new music"
@@ -58,8 +66,8 @@
     {
       "text": "future synth",
       "url": "https://www.reddit.com/r/futuresynth/",
-      "fx": -522.75390625,
-      "fy": 5.325187241735591,
+      "fx": -549.0516201761745,
+      "fy": -73.79548843832134,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "find new music"
@@ -67,8 +75,8 @@
     {
       "text": "new retro wave",
       "url": "https://www.reddit.com/r/newretrowave/",
-      "fx": -522.75390625,
-      "fy": 45.32518724173559,
+      "fx": -549.0516201761745,
+      "fy": -33.79548843832134,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "find new music"
@@ -76,8 +84,8 @@
     {
       "text": "80s electro",
       "url": "https://www.reddit.com/r/80sElectro/",
-      "fx": -522.75390625,
-      "fy": 85.32518724173559,
+      "fx": -549.0516201761745,
+      "fy": 6.2045115616786575,
       "category": "reddit",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "find new music"
@@ -85,27 +93,28 @@
     {
       "text": "soundcloud",
       "url": "https://soundcloud.com/stream",
-      "fx": -522.75390625,
-      "fy": 125.32518724173559,
+      "fx": -549.0516201761745,
+      "fy": 46.20451156167866,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "find new music"
     },
     {
       "text": "good music",
       "url": "https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-",
-      "fx": -522.75390625,
-      "fy": 159.3251872417356,
+      "fx": -549.0516201761745,
+      "fy": 80.20451156167866,
       "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "find new music"
-    },
-    {
-      "text": "music for programming",
-      "url": "https://musicforprogramming.net/?one",
-      "fx": -522.75390625,
-      "fy": 193.3251872417356,
-      "color": "rgba(49, 187, 71, 1.0)",
       "parent": "find new music"
     }
   ],
-  "connections": []
+  "connections": [
+    {
+      "source": "find new music",
+      "target": "coding music  ️",
+      "curve": {
+        "x": 42.5855,
+        "y": 147.341
+      }
+    }
+  ]
 }

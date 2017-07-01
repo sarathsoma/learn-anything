@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - particle physics - string theory",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "string theory",
@@ -12,8 +14,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -108.25055221982097,
-      "fy": 16.32496170364078
+      "fx": -108.96997668025267,
+      "fy": 41.78022249500765
     },
     {
       "text": "superstring theory",
@@ -27,17 +29,26 @@
     {
       "text": "1. making sense of string theory",
       "url": "https://www.ted.com/talks/brian_greene_on_string_theory",
-      "fx": 73.74944778017903,
-      "fy": -75.67503829635922,
+      "fx": 73.03002331974733,
+      "fy": -70.21977750499235,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. the case for string theory",
+      "url": "https://www.youtube.com/watch?v=Q8ccXzM3x8A",
+      "fx": 73.03002331974733,
+      "fy": -30.21977750499235,
+      "category": "video",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. the elegant universe: superstrings, hidden dimensions and the quest for the ultimate theory",
       "url": "http://www.goodreads.com/book/show/8049273-the-elegant-universe",
-      "fx": 73.74944778017903,
-      "fy": -35.67503829635922,
+      "fx": 73.03002331974733,
+      "fy": 9.78022249500765,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -45,8 +56,8 @@
     {
       "text": "1 a first course in string theory",
       "url": "http://www.goodreads.com/book/show/17360.A_First_Course_in_String_Theory",
-      "fx": 73.74944778017903,
-      "fy": 69.32496170364078,
+      "fx": 73.03002331974733,
+      "fy": 114.78022249500765,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -54,8 +65,8 @@
     {
       "text": "1. string theory and M-theory: a modern introduction",
       "url": "http://www.goodreads.com/book/show/222587.String_Theory_and_M_Theory",
-      "fx": 73.74944778017903,
-      "fy": 109.32496170364078,
+      "fx": 73.03002331974733,
+      "fy": 154.78022249500765,
       "category": "non-free book",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -66,16 +77,16 @@
       "source": "string theory",
       "target": "basics",
       "curve": {
-        "x": 0.262144,
-        "y": 90.9726
+        "x": -0.0975682,
+        "y": 103.7
       }
     },
     {
       "source": "basics",
       "target": "superstring theory",
       "curve": {
-        "x": -34.8075,
-        "y": 96.9922
+        "x": -34.4478,
+        "y": 84.2646
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - network science - computer networking - protocols - websocket",
+  "tag": "WebSockets",
+  "description": "",
   "nodes": [
     {
       "text": "WebSocket",
@@ -11,30 +13,28 @@
     {
       "text": "tools",
       "url": "",
-      "fx": 195.99236958934523,
-      "fy": -236.35877051291527
+      "fx": 190.38573251883656,
+      "fy": -255.71157727911293
     },
     {
       "text": "implementation",
       "url": "",
-      "fx": 239.8174894957982,
-      "fy": -126.8486249157682
+      "fx": 284.16436176187176,
+      "fy": -152.6047221076559
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 49.21116023399679,
+      "fy": -43.77443069750768
     }
   ],
   "subnodes": [
     {
-      "text": "proposed standard",
-      "url": "https://tools.ietf.org/html/rfc6455",
-      "fx": 253.66796875,
-      "fy": -338.55078125,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "WebSocket"
-    },
-    {
       "text": "SSH to WebSockets",
       "url": "https://github.com/aluzzardi/wssh",
-      "fx": 337.99236958934523,
-      "fy": -224.85877051291527,
+      "fx": 332.38573251883656,
+      "fy": -244.21157727911293,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "tools"
@@ -42,11 +42,19 @@
     {
       "text": "tiny WebSockets",
       "url": "https://github.com/uWebSockets/uWebSockets",
-      "fx": 476.8174894957982,
-      "fy": -115.3486249157682,
+      "fx": 521.1643617618718,
+      "fy": -141.1047221076559,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "implementation"
+    },
+    {
+      "text": "1. proposed standard",
+      "url": "https://tools.ietf.org/html/rfc6455",
+      "fx": 205.2111602339968,
+      "fy": -29.274430697507682,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
     }
   ],
   "connections": [
@@ -54,16 +62,24 @@
       "source": "implementation",
       "target": "tools",
       "curve": {
-        "x": -45.6626,
-        "y": -54.7551
+        "x": -70.6394,
+        "y": -51.5535
       }
     },
     {
       "source": "tools",
       "target": "WebSocket",
       "curve": {
-        "x": -64.6622,
-        "y": -58.346
+        "x": -61.8589,
+        "y": -48.6696
+      }
+    },
+    {
+      "source": "WebSocket",
+      "target": "basics",
+      "curve": {
+        "x": -5.2284,
+        "y": 154.638
       }
     }
   ]

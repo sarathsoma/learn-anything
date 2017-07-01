@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - number theory",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "number theory",
@@ -16,6 +18,12 @@
       "fy": -12.699307304785862
     },
     {
+      "text": "algebraic number theory  ️",
+      "fx": -832.4489005827111,
+      "fy": 118.26951481316792,
+      "category": "mindmap"
+    },
+    {
       "text": "arithmetic  ️",
       "url": "/mathematics/number-theory/arithmetic",
       "fx": -105.46815719031895,
@@ -24,8 +32,8 @@
     },
     {
       "text": "Fibonacci sequence  ️",
-      "fx": -533.1577380952353,
-      "fy": 122.92406898656901,
+      "fx": -530.1506652832031,
+      "fy": 122.92407608032227,
       "category": "mindmap"
     },
     {
@@ -84,8 +92,16 @@
       "source": "basics",
       "target": "Fibonacci sequence  ️",
       "curve": {
-        "x": -174.005,
+        "x": -172.501,
         "y": 67.8117
+      }
+    },
+    {
+      "source": "basics",
+      "target": "algebraic number theory  ️",
+      "curve": {
+        "x": -343.271,
+        "y": 32.8095
       }
     }
   ]

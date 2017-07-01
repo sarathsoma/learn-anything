@@ -1,5 +1,7 @@
 {
   "title": "learn anything - health - fitness - strength training",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "strength training",
@@ -16,17 +18,16 @@
       "fy": -112.45614919354853
     },
     {
-      "text": "lean gains",
-      "url": "",
-      "fx": -258.23753195204455,
-      "fy": -84.14409247195675
+      "text": "lean gains  ️",
+      "fx": -195.78591904881858,
+      "fy": -108.33008037518255,
+      "category": "mindmap"
     },
     {
-      "text": "bodyweight exercise",
-      "url": "http://www.wikiwand.com/en/Bodyweight_exercise",
-      "fx": -14.57494292720662,
-      "fy": 49.00134597286092,
-      "category": "wiki"
+      "text": "bodyweight exercises  ️",
+      "fx": -69.53159615301308,
+      "fy": 6.2342088760866545,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -38,32 +39,6 @@
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
-    },
-    {
-      "text": "wiki",
-      "url": "https://www.reddit.com/r/leangains/wiki/faq",
-      "fx": -69.23753195204455,
-      "fy": -89.64409247195675,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "lean gains"
-    },
-    {
-      "text": "FAQ",
-      "url": "https://examine.com/leangains-faq/",
-      "fx": -69.23753195204455,
-      "fy": -49.64409247195675,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "lean gains"
-    },
-    {
-      "text": "wiki",
-      "url": "https://www.reddit.com/r/bodyweightfitness/wiki/index",
-      "fx": 297.4250570727934,
-      "fy": 63.00134597286092,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "bodyweight exercise"
     }
   ],
   "connections": [
@@ -77,18 +52,18 @@
     },
     {
       "source": "strength training",
-      "target": "bodyweight exercise",
+      "target": "bodyweight exercises  ️",
       "curve": {
-        "x": 6.86979,
-        "y": 147.542
+        "x": -20.6085,
+        "y": 126.158
       }
     },
     {
       "source": "strength training",
-      "target": "lean gains",
+      "target": "lean gains  ️",
       "curve": {
-        "x": -145.712,
-        "y": 79.719
+        "x": -114.486,
+        "y": 67.626
       }
     }
   ]

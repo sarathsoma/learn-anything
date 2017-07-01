@@ -1,5 +1,7 @@
 {
   "title": "learn anything - databases - time series databases",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "time series database",
@@ -10,40 +12,20 @@
       "category": "wiki"
     },
     {
-      "text": "influxDB",
-      "url": "http://www.wikiwand.com/en/InfluxDB",
-      "fx": -156.25148850224082,
-      "fy": -99.2524352527746,
-      "category": "wiki"
+      "text": "influxDB  ️",
+      "fx": -190.14985015272623,
+      "fy": -104.79893100520178,
+      "category": "mindmap"
     }
   ],
-  "subnodes": [
-    {
-      "text": "source",
-      "url": "https://github.com/influxdata/influxdb",
-      "fx": 45.74851149775918,
-      "fy": -105.2524352527746,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "influxDB"
-    },
-    {
-      "text": "awesome influxDB",
-      "url": "https://github.com/mark-rushakoff/awesome-influxdb",
-      "fx": 45.74851149775918,
-      "fy": -65.2524352527746,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "influxDB"
-    }
-  ],
+  "subnodes": [],
   "connections": [
     {
       "source": "time series database",
-      "target": "influxDB",
+      "target": "influxDB  ️",
       "curve": {
-        "x": -11.8946,
-        "y": 78.002
+        "x": -28.8438,
+        "y": 75.2288
       }
     }
   ]

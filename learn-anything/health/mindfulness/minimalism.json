@@ -1,5 +1,7 @@
 {
   "title": "learn anything - health - mindfulness - minimalism",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "minimalism",
@@ -11,23 +13,44 @@
     {
       "text": "help",
       "url": "",
-      "fx": 168.22694246533922,
-      "fy": -114.46839044127682
+      "fx": 198.1196861094071,
+      "fy": -115.31584806839544
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 476.7030210791668,
+      "fy": 8.484579754034144
     },
     {
       "text": "basics",
       "note": "if you think this can be improved in any way ",
       "url": "",
-      "fx": 83.21759172896282,
-      "fy": -20.55864500663631
+      "fx": -45.622833346965535,
+      "fy": 115.2340018901013
+    },
+    {
+      "text": "simple living  ️",
+      "fx": -72.51024177808824,
+      "fy": 236.6144924245744,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/minimalism/",
+      "fx": 272.07365932743915,
+      "fy": -196.06031084964098,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "minimalism"
+    },
+    {
       "text": "light by Coco",
       "url": "https://www.youtube.com/channel/UCp12IFoANz_tEY6YgZFqohA/videos",
-      "fx": 305.2269424653392,
-      "fy": -122.96839044127682,
+      "fx": 335.1196861094071,
+      "fy": -123.81584806839544,
       "category": "youtube",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -35,17 +58,25 @@
     {
       "text": "zen habits  ️",
       "url": "https://zenhabits.net/",
-      "fx": 305.2269424653392,
-      "fy": -82.96839044127682,
+      "fx": 335.1196861094071,
+      "fy": -83.81584806839544,
       "category": "blog",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
+      "text": "minimal desks",
+      "url": "http://minimaldesks.com/",
+      "fx": 667.7030210791668,
+      "fy": 22.984579754034144,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "1. minimalism: a beginner’s guide  ️",
       "url": "https://anuschkarees.com/blog/2014/10/27/minimalism-a-beginners-guide/",
-      "fx": 265.2175917289628,
-      "fy": -20.05864500663631,
+      "fx": 136.37716665303446,
+      "fy": 115.7340018901013,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -56,16 +87,32 @@
       "source": "help",
       "target": "minimalism",
       "curve": {
-        "x": -39.3266,
-        "y": -46.546
+        "x": -54.273,
+        "y": -46.1223
       }
     },
     {
       "source": "minimalism",
       "target": "basics",
       "curve": {
-        "x": 1.57197,
-        "y": 93.5008
+        "x": -62.8482,
+        "y": 161.397
+      }
+    },
+    {
+      "source": "basics",
+      "target": "simple living  ️",
+      "curve": {
+        "x": -7.1937,
+        "y": 60.6902
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -183.714,
+        "y": -44.2294
       }
     }
   ]

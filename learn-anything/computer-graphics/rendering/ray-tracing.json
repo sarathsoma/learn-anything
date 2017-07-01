@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer graphics - rendering - ray tracing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "ray tracing",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/raytracing/",
+      "fx": 87.23828125,
+      "fy": -353.9375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "ray tracing"
+    },
     {
       "text": "breakdown of a simple ray tracer",
       "note": "great visualisation with live editable code",

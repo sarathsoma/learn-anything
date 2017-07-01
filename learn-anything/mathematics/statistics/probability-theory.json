@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - statistics - probability theory",
+  "tag": "probabiliy theory",
+  "description": "",
   "nodes": [
     {
       "text": "probability theory",
@@ -16,26 +18,32 @@
       "fy": -97.50442855461358
     },
     {
-      "text": "markov chains  ️",
-      "note": "are stochastic processes that satisfy the Markov property (sometimes characterised as ‘memorylessness’)  a process satisfies the Markov property if one can make predictions for the future of the process based solely on its present state just as well as one could knowing the process’s full history, hence independently from such history (i.e. conditional on the present state of the system, its future and paste states are independent)  a Markov chain is a type of Markov process that has either discrete state space or discrete index set (often representing time), but the precise definition of a Markov chain varies",
-      "url": "/mathematics/statistics/probability-theory/markov-chains",
-      "fx": 51.847304043704526,
-      "fy": 73.68532321877683,
-      "category": "mindmap"
-    },
-    {
       "text": "probability distributions  ️",
       "url": "/mathematics/statistics/probability-theory/distributions",
-      "fx": -238.517070660405,
-      "fy": 76.14572560639533,
+      "fx": -242.517070660405,
+      "fy": 79.18478810639533,
       "category": "mindmap"
     },
     {
       "text": "prediction market",
       "url": "http://www.wikiwand.com/en/Prediction_market",
       "fx": -485.732203609409,
-      "fy": 83.96989906272495,
+      "fy": 79.96989906272495,
       "category": "wiki"
+    },
+    {
+      "text": "markov chains  ️",
+      "note": "are stochastic processes that satisfy the Markov property (sometimes characterised as ‘memorylessness’)  a process satisfies the Markov property if one can make predictions for the future of the process based solely on its present state just as well as one could knowing the process’s full history, hence independently from such history (i.e. conditional on the present state of the system, its future and paste states are independent)  a Markov chain is a type of Markov process that has either discrete state space or discrete index set (often representing time), but the precise definition of a Markov chain varies",
+      "url": "/mathematics/statistics/probability-theory/markov-chains",
+      "fx": 51.847304043704526,
+      "fy": 80.81032321877683,
+      "category": "mindmap"
+    },
+    {
+      "text": "conditional probability  ️",
+      "fx": -759.0497537110814,
+      "fy": 82.46342442095624,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -72,7 +80,7 @@
       "target": "markov chains  ️",
       "curve": {
         "x": 118.736,
-        "y": 86.8449
+        "y": 90.4074
       }
     },
     {
@@ -80,15 +88,23 @@
       "target": "prediction market",
       "curve": {
         "x": -149.804,
-        "y": 91.9871
+        "y": 89.9871
       }
     },
     {
       "source": "basics",
       "target": "probability distributions  ️",
       "curve": {
-        "x": -45.4461,
-        "y": 86.8251
+        "x": -47.4461,
+        "y": 88.3446
+      }
+    },
+    {
+      "source": "basics",
+      "target": "conditional probability  ️",
+      "curve": {
+        "x": -313.107,
+        "y": 64.9644
       }
     }
   ]

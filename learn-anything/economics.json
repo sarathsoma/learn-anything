@@ -1,5 +1,7 @@
 {
   "title": "learn anything - economics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "economics",
@@ -31,7 +33,7 @@
     {
       "text": "macroeconomics  ️",
       "url": "/economics/macroeconomics",
-      "fx": 235.54940795898438,
+      "fx": 236.61431884765625,
       "fy": -249.23212432861328,
       "category": "mindmap"
     },
@@ -43,16 +45,15 @@
       "category": "mindmap"
     },
     {
-      "text": "finance",
-      "url": "http://www.wikiwand.com/en/Finance",
-      "fx": -128.63916015625,
+      "text": "finance  ️",
+      "fx": -127.63916015625,
       "fy": -248.38209533691406,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "microeconomics  ️",
       "url": "/economics/microeconomics-",
-      "fx": 11.442358016967773,
+      "fx": 12.477008819580078,
       "fy": -247.70105743408203,
       "category": "mindmap"
     },
@@ -79,6 +80,12 @@
       "category": "mindmap"
     },
     {
+      "text": "e-commerce  ️",
+      "fx": -2117.341827392578,
+      "fy": -241.90767669677734,
+      "category": "mindmap"
+    },
+    {
       "text": "basic income  ️",
       "url": "/economics/basic-income",
       "fx": -1420.5957772974764,
@@ -93,10 +100,22 @@
       "category": "mindmap"
     },
     {
+      "text": "contract theory  ️",
+      "fx": -2329.4757385253906,
+      "fy": -239.04972457885742,
+      "category": "mindmap"
+    },
+    {
       "text": "behavioural economics  ️",
       "url": "/economics/behavioural-economics",
       "fx": -1920.628710045659,
       "fy": -238.83247716895107,
+      "category": "mindmap"
+    },
+    {
+      "text": "economic history  ️",
+      "fx": -2558.581851770973,
+      "fy": -237.4786370456028,
       "category": "mindmap"
     },
     {
@@ -206,9 +225,9 @@
     },
     {
       "source": "basics",
-      "target": "finance",
+      "target": "finance  ️",
       "curve": {
-        "x": -61.7215,
+        "x": -61.2215,
         "y": 124.388
       }
     },
@@ -216,7 +235,7 @@
       "source": "basics",
       "target": "microeconomics  ️",
       "curve": {
-        "x": 36.5692,
+        "x": 37.0865,
         "y": 125.979
       }
     },
@@ -224,23 +243,23 @@
       "source": "basics",
       "target": "macroeconomics  ️",
       "curve": {
-        "x": 150.372,
+        "x": 150.904,
         "y": 130.782
       }
     },
     {
-      "source": "finance",
+      "source": "finance  ️",
       "target": "investing  ️",
       "curve": {
-        "x": -78.3127,
+        "x": -78.8127,
         "y": 70.4945
       }
     },
     {
-      "source": "finance",
+      "source": "finance  ️",
       "target": "personal finance  ️",
       "curve": {
-        "x": 18.5764,
+        "x": 18.0764,
         "y": 71.5422
       }
     },
@@ -298,6 +317,30 @@
       "curve": {
         "x": -1225.75,
         "y": 69.7484
+      }
+    },
+    {
+      "source": "basics",
+      "target": "e-commerce  ️",
+      "curve": {
+        "x": -1373.68,
+        "y": 24.2608
+      }
+    },
+    {
+      "source": "basics",
+      "target": "contract theory  ️",
+      "curve": {
+        "x": -1502.5,
+        "y": -45.5035
+      }
+    },
+    {
+      "source": "basics",
+      "target": "economic history  ️",
+      "curve": {
+        "x": -1739.44,
+        "y": -17.7702
       }
     }
   ]

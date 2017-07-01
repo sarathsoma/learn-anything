@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - geometry - differential geometry",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "differential geometry",
@@ -18,8 +20,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -31.862846654122905,
-      "fy": 49.14479515392168
+      "fx": -53.27677367724425,
+      "fy": 81.14377907733206
     }
   ],
   "subnodes": [
@@ -35,8 +37,8 @@
     {
       "text": "1. differential geometry lecture",
       "url": "https://www.youtube.com/watch?v=6xgtMQ7WSzQ",
-      "fx": 150.1371533458771,
-      "fy": 29.644795153921677,
+      "fx": 128.72322632275575,
+      "fy": 19.643779077332056,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -44,10 +46,19 @@
     {
       "text": "1. differential geometry of curves and surfaces",
       "url": "http://www.math.uni.lodz.pl/~maczar/ggk/do%20Carmo,%20Differential%20Geometry%20of%20Curves%20and%20Surfaces.pdf",
-      "fx": 150.1371533458771,
-      "fy": 69.64479515392168,
+      "fx": 128.72322632275575,
+      "fy": 59.643779077332056,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. differential geometry: connections, curvature and characteristic classes",
+      "url": "http://www.goodreads.com/book/show/34187207-differential-geometry",
+      "fx": 128.72322632275575,
+      "fy": 121.64377907733206,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -56,8 +67,8 @@
       "source": "differential geometry",
       "target": "basics",
       "curve": {
-        "x": -4.55056,
-        "y": 107.402
+        "x": -15.2575,
+        "y": 123.401
       }
     },
     {

@@ -1,48 +1,77 @@
 {
   "title": "learn anything - programming - programming languages - rust",
+  "tag": "rust programming language",
+  "description": "",
   "nodes": [
     {
       "text": "rust",
       "url": "http://www.wikiwand.com/en/Rust_(programming_language)",
-      "fx": -75.21484375,
-      "fy": -268.75390625,
+      "fx": -73.56568908691406,
+      "fy": -294.7842254638672,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 34.510141695114726,
-      "fy": -153.572120282894
+      "fx": 45.6356258392334,
+      "fy": -114.14034271240234
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 59.40254181221633,
-      "fy": 30.376493529689697
+      "fx": 133.34503555297852,
+      "fy": 61.955580711364746
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -91.79493820789685,
-      "fy": 173.1241486219169
+      "fx": -102.99479828252367,
+      "fy": 199.55214535699156
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/rust/",
-      "fx": 86.78515625,
-      "fy": -254.75390625,
+      "fx": 88.43431091308594,
+      "fy": -340.7842254638672,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "rust"
     },
     {
+      "text": "",
+      "url": "https://twitter.com/rustlang?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "fx": 88.43431091308594,
+      "fy": -300.7842254638672,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "rust"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/rust-lang/rust",
+      "fx": 88.43431091308594,
+      "fy": -260.7842254638672,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "rust"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/rust",
+      "fx": 88.43431091308594,
+      "fy": -220.7842254638672,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "rust"
+    },
+    {
       "text": "awesome rust",
       "url": "https://github.com/kud1ing/awesome-rust",
-      "fx": 171.51014169511473,
-      "fy": -199.072120282894,
+      "fx": 182.63561630249023,
+      "fy": -180.0497055053711,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -50,8 +79,8 @@
     {
       "text": "alternative introduction to rust  ️",
       "url": "http://words.steveklabnik.com/a-new-introduction-to-rust",
-      "fx": 171.51014169511473,
-      "fy": -159.072120282894,
+      "fx": 182.6356258392334,
+      "fy": -139.64034271240234,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -59,25 +88,34 @@
     {
       "text": "rust cookbook",
       "url": "https://brson.github.io/rust-cookbook/basics.html",
-      "fx": 171.51014169511473,
-      "fy": -119.07212028289399,
+      "fx": 182.6356258392334,
+      "fy": -99.64034271240234,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "new rustacean",
       "url": "http://www.newrustacean.com/",
-      "fx": 171.51014169511473,
-      "fy": -85.07212028289399,
+      "fx": 182.6356258392334,
+      "fy": -65.64034271240234,
       "category": "podcast",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
+      "text": "rust algorithms",
+      "url": "https://github.com/EbTech/rust-algorithms",
+      "fx": 182.6356258392334,
+      "fy": -25.640342712402344,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "16: the path to rust  ️",
       "url": "https://thesquareplanet.com/blog/the-path-to-rust/",
-      "fx": 221.40254181221633,
-      "fy": -9.123506470310303,
+      "fx": 295.3450164794922,
+      "fy": 22.51874828338623,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -85,8 +123,8 @@
     {
       "text": "17: I made a game in rust  ️",
       "url": "https://michaelfairley.com/blog/i-made-a-game-in-rust/",
-      "fx": 221.40254181221633,
-      "fy": 30.876493529689697,
+      "fx": 295.3450355529785,
+      "fy": 62.455580711364746,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -94,8 +132,8 @@
     {
       "text": "17: rust's language ergonomics initiative  ️",
       "url": "https://blog.rust-lang.org/2017/03/02/lang-ergonomics.html",
-      "fx": 221.40254181221633,
-      "fy": 70.8764935296897,
+      "fx": 295.3450355529785,
+      "fy": 102.45558071136475,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -103,8 +141,8 @@
     {
       "text": "1. the rust programming language",
       "url": "https://doc.rust-lang.org/book/",
-      "fx": 90.20506179210315,
-      "fy": 156.6241486219169,
+      "fx": 79.00520171747633,
+      "fy": 183.05214535699156,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -112,8 +150,8 @@
     {
       "text": "1. gentle rust tutorial",
       "url": "https://github.com/stevedonovan/gentle-intro",
-      "fx": 90.20506179210315,
-      "fy": 218.6241486219169,
+      "fx": 79.00520171747633,
+      "fy": 245.05214535699156,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
@@ -123,24 +161,24 @@
       "source": "rust",
       "target": "basics",
       "curve": {
-        "x": -2.54011,
-        "y": 220.937
+        "x": -8.96462,
+        "y": 247.166
       }
     },
     {
       "source": "help",
       "target": "rust",
       "curve": {
-        "x": -55.8624,
-        "y": -57.5909
+        "x": -60.6006,
+        "y": -90.3219
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -18.6962,
-        "y": -91.9743
+        "x": -68.7727,
+        "y": -88.048
       }
     }
   ]

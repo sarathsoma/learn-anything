@@ -1,5 +1,7 @@
 {
   "title": "learn anything - software - tooling - text editors - emacs",
+  "tag": "emacs text editor",
+  "description": "",
   "nodes": [
     {
       "text": "emacs",
@@ -16,21 +18,27 @@
     {
       "text": "articles",
       "url": "",
-      "fx": -1.8023846956124316,
-      "fy": 22.564142291707185
+      "fx": -1.84259033203125,
+      "fy": 18.8688907623291
     },
     {
       "text": "videos",
       "url": "",
-      "fx": 89.6989168224477,
-      "fy": 120.64911568433718
+      "fx": 87.25312040802237,
+      "fy": 113.8589166913714
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 298.10219464983265,
+      "fy": 216.3232634694955
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -125.19659678314929,
-      "fy": 211.92839342674847
+      "fx": -139.56454791096883,
+      "fy": 288.94025902825217
     }
   ],
   "subnodes": [
@@ -46,8 +54,8 @@
     {
       "text": "15: getting started with emacs? empty your cup  ️",
       "url": "http://sachachua.com/blog/2015/02/getting-started-emacs-empty-cup/",
-      "fx": 160.19761530438757,
-      "fy": 23.064142291707185,
+      "fx": 160.15740966796875,
+      "fy": 19.3688907623291,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -55,17 +63,26 @@
     {
       "text": "emacs multiple cursors",
       "url": "http://emacsrocks.com/e13.html",
-      "fx": 246.6989168224477,
-      "fy": 132.14911568433718,
+      "fx": 244.25312040802237,
+      "fy": 125.3589166913714,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "videos"
     },
     {
+      "text": "hack emacs in Go",
+      "url": "https://github.com/Quasilyte/goism",
+      "fx": 440.10219464983265,
+      "fy": 227.8232634694955,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
       "text": "1. practical emacs tutorial",
       "url": "http://ergoemacs.org/emacs/emacs.html",
-      "fx": 56.80340321685071,
-      "fy": 223.42839342674847,
+      "fx": 42.43545208903117,
+      "fy": 300.44025902825217,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -84,24 +101,32 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -30.1043,
-        "y": -43.8686
+        "x": -30.0842,
+        "y": -42.021
       }
     },
     {
       "source": "videos",
       "target": "articles",
       "curve": {
-        "x": -44.5007,
-        "y": -49.0425
+        "x": -43.2979,
+        "y": -47.495
       }
     },
     {
       "source": "emacs",
       "target": "basics",
       "curve": {
-        "x": -3.84419,
-        "y": 187.071
+        "x": -11.0282,
+        "y": 225.577
+      }
+    },
+    {
+      "source": "tools",
+      "target": "videos",
+      "curve": {
+        "x": -101.675,
+        "y": -51.2322
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - cognitive science - cognition - emotions",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "emotions",
@@ -18,15 +20,21 @@
     {
       "text": "happiness  ️",
       "url": "/cognitive-science/cognition/emotions/happiness",
-      "fx": -234.58096886734938,
+      "fx": -316.2801876173494,
       "fy": 39.06710568995936,
       "category": "mindmap"
     },
     {
       "text": "love  ️",
       "url": "/cognitive-science/cognition/emotions/love",
-      "fx": -54.169921875,
+      "fx": -135.869140625,
       "fy": 40.68359375,
+      "category": "mindmap"
+    },
+    {
+      "text": "empathy  ️",
+      "fx": -10.3408203125,
+      "fy": 45.0927734375,
       "category": "mindmap"
     }
   ],
@@ -54,7 +62,7 @@
       "source": "basics",
       "target": "happiness  ️",
       "curve": {
-        "x": -60.2307,
+        "x": -101.08,
         "y": 67.4767
       }
     },
@@ -62,8 +70,16 @@
       "source": "basics",
       "target": "love  ️",
       "curve": {
-        "x": 26.2248,
+        "x": -14.6248,
         "y": 69.5349
+      }
+    },
+    {
+      "source": "basics",
+      "target": "empathy  ️",
+      "curve": {
+        "x": 51.3894,
+        "y": 70.4895
       }
     }
   ]

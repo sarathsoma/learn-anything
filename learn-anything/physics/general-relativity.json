@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - general relativity",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "general relativity",
@@ -22,10 +24,16 @@
       "fy": 201.64627389987925
     },
     {
+      "text": "equivalence principle  ️",
+      "fx": -400.96744791666674,
+      "fy": 347.0646701388889,
+      "category": "mindmap"
+    },
+    {
       "text": "spacetime  ️",
       "url": "/physics/general-relativity/spacetime",
-      "fx": -219.97817887931046,
-      "fy": 351.76784752155174,
+      "fx": -71.25781250000011,
+      "fy": 377.2527613146551,
       "category": "mindmap"
     }
   ],
@@ -96,8 +104,16 @@
       "source": "basics",
       "target": "spacetime  ️",
       "curve": {
-        "x": -44.8183,
-        "y": 75.0608
+        "x": 29.5419,
+        "y": 87.8033
+      }
+    },
+    {
+      "source": "basics",
+      "target": "equivalence principle  ️",
+      "curve": {
+        "x": -111.813,
+        "y": 72.7092
       }
     }
   ]

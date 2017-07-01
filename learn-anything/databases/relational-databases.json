@@ -1,5 +1,7 @@
 {
   "title": "learn anything - databases - relational databases",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "relational databases",
@@ -35,6 +37,13 @@
       "fx": -80.99925148277941,
       "fy": -20.60091376722903,
       "category": "wiki"
+    },
+    {
+      "text": "rqlite",
+      "url": "https://github.com/rqlite/rqlite",
+      "fx": -534.8979867788452,
+      "fy": -19.602288661859006,
+      "category": "github"
     },
     {
       "text": "MySQL  ️",
@@ -109,6 +118,14 @@
       "curve": {
         "x": 159.345,
         "y": 87.1708
+      }
+    },
+    {
+      "source": "basics",
+      "target": "rqlite",
+      "curve": {
+        "x": -250.83,
+        "y": 49.4174
       }
     }
   ]

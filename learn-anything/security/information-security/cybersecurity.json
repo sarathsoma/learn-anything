@@ -1,5 +1,7 @@
 {
   "title": "learn anything - security - information security - cybersecurity",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "cybersecurity",
@@ -28,6 +30,12 @@
       "fy": -139.4555438534922
     },
     {
+      "text": "fuzz testing  ️",
+      "fx": 172.51729704797071,
+      "fy": -134.75299815498136,
+      "category": "mindmap"
+    },
+    {
       "text": "cyberattacks",
       "url": "http://www.wikiwand.com/en/Cyberattack",
       "fx": -228.23122928686303,
@@ -42,10 +50,16 @@
       "category": "mindmap"
     },
     {
+      "text": "man-in-the-middle attack  ️",
+      "fx": -552.3281250000111,
+      "fy": 74.16406249996373,
+      "category": "mindmap"
+    },
+    {
       "text": "distributed denial of service  ️",
       "url": "/security/information-security/cybersecurity/ddos",
-      "fx": -380.16035104986884,
-      "fy": 93.32283464566922,
+      "fx": -222.85902048346247,
+      "fy": 86.67590267952346,
       "category": "mindmap"
     }
   ],
@@ -123,8 +137,24 @@
       "source": "cyberattacks",
       "target": "distributed denial of service  ️",
       "curve": {
-        "x": -59.4646,
-        "y": 67.9023
+        "x": 19.1861,
+        "y": 64.5788
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fuzz testing  ️",
+      "curve": {
+        "x": 44.218,
+        "y": 54.9555
+      }
+    },
+    {
+      "source": "cyberattacks",
+      "target": "man-in-the-middle attack  ️",
+      "curve": {
+        "x": -141.048,
+        "y": 58.3229
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - particle physics - elementary particles",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "elementary particles",
@@ -9,17 +11,23 @@
       "category": "wiki"
     },
     {
-      "text": "Higgs boson  ️",
-      "url": "/physics/particle-physics/elementary-particles/higgs-boson",
-      "fx": 211.2282858455883,
-      "fy": 88.87827435661762,
-      "category": "mindmap"
-    },
-    {
       "text": "neutrino  ️",
       "url": "/physics/particle-physics/elementary-particles/neutrino",
       "fx": 30.970703125,
       "fy": 92.90451388888886,
+      "category": "mindmap"
+    },
+    {
+      "text": "Higgs boson  ️",
+      "url": "/physics/particle-physics/elementary-particles/higgs-boson",
+      "fx": 202.9781411696623,
+      "fy": 93.66523905569176,
+      "category": "mindmap"
+    },
+    {
+      "text": "quarks  ️",
+      "fx": 405.4752808743085,
+      "fy": 96.28179465364798,
       "category": "mindmap"
     }
   ],
@@ -29,8 +37,8 @@
       "source": "elementary particles",
       "target": "Higgs boson  ️",
       "curve": {
-        "x": 55.0106,
-        "y": 72.1521
+        "x": 50.8855,
+        "y": 74.5456
       }
     },
     {
@@ -39,6 +47,14 @@
       "curve": {
         "x": -52.6182,
         "y": 72.9151
+      }
+    },
+    {
+      "source": "elementary particles",
+      "target": "quarks  ️",
+      "curve": {
+        "x": 166.06,
+        "y": 73.5556
       }
     }
   ]

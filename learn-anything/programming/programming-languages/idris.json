@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - idris",
+  "tag": "idris programming language",
+  "description": "",
   "nodes": [
     {
       "text": "idris",
@@ -33,7 +35,7 @@
       "parent": "idris"
     },
     {
-      "text": "source",
+      "text": "",
       "url": "https://github.com/idris-lang/Idris-dev",
       "fx": 82.35596804511283,
       "fy": -361.86460291353376,

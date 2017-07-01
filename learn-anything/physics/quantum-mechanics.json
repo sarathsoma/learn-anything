@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - quantum mechanics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "quantum mechanics",
@@ -34,10 +36,34 @@
       "fy": 275.2538071065991
     },
     {
+      "text": "Schrodinger equation  ️",
+      "fx": -2047.1533061594207,
+      "fy": 418.3202192561813,
+      "category": "mindmap"
+    },
+    {
       "text": "uncertainty principle  ️",
       "url": "/physics/quantum-mechanics/uncertainty-principle",
       "fx": -1345.203789893615,
       "fy": 418.875486625034,
+      "category": "mindmap"
+    },
+    {
+      "text": "Bell’s theorem  ️",
+      "fx": -1776.2602161348452,
+      "fy": 419.17314274569276,
+      "category": "mindmap"
+    },
+    {
+      "text": "quantum eraser experiment  ️",
+      "fx": -2375.2106372337635,
+      "fy": 419.2693072123393,
+      "category": "mindmap"
+    },
+    {
+      "text": "wave-particle duality  ️",
+      "fx": -2644.443728570364,
+      "fy": 421.27521243291585,
       "category": "mindmap"
     },
     {
@@ -86,6 +112,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/quantum/",
+      "fx": 159.79704990671632,
+      "fy": -206.2465107377514,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "quantum mechanics"
+    },
     {
       "text": "kindergarten quantum mechanics lecture notes",
       "url": "http://www.cs.ox.ac.uk/bob.coecke/VaxjoProc.pdf",
@@ -261,6 +296,38 @@
       "curve": {
         "x": -88.4805,
         "y": -90.1015
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Bell’s theorem  ️",
+      "curve": {
+        "x": -1047.26,
+        "y": -37.2436
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Schrodinger equation  ️",
+      "curve": {
+        "x": -1191.07,
+        "y": -98.9511
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum eraser experiment  ️",
+      "curve": {
+        "x": -1408.68,
+        "y": -21.8674
+      }
+    },
+    {
+      "source": "basics",
+      "target": "wave-particle duality  ️",
+      "curve": {
+        "x": -1752.89,
+        "y": -25.7181
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - agda",
+  "tag": "agda programming language",
+  "description": "",
   "nodes": [
     {
       "text": "agda",
@@ -27,7 +29,7 @@
       "parent": "agda"
     },
     {
-      "text": "source",
+      "text": "",
       "url": "https://github.com/agda/agda",
       "fx": 136.11299122541186,
       "fy": -114.19498620128911,

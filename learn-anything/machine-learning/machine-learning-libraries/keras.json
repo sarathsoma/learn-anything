@@ -1,5 +1,7 @@
 {
   "title": "learn anything - machine learning - machine learning libraries - keras",
+  "tag": "keras library",
+  "description": "",
   "nodes": [
     {
       "text": "keras",
@@ -29,6 +31,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/KerasML/",
+      "fx": 114.01383215323176,
+      "fy": -312.2876327614377,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "keras"
+    },
     {
       "text": "deep learning models",
       "url": "https://github.com/fchollet/deep-learning-models",
@@ -60,7 +71,7 @@
       "text": "1. practical deep learning for coders",
       "url": "http://course.fast.ai/index.html",
       "fx": 115.65417140630177,
-      "fy": -13.939168264797331,
+      "fy": -2.939168264797331,
       "category": "",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -69,7 +80,7 @@
       "text": "1. learning deep learning with keras  ️",
       "url": "http://p.migdal.pl/2017/04/30/teaching-deep-learning.html",
       "fx": 115.65417140630177,
-      "fy": 48.06083173520267,
+      "fy": 59.06083173520267,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -78,7 +89,7 @@
       "text": "1. keras docs",
       "url": "https://keras.io/",
       "fx": 115.65417140630177,
-      "fy": 110.06083173520267,
+      "fy": 99.06083173520267,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }

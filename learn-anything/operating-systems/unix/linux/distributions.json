@@ -1,5 +1,7 @@
 {
   "title": "learn anything - operating systems - unix - linux - distributions",
+  "tag": "linux distributions",
+  "description": "",
   "nodes": [
     {
       "text": "distributions",
@@ -37,11 +39,10 @@
       "category": "mindmap"
     },
     {
-      "text": "gentoo",
-      "url": "http://www.wikiwand.com/en/Gentoo_Linux",
-      "fx": 247.37412537179512,
+      "text": "gentoo  ️",
+      "fx": 248.37412537179512,
       "fy": -230.71368734114571,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "openSUSE",
@@ -132,10 +133,10 @@
       "category": "wiki"
     },
     {
-      "text": "funtoo",
-      "url": "http://www.wikiwand.com/en/Gentoo_Linux",
-      "fx": 300.8701993272132,
-      "fy": -58.81740109043875
+      "text": "funtoo  ️",
+      "fx": 286.8701993272132,
+      "fy": -58.81740109043875,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -146,14 +147,6 @@
       "fy": -507.3164084656835,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
-    },
-    {
-      "text": "install funtoo",
-      "url": "http://www.funtoo.org/Install",
-      "fx": 456.8701993272132,
-      "fy": -44.31740109043875,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "funtoo"
     }
   ],
   "connections": [
@@ -230,10 +223,10 @@
       }
     },
     {
-      "source": "gentoo",
+      "source": "gentoo  ️",
       "target": "exherbo",
       "curve": {
-        "x": 62.5283,
+        "x": 62.0283,
         "y": 41.8624
       }
     },
@@ -279,9 +272,9 @@
     },
     {
       "source": "distributions",
-      "target": "gentoo",
+      "target": "gentoo  ️",
       "curve": {
-        "x": -263.694,
+        "x": -263.194,
         "y": 183.147
       }
     },
@@ -294,10 +287,10 @@
       }
     },
     {
-      "source": "gentoo",
-      "target": "funtoo",
+      "source": "gentoo  ️",
+      "target": "funtoo  ️",
       "curve": {
-        "x": 17.9981,
+        "x": 10.4981,
         "y": 84.6982
       }
     },

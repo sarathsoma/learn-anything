@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - erlang",
+  "tag": "erlang programming language",
+  "description": "",
   "nodes": [
     {
       "text": "erlang",
@@ -23,6 +25,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/erlang/",
+      "fx": 126.77734375,
+      "fy": -398.90234375,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "erlang"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/erlang/otp",
+      "fx": 126.77734375,
+      "fy": -358.90234375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "erlang"
+    },
     {
       "text": "spawned shelter",
       "note": "best articles, videos and books for learning erlang",

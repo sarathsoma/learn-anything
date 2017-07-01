@@ -1,5 +1,7 @@
 {
   "title": "learn anything - philosophy - spirituality",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "spirituality",
@@ -24,7 +26,26 @@
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
+  "subnodes": [
+    {
+      "text": "psychonaut",
+      "url": "https://www.reddit.com/r/Psychonaut/",
+      "fx": 129.4502337598425,
+      "fy": -170.83203125,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "spirituality"
+    },
+    {
+      "text": "rational psychonaut",
+      "url": "https://www.reddit.com/r/RationalPsychonaut/",
+      "fx": 129.4502337598425,
+      "fy": -130.83203125,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "spirituality"
+    }
+  ],
   "connections": [
     {
       "source": "spirituality",

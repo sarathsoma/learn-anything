@@ -1,25 +1,33 @@
 {
   "title": "learn anything - philosophy",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "philosophy",
       "url": "http://www.wikiwand.com/en/Philosophy",
-      "fx": -93.52689673300506,
-      "fy": -537.7948063441686,
+      "fx": -94.52625036239624,
+      "fy": -541.0426177978516,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 38.397107597922286,
-      "fy": -346.60752398951524
+      "fx": 73.46843911966221,
+      "fy": -397.2953636634283
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 491.9470427974479,
+      "fy": -246.82616038669846
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -64.49268121352031,
-      "fy": -152.6852256672189
+      "fy": -166.39261203085528
     },
     {
       "text": "naturalism",
@@ -72,8 +80,20 @@
     },
     {
       "text": "reasoning  ️",
-      "fx": -1260.922500855876,
-      "fy": 18.88097772594756,
+      "fx": -1257.7415466308594,
+      "fy": 18.88097858428955,
+      "category": "mindmap"
+    },
+    {
+      "text": "ideas  ️",
+      "fx": -1380.8821511243386,
+      "fy": 19.858796296296646,
+      "category": "mindmap"
+    },
+    {
+      "text": "decision theory  ️",
+      "fx": -1593.8032111220477,
+      "fy": 21.444820374013602,
       "category": "mindmap"
     }
   ],
@@ -81,8 +101,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/philosophy/",
-      "fx": 131.47310326699494,
-      "fy": -543.7948063441686,
+      "fx": 130.47374963760376,
+      "fy": -547.0426177978516,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "philosophy"
@@ -90,8 +110,8 @@
     {
       "text": "wiki",
       "url": "https://www.reddit.com/r/philosophy/wiki/introduction",
-      "fx": 241.47310326699494,
-      "fy": -543.7948063441686,
+      "fx": 240.47374963760376,
+      "fy": -547.0426177978516,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": ""
@@ -99,8 +119,8 @@
     {
       "text": "️",
       "url": "https://philosophy.stackexchange.com/",
-      "fx": 131.47310326699494,
-      "fy": -503.7948063441686,
+      "fx": 130.47374963760376,
+      "fy": -507.04261779785156,
       "category": "stack exchange",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "philosophy"
@@ -108,49 +128,49 @@
     {
       "text": "stanford encyclopedia of philosophy",
       "url": "https://plato.stanford.edu/",
-      "fx": 175.3971075979223,
-      "fy": -425.10752398951524,
+      "fx": 210.4684391196622,
+      "fy": -455.7953636634283,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "internet encyclopaedia of philosophy",
       "url": "http://www.iep.utm.edu/home/about/",
-      "fx": 175.3971075979223,
-      "fy": -369.10752398951524,
+      "fx": 210.4684391196622,
+      "fy": -399.7953636634283,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "history of philosophy",
       "url": "http://www.philosophypages.com/hy/",
-      "fx": 175.3971075979223,
-      "fy": -313.10752398951524,
+      "fx": 210.4684391196622,
+      "fy": -343.7953636634283,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "philosophy resources",
       "url": "http://www.philosimply.com/",
-      "fx": 175.3971075979223,
-      "fy": -279.10752398951524,
+      "fx": 210.4684391196622,
+      "fy": -309.7953636634283,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
-      "text": "where to start with philosophy",
-      "url": "https://www.reddit.com/r/AskPhilosophyFAQ/comments/4ifqi3/im_interested_in_philosophy_where_should_i_start/?st=is9qez62&amp;sh=5f7bb919",
-      "fx": 175.3971075979223,
-      "fy": -245.10752398951524,
-      "category": "reddit",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
+      "text": "Friedrich Nietzsche’s life and philosophy",
+      "url": "https://www.youtube.com/watch?v=r1J7OoErWvs&amp;feature=youtu.be",
+      "fx": 682.9470427974479,
+      "fy": -246.32616038669846,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
     },
     {
       "text": "1. crash course philosophy",
       "url": "https://www.youtube.com/watch?v=1A_CAkYt3GY&amp;list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR",
       "fx": 117.50731878647969,
-      "fy": -161.1852256672189,
+      "fy": -194.89261203085528,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -160,9 +180,18 @@
       "note": "whilst not directly related to philosophy it is a great book",
       "url": "https://www.goodreads.com/book/show/24113.G_del_Escher_Bach",
       "fx": 117.50731878647969,
-      "fy": -121.1852256672189,
+      "fy": -154.89261203085528,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. where to start with philosophy",
+      "url": "https://www.reddit.com/r/AskPhilosophyFAQ/comments/4ifqi3/im_interested_in_philosophy_where_should_i_start/?st=is9qez62&amp;sh=5f7bb919",
+      "fx": 117.50731878647969,
+      "fy": -114.89261203085528,
+      "category": "reddit",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -171,16 +200,16 @@
       "source": "help",
       "target": "philosophy",
       "curve": {
-        "x": -43.9621,
-        "y": -94.3436
+        "x": -61.9974,
+        "y": -70.6236
       }
     },
     {
       "source": "philosophy",
       "target": "basics",
       "curve": {
-        "x": -2.73289,
-        "y": 191.306
+        "x": -2.23321,
+        "y": 186.076
       }
     },
     {
@@ -188,7 +217,7 @@
       "target": "epistemology  ️",
       "curve": {
         "x": -206.676,
-        "y": 83.4011
+        "y": 90.2548
       }
     },
     {
@@ -196,7 +225,7 @@
       "target": "ethics  ️",
       "curve": {
         "x": -89.2921,
-        "y": 83.3093
+        "y": 90.163
       }
     },
     {
@@ -204,7 +233,7 @@
       "target": "naturalism",
       "curve": {
         "x": 39.8357,
-        "y": 83.1986
+        "y": 90.0523
       }
     },
     {
@@ -212,7 +241,7 @@
       "target": "philosophy of mind  ️",
       "curve": {
         "x": 144.819,
-        "y": 83.4389
+        "y": 90.2926
       }
     },
     {
@@ -220,7 +249,7 @@
       "target": "spirituality  ️",
       "curve": {
         "x": -270.648,
-        "y": 64.3694
+        "y": 71.2231
       }
     },
     {
@@ -228,7 +257,7 @@
       "target": "western philosophy  ️",
       "curve": {
         "x": -435.315,
-        "y": 64.4118
+        "y": 71.2655
       }
     },
     {
@@ -236,15 +265,39 @@
       "target": "philosophy of science  ️",
       "curve": {
         "x": -613.988,
-        "y": 36.3954
+        "y": 43.2491
       }
     },
     {
       "source": "basics",
       "target": "reasoning  ️",
       "curve": {
-        "x": -765.444,
-        "y": -2.24316
+        "x": -763.854,
+        "y": 4.61053
+      }
+    },
+    {
+      "source": "basics",
+      "target": "ideas  ️",
+      "curve": {
+        "x": -909.336,
+        "y": -6.58601
+      }
+    },
+    {
+      "source": "basics",
+      "target": "decision theory  ️",
+      "curve": {
+        "x": -899.806,
+        "y": -31.7282
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -305.246,
+        "y": -19.9896
       }
     }
   ]

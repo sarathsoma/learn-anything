@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - software development - open source",
+  "tag": "open source development",
+  "description": "",
   "nodes": [
     {
       "text": "open source",
@@ -18,23 +20,32 @@
       "text": "articles",
       "url": "",
       "fx": 100.61328125,
-      "fy": 31.9453125
+      "fy": 41.96455223880605
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -74.55753135681152,
-      "fy": 146.76946830749512
+      "fx": -93.42705094636369,
+      "fy": 187.07089088212183
     },
     {
       "text": "build",
       "url": "",
-      "fx": -82.57303190231323,
-      "fy": 300.317099571228
+      "fx": -162.03023805902967,
+      "fy": 345.0553225189891
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/opensource/",
+      "fx": 126,
+      "fy": -137.02734375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "open source"
+    },
     {
       "text": "open source guides",
       "url": "https://opensource.guide/",
@@ -47,24 +58,33 @@
       "text": "12: a taxonomy of help vampires  ️",
       "url": "http://jasonwryan.com/blog/2012/03/17/vampires/",
       "fx": 262.61328125,
-      "fy": 43.4453125,
+      "fy": 22.46455223880605,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "16: beginner’s bumpy journey through the world of open source  ️",
+      "url": "https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39",
+      "fx": 262.61328125,
+      "fy": 62.46455223880605,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
       "text": "1. guide to contributing to open source",
       "url": "https://opensource.guide/how-to-contribute/",
-      "fx": 107.44246864318848,
-      "fy": 119.26946830749512,
+      "fx": 88.57294905363631,
+      "fy": 159.57089088212183,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. what it feels like to be an open-source maintainer  ️",
       "url": "https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/",
-      "fx": 107.44246864318848,
-      "fy": 175.26946830749512,
+      "fx": 88.57294905363631,
+      "fy": 215.57089088212183,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -72,8 +92,8 @@
     {
       "text": "awesome foss apps",
       "url": "https://github.com/jwaterfaucett/awesome-foss-apps",
-      "fx": 59.42696809768677,
-      "fy": 271.817099571228,
+      "fx": -20.03023805902967,
+      "fy": 316.5553225189891,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "build"
@@ -81,8 +101,8 @@
     {
       "text": "awesome open source apps",
       "url": "https://github.com/unicodeveloper/awesome-opensource-apps",
-      "fx": 59.42696809768677,
-      "fy": 311.817099571228,
+      "fx": -20.03023805902967,
+      "fy": 356.5553225189891,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "build"
@@ -90,8 +110,8 @@
     {
       "text": "awesome for beginners",
       "url": "https://github.com/MunGell/awesome-for-beginners",
-      "fx": 59.42696809768677,
-      "fy": 351.817099571228,
+      "fx": -20.03023805902967,
+      "fy": 396.5553225189891,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "build"
@@ -102,8 +122,8 @@
       "source": "open source",
       "target": "basics",
       "curve": {
-        "x": -1.27877,
-        "y": 147.648
+        "x": -10.7135,
+        "y": 167.799
       }
     },
     {
@@ -118,8 +138,8 @@
       "source": "basics",
       "target": "build",
       "curve": {
-        "x": -7.50775,
-        "y": 76.7739
+        "x": -37.8016,
+        "y": 78.9923
       }
     },
     {
@@ -127,7 +147,7 @@
       "target": "help",
       "curve": {
         "x": -46.6065,
-        "y": -44.0362
+        "y": -49.0458
       }
     }
   ]

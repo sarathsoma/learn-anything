@@ -1,5 +1,7 @@
 {
   "title": "learn anything - network science - computer networking - internet",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "internet",
@@ -18,8 +20,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -50.06308670948613,
-      "fy": 25.892199851734574
+      "fx": -79.91193181818187,
+      "fy": 90.87748064883596
     }
   ],
   "subnodes": [
@@ -35,8 +37,8 @@
     {
       "text": "1. how the internet works  ️",
       "url": "https://thesquareplanet.com/blog/how-the-internet-works/",
-      "fx": 131.93691329051387,
-      "fy": 6.392199851734574,
+      "fx": 102.08806818181813,
+      "fy": 40.377480648835956,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -44,10 +46,19 @@
     {
       "text": "1. the internet: packets, routing and reliability",
       "url": "https://www.youtube.com/watch?v=AYdF7b3nMto",
-      "fx": 131.93691329051387,
-      "fy": 46.392199851734574,
+      "fx": 102.08806818181813,
+      "fy": 80.37748064883596,
       "category": "video",
       "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. how the internet works for developers",
+      "url": "https://www.youtube.com/watch?v=e4S8zfLdLgQ",
+      "fx": 102.08806818181813,
+      "fy": 142.37748064883596,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -56,8 +67,8 @@
       "source": "internet",
       "target": "basics",
       "curve": {
-        "x": -4.09275,
-        "y": 101.11
+        "x": -19.0172,
+        "y": 133.603
       }
     },
     {

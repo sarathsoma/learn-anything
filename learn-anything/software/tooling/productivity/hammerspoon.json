@@ -1,26 +1,52 @@
 {
   "title": "learn anything - software - tooling - productivity - hammerspoon",
+  "tag": "hammerspoon macOS automation",
+  "description": "",
   "nodes": [
     {
       "text": "hammerspoon",
       "url": "http://www.hammerspoon.org/",
-      "fx": -108.11328125,
-      "fy": -177.64453125
+      "fx": -115.53016104539631,
+      "fy": -183.31508751598466
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 47.88232080419573,
+      "fy": -78.17045454545394
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -87.72380331584372,
-      "fy": -43.66165530894483
+      "fx": -99.56173330864499,
+      "fy": 45.231322118039884
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/hammerspoon/",
+      "fx": 114.46983895460369,
+      "fy": -171.81508751598466,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "hammerspoon"
+    },
+    {
+      "text": "awesome hammerspoon",
+      "url": "https://github.com/ashfinal/awesome-hammerspoon",
+      "fx": 184.88232080419573,
+      "fy": -66.67045454545394,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "1. getting started",
       "url": "http://www.hammerspoon.org/go/",
-      "fx": 94.27619668415628,
-      "fy": -29.16165530894483,
+      "fx": 82.43826669135501,
+      "fy": 59.731322118039884,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -30,8 +56,16 @@
       "source": "hammerspoon",
       "target": "basics",
       "curve": {
-        "x": -8.30526,
-        "y": 66.9914
+        "x": -10.5158,
+        "y": 114.273
+      }
+    },
+    {
+      "source": "help",
+      "target": "hammerspoon",
+      "curve": {
+        "x": -58.4562,
+        "y": -52.5723
       }
     }
   ]

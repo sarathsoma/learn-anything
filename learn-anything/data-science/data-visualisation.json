@@ -1,12 +1,14 @@
 {
   "title": "learn anything - data science - data visualisation",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "data visualisation",
       "note": "",
       "url": "http://www.wikiwand.com/en/Data_visualization",
-      "fx": -113.97910928726196,
-      "fy": -283.92137908935547,
+      "fx": -139.00254678726196,
+      "fy": -298.51512908935547,
       "category": "wiki"
     },
     {
@@ -18,8 +20,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -227.81530230978285,
-      "fy": 23.80358355978376
+      "fx": -263.05748980978285,
+      "fy": 24.80358355978376
     },
     {
       "text": "articles",
@@ -41,6 +43,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/dataisbeautiful/",
+      "fx": 167.99745321273804,
+      "fy": -284.51512908935547,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "data visualisation"
+    },
     {
       "text": "awesome charting",
       "url": "https://github.com/zingchart/awesome-charting",
@@ -71,8 +82,8 @@
     {
       "text": "1. visual encoding  ️",
       "url": "https://www.targetprocess.com/articles/visual-encoding/",
-      "fx": -71.81530230978285,
-      "fy": 4.30358355978376,
+      "fx": -107.05748980978285,
+      "fy": -14.69641644021624,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -80,10 +91,19 @@
     {
       "text": "1. up and down the ladder of abstraction  ️",
       "url": "http://worrydream.com/LadderOfAbstraction/",
-      "fx": -71.81530230978285,
-      "fy": 44.30358355978376,
+      "fx": -107.05748980978285,
+      "fy": 25.30358355978376,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. explorable explanations  ️",
+      "url": "http://worrydream.com/ExplorableExplanations/",
+      "fx": -107.05748980978285,
+      "fy": 87.30358355978376,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
     {
@@ -136,8 +156,8 @@
       "source": "help",
       "target": "data visualisation",
       "curve": {
-        "x": -68.8884,
-        "y": -51.5421
+        "x": -81.4001,
+        "y": -58.839
       }
     },
     {
@@ -168,8 +188,8 @@
       "source": "data visualisation",
       "target": "basics",
       "curve": {
-        "x": -94.6681,
-        "y": 152.612
+        "x": -99.7775,
+        "y": 160.409
       }
     }
   ]

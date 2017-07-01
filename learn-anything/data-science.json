@@ -1,5 +1,7 @@
 {
   "title": "learn anything - data science",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "data science",
@@ -18,8 +20,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -54.72885343792586,
-      "fy": -307.3064117285419
+      "fx": -39.35554584592114,
+      "fy": -295.9559890693441
     },
     {
       "text": "data mining  ️",
@@ -87,7 +89,7 @@
       "text": "17: top data science resources  ️",
       "url": "http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/",
       "fx": 381.69327907962406,
-      "fy": -649.9266266722778,
+      "fy": -629.9266266722778,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -96,7 +98,7 @@
       "text": "awesome data science",
       "url": "https://github.com/bulutyazilim/awesome-datascience",
       "fx": 381.69327907962406,
-      "fy": -609.9266266722778,
+      "fy": -589.9266266722778,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -105,7 +107,7 @@
       "text": "data school  ️",
       "url": "http://www.dataschool.io/",
       "fx": 381.69327907962406,
-      "fy": -569.9266266722781,
+      "fy": -549.9266266722778,
       "category": "blog",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -114,7 +116,7 @@
       "text": "awesome big data",
       "url": "https://github.com/onurakpolat/awesome-bigdata",
       "fx": 381.69327907962406,
-      "fy": -529.9266266722778,
+      "fy": -509.92662667227785,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -123,25 +125,16 @@
       "text": "awesome data engineering",
       "url": "https://github.com/igorbarinov/awesome-data-engineering",
       "fx": 381.69327907962406,
-      "fy": -489.92662667227796,
+      "fy": -469.92662667227785,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "data science ipython notebooks",
-      "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
-      "fx": 381.69327907962406,
-      "fy": -449.92662667227796,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "big data university",
       "url": "https://bigdatauniversity.com/",
       "fx": 381.69327907962406,
-      "fy": -409.92662667227796,
+      "fy": -429.92662667227785,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -149,7 +142,7 @@
       "text": "data science blogs",
       "url": "https://github.com/rushter/data-science-blogs",
       "fx": 381.69327907962406,
-      "fy": -375.92662667227796,
+      "fy": -395.92662667227785,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -157,8 +150,8 @@
     {
       "text": "1. self taught data science",
       "url": "https://github.com/open-source-society/data-science",
-      "fx": 127.27114656207414,
-      "fy": -315.8064117285419,
+      "fx": 142.64445415407886,
+      "fy": -324.4559890693441,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -166,10 +159,19 @@
     {
       "text": "1. data science ontology",
       "url": "http://worldofdatascience.com/",
-      "fx": 127.27114656207414,
-      "fy": -275.8064117285419,
+      "fx": 142.64445415407886,
+      "fy": -284.4559890693441,
       "category": "interactive",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. data science ipython notebooks",
+      "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+      "fx": 142.64445415407886,
+      "fy": -244.45598906934413,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],
@@ -194,16 +196,16 @@
       "source": "data science",
       "target": "basics",
       "curve": {
-        "x": -66.9814,
-        "y": 193.683
+        "x": -59.2948,
+        "y": 199.358
       }
     },
     {
       "source": "basics",
       "target": "data mining  ️",
       "curve": {
-        "x": -5.65226,
-        "y": 64.4445
+        "x": -13.3389,
+        "y": 58.7693
       }
     },
     {

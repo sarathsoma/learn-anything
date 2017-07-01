@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - javascript libraries",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "javascript libraries",
@@ -33,6 +35,12 @@
       "fx": 3519.46160635675,
       "fy": -200.94668959224248,
       "category": "wiki"
+    },
+    {
+      "text": "motion graphics",
+      "url": "",
+      "fx": -682.0075757575759,
+      "fy": -197.38778409090918
     },
     {
       "text": "server",
@@ -123,6 +131,12 @@
       "fy": -169.68034686700776
     },
     {
+      "text": "mojs  ️",
+      "fx": -835.5243055555555,
+      "fy": -82.46238425925924,
+      "category": "mindmap"
+    },
+    {
       "text": "express  ️",
       "url": "/web-development/javascript-libraries/express",
       "fx": 3883.946539256199,
@@ -172,10 +186,23 @@
       "category": "mindmap"
     },
     {
+      "text": "angular 2  ️",
+      "url": "/web-development/javascript-libraries/angular-2",
+      "fx": 1390.3834634355799,
+      "fy": -56.03223555894931,
+      "category": "mindmap"
+    },
+    {
       "text": "ember.js  ️",
       "url": "/web-development/javascript-libraries/emberjs",
       "fx": -507.2401677117383,
       "fy": -55.60482956439387,
+      "category": "mindmap"
+    },
+    {
+      "text": "preact  ️",
+      "fx": -648.1077665308364,
+      "fy": -54.25887593202708,
       "category": "mindmap"
     },
     {
@@ -193,24 +220,10 @@
       "category": "mindmap"
     },
     {
-      "text": "react native  ️",
-      "url": "/web-development/javascript-libraries/react-native",
-      "fx": 562.1045914763256,
-      "fy": -43.66426495454755,
-      "category": "mindmap"
-    },
-    {
       "text": "meteor  ️",
       "url": "/web-development/javascript-libraries/meteor",
       "fx": 793.2709400226477,
       "fy": -43.613456236261754,
-      "category": "mindmap"
-    },
-    {
-      "text": "angular 2  ️",
-      "url": "/web-development/javascript-libraries/angular-2",
-      "fx": 1359.0381256351625,
-      "fy": -43.21007209095535,
       "category": "mindmap"
     },
     {
@@ -225,6 +238,13 @@
       "url": "/web-development/javascript-libraries/d3js",
       "fx": 1163.7368449312694,
       "fy": -40.196091065292194,
+      "category": "mindmap"
+    },
+    {
+      "text": "react native  ️",
+      "url": "/web-development/javascript-libraries/react-native",
+      "fx": 606.4037322998047,
+      "fy": -38.73738622665405,
       "category": "mindmap"
     },
     {
@@ -298,6 +318,18 @@
       "category": "mindmap"
     },
     {
+      "text": "angularJS  ️",
+      "fx": 1320.347046903099,
+      "fy": 40.78473478125636,
+      "category": "mindmap"
+    },
+    {
+      "text": "NativeScript  ️",
+      "fx": 572.1220703125,
+      "fy": 73.072265625,
+      "category": "mindmap"
+    },
+    {
       "text": "async",
       "url": "https://github.com/caolan/async",
       "fx": 2100.1514121519176,
@@ -351,8 +383,8 @@
       "source": "native mobile apps",
       "target": "react native  ️",
       "curve": {
-        "x": -15.4487,
-        "y": 68.8507
+        "x": 6.70087,
+        "y": 71.3141
       }
     },
     {
@@ -439,8 +471,8 @@
       "source": "single page apps",
       "target": "angular 2  ️",
       "curve": {
-        "x": 4.82297,
-        "y": 67.0458
+        "x": 20.4957,
+        "y": 60.6347
       }
     },
     {
@@ -657,6 +689,46 @@
       "curve": {
         "x": 57.84,
         "y": 63.9361
+      }
+    },
+    {
+      "source": "front end",
+      "target": "preact  ️",
+      "curve": {
+        "x": -285.933,
+        "y": 53.1191
+      }
+    },
+    {
+      "source": "native mobile apps",
+      "target": "NativeScript  ️",
+      "curve": {
+        "x": -100.183,
+        "y": 134.928
+      }
+    },
+    {
+      "source": "single page apps",
+      "target": "angularJS  ️",
+      "curve": {
+        "x": -58.1856,
+        "y": 89.898
+      }
+    },
+    {
+      "source": "javascript libraries",
+      "target": "motion graphics",
+      "curve": {
+        "x": -1119.41,
+        "y": 5.98634
+      }
+    },
+    {
+      "source": "motion graphics",
+      "target": "mojs  ️",
+      "curve": {
+        "x": -102.258,
+        "y": 57.4627
       }
     }
   ]

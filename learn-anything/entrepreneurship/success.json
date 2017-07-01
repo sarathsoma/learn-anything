@@ -1,5 +1,7 @@
 {
   "title": "learn anything - entrepreneurship - success",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "success",
@@ -9,10 +11,10 @@
       "category": "wiki"
     },
     {
-      "text": "help",
+      "text": "articles",
       "url": "",
-      "fx": 7.023014998846634,
-      "fy": 26.482046232290543
+      "fx": -3.9769850011533663,
+      "fy": 28.896611290770068
     },
     {
       "text": "basics",
@@ -26,73 +28,82 @@
     {
       "text": "13 lessons I learned  ️",
       "url": "https://brightreads.com/13-lessons-learned-e4f8ceb21e60",
-      "fx": 144.02301499884663,
-      "fy": -110.01795376770946,
+      "fx": 157.02301499884663,
+      "fy": -127.60338870922993,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "articles"
     },
     {
       "text": "the best  ️",
       "url": "https://dcurt.is/the-best",
-      "fx": 144.02301499884663,
-      "fy": -70.01795376770946,
+      "fx": 157.02301499884663,
+      "fy": -87.60338870922993,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "parent": "articles"
     },
     {
       "text": "on connecting  ️",
       "url": "https://medium.com/@dustinfarivar/on-connecting-6b748ade09a3",
-      "fx": 144.02301499884663,
-      "fy": -30.017953767709457,
+      "fx": 157.02301499884663,
+      "fy": -47.60338870922993,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
+      "parent": "articles"
     },
     {
       "text": "how to make wealth  ️",
       "url": "http://paulgraham.com/wealth.html",
-      "fx": 144.02301499884663,
-      "fy": 9.982046232290543,
+      "fx": 157.02301499884663,
+      "fy": -7.603388709229932,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
+      "parent": "articles"
     },
     {
       "text": "why didn’t I do this sooner",
       "url": "https://news.ycombinator.com/item?id=12186587",
-      "fx": 144.02301499884663,
-      "fy": 49.98204623229054,
+      "fx": 157.02301499884663,
+      "fy": 32.39661129077007,
       "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
+      "parent": "articles"
     },
     {
       "text": "8 things you should be doing before 8 A.M.  ️",
       "url": "https://themission.co/8-things-every-person-should-do-before-8-a-m-cc0233e15c8d",
-      "fx": 144.02301499884663,
-      "fy": 83.98204623229054,
+      "fx": 157.02301499884663,
+      "fy": 66.39661129077007,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "help"
+      "parent": "articles"
     },
     {
       "text": "life is short  ️",
       "url": "http://paulgraham.com/vb.html",
-      "fx": 144.02301499884663,
-      "fy": 145.98204623229054,
+      "fx": 157.02301499884663,
+      "fy": 128.39661129077007,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "articles"
     },
     {
       "text": "the day I did something  ️",
       "url": "http://www.frankwiles.com/posts/2015/day-i-did-something/",
-      "fx": 144.02301499884663,
-      "fy": 185.98204623229054,
+      "fx": 157.02301499884663,
+      "fy": 168.39661129077007,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "parent": "articles"
+    },
+    {
+      "text": "copy what you like  ️",
+      "url": "http://paulgraham.com/copy.html",
+      "fx": 157.02301499884663,
+      "fy": 208.39661129077007,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
     },
     {
       "text": "1. how to win friends and influence people",
@@ -106,11 +117,11 @@
   ],
   "connections": [
     {
-      "source": "help",
+      "source": "articles",
       "target": "success",
       "curve": {
-        "x": -75.1507,
-        "y": -64.5162
+        "x": -69.6507,
+        "y": -65.7235
       }
     },
     {

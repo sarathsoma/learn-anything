@@ -1,5 +1,7 @@
 {
   "title": "learn anything - engineering - electrical engineering - electronics - electronic circuits - hardware description languages - vhdl",
+  "tag": "VHDL",
+  "description": "",
   "nodes": [
     {
       "text": "VHDL",
@@ -20,9 +22,18 @@
       "text": "",
       "url": "https://www.reddit.com/r/VHDL/",
       "fx": 145.71162180656927,
-      "fy": -90.90117472627742,
+      "fy": -110.90117472627742,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "VHDL"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/vhdl",
+      "fx": 145.71162180656927,
+      "fy": -70.90117472627742,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "VHDL"
     },
     {

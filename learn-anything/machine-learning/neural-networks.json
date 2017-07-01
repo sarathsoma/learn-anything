@@ -1,37 +1,39 @@
 {
   "title": "learn anything - machine learning - neural networks",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "neural networks",
       "url": "http://www.wikiwand.com/en/Artificial_neural_network",
       "fx": 104.8671875,
-      "fy": -133.88671875,
+      "fy": -160.21784855769232,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 324.9246972777263,
-      "fy": -37.79603002564721
+      "fx": 370.59761810689713,
+      "fy": -67.45773550766518
     },
     {
       "text": "papers",
       "url": "",
-      "fx": 438.8088349516929,
-      "fy": 49.157909270475955
+      "fx": 511.3109981830305,
+      "fy": 46.55677560659569
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 579.3852499951527,
-      "fy": 235.66734503466614
+      "fx": 626.0329636793876,
+      "fy": 177.00146366999684
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 3.698920249938965,
-      "fy": 341.3378151036517
+      "fx": 37.95587921142578,
+      "fy": 296.35888671875
     },
     {
       "text": "generative adversarial networks  ️",
@@ -42,8 +44,8 @@
     },
     {
       "text": "dropout  ️",
-      "fx": 348.60875092455626,
-      "fy": 589.8923490156624,
+      "fx": 348.28228759765625,
+      "fy": 592.483039855957,
       "category": "mindmap"
     },
     {
@@ -84,19 +86,37 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/neuralnetworks/",
+      "fx": 375.8671875,
+      "fy": -146.21784855769232,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "neural networks"
+    },
+    {
       "text": "types of artificial neural networks",
       "url": "http://www.wikiwand.com/en/Types_of_artificial_neural_networks",
-      "fx": 461.9246972777263,
-      "fy": -37.29603002564721,
+      "fx": 507.59761810689713,
+      "fy": -86.95773550766518,
       "category": "wiki",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
+      "text": "play with neural networks",
+      "url": "http://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.94493&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false",
+      "fx": 507.59761810689713,
+      "fy": -24.957735507665177,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "15: learning both weights and connections for efficient neural networks",
       "url": "https://arxiv.org/abs/1506.02626",
-      "fx": 599.8088349516929,
-      "fy": 38.657909270475955,
+      "fx": 672.3109981830305,
+      "fy": 36.05677560659569,
       "category": "paper",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "papers"
@@ -104,8 +124,8 @@
     {
       "text": "the universal approximation theorem for neural networks  ️",
       "url": "http://mcneela.github.io/machine_learning/2017/03/21/Universal-Approximation-Theorem.html",
-      "fx": 741.3852499951527,
-      "fy": 205.16734503466614,
+      "fx": 788.0329636793876,
+      "fy": 146.50146366999684,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -113,17 +133,34 @@
     {
       "text": "16: how to code and understand DeepMind’s neural stack machine  ️",
       "url": "https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/?i=4",
-      "fx": 741.3852499951527,
-      "fy": 267.16734503466614,
+      "fx": 788.0329636793876,
+      "fy": 208.50146366999684,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "gentle introduction to neural networks",
+      "url": "https://www.youtube.com/watch?v=2sevic5Vy4E",
+      "fx": 219.95587921142578,
+      "fy": 109.85888671875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. using neural nets to recognise handwritten digits",
+      "url": "http://neuralnetworksanddeeplearning.com/chap1",
+      "fx": 219.95587921142578,
+      "fy": 171.85888671875,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. neural nets notes  ️",
       "url": "http://frnsys.com/ai_notes/machine_learning/neural_nets.html",
-      "fx": 185.69892024993896,
-      "fy": 213.83781510365168,
+      "fx": 219.95587921142578,
+      "fy": 227.85888671875,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
@@ -131,8 +168,8 @@
     {
       "text": "1. hacker's guide to neural networks  ️",
       "url": "http://karpathy.github.io/neuralnets/",
-      "fx": 185.69892024993896,
-      "fy": 253.83781510365168,
+      "fx": 219.95587921142578,
+      "fy": 267.85888671875,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -140,8 +177,8 @@
     {
       "text": "1. recurrent neural networks lecture",
       "url": "http://videolectures.net/deeplearning2016_bengio_neural_networks/",
-      "fx": 185.69892024993896,
-      "fy": 315.8378151036517,
+      "fx": 219.95587921142578,
+      "fy": 329.85888671875,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -149,24 +186,24 @@
     {
       "text": "1. neural networks explained",
       "url": "http://natureofcode.com/book/chapter-10-neural-networks/",
-      "fx": 185.69892024993896,
-      "fy": 377.8378151036517,
+      "fx": 219.95587921142578,
+      "fy": 391.85888671875,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. understanding neural networks",
       "url": "",
-      "fx": 185.69892024993896,
-      "fy": 454.8378151036517,
+      "fx": 219.95587921142578,
+      "fy": 468.85888671875,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
     {
       "text": "part I  ️",
       "url": "https://amva4newphysics.wordpress.com/2017/03/21/understanding-neural-networks-part-i/",
-      "fx": 526.698920249939,
-      "fy": 411.8378151036517,
+      "fx": 560.9558792114258,
+      "fy": 425.85888671875,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "1. understanding neural networks"
@@ -174,8 +211,8 @@
     {
       "text": "part II - back-propagation  ️",
       "url": "https://amva4newphysics.wordpress.com/2017/03/28/understanding-neural-networks-part-ii-back-propagation/",
-      "fx": 526.698920249939,
-      "fy": 451.8378151036517,
+      "fx": 560.9558792114258,
+      "fy": 465.85888671875,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "1. understanding neural networks"
@@ -183,8 +220,8 @@
     {
       "text": "part III - diagnosis and treatment  ️",
       "url": "https://amva4newphysics.wordpress.com/2017/04/03/understanding-neural-networks-part-iii-diagnosis-and-treatment/",
-      "fx": 526.698920249939,
-      "fy": 491.8378151036517,
+      "fx": 560.9558792114258,
+      "fy": 505.85888671875,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "1. understanding neural networks"
@@ -195,88 +232,88 @@
       "source": "neural networks",
       "target": "basics",
       "curve": {
-        "x": -72.0842,
-        "y": 237.613
+        "x": -54.9558,
+        "y": 228.289
       }
     },
     {
       "source": "help",
       "target": "neural networks",
       "curve": {
-        "x": -83.7787,
-        "y": -48.0454
+        "x": -106.615,
+        "y": -46.3801
       }
     },
     {
       "source": "basics",
       "target": "recurrent neural networks  ️",
       "curve": {
-        "x": -87.9078,
-        "y": 213.758
+        "x": -105.036,
+        "y": 236.247
       }
     },
     {
       "source": "basics",
       "target": "convolutional neural networks  ️",
       "curve": {
-        "x": -185.35,
-        "y": 172.129
+        "x": -202.478,
+        "y": 194.618
       }
     },
     {
       "source": "papers",
       "target": "help",
       "curve": {
-        "x": -62.9421,
-        "y": -43.477
+        "x": -89.058,
+        "y": -46.7128
       }
     },
     {
       "source": "articles",
       "target": "papers",
       "curve": {
-        "x": -70.5382,
-        "y": -93.2548
+        "x": -57.6109,
+        "y": -65.2224
       }
     },
     {
       "source": "basics",
       "target": "feedforward neural network  ️",
       "curve": {
-        "x": -259.293,
-        "y": 126.458
+        "x": -276.421,
+        "y": 148.947
       }
     },
     {
       "source": "basics",
       "target": "backpropagation  ️",
       "curve": {
-        "x": 52.5065,
-        "y": 243.508
+        "x": 35.3781,
+        "y": 265.997
       }
     },
     {
       "source": "basics",
       "target": "generative adversarial networks  ️",
       "curve": {
-        "x": -308.909,
-        "y": 78.6176
+        "x": -326.037,
+        "y": 101.107
       }
     },
     {
       "source": "basics",
       "target": "relation networks  ️",
       "curve": {
-        "x": 101.026,
-        "y": 197.241
+        "x": 83.8978,
+        "y": 219.73
       }
     },
     {
       "source": "basics",
       "target": "dropout  ️",
       "curve": {
-        "x": 130.441,
-        "y": 160.348
+        "x": 113.15,
+        "y": 184.132
       }
     }
   ]

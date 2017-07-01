@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - dynamical system",
+  "tag": "dynamical systems",
+  "description": "",
   "nodes": [
     {
       "text": "dynamical system",
@@ -11,26 +13,26 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -55.67588611045187,
-      "fy": -105.92277327741039
+      "fx": -54.92011165393012,
+      "fy": -103.74886023393213
     },
     {
       "text": "N-body simulation  ️",
       "url": "/mathematics/dynamical-system/n-body-simulation",
-      "fx": -268.85836528175435,
-      "fy": 22.773225960859463,
+      "fx": -298.5713408252327,
+      "fy": 93.66883284491746,
       "category": "mindmap"
     },
     {
       "text": "software help",
       "url": "",
-      "fx": 69.04306789340171,
-      "fy": 27.211215101522612
+      "fx": 39.33009234992335,
+      "fy": 98.10682198558061
     },
     {
       "text": "Simulink  ️",
-      "fx": 284.6103464528977,
-      "fy": 116.99571234897473,
+      "fx": 254.89737090941935,
+      "fy": 187.89131923303273,
       "category": "mindmap"
     }
   ],
@@ -38,8 +40,8 @@
     {
       "text": "1. notes on nonlinear dynamics  ️",
       "url": "http://frnsys.com/ai_notes/simulation/nonlinear_dynamics.html",
-      "fx": 100.32411388954813,
-      "fy": -125.42277327741039,
+      "fx": 101.07988834606988,
+      "fy": -143.24886023393213,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -47,10 +49,19 @@
     {
       "text": "1. introduction to linear dynamical systems",
       "url": "https://see.stanford.edu/Course/EE263",
-      "fx": 100.32411388954813,
-      "fy": -85.42277327741039,
+      "fx": 101.07988834606988,
+      "fy": -103.24886023393213,
       "category": "",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. nonlinear dynamics and chaos",
+      "url": "http://arslanranjha.weebly.com/uploads/4/8/9/3/4893701/nonlinear-dynamics-and-chaos-strogatz.pdf",
+      "fx": 101.07988834606988,
+      "fy": -41.248860233932135,
+      "category": "free book",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -59,24 +70,24 @@
       "source": "dynamical system",
       "target": "basics",
       "curve": {
-        "x": -1.56937,
-        "y": 86.9317
+        "x": -1.19148,
+        "y": 88.0187
       }
     },
     {
       "source": "basics",
       "target": "N-body simulation  ️",
       "curve": {
-        "x": -79.8412,
-        "y": 64.348
+        "x": -95.0756,
+        "y": 98.7088
       }
     },
     {
       "source": "basics",
       "target": "software help",
       "curve": {
-        "x": 78.1095,
-        "y": 66.567
+        "x": 62.8751,
+        "y": 100.928
       }
     },
     {

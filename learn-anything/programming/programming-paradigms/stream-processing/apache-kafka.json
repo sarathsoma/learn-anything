@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming paradigms - stream processing - apache kafka",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "apache kafka",
@@ -24,7 +26,7 @@
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
       "url": "https://github.com/apache/kafka",
       "fx": 160.51462765957444,
       "fy": -243.75856050531922,

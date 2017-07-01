@@ -1,5 +1,7 @@
 {
   "title": "learn anything - entrepreneurship",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "entrepreneurship",
@@ -38,6 +40,15 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/Entrepreneur/",
+      "fx": 137.1165359814962,
+      "fy": -618.5599110921224,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "entrepreneurship"
+    },
+    {
       "text": "resources to build your own startup",
       "url": "https://github.com/KrishMunot/awesome-startup",
       "fx": 149.73416758849555,
@@ -59,7 +70,7 @@
       "text": "1. startup school lectures",
       "url": "https://www.startupschool.org/",
       "fx": 80.36048119469024,
-      "fy": -430.7346611753669,
+      "fy": -419.7346611753669,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -68,7 +79,7 @@
       "text": "1. how to start a startup",
       "url": "https://leanpub.com/how_to_start_a_startup",
       "fx": 80.36048119469024,
-      "fy": -390.7346611753669,
+      "fy": -379.7346611753669,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -77,7 +88,7 @@
       "text": "1. khan academy entrepreneurship",
       "url": "https://www.khanacademy.org/economics-finance-domain/entrepreneurship2",
       "fx": 80.36048119469024,
-      "fy": -350.7346611753669,
+      "fy": -339.7346611753669,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"

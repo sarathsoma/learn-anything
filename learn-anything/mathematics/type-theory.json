@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - type theory",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "type theory",
@@ -100,7 +102,7 @@
       "text": "1. where to start learning type theory  ️",
       "url": "http://purelytheoretical.com/sywtltt.html",
       "fx": 285.40393698240166,
-      "fy": 215.786838444617,
+      "fy": 195.786838444617,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -109,7 +111,7 @@
       "text": "1. proofs and types",
       "url": "http://www.paultaylor.eu/stable/prot.pdf",
       "fx": 285.40393698240166,
-      "fy": 277.786838444617,
+      "fy": 257.786838444617,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -118,9 +120,18 @@
       "text": "1. type theory and functional programming",
       "url": "https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/",
       "fx": 285.40393698240166,
-      "fy": 317.786838444617,
+      "fy": 297.786838444617,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. propositions as types",
+      "url": "http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf",
+      "fx": 285.40393698240166,
+      "fy": 359.786838444617,
+      "category": "paper",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],

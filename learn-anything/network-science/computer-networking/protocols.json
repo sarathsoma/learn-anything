@@ -1,5 +1,7 @@
 {
   "title": "learn anything - network science - computer networking - protocols",
+  "tag": "networking protocols",
+  "description": "",
   "nodes": [
     {
       "text": "protocols",
@@ -80,6 +82,12 @@
       "url": "/network-science/computer-networking/protocols/tls",
       "fx": 637.8561096191406,
       "fy": -232.39275360107422,
+      "category": "mindmap"
+    },
+    {
+      "text": "RADIUS  ️",
+      "fx": 893.9562853294442,
+      "fy": -227.23994214804827,
       "category": "mindmap"
     }
   ],
@@ -171,6 +179,14 @@
       "curve": {
         "x": 560.776,
         "y": 92.6282
+      }
+    },
+    {
+      "source": "protocols",
+      "target": "RADIUS  ️",
+      "curve": {
+        "x": 647.827,
+        "y": 48.8509
       }
     }
   ]

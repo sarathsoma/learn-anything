@@ -1,5 +1,7 @@
 {
   "title": "learn anything - design - user experience",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "user experience",
@@ -24,37 +26,46 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -68.00108799185159,
-      "fy": 285.92886325535153
-    },
-    {
-      "text": "user centered design",
-      "url": "http://www.wikiwand.com/en/User-centered_design",
-      "fx": 18.69207033256282,
-      "fy": 419.79344156608465,
-      "category": "wiki"
+      "fx": -85.34748629693615,
+      "fy": 290.3846365604363
     },
     {
       "text": "interaction design",
       "url": "http://www.wikiwand.com/en/Interaction_design",
-      "fx": -246.31393681524526,
-      "fy": 434.4518798576652,
+      "fx": -265.64325355253345,
+      "fy": 422.48485125597017,
+      "category": "wiki"
+    },
+    {
+      "text": "user centered design",
+      "url": "http://www.wikiwand.com/en/User-centered_design",
+      "fx": -11.207294074216861,
+      "fy": 425.02053372710145,
       "category": "wiki"
     },
     {
       "text": "user research",
       "url": "http://www.wikiwand.com/en/User_Research",
-      "fx": 52.44213856861245,
-      "fy": 533.4372492969611,
+      "fx": 22.542774161832767,
+      "fy": 538.6643414579779,
       "category": "wiki"
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/userexperience/",
+      "fx": 184.73994183540344,
+      "fy": -193.66955964039948,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "user experience"
+    },
+    {
       "text": "️",
       "url": "https://ux.stackexchange.com/",
       "fx": 184.73994183540344,
-      "fy": -173.66955964039948,
+      "fy": -153.66955964039948,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "user experience"
@@ -123,17 +134,26 @@
     {
       "text": "1. hack design",
       "url": "https://hackdesign.org/",
-      "fx": 113.99891200814841,
-      "fy": 277.42886325535153,
+      "fx": 96.65251370306385,
+      "fy": 261.8846365604363,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. UI/UX roadmap",
+      "url": "https://github.com/togiberlin/ui-ux-designer-roadmap",
+      "fx": 96.65251370306385,
+      "fy": 301.8846365604363,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. ten skills to become UX unicorn  ️",
       "url": "https://medium.com/@uxmuch/ten-skills-you-need-to-be-a-ux-unicorn-f7ec555981b0",
-      "fx": 113.99891200814841,
-      "fy": 317.42886325535153,
+      "fx": 96.65251370306385,
+      "fy": 341.8846365604363,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -144,8 +164,8 @@
       "source": "user experience",
       "target": "basics",
       "curve": {
-        "x": -14.8705,
-        "y": 236.798
+        "x": -23.5437,
+        "y": 239.026
       }
     },
     {
@@ -168,8 +188,8 @@
       "source": "basics",
       "target": "interaction design",
       "curve": {
-        "x": -62.9064,
-        "y": 75.5115
+        "x": -63.8979,
+        "y": 67.3001
       }
     },
     {
@@ -184,8 +204,8 @@
       "source": "basics",
       "target": "user centered design",
       "curve": {
-        "x": 77.0965,
-        "y": 68.1823
+        "x": 70.82,
+        "y": 68.568
       }
     }
   ]

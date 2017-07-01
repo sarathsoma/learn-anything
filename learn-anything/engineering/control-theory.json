@@ -1,5 +1,7 @@
 {
   "title": "learn anything - engineering - control theory",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "control theory",
@@ -28,8 +30,14 @@
     },
     {
       "text": "PID controller  ️",
-      "fx": -89.44968971631215,
-      "fy": 240.18827570923247,
+      "fx": -139.18096187943274,
+      "fy": 235.9966755319274,
+      "category": "mindmap"
+    },
+    {
+      "text": "stochastic control  ️",
+      "fx": 69.533203125,
+      "fy": 238.744140625,
       "category": "mindmap"
     }
   ],
@@ -126,8 +134,16 @@
       "source": "basics",
       "target": "PID controller  ️",
       "curve": {
-        "x": -50.9767,
-        "y": 81.9775
+        "x": -75.8423,
+        "y": 79.8817
+      }
+    },
+    {
+      "source": "basics",
+      "target": "stochastic control  ️",
+      "curve": {
+        "x": 38.0148,
+        "y": 81.2554
       }
     }
   ]

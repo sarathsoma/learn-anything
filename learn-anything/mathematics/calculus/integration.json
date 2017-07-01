@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - calculus - integration",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "integration",
@@ -24,8 +26,8 @@
     {
       "text": "multiple integrals  ️",
       "url": "/mathematics/calculus/integration/multiple-integrals",
-      "fx": -324.8292170698926,
-      "fy": 254.09181787634395,
+      "fx": -323.742374420166,
+      "fy": 254.09181213378906,
       "category": "mindmap"
     },
     {
@@ -39,6 +41,12 @@
       "text": "Laplace transform  ️",
       "fx": 442.1620278857321,
       "fy": 256.0906014082463,
+      "category": "mindmap"
+    },
+    {
+      "text": "line integrals  ️",
+      "fx": -510.8860898526076,
+      "fy": 260.0254570578231,
       "category": "mindmap"
     }
   ],
@@ -90,8 +98,16 @@
       "source": "basics",
       "target": "multiple integrals  ️",
       "curve": {
-        "x": -186.632,
+        "x": -186.089,
         "y": 82.7046
+      }
+    },
+    {
+      "source": "basics",
+      "target": "line integrals  ️",
+      "curve": {
+        "x": -311.065,
+        "y": 28.5708
       }
     }
   ]

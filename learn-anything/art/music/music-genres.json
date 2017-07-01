@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - music - music genres",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "music genres",
@@ -30,11 +32,10 @@
       "category": "mindmap"
     },
     {
-      "text": "blues",
-      "url": "http://www.wikiwand.com/en/Blues",
-      "fx": 75.67829123866011,
+      "text": "blues  ️",
+      "fx": 76.67829123866011,
       "fy": 157.20703497299587,
-      "category": "wiki"
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -74,9 +75,9 @@
     },
     {
       "source": "basics",
-      "target": "blues",
+      "target": "blues  ️",
       "curve": {
-        "x": 77.7959,
+        "x": 78.2959,
         "y": 69.7897
       }
     }

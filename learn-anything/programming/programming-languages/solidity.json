@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - solidity",
+  "tag": "solidity programming language",
+  "description": "",
   "nodes": [
     {
       "text": "solidity",
@@ -24,7 +26,7 @@
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
       "url": "https://github.com/ethereum/solidity",
       "fx": 56.20715671743096,
       "fy": -188.20692347372267,

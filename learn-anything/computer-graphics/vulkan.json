@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer graphics - vulkan",
+  "tag": "vulkan graphics api",
+  "description": "",
   "nodes": [
     {
       "text": "vulkan",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/vulkan/",
+      "fx": 129.3147035256427,
+      "fy": -463.46246722032225,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "vulkan"
+    },
     {
       "text": "awesome vulkan",
       "url": "https://github.com/vinjn/awesome-vulkan",

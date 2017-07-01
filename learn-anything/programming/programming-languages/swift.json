@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - swift",
+  "tag": "swift programming language",
+  "description": "",
   "nodes": [
     {
       "text": "swift",
@@ -128,12 +130,21 @@
   ],
   "subnodes": [
     {
-      "text": "swift",
+      "text": "",
       "url": "https://www.reddit.com/r/swift/",
       "fx": 331.0618864815293,
-      "fy": -957.6240939501465,
+      "fy": -977.6240939501465,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "swift"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/apple/swift",
+      "fx": 331.0618864815293,
+      "fy": -937.6240939501465,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "swift"
     },
     {

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - electromagnetism - electromagnetic radiation",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "electromagnetic radiation",
@@ -15,17 +17,29 @@
       "fy": -3.9794407894735855
     },
     {
-      "text": "redshift  ️",
-      "url": "/physics/electromagnetism/electromagnetic-radiation/redshift",
-      "fx": -180.12304006968645,
-      "fy": 131.1423671602787,
+      "text": "light  ️",
+      "url": "/physics/electromagnetism/electromagnetic-radiation/light",
+      "fx": 132.9245468019327,
+      "fy": 116.79890369979819,
       "category": "mindmap"
     },
     {
-      "text": "light  ️",
-      "url": "/physics/electromagnetism/electromagnetic-radiation/light",
-      "fx": 38.30920963087988,
-      "fy": 153.14450402874547,
+      "text": "microwaves  ️",
+      "fx": -206.48287898936178,
+      "fy": 167.73196476063833,
+      "category": "mindmap"
+    },
+    {
+      "text": "redshift  ️",
+      "url": "/physics/electromagnetism/electromagnetic-radiation/redshift",
+      "fx": -14.284224280212925,
+      "fy": 170.34158591027858,
+      "category": "mindmap"
+    },
+    {
+      "text": "black-body radiation  ️",
+      "fx": -484.2141633580951,
+      "fy": 173.74126163335598,
       "category": "mindmap"
     }
   ],
@@ -62,16 +76,32 @@
       "source": "basics",
       "target": "light  ️",
       "curve": {
-        "x": 38.8968,
-        "y": 78.562
+        "x": 79.2943,
+        "y": 81.0689
       }
     },
     {
       "source": "basics",
       "target": "redshift  ️",
       "curve": {
-        "x": -62.8194,
-        "y": 67.5609
+        "x": 20.1,
+        "y": 87.1605
+      }
+    },
+    {
+      "source": "basics",
+      "target": "microwaves  ️",
+      "curve": {
+        "x": -68.2493,
+        "y": 85.8557
+      }
+    },
+    {
+      "source": "basics",
+      "target": "black-body radiation  ️",
+      "curve": {
+        "x": -185.365,
+        "y": 88.8604
       }
     }
   ]

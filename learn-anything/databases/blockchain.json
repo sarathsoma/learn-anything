@@ -1,5 +1,7 @@
 {
   "title": "learn anything - databases - blockchain",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "blockchain",
@@ -30,19 +32,37 @@
   ],
   "subnodes": [
     {
-      "text": "blockchain in 200 lines of code",
-      "url": "https://github.com/lhartikk/naivechain",
+      "text": "",
+      "url": "https://www.reddit.com/r/BlockChain/",
+      "fx": 496.80553436279297,
+      "fy": -44.73055601119995,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "blockchain"
+    },
+    {
+      "text": "blockchain resources",
+      "url": "https://github.com/Xel/Blockchain-stuff",
       "fx": 542.78637007951,
       "fy": 62.9418529501217,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "blockchain in 200 lines of code",
+      "url": "https://github.com/lhartikk/naivechain",
+      "fx": 641.6285104799898,
+      "fy": 142.67242512031402,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
     },
     {
       "text": "awesome non financial blockchain",
       "url": "https://github.com/machinomy/awesome-non-financial-blockchain",
       "fx": 641.6285104799898,
-      "fy": 162.67242512031402,
+      "fy": 182.67242512031402,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"

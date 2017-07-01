@@ -1,5 +1,7 @@
 {
   "title": "learn anything - machine learning",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "machine learning",
@@ -124,7 +126,7 @@
       "text": "machine learning for software engineers",
       "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
       "fx": 718.4590377807613,
-      "fy": -1872.0826895577566,
+      "fy": -1892.0826895577566,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -133,7 +135,7 @@
       "text": "machine learning requirements list",
       "url": "https://metacademy.org/roadmaps/cjrd/level-up-your-ml",
       "fx": 718.4590377807613,
-      "fy": -1810.0826895577566,
+      "fy": -1830.0826895577566,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -141,7 +143,7 @@
       "text": "machine learning concept map",
       "url": "https://fkcd.ca/EpU.svg",
       "fx": 718.4590377807613,
-      "fy": -1776.0826895577566,
+      "fy": -1796.0826895577566,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -149,7 +151,7 @@
       "text": "machine learning tutorials",
       "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials",
       "fx": 718.4590377807613,
-      "fy": -1742.0826895577566,
+      "fy": -1762.0826895577566,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -158,7 +160,7 @@
       "text": "awesome machine learning",
       "url": "https://github.com/josephmisiti/awesome-machine-learning",
       "fx": 718.4590377807613,
-      "fy": -1702.0826895577566,
+      "fy": -1722.0826895577566,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -167,7 +169,7 @@
       "text": "machine learning in python course",
       "url": "https://www.springboard.com/learning-paths/machine-learning-python/",
       "fx": 718.4590377807613,
-      "fy": -1662.0826895577566,
+      "fy": -1682.0826895577566,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
@@ -175,7 +177,7 @@
       "text": "dive into machine learning",
       "url": "https://github.com/hangtwenty/dive-into-machine-learning",
       "fx": 718.4590377807613,
-      "fy": -1628.0826895577566,
+      "fy": -1648.0826895577566,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -184,7 +186,7 @@
       "text": "machine learning resources",
       "url": "http://www.ritchieng.com/machine-learning-resources/",
       "fx": 718.4590377807613,
-      "fy": -1588.0826895577566,
+      "fy": -1608.0826895577566,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -192,7 +194,7 @@
       "text": "how to learn machine learning",
       "url": "https://elitedatascience.com/learn-machine-learning",
       "fx": 718.4590377807613,
-      "fy": -1554.0826895577566,
+      "fy": -1574.0826895577566,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -201,7 +203,7 @@
       "note": "- weekly workshop series at ITP to teach machine learning with a focus on deep learning",
       "url": "https://github.com/shekit/machine-learning-demystified",
       "fx": 718.4590377807613,
-      "fy": -1520.0826895577566,
+      "fy": -1540.0826895577566,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -210,7 +212,7 @@
       "text": "awesome public datasets",
       "url": "https://github.com/caesar0301/awesome-public-datasets",
       "fx": 718.4590377807613,
-      "fy": -1480.0826895577566,
+      "fy": -1500.0826895577566,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -219,7 +221,7 @@
       "text": "neural network playground",
       "url": "http://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.18535&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false",
       "fx": 718.4590377807613,
-      "fy": -1440.0826895577566,
+      "fy": -1460.0826895577566,
       "category": "interactive",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -228,7 +230,7 @@
       "text": "ml from scratch",
       "url": "https://github.com/eriklindernoren/ML-From-Scratch",
       "fx": 718.4590377807613,
-      "fy": -1400.0826895577566,
+      "fy": -1420.0826895577566,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -237,7 +239,7 @@
       "text": "books suggested for machine learning study",
       "url": "http://www.statsblogs.com/2014/12/30/machine-learning-books-suggested-by-michael-i-jordan-from-berkeley/",
       "fx": 718.4590377807613,
-      "fy": -1360.0826895577566,
+      "fy": -1380.0826895577566,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -245,7 +247,7 @@
       "text": "is functional analysis relevant to machine learning?",
       "url": "https://www.quora.com/Is-functional-analysis-relevant-to-machine-learning",
       "fx": 718.4590377807613,
-      "fy": -1304.0826895577566,
+      "fy": -1324.0826895577566,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -253,7 +255,7 @@
       "text": "machine learning surveys",
       "url": "https://github.com/metrofun/machine-learning-surveys",
       "fx": 718.4590377807613,
-      "fy": -1248.0826895577566,
+      "fy": -1268.0826895577566,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -262,7 +264,7 @@
       "text": "fantastic machine learning",
       "url": "https://github.com/onmyway133/fantastic-machine-learning",
       "fx": 718.4590377807613,
-      "fy": -1208.0826895577566,
+      "fy": -1228.0826895577566,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -271,7 +273,7 @@
       "text": "machine learning overview  ️",
       "url": "http://frnsys.com/ai_notes/machine_learning/overview.html",
       "fx": 718.4590377807613,
-      "fy": -1168.0826895577566,
+      "fy": -1188.0826895577566,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -280,52 +282,25 @@
       "text": "examples and experiments around ML",
       "url": "https://github.com/CodingTrain/Machine-Learning",
       "fx": 718.4590377807613,
-      "fy": -1128.0826895577566,
+      "fy": -1148.0826895577566,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
-      "text": "16: attention and augmented recurrent neural networks",
-      "url": "http://distill.pub/2016/augmented-rnns/",
-      "fx": 1233.2839965820312,
-      "fy": -1127.541030883789,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "16: categorical variational autoencoders using gumbel-softmax  ️",
-      "url": "http://blog.evjang.com/2016/11/tutorial-categorical-variational.html",
-      "fx": 1233.2839965820312,
-      "fy": -1065.541030883789,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: a casual intro to machine learning  ️",
-      "url": "https://blog.intracto.com/a-casual-intro-to-machine-learning",
-      "fx": 1233.2839965820312,
-      "fy": -981.5410308837891,
-      "category": "article",
+      "text": "machine learning tutorials",
+      "url": "https://github.com/ethen8181/machine-learning",
+      "fx": 718.4590377807613,
+      "fy": -1086.0826895577566,
+      "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: back to the core of intelligence … to really move to the future  ️",
-      "url": "https://medium.com/ai-roadmap-institute/back-to-the-core-of-intelligence-to-really-move-to-the-future-8eb476c5dd36",
-      "fx": 1233.2839965820312,
-      "fy": -919.5410308837891,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
+      "parent": "help"
     },
     {
       "text": "four experiments in handwriting with a neural network",
       "url": "http://distill.pub/2016/handwriting/",
       "fx": 1233.2839965820312,
-      "fy": -835.5410308837891,
+      "fy": -1169.541030883789,
       "category": "interactive",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -334,7 +309,7 @@
       "text": "confounding variables  ️",
       "url": "http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/",
       "fx": 1233.2839965820312,
-      "fy": -773.5410308837891,
+      "fy": -1107.541030883789,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -343,7 +318,7 @@
       "text": "a beginner's guide to variational methods: mean-field approximation  ️",
       "url": "http://blog.evjang.com/2016/08/variational-bayes.html",
       "fx": 1233.2839965820312,
-      "fy": -733.5410308837891,
+      "fy": -1067.541030883789,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
@@ -352,7 +327,7 @@
       "text": "monte carlo variance reduction techniques in julia  ️",
       "url": "http://blog.evjang.com/2016/09/variance-reduction-part1.html",
       "fx": 1233.2839965820312,
-      "fy": -649.5410308837891,
+      "fy": -983.5410308837891,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "articles"
@@ -361,7 +336,7 @@
       "text": "summary of nips 2016  ️",
       "url": "http://blog.evjang.com/2017/01/nips2016.html",
       "fx": 1233.2839965820312,
-      "fy": -587.5410308837891,
+      "fy": -921.5410308837891,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -370,7 +345,7 @@
       "text": "rich tasks crowdsourcing data for more rich tasks  ️",
       "url": "http://klr.tumblr.com/post/158036182833/rich-tasks-crowdsourcing-data-for-more-rich-tasks",
       "fx": 1233.2839965820312,
-      "fy": -547.5410308837891,
+      "fy": -881.5410308837891,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -379,9 +354,54 @@
       "text": "where do you get your ml news from?  ️",
       "url": "https://badhrink.github.io/where-you-get-ml-news/",
       "fx": 1233.2839965820312,
-      "fy": -485.54103088378906,
+      "fy": -819.5410308837891,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: attention and augmented recurrent neural networks",
+      "url": "http://distill.pub/2016/augmented-rnns/",
+      "fx": 1233.2839965820312,
+      "fy": -757.5410308837891,
+      "category": "interactive",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: categorical variational autoencoders using gumbel-softmax  ️",
+      "url": "http://blog.evjang.com/2016/11/tutorial-categorical-variational.html",
+      "fx": 1233.2839965820312,
+      "fy": -695.5410308837891,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: a casual intro to machine learning  ️",
+      "url": "https://blog.intracto.com/a-casual-intro-to-machine-learning",
+      "fx": 1233.2839965820312,
+      "fy": -612.5410308837891,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: back to the core of intelligence … to really move to the future  ️",
+      "url": "https://medium.com/ai-roadmap-institute/back-to-the-core-of-intelligence-to-really-move-to-the-future-8eb476c5dd36",
+      "fx": 1233.2839965820312,
+      "fy": -550.5410308837891,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: over 150 of the best machine learning, NLP and python tutorials I found  ️",
+      "url": "https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78",
+      "fx": 1233.2839965820312,
+      "fy": -466.54103088378906,
+      "category": "article",
+      "color": "rgba(49, 187, 71, 1.0)",
       "parent": "articles"
     },
     {

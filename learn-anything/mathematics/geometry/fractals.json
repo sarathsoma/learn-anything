@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - geometry - fractals",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "fractals",
@@ -56,7 +58,7 @@
     },
     {
       "text": "how to fold a julia fractal",
-      "url": "",
+      "url": "https://acko.net/blog/how-to-fold-a-julia-fractal/",
       "fx": 337.15625,
       "fy": 223.3007812499999,
       "category": "interactive",

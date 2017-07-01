@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - electromagnetism",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "electromagnetism",
@@ -17,15 +19,15 @@
     {
       "text": "electromagnetic field  ️",
       "url": "/physics/electromagnetism/electromagnetic-field",
-      "fx": -336.9299815733042,
-      "fy": -108.94433972372934,
+      "fx": -375.93219993750176,
+      "fy": -85.92881117434666,
       "category": "mindmap"
     },
     {
       "text": "Lorentz force  ️",
       "url": "/physics/electromagnetism/lorentz-force",
-      "fx": 163.5942796005413,
-      "fy": -33.83883169814692,
+      "fx": 182.20442620547965,
+      "fy": -25.474151914196227,
       "category": "mindmap"
     },
     {
@@ -44,8 +46,8 @@
     {
       "text": "magnets  ️",
       "url": "/physics/electromagnetism/magnet",
-      "fx": -93.64959768963672,
-      "fy": 108.16076555822656,
+      "fx": -96.14525741185889,
+      "fy": 107.54348160760924,
       "category": "mindmap"
     }
   ],
@@ -82,24 +84,24 @@
       "source": "basics",
       "target": "magnets  ️",
       "curve": {
-        "x": -53.8952,
-        "y": 135.035
+        "x": -55.143,
+        "y": 134.726
       }
     },
     {
       "source": "basics",
       "target": "Lorentz force  ️",
       "curve": {
-        "x": 87.2269,
-        "y": 64.0357
+        "x": 96.532,
+        "y": 68.218
       }
     },
     {
       "source": "basics",
       "target": "electromagnetic field  ️",
       "curve": {
-        "x": -146.286,
-        "y": 26.4829
+        "x": -165.787,
+        "y": 37.9907
       }
     },
     {

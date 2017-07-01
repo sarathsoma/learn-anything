@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - optics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "optics",
@@ -14,6 +16,12 @@
       "url": "",
       "fx": -49.62890672683716,
       "fy": 2.9696531295776367
+    },
+    {
+      "text": "Fermat’s principle  ️",
+      "fx": -182.3427734375,
+      "fy": 140.4453125,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -43,6 +51,14 @@
       "curve": {
         "x": -5.48079,
         "y": 67.2374
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Fermat’s principle  ️",
+      "curve": {
+        "x": -47.6069,
+        "y": 68.7378
       }
     }
   ]

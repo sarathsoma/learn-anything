@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - software development",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "software development",
@@ -18,7 +20,7 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 266.762980916616,
+      "fx": 263.5371744650033,
       "fy": -239.77236932863275
     },
     {
@@ -75,6 +77,30 @@
       "fx": -1147.7577213892096,
       "fy": -67.11076268740067,
       "category": "mindmap"
+    },
+    {
+      "text": "domain-driven design  ️",
+      "fx": -1421.6258417725664,
+      "fy": -64.04985082737926,
+      "category": "mindmap"
+    },
+    {
+      "text": "software specifications  ️",
+      "fx": -1710.2642211914062,
+      "fy": -63.781861305236816,
+      "category": "mindmap"
+    },
+    {
+      "text": "code refactoring  ️",
+      "fx": -1932.4093745690586,
+      "fy": -60.52766719745239,
+      "category": "mindmap"
+    },
+    {
+      "text": "debugging  ️",
+      "fx": -2105.511889370447,
+      "fy": -60.466477730384554,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -99,7 +125,7 @@
     {
       "text": "1. the architecture of open source applications",
       "url": "http://aosabook.org/en/index.html",
-      "fx": 422.762980916616,
+      "fx": 419.5371744650033,
       "fy": -239.27236932863275,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
@@ -111,7 +137,7 @@
       "source": "software development",
       "target": "basics",
       "curve": {
-        "x": -3.57445,
+        "x": -5.18735,
         "y": 131.046
       }
     },
@@ -127,7 +153,7 @@
       "source": "basics",
       "target": "software architecture  ️",
       "curve": {
-        "x": -146.315,
+        "x": -144.702,
         "y": 84.0853
       }
     },
@@ -135,7 +161,7 @@
       "source": "basics",
       "target": "devops  ️",
       "curve": {
-        "x": -38.5435,
+        "x": -36.9306,
         "y": 83.9026
       }
     },
@@ -143,7 +169,7 @@
       "source": "basics",
       "target": "software testing  ️",
       "curve": {
-        "x": 64.0298,
+        "x": 65.6427,
         "y": 84.6544
       }
     },
@@ -151,7 +177,7 @@
       "source": "basics",
       "target": "open source  ️",
       "curve": {
-        "x": 173.329,
+        "x": 174.942,
         "y": 83.7652
       }
     },
@@ -159,7 +185,7 @@
       "source": "basics",
       "target": "code review  ️",
       "curve": {
-        "x": -311.799,
+        "x": -310.186,
         "y": 74.9044
       }
     },
@@ -167,7 +193,7 @@
       "source": "basics",
       "target": "build automation  ️",
       "curve": {
-        "x": -464.812,
+        "x": -463.199,
         "y": 60.822
       }
     },
@@ -175,7 +201,7 @@
       "source": "basics",
       "target": "agile software development  ️",
       "curve": {
-        "x": -638.92,
+        "x": -637.307,
         "y": 31.8376
       }
     },
@@ -183,8 +209,40 @@
       "source": "basics",
       "target": "architectural patterns  ️",
       "curve": {
-        "x": -793.729,
+        "x": -792.116,
         "y": -18.5754
+      }
+    },
+    {
+      "source": "basics",
+      "target": "domain-driven design  ️",
+      "curve": {
+        "x": -1054.78,
+        "y": 3.43743
+      }
+    },
+    {
+      "source": "basics",
+      "target": "software specifications  ️",
+      "curve": {
+        "x": -1108,
+        "y": -38.8016
+      }
+    },
+    {
+      "source": "basics",
+      "target": "code refactoring  ️",
+      "curve": {
+        "x": -1480.81,
+        "y": -26.4714
+      }
+    },
+    {
+      "source": "basics",
+      "target": "debugging  ️",
+      "curve": {
+        "x": -1670.93,
+        "y": -26.5111
       }
     }
   ]

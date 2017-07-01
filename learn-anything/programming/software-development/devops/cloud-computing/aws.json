@@ -1,0 +1,114 @@
+{
+  "title": "learn anything - programming - software development - devops - cloud computing - aws",
+  "tag": "amazon web services",
+  "description": "",
+  "nodes": [
+    {
+      "text": "aws",
+      "url": "http://www.wikiwand.com/en/Amazon_Web_Services",
+      "fx": -46.6435546875,
+      "fy": -82.05224609375,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 34.67735625876696,
+      "fy": 45.82584807474427
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -78.71264870961511,
+      "fy": 193.28168982046634
+    },
+    {
+      "text": "aws lambda  ️",
+      "url": "/programming/software-development/devops/cloud-computing/aws/aws-lambda",
+      "fx": -195.22408992686155,
+      "fy": 328.11759266954766,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/aws/",
+      "fx": 117.3564453125,
+      "fy": -68.05224609375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "aws"
+    },
+    {
+      "text": "awesome aws",
+      "url": "https://github.com/donnemartin/awesome-aws",
+      "fx": 171.67735625876696,
+      "fy": -10.674151925255728,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "use of formal methods at amazon web services",
+      "url": "http://glat.info/pdf/formal-methods-amazon-2014-11.pdf",
+      "fx": 171.67735625876696,
+      "fy": 29.325848074744272,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "local aws cloud stack",
+      "url": "https://github.com/atlassian/localstack",
+      "fx": 171.67735625876696,
+      "fy": 85.32584807474427,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "aws security primer  ️",
+      "url": "https://cloudonaut.io/aws-security-primer/#fnref:1",
+      "fx": 171.67735625876696,
+      "fy": 125.32584807474427,
+      "category": "article",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. aws in plain english",
+      "url": "https://www.expeditedssl.com/aws-in-plain-english",
+      "fx": 103.28735129038489,
+      "fy": 207.78168982046634,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "aws",
+      "curve": {
+        "x": -33.9104,
+        "y": -62.6891
+      }
+    },
+    {
+      "source": "aws",
+      "target": "basics",
+      "curve": {
+        "x": -18.0345,
+        "y": 136.417
+      }
+    },
+    {
+      "source": "basics",
+      "target": "aws lambda  ️",
+      "curve": {
+        "x": -51.7558,
+        "y": 67.4179
+      }
+    }
+  ]
+}

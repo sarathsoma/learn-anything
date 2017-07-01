@@ -1,5 +1,7 @@
 {
   "title": "learn anything - databases - nosql databases - cassandra",
+  "tag": "apache cassandra",
+  "description": "",
   "nodes": [
     {
       "text": "cassandra",
@@ -24,7 +26,7 @@
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
       "url": "https://github.com/apache/cassandra",
       "fx": 131.89364433461265,
       "fy": -385.0484858693381,
@@ -45,7 +47,7 @@
       "text": "1. foundations of apache cassandra",
       "url": "https://academy.datastax.com/resources/ds201-foundations-apache-cassandra",
       "fx": 112.51116206833046,
-      "fy": -157.80177836729,
+      "fy": -146.80177836729,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"

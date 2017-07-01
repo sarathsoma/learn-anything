@@ -1,5 +1,7 @@
 {
   "title": "learn anything - geography",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "geography",
@@ -31,11 +33,10 @@
       "category": "wiki"
     },
     {
-      "text": "cartography",
-      "url": "http://www.wikiwand.com/en/Cartography",
-      "fx": 179.54756433823513,
+      "text": "cartography  ️",
+      "fx": 180.54756433823513,
       "fy": -186.5,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "language geography",
@@ -82,9 +83,9 @@
     },
     {
       "source": "geography",
-      "target": "cartography",
+      "target": "cartography  ️",
       "curve": {
-        "x": 165.189,
+        "x": 165.689,
         "y": 82.0335
       }
     },

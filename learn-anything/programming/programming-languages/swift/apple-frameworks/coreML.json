@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - swift - apple frameworks - coreML",
+  "tag": "CoreML",
+  "description": "",
   "nodes": [
     {
       "text": "CoreML",
@@ -10,30 +12,63 @@
     {
       "text": "help",
       "url": "",
-      "fx": -110.8987176294819,
-      "fy": -200.01992031870645
+      "fx": -135.41197992975356,
+      "fy": -204.03762737149634
+    },
+    {
+      "text": "apps",
+      "url": "",
+      "fx": -77.6131959606987,
+      "fy": -89.06024836244546
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -222.65674800796808,
-      "fy": -84.72223605577688
+      "fx": -232.83205288601675,
+      "fy": 34.34672490150683
     }
   ],
   "subnodes": [
     {
       "text": "iOS machine learning",
       "url": "https://developer.apple.com/machine-learning/",
-      "fx": 26.101282370518106,
-      "fy": -185.51992031870645,
+      "fx": 1.5880200702464435,
+      "fy": -209.53762737149634,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
+      "text": "awesome CoreML models",
+      "url": "https://github.com/NilStack/awesome-CoreML-models",
+      "fx": 1.5880200702464435,
+      "fy": -175.53762737149634,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "sample app using vision framework and CoreML",
+      "url": "https://github.com/atomic14/VisionCoreMLSample",
+      "fx": 66.3868040393013,
+      "fy": -88.56024836244546,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "apps"
+    },
+    {
+      "text": "1.iOS ML  ️",
+      "url": "https://alexsosn.github.io/ml/2015/11/05/iOS-ML.html",
+      "fx": -76.83205288601675,
+      "fy": 5.846724901506832,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. introducing Core ML",
       "url": "https://developer.apple.com/videos/play/wwdc2017/703/",
-      "fx": -66.65674800796808,
-      "fy": -93.22223605577688,
+      "fx": -76.83205288601675,
+      "fy": 45.84672490150683,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -41,8 +76,8 @@
     {
       "text": "1. getting started with vision on iOS",
       "url": "https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision",
-      "fx": -66.65674800796808,
-      "fy": -53.222236055776875,
+      "fx": -76.83205288601675,
+      "fy": 85.84672490150683,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -53,16 +88,24 @@
       "source": "CoreML",
       "target": "basics",
       "curve": {
-        "x": -1.80298,
-        "y": 107.756
+        "x": -6.89066,
+        "y": 167.29
       }
     },
     {
       "source": "help",
       "target": "CoreML",
       "curve": {
-        "x": -50.576,
-        "y": -50.1072
+        "x": -38.3194,
+        "y": -48.0984
+      }
+    },
+    {
+      "source": "apps",
+      "target": "help",
+      "curve": {
+        "x": -30.6494,
+        "y": -57.4887
       }
     }
   ]

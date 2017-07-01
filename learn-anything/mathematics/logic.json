@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - logic",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "logic",
@@ -22,6 +24,13 @@
       "fy": 90.5058730332168
     },
     {
+      "text": "substructural logic",
+      "url": "http://www.wikiwand.com/en/Substructural_logic",
+      "fx": 196.81862555528733,
+      "fy": 187.68997897827035,
+      "category": "wiki"
+    },
+    {
       "text": "automated reasoning",
       "url": "http://www.wikiwand.com/en/Automated_reasoning",
       "fx": -614.6059385907018,
@@ -35,11 +44,23 @@
       "category": "mindmap"
     },
     {
+      "text": "truth tables  ️",
+      "fx": -320.25841346153834,
+      "fy": 219.52274750712252,
+      "category": "mindmap"
+    },
+    {
       "text": "peano axioms",
       "url": "http://www.wikiwand.com/en/Peano_axioms",
       "fx": -40.54851631531983,
       "fy": 226.95262669432032,
       "category": "wiki"
+    },
+    {
+      "text": "linear logic  ️",
+      "fx": 429.68640783817773,
+      "fy": 313.73425836214244,
+      "category": "mindmap"
     },
     {
       "text": "proof theory  ️",
@@ -190,6 +211,30 @@
       "curve": {
         "x": -41.2386,
         "y": 53.8093
+      }
+    },
+    {
+      "source": "basics",
+      "target": "substructural logic",
+      "curve": {
+        "x": 160.003,
+        "y": 64.5345
+      }
+    },
+    {
+      "source": "substructural logic",
+      "target": "linear logic  ️",
+      "curve": {
+        "x": 91.6839,
+        "y": 61.7721
+      }
+    },
+    {
+      "source": "basics",
+      "target": "truth tables  ️",
+      "curve": {
+        "x": -112.711,
+        "y": 64.5084
       }
     }
   ]

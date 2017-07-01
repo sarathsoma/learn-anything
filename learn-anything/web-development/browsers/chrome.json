@@ -1,39 +1,31 @@
 {
   "title": "learn anything - web development - browsers - chrome",
+  "tag": "chrome browser",
+  "description": "",
   "nodes": [
     {
       "text": "google chrome",
-      "note": "if you think this can be improved in any way ",
+      "note": "",
       "url": "http://www.wikiwand.com/en/Google_Chrome",
-      "fx": -104.171875,
-      "fy": -244.91015625,
+      "fx": -134.2025830924856,
+      "fy": -237.72762373554917,
       "category": "wiki"
     },
     {
-      "text": "help",
-      "url": "",
-      "fx": 14.55859375,
-      "fy": -123.27734375
+      "text": "chrome dev tools  ️",
+      "fx": -243.66518690092948,
+      "fy": -111.20523546681795,
+      "category": "mindmap"
     }
   ],
-  "subnodes": [
-    {
-      "text": "awesome chrome dev tools",
-      "url": "https://github.com/ChromeDevTools/awesome-chrome-devtools",
-      "fx": 151.55859375,
-      "fy": -111.77734375,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    }
-  ],
+  "subnodes": [],
   "connections": [
     {
-      "source": "help",
-      "target": "google chrome",
+      "source": "google chrome",
+      "target": "chrome dev tools  ️",
       "curve": {
-        "x": -27.8652,
-        "y": -59.5664
+        "x": -63.2313,
+        "y": 62.0112
       }
     }
   ]

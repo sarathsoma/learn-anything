@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - drawing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "drawing",
@@ -24,25 +26,31 @@
       "text": "interesting",
       "url": "",
       "fx": 174.74836697692865,
-      "fy": -6.045766778236612
+      "fy": 8.097983221763457
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -50.67906314575441,
-      "fy": 93.60883348691061
-    },
-    {
-      "text": "perspective drawing  ️",
-      "fx": -268.6705057989691,
-      "fy": 230.77955863402053,
-      "category": "mindmap"
+      "fx": -85.11759853732053,
+      "fy": 83.55847580618774
     },
     {
       "text": "sketching  ️",
       "url": "/art/drawing/sketching",
       "fx": 14.506481780394097,
       "fy": 230.99992669811536,
+      "category": "mindmap"
+    },
+    {
+      "text": "perspective drawing  ️",
+      "fx": -250.45935821533203,
+      "fy": 231.46958923339844,
+      "category": "mindmap"
+    },
+    {
+      "text": "watercolour paintings  ️",
+      "fx": -528.4173014587725,
+      "fy": 231.64468703291084,
       "category": "mindmap"
     }
   ],
@@ -102,7 +110,7 @@
       "text": "why ink?  ️",
       "url": "http://drawabox.com/article/ink",
       "fx": 365.74836697692865,
-      "fy": -11.545766778236612,
+      "fy": -25.402016778236543,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
@@ -111,16 +119,33 @@
       "text": "2016 monster gallery",
       "url": "http://themonsterproject.org/monster-gallery",
       "fx": 365.74836697692865,
-      "fy": 28.45423322176339,
+      "fy": 14.597983221763457,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "how cultures around the world draw shapes differently",
+      "url": "https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/?utm_source=facebook.com&amp;utm_medium=atlas-page",
+      "fx": 365.74836697692865,
+      "fy": 48.59798322176346,
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "interesting"
     },
     {
       "text": "1. draw a box",
       "url": "http://drawabox.com/",
-      "fx": 105.32093685424559,
-      "fy": 108.10883348691061,
+      "fx": 70.88240146267947,
+      "fy": 78.05847580618774,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. you can draw in 30 days",
+      "url": "http://www.goodreads.com/book/show/3113980-you-can-draw-in-30-days",
+      "fx": 70.88240146267947,
+      "fy": 112.05847580618774,
+      "category": "non-free book",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -153,8 +178,8 @@
       "source": "drawing",
       "target": "basics",
       "curve": {
-        "x": -2.83897,
-        "y": 234.059
+        "x": -20.0582,
+        "y": 229.034
       }
     },
     {
@@ -162,23 +187,31 @@
       "target": "inspiring",
       "curve": {
         "x": -37.8655,
-        "y": -56.2815
+        "y": -63.3534
       }
     },
     {
       "source": "basics",
       "target": "sketching  ️",
       "curve": {
-        "x": 39.8428,
-        "y": 68.6956
+        "x": 57.0621,
+        "y": 73.7208
       }
     },
     {
       "source": "basics",
       "target": "perspective drawing  ️",
       "curve": {
-        "x": -77.7457,
-        "y": 68.5854
+        "x": -51.4208,
+        "y": 73.9556
+      }
+    },
+    {
+      "source": "basics",
+      "target": "watercolour paintings  ️",
+      "curve": {
+        "x": -232.247,
+        "y": 40.2733
       }
     }
   ]

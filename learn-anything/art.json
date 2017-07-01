@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "art",
@@ -143,6 +145,24 @@
       "url": "/art/anime",
       "fx": -1703.1301579765277,
       "fy": -224.99352555248618,
+      "category": "mindmap"
+    },
+    {
+      "text": "comedy  ️",
+      "fx": -2040.9690946691176,
+      "fy": -223.3992417279411,
+      "category": "mindmap"
+    },
+    {
+      "text": "fashion  ️",
+      "fx": -2186.3978914650534,
+      "fy": -221.87096774193594,
+      "category": "mindmap"
+    },
+    {
+      "text": "live coding  ️",
+      "fx": -2371.501635174419,
+      "fy": -221.20058139534888,
       "category": "mindmap"
     },
     {
@@ -418,6 +438,30 @@
       "curve": {
         "x": -1254.58,
         "y": 87.3495
+      }
+    },
+    {
+      "source": "basics",
+      "target": "comedy  ️",
+      "curve": {
+        "x": -1408.73,
+        "y": 92.2473
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fashion  ️",
+      "curve": {
+        "x": -1573.63,
+        "y": 101.996
+      }
+    },
+    {
+      "source": "basics",
+      "target": "live coding  ️",
+      "curve": {
+        "x": -1529.51,
+        "y": 13.0871
       }
     }
   ]

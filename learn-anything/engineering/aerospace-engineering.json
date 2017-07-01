@@ -1,5 +1,7 @@
 {
   "title": "learn anything - engineering - aerospace engineering",
+  "tag": "aeroscpace engineering",
+  "description": "",
   "nodes": [
     {
       "text": "aerospace engineering",
@@ -22,10 +24,16 @@
       "fy": -71.27832733812932
     },
     {
+      "text": "aircraft  ️",
+      "fx": -111.97222879338517,
+      "fy": 49.08624339564142,
+      "category": "mindmap"
+    },
+    {
       "text": "rocket science  ️",
       "url": "/engineering/aerospace-engineering/rocket-science",
-      "fx": -162.96511667525215,
-      "fy": 59.27753946690598,
+      "fx": 29.645248122219982,
+      "fy": 49.50525236853548,
       "category": "mindmap"
     }
   ],
@@ -69,8 +77,16 @@
       "source": "basics",
       "target": "rocket science  ️",
       "curve": {
-        "x": -56.8879,
-        "y": 65.2779
+        "x": 39.4173,
+        "y": 60.3918
+      }
+    },
+    {
+      "source": "basics",
+      "target": "aircraft  ️",
+      "curve": {
+        "x": -48.8914,
+        "y": 60.1823
       }
     }
   ]

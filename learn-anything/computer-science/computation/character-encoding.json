@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - computation - character encoding",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "character encoding",
@@ -16,11 +18,16 @@
       "fy": -173.18686173178935
     },
     {
-      "text": "unicode",
-      "url": "http://www.wikiwand.com/en/Unicode",
-      "fx": -99.6929783821106,
-      "fy": -34.31278610229492,
-      "category": "wiki"
+      "text": "morse code  ️",
+      "fx": -205.44671934865892,
+      "fy": -48.718151340996144,
+      "category": "mindmap"
+    },
+    {
+      "text": "unicode  ️",
+      "fx": 10.481721298488651,
+      "fy": -47.96084418650764,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -32,24 +39,6 @@
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
-    },
-    {
-      "text": "awesome code points",
-      "url": "https://github.com/Codepoints/awesome-codepoints",
-      "fx": 99.3070216178894,
-      "fy": -40.31278610229492,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "unicode"
-    },
-    {
-      "text": "awesome unicode",
-      "url": "https://github.com/jagracey/Awesome-Unicode",
-      "fx": 99.3070216178894,
-      "fy": -0.3127861022949219,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "unicode"
     }
   ],
   "connections": [
@@ -63,10 +52,18 @@
     },
     {
       "source": "basics",
-      "target": "unicode",
+      "target": "unicode  ️",
       "curve": {
-        "x": -11.9317,
-        "y": 70.687
+        "x": 43.1557,
+        "y": 63.8629
+      }
+    },
+    {
+      "source": "basics",
+      "target": "morse code  ️",
+      "curve": {
+        "x": -69.3086,
+        "y": 62.2344
       }
     }
   ]

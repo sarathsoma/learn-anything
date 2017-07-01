@@ -1,5 +1,7 @@
 {
   "title": "learn anything - design - design languages - material design",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "material design",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/MaterialDesign/",
+      "fx": 148.8203125,
+      "fy": -276.72265625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "material design"
+    },
     {
       "text": "material components for the web",
       "url": "https://github.com/material-components/material-components-web",

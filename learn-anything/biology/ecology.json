@@ -1,5 +1,7 @@
 {
   "title": "learn anything - biology - ecology",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "ecology",
@@ -14,6 +16,12 @@
       "url": "",
       "fx": -121.03027343749977,
       "fy": -72.92692057298729
+    },
+    {
+      "text": "sustainability  ️",
+      "fx": -226.826171875,
+      "fy": 71.7158203125,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -43,6 +51,14 @@
       "curve": {
         "x": -6.16357,
         "y": 72.2299
+      }
+    },
+    {
+      "source": "basics",
+      "target": "sustainability  ️",
+      "curve": {
+        "x": -45.1479,
+        "y": 72.3214
       }
     }
   ]

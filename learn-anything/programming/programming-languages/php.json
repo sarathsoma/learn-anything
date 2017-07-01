@@ -1,5 +1,7 @@
 {
   "title": "learn anything - programming - programming languages - php",
+  "tag": "php programming language",
+  "description": "",
   "nodes": [
     {
       "text": "php",
@@ -87,6 +89,24 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/PHP/",
+      "fx": 16.87109375,
+      "fy": -372.44921875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "php"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/php/php-src",
+      "fx": 16.87109375,
+      "fy": -332.44921875,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "php"
+    },
     {
       "text": "awesome php",
       "url": "https://github.com/ziadoz/awesome-php",

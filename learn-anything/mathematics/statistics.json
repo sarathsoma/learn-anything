@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - statistics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "statistics",
@@ -30,8 +32,8 @@
     {
       "text": "predictive modelling",
       "url": "http://www.wikiwand.com/en/Predictive_modelling",
-      "fx": -746.3379065040649,
-      "fy": 123.09362296747975,
+      "fx": -765.1550451759399,
+      "fy": 149.65612296747975,
       "category": "wiki"
     },
     {
@@ -49,6 +51,12 @@
       "category": "mindmap"
     },
     {
+      "text": "principal component analysis  ️",
+      "fx": 183.6311634218464,
+      "fy": 403.7114553564337,
+      "category": "mindmap"
+    },
+    {
       "text": "multivariable statistics",
       "url": "http://www.wikiwand.com/en/Multivariate_statistics",
       "fx": -716.4245687707354,
@@ -63,13 +71,6 @@
       "category": "wiki"
     },
     {
-      "text": "principal component analysis",
-      "url": "http://www.wikiwand.com/en/Principal_component_analysis",
-      "fx": 183.1311634218464,
-      "fy": 403.7114553564337,
-      "category": "wiki"
-    },
-    {
       "text": "statistical hypothesis testing",
       "url": "http://www.wikiwand.com/en/Statistical_hypothesis_testing",
       "fx": -357.44983552631584,
@@ -77,18 +78,16 @@
       "category": "wiki"
     },
     {
-      "text": "ordinary least squares",
-      "url": "http://www.wikiwand.com/en/Ordinary_least_squares",
-      "fx": 125.49034667876845,
+      "text": "ordinary least squares  ️",
+      "fx": 126.49034667876845,
       "fy": 565.7590887230563,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
-      "text": "p-value",
-      "url": "http://www.wikiwand.com/en/P-value",
-      "fx": -510.6093648274741,
-      "fy": 656.6841902299363,
-      "category": "wiki"
+      "text": "p-value  ️",
+      "fx": -497.6953023274741,
+      "fy": 629.9096366585079,
+      "category": "mindmap"
     },
     {
       "text": "probability theory  ️",
@@ -258,33 +257,6 @@
       "category": "",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
-    },
-    {
-      "text": "visually explained",
-      "url": "http://setosa.io/ev/principal-component-analysis/",
-      "fx": 549.1311634218464,
-      "fy": 430.2114553564337,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "principal component analysis"
-    },
-    {
-      "text": "visually explained",
-      "url": "http://setosa.io/ev/ordinary-least-squares-regression/",
-      "fx": 450.49034667876845,
-      "fy": 579.7590887230563,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "ordinary least squares"
-    },
-    {
-      "text": "science isn’t broken  ️",
-      "url": "https://fivethirtyeight.com/features/science-isnt-broken/#part1",
-      "fx": -316.6093648274741,
-      "fy": 670.6841902299363,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "p-value"
     }
   ],
   "connections": [
@@ -322,17 +294,17 @@
     },
     {
       "source": "basics",
-      "target": "principal component analysis",
+      "target": "principal component analysis  ️",
       "curve": {
-        "x": 118.948,
-        "y": 199.294
+        "x": 106.57,
+        "y": 213.625
       }
     },
     {
       "source": "basics",
-      "target": "ordinary least squares",
+      "target": "ordinary least squares  ️",
       "curve": {
-        "x": 79.6819,
+        "x": 80.1819,
         "y": 305.502
       }
     },
@@ -346,10 +318,10 @@
     },
     {
       "source": "statistical hypothesis testing",
-      "target": "p-value",
+      "target": "p-value  ️",
       "curve": {
-        "x": -123.08,
-        "y": 83.8792
+        "x": -116.623,
+        "y": 70.4919
       }
     },
     {
@@ -388,8 +360,8 @@
       "source": "basics",
       "target": "predictive modelling",
       "curve": {
-        "x": -326.673,
-        "y": 23.4006
+        "x": -336.082,
+        "y": 36.6818
       }
     },
     {

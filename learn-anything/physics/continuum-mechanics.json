@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - continuum mechanics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "continuum mechanics",
@@ -15,10 +17,9 @@
       "fy": -31.59160353808238
     },
     {
-      "text": "fluid mechanics  ️",
-      "url": "/physics/continuum-mechanics/fluid-mechanics",
-      "fx": -212.76772253415754,
-      "fy": 83.93744379496405,
+      "text": "fluids  ️",
+      "fx": -138.12402921597652,
+      "fy": 83.3401904585798,
       "category": "mindmap"
     }
   ],
@@ -44,10 +45,10 @@
     },
     {
       "source": "basics",
-      "target": "fluid mechanics  ️",
+      "target": "fluids  ️",
       "curve": {
-        "x": -62.1605,
-        "y": 57.7645
+        "x": -48.3386,
+        "y": 57.4659
       }
     }
   ]

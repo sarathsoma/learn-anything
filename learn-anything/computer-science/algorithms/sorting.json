@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - algorithms - sorting",
+  "tag": "sorting algorithms",
+  "description": "",
   "nodes": [
     {
       "text": "sorting algorithms",
@@ -35,18 +37,22 @@
       "category": "wiki"
     },
     {
-      "text": "selection sort",
-      "url": "http://www.wikiwand.com/en/Selection_sort",
-      "fx": -419.78046158257376,
+      "text": "selection sort  ️",
+      "fx": -418.78046158257376,
       "fy": 55.212944380733916,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
-      "text": "merge sort",
-      "url": "http://www.wikiwand.com/en/Merge_sort",
-      "fx": -612.2068639457258,
+      "text": "merge sort  ️",
+      "fx": -611.2068639457258,
       "fy": 58.703246922143194,
-      "category": "wiki"
+      "category": "mindmap"
+    },
+    {
+      "text": "topological sort  ️",
+      "fx": -834.1545438218391,
+      "fy": 62.99510596264372,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -113,18 +119,26 @@
     },
     {
       "source": "basics",
-      "target": "selection sort",
+      "target": "selection sort  ️",
       "curve": {
-        "x": -160.636,
+        "x": -160.136,
         "y": 62.1195
       }
     },
     {
       "source": "basics",
-      "target": "merge sort",
+      "target": "merge sort  ️",
       "curve": {
-        "x": -326.433,
+        "x": -325.933,
         "y": 23.2222
+      }
+    },
+    {
+      "source": "basics",
+      "target": "topological sort  ️",
+      "curve": {
+        "x": -420.03,
+        "y": 8.87569
       }
     }
   ]

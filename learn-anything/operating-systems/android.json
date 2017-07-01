@@ -1,5 +1,7 @@
 {
   "title": "learn anything - operating systems - android",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "android",
@@ -12,8 +14,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 194.5994286744491,
-      "fy": -99.46669317328411
+      "fx": 192.78556997879696,
+      "fy": -88.81112252111024
     },
     {
       "text": "basics",
@@ -44,8 +46,8 @@
     {
       "text": "ultimate android reference",
       "url": "https://github.com/aritraroy/UltimateAndroidReference",
-      "fx": 331.5994286744491,
-      "fy": -275.9666931732841,
+      "fx": 329.78556997879696,
+      "fy": -265.31112252111024,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -53,8 +55,8 @@
     {
       "text": "awesome android",
       "url": "https://github.com/JStumpp/awesome-android",
-      "fx": 331.5994286744491,
-      "fy": -235.9666931732841,
+      "fx": 329.78556997879696,
+      "fy": -225.31112252111024,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -62,8 +64,8 @@
     {
       "text": "awesome android awesomeness",
       "url": "https://github.com/yongjhih/awesome-android-awesomeness",
-      "fx": 331.5994286744491,
-      "fy": -195.9666931732841,
+      "fx": 329.78556997879696,
+      "fy": -185.31112252111024,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -71,8 +73,8 @@
     {
       "text": "awesome android UI",
       "url": "https://github.com/wasabeef/awesome-android-ui",
-      "fx": 331.5994286744491,
-      "fy": -133.9666931732841,
+      "fx": 329.78556997879696,
+      "fy": -123.31112252111024,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -80,8 +82,8 @@
     {
       "text": "android development tutorials",
       "url": "http://www.vogella.com/tutorials/android.html",
-      "fx": 331.5994286744491,
-      "fy": -93.96669317328411,
+      "fx": 329.78556997879696,
+      "fy": -83.31112252111024,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -89,8 +91,8 @@
       "text": "android security awesome",
       "note": "collection of android security related resources",
       "url": "https://github.com/ashishb/android-security-awesome",
-      "fx": 331.5994286744491,
-      "fy": -59.96669317328411,
+      "fx": 329.78556997879696,
+      "fy": -49.311122521110235,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -98,8 +100,8 @@
     {
       "text": "awesome android tools",
       "url": "https://github.com/wasabeef/awesome-android-tools",
-      "fx": 331.5994286744491,
-      "fy": -19.966693173284114,
+      "fx": 329.78556997879696,
+      "fy": -9.311122521110235,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -107,8 +109,8 @@
     {
       "text": "awesome android learner",
       "url": "https://github.com/MakinGiants/awesome-android-learner",
-      "fx": 331.5994286744491,
-      "fy": 20.033306826715886,
+      "fx": 329.78556997879696,
+      "fy": 30.688877478889765,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -116,8 +118,8 @@
     {
       "text": "android tips and tricks",
       "url": "https://github.com/nisrulz/android-tips-tricks",
-      "fx": 331.5994286744491,
-      "fy": 60.03330682671589,
+      "fx": 329.78556997879696,
+      "fy": 70.68887747888976,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -125,8 +127,8 @@
     {
       "text": "useful links for android devs",
       "url": "https://github.com/anirudh24seven/android-dev-readme",
-      "fx": 331.5994286744491,
-      "fy": 100.03330682671589,
+      "fx": 329.78556997879696,
+      "fy": 110.68887747888976,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -189,8 +191,8 @@
       "source": "help",
       "target": "android",
       "curve": {
-        "x": -101.676,
-        "y": -91.3741
+        "x": -100.769,
+        "y": -96.7019
       }
     },
     {

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - distributed computing - ethereum",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "ethereum",
@@ -116,10 +118,10 @@
     },
     {
       "text": "1. ethereum white paper",
-      "url": "https://github.com/ethereum/wiki/wiki/White-Paper",
+      "url": "http://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform",
       "fx": -152.81587387141315,
       "fy": -386.4283976210916,
-      "category": "github",
+      "category": "paper",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },

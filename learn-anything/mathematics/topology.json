@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - topology",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "topology",
@@ -18,8 +20,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -86.50455239661665,
-      "fy": 17.074806156014972
+      "fx": -68.79032728349489,
+      "fy": 14.792919843797733
     },
     {
       "text": "geometric topology",
@@ -89,10 +91,19 @@
       "parent": "interesting"
     },
     {
+      "text": "1. topology by Munkres",
+      "url": "http://www.maths.ed.ac.uk/~aar/papers/munkres2.pdf",
+      "fx": 113.20967271650511,
+      "fy": -86.70708015620227,
+      "category": "free book",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. geometry and topology",
       "url": "http://www.math.columbia.edu/%7Ehliu/shp/s17-geometry-and-topology.pdf",
-      "fx": 95.49544760338335,
-      "fy": -64.42519384398503,
+      "fx": 113.20967271650511,
+      "fy": -46.70708015620227,
       "category": "free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -100,8 +111,8 @@
     {
       "text": "2. topology lectures",
       "url": "https://www.youtube.com/watch?v=7G4SqIboeig",
-      "fx": 95.49544760338335,
-      "fy": -24.425193843985028,
+      "fx": 113.20967271650511,
+      "fy": -6.707080156202267,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -109,8 +120,8 @@
     {
       "text": "3. topology from the differentiable viewpoint",
       "url": "http://www.maths.ed.ac.uk/~aar/papers/milnortop.pdf",
-      "fx": 95.49544760338335,
-      "fy": 15.574806156014972,
+      "fx": 113.20967271650511,
+      "fy": 33.29291984379773,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -118,8 +129,8 @@
     {
       "text": "3. euler's gem: the polyhedron formula and the birth of topology",
       "url": "http://www.goodreads.com/book/show/5182228-euler-s-gem",
-      "fx": 95.49544760338335,
-      "fy": 77.57480615601497,
+      "fx": 113.20967271650511,
+      "fy": 95.29291984379773,
       "category": "non-free book",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -139,16 +150,16 @@
       "source": "topology",
       "target": "basics",
       "curve": {
-        "x": -10.4769,
-        "y": 160.537
+        "x": -1.61979,
+        "y": 159.396
       }
     },
     {
       "source": "basics",
       "target": "differential topology  ️",
       "curve": {
-        "x": -54.6324,
-        "y": 100.816
+        "x": -63.4895,
+        "y": 101.957
       }
     },
     {
@@ -171,40 +182,40 @@
       "source": "basics",
       "target": "algebraic topology  ️",
       "curve": {
-        "x": 57.3701,
-        "y": 111.368
+        "x": 48.513,
+        "y": 112.509
       }
     },
     {
       "source": "basics",
       "target": "geometric topology",
       "curve": {
-        "x": -194.226,
-        "y": 95.7425
+        "x": -203.083,
+        "y": 96.8834
       }
     },
     {
       "source": "basics",
       "target": "computational topology  ️",
       "curve": {
-        "x": -408.633,
-        "y": 84.5156
+        "x": -417.49,
+        "y": 85.6565
       }
     },
     {
       "source": "basics",
       "target": "topological space",
       "curve": {
-        "x": -583.559,
-        "y": 54.1568
+        "x": -592.416,
+        "y": 55.2977
       }
     },
     {
       "source": "basics",
       "target": "fiber bundle",
       "curve": {
-        "x": -822.367,
-        "y": 74.4193
+        "x": -831.224,
+        "y": 75.5602
       }
     },
     {

@@ -1,11 +1,13 @@
 {
   "title": "learn anything - programming - programming languages - julia",
+  "tag": "julia programming language",
+  "description": "",
   "nodes": [
     {
       "text": "julia",
       "url": "http://www.wikiwand.com/en/Julia_(programming_language)",
       "fx": -39.82466096698113,
-      "fy": -304.69288030660374,
+      "fy": -319.24366155660374,
       "category": "wiki"
     },
     {
@@ -33,9 +35,18 @@
       "text": "",
       "url": "https://www.reddit.com/r/Julia/",
       "fx": 121.17533903301887,
-      "fy": -290.69288030660374,
+      "fy": -325.24366155660374,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "julia"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/JuliaLang/julia",
+      "fx": 121.17533903301887,
+      "fy": -285.24366155660374,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "julia"
     },
     {
@@ -96,7 +107,7 @@
       "target": "julia",
       "curve": {
         "x": -38.3858,
-        "y": -59.9843
+        "y": -67.2597
       }
     },
     {
@@ -104,7 +115,7 @@
       "target": "basics",
       "curve": {
         "x": -7.46732,
-        "y": 181.556
+        "y": 188.831
       }
     },
     {

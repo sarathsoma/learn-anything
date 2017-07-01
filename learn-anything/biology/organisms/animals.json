@@ -1,5 +1,7 @@
 {
   "title": "learn anything - biology - organisms - animals",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "animals",
@@ -52,6 +54,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/NatureIsFuckingLit/",
+      "fx": 295.57228379563935,
+      "fy": -518.1489102866236,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "animals"
+    },
     {
       "text": "endangered species",
       "url": "http://species-in-pieces.com/#",

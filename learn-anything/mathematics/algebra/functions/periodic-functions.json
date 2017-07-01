@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - algebra - functions - periodic functions",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "periodic functions",
@@ -13,6 +15,13 @@
       "url": "",
       "fx": -41.379733979701996,
       "fy": -7.171874523162842
+    },
+    {
+      "text": "quasiperiodic functions",
+      "url": "http://www.wikiwand.com/en/Quasiperiodic_function",
+      "fx": -204.4004197761194,
+      "fy": 126.82268345768784,
+      "category": "wiki"
     }
   ],
   "subnodes": [
@@ -33,6 +42,14 @@
       "curve": {
         "x": -3.07198,
         "y": 78.9844
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quasiperiodic functions",
+      "curve": {
+        "x": -36.7603,
+        "y": 68.2473
       }
     }
   ]

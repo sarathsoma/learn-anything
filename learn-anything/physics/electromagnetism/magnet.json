@@ -1,5 +1,7 @@
 {
   "title": "learn anything - physics - electromagnetism - magnet",
+  "tag": "magnets",
+  "description": "",
   "nodes": [
     {
       "text": "magnet",
@@ -17,8 +19,14 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 18.140625,
-      "fy": 180.81640625
+      "fx": 11.647736378205082,
+      "fy": 167.64032451923094
+    },
+    {
+      "text": "magnetic field  ️",
+      "fx": -120.66095753205207,
+      "fy": 316.8676883012764,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -43,8 +51,8 @@
     {
       "text": "1. how do magnets work?",
       "url": "https://www.youtube.com/watch?v=hFAOXdXZ5TM",
-      "fx": 174.140625,
-      "fy": 192.31640625,
+      "fx": 167.64773637820508,
+      "fy": 179.14032451923094,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -63,8 +71,16 @@
       "source": "magnet",
       "target": "basics",
       "curve": {
-        "x": -0.179512,
-        "y": 107.808
+        "x": -3.42596,
+        "y": 101.22
+      }
+    },
+    {
+      "source": "basics",
+      "target": "magnetic field  ️",
+      "curve": {
+        "x": -41.9043,
+        "y": 75.8637
       }
     }
   ]

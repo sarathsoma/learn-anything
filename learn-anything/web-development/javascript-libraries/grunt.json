@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - javascript libraries - grunt",
+  "tag": "grunt task runner",
+  "description": "",
   "nodes": [
     {
       "text": "grunt",
@@ -11,22 +13,22 @@
     {
       "text": "help",
       "url": "",
-      "fx": 111.50000190734863,
-      "fy": -73.86237812042236
+      "fx": 98.37890815734863,
+      "fy": -97.01862812042236
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 25.49997043609619,
-      "fy": 36.12758255004883
+      "fx": 6.683564186096191,
+      "fy": 13.404926300048828
     }
   ],
   "subnodes": [
     {
       "text": "awesome grunt",
       "url": "https://github.com/brunowego/awesome-grunt",
-      "fx": 248.50000190734863,
-      "fy": -62.36237812042236,
+      "fx": 235.37890815734863,
+      "fy": -85.51862812042236,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -34,8 +36,8 @@
     {
       "text": "1. getting started",
       "url": "https://gruntjs.com/getting-started",
-      "fx": 181.4999704360962,
-      "fy": 50.62758255004883,
+      "fx": 162.6835641860962,
+      "fy": 27.904926300048828,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -45,16 +47,16 @@
       "source": "help",
       "target": "grunt",
       "curve": {
-        "x": -43.6191,
-        "y": -64.3891
+        "x": -37.0586,
+        "y": -52.811
       }
     },
     {
       "source": "grunt",
       "target": "basics",
       "curve": {
-        "x": 5.36913,
-        "y": 119.384
+        "x": -4.03907,
+        "y": 108.023
       }
     }
   ]

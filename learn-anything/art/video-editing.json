@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - video editing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "video editing",
@@ -22,18 +24,17 @@
       "fy": -48.38813694267526
     },
     {
-      "text": "logic pro",
-      "url": "http://www.wikiwand.com/en/Logic_Pro",
-      "fx": -256.5519332885742,
-      "fy": 72.73299789428711,
+      "text": "adobe after effects",
+      "url": "http://www.wikiwand.com/en/Adobe_After_Effects",
+      "fx": -253.9141731262207,
+      "fy": 75.37079429626465,
       "category": "wiki"
     },
     {
-      "text": "adobe after effects",
-      "url": "http://www.wikiwand.com/en/Adobe_After_Effects",
-      "fx": -81.38557330826382,
-      "fy": 75.3317669172933,
-      "category": "wiki"
+      "text": "adobe premiere pro  ️",
+      "fx": -9.777195057097515,
+      "fy": 79.4168789184954,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -93,18 +94,18 @@
     },
     {
       "source": "software",
-      "target": "logic pro",
+      "target": "adobe after effects",
       "curve": {
-        "x": -53.679,
-        "y": 61.8106
+        "x": -29.6101,
+        "y": 63.1295
       }
     },
     {
       "source": "software",
-      "target": "adobe after effects",
+      "target": "adobe premiere pro  ️",
       "curve": {
-        "x": 56.6542,
-        "y": 63.11
+        "x": 87.4584,
+        "y": 63.9025
       }
     }
   ]

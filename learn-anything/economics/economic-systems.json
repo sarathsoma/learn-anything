@@ -1,10 +1,12 @@
 {
   "title": "learn anything - economics - economic systems",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
-      "text": "economic system",
+      "text": "economic systems",
       "url": "http://www.wikiwand.com/en/Economic_system",
-      "fx": -58.28125,
+      "fx": -63.28125,
       "fy": -317.1774553571429,
       "category": "wiki"
     },
@@ -18,14 +20,14 @@
     {
       "text": "capitalism  ️",
       "url": "/economics/economic-systems/capitalism",
-      "fx": -84.70535714285722,
-      "fy": -73.24107142857139,
+      "fx": -98.15136054421771,
+      "fy": -56.33258928571428,
       "category": "mindmap"
     },
     {
       "text": "socialism  ️",
-      "fx": 87.54993755314615,
-      "fy": -71.62018362032313,
+      "fx": 74.10393415178567,
+      "fy": -54.71170147746602,
       "category": "mindmap"
     }
   ],
@@ -42,10 +44,10 @@
   ],
   "connections": [
     {
-      "source": "economic system",
+      "source": "economic systems",
       "target": "basics",
       "curve": {
-        "x": -8.54667,
+        "x": -6.04667,
         "y": 61.3852
       }
     },
@@ -53,16 +55,16 @@
       "source": "basics",
       "target": "capitalism  ️",
       "curve": {
-        "x": -28.9154,
-        "y": 59.3329
+        "x": -35.6384,
+        "y": 67.7871
       }
     },
     {
       "source": "basics",
       "target": "socialism  ️",
       "curve": {
-        "x": 48.7123,
-        "y": 60.1434
+        "x": 41.9893,
+        "y": 68.5976
       }
     }
   ]

@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer vision - facial recognition",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "facial recognition",
@@ -12,22 +14,28 @@
     {
       "text": "help",
       "url": "",
-      "fx": 118.80660053152451,
-      "fy": -16.811386292359202
+      "fx": 107.89033015108976,
+      "fy": -16.26790803148964
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 201.18906990314986,
+      "fy": 90.94101431856183
     },
     {
       "text": "OpenFace",
       "url": "https://cmusatyalab.github.io/openface/",
-      "fx": -126.87113366991014,
-      "fy": 101.26368801654223
+      "fx": -176.5707459668364,
+      "fy": 168.9685059074959
     }
   ],
   "subnodes": [
     {
       "text": "eigenfaces for recognition",
       "url": "http://www.face-rec.org/algorithms/PCA/jcn.pdf",
-      "fx": 255.8066005315245,
-      "fy": -25.311386292359202,
+      "fx": 244.89033015108976,
+      "fy": -24.76790803148964,
       "category": "paper",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -35,17 +43,26 @@
     {
       "text": "face recognition using eigenfaces",
       "url": "http://www.cs.ucsb.edu/%7Emturk/Papers/mturk-CVPR91.pdf",
-      "fx": 255.8066005315245,
-      "fy": 14.688613707640798,
+      "fx": 244.89033015108976,
+      "fy": 15.23209196851036,
       "category": "paper",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
+      "text": "17: indexing faces on Instagram  ️",
+      "url": "https://kndrck.co/indexing-faces-on-instagram.html",
+      "fx": 363.18906990314986,
+      "fy": 102.44101431856183,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
       "text": "usage",
       "url": "https://cmusatyalab.github.io/openface/usage/",
-      "fx": 65.12886633008986,
-      "fy": 115.76368801654223,
+      "fx": 15.429254033163602,
+      "fy": 183.4685059074959,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "OpenFace"
     }
@@ -55,16 +72,24 @@
       "source": "facial recognition",
       "target": "OpenFace",
       "curve": {
-        "x": -60.8965,
-        "y": 113.976
+        "x": -85.7463,
+        "y": 147.828
       }
     },
     {
       "source": "help",
       "target": "facial recognition",
       "curve": {
-        "x": -48.1924,
-        "y": -54.9381
+        "x": -42.7343,
+        "y": -55.2098
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -52.8994,
+        "y": -53.6045
       }
     }
   ]

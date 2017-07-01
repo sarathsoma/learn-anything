@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - algebra - functions",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "functions",
@@ -31,8 +33,14 @@
     {
       "text": "higher-order functions  ️",
       "url": "/mathematics/algebra/functions/higher-order-functions",
-      "fx": -534.0479062342031,
-      "fy": 76.91681064782642,
+      "fx": -532.6191329956055,
+      "fy": 76.91680526733398,
+      "category": "mindmap"
+    },
+    {
+      "text": "inverse functions  ️",
+      "fx": -759.7624521072792,
+      "fy": 77.1375119731407,
       "category": "mindmap"
     }
   ],
@@ -85,8 +93,16 @@
       "source": "basics",
       "target": "higher-order functions  ️",
       "curve": {
-        "x": -140.955,
+        "x": -140.241,
         "y": 78.7333
+      }
+    },
+    {
+      "source": "basics",
+      "target": "inverse functions  ️",
+      "curve": {
+        "x": -296.065,
+        "y": 42.6728
       }
     }
   ]

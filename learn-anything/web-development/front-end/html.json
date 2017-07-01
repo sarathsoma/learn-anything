@@ -1,10 +1,12 @@
 {
   "title": "learn anything - web development - front end - html",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
-      "text": "html",
+      "text": "HTML",
       "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-      "fx": -33.81177325581393,
+      "fx": -41.31177325581393,
       "fy": -318.8615552325583
     },
     {
@@ -23,13 +25,13 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -58.39582206048908,
+      "fx": -84.13716950672563,
       "fy": -23.434564875882472
     },
     {
       "text": "HTML5  ️",
-      "fx": -132.49848790322562,
-      "fy": 112.92464717741927,
+      "fx": -174.19245631720423,
+      "fy": 101.40961021505348,
       "category": "mindmap"
     }
   ],
@@ -37,11 +39,11 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/HTML/",
-      "fx": 103.18822674418607,
+      "fx": 110.68822674418607,
       "fy": -307.3615552325583,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "html"
+      "parent": "HTML"
     },
     {
       "text": "HTML reference",
@@ -71,7 +73,7 @@
     {
       "text": "1. marksheet",
       "url": "http://marksheet.io/",
-      "fx": 123.60417793951092,
+      "fx": 97.86283049327437,
       "fy": -45.93456487588247,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
@@ -80,7 +82,7 @@
     {
       "text": "1. html basics",
       "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics",
-      "fx": 123.60417793951092,
+      "fx": 97.86283049327437,
       "fy": -5.934564875882472,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -88,7 +90,7 @@
     {
       "text": "1. learn to code HTML &amp; CSS",
       "url": "http://learn.shayhowe.com/",
-      "fx": 123.60417793951092,
+      "fx": 97.86283049327437,
       "fy": 28.065435124117528,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -96,18 +98,18 @@
   ],
   "connections": [
     {
-      "source": "html",
+      "source": "HTML",
       "target": "basics",
       "curve": {
-        "x": -7.54199,
+        "x": -16.6627,
         "y": 147.713
       }
     },
     {
       "source": "help",
-      "target": "html",
+      "target": "HTML",
       "curve": {
-        "x": -43.283,
+        "x": -47.033,
         "y": -45.2393
       }
     },
@@ -123,8 +125,8 @@
       "source": "basics",
       "target": "HTML5  ️",
       "curve": {
-        "x": -34.0513,
-        "y": 69.4296
+        "x": -42.0276,
+        "y": 63.6721
       }
     }
   ]

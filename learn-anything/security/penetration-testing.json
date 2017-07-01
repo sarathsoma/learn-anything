@@ -1,5 +1,7 @@
 {
   "title": "learn anything - security - penetration testing",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "penetration testing",
@@ -31,6 +33,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Pentesting/",
+      "fx": 161.27734375,
+      "fy": -174.26171875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "penetration testing"
+    },
     {
       "text": "awesome pentest",
       "url": "https://github.com/enaqx/awesome-pentest",

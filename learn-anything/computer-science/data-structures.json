@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - data structures",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "data structures",
@@ -107,10 +109,16 @@
       "category": "mindmap"
     },
     {
-      "text": "quadtree  ️",
+      "text": "tries  ️",
+      "fx": -241.4198412009564,
+      "fy": 28.558378941724982,
+      "category": "mindmap"
+    },
+    {
+      "text": "quadtrees  ️",
       "url": "/computer-science/data-structures/quadtree",
-      "fx": -226.1950891629125,
-      "fy": 28.615145218582256,
+      "fx": -247.02221488965677,
+      "fy": 149.5933428930009,
       "category": "mindmap"
     },
     {
@@ -151,14 +159,6 @@
     }
   ],
   "connections": [
-    {
-      "source": "trees",
-      "target": "quadtree  ️",
-      "curve": {
-        "x": 107.981,
-        "y": 66.4966
-      }
-    },
     {
       "source": "trees",
       "target": "log-structured merge-tree",
@@ -277,6 +277,22 @@
       "curve": {
         "x": -17.6138,
         "y": 67.7028
+      }
+    },
+    {
+      "source": "trees",
+      "target": "tries  ️",
+      "curve": {
+        "x": 102.595,
+        "y": 58.9155
+      }
+    },
+    {
+      "source": "tries  ️",
+      "target": "quadtrees  ️",
+      "curve": {
+        "x": 15.1988,
+        "y": 61.7675
       }
     }
   ]

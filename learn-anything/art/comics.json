@@ -1,5 +1,7 @@
 {
   "title": "learn anything - art - comics",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "comics",
@@ -30,6 +32,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/comics/",
+      "fx": 227.9375,
+      "fy": -270.62890625,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "comics"
+    },
     {
       "text": "web comic name",
       "url": "http://webcomicname.com/",

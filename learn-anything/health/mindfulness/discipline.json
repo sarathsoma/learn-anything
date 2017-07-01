@@ -1,5 +1,7 @@
 {
   "title": "learn anything - health - mindfulness - discipline",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "discipline",
@@ -9,11 +11,17 @@
       "category": "wiki"
     },
     {
+      "text": "help",
+      "url": "",
+      "fx": 80.92704232283472,
+      "fy": -222.78112696850621
+    },
+    {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -75.33307961050605,
-      "fy": -195.534280643194
+      "fx": -76.1543148467266,
+      "fy": -117.69225308413894
     }
   ],
   "subnodes": [
@@ -27,10 +35,19 @@
       "parent": "discipline"
     },
     {
+      "text": "advice",
+      "url": "https://www.reddit.com/r/getdisciplined/comments/6il1fr/question_has_anybody_managed_to_turn_his_life/dj71uzq/",
+      "fx": 217.92704232283472,
+      "fy": -211.28112696850621,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "1. why procrastinator’s procrastinate  ️",
       "url": "http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html",
-      "fx": 106.66692038949395,
-      "fy": -195.034280643194,
+      "fx": 105.8456851532734,
+      "fy": -117.19225308413894,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -41,8 +58,16 @@
       "source": "discipline",
       "target": "basics",
       "curve": {
-        "x": -7.30436,
-        "y": 66.6071
+        "x": -7.71498,
+        "y": 105.528
+      }
+    },
+    {
+      "source": "help",
+      "target": "discipline",
+      "curve": {
+        "x": -66.0757,
+        "y": -52.9837
       }
     }
   ]

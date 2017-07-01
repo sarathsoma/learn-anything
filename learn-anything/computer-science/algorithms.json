@@ -1,5 +1,7 @@
 {
   "title": "learn anything - computer science - algorithms",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "algorithms",
@@ -87,12 +89,11 @@
       "category": "wiki"
     },
     {
-      "text": "evolutionary",
+      "text": "evolutionary  ️",
       "note": "uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection",
-      "url": "http://www.wikiwand.com/en/Evolutionary_algorithm",
-      "fx": -592.5450054862558,
+      "fx": -591.5450054862558,
       "fy": 682.0652222925099,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "searching  ️",
@@ -402,9 +403,9 @@
     },
     {
       "source": "algorithms on",
-      "target": "evolutionary",
+      "target": "evolutionary  ️",
       "curve": {
-        "x": -120.331,
+        "x": -119.831,
         "y": 77.1675
       }
     },

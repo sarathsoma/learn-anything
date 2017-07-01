@@ -1,5 +1,7 @@
 {
   "title": "learn anything - web development - web design - web accessibility",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "web accessibility",
@@ -11,18 +13,38 @@
     {
       "text": "help",
       "url": "",
-      "fx": 77.93210872933889,
-      "fy": -40.759136105371795
+      "fx": 155.36947959710756,
+      "fy": -44.205352530991604
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 31.490145596590878,
+      "fy": 45.35307173295456
+    },
+    {
+      "text": "ARIA",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
+      "fx": -59.125,
+      "fy": 188.6259765625
     }
   ],
   "subnodes": [
     {
       "text": "awesome accessibility resources",
       "url": "http://brunopulis.com/awesome-a11y/",
-      "fx": 214.9321087293389,
-      "fy": -26.259136105371795,
+      "fx": 292.36947959710756,
+      "fy": -29.705352530991604,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "1. overview",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility",
+      "fx": 187.49014559659088,
+      "fy": 59.85307173295456,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
     }
   ],
   "connections": [
@@ -30,8 +52,24 @@
       "source": "help",
       "target": "web accessibility",
       "curve": {
-        "x": -18.1047,
-        "y": -61.9154
+        "x": -56.8234,
+        "y": -60.1923
+      }
+    },
+    {
+      "source": "web accessibility",
+      "target": "basics",
+      "curve": {
+        "x": -0.366255,
+        "y": 104.971
+      }
+    },
+    {
+      "source": "basics",
+      "target": "ARIA",
+      "curve": {
+        "x": -48.3076,
+        "y": 71.6365
       }
     }
   ]

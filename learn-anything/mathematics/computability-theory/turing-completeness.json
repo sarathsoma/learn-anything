@@ -1,5 +1,7 @@
 {
   "title": "learn anything - mathematics - computability theory - turing completeness",
+  "tag": "",
+  "description": "",
   "nodes": [
     {
       "text": "turing completeness",
@@ -17,14 +19,14 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -48.7617496997118,
-      "fy": -90.87802696228027
+      "fx": -57.8476871997118,
+      "fy": -85.79599571228027
     },
     {
       "text": "halting problem  ️",
       "url": "/mathematics/computability-theory/turing-completeness/halting-problem",
-      "fx": -176.6052083333335,
-      "fy": 39.01354166666664,
+      "fx": -209.6208333333335,
+      "fy": 34.84166666666664,
       "category": "mindmap"
     }
   ],
@@ -39,10 +41,19 @@
       "parent": "interesting"
     },
     {
+      "text": "1. control flow  ️",
+      "url": "http://www.craftinginterpreters.com/control-flow.html",
+      "fx": 98.1523128002882,
+      "fy": -94.29599571228027,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. turing complete",
       "url": "https://www.youtube.com/watch?v=RPQD7-AOjMI",
-      "fx": 107.2382503002882,
-      "fy": -79.37802696228027,
+      "fx": 98.1523128002882,
+      "fy": -54.29599571228027,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -53,16 +64,16 @@
       "source": "turing completeness",
       "target": "basics",
       "curve": {
-        "x": -6.8437,
-        "y": 103.253
+        "x": -11.3867,
+        "y": 105.794
       }
     },
     {
       "source": "basics",
       "target": "halting problem  ️",
       "curve": {
-        "x": -43.4217,
-        "y": 64.9458
+        "x": -55.3865,
+        "y": 60.3188
       }
     },
     {

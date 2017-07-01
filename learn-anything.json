@@ -1,6 +1,13 @@
 {
   "title": "learn anything",
+  "tag": "anything",
+  "description": "",
   "nodes": [
+    {
+      "text": "information theory",
+      "fx": 210.94635674504934,
+      "fy": -1020.7918858292078
+    },
     {
       "text": "security",
       "note": "is the degree of resistance to, or protection from harm",
@@ -9,17 +16,17 @@
       "fy": -949.4395637692999
     },
     {
+      "text": "natural language processing",
+      "note": "studies the interactions between computers and human (natural) languages",
+      "url": "/natural-language-processing",
+      "fx": 161.32992680867505,
+      "fy": -947.8145039876302
+    },
+    {
       "text": "communication",
       "url": "/communication",
       "fx": 773.2171798774011,
       "fy": -946.856521606445
-    },
-    {
-      "text": "natural language processing",
-      "note": "studies the interactions between computers and human (natural) languages",
-      "url": "/natural-language-processing",
-      "fx": 178.6606559753418,
-      "fy": -944.4811706542969
     },
     {
       "text": "data science",
@@ -44,8 +51,8 @@
     },
     {
       "text": "agriculture",
-      "fx": -840.7739005575377,
-      "fy": -881.3778757108312
+      "fx": -836.9086501892434,
+      "fy": -875.2626976860358
     },
     {
       "text": "games",
@@ -72,7 +79,7 @@
       "text": "artificial intelligence",
       "note": "is the study of ‘intelligent agents’ (any device that perceives its environment and takes actions that maximise its chance of success at some goal)",
       "url": "/artificial-intelligence",
-      "fx": 334.2490768432617,
+      "fx": 338.04078267032946,
       "fy": -850.3206787109375
     },
     {
@@ -367,6 +374,11 @@
       "url": "/space-science",
       "fx": -192.17505073547363,
       "fy": -441.99437713623047
+    },
+    {
+      "text": "journalism",
+      "fx": -1055.6675488234591,
+      "fy": -441.39851961896784
     }
   ],
   "subnodes": [],
@@ -591,7 +603,7 @@
       "source": "machine learning",
       "target": "artificial intelligence",
       "curve": {
-        "x": 133.076,
+        "x": 134.972,
         "y": -1.25449
       }
     },
@@ -599,8 +611,8 @@
       "source": "natural language processing",
       "target": "machine learning",
       "curve": {
-        "x": -76.0307,
-        "y": 48.3346
+        "x": -67.3653,
+        "y": 50.0013
       }
     },
     {
@@ -775,8 +787,8 @@
       "source": "natural language processing",
       "target": "linguistics",
       "curve": {
-        "x": 141.373,
-        "y": 7.3765
+        "x": 150.038,
+        "y": 9.04317
       }
     },
     {
@@ -852,11 +864,35 @@
       }
     },
     {
-      "source": "agriculture",
-      "target": "biology",
+      "source": "data science",
+      "target": "information theory",
       "curve": {
-        "x": 95.0937,
-        "y": 31.776
+        "x": 107.774,
+        "y": -52.7433
+      }
+    },
+    {
+      "source": "communication",
+      "target": "information theory",
+      "curve": {
+        "x": -246.085,
+        "y": -54.3114
+      }
+    },
+    {
+      "source": "agriculture",
+      "target": "anthropology",
+      "curve": {
+        "x": -125.74,
+        "y": 17.2216
+      }
+    },
+    {
+      "source": "journalism",
+      "target": "sociology",
+      "curve": {
+        "x": 12.3089,
+        "y": -49.9288
       }
     }
   ]

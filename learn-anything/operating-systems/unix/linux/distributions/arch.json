@@ -1,5 +1,7 @@
 {
   "title": "learn anything - operating systems - unix - linux - distributions - arch",
+  "tag": "arch linux",
+  "description": "",
   "nodes": [
     {
       "text": "arch linux",
@@ -23,6 +25,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/archlinux/",
+      "fx": 132.78515625,
+      "fy": -123.35546875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "arch linux"
+    },
     {
       "text": "arch linux anywhere",
       "url": "https://github.com/deadhead420/arch-linux-anywhere",
