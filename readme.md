@@ -55,7 +55,7 @@ You can then read [our article](https://learn-anything.github.io/2017/06/15/cont
 
 We [wrote an article](https://learn-anything.github.io/2017/06/15/roadmap.html) outlying all the steps we hope to take to make this dream of making a community powered Search Engine and Mind Maps come true.
 
-<h2 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h2>
+<h1 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h1>
 
 You can also read through our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve to make the [Search Engine](https://github.com/learn-anything/search-engine) and Mind Map curation as best as it can be. 
 
