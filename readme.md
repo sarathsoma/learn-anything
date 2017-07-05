@@ -44,12 +44,6 @@ The [main goal of this project](https://learn-anything.github.io/future/2017/05/
 
 Both this project and the search engine [is in active development](https://github.com/learn-anything/search-engine). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to our [Search Engine](https://github.com/learn-anything/search-engine) or create a study group for any branch in the mind map and learn together.  
 
-<h2 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h2>
-
-You can also read through our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve to make the [Search Engine](https://github.com/learn-anything/search-engine) and Mind Map curation as best as it can be. 
-
-We use [Twitter](https://twitter.com/learnanything_) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
-
 <h1 align="center"><a href="https://learn-anything.github.io/2017/06/15/contributing.html">Contributing 👬</a> </a></h1>
 
 There are many ways in which you can help. But before you do, it is best to read [why we created this search engine and what problems we are trying to solve](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html). You can also join [our Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) as that is where all communication regarding this project takes place.
@@ -71,6 +65,12 @@ There are **no advertisements** and **no sponsored content** in this Search Engi
 We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.  
 
 Thank you. 💚
+
+<h1 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h1>
+
+You can also read through our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve to make the [Search Engine](https://github.com/learn-anything/search-engine) and Mind Map curation as best as it can be. 
+
+We use [Twitter](https://twitter.com/learnanything_) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
 
 <h2 align="center"><a href="https://github.com/learn-anything/books">Books 📚</a> + <a href="https://github.com/learn-anything/courses">Courses 📝</a> + <a href="https://github.com/learn-anything/research-papers">Research Papers 📄</a> + <a href="https://github.com/learn-anything/blogs">Blogs 🗃️</a> + <a href="https://github.com/learn-anything/flashcards">Flashcards 🎴</a> + <a href="https://github.com/learn-anything/humans">Humans 🌍</a> + <a href="https://github.com/learn-anything/command-line-tools">CLI 🐚</a> + <a href="https://github.com/learn-anything/podcasts">Podcasts 🎙</a> + <a href="https://github.com/learn-anything/alfred-workflows">Alfred 🎩</a> + <a href="https://github.com/learn-anything/images">Images 🎨</a></h2>
 
