@@ -55,6 +55,12 @@ You can then read [our article](https://learn-anything.github.io/2017/06/15/cont
 
 We [wrote an article](https://learn-anything.github.io/2017/06/15/roadmap.html) outlying all the steps we hope to take to make this dream of making a community powered Search Engine and Mind Maps come true.
 
+<h2 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h2>
+
+You can also read through our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve to make the [Search Engine](https://github.com/learn-anything/search-engine) and Mind Map curation as best as it can be. 
+
+We use [Twitter](https://twitter.com/learnanything_) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
+
 
 <h1 align="center"><a href="https://www.patreon.com/learnanything">Keep this project going 💚</a></h1>
 
@@ -65,12 +71,6 @@ There are **no advertisements** and **no sponsored content** in this Search Engi
 We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.  
 
 Thank you. 💚
-
-<h1 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h1>
-
-You can also read through our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve to make the [Search Engine](https://github.com/learn-anything/search-engine) and Mind Map curation as best as it can be. 
-
-We use [Twitter](https://twitter.com/learnanything_) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
 
 <h2 align="center"><a href="https://github.com/learn-anything/books">Books 📚</a> + <a href="https://github.com/learn-anything/courses">Courses 📝</a> + <a href="https://github.com/learn-anything/research-papers">Research Papers 📄</a> + <a href="https://github.com/learn-anything/blogs">Blogs 🗃️</a> + <a href="https://github.com/learn-anything/flashcards">Flashcards 🎴</a> + <a href="https://github.com/learn-anything/humans">Humans 🌍</a> + <a href="https://github.com/learn-anything/command-line-tools">CLI 🐚</a> + <a href="https://github.com/learn-anything/podcasts">Podcasts 🎙</a> + <a href="https://github.com/learn-anything/alfred-workflows">Alfred 🎩</a> + <a href="https://github.com/learn-anything/images">Images 🎨</a></h2>
 
