@@ -21,10 +21,7 @@
   <br>
   <br>
   </div>
-  
-  <h2 align="center"><a href="http://quick.as/evd2h5qqo">Demonstration ☘</a> + <a href="http://quick.as/zvymh8qkw">Advanced Use ⌨</a></h2>
-  <div>
-  <p align="center"><img src="https://raw.githubusercontent.com/learn-anything/img/master/i_want_to_learn.mp4.gif" alt="img" width="600"></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/LA.gif?token=AGGH4KQygS95N6LH9kzVvKfI65q3JM_mks5ZZp4RwA%3D%3D" alt="img" width="600"></p>
   </div>
   
   
