@@ -117,6 +117,16 @@ Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzM
   </tbody>
 </table>
 
+<h1 align="center"> <a href="https://github.com/nikitavoloboev/learn-anything/stargazers">🌟 gazers</a> over time</h1>
+
+
+<div align="center">
+	<a href="https://starcharts.herokuapp.com/nikitavoloboev/learn-anything">
+		<img src="https://starcharts.herokuapp.com/nikitavoloboev/learn-anything.svg">
+	</a>
+</div>
+
+
 <h2 align="center"> Thank you 💙 </h2>
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
