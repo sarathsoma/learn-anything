@@ -1,48 +1,47 @@
 {
   "title": "learn anything - cognitive science - cognition",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "cognition",
       "note": "",
       "url": "http://www.wikiwand.com/en/Cognition",
-      "fx": 80.5974916757242,
-      "fy": -399.9073433524906,
+      "fx": 95.0662416757242,
+      "fy": -405.9932808524906,
       "category": "wiki"
     },
     {
       "text": "motivation  ️",
       "url": "/cognitive-science/cognition/motivation",
-      "fx": 306.69064465408815,
-      "fy": -257.53031510283887,
+      "fx": 214.46017590408815,
+      "fy": -262.74125260283887,
       "category": "mindmap"
     },
     {
       "text": "learning  ️",
       "url": "/cognitive-science/cognition/learning",
-      "fx": -18.858738469142622,
-      "fy": -257.3712720520641,
+      "fx": -111.08920721914262,
+      "fy": -262.5822095520641,
       "category": "mindmap"
     },
     {
       "text": "rationality  ️",
       "url": "/cognitive-science/cognition/rationality",
-      "fx": 135.25559403448835,
-      "fy": -256.23933946211565,
+      "fx": 43.025125284488354,
+      "fy": -261.45027696211565,
       "category": "mindmap"
     },
     {
       "text": "emotions  ️",
       "url": "/cognitive-science/cognition/emotions",
-      "fx": 476.6558380126953,
-      "fy": -255.71762466430664,
+      "fx": 384.4253692626953,
+      "fy": -260.92856216430664,
       "category": "mindmap"
     },
     {
       "text": "cognitive biases  ️",
-      "fx": 635.796875,
-      "fy": -253.3515625,
+      "url": "/cognitive-science/cognition/cognitive-biases",
+      "fx": 543.56640625,
+      "fy": -258.5625,
       "category": "mindmap"
     }
   ],
@@ -52,40 +51,40 @@
       "source": "cognition",
       "target": "learning  ️",
       "curve": {
-        "x": -52.7281,
-        "y": 71.268
+        "x": -106.078,
+        "y": 71.7055
       }
     },
     {
       "source": "cognition",
       "target": "rationality  ️",
       "curve": {
-        "x": 28.079,
-        "y": 71.834
+        "x": -25.2706,
+        "y": 72.2715
       }
     },
     {
       "source": "cognition",
       "target": "motivation  ️",
       "curve": {
-        "x": 101.797,
-        "y": 69.9385
+        "x": 48.4474,
+        "y": 70.376
       }
     },
     {
       "source": "cognition",
       "target": "emotions  ️",
       "curve": {
-        "x": 264.284,
-        "y": 68.5938
+        "x": 210.934,
+        "y": 69.0313
       }
     },
     {
       "source": "cognition",
       "target": "cognitive biases  ️",
       "curve": {
-        "x": 397.092,
-        "y": 68.9029
+        "x": 343.742,
+        "y": 69.3404
       }
     }
   ]

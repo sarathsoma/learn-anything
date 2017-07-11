@@ -1,0 +1,78 @@
+{
+  "title": "learn anything - physics - classical mechanics - waves",
+  "nodes": [
+    {
+      "text": "waves",
+      "url": "http://www.wikiwand.com/en/Wave",
+      "fx": -36.03515625,
+      "fy": -222.171875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -24.63953234265739,
+      "fy": -69.37461756998192
+    },
+    {
+      "text": "mechanical waves  ️",
+      "url": "/physics/classical-mechanics/waves/mechanical-waves",
+      "fx": -315.1991958618164,
+      "fy": 96.2425708770752,
+      "category": "mindmap"
+    },
+    {
+      "text": "amplitude  ️",
+      "url": "/physics/classical-mechanics/waves/amplitude",
+      "fx": -53.06869527672916,
+      "fy": 97.54250843441264,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. travelling waves",
+      "url": "https://www.youtube.com/watch?v=TfYCnOvNnFU",
+      "fx": 138.3604676573426,
+      "fy": -90.37461756998192,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. waves: light, sound and the nature of reality",
+      "url": "https://www.youtube.com/watch?v=Io-HXZTepH4",
+      "fx": 138.3604676573426,
+      "fy": -48.37461756998192,
+      "category": "video",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "waves",
+      "target": "basics",
+      "curve": {
+        "x": -2.05219,
+        "y": 75.6486
+      }
+    },
+    {
+      "source": "basics",
+      "target": "mechanical waves  ️",
+      "curve": {
+        "x": -115.53,
+        "y": 82.8086
+      }
+    },
+    {
+      "source": "basics",
+      "target": "amplitude  ️",
+      "curve": {
+        "x": -6.21458,
+        "y": 83.4586
+      }
+    }
+  ]
+}

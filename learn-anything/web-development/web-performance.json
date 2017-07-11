@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - web performance",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "web perfomance",
       "url": "http://www.wikiwand.com/en/Web_performance",
-      "fx": -100.8709346280425,
-      "fy": -191.03749553682314,
+      "fx": -103.05672697776936,
+      "fy": -144.7559040067685,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 65.33948291716035,
-      "fy": -66.4749055879364
     },
     {
       "text": "basics",
@@ -26,13 +18,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome web performance",
+      "text": "awesome",
       "url": "https://github.com/davidsonfellipe/awesome-wpo",
-      "fx": 202.33948291716035,
-      "fy": -54.974905587936405,
+      "fx": 176.94327302223064,
+      "fy": -130.7559040067685,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "web perfomance"
     },
     {
       "text": "1. high performance browser networking",
@@ -49,16 +41,8 @@
       "source": "web perfomance",
       "target": "basics",
       "curve": {
-        "x": -3.72134,
-        "y": 106.761
-      }
-    },
-    {
-      "source": "help",
-      "target": "web perfomance",
-      "curve": {
-        "x": -47.3552,
-        "y": -61.0313
+        "x": -2.62844,
+        "y": 83.6202
       }
     }
   ]

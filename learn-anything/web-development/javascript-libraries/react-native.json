@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - javascript libraries - react native",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "react native",
@@ -11,29 +9,23 @@
       "category": "wiki"
     },
     {
-      "text": "help",
-      "url": "",
-      "fx": -44.81914328977564,
-      "fy": -210.5509787322469
-    },
-    {
       "text": "articles",
       "url": "",
-      "fx": 114.33993249325431,
-      "fy": -89.10442013394396
+      "fx": 48.67477478297394,
+      "fy": -177.01694933955133
     },
     {
       "text": "tools",
       "url": "",
-      "fx": 353.2438753963486,
-      "fy": 42.738746788213575
+      "fx": 250.00570366737657,
+      "fy": -26.398227510851825
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -228.89341385585635,
-      "fy": 48.49940508480398
+      "fx": -279.357052874548,
+      "fy": 62.95253008480387
     }
   ],
   "subnodes": [
@@ -41,34 +33,25 @@
       "text": "",
       "url": "https://github.com/facebook/react-native",
       "fx": 57.07812500000023,
-      "fy": -310.7519531250002,
+      "fy": -330.7519531250002,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "react native"
     },
     {
-      "text": "awesome react native",
+      "text": "awesome",
       "url": "https://github.com/jondot/awesome-react-native",
-      "fx": 92.18085671022436,
-      "fy": -219.0509787322469,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "create react native app",
-      "url": "https://github.com/react-community/create-react-native-app",
-      "fx": 92.18085671022436,
-      "fy": -179.0509787322469,
+      "fx": 57.07812500000023,
+      "fy": -290.7519531250002,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "parent": "react native"
     },
     {
       "text": "17: powering ubereats with react native and uber engineering  ️",
       "url": "https://eng.uber.com/ubereats-react-native/",
-      "fx": 276.3399324932543,
-      "fy": -119.60442013394396,
+      "fx": 210.67477478297394,
+      "fy": -207.51694933955133,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -76,17 +59,26 @@
     {
       "text": "why i'm not a react native developer  ️",
       "url": "https://arielelkin.github.io/articles/why-im-not-a-react-native-developer",
-      "fx": 276.3399324932543,
-      "fy": -57.60442013394396,
+      "fx": 210.67477478297394,
+      "fy": -145.51694933955133,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "create react native app",
+      "url": "https://github.com/react-community/create-react-native-app",
+      "fx": 392.00570366737657,
+      "fy": -34.898227510851825,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "tools"
+    },
+    {
       "text": "metro bundler",
       "url": "https://github.com/facebook/metro-bundler",
-      "fx": 495.2438753963486,
-      "fy": 54.238746788213575,
+      "fx": 392.00570366737657,
+      "fy": 5.101772489148175,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "tools"
@@ -94,16 +86,16 @@
     {
       "text": "1. get started",
       "url": "https://facebook.github.io/react-native/docs/getting-started.html",
-      "fx": -46.89341385585635,
-      "fy": 25.999405084803982,
+      "fx": -97.357052874548,
+      "fy": 9.452530084803868,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. react native express",
       "url": "http://www.reactnativeexpress.com/",
-      "fx": -46.89341385585635,
-      "fy": 59.99940508480398,
+      "fx": -97.357052874548,
+      "fy": 43.45253008480387,
       "category": "interactive",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -111,9 +103,18 @@
     {
       "text": "1. react native in 5 minutes",
       "url": "https://repl.it/site/react_native",
-      "fx": -46.89341385585635,
-      "fy": 99.99940508480398,
+      "fx": -97.357052874548,
+      "fy": 83.45253008480387,
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. intro to react native for an iOS developer  ️",
+      "url": "http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/",
+      "fx": -97.357052874548,
+      "fy": 117.45253008480387,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],
@@ -122,32 +123,24 @@
       "source": "react native",
       "target": "basics",
       "curve": {
-        "x": -46.2358,
-        "y": 185.376
-      }
-    },
-    {
-      "source": "help",
-      "target": "react native",
-      "curve": {
-        "x": -41.0513,
-        "y": -55.8505
-      }
-    },
-    {
-      "source": "articles",
-      "target": "help",
-      "curve": {
-        "x": -90.4934,
-        "y": -50.9627
+        "x": -71.4676,
+        "y": 192.603
       }
     },
     {
       "source": "tools",
       "target": "articles",
       "curve": {
-        "x": -134.663,
-        "y": -38.9891
+        "x": -115.876,
+        "y": -48.3769
+      }
+    },
+    {
+      "source": "articles",
+      "target": "react native",
+      "curve": {
+        "x": -94.0483,
+        "y": -72.6175
       }
     }
   ]

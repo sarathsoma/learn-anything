@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "art",
@@ -32,144 +30,154 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 1242.0555638205647,
-      "fy": -401.68865939713214
+      "fx": 1201.4383763205647,
+      "fy": -302.08319064713214
     },
     {
       "text": "photography  ️",
       "url": "/art/photography",
-      "fx": -644.820373455724,
-      "fy": -239.32875133293817,
+      "fx": -650.4742813110352,
+      "fy": -239.32973861694336,
       "category": "mindmap"
     },
     {
       "text": "filmmaking   ️",
       "url": "/art/filmmaking",
-      "fx": -453.25517634745245,
-      "fy": -238.43273793289393,
+      "fx": -447.6157455444336,
+      "fy": -238.43372344970703,
       "category": "mindmap"
     },
     {
       "text": "writing  ️",
       "url": "/art/writing",
-      "fx": -274.9953904045375,
-      "fy": -237.86656521679964,
+      "fx": -257.5639953613281,
+      "fy": -237.86754608154297,
       "category": "mindmap"
     },
     {
       "text": "digital art  ️",
       "url": "/art/digital-art",
-      "fx": -813.6547622511525,
-      "fy": -237.5370222576886,
+      "fx": -817.2699279785156,
+      "fy": -237.53801345825195,
       "category": "mindmap"
     },
     {
       "text": "comics  ️",
       "url": "/art/comics",
-      "fx": -959.6458509074695,
-      "fy": -235.61588257193216,
+      "fx": -968.0331268310547,
+      "fy": -235.61687469482422,
       "category": "mindmap"
     },
     {
       "text": "music  ️",
       "url": "/art/music",
-      "fx": -121.54963521357183,
-      "fy": -234.04450474807948,
+      "fx": -116.50043487548828,
+      "fy": -234.04550552368164,
       "category": "mindmap"
     },
     {
       "text": "animation  ️",
       "url": "/art/animation",
-      "fx": 235.28708371249115,
-      "fy": -233.07311468413354,
+      "fx": 255.65338134765625,
+      "fy": -233.07411193847656,
       "category": "mindmap"
     },
     {
       "text": "video editing  ️",
       "url": "/art/video-editing",
-      "fx": -1165.0840102785146,
-      "fy": -232.65404154035627,
+      "fx": -1171.712387084961,
+      "fy": -232.655029296875,
       "category": "mindmap"
     },
     {
       "text": "martial arts  ️",
       "url": "/art/martial-arts",
-      "fx": -1346.7656832630357,
-      "fy": -231.9844695580416,
+      "fx": -1358.4591979980469,
+      "fy": -231.98545455932617,
       "category": "mindmap"
     },
     {
       "text": "drawing  ️",
       "url": "/art/drawing",
-      "fx": 403.8749207614927,
-      "fy": -230.8768292974521,
+      "fx": 428.7492141723633,
+      "fy": -230.8778190612793,
       "category": "mindmap"
     },
     {
       "text": "public speaking  ️",
       "url": "/art/public-speaking",
-      "fx": 13.982884493741153,
-      "fy": -230.69268636992456,
+      "fx": 21.58746910095215,
+      "fy": -230.69368362426758,
       "category": "mindmap"
     },
     {
       "text": "world building  ️",
       "url": "/art/world-building",
-      "fx": -1556.1061921296296,
-      "fy": -230.0687830687831,
+      "fx": -1573.1377563476562,
+      "fy": -230.06977081298828,
       "category": "mindmap"
     },
     {
       "text": "creative coding  ️",
       "url": "/art/creative-coding",
-      "fx": 555.726684952978,
-      "fy": -229.43081406739782,
+      "fx": 584.8584594726562,
+      "fy": -229.43180084228516,
       "category": "mindmap"
     },
     {
       "text": "dancing  ️",
       "url": "/art/dancing",
-      "fx": 983.7801339286084,
-      "fy": -228.8026413690768,
+      "fx": 1027.116928100586,
+      "fy": -228.8036346435547,
       "category": "mindmap"
     },
     {
       "text": "generative art  ️",
       "url": "/art/generative-art",
-      "fx": 777.2771832191781,
-      "fy": -228.69113869862997,
+      "fx": 814.9853210449219,
+      "fy": -228.69213104248047,
       "category": "mindmap"
     },
     {
       "text": "anime  ️",
       "url": "/art/anime",
-      "fx": -1703.1301579765277,
-      "fy": -224.99352555248618,
+      "fx": -1711.9891357421875,
+      "fy": -224.99452590942383,
       "category": "mindmap"
     },
     {
       "text": "comedy  ️",
-      "fx": -2040.9690946691176,
-      "fy": -223.3992417279411,
+      "url": "/art/comedy",
+      "fx": -2053.1426696777344,
+      "fy": -223.40023040771484,
       "category": "mindmap"
     },
     {
       "text": "fashion  ️",
-      "fx": -2186.3978914650534,
-      "fy": -221.87096774193594,
+      "url": "/art/fashion",
+      "fx": -2202.2568969726562,
+      "fy": -221.87196731567383,
+      "category": "mindmap"
+    },
+    {
+      "text": "origami  ️",
+      "url": "/art/origami",
+      "fx": -2536.5027770996094,
+      "fy": -221.85405731201172,
       "category": "mindmap"
     },
     {
       "text": "live coding  ️",
-      "fx": -2371.501635174419,
-      "fy": -221.20058139534888,
+      "url": "/art/live-coding",
+      "fx": -2386.3718872070312,
+      "fy": -221.2015724182129,
       "category": "mindmap"
     },
     {
       "text": "calligraphy  ️",
       "url": "/art/calligraphy",
-      "fx": -1880.5029901262242,
-      "fy": -220.4994710475802,
+      "fx": -1894.0648193359375,
+      "fy": -220.50045013427734,
       "category": "mindmap"
     },
     {
@@ -182,15 +190,15 @@
     {
       "text": "literature  ️",
       "url": "/art/literature",
-      "fx": -288.3867985129675,
-      "fy": -130.96883436359315,
+      "fx": -289.55113983154297,
+      "fy": -130.96983909606934,
       "category": "mindmap"
     },
     {
       "text": "singing  ️",
       "url": "/art/singing",
-      "fx": -130.55718980558174,
-      "fy": -130.86498990917687,
+      "fx": -129.40118312835693,
+      "fy": -130.86599349975586,
       "category": "mindmap"
     }
   ],
@@ -198,52 +206,61 @@
     {
       "text": "1. the gap",
       "url": "https://vimeo.com/85040589",
-      "fx": 305.23116572891263,
-      "fy": -668.0735312753447,
+      "fx": 312.23116572891263,
+      "fy": -667.0735312753447,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "art station",
       "url": "https://www.artstation.com/#",
-      "fx": 737.8253343088973,
-      "fy": -613.7407772516275,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 741.8253343088973,
+      "fy": -616.2407772516275,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "wiki art",
       "url": "https://www.wikiart.org/",
-      "fx": 737.8253343088973,
-      "fy": -579.7407772516275,
-      "color": "rgba(36, 170, 255, 1.0)",
+      "fx": 741.8253343088973,
+      "fy": -579.2407772516275,
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "art encyclopedia",
       "url": "http://www.visual-arts-cork.com/",
-      "fx": 737.8253343088973,
-      "fy": -545.7407772516275,
-      "color": "rgba(255, 189, 10, 1.0)",
+      "fx": 741.8253343088973,
+      "fy": -542.2407772516275,
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "art album",
+      "url": "http://imgur.com/a/3m5wf",
+      "fx": 994.0377808460207,
+      "fy": -474.68271118501264,
+      "category": "image",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "interesting"
     },
     {
       "text": "when pixels collide  ️",
       "url": "http://sudoscript.com/reddit-place/",
-      "fx": 986.0377808460207,
-      "fy": -454.68271118501264,
+      "fx": 994.0377808460207,
+      "fy": -432.68271118501264,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "interesting"
     },
     {
       "text": "17: utopia  ️",
       "url": "https://eev.ee/blog/2017/03/08/utopia/",
-      "fx": 1404.0555638205647,
-      "fy": -390.18865939713214,
+      "fx": 1370.4383763205647,
+      "fy": -289.58319064713214,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     }
   ],
@@ -252,15 +269,15 @@
       "source": "filmmaking   ️",
       "target": "acting  ️",
       "curve": {
-        "x": -2.57408,
-        "y": 52.6746
+        "x": -5.3938,
+        "y": 52.6751
       }
     },
     {
       "source": "writing  ️",
       "target": "literature  ️",
       "curve": {
-        "x": -2.1957,
+        "x": -11.4936,
         "y": 53.4489
       }
     },
@@ -268,7 +285,7 @@
       "source": "music  ️",
       "target": "singing  ️",
       "curve": {
-        "x": -2.00378,
+        "x": -3.95038,
         "y": 51.5898
       }
     },
@@ -284,7 +301,7 @@
       "source": "basics",
       "target": "photography  ️",
       "curve": {
-        "x": -402.713,
+        "x": -405.54,
         "y": 197.427
       }
     },
@@ -292,7 +309,7 @@
       "source": "basics",
       "target": "filmmaking   ️",
       "curve": {
-        "x": -282.743,
+        "x": -279.923,
         "y": 221.821
       }
     },
@@ -300,15 +317,15 @@
       "source": "basics",
       "target": "music  ️",
       "curve": {
-        "x": -129.14,
-        "y": 224.015
+        "x": -126.615,
+        "y": 224.014
       }
     },
     {
       "source": "basics",
       "target": "public speaking  ️",
       "curve": {
-        "x": -39.3741,
+        "x": -35.5718,
         "y": 225.691
       }
     },
@@ -316,7 +333,7 @@
       "source": "basics",
       "target": "animation  ️",
       "curve": {
-        "x": 57.778,
+        "x": 67.9611,
         "y": 224.501
       }
     },
@@ -324,7 +341,7 @@
       "source": "basics",
       "target": "drawing  ️",
       "curve": {
-        "x": 138.072,
+        "x": 150.509,
         "y": 225.599
       }
     },
@@ -332,7 +349,7 @@
       "source": "basics",
       "target": "creative coding  ️",
       "curve": {
-        "x": 230.248,
+        "x": 244.814,
         "y": 226.322
       }
     },
@@ -340,7 +357,7 @@
       "source": "basics",
       "target": "generative art  ️",
       "curve": {
-        "x": 354.524,
+        "x": 373.378,
         "y": 226.692
       }
     },
@@ -348,7 +365,7 @@
       "source": "basics",
       "target": "dancing  ️",
       "curve": {
-        "x": 516.606,
+        "x": 538.274,
         "y": 210.464
       }
     },
@@ -372,7 +389,7 @@
       "source": "basics",
       "target": "digital art  ️",
       "curve": {
-        "x": -546.509,
+        "x": -548.317,
         "y": 217.936
       }
     },
@@ -380,7 +397,7 @@
       "source": "basics",
       "target": "comics  ️",
       "curve": {
-        "x": -708.918,
+        "x": -713.112,
         "y": 216.398
       }
     },
@@ -388,15 +405,15 @@
       "source": "articles",
       "target": "interesting",
       "curve": {
-        "x": -220.119,
-        "y": -16.0144
+        "x": -199.81,
+        "y": -65.8171
       }
     },
     {
       "source": "basics",
       "target": "video editing  ️",
       "curve": {
-        "x": -906.807,
+        "x": -910.121,
         "y": 237.731
       }
     },
@@ -404,7 +421,7 @@
       "source": "basics",
       "target": "writing  ️",
       "curve": {
-        "x": -204.613,
+        "x": -195.897,
         "y": 222.103
       }
     },
@@ -412,7 +429,7 @@
       "source": "basics",
       "target": "martial arts  ️",
       "curve": {
-        "x": -1013.45,
+        "x": -1019.3,
         "y": 221.504
       }
     },
@@ -420,7 +437,7 @@
       "source": "basics",
       "target": "world building  ️",
       "curve": {
-        "x": -1124.85,
+        "x": -1133.37,
         "y": 194.117
       }
     },
@@ -428,31 +445,31 @@
       "source": "basics",
       "target": "anime  ️",
       "curve": {
-        "x": -1139.48,
-        "y": 114.587
+        "x": -1143.91,
+        "y": 114.586
       }
     },
     {
       "source": "basics",
       "target": "calligraphy  ️",
       "curve": {
-        "x": -1254.58,
-        "y": 87.3495
+        "x": -1261.36,
+        "y": 87.349
       }
     },
     {
       "source": "basics",
       "target": "comedy  ️",
       "curve": {
-        "x": -1408.73,
-        "y": 92.2473
+        "x": -1414.82,
+        "y": 92.2468
       }
     },
     {
       "source": "basics",
       "target": "fashion  ️",
       "curve": {
-        "x": -1573.63,
+        "x": -1581.56,
         "y": 101.996
       }
     },
@@ -460,8 +477,16 @@
       "source": "basics",
       "target": "live coding  ️",
       "curve": {
-        "x": -1529.51,
-        "y": 13.0871
+        "x": -1536.95,
+        "y": 13.0866
+      }
+    },
+    {
+      "source": "basics",
+      "target": "origami  ️",
+      "curve": {
+        "x": -1981.24,
+        "y": 182.169
       }
     }
   ]

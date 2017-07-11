@@ -1,0 +1,218 @@
+{
+  "title": "learn anything - programming - programming interview preparation - interview questions",
+  "nodes": [
+    {
+      "text": "general",
+      "url": "",
+      "fx": -213.0871365384072,
+      "fy": -217.80029274080562
+    },
+    {
+      "text": "iOS  ️",
+      "url": "/operating-systems/ios",
+      "fx": -214.6464112599691,
+      "fy": -76.82087771097827,
+      "category": "mindmap"
+    },
+    {
+      "text": "javascript  ️",
+      "url": "/programming/programming-languages/javascript",
+      "fx": -245.14483443985273,
+      "fy": 57.40538358635092,
+      "category": "mindmap"
+    },
+    {
+      "text": "front end  ️",
+      "url": "/web-development/front-end",
+      "fx": -247.21667449874735,
+      "fy": 160.3024749373435,
+      "category": "mindmap"
+    },
+    {
+      "text": "java  ️",
+      "url": "/programming/programming-languages/java",
+      "fx": -228.6530948438142,
+      "fy": 281.6960027594316,
+      "category": "mindmap"
+    },
+    {
+      "text": "android  ️",
+      "url": "/operating-systems/android",
+      "fx": -251.17041251221826,
+      "fy": 391.55007725771463,
+      "category": "mindmap"
+    },
+    {
+      "text": "scala  ️",
+      "url": "/programming/programming-languages/scala",
+      "fx": -250.00858215249627,
+      "fy": 518.5144336201081,
+      "category": "mindmap"
+    },
+    {
+      "text": "system design",
+      "url": "",
+      "fx": -286.34077962239587,
+      "fy": 657.542683919271
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "programming interview questions  ️",
+      "url": "http://www.ardendertat.com/2012/01/09/programming-interview-questions/",
+      "fx": -48.08713653840721,
+      "fy": -226.30029274080562,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "general"
+    },
+    {
+      "text": "awesome interview questions",
+      "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+      "fx": -48.08713653840721,
+      "fy": -186.30029274080562,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "general"
+    },
+    {
+      "text": "20 iOS dev questions  ️",
+      "url": "https://www.codementor.io/mattgoldspink/ios-interview-tips-questions-answers-objective-c-du1088nfb",
+      "fx": -55.64641125996911,
+      "fy": -93.82087771097827,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "iOS  ️"
+    },
+    {
+      "text": "iOS interview questions for seniors  ️",
+      "url": "http://www.sm-cloud.com/ios-interview-questions-for-senior-developers/",
+      "fx": -55.64641125996911,
+      "fy": -53.820877710978266,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "iOS  ️"
+    },
+    {
+      "text": "js interview questions",
+      "url": "https://github.com/vvscode/js--interview-questions",
+      "fx": -32.14483443985273,
+      "fy": 40.40538358635092,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "javascript  ️"
+    },
+    {
+      "text": "js questions for front end engineering  ️",
+      "url": "https://performancejs.com/post/hde6d32/The-Best-List-of-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer)",
+      "fx": -32.14483443985273,
+      "fy": 80.40538358635092,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "javascript  ️"
+    },
+    {
+      "text": "front end dev interview questions",
+      "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+      "fx": -40.21667449874735,
+      "fy": 174.3024749373435,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "front end  ️"
+    },
+    {
+      "text": "interview questions in java",
+      "url": "https://github.com/mission-peace/interview/wiki",
+      "fx": -66.65309484381419,
+      "fy": 295.6960027594316,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "java  ️"
+    },
+    {
+      "text": "android interview",
+      "url": "https://github.com/JackyAndroid/AndroidInterview-Q-A",
+      "fx": -56.17041251221826,
+      "fy": 405.55007725771463,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "android  ️"
+    },
+    {
+      "text": "scala interview questions",
+      "url": "https://github.com/Jarlakxen/Scala-Interview-Questions",
+      "fx": -77.00858215249627,
+      "fy": 532.5144336201081,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "scala  ️"
+    },
+    {
+      "text": "system design interview",
+      "url": "https://github.com/checkcheckzz/system-design-interview",
+      "fx": -57.34077962239587,
+      "fy": 669.042683919271,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "system design"
+    }
+  ],
+  "connections": [
+    {
+      "source": "iOS  ️",
+      "target": "javascript  ️",
+      "curve": {
+        "x": -9.24921,
+        "y": 65.8631
+      }
+    },
+    {
+      "source": "general",
+      "target": "iOS  ️",
+      "curve": {
+        "x": -2.02964,
+        "y": 71.7397
+      }
+    },
+    {
+      "source": "java  ️",
+      "target": "android  ️",
+      "curve": {
+        "x": -3.00866,
+        "y": 54.927
+      }
+    },
+    {
+      "source": "android  ️",
+      "target": "scala  ️",
+      "curve": {
+        "x": -11.9191,
+        "y": 62.2322
+      }
+    },
+    {
+      "source": "javascript  ️",
+      "target": "front end  ️",
+      "curve": {
+        "x": -9.53592,
+        "y": 50.1986
+      }
+    },
+    {
+      "source": "front end  ️",
+      "target": "java  ️",
+      "curve": {
+        "x": 5.28179,
+        "y": 61.9468
+      }
+    },
+    {
+      "source": "scala  ️",
+      "target": "system design",
+      "curve": {
+        "x": -4.4161,
+        "y": 68.2641
+      }
+    }
+  ]
+}

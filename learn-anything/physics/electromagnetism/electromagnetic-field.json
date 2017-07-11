@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - electromagnetism - electromagnetic field",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "electromagnetic field",
@@ -15,6 +13,13 @@
       "url": "",
       "fx": 21.7578125,
       "fy": 13.296875
+    },
+    {
+      "text": "electric charge  ️",
+      "url": "/physics/electromagnetism/electromagnetic-field/electric-charge",
+      "fx": -161.515625,
+      "fy": 154.91796875,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -44,6 +49,14 @@
       "curve": {
         "x": -2.70234,
         "y": 71.7854
+      }
+    },
+    {
+      "source": "basics",
+      "target": "electric charge  ️",
+      "curve": {
+        "x": -72.8867,
+        "y": 70.8105
       }
     }
   ]

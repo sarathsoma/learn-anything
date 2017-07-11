@@ -1,0 +1,64 @@
+{
+  "title": "learn anything - web development - front end - css - css3 - flexbox",
+  "nodes": [
+    {
+      "text": "flexbox",
+      "url": "",
+      "fx": 1.122838550143797,
+      "fy": 25.218933290905397
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 0.5889756944444571,
+      "fy": 167.0212673611111
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome",
+      "url": "https://github.com/afonsopacifer/awesome-flexbox",
+      "fx": 164.1228385501438,
+      "fy": 36.7189332909054,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "flexbox"
+    },
+    {
+      "text": "1. flexbox froggy",
+      "url": "http://flexboxfroggy.com/",
+      "fx": 156.58897569444446,
+      "fy": 141.5212673611111,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. using CSS flexbox",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes",
+      "fx": 156.58897569444446,
+      "fy": 181.5212673611111,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. complete guide to flexbox  ️",
+      "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "fx": 156.58897569444446,
+      "fy": 215.5212673611111,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "flexbox",
+      "target": "basics",
+      "curve": {
+        "x": -2.01693,
+        "y": 70.9012
+      }
+    }
+  ]
+}

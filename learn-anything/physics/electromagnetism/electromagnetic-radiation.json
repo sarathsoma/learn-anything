@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - electromagnetism - electromagnetic radiation",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "electromagnetic radiation",
@@ -25,6 +23,7 @@
     },
     {
       "text": "microwaves  ️",
+      "url": "/physics/electromagnetism/electromagnetic-radiation/microwaves",
       "fx": -206.48287898936178,
       "fy": 167.73196476063833,
       "category": "mindmap"
@@ -38,6 +37,7 @@
     },
     {
       "text": "black-body radiation  ️",
+      "url": "/physics/electromagnetism/electromagnetic-radiation/black-body-radiation",
       "fx": -484.2141633580951,
       "fy": 173.74126163335598,
       "category": "mindmap"

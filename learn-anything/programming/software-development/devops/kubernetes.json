@@ -1,13 +1,11 @@
 {
   "title": "learn anything - programming - software development - devops - kubernetes",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "kubernetes",
       "url": "http://www.wikiwand.com/en/Kubernetes",
       "fx": -93.62109375,
-      "fy": -321.8515625,
+      "fy": -346.8952077513967,
       "category": "wiki"
     },
     {
@@ -28,32 +26,39 @@
       "url": "",
       "fx": -272.4946686036509,
       "fy": 101.42662191325155
+    },
+    {
+      "text": "openshift  ️",
+      "url": "/programming/software-development/devops/kubernetes/openshift",
+      "fx": -291.79129142651266,
+      "fy": 246.32528818443802,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/ramitsurana/awesome-kubernetes",
+      "fx": 134.37890625,
+      "fy": -332.8952077513967,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "kubernetes"
+    },
+    {
       "text": "kubernetes clusters for the hobbyist",
       "url": "https://github.com/hobby-kube/guide",
       "fx": 219.73458087517713,
-      "fy": -284.2667151270782,
+      "fy": -264.2667151270782,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome kubernetes",
-      "url": "https://github.com/ramitsurana/awesome-kubernetes",
-      "fx": 219.73458087517713,
-      "fy": -222.2667151270782,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "kubernetes design and architecture",
       "url": "https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture.md",
       "fx": 219.73458087517713,
-      "fy": -182.2667151270782,
+      "fy": -202.2667151270782,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -62,7 +67,7 @@
       "text": "kubernetes docs",
       "url": "https://kubernetes.io/docs/home/",
       "fx": 219.73458087517713,
-      "fy": -120.26671512707821,
+      "fy": -140.2667151270782,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
@@ -70,7 +75,7 @@
       "text": "kubernetes components",
       "url": "",
       "fx": 219.73458087517713,
-      "fy": -86.26671512707821,
+      "fy": -106.26671512707821,
       "category": "image",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -117,7 +122,7 @@
       "target": "kubernetes",
       "curve": {
         "x": -65.4278,
-        "y": -61.2925
+        "y": -73.8143
       }
     },
     {
@@ -125,7 +130,7 @@
       "target": "basics",
       "curve": {
         "x": -107.437,
-        "y": 210.389
+        "y": 222.911
       }
     },
     {
@@ -134,6 +139,14 @@
       "curve": {
         "x": 57.8304,
         "y": 127.831
+      }
+    },
+    {
+      "source": "basics",
+      "target": "openshift  ️",
+      "curve": {
+        "x": -9.89831,
+        "y": 72.4493
       }
     }
   ]

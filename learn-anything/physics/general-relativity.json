@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - general relativity",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "general relativity",
@@ -25,6 +23,7 @@
     },
     {
       "text": "equivalence principle  ️",
+      "url": "/physics/general-relativity/equivalence-principle",
       "fx": -400.96744791666674,
       "fy": 347.0646701388889,
       "category": "mindmap"

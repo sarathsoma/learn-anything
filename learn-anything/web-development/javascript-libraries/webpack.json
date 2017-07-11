@@ -1,53 +1,69 @@
 {
   "title": "learn anything - web development - javascript libraries - webpack",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "webpack",
       "url": "https://github.com/webpack/webpack",
-      "fx": -69.0703125,
-      "fy": -338.53125,
+      "fx": -51.83203125,
+      "fy": -262.546875,
       "category": "github"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 43.34375,
-      "fy": -200.94440174102783
+      "fx": 93.9609375,
+      "fy": -153.10846424102783
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -66.25002904236317,
-      "fy": -63.54819107055664
+      "fx": -101.44143529236317,
+      "fy": -18.32553482055664
     }
   ],
   "subnodes": [
     {
-      "text": "awesome webpack",
+      "text": "",
+      "url": "https://www.reddit.com/r/webpack/",
+      "fx": 158.16796875,
+      "fy": -268.546875,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "webpack"
+    },
+    {
+      "text": "awesome",
       "url": "https://github.com/webpack-contrib/awesome-webpack",
-      "fx": 180.34375,
-      "fy": -209.44440174102783,
+      "fx": 158.16796875,
+      "fy": -228.546875,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "webpack"
     },
     {
       "text": "16: webpack - the confusing parts  ️",
       "url": "https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9",
-      "fx": 180.34375,
-      "fy": -169.44440174102783,
+      "fx": 230.9609375,
+      "fy": -141.60846424102783,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
+      "text": "1. webpack: the core concepts",
+      "url": "http://webpack.academy/p/the-core-concepts",
+      "fx": 80.55856470763683,
+      "fy": -23.82553482055664,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. introduction to webpack",
       "url": "https://survivejs.com/webpack/introduction/",
-      "fx": 115.74997095763683,
-      "fy": -49.04819107055664,
+      "fx": 80.55856470763683,
+      "fy": 16.17446517944336,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -57,16 +73,16 @@
       "source": "help",
       "target": "webpack",
       "curve": {
-        "x": -45.207,
-        "y": -68.7934
+        "x": -61.8965,
+        "y": -54.7192
       }
     },
     {
       "source": "webpack",
       "target": "basics",
       "curve": {
-        "x": -4.83986,
-        "y": 137.491
+        "x": -31.0547,
+        "y": 122.11
       }
     }
   ]

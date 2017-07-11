@@ -1,33 +1,31 @@
 {
   "title": "learn anything - mathematics - statistics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "statistics",
       "url": "http://www.wikiwand.com/en/Statistics",
-      "fx": 34.70010536325128,
-      "fy": -429.15549507498434,
+      "fx": 51.16880391821758,
+      "fy": -497.8581704072813,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 229.6315019009553,
-      "fy": -267.5113507005949
+      "fx": 248.52862040744867,
+      "fy": -327.0791266746209
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 438.3540210943113,
-      "fy": -93.45643068730146
+      "fx": 442.25012499041554,
+      "fy": -124.90427971327551
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -30.491833379898935,
-      "fy": 78.79237155256601
+      "fy": 58.92630012399468
     },
     {
       "text": "predictive modelling",
@@ -48,12 +46,6 @@
       "url": "/mathematics/statistics/bayesian-statistics",
       "fx": -693.549987920013,
       "fy": 308.73956873115014,
-      "category": "mindmap"
-    },
-    {
-      "text": "principal component analysis  ️",
-      "fx": 183.6311634218464,
-      "fy": 403.7114553564337,
       "category": "mindmap"
     },
     {
@@ -78,13 +70,22 @@
       "category": "wiki"
     },
     {
+      "text": "principal component analysis  ️",
+      "url": "/mathematics/statistics/principal-component-analysis",
+      "fx": 223.3919488200761,
+      "fy": 507.33078610864607,
+      "category": "mindmap"
+    },
+    {
       "text": "ordinary least squares  ️",
-      "fx": 126.49034667876845,
-      "fy": 565.7590887230563,
+      "url": "/mathematics/statistics/ordinary-least-squares",
+      "fx": 116.41706128053806,
+      "fy": 579.4828165991623,
       "category": "mindmap"
     },
     {
       "text": "p-value  ️",
+      "url": "/mathematics/statistics/p-value",
       "fx": -497.6953023274741,
       "fy": 629.9096366585079,
       "category": "mindmap"
@@ -92,15 +93,15 @@
     {
       "text": "probability theory  ️",
       "url": "/mathematics/statistics/probability-theory",
-      "fx": 39.694407632072625,
-      "fy": 694.4054587424216,
+      "fx": -1.8190049785466726,
+      "fy": 690.7135339636607,
       "category": "mindmap"
     },
     {
       "text": "regression analysis  ️",
       "url": "/mathematics/statistics/regression-analysis",
-      "fx": -97.4603441455697,
-      "fy": 782.5540941455708,
+      "fx": -116.45923795087924,
+      "fy": 777.0196638358364,
       "category": "mindmap"
     }
   ],
@@ -108,17 +109,26 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/statistics/",
-      "fx": 240.70010536325128,
-      "fy": -415.15549507498434,
+      "fx": 257.1688039182176,
+      "fy": -503.8581704072813,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "statistics"
     },
     {
+      "text": "️",
+      "url": "https://stats.stackexchange.com/",
+      "fx": 257.1688039182176,
+      "fy": -463.8581704072813,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "statistics"
+    },
+    {
       "text": "probability and statistics cookbook",
       "url": "https://github.com/mavam/stat-cookbook",
-      "fx": 366.6315019009553,
-      "fy": -352.0113507005949,
+      "fx": 385.52862040744867,
+      "fy": -411.5791266746209,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -126,8 +136,8 @@
     {
       "text": "advanced probability",
       "url": "http://www.math.ku.dk/noter/filer/vidsand12.pdf",
-      "fx": 366.6315019009553,
-      "fy": -290.0113507005949,
+      "fx": 385.52862040744867,
+      "fy": -349.5791266746209,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -135,16 +145,16 @@
     {
       "text": "probability, mathematical statistics, stochastic processes",
       "url": "http://www.math.uah.edu/stat/index.html",
-      "fx": 366.6315019009553,
-      "fy": -250.0113507005949,
+      "fx": 385.52862040744867,
+      "fy": -309.5791266746209,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "conditional probability",
       "url": "http://setosa.io/ev/conditional-probability/",
-      "fx": 366.6315019009553,
-      "fy": -194.0113507005949,
+      "fx": 385.52862040744867,
+      "fy": -253.5791266746209,
       "category": "interactive",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -152,16 +162,16 @@
     {
       "text": "cheat sheet",
       "url": "http://www.datasciencecentral.com/profiles/blogs/a-cheat-sheet-on-probability",
-      "fx": 366.6315019009553,
-      "fy": -154.0113507005949,
+      "fx": 385.52862040744867,
+      "fy": -213.5791266746209,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "simpson’s paradox",
       "url": "http://vudlab.com/simpsons/",
-      "fx": 629.3540210943113,
-      "fy": -121.95643068730146,
+      "fx": 633.2501249904155,
+      "fy": -153.4042797132755,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -170,8 +180,8 @@
       "text": "years you have to live, probably",
       "note": "great illustration of survival analysis, and of probabalistic proccesses in general",
       "url": "http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/",
-      "fx": 629.3540210943113,
-      "fy": -81.95643068730146,
+      "fx": 633.2501249904155,
+      "fy": -113.40427971327551,
       "category": "interactive",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
@@ -179,8 +189,8 @@
     {
       "text": "interpreting confidence intervals",
       "url": "http://rpsychologist.com/d3/CI/",
-      "fx": 629.3540210943113,
-      "fy": -41.95643068730146,
+      "fx": 633.2501249904155,
+      "fy": -73.40427971327551,
       "category": "interactive",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "interesting"
@@ -190,7 +200,7 @@
       "note": "visual introduction to probability and statistics",
       "url": "http://students.brown.edu/seeing-theory/",
       "fx": 151.50816662010106,
-      "fy": -82.70762844743399,
+      "fy": -102.57369987600532,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -199,7 +209,7 @@
       "text": "1. statistics 110: probability",
       "url": "http://projects.iq.harvard.edu/stat110/youtube",
       "fx": 151.50816662010106,
-      "fy": -42.70762844743399,
+      "fy": -62.57369987600532,
       "category": "",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -208,7 +218,7 @@
       "text": "1. an introduction to statistical learning",
       "url": "http://www-bcf.usc.edu/%7Egareth/ISL/index.html",
       "fx": 151.50816662010106,
-      "fy": -2.70762844743399,
+      "fy": -22.57369987600532,
       "category": "free book",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
@@ -217,7 +227,7 @@
       "text": "",
       "url": "https://statweb.stanford.edu/%7Etibs/ElemStatLearn/",
       "fx": 151.50816662010106,
-      "fy": 59.29237155256601,
+      "fy": 39.42630012399468,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -226,7 +236,7 @@
       "text": "2. statistics notes  ️",
       "url": "http://frnsys.com/ai_notes/foundations/statistics.html",
       "fx": 151.50816662010106,
-      "fy": 121.29237155256601,
+      "fy": 101.42630012399468,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
@@ -235,7 +245,7 @@
       "text": "2. statistics done wrong",
       "url": "https://www.statisticsdonewrong.com/",
       "fx": 151.50816662010106,
-      "fy": 161.292371552566,
+      "fy": 141.42630012399468,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -244,7 +254,7 @@
       "text": "2. intermediate statistics",
       "url": "https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF",
       "fx": 151.50816662010106,
-      "fy": 201.292371552566,
+      "fy": 181.42630012399468,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -253,7 +263,7 @@
       "text": "3. notes on probabilistic graphical models",
       "url": "https://ermongroup.github.io/cs228-notes/",
       "fx": 151.50816662010106,
-      "fy": 241.292371552566,
+      "fy": 221.42630012399468,
       "category": "",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -264,16 +274,16 @@
       "source": "statistics",
       "target": "basics",
       "curve": {
-        "x": -45.0959,
-        "y": 252.724
+        "x": -53.3302,
+        "y": 277.142
       }
     },
     {
       "source": "help",
       "target": "statistics",
       "curve": {
-        "x": -80.2156,
-        "y": -79.572
+        "x": -81.4298,
+        "y": -84.1394
       }
     },
     {
@@ -281,7 +291,7 @@
       "target": "stochastic process",
       "curve": {
         "x": -164.282,
-        "y": 169.946
+        "y": 179.879
       }
     },
     {
@@ -289,23 +299,23 @@
       "target": "multivariable statistics",
       "curve": {
         "x": -301.216,
-        "y": 166.406
+        "y": 176.339
       }
     },
     {
       "source": "basics",
       "target": "principal component analysis  ️",
       "curve": {
-        "x": 106.57,
-        "y": 213.625
+        "x": 126.45,
+        "y": 275.368
       }
     },
     {
       "source": "basics",
       "target": "ordinary least squares  ️",
       "curve": {
-        "x": 80.1819,
-        "y": 305.502
+        "x": 75.1453,
+        "y": 322.297
       }
     },
     {
@@ -313,7 +323,7 @@
       "target": "statistical hypothesis testing",
       "curve": {
         "x": -107.479,
-        "y": 206.317
+        "y": 216.25
       }
     },
     {
@@ -328,16 +338,16 @@
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -175.163,
-        "y": -50.2662
+        "x": -167.662,
+        "y": -64.3262
       }
     },
     {
       "source": "basics",
       "target": "probability theory  ️",
       "curve": {
-        "x": 9.34557,
-        "y": 365.796
+        "x": -11.4111,
+        "y": 373.883
       }
     },
     {
@@ -345,7 +355,7 @@
       "target": "bayesian statistics  ️",
       "curve": {
         "x": -311.279,
-        "y": 114.973
+        "y": 124.906
       }
     },
     {
@@ -353,7 +363,7 @@
       "target": "statistical model  ️",
       "curve": {
         "x": -334.699,
-        "y": 73.482
+        "y": 83.415
       }
     },
     {
@@ -361,15 +371,15 @@
       "target": "predictive modelling",
       "curve": {
         "x": -336.082,
-        "y": 36.6818
+        "y": 46.6148
       }
     },
     {
       "source": "basics",
       "target": "regression analysis  ️",
       "curve": {
-        "x": -50.3032,
-        "y": 509.886
+        "x": -59.8026,
+        "y": 517.052
       }
     }
   ]

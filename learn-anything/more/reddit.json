@@ -1,7 +1,5 @@
 {
   "title": "learn anything - more - reddit",
-  "tag": "reddit subreddits",
-  "description": "",
   "nodes": [
     {
       "text": "subreddits",
@@ -10,8 +8,33 @@
       "fx": -14.5,
       "fy": 4,
       "category": "github"
+    },
+    {
+      "text": "related sites",
+      "url": "",
+      "fx": 0.7799295774672146,
+      "fy": 157.8330765845305
     }
   ],
-  "subnodes": [],
-  "connections": []
+  "subnodes": [
+    {
+      "text": "search subreddits",
+      "url": "https://www.reddit.com/subreddits/search/",
+      "fx": 207.77992957746721,
+      "fy": 169.3330765845305,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "related sites"
+    }
+  ],
+  "connections": [
+    {
+      "source": "subreddits",
+      "target": "related sites",
+      "curve": {
+        "x": -2.61004,
+        "y": 75.6665
+      }
+    }
+  ]
 }

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - software - bots",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "bots",
@@ -9,33 +7,18 @@
       "fx": -86.62109375,
       "fy": -277.9921875,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -25.8359375,
-      "fy": -142.52734375
     }
   ],
   "subnodes": [
     {
-      "text": "bots",
+      "text": "awesome",
       "url": "https://github.com/hackerkid/bots",
-      "fx": 111.1640625,
-      "fy": -131.02734375,
+      "fx": 80.37890625,
+      "fy": -263.9921875,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "bots"
     }
   ],
-  "connections": [
-    {
-      "source": "help",
-      "target": "bots",
-      "curve": {
-        "x": -22.8926,
-        "y": -66.4824
-      }
-    }
-  ]
+  "connections": []
 }

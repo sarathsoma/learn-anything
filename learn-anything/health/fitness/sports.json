@@ -1,7 +1,5 @@
 {
   "title": "learn anything - health - fitness - sports",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "sports",
@@ -87,6 +85,7 @@
     },
     {
       "text": "parkour  ️",
+      "url": "/health/fitness/sports/parkour",
       "fx": -98.84375,
       "fy": -164.5546875,
       "category": "mindmap",
@@ -167,6 +166,7 @@
     },
     {
       "text": "snooker  ️",
+      "url": "/health/fitness/sports/snooker",
       "fx": -98.84375,
       "fy": 195.4453125,
       "category": "mindmap",

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - machine learning - reinforcement learning",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "reinforcement learning",
@@ -14,14 +12,14 @@
       "text": "help",
       "url": "",
       "fx": 161.84540719696963,
-      "fy": -49.53867869031228
+      "fy": -29.89766629361816
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 21.13535568755742,
-      "fy": 112.22353506657487
+      "fx": 12.522235852846734,
+      "fy": 181.3673883723601
     }
   ],
   "subnodes": [
@@ -38,7 +36,7 @@
       "text": "deep enforcement learning papers",
       "url": "https://github.com/muupan/deep-reinforcement-learning-papers",
       "fx": 298.84540719696963,
-      "fy": -89.03867869031228,
+      "fy": -69.39766629361816,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -48,7 +46,7 @@
       "note": "high-quality implementations of reinforcement learning algorithms",
       "url": "https://github.com/openai/baselines",
       "fx": 298.84540719696963,
-      "fy": -27.03867869031228,
+      "fy": -7.397666293618158,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -57,7 +55,7 @@
       "text": "practical RL",
       "url": "https://github.com/yandexdataschool/Practical_RL",
       "fx": 298.84540719696963,
-      "fy": 12.961321309687719,
+      "fy": 32.60233370638184,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -65,8 +63,8 @@
     {
       "text": "1. deep reinforcement learning",
       "url": "http://rll.berkeley.edu/deeprlcourse/",
-      "fx": 203.13535568755742,
-      "fy": 72.72353506657487,
+      "fx": 194.52223585284673,
+      "fy": 121.8673883723601,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -74,17 +72,26 @@
     {
       "text": "1. introduction to reinforcement learning",
       "url": "https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;feature=youtu.be&amp;list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT",
-      "fx": 203.13535568755742,
-      "fy": 112.72353506657487,
+      "fx": 194.52223585284673,
+      "fy": 161.8673883723601,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. minimal and clean RL examples",
+      "url": "https://github.com/rlcode/reinforcement-learning",
+      "fx": 194.52223585284673,
+      "fy": 223.8673883723601,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. notes on reinforcement learning  ️",
       "url": "http://frnsys.com/ai_notes/artificial_intelligence/reinforcement_learning.html",
-      "fx": 203.13535568755742,
-      "fy": 174.72353506657487,
+      "fx": 194.52223585284673,
+      "fy": 263.8673883723601,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -96,15 +103,15 @@
       "target": "reinforcement learning",
       "curve": {
         "x": -46.8563,
-        "y": -71.5937
+        "y": -81.4142
       }
     },
     {
       "source": "reinforcement learning",
       "target": "basics",
       "curve": {
-        "x": -18.7487,
-        "y": 152.475
+        "x": -23.0553,
+        "y": 187.047
       }
     }
   ]

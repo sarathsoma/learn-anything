@@ -1,13 +1,11 @@
 {
   "title": "learn anything - programming - programming languages - haskell",
-  "tag": "haskell programming language",
-  "description": "",
   "nodes": [
     {
       "text": "haskell",
       "url": "http://www.wikiwand.com/en/Haskell_(programming_language)",
-      "fx": -104.80136117317704,
-      "fy": -588.7094207072855,
+      "fx": -105.76236781034504,
+      "fy": -676.9768432736572,
       "category": "wiki"
     },
     {
@@ -40,17 +38,35 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/haskell/",
-      "fx": 84.19863882682296,
-      "fy": -574.7094207072855,
+      "fx": 83.23763218965496,
+      "fy": -702.9768432736572,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "haskell"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/krispo/awesome-haskell",
+      "fx": 83.23763218965496,
+      "fy": -662.9768432736572,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "haskell"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/haskell",
+      "fx": 83.23763218965496,
+      "fy": -622.9768432736572,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "haskell"
     },
     {
       "text": "haskell style guide",
       "url": "https://github.com/tibbe/haskell-style-guide",
       "fx": 207.1974204344641,
-      "fy": -556.1672844775428,
+      "fy": -536.1672844775428,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -59,7 +75,7 @@
       "text": "write you a haskell ",
       "url": "http://dev.stephendiehl.com/fun/",
       "fx": 207.1974204344641,
-      "fy": -516.1672844775428,
+      "fy": -496.1672844775428,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -67,7 +83,7 @@
       "text": "joys of haskell",
       "url": "https://joyofhaskell.com/",
       "fx": 207.1974204344641,
-      "fy": -482.1672844775428,
+      "fy": -462.1672844775428,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -75,24 +91,15 @@
       "text": "thinking functionally with haskell",
       "url": "https://pragprog.com/magazines/2012-09/thinking-functionally-with-haskell",
       "fx": 207.1974204344641,
-      "fy": -448.1672844775428,
+      "fy": -428.1672844775428,
       "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome haskell",
-      "url": "https://github.com/krispo/awesome-haskell",
-      "fx": 207.1974204344641,
-      "fy": -414.1672844775428,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "haskell concepts in one sentence",
       "url": "https://torchhound.github.io/posts/haskellOneSentence.html",
       "fx": 207.1974204344641,
-      "fy": -374.1672844775428,
+      "fy": -394.1672844775428,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
@@ -100,7 +107,7 @@
       "text": "what i wish i knew when learning haskell",
       "url": "http://dev.stephendiehl.com/hask/",
       "fx": 207.1974204344641,
-      "fy": -340.1672844775428,
+      "fy": -360.1672844775428,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -108,7 +115,7 @@
       "text": "haskell weekly",
       "url": "https://haskellweekly.news/",
       "fx": 207.1974204344641,
-      "fy": -284.1672844775428,
+      "fy": -304.1672844775428,
       "category": "newsletter",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -117,7 +124,7 @@
       "text": "scheme in 48 hours",
       "url": "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours",
       "fx": 207.1974204344641,
-      "fy": -244.1672844775428,
+      "fy": -264.1672844775428,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
@@ -125,7 +132,7 @@
       "text": "haskell wikibook",
       "url": "https://en.wikibooks.org/wiki/Haskell",
       "fx": 207.1974204344641,
-      "fy": -210.1672844775428,
+      "fy": -230.1672844775428,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
@@ -252,16 +259,16 @@
       "source": "haskell",
       "target": "basics",
       "curve": {
-        "x": -55.3995,
-        "y": 353.768
+        "x": -54.919,
+        "y": 397.902
       }
     },
     {
       "source": "help",
       "target": "haskell",
       "curve": {
-        "x": -81.7495,
-        "y": -95.5211
+        "x": -82.23,
+        "y": -139.655
       }
     },
     {

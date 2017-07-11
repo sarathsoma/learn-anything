@@ -1,34 +1,32 @@
 {
   "title": "learn anything - software - tooling - productivity - hammerspoon",
-  "tag": "hammerspoon macOS automation",
-  "description": "",
   "nodes": [
     {
       "text": "hammerspoon",
       "url": "http://www.hammerspoon.org/",
-      "fx": -115.53016104539631,
-      "fy": -183.31508751598466
+      "fx": -103.83053254889285,
+      "fy": -109.00346164185885
     },
     {
-      "text": "help",
+      "text": "interesting",
       "url": "",
-      "fx": 47.88232080419573,
-      "fy": -78.17045454545394
+      "fx": 12.7672441709841,
+      "fy": 6.898881768402305
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -99.56173330864499,
-      "fy": 45.231322118039884
+      "fx": -116.67170835794627,
+      "fy": 121.9553032910876
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/hammerspoon/",
-      "fx": 114.46983895460369,
-      "fy": -171.81508751598466,
+      "fx": 126.16946745110715,
+      "fy": -97.50346164185885,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "hammerspoon"
@@ -36,17 +34,26 @@
     {
       "text": "awesome hammerspoon",
       "url": "https://github.com/ashfinal/awesome-hammerspoon",
-      "fx": 184.88232080419573,
-      "fy": -66.67045454545394,
+      "fx": 203.7672441709841,
+      "fy": -1.6011182315976953,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "interesting"
+    },
+    {
+      "text": "Anycomplete",
+      "url": "https://github.com/nathancahill/Anycomplete",
+      "fx": 203.7672441709841,
+      "fy": 38.398881768402305,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
     },
     {
       "text": "1. getting started",
       "url": "http://www.hammerspoon.org/go/",
-      "fx": 82.43826669135501,
-      "fy": 59.731322118039884,
+      "fx": 65.32829164205373,
+      "fy": 136.4553032910876,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -56,16 +63,16 @@
       "source": "hammerspoon",
       "target": "basics",
       "curve": {
-        "x": -10.5158,
-        "y": 114.273
+        "x": -24.9206,
+        "y": 115.479
       }
     },
     {
-      "source": "help",
+      "source": "interesting",
       "target": "hammerspoon",
       "curve": {
-        "x": -58.4562,
-        "y": -52.5723
+        "x": -48.5488,
+        "y": -57.9511
       }
     }
   ]

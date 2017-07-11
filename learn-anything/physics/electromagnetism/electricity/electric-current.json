@@ -1,0 +1,69 @@
+{
+  "title": "learn anything - physics - electromagnetism - electricity - electric current",
+  "nodes": [
+    {
+      "text": "electric current",
+      "url": "http://www.wikiwand.com/en/Electric_current",
+      "fx": -62.42578125,
+      "fy": -157.2734375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -25.2265625,
+      "fy": -14.421875
+    },
+    {
+      "text": "electrical resistivity  ️",
+      "url": "/physics/electromagnetism/electricity/electric-current/electrical-resistivity",
+      "fx": -235.3125,
+      "fy": 112.12723214285711,
+      "category": "mindmap"
+    },
+    {
+      "text": "voltage  ️",
+      "url": "/physics/electromagnetism/electricity/electric-current/voltage",
+      "fx": 45.871122124697195,
+      "fy": 115.6758159301857,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=HXOok3mfMLM",
+      "fx": 130.7734375,
+      "fy": -2.921875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "electric current",
+      "target": "basics",
+      "curve": {
+        "x": -7.65039,
+        "y": 70.1758
+      }
+    },
+    {
+      "source": "basics",
+      "target": "voltage  ️",
+      "curve": {
+        "x": 37.2989,
+        "y": 65.0488
+      }
+    },
+    {
+      "source": "basics",
+      "target": "electrical resistivity  ️",
+      "curve": {
+        "x": -66.543,
+        "y": 69.5246
+      }
+    }
+  ]
+}

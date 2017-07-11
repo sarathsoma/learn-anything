@@ -1,126 +1,141 @@
 {
   "title": "learn anything - cryptocurrency - bitcoin",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "bitcoin",
       "url": "http://www.wikiwand.com/en/Bitcoin",
       "fx": -133.57476872983204,
-      "fy": -392.7086712381113,
+      "fy": -412.43298876684696,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": -0.8529036667035825,
-      "fy": -225.13647593622625
+      "fx": 2.11943828731944,
+      "fy": -208.55960812013427
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -159.00224384841147,
-      "fy": 45.071674388076076
+      "fx": -230.79193494036565,
+      "fy": 96.24579435934061
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/btc/",
-      "fx": 52.425231270167956,
-      "fy": -398.7086712381113,
+      "fx": 62.425231270167956,
+      "fy": -440.43298876684696,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "bitcoin"
     },
     {
       "text": "️",
       "url": "https://bitcoin.stackexchange.com/",
-      "fx": 52.425231270167956,
-      "fy": -358.7086712381113,
+      "fx": 62.425231270167956,
+      "fy": -398.43298876684696,
       "category": "stack exchange",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "bitcoin"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/igorbarinov/awesome-bitcoin",
+      "fx": 62.425231270167956,
+      "fy": -356.43298876684696,
+      "category": "github",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "bitcoin"
     },
     {
       "text": "real time bitcoin",
       "url": "https://realtimebitcoin.info/",
-      "fx": 136.14709633329642,
-      "fy": -329.63647593622625,
+      "fx": 143.11943828731944,
+      "fy": -300.05960812013427,
       "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "14: best resources for learning to build bitcoin and block chain applications  ️",
       "url": "https://medium.com/zapchain-magazine/the-best-resources-for-learning-to-build-bitcoin-and-block-chain-applications-8de1953506f5",
-      "fx": 136.14709633329642,
-      "fy": -289.63647593622625,
+      "fx": 143.11943828731944,
+      "fy": -258.05960812013427,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "bitcoin forum",
       "url": "https://bitcointalk.org/index.php",
-      "fx": 136.14709633329642,
-      "fy": -205.63647593622625,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome bitcoin",
-      "url": "https://github.com/igorbarinov/awesome-bitcoin",
-      "fx": 136.14709633329642,
-      "fy": -171.63647593622625,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "fx": 143.11943828731944,
+      "fy": -166.05960812013427,
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "CoinSalad",
       "note": "Bitcoin market stats and charting data on some key components of the Bitcoin network",
       "url": "https://coinsalad.com/",
-      "fx": 136.14709633329642,
-      "fy": -131.63647593622625,
-      "color": "rgba(49, 187, 71, 1.0)",
+      "fx": 143.11943828731944,
+      "fy": -129.05960812013427,
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "help"
     },
     {
       "text": "notes on bitcoin",
       "url": "https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizweb1/",
-      "fx": 136.14709633329642,
-      "fy": -97.63647593622625,
+      "fx": 143.11943828731944,
+      "fy": -92.05960812013427,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "1 how bitcoin works",
+      "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4&amp;t=540s",
+      "fx": -41.79193494036565,
+      "fy": 20.745794359340607,
+      "category": "video",
+      "color": "rgba(255, 254, 60, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. bitcoin: a peer-to-peer electronic cash system",
+      "url": "https://bitcoin.org/bitcoin.pdf",
+      "fx": -41.79193494036565,
+      "fy": 62.74579435934061,
+      "category": "paper",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "annotated",
+      "url": "http://fermatslibrary.com/s/bitcoin",
+      "fx": 265.20806505963435,
+      "fy": 77.74579435934061,
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "1. bitcoin: a peer-to-peer electronic cash system"
     },
     {
       "text": "1. mastering bitcoin",
       "url": "https://github.com/bitcoinbook/bitcoinbook",
-      "fx": 22.997756151588533,
-      "fy": -5.428325611923924,
+      "fx": -41.79193494036565,
+      "fy": 129.7457943593406,
       "category": "non-free book",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
-      "text": "1. how bitcoin works under the hood",
-      "url": "https://www.youtube.com/watch?v=Lx9zgZCMqXE",
-      "fx": 22.997756151588533,
-      "fy": 34.571674388076076,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. bitcoin: a peer-to-peer electronic cash system",
-      "url": "https://bitcoin.org/bitcoin.pdf",
-      "fx": 22.997756151588533,
-      "fy": 96.57167438807608,
-      "category": "paper",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "text": "1. how the bitcoin protocol actually works  ️",
+      "url": "http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/",
+      "fx": -41.79193494036565,
+      "fy": 171.7457943593406,
+      "category": "article",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     }
   ],
@@ -129,16 +144,16 @@
       "source": "help",
       "target": "bitcoin",
       "curve": {
-        "x": -53.8609,
-        "y": -82.5362
+        "x": -55.3471,
+        "y": -100.687
       }
     },
     {
       "source": "bitcoin",
       "target": "basics",
       "curve": {
-        "x": -20.4637,
-        "y": 217.64
+        "x": -56.3585,
+        "y": 253.09
       }
     }
   ]

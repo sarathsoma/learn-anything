@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - number theory - arithmetic",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "arithmetic",
@@ -18,12 +16,14 @@
     },
     {
       "text": "modular arithmetic  ️",
+      "url": "/mathematics/number-theory/arithmetic/modular-arithmetic",
       "fx": -154.45300474987982,
       "fy": 148.54899440836942,
       "category": "mindmap"
     },
     {
       "text": "multiplication  ️",
+      "url": "/mathematics/number-theory/arithmetic/multiplication",
       "fx": 101.21641021573578,
       "fy": 152.75444162436554,
       "category": "mindmap"

@@ -1,20 +1,18 @@
 {
   "title": "learn anything - programming - programming languages - erlang",
-  "tag": "erlang programming language",
-  "description": "",
   "nodes": [
     {
       "text": "erlang",
       "url": "http://www.wikiwand.com/en/Erlang_(programming_language)",
-      "fx": -56.22265625,
-      "fy": -392.90234375,
+      "fx": -46.02408854166674,
+      "fy": -443.25390624999994,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 57.13099373711498,
-      "fy": -282.6432267865565
+      "fx": 56.22604582044812,
+      "fy": -305.2311174115565
     },
     {
       "text": "basics",
@@ -28,8 +26,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/erlang/",
-      "fx": 126.77734375,
-      "fy": -398.90234375,
+      "fx": 136.97591145833326,
+      "fy": -489.25390624999994,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "erlang"
@@ -37,28 +35,37 @@
     {
       "text": "",
       "url": "https://github.com/erlang/otp",
-      "fx": 126.77734375,
-      "fy": -358.90234375,
+      "fx": 136.97591145833326,
+      "fy": -449.25390624999994,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "erlang"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/erlang",
+      "fx": 136.97591145833326,
+      "fy": -409.25390624999994,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "erlang"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/drobakowski/awesome-erlang",
+      "fx": 136.97591145833326,
+      "fy": -369.25390624999994,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "erlang"
     },
     {
       "text": "spawned shelter",
       "note": "best articles, videos and books for learning erlang",
       "url": "http://spawnedshelter.com/",
-      "fx": 194.13099373711498,
-      "fy": -288.1432267865565,
+      "fx": 193.22604582044812,
+      "fy": -290.7311174115565,
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome erlang",
-      "url": "https://github.com/drobakowski/awesome-erlang",
-      "fx": 194.13099373711498,
-      "fy": -254.1432267865565,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
@@ -76,16 +83,16 @@
       "source": "help",
       "target": "erlang",
       "curve": {
-        "x": -45.1768,
-        "y": -53.8796
+        "x": -39.625,
+        "y": -67.7614
       }
     },
     {
       "source": "erlang",
       "target": "basics",
       "curve": {
-        "x": -7.30363,
-        "y": 104.468
+        "x": -12.4029,
+        "y": 129.644
       }
     }
   ]

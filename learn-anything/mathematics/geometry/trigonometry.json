@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - geometry - trigonometry",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "trigonometry",
@@ -20,13 +18,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -44.55159320014104,
-      "fy": -125.58884123672817
+      "fx": -82.86503756827278,
+      "fy": -126.60618326969518
     },
     {
       "text": "trigonometric functions  ️",
-      "fx": -195.10963255494505,
-      "fy": 10.18402914050273,
+      "url": "/mathematics/geometry/trigonometry/trigonometric-functions",
+      "fx": -202.32331730769238,
+      "fy": 6.245584772370762,
       "category": "mindmap"
     }
   ],
@@ -41,10 +40,19 @@
       "parent": "interesting"
     },
     {
+      "text": "1. a universe of triangles",
+      "url": "https://www.youtube.com/watch?v=KdyvizaygyY",
+      "fx": 99.13496243172722,
+      "fy": -166.10618326969518,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. how to learn trigonometry intuitively  ️",
       "url": "https://betterexplained.com/articles/intuitive-trigonometry/",
-      "fx": 137.44840679985896,
-      "fy": -145.08884123672817,
+      "fx": 99.13496243172722,
+      "fy": -126.10618326969518,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -52,8 +60,8 @@
     {
       "text": "1. khan academy trigonometry",
       "url": "https://www.khanacademy.org/math/trigonometry",
-      "fx": 137.44840679985896,
-      "fy": -83.08884123672817,
+      "fx": 99.13496243172722,
+      "fy": -64.10618326969518,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -64,8 +72,8 @@
       "source": "trigonometry",
       "target": "basics",
       "curve": {
-        "x": -2.51967,
-        "y": 113.612
+        "x": -21.6764,
+        "y": 113.103
       }
     },
     {
@@ -80,8 +88,8 @@
       "source": "basics",
       "target": "trigonometric functions  ️",
       "curve": {
-        "x": -44.529,
-        "y": 67.8864
+        "x": -28.9791,
+        "y": 66.4258
       }
     }
   ]

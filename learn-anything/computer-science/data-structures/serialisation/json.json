@@ -1,20 +1,18 @@
 {
   "title": "learn anything - computer science - data structures - serialisation - json",
-  "tag": "JSON",
-  "description": "",
   "nodes": [
     {
       "text": "JSON",
       "url": "http://www.wikiwand.com/en/JSON",
-      "fx": -82.4765625,
-      "fy": -325.1796875,
+      "fx": -71.73876404494376,
+      "fy": -321.88351474719104,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 16.55859375,
-      "fy": -220.890625
+      "fx": 32.85950667134853,
+      "fy": -216.76711727528084
     },
     {
       "text": "basics",
@@ -25,6 +23,7 @@
     },
     {
       "text": "GeoJSON  ️",
+      "url": "/computer-science/data-structures/serialisation/json/geojson",
       "fx": -157.60894731562064,
       "fy": 6.502328283841848,
       "category": "mindmap"
@@ -34,28 +33,28 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/json/",
-      "fx": 97.5234375,
-      "fy": -311.1796875,
+      "fx": 109.26123595505624,
+      "fy": -327.88351474719104,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "JSON"
     },
     {
-      "text": "15: schema-free json data infrastructure  ️",
-      "url": "https://drill.apache.org/blog/2015/01/27/schema-free-json-data-infrastructure/",
-      "fx": 153.55859375,
-      "fy": -240.390625,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome json",
+      "text": "awesome",
       "url": "https://github.com/burningtree/awesome-json",
-      "fx": 153.55859375,
-      "fy": -178.390625,
+      "fx": 109.26123595505624,
+      "fy": -287.88351474719104,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "JSON"
+    },
+    {
+      "text": "15: schema-free json data infrastructure  ️",
+      "url": "https://drill.apache.org/blog/2015/01/27/schema-free-json-data-infrastructure/",
+      "fx": 169.85950667134853,
+      "fy": -216.26711727528084,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
@@ -72,16 +71,16 @@
       "source": "JSON",
       "target": "basics",
       "curve": {
-        "x": 1.98616,
-        "y": 98.4414
+        "x": -3.38274,
+        "y": 96.7933
       }
     },
     {
       "source": "help",
       "target": "JSON",
       "curve": {
-        "x": -42.7676,
-        "y": -50.8945
+        "x": -45.5492,
+        "y": -51.3082
       }
     },
     {

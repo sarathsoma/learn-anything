@@ -1,7 +1,5 @@
 {
   "title": "learn anything - databases - nosql databases - redis",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "redis",
@@ -29,9 +27,18 @@
       "text": "",
       "url": "https://www.reddit.com/r/redis/",
       "fx": 122.3404017857141,
-      "fy": -161.89006696428572,
+      "fy": -181.89006696428572,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "redis"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/JamzyWang/awesome-redis",
+      "fx": 122.3404017857141,
+      "fy": -141.89006696428572,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "redis"
     },
     {

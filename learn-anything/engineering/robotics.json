@@ -1,26 +1,18 @@
 {
   "title": "learn anything - engineering - robotics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "robotics",
       "url": "http://www.wikiwand.com/en/Robotics",
-      "fx": -66.62078041443851,
-      "fy": -469.0660720254011,
+      "fx": -58.100142045454504,
+      "fy": -431.04175718582894,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 37.34608907185611,
-      "fy": -355.4301085329452
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 64.21723042562337,
-      "fy": -267.82234242148036
+      "fx": 71.72683938284263,
+      "fy": -293.03541060329854
     },
     {
       "text": "basics",
@@ -41,8 +33,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/robotics/",
-      "fx": 133.3792195855615,
-      "fy": -475.0660720254011,
+      "fx": 141.8998579545455,
+      "fy": -457.04175718582894,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "robotics"
@@ -50,26 +42,26 @@
     {
       "text": "️",
       "url": "https://robotics.stackexchange.com/",
-      "fx": 133.3792195855615,
-      "fy": -435.0660720254011,
+      "fx": 141.8998579545455,
+      "fy": -417.04175718582894,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "robotics"
     },
     {
-      "text": "awesome robotics",
+      "text": "awesome",
       "url": "https://github.com/Kiloreux/awesome-robotics",
-      "fx": 174.3460890718561,
-      "fy": -343.9301085329452,
+      "fx": 141.8998579545455,
+      "fy": -377.04175718582894,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "robotics"
     },
     {
       "text": "robots that learn",
       "url": "https://blog.openai.com/robots-that-learn/",
-      "fx": 255.21723042562337,
-      "fy": -256.32234242148036,
+      "fx": 262.7268393828426,
+      "fy": -281.53541060329854,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -89,24 +81,8 @@
       "source": "robotics",
       "target": "basics",
       "curve": {
-        "x": -4.30652,
-        "y": 137.943
-      }
-    },
-    {
-      "source": "interesting",
-      "target": "help",
-      "curve": {
-        "x": -26.9356,
-        "y": -43.8039
-      }
-    },
-    {
-      "source": "help",
-      "target": "robotics",
-      "curve": {
-        "x": -36.2334,
-        "y": -55.568
+        "x": -8.56684,
+        "y": 118.931
       }
     },
     {
@@ -115,6 +91,14 @@
       "curve": {
         "x": -38.7655,
         "y": 72.4442
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "robotics",
+      "curve": {
+        "x": -62.6635,
+        "y": -67.7532
       }
     }
   ]

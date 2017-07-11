@@ -1,34 +1,19 @@
 {
   "title": "learn anything - programming - programming languages - assembly",
-  "tag": "assembly programming",
-  "description": "",
   "nodes": [
     {
       "text": "assembly",
       "url": "http://www.wikiwand.com/en/Assembly_language",
-      "fx": -18.31252257947972,
-      "fy": -472.72014992774564,
+      "fx": -15.105491329479719,
+      "fy": -470.87639992774564,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 110.84678577136447,
-      "fy": -370.1110950095116
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 17.480152637283368,
-      "fy": -162.44808977601173
-    },
-    {
-      "text": "WebAssembly  ️",
-      "url": "/programming/programming-languages/assembly/WebAssembly",
-      "fx": 99.29176417951567,
-      "fy": 74.52089069383283,
-      "category": "mindmap"
+      "fx": -6.437816112716632,
+      "fy": -163.44808977601173
     },
     {
       "text": "instruction set architectures",
@@ -36,6 +21,13 @@
       "fx": -275.39453125,
       "fy": 76.15234375,
       "category": "wiki"
+    },
+    {
+      "text": "WebAssembly  ️",
+      "url": "/programming/programming-languages/assembly/WebAssembly",
+      "fx": 61.76051417951567,
+      "fy": 99.98182819383283,
+      "category": "mindmap"
     },
     {
       "text": "MIPS",
@@ -63,64 +55,82 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/asm/",
-      "fx": 193.68747742052028,
-      "fy": -458.72014992774564,
+      "fx": 209.89450867052028,
+      "fy": -498.87639992774564,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "assembly"
     },
     {
-      "text": "awesome asm",
-      "url": "https://github.com/jaspergould/awesome-asm",
-      "fx": 247.84678577136447,
-      "fy": -358.6110950095116,
+      "text": "trending",
+      "url": "https://github.com/trending/assembly",
+      "fx": 209.89450867052028,
+      "fy": -456.87639992774564,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "assembly"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/jaspergould/awesome-asm",
+      "fx": 209.89450867052028,
+      "fy": -414.87639992774564,
+      "category": "github",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "assembly"
+    },
+    {
+      "text": "1. from math to machine: translating a function to machine code  ️",
+      "url": "https://briansteffens.github.io/2017/02/20/from-math-to-machine.html",
+      "fx": 182.56218388728337,
+      "fy": -330.9480897760117,
+      "category": "article",
+      "color": "rgba(169, 255, 0, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. c to assembler",
       "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/video-lectures/lecture-6-c-to-assembler/",
-      "fx": 199.48015263728337,
-      "fy": -274.9480897760117,
+      "fx": 182.56218388728337,
+      "fy": -238.94808977601173,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. compiling c to printable x86, to make an executable research paper",
       "url": "https://www.youtube.com/watch?v=LA_DrBwkiJA",
-      "fx": 199.48015263728337,
-      "fy": -234.94808977601173,
+      "fx": 182.56218388728337,
+      "fy": -196.94808977601173,
       "category": "video",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. the art of assembly language programming",
       "url": "https://courses.engr.illinois.edu/ece390/books/artofasm/artofasm.html",
-      "fx": 199.48015263728337,
-      "fy": -150.94808977601173,
+      "fx": 182.56218388728337,
+      "fy": -104.94808977601173,
       "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. programming from the ground up",
       "url": "http://www.cs.princeton.edu/courses/archive/spr08/cos217/reading/ProgrammingGroundUp-1-0-lettersize.pdf",
-      "fx": 199.48015263728337,
-      "fy": -88.94808977601173,
+      "fx": 182.56218388728337,
+      "fy": -37.94808977601173,
       "category": "free book",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. pc assembly language",
       "url": "http://zoo.cs.yale.edu/classes/cs422/2014fa/readings/pcasm-book.pdf",
-      "fx": 199.48015263728337,
-      "fy": -26.948089776011727,
+      "fx": 182.56218388728337,
+      "fy": 29.051910223988273,
       "category": "free book",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     }
   ],
@@ -145,32 +155,24 @@
       "source": "assembly",
       "target": "basics",
       "curve": {
-        "x": 3.89634,
-        "y": 153.886
+        "x": -9.66616,
+        "y": 152.464
       }
     },
     {
       "source": "basics",
       "target": "instruction set architectures",
       "curve": {
-        "x": -91.6873,
-        "y": 120.55
+        "x": -79.7283,
+        "y": 121.05
       }
     },
     {
       "source": "basics",
       "target": "WebAssembly  ️",
       "curve": {
-        "x": 45.9449,
-        "y": 125.859
-      }
-    },
-    {
-      "source": "help",
-      "target": "assembly",
-      "curve": {
-        "x": -45.8297,
-        "y": -50.0545
+        "x": 39.1383,
+        "y": 139.089
       }
     },
     {

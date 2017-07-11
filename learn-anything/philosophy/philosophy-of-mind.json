@@ -1,7 +1,5 @@
 {
   "title": "learn anything - philosophy - philosophy of mind",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "philosophy of mind",
@@ -18,12 +16,12 @@
       "fy": -107.5703125
     },
     {
-      "text": "free will",
+      "text": "free will  ️",
       "note": "ability to choose between different possible courses of action",
-      "url": "http://www.wikiwand.com/en/Free_will",
-      "fx": -391.0000521267723,
+      "url": "/philosophy/philosophy-of-mind/free-will",
+      "fx": -390.0000521267723,
       "fy": -29.04243988045556,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "consciousness  ️",
@@ -34,6 +32,7 @@
     },
     {
       "text": "solipsism  ️",
+      "url": "/philosophy/philosophy-of-mind/solipsism",
       "fx": 315.59189151982514,
       "fy": 69.98609581497658,
       "category": "mindmap"
@@ -168,9 +167,9 @@
     },
     {
       "source": "basics",
-      "target": "free will",
+      "target": "free will  ️",
       "curve": {
-        "x": -223.998,
+        "x": -223.498,
         "y": 40.5139
       }
     },

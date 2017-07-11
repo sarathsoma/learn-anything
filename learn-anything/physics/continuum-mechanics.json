@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - continuum mechanics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "continuum mechanics",
@@ -18,6 +16,7 @@
     },
     {
       "text": "fluids  ️",
+      "url": "/physics/continuum-mechanics/fluids",
       "fx": -138.12402921597652,
       "fy": 83.3401904585798,
       "category": "mindmap"

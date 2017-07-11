@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - algebra - abstract algebra",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "abstract algebra",
@@ -33,6 +31,7 @@
     },
     {
       "text": "Galois theory  ️",
+      "url": "/mathematics/algebra/abstract-algebra/galois-theory",
       "fx": -465.3068395120272,
       "fy": 33.686774414441174,
       "category": "mindmap"

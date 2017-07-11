@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - physics - matter - atoms - molecules",
+  "nodes": [
+    {
+      "text": "molecules",
+      "url": "http://www.wikiwand.com/en/Molecule",
+      "fx": -69.11596167087555,
+      "fy": -186.21824264526367,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -40.11912766270609,
+      "fy": -36.10984331513595
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what’s the difference between an atom a molecule?",
+      "url": "https://www.youtube.com/watch?v=RbbOBPfH_uk",
+      "fx": 115.88087233729391,
+      "fy": -35.60984331513595,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "molecules",
+      "target": "basics",
+      "curve": {
+        "x": -1.00158,
+        "y": 73.8042
+      }
+    }
+  ]
+}

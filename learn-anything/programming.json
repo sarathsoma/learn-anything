@@ -1,39 +1,37 @@
 {
   "title": "learn anything - programming",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "programming",
       "note": "",
       "url": "http://www.wikiwand.com/en/Computer_programming",
-      "fx": 369.37282789075743,
-      "fy": -688.5762595537226,
+      "fx": 400.4106365327325,
+      "fy": -735.9720928870559,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 851.2772369384766,
-      "fy": -473.36101150512695
+      "fx": 913.9412029878595,
+      "fy": -495.1781411347566
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 337.21875,
-      "fy": -171.45703125
+      "fx": 438.0984760802471,
+      "fy": -221.50043402777771
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 1260.2956860516515,
-      "fy": -73.51250154907643
+      "fx": 1331.6016274096764,
+      "fy": -97.58657562315057
     },
     {
       "text": "talks",
       "url": "",
-      "fx": 1402.6402543808063,
-      "fy": 344.3312337715038
+      "fx": 1468.0819982079665,
+      "fy": 348.0349374752077
     },
     {
       "text": "programming interview preparation  ️",
@@ -102,6 +100,7 @@
     },
     {
       "text": "markup languages  ️",
+      "url": "/programming/markup-languages",
       "fx": -1728.074595668844,
       "fy": 405.7163628472222,
       "category": "mindmap"
@@ -115,6 +114,7 @@
     },
     {
       "text": "mobile applications development  ️",
+      "url": "/programming/mobile-applications",
       "fx": -1978.5415590935172,
       "fy": 394.06681203031303,
       "category": "mindmap"
@@ -152,8 +152,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/programming/",
-      "fx": 642.3728278907574,
-      "fy": -694.5762595537226,
+      "fx": 673.4106365327325,
+      "fy": -741.9720928870559,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "programming"
@@ -161,8 +161,8 @@
     {
       "text": "wiki",
       "url": "https://www.reddit.com/r/learnprogramming/wiki/faq",
-      "fx": 752.3728278907574,
-      "fy": -694.5762595537226,
+      "fx": 783.4106365327325,
+      "fy": -741.9720928870559,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": ""
@@ -170,8 +170,8 @@
     {
       "text": "learn programming",
       "url": "https://www.reddit.com/r/learnprogramming/",
-      "fx": 642.3728278907574,
-      "fy": -654.5762595537226,
+      "fx": 673.4106365327325,
+      "fy": -701.9720928870559,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "programming"
@@ -179,8 +179,8 @@
     {
       "text": "project based learning",
       "url": "https://github.com/tuvttran/project-based-learning",
-      "fx": 988.2772369384766,
-      "fy": -637.861011505127,
+      "fx": 1050.9412029878595,
+      "fy": -659.6781411347566,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -189,32 +189,32 @@
       "text": "enlight",
       "note": "learn to code by building projects",
       "url": "https://enlight.ml/",
-      "fx": 988.2772369384766,
-      "fy": -597.861011505127,
+      "fx": 1050.9412029878595,
+      "fy": -619.6781411347566,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "technical development guide",
       "url": "https://www.google.com/about/careers/students/guide-to-technical-development.html",
-      "fx": 988.2772369384766,
-      "fy": -563.861011505127,
+      "fx": 1050.9412029878595,
+      "fy": -585.6781411347566,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "programming competency matrix",
       "url": "http://sijinjoseph.com/programmer-competency-matrix/",
-      "fx": 988.2772369384766,
-      "fy": -529.861011505127,
+      "fx": 1050.9412029878595,
+      "fy": -551.6781411347566,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "learn to program",
       "url": "https://github.com/karlhorky/learn-to-program",
-      "fx": 988.2772369384766,
-      "fy": -495.86101150512695,
+      "fx": 1050.9412029878595,
+      "fy": -517.6781411347566,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -222,8 +222,8 @@
     {
       "text": "coding interview university",
       "url": "https://github.com/jwasham/coding-interview-university",
-      "fx": 988.2772369384766,
-      "fy": -455.86101150512695,
+      "fx": 1050.9412029878595,
+      "fy": -477.6781411347566,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -231,8 +231,8 @@
     {
       "text": "engineering blogs",
       "url": "https://github.com/kilimchoi/engineering-blogs",
-      "fx": 988.2772369384766,
-      "fy": -415.86101150512695,
+      "fx": 1050.9412029878595,
+      "fy": -437.6781411347566,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -240,16 +240,16 @@
     {
       "text": "how to be a programmer: short and personal summary",
       "url": "https://web.archive.org/web/20150912025917/http://samizdat.mines.edu/howto/HowToBeAProgrammer.html",
-      "fx": 988.2772369384766,
-      "fy": -375.86101150512695,
+      "fx": 1050.9412029878595,
+      "fy": -397.6781411347566,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "design and development guides",
       "url": "https://github.com/NARKOZ/guides",
-      "fx": 988.2772369384766,
-      "fy": -319.86101150512695,
+      "fx": 1050.9412029878595,
+      "fy": -341.6781411347566,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -257,17 +257,26 @@
     {
       "text": "Google’s development guide",
       "url": "https://www.google.com/about/careers/students/guide-to-technical-development.html",
-      "fx": 988.2772369384766,
-      "fy": -279.86101150512695,
+      "fx": 1050.9412029878595,
+      "fy": -301.6781411347566,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "1. from math to machine: translating a function to machine code  ️",
+      "url": "https://briansteffens.github.io/2017/02/20/from-math-to-machine.html",
+      "fx": 594.0984760802471,
+      "fy": -354.0004340277777,
+      "category": "article",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. code: hidden language",
       "note": "goes over what a computer actually is and what it is made of, starting from the beginning",
       "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
-      "fx": 493.21875,
-      "fy": -261.95703125,
+      "fx": 594.0984760802471,
+      "fy": -270.0004340277777,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -275,8 +284,8 @@
     {
       "text": "1. the nature of code",
       "url": "http://natureofcode.com/book/preface/",
-      "fx": 493.21875,
-      "fy": -221.95703125,
+      "fx": 594.0984760802471,
+      "fy": -230.00043402777771,
       "category": "free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -284,8 +293,8 @@
     {
       "text": "2. structure and interpretation of computer programs",
       "url": "http://sarabander.github.io/sicp/html/index.xhtml",
-      "fx": 493.21875,
-      "fy": -181.95703125,
+      "fx": 594.0984760802471,
+      "fy": -190.00043402777771,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -293,8 +302,8 @@
     {
       "text": "SICP guide",
       "url": "https://github.com/zv/SICP-guile",
-      "fx": 830.21875,
-      "fy": -170.95703125,
+      "fx": 931.0984760802471,
+      "fy": -179.00043402777771,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "2. structure and interpretation of computer programs"
@@ -302,8 +311,8 @@
     {
       "text": "2. architecture of open source applications",
       "url": "http://aosabook.org/en/index.html",
-      "fx": 493.21875,
-      "fy": -119.95703125,
+      "fx": 594.0984760802471,
+      "fy": -128.00043402777771,
       "category": "free book",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -311,8 +320,8 @@
     {
       "text": "2. coding interview university",
       "url": "https://github.com/jwasham/coding-interview-university",
-      "fx": 493.21875,
-      "fy": -57.95703125,
+      "fx": 594.0984760802471,
+      "fy": -66.00043402777771,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
@@ -320,8 +329,8 @@
     {
       "text": "02: the law of leaky abstractions  ️",
       "url": "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/",
-      "fx": 1422.2956860516515,
-      "fy": -348.01250154907643,
+      "fx": 1493.6016274096764,
+      "fy": -372.08657562315057,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -329,8 +338,8 @@
     {
       "text": "11: principles of good programming  ️",
       "url": "http://www.artima.com/weblogs/viewpost.jsp?thread=331531",
-      "fx": 1422.2956860516515,
-      "fy": -308.01250154907643,
+      "fx": 1493.6016274096764,
+      "fy": -332.08657562315057,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -338,8 +347,8 @@
     {
       "text": "12: working as a software developer  ️",
       "url": "https://henrikwarne.com/2012/12/12/working-as-a-software-developer/",
-      "fx": 1422.2956860516515,
-      "fy": -268.01250154907643,
+      "fx": 1493.6016274096764,
+      "fy": -292.08657562315057,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -347,8 +356,8 @@
     {
       "text": "13: things I wish someone had told me when I was learning how to code  ️",
       "url": "https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329",
-      "fx": 1422.2956860516515,
-      "fy": -206.01250154907643,
+      "fx": 1493.6016274096764,
+      "fy": -230.08657562315057,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "articles"
@@ -356,8 +365,8 @@
     {
       "text": "14: the beauty of code  ️",
       "url": "https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/",
-      "fx": 1422.2956860516515,
-      "fy": -122.01250154907643,
+      "fx": 1493.6016274096764,
+      "fy": -146.08657562315057,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -365,8 +374,8 @@
     {
       "text": "14: lessons from a lifetime of being a programmer  ️",
       "url": "http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer",
-      "fx": 1422.2956860516515,
-      "fy": -82.01250154907643,
+      "fx": 1493.6016274096764,
+      "fy": -106.08657562315057,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -374,8 +383,8 @@
     {
       "text": "14: how to become a programmer, or he art of googling well  ️",
       "url": "https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/",
-      "fx": 1422.2956860516515,
-      "fy": -20.012501549076433,
+      "fx": 1493.6016274096764,
+      "fy": -44.086575623150566,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -383,8 +392,8 @@
     {
       "text": "15: what is code?  ️",
       "url": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
-      "fx": 1422.2956860516515,
-      "fy": 41.98749845092357,
+      "fx": 1493.6016274096764,
+      "fy": 17.913424376849434,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
@@ -392,8 +401,8 @@
     {
       "text": "15: the programming talent myth  ️",
       "url": "https://lwn.net/Articles/641779/",
-      "fx": 1422.2956860516515,
-      "fy": 81.98749845092357,
+      "fx": 1493.6016274096764,
+      "fy": 57.913424376849434,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "articles"
@@ -401,8 +410,8 @@
     {
       "text": "teach yourself programming in ten years  ️",
       "url": "http://norvig.com/21-days.html",
-      "fx": 1422.2956860516515,
-      "fy": 121.98749845092357,
+      "fx": 1493.6016274096764,
+      "fy": 97.91342437684943,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -410,8 +419,8 @@
     {
       "text": "the mythical 10x programmer  ️",
       "url": "http://antirez.com/news/112",
-      "fx": 1422.2956860516515,
-      "fy": 183.98749845092357,
+      "fx": 1493.6016274096764,
+      "fy": 159.91342437684943,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -419,8 +428,8 @@
     {
       "text": "write code every day  ️",
       "url": "https://johnresig.com/blog/write-code-every-day/",
-      "fx": 1422.2956860516515,
-      "fy": 223.98749845092357,
+      "fx": 1493.6016274096764,
+      "fy": 199.91342437684943,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
@@ -428,8 +437,8 @@
     {
       "text": "simple made easy",
       "url": "https://www.infoq.com/presentations/Simple-Made-Easy",
-      "fx": 1542.6402543808063,
-      "fy": 293.8312337715038,
+      "fx": 1608.0819982079665,
+      "fy": 297.5349374752077,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "talks"
@@ -437,8 +446,8 @@
     {
       "text": "the value of values with rich hickey",
       "url": "https://www.youtube.com/watch?v=-6BsiVyC1kM",
-      "fx": 1542.6402543808063,
-      "fy": 333.8312337715038,
+      "fx": 1608.0819982079665,
+      "fy": 337.5349374752077,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "talks"
@@ -446,8 +455,8 @@
     {
       "text": "programming is forgetting: toward a new hacker ethic",
       "url": "http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/",
-      "fx": 1542.6402543808063,
-      "fy": 395.8312337715038,
+      "fx": 1608.0819982079665,
+      "fy": 399.5349374752077,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "talks"
@@ -466,120 +475,120 @@
       "source": "help",
       "target": "programming",
       "curve": {
-        "x": -189.951,
-        "y": -106.358
+        "x": -205.764,
+        "y": -119.147
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -355.645,
-        "y": -187.287
+        "x": -359.966,
+        "y": -186.159
       }
     },
     {
       "source": "programming",
       "target": "basics",
       "curve": {
-        "x": -68.827,
-        "y": 257.309
+        "x": -33.906,
+        "y": 255.985
       }
     },
     {
       "source": "basics",
       "target": "design patterns  ️",
       "curve": {
-        "x": -688.3,
-        "y": 288.629
+        "x": -738.74,
+        "y": 313.651
       }
     },
     {
       "source": "basics",
       "target": "query languages  ️",
       "curve": {
-        "x": -574.12,
-        "y": 288.614
+        "x": -624.56,
+        "y": 313.636
       }
     },
     {
       "source": "basics",
       "target": "programming paradigms  ️",
       "curve": {
-        "x": -435.828,
-        "y": 285.879
+        "x": -486.268,
+        "y": 310.901
       }
     },
     {
       "source": "basics",
       "target": "reverse engineering  ️",
       "curve": {
-        "x": -280.646,
-        "y": 283.886
+        "x": -331.086,
+        "y": 308.908
       }
     },
     {
       "source": "basics",
       "target": "programming languages  ️",
       "curve": {
-        "x": -140.457,
-        "y": 286.448
+        "x": -190.897,
+        "y": 311.47
       }
     },
     {
       "source": "basics",
       "target": "software development  ️",
       "curve": {
-        "x": 18.6144,
-        "y": 284.534
+        "x": -31.8255,
+        "y": 309.556
       }
     },
     {
       "source": "basics",
       "target": "programming interview preparation  ️",
       "curve": {
-        "x": 158.427,
-        "y": 282.262
+        "x": 107.987,
+        "y": 307.284
       }
     },
     {
       "source": "basics",
       "target": "version control  ️",
       "curve": {
-        "x": 375.867,
-        "y": 370.225
+        "x": 287.255,
+        "y": 407.333
       }
     },
     {
       "source": "talks",
       "target": "articles",
       "curve": {
-        "x": -83.5488,
-        "y": -195.434
+        "x": -80.6167,
+        "y": -209.323
       }
     },
     {
       "source": "basics",
       "target": "API  ️",
       "curve": {
-        "x": -916.515,
-        "y": 243.199
+        "x": -966.955,
+        "y": 268.221
       }
     },
     {
       "source": "basics",
       "target": "dynamic programming  ️",
       "curve": {
-        "x": -1159.05,
-        "y": 277.644
+        "x": -1209.49,
+        "y": 302.666
       }
     },
     {
       "source": "basics",
       "target": "practice  ️",
       "curve": {
-        "x": 223.778,
-        "y": 313.596
+        "x": 173.338,
+        "y": 338.618
       }
     },
     {
@@ -602,16 +611,16 @@
       "source": "basics",
       "target": "markup languages  ️",
       "curve": {
-        "x": -1163.85,
-        "y": 180.628
+        "x": -1214.29,
+        "y": 205.65
       }
     },
     {
       "source": "basics",
       "target": "mobile applications development  ️",
       "curve": {
-        "x": -1343.67,
-        "y": 195.85
+        "x": -1394.11,
+        "y": 220.872
       }
     }
   ]

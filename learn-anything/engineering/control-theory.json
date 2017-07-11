@@ -1,7 +1,5 @@
 {
   "title": "learn anything - engineering - control theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "control theory",
@@ -30,12 +28,14 @@
     },
     {
       "text": "PID controller  ️",
+      "url": "/engineering/control-theory/pid-controller",
       "fx": -139.18096187943274,
       "fy": 235.9966755319274,
       "category": "mindmap"
     },
     {
       "text": "stochastic control  ️",
+      "url": "/engineering/control-theory/stochastic-control",
       "fx": 69.533203125,
       "fy": 238.744140625,
       "category": "mindmap"

@@ -1,0 +1,80 @@
+{
+  "title": "learn anything - medicine - specialties - psychiatry - mental disorders - schizophrenia",
+  "nodes": [
+    {
+      "text": "schizophrenia",
+      "url": "http://www.wikiwand.com/en/Schizophrenia",
+      "fx": 71.625,
+      "fy": -164.13671875,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 242.7422332763672,
+      "fy": -58.913763999938965
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 113.2890625,
+      "fy": 79.03125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/schizophrenia/",
+      "fx": 322.625,
+      "fy": -150.13671875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "schizophrenia"
+    },
+    {
+      "text": "schizophrenia simulator",
+      "url": "https://www.youtube.com/watch?v=yL9UJVtgPZY",
+      "fx": 433.7422332763672,
+      "fy": -47.413763999938965,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. schizophrenia &amp; dissociative disorders",
+      "url": "https://www.youtube.com/watch?v=uxktavpRdzU",
+      "fx": 269.2890625,
+      "fy": 48.53125,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. schizophrenia is more than just ‘hearing voices’",
+      "url": "https://www.reddit.com/r/videos/comments/5929r9/anderson_cooper_tries_a_schizophrenia_simulator/d955td6/",
+      "fx": 269.2890625,
+      "fy": 110.53125,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "schizophrenia",
+      "target": "basics",
+      "curve": {
+        "x": -2.91797,
+        "y": 120.334
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "schizophrenia",
+      "curve": {
+        "x": -70.5586,
+        "y": -51.3615
+      }
+    }
+  ]
+}

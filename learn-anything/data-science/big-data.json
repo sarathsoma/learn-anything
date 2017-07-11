@@ -1,20 +1,12 @@
 {
   "title": "learn anything - data science - big data",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "big data",
       "url": "http://www.wikiwand.com/en/Big_data",
-      "fx": -51.0390625,
-      "fy": -200.13671875,
+      "fx": -35.28304541925468,
+      "fy": -161.7948126940994,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 66.20118618011475,
-      "fy": -101.60712480545044
     },
     {
       "text": "basics",
@@ -43,20 +35,20 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/bigdata/",
-      "fx": 149.9609375,
-      "fy": -186.13671875,
+      "fx": 165.71695458074532,
+      "fy": -167.7948126940994,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "big data"
     },
     {
-      "text": "awesome big data",
+      "text": "awesome",
       "url": "https://github.com/onurakpolat/awesome-bigdata",
-      "fx": 203.20118618011475,
-      "fy": -90.10712480545044,
+      "fx": 165.71695458074532,
+      "fy": -127.79481269409939,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "big data"
     },
     {
       "text": "1. unlock value in massive datasets",
@@ -73,8 +65,8 @@
       "source": "big data",
       "target": "basics",
       "curve": {
-        "x": -12.6967,
-        "y": 93.7968
+        "x": -20.5747,
+        "y": 74.6258
       }
     },
     {
@@ -91,14 +83,6 @@
       "curve": {
         "x": 58.2786,
         "y": 61.067
-      }
-    },
-    {
-      "source": "help",
-      "target": "big data",
-      "curve": {
-        "x": -42.6201,
-        "y": -48.0148
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - javascript libraries - angular 2",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "Angular 2",
@@ -12,8 +10,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 84.98774376126175,
-      "fy": -222.2411432386785
+      "fx": 66.18698458047083,
+      "fy": -215.22092784319824
     },
     {
       "text": "basics",
@@ -28,7 +26,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/Angular2/",
       "fx": 102.29012598167537,
-      "fy": -342.2287099149215,
+      "fy": -362.2287099149215,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "Angular 2"
@@ -37,25 +35,25 @@
       "text": "",
       "url": "https://github.com/angular/angular.js",
       "fx": 102.29012598167537,
-      "fy": -302.2287099149215,
+      "fy": -322.2287099149215,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "Angular 2"
     },
     {
-      "text": "awesome angular 2",
+      "text": "awesome",
       "url": "https://github.com/AngularClass/awesome-angular",
-      "fx": 221.98774376126175,
-      "fy": -230.7411432386785,
+      "fx": 102.29012598167537,
+      "fy": -282.2287099149215,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "Angular 2"
     },
     {
       "text": "awesome angular components",
       "url": "https://github.com/brillout/awesome-angular-components",
-      "fx": 221.98774376126175,
-      "fy": -190.7411432386785,
+      "fx": 203.18698458047083,
+      "fy": -203.72092784319824,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -93,8 +91,8 @@
       "source": "help",
       "target": "Angular 2",
       "curve": {
-        "x": -63.5988,
-        "y": -54.4937
+        "x": -54.1984,
+        "y": -58.0038
       }
     },
     {

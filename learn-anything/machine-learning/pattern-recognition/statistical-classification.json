@@ -1,7 +1,5 @@
 {
   "title": "learn anything - machine learning - pattern recognition - statistical classification",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "statistical classification",
@@ -19,8 +17,22 @@
     {
       "text": "random forests  ️",
       "url": "/machine-learning/pattern-recognition/statistical-classification/random-forests",
-      "fx": -160.14813701923083,
-      "fy": 275.13739483173083,
+      "fx": -109.87584458349113,
+      "fy": 249.74452242948837,
+      "category": "mindmap"
+    },
+    {
+      "text": "probabilistic classification  ️",
+      "url": "/machine-learning/pattern-recognition/statistical-classification/probabilistic-classification",
+      "fx": 103.77633269835542,
+      "fy": 253.61825713594578,
+      "category": "mindmap"
+    },
+    {
+      "text": "linear classification  ️",
+      "url": "/machine-learning/pattern-recognition/statistical-classification/linear-classification",
+      "fx": -353.8421206550802,
+      "fy": 254.3949699197861,
       "category": "mindmap"
     }
   ],
@@ -48,8 +60,24 @@
       "source": "basics",
       "target": "random forests  ️",
       "curve": {
-        "x": -65.0582,
-        "y": 77.2494
+        "x": -39.9221,
+        "y": 64.5529
+      }
+    },
+    {
+      "source": "basics",
+      "target": "probabilistic classification  ️",
+      "curve": {
+        "x": 92.154,
+        "y": 66.4898
+      }
+    },
+    {
+      "source": "basics",
+      "target": "linear classification  ️",
+      "curve": {
+        "x": -166.659,
+        "y": 50.3235
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - network science - computer networking - protocols",
-  "tag": "networking protocols",
-  "description": "",
   "nodes": [
     {
       "text": "protocols",
@@ -13,6 +11,7 @@
     },
     {
       "text": "MQTT  ️",
+      "url": "/network-science/computer-networking/protocols/mqtt",
       "fx": -417.0270577428644,
       "fy": -251.6650412463972,
       "category": "mindmap"
@@ -26,12 +25,14 @@
     },
     {
       "text": "irc  ️",
+      "url": "/network-science/computer-networking/protocols/irc",
       "fx": -30.393035652223716,
       "fy": -250.0376739817217,
       "category": "mindmap"
     },
     {
       "text": "BitTorrent  ️",
+      "url": "/network-science/computer-networking/protocols/bittorrent",
       "fx": -595.7239141949153,
       "fy": -249.34383275953388,
       "category": "mindmap"
@@ -73,6 +74,7 @@
     },
     {
       "text": "AMQP  ️",
+      "url": "/network-science/computer-networking/protocols/amqp",
       "fx": 757.1203078772205,
       "fy": -232.66193602070996,
       "category": "mindmap"
@@ -86,6 +88,7 @@
     },
     {
       "text": "RADIUS  ️",
+      "url": "/network-science/computer-networking/protocols/radius",
       "fx": 893.9562853294442,
       "fy": -227.23994214804827,
       "category": "mindmap"

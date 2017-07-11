@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - algebra - functions",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "functions",
@@ -31,6 +29,20 @@
       "category": "mindmap"
     },
     {
+      "text": "sigmoid functions",
+      "url": "http://www.wikiwand.com/en/Sigmoid_function",
+      "fx": -1005.6422533363316,
+      "fy": 75.51942757538126,
+      "category": "wiki"
+    },
+    {
+      "text": "logistic functions  ️",
+      "url": "/mathematics/algebra/functions/logistic-functions",
+      "fx": -1234.5147341008771,
+      "fy": 75.53063322368428,
+      "category": "mindmap"
+    },
+    {
       "text": "higher-order functions  ️",
       "url": "/mathematics/algebra/functions/higher-order-functions",
       "fx": -532.6191329956055,
@@ -39,6 +51,7 @@
     },
     {
       "text": "inverse functions  ️",
+      "url": "/mathematics/algebra/functions/inverse-functions",
       "fx": -759.7624521072792,
       "fy": 77.1375119731407,
       "category": "mindmap"
@@ -103,6 +116,22 @@
       "curve": {
         "x": -296.065,
         "y": 42.6728
+      }
+    },
+    {
+      "source": "basics",
+      "target": "sigmoid functions",
+      "curve": {
+        "x": -411.221,
+        "y": 38.6674
+      }
+    },
+    {
+      "source": "basics",
+      "target": "logistic functions  ️",
+      "curve": {
+        "x": -642.403,
+        "y": 20.1271
       }
     }
   ]

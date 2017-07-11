@@ -1,7 +1,5 @@
 {
   "title": "learn anything - artificial intelligence",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "artificial intelligence",
@@ -30,6 +28,34 @@
       "fy": -81.80416448805465
     },
     {
+      "text": "general artificial intelligence  ️",
+      "url": "/artificial-intelligence/general-artificial-intelligence",
+      "fx": -213.64084393217922,
+      "fy": 105.54459483131126,
+      "category": "mindmap"
+    },
+    {
+      "text": "AI planning  ️",
+      "url": "/artificial-intelligence/ai-planning",
+      "fx": -412.53248727749815,
+      "fy": 107.41032479243222,
+      "category": "mindmap"
+    },
+    {
+      "text": "knowledge representation and reasoning  ️",
+      "url": "/artificial-intelligence/knowledge-representation-and-reasoning",
+      "fx": -883.8553830443641,
+      "fy": 107.74196054694801,
+      "category": "mindmap"
+    },
+    {
+      "text": "generative learning  ️",
+      "url": "/artificial-intelligence/generative-learning",
+      "fx": -1133.3372692694438,
+      "fy": 108.12615870573643,
+      "category": "mindmap"
+    },
+    {
       "text": "weak AI",
       "url": "http://www.wikiwand.com/en/Weak_AI",
       "fx": 109.56660468092889,
@@ -41,26 +67,6 @@
       "url": "",
       "fx": 597.1826250165636,
       "fy": 136.00527562446143
-    },
-    {
-      "text": "general artificial intelligence  ️",
-      "url": "/artificial-intelligence/general-artificial-intelligence",
-      "fx": -108.33590441605008,
-      "fy": 192.08693354098858,
-      "category": "mindmap"
-    },
-    {
-      "text": "AI planning  ️",
-      "url": "/artificial-intelligence/ai-planning",
-      "fx": -307.227547761369,
-      "fy": 193.95266350210954,
-      "category": "mindmap"
-    },
-    {
-      "text": "knowledge representation and reasoning  ️",
-      "fx": -778.550443528235,
-      "fy": 194.28429925662533,
-      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -68,16 +74,25 @@
       "text": "",
       "url": "https://www.reddit.com/r/artificial/",
       "fx": 372.7211724806202,
-      "fy": -443.3434471899225,
+      "fy": -463.3434471899225,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "artificial intelligence"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "fx": 372.7211724806202,
+      "fy": -423.3434471899225,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "artificial intelligence"
     },
     {
       "text": "outline of artificial intelligence",
       "url": "http://www.wikiwand.com/en/Outline_of_artificial_intelligence",
       "fx": 401.45398297467443,
-      "fy": -373.2821448500807,
+      "fy": -353.2821448500807,
       "category": "wiki",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -86,25 +101,16 @@
       "text": "AI in practice  ️",
       "url": "http://frnsys.com/ai_notes/artificial_intelligence/in_practice.html",
       "fx": 401.45398297467443,
-      "fy": -333.2821448500807,
+      "fy": -313.2821448500807,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome artificial intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "fx": 401.45398297467443,
-      "fy": -293.2821448500807,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "notes on artificial intelligence",
       "url": "http://frnsys.com/ai_notes/",
       "fx": 401.45398297467443,
-      "fy": -253.28214485008073,
+      "fy": -273.2821448500807,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -212,8 +218,8 @@
       "source": "basics",
       "target": "general artificial intelligence  ️",
       "curve": {
-        "x": 17.4503,
-        "y": 136.946
+        "x": -35.2022,
+        "y": 93.6748
       }
     },
     {
@@ -252,16 +258,24 @@
       "source": "basics",
       "target": "AI planning  ️",
       "curve": {
-        "x": -117.996,
-        "y": 137.878
+        "x": -170.648,
+        "y": 94.6068
       }
     },
     {
       "source": "basics",
       "target": "knowledge representation and reasoning  ️",
       "curve": {
-        "x": -308.907,
-        "y": 145.544
+        "x": -361.559,
+        "y": 102.273
+      }
+    },
+    {
+      "source": "basics",
+      "target": "generative learning  ️",
+      "curve": {
+        "x": -571.281,
+        "y": 62.4614
       }
     }
   ]

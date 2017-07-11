@@ -1,7 +1,5 @@
 {
   "title": "learn anything - biology - evolution",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "evolution",
@@ -12,30 +10,60 @@
       "category": "wiki"
     },
     {
-      "text": "videos",
+      "text": "basics",
       "url": "",
-      "fx": 1.95703125,
-      "fy": -269.453125
+      "fx": -35.05506552419354,
+      "fy": -246.68706797235018
+    },
+    {
+      "text": "natural selection  ️",
+      "url": "/biology/evolution/natural-selection",
+      "fx": -237.24358367919922,
+      "fy": -114.0225887298584,
+      "category": "mindmap"
+    },
+    {
+      "text": "sociobiology  ️",
+      "url": "/biology/evolution/sociobiology",
+      "fx": 4.210385101009592,
+      "fy": -111.51641414141409,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
-      "text": "13: how evolution works",
+      "text": "1. how evolution works",
       "url": "https://www.youtube.com/watch?v=hOfRN0KihOU",
-      "fx": 158.95703125,
-      "fy": -257.953125,
+      "fx": 127.94493447580646,
+      "fy": -234.18706797235018,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "videos"
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
     }
   ],
   "connections": [
     {
-      "source": "videos",
-      "target": "evolution",
+      "source": "evolution",
+      "target": "basics",
       "curve": {
-        "x": -22.8822,
-        "y": -55.8841
+        "x": -2.37385,
+        "y": 67.2671
+      }
+    },
+    {
+      "source": "basics",
+      "target": "natural selection  ️",
+      "curve": {
+        "x": -78.8443,
+        "y": 66.3323
+      }
+    },
+    {
+      "source": "basics",
+      "target": "sociobiology  ️",
+      "curve": {
+        "x": 34.6327,
+        "y": 67.5853
       }
     }
   ]

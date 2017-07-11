@@ -1,26 +1,24 @@
 {
   "title": "learn anything - programming - programming languages - scala",
-  "tag": "scala programming language",
-  "description": "",
   "nodes": [
     {
       "text": "scala",
       "url": "http://www.wikiwand.com/en/Scala_(programming_language)",
-      "fx": -42.829507318155606,
-      "fy": -338.9199460698755,
+      "fx": -45.132252483901425,
+      "fy": -356.84984938479266,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 58.6784512904469,
-      "fy": -222.68395831703475
+      "fy": -214.09236646620604
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 83.11748964088451,
-      "fy": -59.59478591160831
+      "fx": 91.90331491712766,
+      "fy": -69.99059046961935
     },
     {
       "text": "basics",
@@ -34,8 +32,8 @@
     {
       "text": "",
       "url": "https://github.com/scala/scala",
-      "fx": 131.1704926818444,
-      "fy": -344.9199460698755,
+      "fx": 128.86774751609858,
+      "fy": -402.84984938479266,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "scala"
@@ -43,26 +41,35 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/scala/",
-      "fx": 131.1704926818444,
-      "fy": -304.9199460698755,
+      "fx": 128.86774751609858,
+      "fy": -362.84984938479266,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "scala"
     },
     {
-      "text": "awesome scala",
-      "url": "https://github.com/lauris/awesome-scala",
-      "fx": 195.6784512904469,
-      "fy": -251.18395831703475,
+      "text": "trending",
+      "url": "https://github.com/trending/scala",
+      "fx": 128.86774751609858,
+      "fy": -322.84984938479266,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "scala"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/lauris/awesome-scala",
+      "fx": 128.86774751609858,
+      "fy": -282.84984938479266,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "scala"
     },
     {
       "text": "scala’s types of types  ️",
       "url": "http://ktoso.github.io/scala-types-of-types/",
       "fx": 195.6784512904469,
-      "fy": -211.18395831703475,
+      "fy": -222.59236646620604,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -71,7 +78,7 @@
       "text": "free scala books",
       "url": "https://github.com/search?q=topic%3Abook+org%3Aunderscoreio&amp;type=Repositories",
       "fx": 195.6784512904469,
-      "fy": -171.18395831703475,
+      "fy": -182.59236646620604,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -79,8 +86,8 @@
     {
       "text": "16: strategic scala style: conciseness &amp; names  ️",
       "url": "http://www.lihaoyi.com/post/StrategicScalaStyleConcisenessNames.html",
-      "fx": 245.11748964088451,
-      "fy": -79.09478591160831,
+      "fx": 253.90331491712766,
+      "fy": -89.49059046961935,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -88,8 +95,8 @@
     {
       "text": "17: scala interview questions  ️",
       "url": "http://pedrorijo.com/blog/scala-interview-questions/",
-      "fx": 245.11748964088451,
-      "fy": -17.094785911608312,
+      "fx": 253.90331491712766,
+      "fy": -27.49059046961935,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -118,24 +125,24 @@
       "source": "scala",
       "target": "basics",
       "curve": {
-        "x": -5.4521,
-        "y": 204.362
+        "x": -4.30073,
+        "y": 213.327
       }
     },
     {
       "source": "help",
       "target": "scala",
       "curve": {
-        "x": -48.7541,
-        "y": -58.118
+        "x": -49.9055,
+        "y": -71.3788
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -18.4695,
-        "y": -81.5446
+        "x": -22.8624,
+        "y": -72.0509
       }
     }
   ]

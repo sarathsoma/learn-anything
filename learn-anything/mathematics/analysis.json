@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - analysis",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "analysis",
@@ -28,12 +26,14 @@
     {
       "text": "fourier analysis  ️",
       "note": "is the study of the way general functions may be represented or approximated by sums of simpler trigonometric functions  it grew from the study of Fourier series which shows that representing a function as a sum of trigonometric functions greatly simplifies the study of heat transfer  the decomposition process is called a Fourier transformation",
+      "url": "/mathematics/analysis/fourier-analysis",
       "fx": -530.1339142568977,
       "fy": 11.322760022402463,
       "category": "mindmap"
     },
     {
       "text": "harmonic analysis  ️",
+      "url": "/mathematics/analysis/harmonic-analysis",
       "fx": -526.4985383100279,
       "fy": 99.87646778959243,
       "category": "mindmap"
@@ -71,6 +71,7 @@
     {
       "text": "numerical analysis  ️",
       "note": "is the study of algorithms that use numerical approximation (as opposed to general symbolic manipulations) for the problems of mathematical analysis ",
+      "url": "/mathematics/analysis/numerical-analysis",
       "fx": -21.43908905044873,
       "fy": 270.834491824314,
       "category": "mindmap"

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - visual basic",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "visual basic",
@@ -14,8 +12,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 68.90234375,
-      "fy": 58.984375
+      "fx": 44.249355279126235,
+      "fy": 84.10194174757282
     }
   ],
   "subnodes": [
@@ -31,8 +29,8 @@
     {
       "text": "1. visual basic fundamentals",
       "url": "https://channel9.msdn.com/Series/Visual-Basic-Development-for-Absolute-Beginners",
-      "fx": 250.90234375,
-      "fy": 50.484375,
+      "fx": 226.24935527912623,
+      "fy": 55.60194174757282,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -40,10 +38,19 @@
     {
       "text": "1. visual basic tutorial",
       "url": "https://www.youtube.com/watch?v=3FkWddODLno",
-      "fx": 250.90234375,
-      "fy": 90.484375,
+      "fx": 226.24935527912623,
+      "fy": 95.60194174757282,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. programming basic and sorting",
+      "url": "https://www.youtube.com/watch?v=Ou2A-JWszVA",
+      "fx": 226.24935527912623,
+      "fy": 135.60194174757282,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -52,8 +59,8 @@
       "source": "visual basic",
       "target": "basics",
       "curve": {
-        "x": 0.318359,
-        "y": 62.6465
+        "x": -12.0081,
+        "y": 75.2053
       }
     }
   ]

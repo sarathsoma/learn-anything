@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art - public speaking",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "public speaking",
@@ -13,35 +11,35 @@
     {
       "text": "help",
       "url": "",
-      "fx": 30.780581793233182,
-      "fy": -225.01476190136287
+      "fx": 34.6888046467684,
+      "fy": -240.24124548722148
     }
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/matteofigus/awesome-speaking",
+      "fx": 173.86930534638543,
+      "fy": -345.4393354668674,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "public speaking"
+    },
+    {
       "text": "toast masters",
       "url": "http://www.toastmasters.org/",
-      "fx": 167.78058179323318,
-      "fy": -250.51476190136287,
+      "fx": 171.6888046467684,
+      "fy": -245.74124548722148,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "public speaking resources",
       "url": "https://github.com/vmbrasseur/Public_Speaking",
-      "fx": 167.78058179323318,
-      "fy": -216.51476190136287,
+      "fx": 171.6888046467684,
+      "fy": -211.74124548722148,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome speaking",
-      "url": "https://github.com/matteofigus/awesome-speaking",
-      "fx": 167.78058179323318,
-      "fy": -176.51476190136287,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     }
   ],
@@ -50,8 +48,8 @@
       "source": "help",
       "target": "public speaking",
       "curve": {
-        "x": -29.9556,
-        "y": -65.9623
+        "x": -31.9097,
+        "y": -58.3491
       }
     }
   ]

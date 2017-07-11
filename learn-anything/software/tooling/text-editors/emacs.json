@@ -1,19 +1,11 @@
 {
   "title": "learn anything - software - tooling - text editors - emacs",
-  "tag": "emacs text editor",
-  "description": "",
   "nodes": [
     {
       "text": "emacs",
       "url": "https://www.gnu.org/software/emacs/",
-      "fx": -132.00822368421063,
-      "fy": -162.213169642857
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -49.51089927486896,
-      "fy": -65.17300178771632
+      "fx": -109.89532424812046,
+      "fy": -98.42381343984943
     },
     {
       "text": "articles",
@@ -37,19 +29,19 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -139.56454791096883,
-      "fy": 288.94025902825217
+      "fx": -148.97185524179577,
+      "fy": 270.9450757575754
     }
   ],
   "subnodes": [
     {
-      "text": "awesome emacs",
+      "text": "awesome",
       "url": "https://github.com/emacs-tw/awesome-emacs",
-      "fx": 87.48910072513104,
-      "fy": -53.673001787716316,
+      "fx": 49.10467575187954,
+      "fy": -86.92381343984943,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "emacs"
     },
     {
       "text": "15: getting started with emacs? empty your cup  ️",
@@ -81,30 +73,14 @@
     {
       "text": "1. practical emacs tutorial",
       "url": "http://ergoemacs.org/emacs/emacs.html",
-      "fx": 42.43545208903117,
-      "fy": 300.44025902825217,
+      "fx": 33.028144758204235,
+      "fy": 282.4450757575754,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
   ],
   "connections": [
-    {
-      "source": "help",
-      "target": "emacs",
-      "curve": {
-        "x": -35.7487,
-        "y": -48.5201
-      }
-    },
-    {
-      "source": "articles",
-      "target": "help",
-      "curve": {
-        "x": -30.0842,
-        "y": -42.021
-      }
-    },
     {
       "source": "videos",
       "target": "articles",
@@ -117,8 +93,8 @@
       "source": "emacs",
       "target": "basics",
       "curve": {
-        "x": -11.0282,
-        "y": 225.577
+        "x": -26.7883,
+        "y": 184.685
       }
     },
     {
@@ -127,6 +103,14 @@
       "curve": {
         "x": -101.675,
         "y": -51.2322
+      }
+    },
+    {
+      "source": "articles",
+      "target": "emacs",
+      "curve": {
+        "x": -54.7764,
+        "y": -58.6464
       }
     }
   ]

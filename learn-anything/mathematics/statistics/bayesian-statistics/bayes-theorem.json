@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - statistics - bayesian statistics - bayes theorem",
+  "nodes": [
+    {
+      "text": "Bayes’ theorem",
+      "url": "http://www.wikiwand.com/en/Bayes%27_theorem",
+      "fx": 191.05664062500017,
+      "fy": -54.63248697916674,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 245.96744791666697,
+      "fy": 81.01074218759811
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=OqmJhPQYRc8",
+      "fx": 401.96744791666697,
+      "fy": 92.51074218759811,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "Bayes’ theorem",
+      "target": "basics",
+      "curve": {
+        "x": -0.794596,
+        "y": 66.5716
+      }
+    }
+  ]
+}

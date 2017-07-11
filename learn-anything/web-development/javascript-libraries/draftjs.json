@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - javascript libraries - draftjs",
-  "tag": "draft.js",
-  "description": "",
   "nodes": [
     {
       "text": "draft.js",
       "url": "https://github.com/facebook/draft-js",
-      "fx": -386.5,
-      "fy": -102.54296875,
+      "fx": -377.05989583333326,
+      "fy": -46.63295717592598,
       "category": "github"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -273.17006259005757,
-      "fy": -0.895026567002958
     },
     {
       "text": "basics",
@@ -25,13 +17,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome draft.js",
+      "text": "awesome",
       "url": "https://github.com/nikgraf/awesome-draft-js",
-      "fx": -136.17006259005757,
-      "fy": 10.604973432997042,
+      "fx": -189.05989583333326,
+      "fy": -32.63295717592598,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "draft.js"
     },
     {
       "text": "1. quick start",
@@ -44,19 +36,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "draft.js",
-      "curve": {
-        "x": -43.915,
-        "y": -49.574
-      }
-    },
-    {
       "source": "draft.js",
       "target": "basics",
       "curve": {
-        "x": -0.939684,
-        "y": 100.507
+        "x": -5.65974,
+        "y": 72.552
       }
     }
   ]

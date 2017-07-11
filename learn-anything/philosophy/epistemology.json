@@ -1,7 +1,5 @@
 {
   "title": "learn anything - philosophy - epistemology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "epistemology",
@@ -26,6 +24,7 @@
     },
     {
       "text": "knowledge  ️",
+      "url": "/philosophy/epistemology/knowledge",
       "fx": -170.65763683431885,
       "fy": 136.6054918639054,
       "category": "mindmap"

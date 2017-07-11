@@ -1,7 +1,5 @@
 {
   "title": "learn anything - machine learning - machine learning libraries",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "machine learning libraries",
@@ -70,6 +68,7 @@
     },
     {
       "text": "nnabla  ️",
+      "url": "/machine-learning/machine-learning-libraries/nnabla",
       "fx": 431.02264664837367,
       "fy": -238.78145082793884,
       "category": "mindmap"

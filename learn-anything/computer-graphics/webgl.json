@@ -1,20 +1,18 @@
 {
   "title": "learn anything - computer graphics - webgl",
-  "tag": "webGL",
-  "description": "",
   "nodes": [
     {
       "text": "WebGL",
       "url": "http://www.wikiwand.com/en/WebGL",
       "fx": -128.23081827163696,
-      "fy": -226.71233558654785,
+      "fy": -221.58342933654785,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": -19.5859375,
-      "fy": -120.5075249671936
+      "fx": -20.5859375,
+      "fy": -117.2965874671936
     },
     {
       "text": "basics",
@@ -26,35 +24,35 @@
     {
       "text": "pixie.js",
       "url": "https://github.com/pixijs/pixi.js?utm_source=html5weekly",
-      "fx": -276.609375,
-      "fy": 201.359375,
+      "fx": -211.05859375,
+      "fy": 152.0546875,
       "category": "github"
     }
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/sjfricke/awesome-webgl",
+      "fx": 67.76918172836304,
+      "fy": -207.58342933654785,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "WebGL"
+    },
+    {
       "text": "webGL lessons",
       "url": "https://github.com/gpjt/webgl-lessons",
-      "fx": 117.4140625,
-      "fy": -169.0075249671936,
+      "fx": 116.4140625,
+      "fy": -145.7965874671936,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome webGL",
-      "url": "https://github.com/sjfricke/awesome-webgl",
-      "fx": 117.4140625,
-      "fy": -129.0075249671936,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "webGL shader intro",
       "url": "https://github.com/Jam3/jam3-lesson-webgl-shader-intro",
-      "fx": 117.4140625,
-      "fy": -89.0075249671936,
+      "fx": 116.4140625,
+      "fy": -105.7965874671936,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -62,8 +60,8 @@
     {
       "text": "webGL shader threeJS",
       "url": "https://github.com/Jam3/jam3-lesson-webgl-shader-threejs",
-      "fx": 117.4140625,
-      "fy": -49.0075249671936,
+      "fx": 116.4140625,
+      "fy": -65.7965874671936,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -99,8 +97,8 @@
       "source": "help",
       "target": "WebGL",
       "curve": {
-        "x": -39.5724,
-        "y": -51.8524
+        "x": -39.0724,
+        "y": -50.8934
       }
     },
     {
@@ -108,15 +106,15 @@
       "target": "basics",
       "curve": {
         "x": -4.15357,
-        "y": 129.834
+        "y": 127.27
       }
     },
     {
       "source": "basics",
       "target": "pixie.js",
       "curve": {
-        "x": -78.5357,
-        "y": 84.2016
+        "x": -45.7603,
+        "y": 59.5493
       }
     }
   ]

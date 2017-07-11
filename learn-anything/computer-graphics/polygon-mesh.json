@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer graphics - polygon mesh",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "polygon mesh",
@@ -19,8 +17,22 @@
     {
       "text": "geometry processing  ️",
       "url": "/computer-graphics/polygon-mesh/geometry-processing",
-      "fx": -293.42111807957724,
-      "fy": 79.85650951559558,
+      "fx": -344.04340268854526,
+      "fy": 54.72532740810448,
+      "category": "mindmap"
+    },
+    {
+      "text": "marching cubes  ️",
+      "url": "/computer-graphics/polygon-mesh/marching-cubes",
+      "fx": -585.2924044123578,
+      "fy": 54.90481946237003,
+      "category": "mindmap"
+    },
+    {
+      "text": "mesh generation  ️",
+      "url": "/computer-graphics/polygon-mesh/mesh-generation",
+      "fx": -53.17244529724121,
+      "fy": 56.08854675292969,
       "category": "mindmap"
     }
   ],
@@ -28,10 +40,10 @@
     {
       "text": "1. polygon mesh explained",
       "url": "https://www.youtube.com/watch?v=s4lYj40_tnY&amp;t=5s",
-      "fx": 58.38105487823486,
-      "fy": -69.87646579742432,
+      "fx": 65.38105487823486,
+      "fy": -68.87646579742432,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -48,8 +60,24 @@
       "source": "basics",
       "target": "geometry processing  ️",
       "curve": {
-        "x": -64.9011,
-        "y": 80.6165
+        "x": -90.2122,
+        "y": 68.0509
+      }
+    },
+    {
+      "source": "basics",
+      "target": "mesh generation  ️",
+      "curve": {
+        "x": 45.4732,
+        "y": 68.7325
+      }
+    },
+    {
+      "source": "basics",
+      "target": "marching cubes  ️",
+      "curve": {
+        "x": -266.172,
+        "y": 40.8372
       }
     }
   ]

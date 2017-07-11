@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - category theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "category theory",
@@ -25,12 +23,14 @@
     },
     {
       "text": "categories  ️",
+      "url": "/mathematics/category-theory/categories",
       "fx": -315.3396337365612,
       "fy": 413.40524193548356,
       "category": "mindmap"
     },
     {
       "text": "profunctors  ️",
+      "url": "/mathematics/category-theory/profunctors",
       "fx": -132.71182647670537,
       "fy": 560.4989416927965,
       "category": "mindmap"
@@ -47,7 +47,7 @@
       "parent": "articles"
     },
     {
-      "text": "category theory in context",
+      "text": "1. category theory in context",
       "url": "http://www.math.jhu.edu/~eriehl/context.pdf",
       "fx": 52.94949851011381,
       "fy": 113.6741679004424,

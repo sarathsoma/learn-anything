@@ -1,7 +1,5 @@
 {
   "title": "learn anything - medicine - neurology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "neurology",
@@ -18,8 +16,9 @@
     },
     {
       "text": "neurodegeneration  ️",
-      "fx": -190.986328125,
-      "fy": 161.5107421875,
+      "url": "/medicine/neurology/neurodegeneration",
+      "fx": -277.0356039977322,
+      "fy": 126.57757864755138,
       "category": "mindmap"
     }
   ],
@@ -74,8 +73,8 @@
       "source": "basics",
       "target": "neurodegeneration  ️",
       "curve": {
-        "x": -49.1872,
-        "y": 76.0899
+        "x": -92.2118,
+        "y": 58.6233
       }
     }
   ]

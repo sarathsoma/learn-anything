@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - full stack - django",
-  "tag": "django library",
-  "description": "",
   "nodes": [
     {
       "text": "django",
       "url": "http://www.wikiwand.com/en/Django_(web_framework)",
-      "fx": -63.00034713745117,
-      "fy": 63.99460411071777,
+      "fx": -36.659478343124874,
+      "fy": 131.1571706000795,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 50.2781096813726,
-      "fy": 172.76049325980392
     },
     {
       "text": "basics",
@@ -34,20 +26,20 @@
     {
       "text": "",
       "url": "https://github.com/django/django",
-      "fx": 125.99965286254883,
-      "fy": 77.99460411071777,
+      "fx": 152.34052165687513,
+      "fy": 125.1571706000795,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "django"
     },
     {
-      "text": "awesome django",
+      "text": "awesome",
       "url": "https://github.com/rosarior/awesome-django",
-      "fx": 187.2781096813726,
-      "fy": 184.26049325980392,
+      "fx": 152.34052165687513,
+      "fy": 165.1571706000795,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "django"
     },
     {
       "text": "1. writing your first django app",
@@ -80,16 +72,8 @@
       "source": "django",
       "target": "basics",
       "curve": {
-        "x": -8.16569,
-        "y": 111.553
-      }
-    },
-    {
-      "source": "help",
-      "target": "django",
-      "curve": {
-        "x": -43.6392,
-        "y": -53.1329
+        "x": -21.3361,
+        "y": 77.9717
       }
     },
     {

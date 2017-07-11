@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - linear algebra - vectors - vector space - normed vector space",
+  "nodes": [
+    {
+      "text": "normed vector space",
+      "url": "http://www.wikiwand.com/en/Normed_vector_space",
+      "fx": 329.93473800505046,
+      "fy": -181.8952283249158,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 414.1026936026948,
+      "fy": -38.22290614474224
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=VXwXkME9uWU",
+      "fx": 577.1026936026948,
+      "fy": -25.72290614474224,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "normed vector space",
+      "target": "basics",
+      "curve": {
+        "x": -2.91602,
+        "y": 71.0862
+      }
+    }
+  ]
+}

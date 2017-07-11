@@ -1,13 +1,11 @@
 {
   "title": "learn anything - game development",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "video game development",
       "url": "http://www.wikiwand.com/en/Video_game_development",
       "fx": -68.46860708302358,
-      "fy": -739.1593026802038,
+      "fy": -773.006431058582,
       "category": "wiki"
     },
     {
@@ -37,6 +35,7 @@
     },
     {
       "text": "game design  ️",
+      "url": "/game-development/game-design",
       "fx": -606.6899070542187,
       "fy": 184.1903471336941,
       "category": "mindmap"
@@ -61,7 +60,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/gamedev/",
       "fx": 286.5313929169764,
-      "fy": -745.1593026802038,
+      "fy": -799.006431058582,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "video game development"
@@ -70,7 +69,7 @@
       "text": "wiki",
       "url": "https://www.reddit.com/r/gamedev/wiki/index",
       "fx": 396.5313929169764,
-      "fy": -745.1593026802038,
+      "fy": -799.006431058582,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": ""
@@ -79,16 +78,25 @@
       "text": "️",
       "url": "https://gamedev.stackexchange.com/",
       "fx": 286.5313929169764,
-      "fy": -705.1593026802038,
+      "fy": -759.006431058582,
       "category": "stack exchange",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "video game development"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/ellisonleao/magictools",
+      "fx": 285.63049201607544,
+      "fy": -719.006431058582,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "video game development"
     },
     {
       "text": "list of game development resources",
       "url": "https://game-development.zeef.com/david.arcila",
       "fx": 336.4934004158714,
-      "fy": -651.3949357992254,
+      "fy": -631.3949357992254,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -96,7 +104,7 @@
       "text": "list of gaming talks",
       "url": "https://github.com/hzoo/awesome-gametalks",
       "fx": 336.4934004158714,
-      "fy": -617.3949357992254,
+      "fy": -597.3949357992254,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -105,7 +113,7 @@
       "text": "red blob games  ️",
       "url": "http://www.redblobgames.com/",
       "fx": 336.4934004158714,
-      "fy": -577.3949357992254,
+      "fy": -557.3949357992254,
       "category": "blog",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -114,7 +122,7 @@
       "text": "game developer roadmap",
       "url": "https://github.com/utilForever/game-developer-roadmap",
       "fx": 336.4934004158714,
-      "fy": -537.3949357992254,
+      "fy": -517.3949357992254,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -123,7 +131,7 @@
       "text": "blizzard software engineering reading list",
       "url": "",
       "fx": 336.4934004158714,
-      "fy": -474.39493579922544,
+      "fy": -454.39493579922544,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
@@ -131,7 +139,7 @@
       "text": "associate",
       "url": "https://www.amazon.com/gp/richpub/listmania/fullview/R2LC80THGVDJHI",
       "fx": 648.4934004158714,
-      "fy": -497.39493579922544,
+      "fy": -477.39493579922544,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "blizzard software engineering reading list"
     },
@@ -139,7 +147,7 @@
       "text": "mid-level",
       "url": "https://www.amazon.com/gp/richpub/listmania/fullview/R1C0VA4J8ZBURC",
       "fx": 648.4934004158714,
-      "fy": -463.39493579922544,
+      "fy": -443.39493579922544,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "blizzard software engineering reading list"
     },
@@ -147,7 +155,7 @@
       "text": "senior",
       "url": "https://www.amazon.com/gp/richpub/listmania/fullview/R2FZ98PSM92N7F/",
       "fx": 648.4934004158714,
-      "fy": -429.39493579922544,
+      "fy": -409.39493579922544,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "blizzard software engineering reading list"
     },
@@ -155,7 +163,7 @@
       "text": "books for game developers",
       "url": "http://mrelusive.com/books/books.html",
       "fx": 336.4934004158714,
-      "fy": -395.39493579922544,
+      "fy": -375.39493579922544,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -163,7 +171,7 @@
       "text": "useful programming and game development resources",
       "url": "https://eliasdaler.github.io/programming-and-gamedev-resources/",
       "fx": 336.4934004158714,
-      "fy": -361.39493579922544,
+      "fy": -341.39493579922544,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
@@ -171,7 +179,7 @@
       "text": "ai programmer’s bookshelf",
       "url": "http://alumni.media.mit.edu/%7Ejorkin/aibooks.html",
       "fx": 336.4934004158714,
-      "fy": -305.39493579922544,
+      "fy": -285.39493579922544,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -179,25 +187,15 @@
       "text": "open game art",
       "url": "https://opengameart.org/",
       "fx": 336.4934004158714,
-      "fy": -271.39493579922544,
+      "fy": -251.39493579922544,
       "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "magic tools",
-      "note": "list of game development resources to make magic happen",
-      "url": "https://github.com/ellisonleao/magictools",
-      "fx": 336.4934004158714,
-      "fy": -237.39493579922544,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome game talks",
       "url": "https://github.com/hzoo/awesome-gametalks",
       "fx": 336.4934004158714,
-      "fy": -197.39493579922544,
+      "fy": -217.39493579922544,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -206,7 +204,7 @@
       "text": "awesome one person games",
       "url": "https://github.com/Yonaba/awesome-one-person-games",
       "fx": 336.4934004158714,
-      "fy": -157.39493579922544,
+      "fy": -177.39493579922544,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -215,7 +213,7 @@
       "text": "polycount",
       "url": "http://wiki.polycount.com/wiki/Polycount",
       "fx": 336.4934004158714,
-      "fy": -117.39493579922544,
+      "fy": -137.39493579922544,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -270,7 +268,7 @@
       "target": "basics",
       "curve": {
         "x": -133.018,
-        "y": 377.092
+        "y": 394.016
       }
     },
     {
@@ -278,7 +276,7 @@
       "target": "video game development",
       "curve": {
         "x": -81.4806,
-        "y": -170.131
+        "y": -187.055
       }
     },
     {

@@ -1,19 +1,11 @@
 {
   "title": "learn anything - design - graphic design - sketch",
-  "tag": "sketch app",
-  "description": "",
   "nodes": [
     {
       "text": "sketch",
       "url": "https://www.sketchapp.com/",
-      "fx": -79.7478215144231,
-      "fy": -430.24060997596155
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 17.723839393030744,
-      "fy": -343.04094989483366
+      "fx": -91.96400803786048,
+      "fy": -348.39246544471155
     },
     {
       "text": "tools",
@@ -35,6 +27,12 @@
       "fy": -91.04863758484817
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 244.462515132185,
+      "fy": -63.48838093835934
+    },
+    {
       "text": "plugins",
       "url": "",
       "fx": -176.394465519832,
@@ -43,13 +41,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome sketch",
+      "text": "awesome",
       "url": "https://github.com/diessica/awesome-sketch",
-      "fx": 154.72383939303074,
-      "fy": -331.54094989483366,
+      "fx": 66.03599196213952,
+      "fy": -336.89246544471155,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "sketch"
     },
     {
       "text": "render react components to sketch",
@@ -78,6 +76,15 @@
       "parent": "basics"
     },
     {
+      "text": "WeSketch",
+      "url": "https://github.com/weixin/WeSketch",
+      "fx": 435.462515132185,
+      "fy": -51.98838093835934,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "sketch flex box",
       "url": "https://github.com/hrescak/Sketch-Flex-Layout",
       "fx": -13.39446551983201,
@@ -92,8 +99,8 @@
       "source": "sketch",
       "target": "basics",
       "curve": {
-        "x": -57.8213,
-        "y": 169.596
+        "x": -51.7132,
+        "y": 128.672
       }
     },
     {
@@ -105,27 +112,27 @@
       }
     },
     {
-      "source": "help",
-      "target": "sketch",
-      "curve": {
-        "x": -43.4858,
-        "y": -43.5998
-      }
-    },
-    {
-      "source": "tools",
-      "target": "help",
-      "curve": {
-        "x": -23.0383,
-        "y": -43.4034
-      }
-    },
-    {
       "source": "articles",
       "target": "tools",
       "curve": {
         "x": -50.3182,
         "y": -46.2537
+      }
+    },
+    {
+      "source": "tools",
+      "target": "sketch",
+      "curve": {
+        "x": -72.6322,
+        "y": -46.0792
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "articles",
+      "curve": {
+        "x": -53.5128,
+        "y": -50.1191
       }
     }
   ]

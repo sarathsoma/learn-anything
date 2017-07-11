@@ -1,100 +1,101 @@
 {
   "title": "learn anything - sociology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "sociology",
       "url": "http://www.wikiwand.com/en/Sociology",
-      "fx": -71.6828710077092,
-      "fy": -231.49187775330392,
+      "fx": -74.8143276192792,
+      "fy": -283.8549975880146,
       "category": "wiki"
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -41.56617549326256,
-      "fy": -105.50238673896473
+      "fx": -64.16108768334516,
+      "fy": -152.80029479681593
     },
     {
-      "text": "society",
+      "text": "social groups  ️",
+      "url": "/sociology/social-groups",
+      "fx": -26.063832496529358,
+      "fy": 35.116016758022056,
+      "category": "mindmap"
+    },
+    {
+      "text": "society  ️",
       "note": "is a group of people involved in persistent social interaction, or a large social grouping sharing the same geographical or social territory, typically subject to the same political authority and dominant cultural expectations  they are characterised by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions",
-      "url": "http://www.wikiwand.com/en/Society",
-      "fx": -76.19178457383975,
-      "fy": 20.67861540905858,
+      "url": "/sociology/society",
+      "fx": -205.63282918218363,
+      "fy": 35.83979663564196,
+      "category": "mindmap"
+    },
+    {
+      "text": "communication",
+      "url": "http://www.wikiwand.com/en/Communication",
+      "fx": -445.7027942060803,
+      "fy": 38.705556653771964,
       "category": "wiki"
     },
     {
       "text": "social change",
       "url": "http://www.wikiwand.com/en/Social_change",
-      "fx": -106.91566753387451,
-      "fy": 150.53414916992188,
+      "fx": -268.5594318851946,
+      "fy": 159.30074288404364,
       "category": "wiki"
     },
     {
-      "text": "activism",
+      "text": "discourse  ️",
+      "url": "/sociology/discourse",
+      "fx": -462.6115188082871,
+      "fy": 161.65555113611936,
+      "category": "mindmap"
+    },
+    {
+      "text": "activism  ️",
       "note": "consists of efforts to promote, impede, or direct social, political, economic, and/or environmental reform or stasis with the desire to make improvements in society  forms of activism range from writing letters to newspapers or to politicians, political campaigning, economic activism such as boycotts or preferentially patronising businesses, rallies, street marches, strikes, sit-ins, and hunger strikes",
-      "url": "http://www.wikiwand.com/en/Activism",
-      "fx": -98.28535917207671,
-      "fy": 276.5494622564968,
-      "category": "wiki"
+      "url": "/sociology/activism",
+      "fx": -268.5509960510084,
+      "fy": 281.1600506094401,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/sociology/",
-      "fx": 141.3171289922908,
-      "fy": -217.49187775330392,
+      "fx": 149.1856723807208,
+      "fy": -269.8549975880146,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "sociology"
     },
     {
       "text": "1. crash course sociology",
       "url": "https://www.youtube.com/watch?v=YnCJU6PaCio&amp;list=PL8dPuuaLjXtMJ-AfB_7J1538YKWkZAnGA&amp;index=2",
-      "fx": 140.43382450673744,
-      "fy": -134.00238673896473,
+      "fx": 124.83891231665484,
+      "fy": -194.80029479681593,
       "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. the sociological imagination",
       "url": "http://www.goodreads.com/book/show/414773.The_Sociological_Imagination",
-      "fx": 140.43382450673744,
-      "fy": -94.00238673896473,
+      "fx": 124.83891231665484,
+      "fy": -152.80029479681593,
       "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. four sociological traditions",
       "url": "http://www.goodreads.com/book/show/879073.Four_Sociological_Traditions",
-      "fx": 140.43382450673744,
-      "fy": -54.00238673896473,
+      "fx": 124.83891231665484,
+      "fy": -85.80029479681593,
       "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
-    },
-    {
-      "text": "escape to another world  ️",
-      "url": "https://www.1843magazine.com/features/escape-to-another-world",
-      "fx": 140.80821542616025,
-      "fy": 34.67861540905858,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "society"
-    },
-    {
-      "text": "tools for activism",
-      "url": "https://github.com/drewrwilson/toolsforactivism",
-      "fx": 127.71464082792329,
-      "fy": 290.5494622564968,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "activism"
     }
   ],
   "connections": [
@@ -102,32 +103,56 @@
       "source": "sociology",
       "target": "basics",
       "curve": {
-        "x": 0.808348,
-        "y": 61.7447
+        "x": -8.92338,
+        "y": 64.2773
       }
     },
     {
       "source": "basics",
-      "target": "society",
+      "target": "society  ️",
       "curve": {
-        "x": -15.0628,
-        "y": 64.3405
+        "x": -68.4859,
+        "y": 95.57
       }
     },
     {
-      "source": "society",
+      "source": "society  ️",
       "target": "social change",
       "curve": {
-        "x": -0.36194,
-        "y": 64.9278
+        "x": -16.4633,
+        "y": 61.7304
       }
     },
     {
       "source": "social change",
-      "target": "activism",
+      "target": "activism  ️",
       "curve": {
-        "x": -8.43485,
-        "y": 63.0077
+        "x": -12.7458,
+        "y": 60.9297
+      }
+    },
+    {
+      "source": "basics",
+      "target": "social groups  ️",
+      "curve": {
+        "x": 29.7987,
+        "y": 93.9582
+      }
+    },
+    {
+      "source": "basics",
+      "target": "communication",
+      "curve": {
+        "x": -175.271,
+        "y": 95.7529
+      }
+    },
+    {
+      "source": "communication",
+      "target": "discourse  ️",
+      "curve": {
+        "x": -22.2044,
+        "y": 61.475
       }
     }
   ]

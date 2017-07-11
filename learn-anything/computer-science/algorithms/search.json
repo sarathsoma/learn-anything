@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer science - algorithms - search",
-  "tag": "search algorithms",
-  "description": "",
   "nodes": [
     {
       "text": "search algorithms",
@@ -24,34 +22,45 @@
       "fy": 12.57428218416527
     },
     {
+      "text": "A* search  ️",
+      "url": "/computer-science/algorithms/search/a-star",
+      "fx": -1018.6633955059416,
+      "fy": 166.9675852124193,
+      "category": "mindmap"
+    },
+    {
       "text": "depth-first search  ️",
-      "fx": -804.6398179600728,
-      "fy": 169.69971807833724,
+      "url": "/computer-science/algorithms/search/depth-first-search",
+      "fx": -833.3035583496094,
+      "fy": 169.69873428344727,
       "category": "mindmap"
     },
     {
       "text": "binary search  ️",
-      "fx": -308.0120482226355,
-      "fy": 171.15762515943902,
+      "url": "/computer-science/algorithms/search/binary-search",
+      "fx": -310.10943603515625,
+      "fy": 171.15663528442383,
       "category": "mindmap"
     },
     {
       "text": "Monte Carlo tree search  ️",
       "url": "/computer-science/algorithms/search/monte-carlo-tree-search",
-      "fx": -108.84935855865479,
-      "fy": 172.85195922851562,
+      "fx": -98.0391263961792,
+      "fy": 172.85097122192383,
       "category": "mindmap"
     },
     {
       "text": "breadth-first search  ️",
-      "fx": -565.3321685791016,
-      "fy": 174.08128356933616,
+      "url": "/computer-science/algorithms/search/breadth-first-search",
+      "fx": -581.1892166137695,
+      "fy": 174.08029556274414,
       "category": "mindmap"
     },
     {
       "text": "string searching  ️",
-      "fx": 184.29296875,
-      "fy": 175.12890625,
+      "url": "/computer-science/algorithms/search/string-searching",
+      "fx": 220.0527801513672,
+      "fy": 175.1279067993164,
       "category": "mindmap"
     }
   ],
@@ -59,19 +68,19 @@
     {
       "text": "list of search algorithms",
       "url": "https://en.wikipedia.org/wiki/Category:Search_algorithms",
-      "fx": 215.500083111702,
-      "fy": -72.78255388520648,
+      "fx": 219.500083111702,
+      "fy": -71.78255388520648,
       "category": "wiki",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. notes on search  ️",
       "url": "http://frnsys.com/ai_notes/artificial_intelligence/search.html",
-      "fx": 94.18892584468426,
-      "fy": 24.07428218416527,
+      "fx": 101.18892584468426,
+      "fy": 25.07428218416527,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -96,40 +105,48 @@
       "source": "basics",
       "target": "binary search  ️",
       "curve": {
-        "x": -100.1,
-        "y": 80.5416
+        "x": -101.149,
+        "y": 80.5411
       }
     },
     {
       "source": "basics",
       "target": "Monte Carlo tree search  ️",
       "curve": {
-        "x": 23.7309,
-        "y": 81.3887
+        "x": 29.136,
+        "y": 81.3882
       }
     },
     {
       "source": "basics",
       "target": "breadth-first search  ️",
       "curve": {
-        "x": -226.511,
-        "y": 80.7535
+        "x": -234.44,
+        "y": 80.753
       }
     },
     {
       "source": "basics",
       "target": "depth-first search  ️",
       "curve": {
-        "x": -370.75,
-        "y": 45.633
+        "x": -385.082,
+        "y": 45.6325
       }
     },
     {
       "source": "basics",
       "target": "string searching  ️",
       "curve": {
-        "x": 169.068,
-        "y": 81.2773
+        "x": 186.948,
+        "y": 81.2768
+      }
+    },
+    {
+      "source": "basics",
+      "target": "A* search  ️",
+      "curve": {
+        "x": -623.336,
+        "y": 11.8177
       }
     }
   ]

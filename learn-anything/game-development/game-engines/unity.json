@@ -1,20 +1,18 @@
 {
   "title": "learn anything - game development - game engines - unity",
-  "tag": "unity game engine",
-  "description": "",
   "nodes": [
     {
       "text": "unity",
       "url": "http://www.wikiwand.com/en/Unity_(game_engine)",
-      "fx": -52,
-      "fy": -434.89453125,
+      "fx": -51.58447460159368,
+      "fy": -466.2970461902391,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 27.279226842629555,
-      "fy": -321.6462587151394
+      "fx": 54.88909985059763,
+      "fy": -325.4871451693227
     },
     {
       "text": "basics",
@@ -26,38 +24,47 @@
   ],
   "subnodes": [
     {
-      "text": "awesome unity",
+      "text": "",
+      "url": "https://www.reddit.com/r/Unity3D/",
+      "fx": 124.41552539840632,
+      "fy": -473.2970461902391,
+      "category": "reddit",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "unity"
+    },
+    {
+      "text": "awesome",
       "url": "https://github.com/RyanNielson/awesome-unity",
-      "fx": 164.27922684262955,
-      "fy": -361.1462587151394,
+      "fx": 124.41552539840632,
+      "fy": -431.2970461902391,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "unity"
     },
     {
       "text": "productive VR Toolkit for rapidly building VR solutions in Unity3d",
       "url": "https://github.com/thestonefox/VRTK",
-      "fx": 164.27922684262955,
-      "fy": -321.1462587151394,
+      "fx": 195.88909985059763,
+      "fy": -358.9871451693227,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "game dev tutorials",
       "url": "https://www.youtube.com/user/Brackeys/videos",
-      "fx": 164.27922684262955,
-      "fy": -259.1462587151394,
+      "fx": 195.88909985059763,
+      "fy": -266.9871451693227,
       "category": "youtube",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. unity tutorials",
       "url": "https://unity3d.com/learn/tutorials",
-      "fx": 126.65049178286881,
-      "fy": -184.6445156872511,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 133.6504917828688,
+      "fy": -184.1445156872511,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -66,16 +73,16 @@
       "source": "help",
       "target": "unity",
       "curve": {
-        "x": -31.3896,
-        "y": -55.3741
+        "x": -44.9868,
+        "y": -69.1549
       }
     },
     {
       "source": "unity",
       "target": "basics",
       "curve": {
-        "x": -5.17475,
-        "y": 116.625
+        "x": -5.38251,
+        "y": 132.326
       }
     }
   ]

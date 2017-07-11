@@ -1,7 +1,5 @@
 {
   "title": "learn anything - software - tooling - messaging",
-  "tag": "messaging software",
-  "description": "",
   "nodes": [
     {
       "text": "instant messaging",
@@ -12,69 +10,51 @@
       "category": "wiki"
     },
     {
-      "text": "slack  ️",
-      "fx": -54.51336754782096,
-      "fy": -157.53391190239802,
+      "text": "telegram  ️",
+      "url": "/software/tooling/messaging/telegram",
+      "fx": -353.0453224182129,
+      "fy": -154.30316228451943,
       "category": "mindmap"
     },
     {
-      "text": "discord",
-      "url": "http://www.wikiwand.com/en/Discord_(software)",
-      "fx": -128.9315005646531,
-      "fy": -31.303103825522157,
-      "category": "wiki"
+      "text": "discord  ️",
+      "url": "/software/tooling/messaging/discord",
+      "fx": -183.947125564653,
+      "fy": -151.11967991247866,
+      "category": "mindmap"
     },
     {
-      "text": "telegram",
-      "url": "http://www.wikiwand.com/en/Telegram_(messaging_service)",
-      "fx": -170.6078200368113,
-      "fy": 89.4133742701191,
-      "category": "wiki"
+      "text": "slack  ️",
+      "url": "/software/tooling/messaging/slack",
+      "fx": -33.06295993912522,
+      "fy": -149.48703690239802,
+      "category": "mindmap"
     }
   ],
-  "subnodes": [
-    {
-      "text": "discord resources",
-      "url": "https://github.com/beautiful-discord-community/resources",
-      "fx": 65.0684994353469,
-      "fy": -17.303103825522157,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "discord"
-    },
-    {
-      "text": "awesome telegram bots",
-      "url": "https://github.com/DenisIzmaylov/awesome-telegram-bots",
-      "fx": 35.39217996318871,
-      "fy": 103.4133742701191,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "telegram"
-    }
-  ],
+  "subnodes": [],
   "connections": [
     {
       "source": "instant messaging",
       "target": "slack  ️",
       "curve": {
-        "x": 55.8371,
-        "y": 60.6803
+        "x": 66.5623,
+        "y": 64.7037
       }
     },
     {
       "source": "instant messaging",
-      "target": "discord",
+      "target": "discord  ️",
       "curve": {
-        "x": -14.1437,
-        "y": 154.228
+        "x": -3.12981,
+        "y": 65.1374
       }
     },
     {
       "source": "instant messaging",
-      "target": "telegram",
+      "target": "telegram  ️",
       "curve": {
-        "x": -41.1507,
-        "y": 215.296
+        "x": -84.6789,
+        "y": 63.5457
       }
     }
   ]

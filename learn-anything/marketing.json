@@ -1,7 +1,5 @@
 {
   "title": "learn anything - marketing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "marketing",
@@ -47,6 +45,7 @@
     },
     {
       "text": "multi-level marketing  ️",
+      "url": "/marketing/multi-level-marketing",
       "fx": -1018.4154663085938,
       "fy": 113.01947212219238,
       "category": "mindmap"
@@ -60,6 +59,7 @@
     },
     {
       "text": "branding  ️",
+      "url": "/marketing/branding",
       "fx": -1173.4270213117252,
       "fy": 117.95716148479323,
       "category": "mindmap"
@@ -76,27 +76,27 @@
       "parent": "marketing"
     },
     {
-      "text": "marketing for engineers",
-      "url": "https://github.com/LisaDziuba/Marketing-for-Engineers",
-      "fx": 192.45492300710043,
-      "fy": -284.9517804865375,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "growth tools",
       "url": "http://growthtools.io/",
       "fx": 192.45492300710043,
-      "fy": -244.95178048653747,
+      "fy": -264.9517804865375,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "1. marketing for engineers",
+      "url": "https://github.com/LisaDziuba/Marketing-for-Engineers",
+      "fx": 71.00819168028659,
+      "fy": -189.66281670800862,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. contagious: why things catch on",
       "url": "https://www.goodreads.com/book/show/15801967-contagious",
       "fx": 71.00819168028659,
-      "fy": -169.66281670800862,
+      "fy": -149.66281670800862,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -105,7 +105,7 @@
       "text": "1. how brands grow: what marketers don't know",
       "url": "https://www.goodreads.com/book/show/9128288-how-brands-grow",
       "fx": 71.00819168028659,
-      "fy": -107.66281670800862,
+      "fy": -87.66281670800862,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -114,7 +114,7 @@
       "text": "1. positioning: the battle for your mind: how to be seen and heard in the overcrowded marketplace",
       "url": "https://www.goodreads.com/book/show/760025.Positioning",
       "fx": 71.00819168028659,
-      "fy": -45.66281670800862,
+      "fy": -25.66281670800862,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -123,7 +123,7 @@
       "text": "1. traction",
       "url": "http://tractionbook.com/",
       "fx": 71.00819168028659,
-      "fy": 38.33718329199138,
+      "fy": 58.33718329199138,
       "category": "non-free book",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"

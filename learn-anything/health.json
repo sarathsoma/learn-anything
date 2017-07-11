@@ -1,20 +1,12 @@
 {
   "title": "learn anything - health",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "health",
       "url": "http://www.wikiwand.com/en/Health",
       "fx": -57.0775536491891,
-      "fy": -259.58755343569294,
+      "fy": -210.45959735461184,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 43.158389136904475,
-      "fy": -160.9494047619046
     },
     {
       "text": "basics",
@@ -30,11 +22,11 @@
       "fy": 51.72808142845906
     },
     {
-      "text": "longevity",
-      "url": "http://www.wikiwand.com/en/Longevity",
-      "fx": -279.5991600566894,
+      "text": "longevity  ️",
+      "url": "/biology/human-development/longevity",
+      "fx": -278.5991600566894,
       "fy": 50.13929671442361,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "mental",
@@ -67,13 +59,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome health",
+      "text": "awesome",
       "url": "https://github.com/kakoni/awesome-healthcare",
-      "fx": 180.15838913690447,
-      "fy": -149.4494047619046,
+      "fx": 124.9224463508109,
+      "fy": -196.45959735461184,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "health"
     },
     {
       "text": "1. how not to die",
@@ -121,9 +113,9 @@
     },
     {
       "source": "basics",
-      "target": "longevity",
+      "target": "longevity  ️",
       "curve": {
-        "x": -95.0679,
+        "x": -94.5679,
         "y": 63.9732
       }
     },
@@ -132,7 +124,7 @@
       "target": "basics",
       "curve": {
         "x": -16.6934,
-        "y": 90.8903
+        "y": 66.3263
       }
     },
     {
@@ -141,14 +133,6 @@
       "curve": {
         "x": -16.1456,
         "y": 63.5176
-      }
-    },
-    {
-      "source": "help",
-      "target": "health",
-      "curve": {
-        "x": -38.868,
-        "y": -48.0691
       }
     }
   ]

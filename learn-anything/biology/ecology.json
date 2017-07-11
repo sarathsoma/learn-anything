@@ -1,7 +1,5 @@
 {
   "title": "learn anything - biology - ecology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "ecology",
@@ -19,6 +17,7 @@
     },
     {
       "text": "sustainability  ️",
+      "url": "/biology/ecology/sustainability",
       "fx": -226.826171875,
       "fy": 71.7158203125,
       "category": "mindmap"

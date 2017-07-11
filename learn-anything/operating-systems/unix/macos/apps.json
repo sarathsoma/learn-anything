@@ -1,16 +1,66 @@
 {
   "title": "learn anything - operating systems - unix - macos - apps",
-  "tag": "macOS apps",
-  "description": "",
   "nodes": [
     {
       "text": "macOS apps",
       "url": "https://github.com/learn-anything/macos-apps",
-      "fx": -86.328125,
-      "fy": -21.11328125,
+      "fx": -87.25254524886884,
+      "fy": -23.1024580992202,
       "category": "github"
+    },
+    {
+      "text": "find new apps",
+      "url": "",
+      "fx": -81.02941589270426,
+      "fy": 143.2215749846149
     }
   ],
-  "subnodes": [],
-  "connections": []
+  "subnodes": [
+    {
+      "text": "personalised macOS",
+      "url": "https://github.com/nikitavoloboev/my-mac-os",
+      "fx": 144.97058410729574,
+      "fy": 83.7215749846149,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "find new apps"
+    },
+    {
+      "text": "awesome open source macOS apps",
+      "url": "https://github.com/jeffreyjackson/mac-apps",
+      "fx": 144.97058410729574,
+      "fy": 123.7215749846149,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "find new apps"
+    },
+    {
+      "text": "awesome mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "fx": 144.97058410729574,
+      "fy": 185.7215749846149,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "find new apps"
+    },
+    {
+      "text": "awesome macOS",
+      "url": "https://github.com/iCHAIT/awesome-macOS",
+      "fx": 144.97058410729574,
+      "fy": 225.7215749846149,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "find new apps"
+    }
+  ],
+  "connections": [
+    {
+      "source": "macOS apps",
+      "target": "find new apps",
+      "curve": {
+        "x": -1.88844,
+        "y": 81.912
+      }
+    }
+  ]
 }

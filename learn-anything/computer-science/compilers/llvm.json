@@ -1,21 +1,19 @@
 {
   "title": "learn anything - computer science - compilers - llvm",
-  "tag": "LLVM compiler infrastructure",
-  "description": "",
   "nodes": [
     {
       "text": "LLVM",
       "url": "http://www.wikiwand.com/en/LLVM",
       "fx": -78.13671875,
-      "fy": -272.56640625,
+      "fy": -291.84748068820227,
       "category": "wiki"
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -70.65717872867344,
-      "fy": -143.3308073324585
+      "fx": -73.92921173429147,
+      "fy": -130.10003134931242
     }
   ],
   "subnodes": [
@@ -23,7 +21,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/LLVM/",
       "fx": 99.86328125,
-      "fy": -278.56640625,
+      "fy": -317.84748068820227,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "LLVM"
@@ -32,16 +30,25 @@
       "text": "",
       "url": "https://github.com/llvm-mirror/llvm",
       "fx": 99.86328125,
-      "fy": -238.56640625,
+      "fy": -277.84748068820227,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "LLVM"
     },
     {
+      "text": "awesome",
+      "url": "https://github.com/HongxuChen/awesome-llvm",
+      "fx": 99.86328125,
+      "fy": -237.84748068820227,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "LLVM"
+    },
+    {
       "text": "1. LLVM for  grad students  ️",
       "url": "http://www.cs.cornell.edu/~asampson/blog/llvm.html",
-      "fx": 111.34282127132656,
-      "fy": -131.8308073324585,
+      "fx": 108.07078826570853,
+      "fy": -118.60003134931242,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -52,8 +59,8 @@
       "source": "LLVM",
       "target": "basics",
       "curve": {
-        "x": -1.76023,
-        "y": 63.3678
+        "x": -3.39625,
+        "y": 79.6237
       }
     }
   ]

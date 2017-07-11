@@ -1,16 +1,56 @@
 {
   "title": "learn anything - software - tooling - productivity - alfred - workflows",
-  "tag": "alfred workflows",
-  "description": "",
   "nodes": [
     {
       "text": "alfred workflows",
       "url": "https://github.com/learn-anything/alfred-workflows",
-      "fx": 474.9905660377358,
-      "fy": -213.28301886792474,
+      "fx": 474.99058532714844,
+      "fy": -250.43333435058594,
       "category": "github"
+    },
+    {
+      "text": "find new workflows",
+      "url": "",
+      "fx": 472.39281486742436,
+      "fy": -115.52012310607466
     }
   ],
-  "subnodes": [],
-  "connections": []
+  "subnodes": [
+    {
+      "text": "awesome alfred workflows",
+      "url": "https://github.com/derimagia/awesome-alfred-workflows",
+      "fx": 744.3928148674244,
+      "fy": -138.02012310607466,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "find new workflows"
+    },
+    {
+      "text": "alfred forum",
+      "url": "https://www.alfredforum.com/forum/3-share-your-workflows/",
+      "fx": 744.3928148674244,
+      "fy": -98.02012310607466,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "find new workflows"
+    },
+    {
+      "text": "packal",
+      "note": "public repository of lots of workflows",
+      "url": "http://www.packal.org/",
+      "fx": 744.3928148674244,
+      "fy": -64.02012310607466,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "find new workflows"
+    }
+  ],
+  "connections": [
+    {
+      "source": "alfred workflows",
+      "target": "find new workflows",
+      "curve": {
+        "x": -1.79889,
+        "y": 66.2066
+      }
+    }
+  ]
 }

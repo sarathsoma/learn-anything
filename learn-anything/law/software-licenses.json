@@ -1,20 +1,18 @@
 {
   "title": "learn anything - law - software licenses",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "software licenses",
       "url": "http://www.wikiwand.com/en/Software_license",
-      "fx": 188.84758890084925,
-      "fy": -167.26650053879482,
+      "fx": 190.06633890084925,
+      "fy": -224.62587553879484,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 405.68987283416755,
-      "fy": -50.67983642359195
+      "fx": 414.77581033416755,
+      "fy": -101.05874267359195
     },
     {
       "text": "MIT",
@@ -53,49 +51,58 @@
     {
       "text": "software licenses in plain english",
       "url": "https://tldrlegal.com/",
-      "fx": 542.6898728341675,
-      "fy": -36.17983642359195,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 556.7758103341675,
+      "fy": -119.55874267359195,
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "pick a license, any license  ️",
+      "url": "https://blog.codinghorror.com/pick-a-license-any-license/",
+      "fx": 556.7758103341675,
+      "fy": -57.55874267359195,
+      "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "summary",
       "url": "https://tldrlegal.com/license/mit-license",
-      "fx": 527.7609915033087,
-      "fy": 68.322354656833,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 530.7609915033087,
+      "fy": 68.822354656833,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "MIT"
     },
     {
       "text": "summary",
       "url": "https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)",
-      "fx": 510.9885553746791,
-      "fy": 160.18268094362918,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 517.9885553746791,
+      "fy": 159.68268094362918,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "GPL"
     },
     {
       "text": "summary",
       "url": "https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)",
-      "fx": 485.2641317927215,
-      "fy": 237.56629859935816,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 492.2641317927215,
+      "fy": 238.06629859935816,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "Apache"
     },
     {
       "text": "summary",
       "url": "https://tldrlegal.com/license/bsd-3-clause-license-(revised)",
-      "fx": 448.8971063662308,
-      "fy": 315.7789243370664,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 455.8971063662308,
+      "fy": 316.2789243370664,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "BSD-3"
     },
     {
       "text": "summary",
       "url": "https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)",
-      "fx": 407.1875038413734,
-      "fy": 410.352926347639,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 413.1875038413734,
+      "fy": 410.852926347639,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "GNU"
     }
   ],
@@ -104,48 +111,48 @@
       "source": "software licenses",
       "target": "MIT",
       "curve": {
-        "x": 55.9567,
-        "y": 109.294
+        "x": 55.3473,
+        "y": 137.974
       }
     },
     {
       "source": "software licenses",
       "target": "GPL",
       "curve": {
-        "x": -6.57044,
-        "y": 178.399
+        "x": -7.17981,
+        "y": 207.079
       }
     },
     {
       "source": "software licenses",
       "target": "Apache",
       "curve": {
-        "x": -10.9714,
-        "y": 238.672
+        "x": -11.5808,
+        "y": 267.352
       }
     },
     {
       "source": "help",
       "target": "software licenses",
       "curve": {
-        "x": -72.1711,
-        "y": -57.0433
+        "x": -76.1047,
+        "y": -60.5335
       }
     },
     {
       "source": "software licenses",
       "target": "BSD-3",
       "curve": {
-        "x": -38.6482,
-        "y": 330.532
+        "x": -39.2576,
+        "y": 359.212
       }
     },
     {
       "source": "software licenses",
       "target": "GNU",
       "curve": {
-        "x": -55.8869,
-        "y": 396.683
+        "x": -56.4963,
+        "y": 425.363
       }
     }
   ]

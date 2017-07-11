@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - elm",
-  "tag": "elm programming language",
-  "description": "",
   "nodes": [
     {
       "text": "elm",
@@ -41,7 +39,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/elm/",
       "fx": 1.77734375,
-      "fy": -412.08984375,
+      "fy": -432.08984375,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "elm"
@@ -50,7 +48,7 @@
       "text": "",
       "url": "https://github.com/elm-lang",
       "fx": 1.77734375,
-      "fy": -372.08984375,
+      "fy": -392.08984375,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "elm"
@@ -59,25 +57,25 @@
       "text": "trending",
       "url": "https://github.com/trending/elm",
       "fx": 1.77734375,
-      "fy": -332.08984375,
+      "fy": -352.08984375,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "elm"
     },
     {
-      "text": "awesome elm",
+      "text": "awesome",
       "url": "https://github.com/isRuslan/awesome-elm",
-      "fx": 73.2890625,
-      "fy": -264.5390625,
+      "fx": 1.77734375,
+      "fy": -312.08984375,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "elm"
     },
     {
       "text": "elm cheat sheet",
       "url": "https://github.com/izdi/elm-cheat-sheet",
       "fx": 73.2890625,
-      "fy": -224.5390625,
+      "fy": -244.5390625,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"

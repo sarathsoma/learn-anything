@@ -1,7 +1,5 @@
 {
   "title": "learn anything - engineering - aerospace engineering",
-  "tag": "aeroscpace engineering",
-  "description": "",
   "nodes": [
     {
       "text": "aerospace engineering",
@@ -25,6 +23,7 @@
     },
     {
       "text": "aircraft  ️",
+      "url": "/engineering/aerospace-engineering/aircraft",
       "fx": -111.97222879338517,
       "fy": 49.08624339564142,
       "category": "mindmap"

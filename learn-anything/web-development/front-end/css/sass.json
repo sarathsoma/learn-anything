@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - front end - css - sass",
-  "tag": "Sass",
-  "description": "",
   "nodes": [
     {
       "text": "Sass",
       "url": "http://www.wikiwand.com/en/Sass_(stylesheet_language)",
-      "fx": -48.7890625,
-      "fy": -261.078125,
+      "fx": -35.95201880530976,
+      "fy": -158.08794247787608,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 42.44168826312227,
-      "fy": -156.40786438851376
     },
     {
       "text": "basics",
@@ -25,13 +17,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome sass",
+      "text": "awesome",
       "url": "https://github.com/Famolus/awesome-sass",
-      "fx": 179.44168826312227,
-      "fy": -144.90786438851376,
+      "fx": 136.04798119469024,
+      "fy": -144.08794247787608,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "Sass"
     },
     {
       "text": "1. Sass basics",
@@ -44,19 +36,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "Sass",
-      "curve": {
-        "x": -36.8654,
-        "y": -51.0851
-      }
-    },
-    {
       "source": "Sass",
       "target": "basics",
       "curve": {
-        "x": -0.285247,
-        "y": 109.185
+        "x": -6.70377,
+        "y": 57.6899
       }
     }
   ]

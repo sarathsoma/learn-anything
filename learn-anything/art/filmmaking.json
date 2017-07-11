@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art - filmmaking",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "filmmaking",
@@ -32,6 +30,7 @@
     },
     {
       "text": "visual effects  ️",
+      "url": "/art/filmmaking/visual-effects",
       "fx": -291.173920688773,
       "fy": 83.58973714004173,
       "category": "mindmap"

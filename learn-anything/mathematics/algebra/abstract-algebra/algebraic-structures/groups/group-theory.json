@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - algebra - abstract algebra - algebraic structures - groups - group theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "group theory",
@@ -25,6 +23,7 @@
     },
     {
       "text": "abelian group  ️",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/abelian-group",
       "fx": -504.25450606746347,
       "fy": 37.55625989278656,
       "category": "mindmap"
@@ -54,6 +53,7 @@
     },
     {
       "text": "Sylow theorems  ️",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/sylow-theorems",
       "fx": 198.99432069742988,
       "fy": 280.16457222059853,
       "category": "mindmap"

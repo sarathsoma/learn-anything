@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - computational physics - monte carlo methods",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "monte carlo methods",
@@ -36,9 +34,18 @@
       "text": "1. monte carlo simulation",
       "url": "https://www.youtube.com/watch?v=OgO1gpXSUzU",
       "fx": 135.364320719249,
-      "fy": -81.82687771331808,
+      "fy": -112.82687771331808,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. monte carlo theory, methods and examples",
+      "url": "http://statweb.stanford.edu/~owen/mc/",
+      "fx": 135.364320719249,
+      "fy": -72.82687771331808,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],

@@ -1,13 +1,11 @@
 {
   "title": "learn anything - design - typesetting - latex",
-  "tag": "LaTeX",
-  "description": "",
   "nodes": [
     {
       "text": "LaTeX",
       "url": "http://www.wikiwand.com/en/LaTeX",
       "fx": -133.80477873974417,
-      "fy": -337.0260656181764,
+      "fy": -322.6113257337834,
       "category": "wiki"
     },
     {
@@ -66,7 +64,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/LaTeX/",
       "fx": 48.195221260255835,
-      "fy": -343.0260656181764,
+      "fy": -348.6113257337834,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "LaTeX"
@@ -75,16 +73,25 @@
       "text": "️",
       "url": "https://tex.stackexchange.com/",
       "fx": 48.195221260255835,
-      "fy": -303.0260656181764,
+      "fy": -308.6113257337834,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "LaTeX"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/egeerardyn/awesome-LaTeX",
+      "fx": 48.195221260255835,
+      "fy": -268.6113257337834,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "LaTeX"
     },
     {
       "text": "the comprehensive LaTeX symbol list",
       "url": "http://mirrors.rit.edu/CTAN/info/symbols/comprehensive/symbols-a4.pdf",
       "fx": 119.36367130279541,
-      "fy": -215.8899811816816,
+      "fy": -195.8899811816816,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
@@ -92,8 +99,8 @@
       "text": "detexify",
       "note": "draw symbols and get respective latex code and package",
       "url": "http://detexify.kirelabs.org/classify.html",
-      "fx": 119.36367416381836,
-      "fy": -160.38000193363473,
+      "fx": 119.36367130279541,
+      "fy": -139.8899811816816,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -102,7 +109,7 @@
       "note": "collaborative writing and publishing",
       "url": "https://www.overleaf.com/",
       "fx": 119.36367130279541,
-      "fy": -125.8899811816816,
+      "fy": -105.8899811816816,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -110,17 +117,8 @@
       "text": "latex wikibook",
       "url": "https://en.wikibooks.org/wiki/LaTeX",
       "fx": 119.36367130279541,
-      "fy": -91.8899811816816,
+      "fy": -71.8899811816816,
       "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome latex",
-      "url": "https://github.com/egeerardyn/awesome-LaTeX",
-      "fx": 119.36367130279541,
-      "fy": -57.889981181681605,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
@@ -162,7 +160,7 @@
       "target": "basics",
       "curve": {
         "x": -15.6276,
-        "y": 238.898
+        "y": 231.691
       }
     },
     {
@@ -170,7 +168,7 @@
       "target": "LaTeX",
       "curve": {
         "x": -50.0842,
-        "y": -93.068
+        "y": -85.8606
       }
     },
     {

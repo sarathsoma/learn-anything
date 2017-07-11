@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - topology - topological spaces",
+  "nodes": [
+    {
+      "text": "topological spaces",
+      "url": "http://www.wikiwand.com/en/Topological_space",
+      "fx": 103.8515625,
+      "fy": -195.0234375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 175.71875,
+      "fy": -47.71484375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. construction and purpose of topological spaces",
+      "url": "https://www.youtube.com/watch?v=1wyOoLUjUeI",
+      "fx": 338.71875,
+      "fy": -47.71484375,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "topological spaces",
+      "target": "basics",
+      "curve": {
+        "x": -2.81641,
+        "y": 72.9043
+      }
+    }
+  ]
+}

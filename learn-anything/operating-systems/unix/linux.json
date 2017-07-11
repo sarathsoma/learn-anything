@@ -1,7 +1,5 @@
 {
   "title": "learn anything - operating systems - unix - linux",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "linux",
@@ -30,10 +28,10 @@
       "fy": 322.70843535444897
     },
     {
-      "text": "talks",
+      "text": "interesting",
       "url": "",
-      "fx": 444.5731646825393,
-      "fy": 442.737103174608
+      "fx": 418.9381820436504,
+      "fy": 477.0514758678869
     },
     {
       "text": "Wayland  ️",
@@ -58,6 +56,7 @@
     },
     {
       "text": "iptables  ️",
+      "url": "/operating-systems/unix/linux/iptables",
       "fx": -646.7745454645307,
       "fy": 494.38672790294936,
       "category": "mindmap"
@@ -75,7 +74,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/linux/",
       "fx": 223.4141265854853,
-      "fy": -192.84844369209665,
+      "fy": -232.84844369209665,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "linux"
@@ -84,16 +83,34 @@
       "text": "️",
       "url": "https://unix.stackexchange.com/",
       "fx": 223.4141265854853,
-      "fy": -152.84844369209665,
+      "fy": -192.84844369209665,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "linux"
+    },
+    {
+      "text": "",
+      "url": "https://github.com/torvalds/linux",
+      "fx": 223.4141265854853,
+      "fy": -152.84844369209665,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "linux"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/aleksandar-todorovic/awesome-linux",
+      "fx": 223.4141265854853,
+      "fy": -112.84844369209665,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "linux"
     },
     {
       "text": "linux commands in structured order",
       "url": "http://linoxide.com/guide/linux-command-shelf.html",
       "fx": 285.80628967285156,
-      "fy": -47.781734466552734,
+      "fy": -27.781734466552734,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
@@ -101,7 +118,7 @@
       "text": "linux resources",
       "url": "https://linux.zeef.com/paul.reiber",
       "fx": 285.80628967285156,
-      "fy": -13.781734466552734,
+      "fy": 6.218265533447266,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -109,7 +126,7 @@
       "text": "linux kernel newbies",
       "url": "https://kernelnewbies.org/",
       "fx": 285.80628967285156,
-      "fy": 20.218265533447266,
+      "fy": 40.218265533447266,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -117,18 +134,9 @@
       "text": "linux cheatsheets",
       "url": "https://github.com/cirosantilli/linux-cheat",
       "fx": 285.80628967285156,
-      "fy": 54.218265533447266,
+      "fy": 74.21826553344727,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome linux",
-      "url": "https://github.com/aleksandar-todorovic/awesome-linux",
-      "fx": 285.80628967285156,
-      "fy": 94.21826553344727,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
@@ -136,7 +144,7 @@
       "note": "dedicated to providing high quality, comprehensive and easily accessible information about Linux and other free software",
       "url": "http://www.linfo.org/",
       "fx": 285.80628967285156,
-      "fy": 134.21826553344727,
+      "fy": 114.21826553344727,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
@@ -144,7 +152,7 @@
       "text": "linux from scratch",
       "url": "http://www.linuxfromscratch.org/",
       "fx": 285.80628967285156,
-      "fy": 168.21826553344727,
+      "fy": 148.21826553344727,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -152,7 +160,7 @@
       "text": "linux kernel exploitation",
       "url": "https://github.com/xairy/linux-kernel-exploitation",
       "fx": 285.80628967285156,
-      "fy": 202.21826553344727,
+      "fy": 182.21826553344727,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -209,13 +217,22 @@
       "parent": "basics"
     },
     {
-      "text": "the origins of linux—Linus Torvalds",
+      "text": "01: the origins of linux—Linus Torvalds",
       "url": "https://www.youtube.com/watch?v=WVTWCPoUt8w&amp;feature=youtu.be&amp;t=19m57s",
-      "fx": 584.5731646825393,
-      "fy": 443.237103174608,
+      "fx": 609.9381820436504,
+      "fy": 457.5514758678869,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "talks"
+      "parent": "interesting"
+    },
+    {
+      "text": "17: conversation with Linus Torvalds",
+      "url": "https://www.youtube.com/watch?v=Efi9wa4Fwds",
+      "fx": 609.9381820436504,
+      "fy": 497.5514758678869,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
     }
   ],
   "connections": [
@@ -260,11 +277,11 @@
       }
     },
     {
-      "source": "talks",
+      "source": "interesting",
       "target": "articles",
       "curve": {
-        "x": -46.4484,
-        "y": -68.2785
+        "x": -33.6309,
+        "y": -85.4357
       }
     },
     {

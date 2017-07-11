@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - statistics - probability theory - markov chains",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "markov chains",
@@ -11,9 +9,9 @@
       "category": "wiki"
     },
     {
-      "text": "help",
+      "text": "articles",
       "url": "",
-      "fx": 434.53515625,
+      "fx": 428.703125,
       "fy": -115.01171875
     },
     {
@@ -25,6 +23,7 @@
     },
     {
       "text": "Markov Chain Monte Carlo  ️",
+      "url": "/mathematics/statistics/probability-theory/markov-chains/markov-chain-monte-carlo",
       "fx": 113.36729655774104,
       "fy": 183.10719714995764,
       "category": "mindmap"
@@ -32,22 +31,22 @@
   ],
   "subnodes": [
     {
-      "text": "awesome funny markov chains",
+      "text": "awesome",
       "url": "https://github.com/sublimino/awesome-funny-markov",
-      "fx": 571.53515625,
-      "fy": -145.51171875,
+      "fx": 559.43359375,
+      "fy": -207.94921875,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "markov chains"
     },
     {
       "text": "17: introduction to hidden markov models with python networkx and sklearn  ️",
       "url": "http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017",
-      "fx": 571.53515625,
-      "fy": -105.51171875,
+      "fx": 589.703125,
+      "fy": -125.51171875,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
+      "parent": "articles"
     },
     {
       "text": "1. visually explained",
@@ -86,10 +85,10 @@
       }
     },
     {
-      "source": "help",
+      "source": "articles",
       "target": "markov chains",
       "curve": {
-        "x": -43.3008,
+        "x": -40.3848,
         "y": -53.4688
       }
     },

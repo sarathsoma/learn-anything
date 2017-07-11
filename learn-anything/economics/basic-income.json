@@ -1,7 +1,5 @@
 {
   "title": "learn anything - economics - basic income",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "basic income",
@@ -25,6 +23,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/BasicIncome/",
+      "fx": 129.9765625,
+      "fy": -304.5722719869707,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basic income"
+    },
     {
       "text": "automation will force universal basic income",
       "url": "https://www.youtube.com/watch?v=e6HPdNBicM8",

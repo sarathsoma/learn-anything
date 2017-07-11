@@ -1,7 +1,5 @@
 {
   "title": "learn anything - biology - organisms - cells",
-  "tag": "biological cells",
-  "description": "",
   "nodes": [
     {
       "text": "cells",
@@ -18,27 +16,37 @@
     },
     {
       "text": "autophagy  ️",
+      "url": "/biology/organisms/cells/autophagy",
       "fx": -196.27586377009135,
       "fy": 136.24381547789898,
       "category": "mindmap"
     },
     {
+      "text": "cell membranes  ️",
+      "url": "/biology/organisms/cells/cell-membranes",
+      "fx": 150.11412417437919,
+      "fy": 137.49546418312974,
+      "category": "mindmap"
+    },
+    {
       "text": "stem cells  ️",
       "url": "/biology/organisms/cells/stem-cells",
-      "fx": -20.793179946844702,
-      "fy": 137.67424436475414,
+      "fx": -22.2991886138916,
+      "fy": 137.67423248291016,
       "category": "mindmap"
     },
     {
       "text": "cell division  ️",
+      "url": "/biology/organisms/cells/cell-division",
       "fx": -372.4858174891068,
       "fy": 138.1151226836276,
       "category": "mindmap"
     },
     {
-      "text": "membrane potential  ️",
-      "fx": 149.6817812277268,
-      "fy": 141.26672558278483,
+      "text": "metabolism  ️",
+      "url": "/biology/organisms/cells/metabolism",
+      "fx": -555.6261203972886,
+      "fy": 139.30962330426348,
       "category": "mindmap"
     }
   ],
@@ -66,16 +74,8 @@
       "source": "basics",
       "target": "stem cells  ️",
       "curve": {
-        "x": -24.9395,
+        "x": -25.6925,
         "y": 61.4229
-      }
-    },
-    {
-      "source": "basics",
-      "target": "membrane potential  ️",
-      "curve": {
-        "x": 82.7979,
-        "y": 63.2191
       }
     },
     {
@@ -92,6 +92,22 @@
       "curve": {
         "x": -223.734,
         "y": 36.459
+      }
+    },
+    {
+      "source": "basics",
+      "target": "cell membranes  ️",
+      "curve": {
+        "x": 71.2641,
+        "y": 61.3335
+      }
+    },
+    {
+      "source": "basics",
+      "target": "metabolism  ️",
+      "curve": {
+        "x": -359.137,
+        "y": 17.4124
       }
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - physics - classical mechanics - forces - work",
+  "nodes": [
+    {
+      "text": "work",
+      "url": "http://www.wikiwand.com/en/Work_(physics)",
+      "fx": -40.37946319580078,
+      "fy": -141.69134902954102,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -40.55452433228493,
+      "fy": -15.679234504699707
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. work, energy and power",
+      "url": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
+      "fx": 115.44547566771507,
+      "fy": -4.179234504699707,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "work",
+      "target": "basics",
+      "curve": {
+        "x": -4.08753,
+        "y": 61.7561
+      }
+    }
+  ]
+}

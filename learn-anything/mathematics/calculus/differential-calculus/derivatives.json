@@ -1,0 +1,63 @@
+{
+  "title": "learn anything - mathematics - calculus - differential calculus - derivatives",
+  "nodes": [
+    {
+      "text": "derivatives",
+      "url": "http://www.wikiwand.com/en/Derivative",
+      "fx": -98.9140625,
+      "fy": -140.34446022727263,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -71.70466382575762,
+      "fy": -6.0956439393939945
+    },
+    {
+      "text": "differential equations  ️",
+      "url": "/mathematics/calculus/differential-calculus/derivatives/differential-equations",
+      "fx": -245.86517518939377,
+      "fy": 150.19921874999955,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the paradox of the derivative",
+      "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk&amp;t=2s",
+      "fx": 84.29533617424238,
+      "fy": -14.595643939393995,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. how to take derivatives",
+      "url": "https://www.youtube.com/watch?v=hCLfogkqzEk&amp;t=21s",
+      "fx": 84.29533617424238,
+      "fy": 25.404356060606005,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "derivatives",
+      "target": "basics",
+      "curve": {
+        "x": -0.395301,
+        "y": 65.8744
+      }
+    },
+    {
+      "source": "basics",
+      "target": "differential equations  ️",
+      "curve": {
+        "x": -48.0803,
+        "y": 79.3974
+      }
+    }
+  ]
+}

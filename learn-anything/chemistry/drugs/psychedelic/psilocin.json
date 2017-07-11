@@ -1,0 +1,89 @@
+{
+  "title": "learn anything - chemistry - drugs - psychedelic - psilocin",
+  "nodes": [
+    {
+      "text": "psilocin",
+      "url": "https://psychonautwiki.org/wiki/Psilocin",
+      "fx": 148.71484375,
+      "fy": -181.921875,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 262.4736532611772,
+      "fy": -47.6963426711942
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 169.67836884064855,
+      "fy": 96.8199691522376
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/shrooms/",
+      "fx": 343.71484375,
+      "fy": -167.921875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "psilocin"
+    },
+    {
+      "text": "dialogue with Terence McKenna",
+      "url": "https://www.youtube.com/watch?v=ahVfkwxy6aw",
+      "fx": 453.4736532611772,
+      "fy": -67.1963426711942,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "Terence McKenna on psychedelic salon podcast",
+      "url": "https://www.youtube.com/watch?v=K3ctjBT8sZo",
+      "fx": 453.4736532611772,
+      "fy": -27.196342671194202,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. your brain on shrooms",
+      "url": "https://www.youtube.com/watch?v=F5kqThVON18",
+      "fx": 325.67836884064855,
+      "fy": 77.3199691522376,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. Alan Watts - the use of LSD and psilocybin",
+      "url": "https://www.youtube.com/watch?v=4l90LMpSJM4",
+      "fx": 325.67836884064855,
+      "fy": 117.3199691522376,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "psilocin",
+      "target": "basics",
+      "curve": {
+        "x": 0.731763,
+        "y": 138.121
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "psilocin",
+      "curve": {
+        "x": -55.8794,
+        "y": -65.8628
+      }
+    }
+  ]
+}

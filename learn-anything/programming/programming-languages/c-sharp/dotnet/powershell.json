@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - c sharp - dotnet - powershell",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "powershell",
@@ -13,8 +11,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 105.21688988095264,
-      "fy": -13.85174851190476
+      "fx": 107.86383928571445,
+      "fy": -2.638950892857167
     },
     {
       "text": "basics",
@@ -29,7 +27,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/PowerShell/",
       "fx": 208.08187675476074,
-      "fy": -138.70076858997345,
+      "fy": -158.70076858997345,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "powershell"
@@ -38,25 +36,25 @@
       "text": "",
       "url": "https://github.com/PowerShell/PowerShell",
       "fx": 208.08187675476074,
-      "fy": -98.70076858997345,
+      "fy": -118.70076858997345,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "powershell"
     },
     {
-      "text": "awesome powershell",
+      "text": "awesome",
       "url": "https://github.com/janikvonrotz/awesome-powershell",
-      "fx": 242.21688988095264,
-      "fy": -33.35174851190476,
+      "fx": 208.08187675476074,
+      "fy": -78.70076858997345,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "powershell"
     },
     {
       "text": "powershell best practices and style guide",
       "url": "https://github.com/PoshCode/PowerShellPracticeAndStyle",
-      "fx": 242.21688988095264,
-      "fy": 6.648251488095241,
+      "fx": 244.86383928571445,
+      "fy": -2.138950892857167,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -75,8 +73,8 @@
       "source": "help",
       "target": "powershell",
       "curve": {
-        "x": -38.8175,
-        "y": -58.1745
+        "x": -40.141,
+        "y": -63.7809
       }
     },
     {

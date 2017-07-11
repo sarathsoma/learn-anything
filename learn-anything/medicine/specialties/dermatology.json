@@ -1,7 +1,5 @@
 {
   "title": "learn anything - medicine - specialties - dermatology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "dermatology",
@@ -13,6 +11,7 @@
     },
     {
       "text": "skin care  ️",
+      "url": "/medicine/specialties/dermatology/skin-care",
       "fx": 435.0387535095215,
       "fy": -142.43015575408936,
       "category": "mindmap"

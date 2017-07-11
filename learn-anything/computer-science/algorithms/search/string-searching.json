@@ -1,0 +1,29 @@
+{
+  "title": "learn anything - computer science - algorithms - search - string searching",
+  "nodes": [
+    {
+      "text": "string searching algorithms",
+      "url": "http://www.wikiwand.com/en/String_searching_algorithm",
+      "fx": -30.671875,
+      "fy": -169.25,
+      "category": "wiki"
+    },
+    {
+      "text": "Boyer–Moore string search algorithm  ️",
+      "fx": -173.16774867957747,
+      "fy": -23.056393045774655,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "string searching algorithms",
+      "target": "Boyer–Moore string search algorithm  ️",
+      "curve": {
+        "x": -76.9979,
+        "y": 78.0968
+      }
+    }
+  ]
+}

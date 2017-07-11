@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer science - virtual machines - jvm",
-  "tag": "java virtual machine",
-  "description": "",
   "nodes": [
     {
       "text": "java virtual machine",
@@ -46,19 +44,19 @@
   ],
   "subnodes": [
     {
-      "text": "awesome jvm",
+      "text": "awesome",
       "url": "https://github.com/deephacks/awesome-jvm",
-      "fx": 194.72673007215292,
-      "fy": -317.64863672877226,
+      "fx": 178.72265625,
+      "fy": -391.80078125,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "java virtual machine"
     },
     {
       "text": "jvm spec",
       "url": "http://docs.oracle.com/javase/specs/",
       "fx": 194.72673007215292,
-      "fy": -277.64863672877226,
+      "fy": -297.64863672877226,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },

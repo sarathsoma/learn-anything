@@ -1,21 +1,19 @@
 {
   "title": "learn anything - security",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "security",
       "note": "",
       "url": "http://www.wikiwand.com/en/Security",
-      "fx": -208.94526863098145,
-      "fy": -391.9048156738281,
+      "fx": -186.35542488098145,
+      "fy": -531.1704406738281,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 18.772143363952637,
-      "fy": -271.2567367553711
+      "fx": 12.772143363952637,
+      "fy": -282.6825180053711
     },
     {
       "text": "penetration testing  ️",
@@ -48,6 +46,13 @@
       "category": "mindmap"
     },
     {
+      "text": "authentication  ️",
+      "url": "/security/authentication",
+      "fx": -928.9643822521098,
+      "fy": 18.00318328658443,
+      "category": "mindmap"
+    },
+    {
       "text": "virtual private networks  ️",
       "url": "/security/virtual-private-networks",
       "fx": -357.65000431474516,
@@ -59,26 +64,35 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/security/",
-      "fx": 14.054731369018555,
-      "fy": -377.9048156738281,
+      "fx": 36.644575119018555,
+      "fy": -537.1704406738281,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "security"
     },
     {
+      "text": "awesome",
+      "url": "https://github.com/sbilly/awesome-security",
+      "fx": 36.644575119018555,
+      "fy": -497.1704406738281,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "security"
+    },
+    {
       "text": "15: advanced threat tactics",
       "url": "https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c",
-      "fx": 155.77214336395264,
-      "fy": -439.7567367553711,
-      "category": "",
+      "fx": 149.77214336395264,
+      "fy": -431.1825180053711,
+      "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "security tips for startups",
       "url": "https://github.com/forter/security-101-for-saas-startups",
-      "fx": 155.77214336395264,
-      "fy": -399.7567367553711,
+      "fx": 149.77214336395264,
+      "fy": -391.1825180053711,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -86,26 +100,17 @@
     {
       "text": "awesome application security",
       "url": "https://github.com/paragonie/awesome-appsec",
-      "fx": 155.77214336395264,
-      "fy": -359.7567367553711,
+      "fx": 149.77214336395264,
+      "fy": -351.1825180053711,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome security",
-      "url": "https://github.com/sbilly/awesome-security",
-      "fx": 155.77214336395264,
-      "fy": -319.7567367553711,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "awesome vehicle security",
       "url": "https://github.com/jaredthecoder/awesome-vehicle-security",
-      "fx": 155.77214336395264,
-      "fy": -279.7567367553711,
+      "fx": 149.77214336395264,
+      "fy": -311.1825180053711,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -113,8 +118,8 @@
     {
       "text": "awesome incident response",
       "url": "https://github.com/meirwah/awesome-incident-response",
-      "fx": 155.77214336395264,
-      "fy": -239.7567367553711,
+      "fx": 149.77214336395264,
+      "fy": -271.1825180053711,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -122,8 +127,8 @@
     {
       "text": "awesome honeypots",
       "url": "https://github.com/paralax/awesome-honeypots",
-      "fx": 155.77214336395264,
-      "fy": -199.7567367553711,
+      "fx": 149.77214336395264,
+      "fy": -231.1825180053711,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -131,8 +136,8 @@
     {
       "text": "security guide for developers",
       "url": "https://github.com/FallibleInc/security-guide-for-developers",
-      "fx": 155.77214336395264,
-      "fy": -159.7567367553711,
+      "fx": 149.77214336395264,
+      "fy": -191.1825180053711,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -140,8 +145,8 @@
     {
       "text": "awesome OSINT",
       "url": "https://github.com/jivoi/awesome-osint",
-      "fx": 155.77214336395264,
-      "fy": -119.7567367553711,
+      "fx": 149.77214336395264,
+      "fy": -151.1825180053711,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -149,8 +154,8 @@
     {
       "text": "security 101 for SaaS startups",
       "url": "https://github.com/forter/security-101-for-saas-startups",
-      "fx": 155.77214336395264,
-      "fy": -79.7567367553711,
+      "fx": 149.77214336395264,
+      "fy": -111.1825180053711,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -161,24 +166,24 @@
       "source": "help",
       "target": "security",
       "curve": {
-        "x": -98.8587,
-        "y": -59.074
+        "x": -84.5638,
+        "y": -122.994
       }
     },
     {
       "source": "security",
       "target": "privacy  ️",
       "curve": {
-        "x": -45.4154,
-        "y": 200.093
+        "x": -56.7103,
+        "y": 269.726
       }
     },
     {
       "source": "security",
       "target": "penetration testing  ️",
       "curve": {
-        "x": 68.8671,
-        "y": 199.892
+        "x": 57.5722,
+        "y": 269.525
       }
     },
     {
@@ -193,16 +198,24 @@
       "source": "security",
       "target": "hacking  ️",
       "curve": {
-        "x": -140.103,
-        "y": 200.661
+        "x": -151.398,
+        "y": 270.294
       }
     },
     {
       "source": "security",
       "target": "information security  ️",
       "curve": {
-        "x": -244.783,
-        "y": 203.277
+        "x": -256.078,
+        "y": 272.91
+      }
+    },
+    {
+      "source": "security",
+      "target": "authentication  ️",
+      "curve": {
+        "x": -370.804,
+        "y": 273.337
       }
     }
   ]

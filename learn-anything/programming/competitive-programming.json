@@ -1,20 +1,12 @@
 {
   "title": "learn anything - programming - competitive programming",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "competitive programming",
       "url": "http://www.wikiwand.com/en/Competitive_programming",
-      "fx": -250.64453506469727,
-      "fy": -252.78190994262695,
+      "fx": -208.77930068969738,
+      "fy": -167.447437286377,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -27.991757551828982,
-      "fy": -150.10980864494076
     },
     {
       "text": "basics",
@@ -33,13 +25,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome competitive programming",
+      "text": "awesome",
       "url": "https://github.com/lnishan/awesome-competitive-programming",
-      "fx": 109.00824244817102,
-      "fy": -149.60980864494076,
+      "fx": 149.22069931030262,
+      "fy": -153.447437286377,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "competitive programming"
     },
     {
       "text": "1. ACM curriculum",
@@ -83,16 +75,8 @@
       "source": "competitive programming",
       "target": "basics",
       "curve": {
-        "x": -3.37227,
-        "y": 133.553
-      }
-    },
-    {
-      "source": "help",
-      "target": "competitive programming",
-      "curve": {
-        "x": -56.0764,
-        "y": -50.0861
+        "x": -24.3049,
+        "y": 90.8858
       }
     },
     {

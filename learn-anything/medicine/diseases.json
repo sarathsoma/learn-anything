@@ -1,7 +1,5 @@
 {
   "title": "learn anything - medicine - diseases",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "diseases",
@@ -12,130 +10,144 @@
       "category": "wiki"
     },
     {
+      "text": "pandemics  ️",
+      "url": "/medicine/diseases/pandemics",
+      "fx": -216.2861201298702,
+      "fy": -207.19778138528227,
+      "category": "mindmap"
+    },
+    {
       "text": "videos",
       "url": "",
-      "fx": 33.43485782259984,
-      "fy": 0.600038074311783
+      "fx": 161.21300976225496,
+      "fy": -32.21582938258496
     }
   ],
   "subnodes": [
     {
       "text": "cancer  ️",
-      "fx": 211.51953125,
-      "fy": -628.44921875,
+      "url": "/medicine/diseases/cancer",
+      "fx": 224.51953125,
+      "fy": -640.94921875,
       "category": "mindmap",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "tuberculosis  ️",
-      "fx": 211.51953125,
-      "fy": -588.44921875,
+      "url": "/medicine/diseases/tuberculosis",
+      "fx": 224.51953125,
+      "fy": -598.94921875,
       "category": "mindmap",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "diabetes  ️",
-      "fx": 211.51953125,
-      "fy": -548.44921875,
+      "url": "/medicine/diseases/diabetes",
+      "fx": 224.51953125,
+      "fy": -556.94921875,
       "category": "mindmap",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "ADHD",
       "url": "http://www.wikiwand.com/en/Attention_deficit_hyperactivity_disorder",
-      "fx": 211.51953125,
-      "fy": -508.44921875,
+      "fx": 224.51953125,
+      "fy": -514.94921875,
       "category": "wiki",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "alzheimers  ️",
-      "fx": 211.51953125,
-      "fy": -468.44921875,
+      "url": "/medicine/neurology/neurodegeneration/alzheimers-disease",
+      "fx": 224.51953125,
+      "fy": -472.94921875,
       "category": "mindmap",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "influenza  ️",
-      "fx": 211.51953125,
-      "fy": -428.44921875,
+      "url": "/medicine/diseases/influenza",
+      "fx": 224.51953125,
+      "fy": -430.94921875,
       "category": "mindmap",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "HIV  ️",
-      "fx": 211.51953125,
-      "fy": -388.44921875,
+      "url": "/medicine/diseases/hiv",
+      "fx": 224.51953125,
+      "fy": -388.94921875,
       "category": "mindmap",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "coronary artery disease",
       "url": "http://www.wikiwand.com/en/Coronary_artery_disease",
-      "fx": 211.51953125,
-      "fy": -348.44921875,
+      "fx": 224.51953125,
+      "fy": -346.94921875,
       "category": "wiki",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "chronic obstructive pulmonary disease",
       "url": "http://www.wikiwand.com/en/Chronic_obstructive_pulmonary_disease",
-      "fx": 211.51953125,
-      "fy": -308.44921875,
+      "fx": 224.51953125,
+      "fy": -304.94921875,
       "category": "wiki",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "diarrhea",
       "url": "http://www.wikiwand.com/en/Diarrhea",
-      "fx": 211.51953125,
-      "fy": -246.44921875,
+      "fx": 224.51953125,
+      "fy": -237.94921875,
       "category": "wiki",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "malaria  ️",
-      "fx": 211.51953125,
-      "fy": -206.44921875,
+      "url": "/medicine/diseases/malaria",
+      "fx": 224.51953125,
+      "fy": -195.94921875,
       "category": "mindmap",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "measles",
       "url": "http://www.wikiwand.com/en/Measles",
-      "fx": 211.51953125,
-      "fy": -166.44921875,
+      "fx": 224.51953125,
+      "fy": -153.94921875,
       "category": "wiki",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "diseases"
     },
     {
       "text": "16: the most gruesome parasites – neglected tropical diseases",
       "url": "https://www.youtube.com/watch?v=qNWWrDBRBqk",
-      "fx": 190.43485782259984,
-      "fy": -29.899961925688217,
+      "fx": 324.21300976225496,
+      "fy": -90.71582938258496,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "videos"
     },
     {
       "text": "16: genetic engineering and diseases – gene drive &amp; malaria",
       "url": "https://www.youtube.com/watch?v=TnzcwTyr6cE",
-      "fx": 190.43485782259984,
-      "fy": 32.10003807431178,
+      "fx": 324.21300976225496,
+      "fy": 1.2841706174150431,
       "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "videos"
     }
   ],
@@ -144,8 +156,16 @@
       "source": "videos",
       "target": "diseases",
       "curve": {
-        "x": -14.7076,
-        "y": -204.774
+        "x": -112.511,
+        "y": -191.564
+      }
+    },
+    {
+      "source": "diseases",
+      "target": "pandemics  ️",
+      "curve": {
+        "x": -106.903,
+        "y": 101.376
       }
     }
   ]

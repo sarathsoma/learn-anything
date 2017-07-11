@@ -1,7 +1,5 @@
 {
   "title": "learn anything - communication - telecommunication",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "telecommunication",
@@ -13,6 +11,7 @@
     },
     {
       "text": "wireless  ️",
+      "url": "/communication/telecommunication/wireless",
       "fx": 74.53538257555044,
       "fy": -96.94094007573182,
       "category": "mindmap"

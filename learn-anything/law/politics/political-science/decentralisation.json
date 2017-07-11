@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - law - politics - political science - decentralisation",
+  "nodes": [
+    {
+      "text": "decentralisation",
+      "url": "http://www.wikiwand.com/en/Decentralization",
+      "fx": 92.8498364825582,
+      "fy": -169.93731831395343,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 147.1104651162882,
+      "fy": -30.13408430230919
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the advantages of decentralisation",
+      "url": "https://www.youtube.com/watch?v=LKbOPYnUlXs",
+      "fx": 310.1104651162882,
+      "fy": -30.13408430230919,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "decentralisation",
+      "target": "basics",
+      "curve": {
+        "x": -3.36969,
+        "y": 69.1516
+      }
+    }
+  ]
+}

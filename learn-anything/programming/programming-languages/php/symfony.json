@@ -1,34 +1,41 @@
 {
   "title": "learn anything - programming - programming languages - php - symfony",
-  "tag": "symfony framework",
-  "description": "",
   "nodes": [
     {
       "text": "symfony",
       "url": "https://github.com/symfony/symfony",
-      "fx": -55.90683937072754,
-      "fy": -151.20270824432373,
+      "fx": -55.700265407562256,
+      "fy": -73.93261157058362,
       "category": "github"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 76.38507908950612,
-      "fy": -54.009243184156446
+      "fx": 109.79248586403514,
+      "fy": 31.047450665878046
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -35.02314814814804,
-      "fy": 45.290830761290465
+      "fx": -36.02301954732502,
+      "fy": 133.93698559668138
     }
   ],
   "subnodes": [
     {
-      "text": "awesome symfony",
+      "text": "awesome",
       "url": "https://github.com/sitepoint-editors/awesome-symfony",
-      "fx": 213.38507908950612,
-      "fy": -42.509243184156446,
+      "fx": 147.29973459243774,
+      "fy": -59.93261157058362,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "symfony"
+    },
+    {
+      "text": "symfony education",
+      "url": "https://github.com/pehapkari/awesome-symfony-education",
+      "fx": 246.79248586403514,
+      "fy": 42.547450665878046,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -36,27 +43,27 @@
     {
       "text": "1. getting started",
       "url": "https://symfony.com/doc/current/page_creation.html",
-      "fx": 120.97685185185196,
-      "fy": 59.790830761290465,
+      "fx": 119.97698045267498,
+      "fy": 148.43698559668138,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "symfony",
-      "curve": {
-        "x": -49.646,
-        "y": -47.3467
-      }
-    },
-    {
       "source": "symfony",
       "target": "basics",
       "curve": {
-        "x": -1.30815,
-        "y": 96.9968
+        "x": -1.91137,
+        "y": 102.685
+      }
+    },
+    {
+      "source": "help",
+      "target": "symfony",
+      "curve": {
+        "x": -66.2464,
+        "y": -51.24
       }
     }
   ]

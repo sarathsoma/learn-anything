@@ -1,7 +1,5 @@
 {
   "title": "learn anything - machine learning - supervised learning",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "supervised learning",
@@ -19,8 +17,15 @@
     {
       "text": "support vector machines  ️",
       "url": "/machine-learning/supervised-learning/support-vector-machines",
-      "fx": -277.1434848352036,
-      "fy": 92.33165687824089,
+      "fx": -306.6866234221601,
+      "fy": 84.92846394345838,
+      "category": "mindmap"
+    },
+    {
+      "text": "perceptrons  ️",
+      "url": "/machine-learning/supervised-learning/perceptrons",
+      "fx": -1.881611563804654,
+      "fy": 86.75621936686645,
       "category": "mindmap"
     }
   ],
@@ -48,8 +53,16 @@
       "source": "basics",
       "target": "support vector machines  ️",
       "curve": {
-        "x": -58.4155,
-        "y": 71.3896
+        "x": -73.1871,
+        "y": 67.688
+      }
+    },
+    {
+      "source": "basics",
+      "target": "perceptrons  ️",
+      "curve": {
+        "x": 50.2154,
+        "y": 68.6019
       }
     }
   ]

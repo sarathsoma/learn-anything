@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - matter - state of matter",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "state of matter",
@@ -45,6 +43,7 @@
     },
     {
       "text": "plasma  ️",
+      "url": "/physics/matter/state-of-matter/plasma",
       "fx": 43.66061181761802,
       "fy": 209.70373323123442,
       "category": "mindmap"

@@ -1,28 +1,32 @@
 {
   "title": "learn anything - philosophy - spirituality",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "spirituality",
       "note": "",
       "url": "http://www.wikiwand.com/en/Spirituality",
-      "fx": -112.54976624015751,
-      "fy": -164.83203125,
+      "fx": -118.44389008985081,
+      "fy": -295.2762914562797,
       "category": "wiki"
     },
     {
-      "text": "religion",
-      "url": "http://www.wikiwand.com/en/Religion",
-      "fx": -109.171875,
-      "fy": -46.71484375,
-      "category": "wiki"
+      "text": "basics",
+      "url": "",
+      "fx": -77.96583304802516,
+      "fy": -152.78883125447425
     },
     {
-      "text": "buddhism  ️",
-      "url": "/philosophy/spirituality/buddhism",
-      "fx": -137.9545454545456,
-      "fy": 79.86363636363893,
+      "text": "religion  ️",
+      "url": "/philosophy/spirituality/religion",
+      "fx": -193.71123492463903,
+      "fy": -36.52501058914038,
+      "category": "mindmap"
+    },
+    {
+      "text": "God  ️",
+      "url": "/philosophy/spirituality/god",
+      "fx": -46.86043087722078,
+      "fy": -35.40461413388323,
       "category": "mindmap"
     }
   ],
@@ -30,8 +34,8 @@
     {
       "text": "psychonaut",
       "url": "https://www.reddit.com/r/Psychonaut/",
-      "fx": 129.4502337598425,
-      "fy": -170.83203125,
+      "fx": 123.55610991014919,
+      "fy": -301.2762914562797,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "spirituality"
@@ -39,28 +43,45 @@
     {
       "text": "rational psychonaut",
       "url": "https://www.reddit.com/r/RationalPsychonaut/",
-      "fx": 129.4502337598425,
-      "fy": -130.83203125,
+      "fx": 123.55610991014919,
+      "fy": -261.2762914562797,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "spirituality"
+    },
+    {
+      "text": "1. Alan Watts - spirituality - why we need it",
+      "url": "https://www.youtube.com/watch?v=pgJ1EAHqWxA",
+      "fx": 78.03416695197484,
+      "fy": -152.28883125447425,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
     }
   ],
   "connections": [
     {
       "source": "spirituality",
-      "target": "religion",
+      "target": "basics",
       "curve": {
-        "x": -11.8111,
-        "y": 57.8086
+        "x": -1.26097,
+        "y": 69.9937
       }
     },
     {
-      "source": "religion",
-      "target": "buddhism  ️",
+      "source": "basics",
+      "target": "religion  ️",
       "curve": {
-        "x": -14.8913,
-        "y": 62.0392
+        "x": -49.1227,
+        "y": 59.3819
+      }
+    },
+    {
+      "source": "basics",
+      "target": "God  ️",
+      "curve": {
+        "x": 11.0527,
+        "y": 58.6921
       }
     }
   ]

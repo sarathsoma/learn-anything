@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - particle physics - elementary particles",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "elementary particles",
@@ -26,6 +24,7 @@
     },
     {
       "text": "quarks  ️",
+      "url": "/physics/particle-physics/elementary-particles/quarks",
       "fx": 405.4752808743085,
       "fy": 96.28179465364798,
       "category": "mindmap"

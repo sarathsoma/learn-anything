@@ -1,0 +1,72 @@
+{
+  "title": "learn anything - operating systems - file systems",
+  "nodes": [
+    {
+      "text": "file systems",
+      "url": "http://www.wikiwand.com/en/File_system",
+      "fx": -74.74904725609747,
+      "fy": -120.93111661585363,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -65.78544207317088,
+      "fy": 19.80449695121939
+    },
+    {
+      "text": "file formats",
+      "url": "http://www.wikiwand.com/en/File_format",
+      "fx": -167.0571646341466,
+      "fy": 133.84641768296046,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/filesystems/",
+      "fx": 157.25095274390253,
+      "fy": -106.93111661585363,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "file systems"
+    },
+    {
+      "text": "1. file system forensic analysis",
+      "url": "http://www.campus64.com/digital_learning/data/cyber_forensics_essentials/info_file_system_forensic_analysis.pdf",
+      "fx": 90.21455792682912,
+      "fy": 11.304496951219392,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. anatomy of file systems",
+      "url": "https://www.youtube.com/watch?v=0Yf-W7Ps6u4",
+      "fx": 90.21455792682912,
+      "fy": 51.30449695121939,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "file systems",
+      "target": "basics",
+      "curve": {
+        "x": -14.5182,
+        "y": 69.1178
+      }
+    },
+    {
+      "source": "basics",
+      "target": "file formats",
+      "curve": {
+        "x": -40.3858,
+        "y": 57.0209
+      }
+    }
+  ]
+}

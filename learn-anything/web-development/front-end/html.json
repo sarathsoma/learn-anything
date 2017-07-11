@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - front end - html",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "HTML",
@@ -30,6 +28,7 @@
     },
     {
       "text": "HTML5  ️",
+      "url": "/web-development/front-end/html/html5",
       "fx": -174.19245631720423,
       "fy": 101.40961021505348,
       "category": "mindmap"

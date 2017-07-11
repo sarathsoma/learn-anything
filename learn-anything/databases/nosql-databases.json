@@ -1,7 +1,5 @@
 {
   "title": "learn anything - databases - nosql databases",
-  "tag": "noSQL databases",
-  "description": "",
   "nodes": [
     {
       "text": "noSQL databases",
@@ -35,8 +33,15 @@
     {
       "text": "NewSQL  ️",
       "url": "/databases/nosql-databases/newsql",
-      "fx": 255.41590447154454,
-      "fy": -25.157139227642347,
+      "fx": 199.51634216308594,
+      "fy": -45.72853946685791,
+      "category": "mindmap"
+    },
+    {
+      "text": "realm  ️",
+      "url": "/databases/nosql-databases/realm",
+      "fx": 356.6612870065792,
+      "fy": -42.70867598684208,
       "category": "mindmap"
     }
   ],
@@ -70,8 +75,16 @@
       "source": "noSQL databases",
       "target": "NewSQL  ️",
       "curve": {
-        "x": 141.247,
-        "y": 96.6134
+        "x": 113.297,
+        "y": 86.3277
+      }
+    },
+    {
+      "source": "noSQL databases",
+      "target": "realm  ️",
+      "curve": {
+        "x": 186.12,
+        "y": 71.5974
       }
     }
   ]

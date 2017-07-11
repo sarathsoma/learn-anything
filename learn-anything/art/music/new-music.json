@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art - music - new music",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "find new music",
@@ -12,6 +10,7 @@
     },
     {
       "text": "coding music  ️",
+      "url": "/art/music/new-music/coding-music",
       "fx": -703.3805773894003,
       "fy": 183.38676228335362,
       "category": "mindmap"

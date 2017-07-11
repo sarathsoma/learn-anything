@@ -1,14 +1,12 @@
 {
   "title": "learn anything - programming - programming languages - assembly - WebAssembly",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "WebAssembly",
       "note": "",
       "url": "http://www.wikiwand.com/en/WebAssembly",
       "fx": -105.37109375,
-      "fy": -128.31640625,
+      "fy": -145.21010283119654,
       "category": "wiki"
     },
     {
@@ -26,8 +24,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -54.40290178571456,
-      "fy": 308.582961309521
+      "fx": -58.713131486569296,
+      "fy": 317.16669528388
     }
   ],
   "subnodes": [
@@ -35,9 +33,18 @@
       "text": "",
       "url": "https://www.reddit.com/r/WebAssembly/",
       "fx": 176.62890625,
-      "fy": -114.31640625,
+      "fy": -151.21010283119654,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "WebAssembly"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/mbasso/awesome-wasm",
+      "fx": 176.62890625,
+      "fy": -111.21010283119654,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "WebAssembly"
     },
     {
@@ -77,10 +84,19 @@
       "parent": "talks"
     },
     {
+      "text": "1. intro to WebAssembly  ️",
+      "url": "https://www.codelitt.com/blog/web-assembly/",
+      "fx": 97.2868685134307,
+      "fy": 308.66669528388,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. get started using WebAssembly",
       "url": "https://egghead.io/courses/get-started-using-webassembly-wasm",
-      "fx": 101.59709821428544,
-      "fy": 320.082961309521,
+      "fx": 97.2868685134307,
+      "fy": 348.66669528388,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -92,15 +108,15 @@
       "target": "WebAssembly",
       "curve": {
         "x": -71.3934,
-        "y": -64.4467
+        "y": -72.8935
       }
     },
     {
       "source": "WebAssembly",
       "target": "basics",
       "curve": {
-        "x": -6.0159,
-        "y": 217.2
+        "x": -8.17101,
+        "y": 229.939
       }
     },
     {

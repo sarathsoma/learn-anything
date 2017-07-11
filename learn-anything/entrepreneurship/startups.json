@@ -1,7 +1,5 @@
 {
   "title": "learn anything - entrepreneurship - startups",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "startups",
@@ -14,11 +12,12 @@
     {
       "text": "help",
       "url": "",
-      "fx": 178.67845916748047,
-      "fy": -123.3280029296875
+      "fx": 174.7929241296016,
+      "fy": -105.55456542968756
     },
     {
       "text": "funding  ️",
+      "url": "/entrepreneurship/startups/funding",
       "fx": -135.5084486970684,
       "fy": -95.76338558631915,
       "category": "mindmap"
@@ -26,23 +25,38 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 356.96929931640625,
-      "fy": 126.85248184204102
+      "fx": 355.969062573982,
+      "fy": 104.53950835719252
     },
     {
       "text": "basics",
       "url": "",
       "fx": 43.1486361228815,
       "fy": 310.93734551553655
+    },
+    {
+      "text": "founder stories ",
+      "url": "",
+      "fx": 541.3503126533551,
+      "fy": 317.31480991598005
     }
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/startups/",
+      "fx": 253.62103502316916,
+      "fy": -213.90459927645594,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "startups"
+    },
+    {
       "text": "awesome okr",
       "note": "curated list about OKR (Objective - Key Results)",
       "url": "https://github.com/domenicosolazzo/awesome-okr",
-      "fx": 315.67845916748047,
-      "fy": -185.8280029296875,
+      "fx": 311.7929241296016,
+      "fy": -168.05456542968756,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -50,8 +64,8 @@
     {
       "text": "places to post your startup",
       "url": "https://github.com/mmccaff/PlacesToPostYourStartup",
-      "fx": 315.67845916748047,
-      "fy": -145.8280029296875,
+      "fx": 311.7929241296016,
+      "fy": -128.05456542968756,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -59,8 +73,8 @@
     {
       "text": "awesome startup",
       "url": "https://github.com/KrishMunot/awesome-startup",
-      "fx": 315.67845916748047,
-      "fy": -105.8280029296875,
+      "fx": 311.7929241296016,
+      "fy": -88.05456542968756,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -68,24 +82,24 @@
     {
       "text": "startup graveyard",
       "url": "http://startupgraveyard.io/",
-      "fx": 315.67845916748047,
-      "fy": -65.8280029296875,
+      "fx": 311.7929241296016,
+      "fy": -48.05456542968756,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "startup resources",
       "url": "https://startupresources.io/",
-      "fx": 315.67845916748047,
-      "fy": -31.8280029296875,
+      "fx": 311.7929241296016,
+      "fy": -14.054565429687557,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "why startups condense in America  ️",
       "url": "http://www.paulgraham.com/america.html",
-      "fx": 518.9692993164062,
-      "fy": 34.352481842041016,
+      "fx": 517.969062573982,
+      "fy": 12.039508357192517,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -93,8 +107,8 @@
     {
       "text": "09: want to start a startup?  ️",
       "url": "http://www.paulgraham.com/makersschedule.html",
-      "fx": 518.9692993164062,
-      "fy": 96.35248184204102,
+      "fx": 517.969062573982,
+      "fy": 74.03950835719252,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -102,8 +116,8 @@
     {
       "text": "15: what did billion dollar companies look like at the series A?  ️",
       "url": "https://femalefounders.info/what-did-billion-dollar-companies-look-like-at-the-series-a-e53ea8043a85",
-      "fx": 518.9692993164062,
-      "fy": 136.35248184204102,
+      "fx": 517.969062573982,
+      "fy": 114.03950835719252,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -111,8 +125,8 @@
     {
       "text": "16: tools to help you launch your startup  ️",
       "url": "https://medium.com/product-hunt/28-tools-to-help-you-launch-your-startup-on-a-small-budget-7d5383997bbd",
-      "fx": 518.9692993164062,
-      "fy": 220.35248184204102,
+      "fx": 517.969062573982,
+      "fy": 198.03950835719252,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -134,6 +148,15 @@
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
+    },
+    {
+      "text": "how Airbnb was built - Joe Gebbia",
+      "url": "https://soundcloud.com/best-of-tech-startups/how-i-built-this-airbnb-joe-gebbia",
+      "fx": 780.3503126533551,
+      "fy": 328.81480991598005,
+      "category": "podcast",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "founder stories "
     }
   ],
   "connections": [
@@ -141,16 +164,16 @@
       "source": "help",
       "target": "startups",
       "curve": {
-        "x": -60.0287,
-        "y": -51.0383
+        "x": -58.0859,
+        "y": -59.925
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -110.993,
-        "y": -103.242
+        "x": -112.436,
+        "y": -83.1988
       }
     },
     {
@@ -167,6 +190,14 @@
       "curve": {
         "x": -9.4862,
         "y": 268.171
+      }
+    },
+    {
+      "source": "founder stories ",
+      "target": "articles",
+      "curve": {
+        "x": -158.546,
+        "y": -101.156
       }
     }
   ]

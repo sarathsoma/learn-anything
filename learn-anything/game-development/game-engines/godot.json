@@ -1,7 +1,5 @@
 {
   "title": "learn anything - game development - game engines - godot",
-  "tag": "godot game engine",
-  "description": "",
   "nodes": [
     {
       "text": "godot",
@@ -11,10 +9,10 @@
       "fy": -346.19921875
     },
     {
-      "text": "help",
+      "text": "basics",
       "url": "",
-      "fx": 1.51953125,
-      "fy": -214.89453125
+      "fx": -41.22593118686859,
+      "fy": -200.2822758838384
     }
   ],
   "subnodes": [
@@ -22,7 +20,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/godot/",
       "fx": 124.57421875,
-      "fy": -354.69921875,
+      "fy": -374.69921875,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "godot"
@@ -31,28 +29,36 @@
       "text": "",
       "url": "https://github.com/godotengine/godot",
       "fx": 124.57421875,
-      "fy": -314.69921875,
+      "fy": -334.69921875,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "godot"
     },
     {
-      "text": "awesome godot",
+      "text": "awesome",
       "url": "https://github.com/Calinou/awesome-godot",
-      "fx": 138.51953125,
-      "fy": -203.39453125,
+      "fx": 124.57421875,
+      "fy": -294.69921875,
       "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "godot"
+    },
+    {
+      "text": "1. step by learning",
+      "url": "http://docs.godotengine.org/en/latest/learning/step_by_step/",
+      "fx": 114.77406881313141,
+      "fy": -185.7822758838384,
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "basics"
     }
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "godot",
+      "source": "godot",
+      "target": "basics",
       "curve": {
-        "x": -23.7227,
-        "y": -65.6523
+        "x": 0.599925,
+        "y": 72.9585
       }
     }
   ]

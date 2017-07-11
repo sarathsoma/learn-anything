@@ -1,13 +1,11 @@
 {
   "title": "learn anything - programming - programming languages - julia",
-  "tag": "julia programming language",
-  "description": "",
   "nodes": [
     {
       "text": "julia",
       "url": "http://www.wikiwand.com/en/Julia_(programming_language)",
       "fx": -39.82466096698113,
-      "fy": -319.24366155660374,
+      "fy": -338.92334905660374,
       "category": "wiki"
     },
     {
@@ -35,7 +33,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/Julia/",
       "fx": 121.17533903301887,
-      "fy": -325.24366155660374,
+      "fy": -384.92334905660374,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "julia"
@@ -44,33 +42,42 @@
       "text": "",
       "url": "https://github.com/JuliaLang/julia",
       "fx": 121.17533903301887,
-      "fy": -285.24366155660374,
+      "fy": -344.92334905660374,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "julia"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/julia",
+      "fx": 121.17533903301887,
+      "fy": -304.92334905660374,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "julia"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/svaksha/Julia.jl",
+      "fx": 121.17533903301887,
+      "fy": -264.92334905660374,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "julia"
     },
     {
       "text": "julia learning resources",
       "url": "https://julialang.org/learning/",
       "fx": 185.94695232760535,
-      "fy": -204.72437286376953,
+      "fy": -184.72437286376953,
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome julia",
-      "url": "https://github.com/svaksha/Julia.jl",
-      "fx": 185.94695232760535,
-      "fy": -170.72437286376953,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "julia docs",
       "url": "https://docs.julialang.org/en/latest/#Manual-1",
       "fx": 185.94695232760535,
-      "fy": -130.72437286376953,
+      "fy": -150.72437286376953,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -107,7 +114,7 @@
       "target": "julia",
       "curve": {
         "x": -38.3858,
-        "y": -67.2597
+        "y": -77.0995
       }
     },
     {
@@ -115,7 +122,7 @@
       "target": "basics",
       "curve": {
         "x": -7.46732,
-        "y": 188.831
+        "y": 198.671
       }
     },
     {

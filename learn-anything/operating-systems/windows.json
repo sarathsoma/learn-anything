@@ -1,14 +1,12 @@
 {
   "title": "learn anything - operating systems - windows",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "windows",
       "note": "",
       "url": "http://www.wikiwand.com/en/Microsoft_Windows",
-      "fx": -78.05078125,
-      "fy": -200.25390625,
+      "fx": -80.45595027515719,
+      "fy": -209.81807684748424,
       "category": "wiki"
     },
     {
@@ -22,7 +20,7 @@
       "text": "help",
       "url": "",
       "fx": 17.299412204924806,
-      "fy": -72.1093980059681
+      "fy": -66.9182619996788
     },
     {
       "text": "windows server  ️",
@@ -42,15 +40,24 @@
       "text": "interesting",
       "url": "",
       "fx": 117.89498328045102,
-      "fy": 130.55230304373345
+      "fy": 137.55161515065163
     }
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/Awesome-Windows/Awesome",
+      "fx": 152.5440497248428,
+      "fy": -195.81807684748424,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "windows"
+    },
+    {
       "text": "curated list of best applications and tools for Windows",
       "url": "https://github.com/Awesome-Windows/Awesome",
       "fx": 154.2994122049248,
-      "fy": -142.6093980059681,
+      "fy": -126.4182619996788,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -59,7 +66,7 @@
       "text": "windows hacks",
       "url": "https://github.com/LazoCoder/Windows-Hacks",
       "fx": 154.2994122049248,
-      "fy": -80.6093980059681,
+      "fy": -64.4182619996788,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -69,7 +76,7 @@
       "note": "- rules to block windows spy / telemetry",
       "url": "https://github.com/crazy-max/WindowsSpyBlocker",
       "fx": 154.2994122049248,
-      "fy": -40.6093980059681,
+      "fy": -24.418261999678805,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -78,7 +85,7 @@
       "text": "windows development environment",
       "url": "https://github.com/felixrieseberg/windows-development-environment",
       "fx": 154.2994122049248,
-      "fy": -0.609398005968103,
+      "fy": 15.581738000321195,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -87,7 +94,7 @@
       "text": "every windows version upgraded through",
       "url": "https://www.youtube.com/watch?v=PH1BKPSGcxQ",
       "fx": 308.894983280451,
-      "fy": 111.05230304373345,
+      "fy": 98.05161515065163,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -96,9 +103,18 @@
       "text": "sudo for windows",
       "url": "https://github.com/mattn/sudo",
       "fx": 308.894983280451,
-      "fy": 173.05230304373345,
+      "fy": 160.05161515065163,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "windows build tools",
+      "url": "https://github.com/felixrieseberg/windows-build-tools",
+      "fx": 308.894983280451,
+      "fy": 200.05161515065163,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "interesting"
     }
   ],
@@ -107,8 +123,8 @@
       "source": "help",
       "target": "windows",
       "curve": {
-        "x": -37.1751,
-        "y": -64.0722
+        "x": -38.3777,
+        "y": -71.4499
       }
     },
     {
@@ -116,31 +132,31 @@
       "target": "help",
       "curve": {
         "x": -89.5888,
-        "y": -89.8638
+        "y": -90.7679
       }
     },
     {
       "source": "windows",
       "target": "powershell  ️",
       "curve": {
-        "x": -136.443,
-        "y": 26.6118
+        "x": -135.24,
+        "y": 31.3939
       }
     },
     {
       "source": "windows",
       "target": "autohotkey  ️",
       "curve": {
-        "x": -48.884,
-        "y": 150.589
+        "x": -47.6814,
+        "y": 155.371
       }
     },
     {
       "source": "windows",
       "target": "windows server  ️",
       "curve": {
-        "x": -145.496,
-        "y": 83.9734
+        "x": -144.293,
+        "y": 88.7555
       }
     }
   ]

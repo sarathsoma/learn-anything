@@ -1,7 +1,5 @@
 {
   "title": "learn anything - life",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "life",
@@ -48,6 +46,7 @@
     },
     {
       "text": "social skills  ️",
+      "url": "/life/social-skills",
       "fx": 664.9381737724291,
       "fy": -21.65448189073595,
       "category": "mindmap"

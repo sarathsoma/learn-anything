@@ -1,0 +1,78 @@
+{
+  "title": "learn anything - physics - matter - atoms",
+  "nodes": [
+    {
+      "text": "atoms",
+      "url": "http://www.wikiwand.com/en/Atom",
+      "fx": 7.573635101318359,
+      "fy": -175.559232711792,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 20.539306938648224,
+      "fy": -28.054054975509644
+    },
+    {
+      "text": "molecules  ️",
+      "url": "/physics/matter/atoms/molecules",
+      "fx": 57.90625,
+      "fy": 103.9677734375,
+      "category": "mindmap"
+    },
+    {
+      "text": "chemical bonds  ️",
+      "url": "/physics/matter/atoms/chemical-bonds",
+      "fx": -175.13171042319755,
+      "fy": 111.29711990595604,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. how small is an atom?",
+      "url": "https://www.youtube.com/watch?v=_lNF3_30lUE",
+      "fx": 176.53930693864822,
+      "fy": -36.554054975509644,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. what are atoms?",
+      "url": "https://www.youtube.com/watch?v=SggCE0kCJOY",
+      "fx": 176.53930693864822,
+      "fy": 3.4459450244903564,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "atoms",
+      "target": "basics",
+      "curve": {
+        "x": -0.517164,
+        "y": 72.5026
+      }
+    },
+    {
+      "source": "basics",
+      "target": "molecules  ️",
+      "curve": {
+        "x": 27.1835,
+        "y": 66.0109
+      }
+    },
+    {
+      "source": "basics",
+      "target": "chemical bonds  ️",
+      "curve": {
+        "x": -76.3355,
+        "y": 69.6756
+      }
+    }
+  ]
+}

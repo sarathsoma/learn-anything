@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - machine learning - neural networks - long short term memory",
+  "nodes": [
+    {
+      "text": "long short term memory",
+      "url": "http://www.wikiwand.com/en/Long_short-term_memory",
+      "fx": 105.21484375,
+      "fy": -31.18359375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 205.92888914233595,
+      "fy": 140.53826414229843
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=93rzMHtYT_0",
+      "fx": 368.92888914233595,
+      "fy": 153.03826414229843,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "long short term memory",
+      "target": "basics",
+      "curve": {
+        "x": -0.892977,
+        "y": 85.1109
+      }
+    }
+  ]
+}

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - topology - algebraic topology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "algebraic topology",
@@ -19,6 +17,7 @@
     },
     {
       "text": "homology  ️",
+      "url": "/mathematics/topology/algebraic-topology/homology",
       "fx": -166.22967935852762,
       "fy": -58.03336145295225,
       "category": "mindmap"

@@ -1,20 +1,18 @@
 {
   "title": "learn anything - web development - javascript libraries - meteor",
-  "tag": "meteor library",
-  "description": "",
   "nodes": [
     {
       "text": "meteor",
       "url": "http://www.wikiwand.com/en/Meteor_(web_framework)",
-      "fx": -73.08690893650055,
-      "fy": -228.54401652018225,
+      "fx": -67.87532039483392,
+      "fy": -259.9242248535155,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 30.47333304087317,
-      "fy": -66.71478017171228
+      "fx": 29.60419241587317,
+      "fy": -86.41204579671228
     },
     {
       "text": "basics",
@@ -28,8 +26,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/Meteor/",
-      "fx": 117.91309106349945,
-      "fy": -234.54401652018225,
+      "fx": 123.12467960516608,
+      "fy": -285.9242248535155,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "meteor"
@@ -37,17 +35,26 @@
     {
       "text": "",
       "url": "https://github.com/meteor/meteor",
-      "fx": 117.91309106349945,
-      "fy": -194.54401652018225,
+      "fx": 123.12467960516608,
+      "fy": -245.9242248535155,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "meteor"
     },
     {
+      "text": "awesome",
+      "url": "https://github.com/Urigo/awesome-meteor",
+      "fx": 123.12467960516608,
+      "fy": -205.9242248535155,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "meteor"
+    },
+    {
       "text": "meteor learning",
       "url": "https://github.com/ericdouglas/Meteor-Learning",
-      "fx": 167.47333304087317,
-      "fy": -149.21478017171228,
+      "fx": 166.60419241587317,
+      "fy": -148.91204579671228,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -55,42 +62,33 @@
     {
       "text": "meteor api",
       "url": "http://docs.meteor.com/",
-      "fx": 167.47333304087317,
-      "fy": -109.21478017171228,
+      "fx": 166.60419241587317,
+      "fy": -108.91204579671228,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "discovering meteor  ️",
       "url": "https://www.discovermeteor.com/blog/",
-      "fx": 167.47333304087317,
-      "fy": -75.21478017171228,
+      "fx": 166.60419241587317,
+      "fy": -74.91204579671228,
       "category": "blog",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome meteor",
-      "url": "https://github.com/Urigo/awesome-meteor",
-      "fx": 167.47333304087317,
-      "fy": -35.21478017171228,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "application structure",
       "url": "https://guide.meteor.com/structure.html",
-      "fx": 167.47333304087317,
-      "fy": 4.7852198282877225,
+      "fx": 166.60419241587317,
+      "fy": -34.91204579671228,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "meteor forum",
       "url": "https://forums.meteor.com/",
-      "fx": 167.47333304087317,
-      "fy": 38.78521982828772,
+      "fx": 166.60419241587317,
+      "fy": -0.9120457967122775,
       "category": "",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -109,16 +107,16 @@
       "source": "help",
       "target": "meteor",
       "curve": {
-        "x": -38.2801,
-        "y": -79.6646
+        "x": -35.2397,
+        "y": -85.5061
       }
     },
     {
       "source": "meteor",
       "target": "basics",
       "curve": {
-        "x": -7.06757,
-        "y": 161.668
+        "x": -9.67336,
+        "y": 177.358
       }
     }
   ]

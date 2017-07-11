@@ -1,19 +1,11 @@
 {
   "title": "learn anything - game development - game engines - love",
-  "tag": "LOVE game engine",
-  "description": "",
   "nodes": [
     {
       "text": "LÖVE",
       "url": "https://love2d.org/",
-      "fx": -91.296875,
-      "fy": -168.56640625
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 5.1438540624193365,
-      "fy": -75.52517872408401
+      "fx": -89.29366987179492,
+      "fy": -139.41225961538458
     },
     {
       "text": "basics",
@@ -27,8 +19,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/love2d/",
-      "fx": 58.703125,
-      "fy": -177.06640625,
+      "fx": 60.70633012820508,
+      "fy": -167.91225961538458,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "LÖVE"
@@ -36,20 +28,20 @@
     {
       "text": "",
       "url": "https://github.com/love2d/love",
-      "fx": 58.703125,
-      "fy": -137.06640625,
+      "fx": 60.70633012820508,
+      "fy": -127.91225961538458,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "LÖVE"
     },
     {
-      "text": "awesome LÖVE",
+      "text": "awesome",
       "url": "https://github.com/love2d-community/awesome-love2d",
-      "fx": 142.14385406241934,
-      "fy": -64.02517872408401,
+      "fx": 60.70633012820508,
+      "fy": -87.91225961538458,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "LÖVE"
     },
     {
       "text": "1. why LÖVE?  ️",
@@ -114,16 +106,8 @@
       "source": "LÖVE",
       "target": "basics",
       "curve": {
-        "x": -9.59665,
-        "y": 128.465
-      }
-    },
-    {
-      "source": "help",
-      "target": "LÖVE",
-      "curve": {
-        "x": -44.9704,
-        "y": -46.5206
+        "x": -10.5983,
+        "y": 113.888
       }
     }
   ]

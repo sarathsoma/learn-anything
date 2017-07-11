@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - philosophy - ideas - concepts - abstraction",
+  "nodes": [
+    {
+      "text": "abstraction",
+      "url": "http://www.wikiwand.com/en/Abstraction",
+      "fx": 98.296875,
+      "fy": -109.6484375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 130.11774553571422,
+      "fy": 32.392020089285666
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the art of abstraction",
+      "url": "https://www.youtube.com/watch?v=p7nGcY73epw",
+      "fx": 286.1177455357142,
+      "fy": 23.892020089285666,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. on the spectrum of abstraction",
+      "url": "https://www.youtube.com/watch?v=mVVNJKv9esE",
+      "fx": 286.1177455357142,
+      "fy": 63.892020089285666,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "abstraction",
+      "target": "basics",
+      "curve": {
+        "x": -2.08956,
+        "y": 69.7702
+      }
+    }
+  ]
+}

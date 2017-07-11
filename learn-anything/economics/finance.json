@@ -1,0 +1,75 @@
+{
+  "title": "learn anything - economics - finance",
+  "nodes": [
+    {
+      "text": "finance",
+      "url": "http://www.wikiwand.com/en/Finance",
+      "fx": 93.26768422100622,
+      "fy": -64.80444724450297,
+      "category": "wiki"
+    },
+    {
+      "text": "financial markets  ️",
+      "url": "/economics/finance/financial-markets",
+      "fx": -279.38691329956055,
+      "fy": 110.53068161010742,
+      "category": "mindmap"
+    },
+    {
+      "text": "technical analysis  ️",
+      "url": "/economics/finance/technical-analysis",
+      "fx": -37.26051712036133,
+      "fy": 112.34018325805664,
+      "category": "mindmap"
+    },
+    {
+      "text": "forward contracts  ️",
+      "url": "/economics/finance/forward-contracts",
+      "fx": 213.8391571044922,
+      "fy": 113.71540069580078,
+      "category": "mindmap"
+    },
+    {
+      "text": "financial services  ️",
+      "url": "/economics/finance/financial-services",
+      "fx": 465.89791358692537,
+      "fy": 118.30343018022546,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "finance",
+      "target": "financial markets  ️",
+      "curve": {
+        "x": -172.077,
+        "y": 86.4176
+      }
+    },
+    {
+      "source": "finance",
+      "target": "technical analysis  ️",
+      "curve": {
+        "x": -49.5142,
+        "y": 87.3223
+      }
+    },
+    {
+      "source": "finance",
+      "target": "forward contracts  ️",
+      "curve": {
+        "x": 113.169,
+        "y": 71.3117
+      }
+    },
+    {
+      "source": "finance",
+      "target": "financial services  ️",
+      "curve": {
+        "x": 240.576,
+        "y": 67.5618
+      }
+    }
+  ]
+}

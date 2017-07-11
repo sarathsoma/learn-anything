@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - physics - matter - nanotechnology",
+  "nodes": [
+    {
+      "text": "nanotechnology",
+      "url": "http://www.wikiwand.com/en/Nanotechnology",
+      "fx": 144.59375,
+      "fy": -270.29296875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 196.43359375,
+      "fy": -128.81640625
+    },
+    {
+      "text": "molecular nanotechnology  ️",
+      "url": "/physics/matter/nanotechnology/molecular-nanotechnology",
+      "fx": 16.12302541208794,
+      "fy": 2.8884787087911263,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=HFhFhNNd1sU",
+      "fx": 352.43359375,
+      "fy": -117.31640625,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "nanotechnology",
+      "target": "basics",
+      "curve": {
+        "x": -3.08008,
+        "y": 69.4883
+      }
+    },
+    {
+      "source": "basics",
+      "target": "molecular nanotechnology  ️",
+      "curve": {
+        "x": -45.1553,
+        "y": 65.8524
+      }
+    }
+  ]
+}

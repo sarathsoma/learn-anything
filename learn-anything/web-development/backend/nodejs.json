@@ -1,18 +1,16 @@
 {
   "title": "learn anything - web development - backend - nodejs",
-  "tag": "node.js",
-  "description": "",
   "nodes": [
     {
       "text": "node.js",
       "url": "https://nodejs.org/en/",
-      "fx": -105.84240459450439,
-      "fy": -564.17932599129
+      "fx": -110.91287028077886,
+      "fy": -620.145931383447
     },
     {
       "text": "help",
       "url": "",
-      "fx": 24.293611920508283,
+      "fx": 30.17596486168486,
       "fy": -378.69906896487527
     },
     {
@@ -122,8 +120,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/node/",
-      "fx": 58.15759540549561,
-      "fy": -572.67932599129,
+      "fx": 53.08712971922114,
+      "fy": -648.645931383447,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "node.js"
@@ -131,25 +129,34 @@
     {
       "text": "",
       "url": "https://github.com/nodejs/node",
-      "fx": 58.15759540549561,
-      "fy": -532.67932599129,
+      "fx": 53.08712971922114,
+      "fy": -608.645931383447,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "node.js"
     },
     {
+      "text": "awesome",
+      "url": "https://www.youtube.com/watch?v=w-7RQ46RgxU&amp;list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+      "fx": 53.08712971922114,
+      "fy": -568.645931383447,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "node.js"
+    },
+    {
       "text": "docs",
       "url": "https://nodejs.org/api/documentation.html",
-      "fx": 161.29361192050828,
-      "fy": -512.1990689648753,
+      "fx": 167.17596486168486,
+      "fy": -492.19906896487527,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "art of node",
       "url": "https://github.com/maxogden/art-of-node",
-      "fx": 161.29361192050828,
-      "fy": -478.1990689648753,
+      "fx": 167.17596486168486,
+      "fy": -458.19906896487527,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -157,8 +164,8 @@
     {
       "text": "node.js learning",
       "url": "https://github.com/sergtitov/NodeJS-Learning",
-      "fx": 161.29361192050828,
-      "fy": -438.1990689648753,
+      "fx": 167.17596486168486,
+      "fy": -418.19906896487527,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -167,26 +174,17 @@
       "text": "stream handbook",
       "note": "how to write node programs with streams",
       "url": "https://github.com/substack/stream-handbook",
-      "fx": 161.29361192050828,
-      "fy": -398.1990689648753,
+      "fx": 167.17596486168486,
+      "fy": -378.19906896487527,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome node.js",
-      "url": "https://www.youtube.com/watch?v=w-7RQ46RgxU&amp;list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
-      "fx": 161.29361192050828,
-      "fy": -358.1990689648753,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "tiny guide to non fancy node",
       "url": "https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node",
-      "fx": 161.29361192050828,
-      "fy": -318.1990689648753,
+      "fx": 167.17596486168486,
+      "fy": -338.19906896487527,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -194,8 +192,8 @@
     {
       "text": "learn node.js from self-guided workshops",
       "url": "https://github.com/workshopper/learnyounode",
-      "fx": 161.29361192050828,
-      "fy": -278.1990689648753,
+      "fx": 167.17596486168486,
+      "fy": -298.19906896487527,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -203,8 +201,8 @@
     {
       "text": "node.js original slide deck",
       "url": "http://tinyclouds.org/jsconf.pdf",
-      "fx": 161.29361192050828,
-      "fy": -216.19906896487532,
+      "fx": 167.17596486168486,
+      "fy": -236.19906896487527,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
@@ -275,16 +273,16 @@
       "source": "node.js",
       "target": "basics",
       "curve": {
-        "x": -37.2209,
-        "y": 241.956
+        "x": -34.6857,
+        "y": 269.939
       }
     },
     {
       "source": "help",
       "target": "node.js",
       "curve": {
-        "x": -58.3181,
-        "y": -92.7402
+        "x": -63.7945,
+        "y": -120.724
       }
     },
     {
@@ -387,7 +385,7 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -269.105,
+        "x": -266.164,
         "y": -73.5592
       }
     },

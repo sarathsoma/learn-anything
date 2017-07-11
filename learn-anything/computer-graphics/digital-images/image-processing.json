@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer graphics - digital images - image processing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "image processing",
@@ -25,6 +23,7 @@
     },
     {
       "text": "super-resolution imaging  ️",
+      "url": "/computer-graphics/digital-images/image-processing/super-resolution-imaging",
       "fx": -276.2882466984092,
       "fy": 316.59351670289163,
       "category": "mindmap"

@@ -1,32 +1,37 @@
 {
   "title": "learn anything - mathematics - computability theory - turing completeness",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "turing completeness",
       "url": "http://www.wikiwand.com/en/Turing_completeness",
-      "fx": -112.57435173879969,
-      "fy": -299.8849966261122,
+      "fx": -110.87903923879969,
+      "fy": -271.4240591261122,
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 70.79725912035713,
-      "fy": -189.81020720945412
+      "fx": 68.75429037035713,
+      "fy": -147.23208220945412
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -57.8476871997118,
-      "fy": -85.79599571228027
+      "fx": -106.2422184497118,
+      "fy": -33.27255821228027
+    },
+    {
+      "text": "turing machines  ️",
+      "url": "/mathematics/computability-theory/turing-completeness/turing-machines",
+      "fx": -69.30351738700165,
+      "fy": 91.02539583908242,
+      "category": "mindmap"
     },
     {
       "text": "halting problem  ️",
       "url": "/mathematics/computability-theory/turing-completeness/halting-problem",
-      "fx": -209.6208333333335,
-      "fy": 34.84166666666664,
+      "fx": -299.89445422535243,
+      "fy": 94.56417620305166,
       "category": "mindmap"
     }
   ],
@@ -34,17 +39,26 @@
     {
       "text": "17: on the turing completeness of powerpoint",
       "url": "https://www.youtube.com/watch?v=uNjxe8ShM-8",
-      "fx": 261.7972591203571,
-      "fy": -189.31020720945412,
+      "fx": 259.7542903703571,
+      "fy": -166.73208220945412,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
     },
     {
+      "text": "is C actually turing complete   ️",
+      "url": "https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete",
+      "fx": 259.7542903703571,
+      "fy": -104.73208220945412,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "1. control flow  ️",
       "url": "http://www.craftinginterpreters.com/control-flow.html",
-      "fx": 98.1523128002882,
-      "fy": -94.29599571228027,
+      "fx": 49.7577815502882,
+      "fy": -41.77255821228027,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -52,8 +66,8 @@
     {
       "text": "1. turing complete",
       "url": "https://www.youtube.com/watch?v=RPQD7-AOjMI",
-      "fx": 98.1523128002882,
-      "fy": -54.29599571228027,
+      "fx": 49.7577815502882,
+      "fy": -1.7725582122802734,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -64,24 +78,32 @@
       "source": "turing completeness",
       "target": "basics",
       "curve": {
-        "x": -11.3867,
-        "y": 105.794
+        "x": -36.4317,
+        "y": 117.825
       }
     },
     {
       "source": "basics",
       "target": "halting problem  ️",
       "curve": {
-        "x": -55.3865,
-        "y": 60.3188
+        "x": -76.326,
+        "y": 63.9183
       }
     },
     {
       "source": "interesting",
       "target": "turing completeness",
       "curve": {
-        "x": -61.6858,
-        "y": -53.7874
+        "x": -59.8167,
+        "y": -60.846
+      }
+    },
+    {
+      "source": "basics",
+      "target": "turing machines  ️",
+      "curve": {
+        "x": 36.9694,
+        "y": 62.149
       }
     }
   ]

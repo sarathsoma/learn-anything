@@ -1,7 +1,5 @@
 {
   "title": "learn anything - software - tooling - text editors - vim",
-  "tag": "vim text editor",
-  "description": "",
   "nodes": [
     {
       "text": "vim",
@@ -56,7 +54,7 @@
       "text": "",
       "url": "https://github.com/vim/vim",
       "fx": 203.08663303047342,
-      "fy": -65.17233016855812,
+      "fy": -85.17233016855812,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "vim"
@@ -65,7 +63,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/vim/",
       "fx": 203.08663303047342,
-      "fy": -25.17233016855812,
+      "fy": -45.17233016855812,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "vim"
@@ -74,25 +72,25 @@
       "text": "vim magic",
       "url": "https://www.reddit.com/r/vim_magic/",
       "fx": 203.08663303047342,
-      "fy": 14.82766983144188,
+      "fy": -5.172330168558119,
       "category": "reddit",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "vim"
     },
     {
-      "text": "vim galore",
+      "text": "awesome",
       "url": "https://github.com/mhinz/vim-galore",
-      "fx": 275.70924377441406,
-      "fy": 112.19108581542969,
+      "fx": 203.08663303047342,
+      "fy": 34.82766983144188,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "vim"
     },
     {
       "text": "vim casts screencasts",
       "url": "http://vimcasts.org/episodes/archive/",
       "fx": 275.70924377441406,
-      "fy": 152.1910858154297,
+      "fy": 132.1910858154297,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -101,7 +99,7 @@
       "text": "from novice to professional",
       "url": "http://derekwyatt.org/vim/tutorials/novice/",
       "fx": 275.70924377441406,
-      "fy": 192.1910858154297,
+      "fy": 172.1910858154297,
       "category": "video",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"

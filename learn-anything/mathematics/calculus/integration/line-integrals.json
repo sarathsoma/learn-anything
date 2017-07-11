@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - calculus - integration - line integrals",
+  "nodes": [
+    {
+      "text": "line integrals",
+      "url": "http://www.wikiwand.com/en/Line_integral",
+      "fx": -66.7421875,
+      "fy": -156.57421875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -26.22265625,
+      "fy": -32.80859375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction",
+      "url": "https://www.youtube.com/watch?v=_60sKaoRmhU",
+      "fx": 129.77734375,
+      "fy": -21.30859375,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "line integrals",
+      "target": "basics",
+      "curve": {
+        "x": 6.75977,
+        "y": 61.8828
+      }
+    }
+  ]
+}

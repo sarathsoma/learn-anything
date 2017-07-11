@@ -1,7 +1,5 @@
 {
   "title": "learn anything - security - information security",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "information security",
@@ -19,6 +17,7 @@
     },
     {
       "text": "network security  ️",
+      "url": "/security/information-security/network-security",
       "fx": -400.1319141421386,
       "fy": -100.5352515811843,
       "category": "mindmap"

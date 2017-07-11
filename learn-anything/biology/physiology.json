@@ -1,13 +1,11 @@
 {
   "title": "learn anything - biology - physiology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "physiology",
       "url": "http://www.wikiwand.com/en/Physiology",
-      "fx": -98.72265625,
-      "fy": -174.85546875,
+      "fx": -87.5546875,
+      "fy": -156.55859375,
       "category": "wiki"
     },
     {
@@ -16,14 +14,21 @@
       "url": "",
       "fx": -68.66796875,
       "fy": -36.32421875
+    },
+    {
+      "text": "homeostasis  ️",
+      "url": "/biology/physiology/homeostasis",
+      "fx": -196.26953125,
+      "fy": 95.9453125,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/Physiology/",
-      "fx": 124.27734375,
-      "fy": -160.85546875,
+      "fx": 135.4453125,
+      "fy": -142.55859375,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "physiology"
@@ -43,8 +48,16 @@
       "source": "physiology",
       "target": "basics",
       "curve": {
-        "x": -1.72266,
-        "y": 68.0156
+        "x": -7.30664,
+        "y": 58.8672
+      }
+    },
+    {
+      "source": "basics",
+      "target": "homeostasis  ️",
+      "curve": {
+        "x": -48.8008,
+        "y": 67.3848
       }
     }
   ]

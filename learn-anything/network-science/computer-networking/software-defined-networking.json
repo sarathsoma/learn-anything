@@ -1,7 +1,5 @@
 {
   "title": "learn anything - network science - computer networking - software defined networking",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "software-defined networking",
@@ -10,33 +8,18 @@
       "fx": -162.54296875,
       "fy": -503.71484375,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 47.4765625,
-      "fy": -380.82421875
     }
   ],
   "subnodes": [
     {
-      "text": "awesome SDN",
+      "text": "awesome",
       "url": "https://github.com/sdnds-tw/awesome-sdn",
-      "fx": 184.4765625,
-      "fy": -369.32421875,
+      "fx": 247.45703125,
+      "fy": -489.71484375,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "software-defined networking"
     }
   ],
-  "connections": [
-    {
-      "source": "help",
-      "target": "software-defined networking",
-      "curve": {
-        "x": -43.2598,
-        "y": -60.1953
-      }
-    }
-  ]
+  "connections": []
 }

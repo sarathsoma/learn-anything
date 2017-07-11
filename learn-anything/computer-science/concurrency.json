@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer science - concurrency",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "concurrency",
@@ -19,8 +17,16 @@
     },
     {
       "text": "process calculus  ️",
-      "fx": -387.4966063348411,
-      "fy": -35.16911764705236,
+      "url": "/computer-science/concurrency/process-calculus",
+      "fx": -405.36460690045203,
+      "fy": -38.94280260180341,
+      "category": "mindmap"
+    },
+    {
+      "text": "petri nets  ️",
+      "url": "/computer-science/concurrency/petri-nets",
+      "fx": -166.25374717194586,
+      "fy": -38.38779694569905,
       "category": "mindmap"
     }
   ],
@@ -48,8 +54,16 @@
       "source": "basics",
       "target": "process calculus  ️",
       "curve": {
-        "x": -55.1565,
-        "y": 78.8686
+        "x": -64.0905,
+        "y": 76.9818
+      }
+    },
+    {
+      "source": "basics",
+      "target": "petri nets  ️",
+      "curve": {
+        "x": 45.9649,
+        "y": 78.5092
       }
     }
   ]

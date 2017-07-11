@@ -1,20 +1,12 @@
 {
   "title": "learn anything - distributed computing - serverless computing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "serverless computing",
       "url": "http://www.wikiwand.com/en/Serverless_computing",
-      "fx": -146.0078125,
-      "fy": -277.30859375,
+      "fx": -135.46688610406102,
+      "fy": -201.83468829314722,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 48.7973484848485,
-      "fy": -154.52722537877037
     },
     {
       "text": "basics",
@@ -26,13 +18,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome serverless",
+      "text": "awesome",
       "url": "https://github.com/JustServerless/awesome-serverless",
-      "fx": 185.7973484848485,
-      "fy": -143.02722537877037,
+      "fx": 183.53311389593898,
+      "fy": -187.83468829314722,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "serverless computing"
     },
     {
       "text": "1. what is serverless?  ️",
@@ -49,16 +41,8 @@
       "source": "serverless computing",
       "target": "basics",
       "curve": {
-        "x": -8.93655,
-        "y": 107.991
-      }
-    },
-    {
-      "source": "help",
-      "target": "serverless computing",
-      "curve": {
-        "x": -51.9026,
-        "y": -60.1407
+        "x": -14.207,
+        "y": 70.254
       }
     }
   ]

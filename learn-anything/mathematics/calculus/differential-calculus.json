@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - calculus - differential calculus",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "differential calculus",
@@ -12,6 +10,7 @@
     },
     {
       "text": "derivatives  ️",
+      "url": "/mathematics/calculus/differential-calculus/derivatives",
       "fx": 274.90837221784034,
       "fy": 89.30754499157717,
       "category": "mindmap"

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - browsers - chrome",
-  "tag": "chrome browser",
-  "description": "",
   "nodes": [
     {
       "text": "google chrome",
@@ -13,6 +11,7 @@
     },
     {
       "text": "chrome dev tools  ️",
+      "url": "/web-development/browsers/chrome/chrome-dev-tools",
       "fx": -243.66518690092948,
       "fy": -111.20523546681795,
       "category": "mindmap"

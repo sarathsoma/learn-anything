@@ -1,0 +1,196 @@
+{
+  "title": "learn anything - software - tooling - development environment",
+  "nodes": [
+    {
+      "text": "development environment",
+      "url": "",
+      "fx": 63.4711954444291,
+      "fy": -247.42988310340468
+    },
+    {
+      "text": "vim  ️",
+      "url": "/software/tooling/text-editors/vim",
+      "fx": 365.4708054572187,
+      "fy": -74.7244885498771,
+      "category": "mindmap"
+    },
+    {
+      "text": "text editor  ️",
+      "url": "/software/tooling/text-editors",
+      "fx": 115.00665749252119,
+      "fy": -18.417506235217616,
+      "category": "mindmap"
+    },
+    {
+      "text": "vs code  ️",
+      "url": "/software/tooling/text-editors/vs-code",
+      "fx": 339.26665352778446,
+      "fy": 24.428817562573556,
+      "category": "mindmap"
+    },
+    {
+      "text": "karabiner  ️",
+      "url": "/software/tooling/productivity/karabiner",
+      "fx": 518.5775337169521,
+      "fy": 124.03462405889275,
+      "category": "mindmap"
+    },
+    {
+      "text": "macOS  ️",
+      "url": "/operating-systems/unix/macos",
+      "fx": 302.1722383720887,
+      "fy": 179.4902797965102,
+      "category": "mindmap"
+    },
+    {
+      "text": "linux  ️",
+      "url": "/operating-systems/unix/linux",
+      "fx": 131.65764076583372,
+      "fy": 179.8547479284232,
+      "category": "mindmap"
+    },
+    {
+      "text": "alfred  ️",
+      "url": "/software/tooling/productivity/alfred",
+      "fx": 499.97865853658436,
+      "fy": 246.69512195121956,
+      "category": "mindmap"
+    },
+    {
+      "text": "tmux  ️",
+      "url": "/software/tooling/productivity/tmux",
+      "fx": 425.0533997252776,
+      "fy": 388.7707760989011,
+      "category": "mindmap"
+    },
+    {
+      "text": "tooling",
+      "url": "",
+      "fx": 234.0171797899045,
+      "fy": 392.2694554498519
+    },
+    {
+      "text": "slack  ️",
+      "url": "/software/tooling/messaging/slack",
+      "fx": 446.00138644750314,
+      "fy": 494.3305789766871,
+      "category": "mindmap"
+    },
+    {
+      "text": "messaging",
+      "url": "",
+      "fx": 207.56296830726,
+      "fy": 533.0361757383237
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome",
+      "url": "https://github.com/jondot/awesome-devenv",
+      "fx": 395.4711954444291,
+      "fy": -235.92988310340468,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "development environment"
+    }
+  ],
+  "connections": [
+    {
+      "source": "text editor  ️",
+      "target": "vim  ️",
+      "curve": {
+        "x": 103.232,
+        "y": -29.4035
+      }
+    },
+    {
+      "source": "text editor  ️",
+      "target": "vs code  ️",
+      "curve": {
+        "x": 100.13,
+        "y": 20.1732
+      }
+    },
+    {
+      "source": "text editor  ️",
+      "target": "macOS  ️",
+      "curve": {
+        "x": 80.8328,
+        "y": 97.7039
+      }
+    },
+    {
+      "source": "macOS  ️",
+      "target": "karabiner  ️",
+      "curve": {
+        "x": 112.203,
+        "y": -27.7278
+      }
+    },
+    {
+      "source": "macOS  ️",
+      "target": "alfred  ️",
+      "curve": {
+        "x": 94.4032,
+        "y": 33.6024
+      }
+    },
+    {
+      "source": "text editor  ️",
+      "target": "linux  ️",
+      "curve": {
+        "x": -11.4245,
+        "y": 97.8861
+      }
+    },
+    {
+      "source": "linux  ️",
+      "target": "tooling",
+      "curve": {
+        "x": 48.9298,
+        "y": 104.957
+      }
+    },
+    {
+      "source": "macOS  ️",
+      "target": "tooling",
+      "curve": {
+        "x": -43.0775,
+        "y": 105.14
+      }
+    },
+    {
+      "source": "tooling",
+      "target": "tmux  ️",
+      "curve": {
+        "x": 98.7681,
+        "y": -0.49934
+      }
+    },
+    {
+      "source": "tooling",
+      "target": "messaging",
+      "curve": {
+        "x": -3.72711,
+        "y": 70.3834
+      }
+    },
+    {
+      "source": "messaging",
+      "target": "slack  ️",
+      "curve": {
+        "x": 113.469,
+        "y": -18.1028
+      }
+    },
+    {
+      "source": "development environment",
+      "target": "text editor  ️",
+      "curve": {
+        "x": -2.73227,
+        "y": 115.756
+      },
+      "text": "choose"
+    }
+  ]
+}

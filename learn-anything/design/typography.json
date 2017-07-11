@@ -1,25 +1,17 @@
 {
   "title": "learn anything - design - typography",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "typography",
       "url": "http://www.wikiwand.com/en/Typography",
-      "fx": -171.88553503787875,
-      "fy": -325.14476799242414
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -70.91679375552587,
-      "fy": -213.33701960998172
+      "fx": -146.12701982623867,
+      "fy": -225.90328320406434
     },
     {
       "text": "talks",
       "url": "",
-      "fx": 0.5502303309697254,
-      "fy": -109.60680905178464
+      "fx": 8.80502530451463,
+      "fy": -110.44386262321319
     },
     {
       "text": "basics",
@@ -31,26 +23,33 @@
     {
       "text": "typefaces  ️",
       "url": "/design/typography/typeface",
-      "fx": -230.65198863636363,
-      "fy": 133.19744318181836,
+      "fx": -113.21399379911873,
+      "fy": 118.61344031682097,
+      "category": "mindmap"
+    },
+    {
+      "text": "kerning  ️",
+      "url": "/design/typography/kerning",
+      "fx": -256.4772652116402,
+      "fy": 120.65500992063494,
       "category": "mindmap"
     }
   ],
   "subnodes": [
     {
-      "text": "awesome typography",
+      "text": "awesome",
       "url": "https://github.com/deanhume/typography",
-      "fx": 66.08320624447413,
-      "fy": -201.83701960998172,
+      "fx": 53.872980173761334,
+      "fy": -214.40328320406434,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "typography"
     },
     {
       "text": "17: good typography, better apps",
       "url": "https://www.youtube.com/watch?v=YM2Nj691PMo",
-      "fx": 140.55023033096973,
-      "fy": -109.10680905178464,
+      "fx": 148.80502530451463,
+      "fy": -109.94386262321319,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "talks"
@@ -79,32 +78,32 @@
       "source": "typography",
       "target": "basics",
       "curve": {
-        "x": -13.0305,
-        "y": 159.602
+        "x": -25.9098,
+        "y": 109.981
       }
     },
     {
       "source": "basics",
       "target": "typefaces  ️",
       "curve": {
-        "x": -37.1028,
-        "y": 69.569
+        "x": 55.7928,
+        "y": 57.3125
       }
     },
     {
-      "source": "help",
-      "target": "typography",
+      "source": "basics",
+      "target": "kerning  ️",
       "curve": {
-        "x": -34.7344,
-        "y": -55.9039
+        "x": -44.5154,
+        "y": 63.2977
       }
     },
     {
       "source": "talks",
-      "target": "help",
+      "target": "typography",
       "curve": {
-        "x": -36.4835,
-        "y": -51.8651
+        "x": -62.466,
+        "y": -57.7297
       }
     }
   ]

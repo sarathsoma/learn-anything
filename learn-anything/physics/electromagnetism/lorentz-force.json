@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - electromagnetism - lorentz force",
-  "tag": "Lorentz force",
-  "description": "",
   "nodes": [
     {
       "text": "Lorentz force",
@@ -24,6 +22,7 @@
     },
     {
       "text": "Maxwell’s equations  ️",
+      "url": "/physics/electromagnetism/lorentz-force/maxwells-equations",
       "fx": -99.208984375,
       "fy": 284.3671875,
       "category": "mindmap"

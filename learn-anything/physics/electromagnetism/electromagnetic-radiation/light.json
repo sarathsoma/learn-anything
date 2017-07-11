@@ -1,20 +1,18 @@
 {
   "title": "learn anything - physics - electromagnetism - electromagnetic radiation - light",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "light",
       "url": "http://www.wikiwand.com/en/Light",
-      "fx": -4.431973042100253,
-      "fy": -237.07606639588283,
+      "fx": 10.602991992864645,
+      "fy": -246.89251326481764,
       "category": "wiki"
     },
     {
-      "text": "interesting",
+      "text": "ask",
       "url": "",
-      "fx": 99.67958314327234,
-      "fy": -127.66352229709781
+      "fx": 154.45014647661833,
+      "fy": -132.88506443726737
     },
     {
       "text": "basics",
@@ -24,6 +22,7 @@
     },
     {
       "text": "speed of light  ️",
+      "url": "/physics/electromagnetism/electromagnetic-radiation/light/speed-of-light",
       "fx": 31.92877435065168,
       "fy": 108.09841720777854,
       "category": "mindmap"
@@ -38,13 +37,22 @@
   ],
   "subnodes": [
     {
-      "text": "askscience: light",
+      "text": "askscience",
       "url": "https://www.reddit.com/r/askscience/search?q=light&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
-      "fx": 290.67958314327234,
-      "fy": -116.16352229709781,
+      "fx": 284.45014647661833,
+      "fy": -141.38506443726737,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "parent": "ask"
+    },
+    {
+      "text": "stack   ️",
+      "url": "https://physics.stackexchange.com/search?tab=newest&amp;q=light",
+      "fx": 284.45014647661833,
+      "fy": -101.38506443726737,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "ask"
     },
     {
       "text": "1. what is light?",
@@ -61,16 +69,16 @@
       "source": "light",
       "target": "basics",
       "curve": {
-        "x": -3.4933,
-        "y": 107.074
+        "x": -11.0108,
+        "y": 111.982
       }
     },
     {
-      "source": "interesting",
+      "source": "ask",
       "target": "light",
       "curve": {
-        "x": -58.8058,
-        "y": -53.4562
+        "x": -78.6736,
+        "y": -55.7537
       }
     },
     {

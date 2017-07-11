@@ -1,0 +1,88 @@
+{
+  "title": "learn anything - economics - e-commerce - magento 2",
+  "nodes": [
+    {
+      "text": "Magento 2",
+      "url": "https://github.com/magento/magento2",
+      "fx": -58.325789078422076,
+      "fy": -219.52431935849395,
+      "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 86.57869177024463,
+      "fy": -112.4205626375848
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -26.98194510177541,
+      "fy": -25.652539895233474
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Magento/",
+      "fx": 166.67421092157792,
+      "fy": -225.52431935849395,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "Magento 2"
+    },
+    {
+      "text": "️",
+      "url": "https://magento.stackexchange.com/",
+      "fx": 166.67421092157792,
+      "fy": -185.52431935849395,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "Magento 2"
+    },
+    {
+      "text": "awesome Magento 2",
+      "url": "https://github.com/DavidLambauer/awesome-magento2",
+      "fx": 223.57869177024463,
+      "fy": -120.9205626375848,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "Magenta resources",
+      "url": "https://github.com/aleron75/mageres",
+      "fx": 223.57869177024463,
+      "fy": -80.9205626375848,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. getting started",
+      "url": "http://devdocs.magento.com/guides/v2.0/install-gde/bk-install-guide.html",
+      "fx": 129.0180548982246,
+      "fy": -11.152539895233474,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "Magento 2",
+      "curve": {
+        "x": -50.4522,
+        "y": -52.3019
+      }
+    },
+    {
+      "source": "Magento 2",
+      "target": "basics",
+      "curve": {
+        "x": -1.57808,
+        "y": 95.6859
+      }
+    }
+  ]
+}

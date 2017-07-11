@@ -1,20 +1,18 @@
 {
   "title": "learn anything - web development",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "web development",
       "url": "https://www.wikiwand.com/en/Web_development",
-      "fx": 475.52736277707913,
-      "fy": -855.3923084435535,
+      "fx": 522.4492377770791,
+      "fy": -877.0251209435535,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 726.9975256815788,
-      "fy": -699.8107902207998
+      "fx": 727.9975256815788,
+      "fy": -695.6818839707998
     },
     {
       "text": "basics",
@@ -129,6 +127,13 @@
       "category": "mindmap"
     },
     {
+      "text": "offline first  ️",
+      "url": "/web-development/offline-first",
+      "fx": -2729.194090392366,
+      "fy": -282.3661523462206,
+      "category": "mindmap"
+    },
+    {
       "text": "content management systems  ️",
       "url": "/web-development/content-management-systems",
       "fx": -2408.892186857135,
@@ -154,8 +159,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/webdev/",
-      "fx": 764.5273627770791,
-      "fy": -841.3923084435535,
+      "fx": 811.4492377770791,
+      "fy": -863.0251209435535,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "web development"
@@ -163,8 +168,8 @@
     {
       "text": "visual overview of what web development entails and what you can learn",
       "url": "https://github.com/kamranahmedse/developer-roadmap",
-      "fx": 863.9975256815788,
-      "fy": -809.3107902207998,
+      "fx": 864.9975256815788,
+      "fy": -805.1818839707998,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -172,8 +177,8 @@
     {
       "text": "17: a study plan to cure javascript fatigue  ️",
       "url": "https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1",
-      "fx": 863.9975256815788,
-      "fy": -725.3107902207998,
+      "fx": 864.9975256815788,
+      "fy": -721.1818839707998,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -181,16 +186,16 @@
     {
       "text": "web development with cs foundations path",
       "url": "https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516",
-      "fx": 863.9975256815788,
-      "fy": -663.3107902207998,
+      "fx": 864.9975256815788,
+      "fy": -659.1818839707998,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome project boilerplates",
       "url": "https://github.com/melvin0008/awesome-projects-boilerplates",
-      "fx": 863.9975256815788,
-      "fy": -607.3107902207998,
+      "fx": 864.9975256815788,
+      "fy": -603.1818839707998,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -198,8 +203,8 @@
     {
       "text": "spell book of modern webdev",
       "url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
-      "fx": 863.9975256815788,
-      "fy": -567.3107902207998,
+      "fx": 864.9975256815788,
+      "fy": -563.1818839707998,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -239,16 +244,16 @@
       "source": "web development",
       "target": "basics",
       "curve": {
-        "x": -21.1951,
-        "y": 198.778
+        "x": -44.656,
+        "y": 209.594
       }
     },
     {
       "source": "web development",
       "target": "help",
       "curve": {
-        "x": 91.7351,
-        "y": 77.7908
+        "x": 68.7742,
+        "y": 90.6717
       }
     },
     {
@@ -401,6 +406,14 @@
       "curve": {
         "x": -2031.88,
         "y": -142.611
+      }
+    },
+    {
+      "source": "basics",
+      "target": "offline first  ️",
+      "curve": {
+        "x": -2120.5,
+        "y": -163.728
       }
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - philosophy - reasoning - critical thinking",
+  "nodes": [
+    {
+      "text": "critical thinking",
+      "url": "http://www.wikiwand.com/en/Critical_thinking",
+      "fx": 4.8046875,
+      "fy": -129.60546875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 51.625,
+      "fy": 26.04296875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. falsifiability: one key to critical thinking",
+      "url": "https://www.youtube.com/watch?v=zPR_5TOsh-Y",
+      "fx": 207.625,
+      "fy": 26.54296875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "critical thinking",
+      "target": "basics",
+      "curve": {
+        "x": -2.58984,
+        "y": 76.5742
+      }
+    }
+  ]
+}

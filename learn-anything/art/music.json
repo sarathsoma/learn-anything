@@ -1,14 +1,12 @@
 {
   "title": "learn anything - art - music",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "music",
       "note": "",
       "url": "http://www.wikiwand.com/en/Music",
       "fx": -93.83140546588515,
-      "fy": -295.98767431480405,
+      "fy": -327.4469377076612,
       "category": "wiki"
     },
     {
@@ -33,6 +31,7 @@
     },
     {
       "text": "instruments  ️",
+      "url": "/art/music/instruments",
       "fx": -298.0797121732369,
       "fy": 70.1164229407317,
       "category": "mindmap"
@@ -75,28 +74,37 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/LetsTalkMusic/",
+      "fx": 113.16859453411485,
+      "fy": -353.4469377076612,
+      "category": "reddit",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "music"
+    },
+    {
       "text": "️",
       "url": "https://music.stackexchange.com/",
       "fx": 113.16859453411485,
-      "fy": -281.98767431480405,
+      "fy": -313.4469377076612,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "music"
     },
     {
-      "text": "awesome music",
+      "text": "awesome",
       "url": "https://github.com/ciconia/awesome-music",
-      "fx": 159.27426183410068,
-      "fy": -210.23951970571449,
+      "fx": 113.16859453411485,
+      "fy": -273.4469377076612,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "music"
     },
     {
       "text": "awesome audio visualisation",
       "url": "https://github.com/willianjusten/awesome-audio-visualization",
       "fx": 159.27426183410068,
-      "fy": -170.23951970571449,
+      "fy": -190.23951970571449,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -105,7 +113,7 @@
       "text": "point blank music school",
       "url": "https://www.youtube.com/user/pointblankonline/videos",
       "fx": 159.27426183410068,
-      "fy": -130.23951970571449,
+      "fy": -150.23951970571449,
       "category": "youtube",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -114,7 +122,7 @@
       "text": "find your music",
       "url": "https://github.com/richard512/findyourmusic",
       "fx": 159.27426183410068,
-      "fy": -90.23951970571449,
+      "fy": -110.23951970571449,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -126,7 +134,7 @@
       "target": "music",
       "curve": {
         "x": -47.0529,
-        "y": -65.8741
+        "y": -81.6037
       }
     },
     {
@@ -142,7 +150,7 @@
       "target": "music theory  ️",
       "curve": {
         "x": -1.70815,
-        "y": 117.876
+        "y": 133.606
       }
     },
     {

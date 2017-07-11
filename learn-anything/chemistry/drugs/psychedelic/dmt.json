@@ -1,7 +1,5 @@
 {
   "title": "learn anything - chemistry - drugs - psychedelic - dmt",
-  "tag": "DMT",
-  "description": "",
   "nodes": [
     {
       "text": "DMT",
@@ -19,14 +17,14 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 221.49721041606097,
-      "fy": 39.417714085052694
+      "fx": 276.06185255315813,
+      "fy": 55.28842981085916
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 14.876063192177753,
-      "fy": 215.49685225209913
+      "fx": 14.034959361532515,
+      "fy": 300.29082906661534
     }
   ],
   "subnodes": [
@@ -50,8 +48,8 @@
     {
       "text": "13: the neuropsychological and evolutionary implications of the astonishing effects of DMT",
       "url": "https://drive.google.com/file/d/0B9XWsRMWmi0qdHdnVTlacmNRdkk/view",
-      "fx": 412.49721041606097,
-      "fy": -64.0822859149473,
+      "fx": 467.06185255315813,
+      "fy": -99.21157018914084,
       "category": "paper",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "interesting"
@@ -59,8 +57,8 @@
     {
       "text": "12: Terrence McKenna describes DMT trip",
       "url": "https://www.youtube.com/watch?v=VavdCpewQbA",
-      "fx": 412.49721041606097,
-      "fy": 19.917714085052694,
+      "fx": 467.06185255315813,
+      "fy": -15.211570189140843,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
@@ -68,8 +66,8 @@
     {
       "text": "14: moving into the scared wold of DMT  ️",
       "url": "http://psychedelicfrontier.com/moving-sacred-world-dmt-nick-sand/",
-      "fx": 412.49721041606097,
-      "fy": 81.9177140850527,
+      "fx": 467.06185255315813,
+      "fy": 46.78842981085916,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "interesting"
@@ -77,17 +75,35 @@
     {
       "text": "16: DMT: experiencing the impossible",
       "url": "https://www.youtube.com/watch?v=i2nbnJzervs&amp;t=390s",
-      "fx": 412.49721041606097,
-      "fy": 143.9177140850527,
+      "fx": 467.06185255315813,
+      "fy": 108.78842981085916,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
     },
     {
+      "text": "17: David Nichols - DMT  and the pineal gland: facts vs fantasy",
+      "url": "https://www.youtube.com/watch?v=YeeqHUiC8Io",
+      "fx": 467.06185255315813,
+      "fy": 170.78842981085916,
+      "category": "video",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "shadows of dodecahedron",
+      "url": "https://i.imgur.com/zbbo70u.gifv",
+      "fx": 467.06185255315813,
+      "fy": 232.78842981085916,
+      "category": "image",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "1. how does DMT work  ️",
       "url": "http://www.thinkingzygote.com/2012/02/how-dmt-works.html",
-      "fx": 170.87606319217775,
-      "fy": 226.99685225209913,
+      "fx": 170.03495936153251,
+      "fy": 311.79082906661534,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -106,16 +122,16 @@
       "source": "DMT",
       "target": "basics",
       "curve": {
-        "x": -8.18902,
-        "y": 216.901
+        "x": -8.60957,
+        "y": 259.298
       }
     },
     {
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -56.409,
-        "y": -75.5072
+        "x": -96.73,
+        "y": -79.3757
       }
     }
   ]

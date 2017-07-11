@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - search engines - elasticsearch",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "Elasticsearch",
@@ -19,36 +17,45 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -124.7717913879618,
-      "fy": 68.25971989965097
+      "fx": -134.1702876285633,
+      "fy": 90.91596989965097
     }
   ],
   "subnodes": [
     {
       "text": "awesome Elasticsearch",
       "url": "https://github.com/dzharii/awesome-elasticsearch",
-      "fx": 111.08171997700242,
-      "fy": -71.77849293871475,
+      "fx": 115.08171997700242,
+      "fy": -70.77849293871475,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "1. the complete guide to the  ELK  stack   ️",
+      "url": "https://logz.io/learn/complete-guide-elk-stack/#An",
+      "fx": 28.8297123714367,
+      "fy": 48.915969899650975,
+      "category": "article",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. learn Elasticsearch",
       "url": "https://github.com/dwyl/learn-elasticsearch",
-      "fx": 31.228208612038202,
-      "fy": 59.759719899650975,
+      "fx": 28.8297123714367,
+      "fy": 115.91596989965097,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. Elasticsearch in action",
       "url": "https://www.manning.com/books/elasticsearch-in-action",
-      "fx": 31.228208612038202,
-      "fy": 99.75971989965097,
+      "fx": 28.8297123714367,
+      "fy": 157.91596989965097,
       "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -65,8 +72,8 @@
       "source": "Elasticsearch",
       "target": "basics",
       "curve": {
-        "x": -1.38167,
-        "y": 124.318
+        "x": -6.08092,
+        "y": 135.646
       }
     }
   ]

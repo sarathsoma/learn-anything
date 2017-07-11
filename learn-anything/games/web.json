@@ -1,7 +1,5 @@
 {
   "title": "learn anything - games - web",
-  "tag": "web games",
-  "description": "",
   "nodes": [
     {
       "text": "web games",
@@ -17,7 +15,7 @@
       "text": "the founder",
       "url": "http://thefounder.biz/",
       "fx": -47.2734375,
-      "fy": -307.44140625,
+      "fy": -358.44140625,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "web games"
     },
@@ -26,7 +24,7 @@
       "note": "incremental game that teaches players the history of high energy particle physics",
       "url": "http://particle-clicker.web.cern.ch/particle-clicker/",
       "fx": -47.2734375,
-      "fy": -273.44140625,
+      "fy": -324.44140625,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "web games"
     },
@@ -34,7 +32,7 @@
       "text": "chain reaction",
       "url": "http://yvoschaap.com/chainrxnadvanced/",
       "fx": -47.2734375,
-      "fy": -239.44140625,
+      "fy": -290.44140625,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "web games"
     },
@@ -42,8 +40,32 @@
       "text": "ztype",
       "url": "http://zty.pe/",
       "fx": -47.2734375,
-      "fy": -205.44140625,
+      "fy": -256.44140625,
       "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "web games"
+    },
+    {
+      "text": "quantum game",
+      "url": "http://play.quantumgame.io",
+      "fx": -47.2734375,
+      "fy": -222.44140625,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "web games"
+    },
+    {
+      "text": "civ clicker",
+      "url": "http://civclicker.sourceforge.net/civclicker/civclicker.html",
+      "fx": -47.2734375,
+      "fy": -188.44140625,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "web games"
+    },
+    {
+      "text": "the wiki game",
+      "url": "http://thewikigame.com/speed-race",
+      "fx": -47.2734375,
+      "fy": -154.44140625,
+      "color": "rgba(175, 54, 242, 1.0)",
       "parent": "web games"
     }
   ],

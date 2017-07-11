@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - calculus - integration",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "integration",
@@ -45,6 +43,7 @@
     },
     {
       "text": "line integrals  ️",
+      "url": "/mathematics/calculus/integration/line-integrals",
       "fx": -510.8860898526076,
       "fy": 260.0254570578231,
       "category": "mindmap"

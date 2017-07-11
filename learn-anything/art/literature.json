@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art - literature",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "literature",
@@ -19,6 +17,7 @@
     },
     {
       "text": "literary theory  ️",
+      "url": "/art/literature/literary-theory",
       "fx": -41.850054824561425,
       "fy": -50.75027412280707,
       "category": "mindmap"

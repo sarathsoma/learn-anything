@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - sql",
-  "tag": "SQL",
-  "description": "",
   "nodes": [
     {
       "text": "SQL",
@@ -22,6 +20,13 @@
       "url": "",
       "fx": -59.71877904236317,
       "fy": -13.94272232055664
+    },
+    {
+      "text": "SQL injections  ️",
+      "url": "/programming/programming-languages/sql/sql-injections",
+      "fx": -187.10001843657813,
+      "fy": 110.58559181414637,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -76,6 +81,14 @@
       "curve": {
         "x": -5.10939,
         "y": 94.265
+      }
+    },
+    {
+      "source": "basics",
+      "target": "SQL injections  ️",
+      "curve": {
+        "x": -49.4406,
+        "y": 62.2642
       }
     }
   ]

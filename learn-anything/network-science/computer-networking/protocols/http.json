@@ -1,7 +1,5 @@
 {
   "title": "learn anything - network science - computer networking - protocols - http",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "http",
@@ -14,18 +12,27 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -61.31640625,
-      "fy": -65.81640625
+      "fx": -67.77088394434645,
+      "fy": -105.82464664310953
     }
   ],
   "subnodes": [
     {
       "text": "1. introduction to http",
       "url": "https://launchschool.com/books/http/read/introduction",
-      "fx": 120.68359375,
-      "fy": -54.31640625,
+      "fx": 114.22911605565355,
+      "fy": -114.32464664310953,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. how https works  ️",
+      "url": "http://sudhakar.online/programming/2015/08/09/https.html",
+      "fx": 114.22911605565355,
+      "fy": -74.32464664310953,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -34,8 +41,8 @@
       "source": "http",
       "target": "basics",
       "curve": {
-        "x": -4.61328,
-        "y": 87.8926
+        "x": -7.84052,
+        "y": 67.8885
       }
     }
   ]

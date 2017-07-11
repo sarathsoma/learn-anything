@@ -1,20 +1,12 @@
 {
   "title": "learn anything - biology - bioinformatics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "bioinformatics",
       "url": "http://www.wikiwand.com/en/Bioinformatics",
       "fx": -96.54296875,
-      "fy": -261.8359375,
+      "fy": -231.03020466549293,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 32.00869278169273,
-      "fy": -163.5943551936836
     },
     {
       "text": "basics",
@@ -29,19 +21,19 @@
       "text": "",
       "url": "https://www.reddit.com/r/bioinformatics/",
       "fx": 156.45703125,
-      "fy": -247.8359375,
+      "fy": -237.03020466549293,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "bioinformatics"
     },
     {
-      "text": "awesome bioinformatics",
+      "text": "awesome",
       "url": "https://github.com/danielecook/Awesome-Bioinformatics",
-      "fx": 169.00869278169273,
-      "fy": -152.0943551936836,
+      "fx": 156.45703125,
+      "fy": -197.03020466549293,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "bioinformatics"
     },
     {
       "text": "1. rosalind",
@@ -58,15 +50,7 @@
       "target": "basics",
       "curve": {
         "x": -3.89318,
-        "y": 95.5741
-      }
-    },
-    {
-      "source": "help",
-      "target": "bioinformatics",
-      "curve": {
-        "x": -35.2758,
-        "y": -47.8708
+        "y": 80.1712
       }
     }
   ]

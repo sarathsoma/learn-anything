@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - art - video editing - adobe premiere pro",
+  "nodes": [
+    {
+      "text": "adobe premiere pro",
+      "url": "http://www.wikiwand.com/en/Adobe_Premiere_Pro",
+      "fx": 39.54296875,
+      "fy": -137.44921875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 106.63671875,
+      "fy": -5.19921875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/premiere/",
+      "fx": 344.54296875,
+      "fy": -123.44921875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "adobe premiere pro"
+    },
+    {
+      "text": "1. beginner tutorial",
+      "url": "https://www.youtube.com/watch?v=hzO3vrFaPRU",
+      "fx": 262.63671875,
+      "fy": 6.30078125,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "adobe premiere pro",
+      "target": "basics",
+      "curve": {
+        "x": -3.70312,
+        "y": 64.875
+      }
+    }
+  ]
+}

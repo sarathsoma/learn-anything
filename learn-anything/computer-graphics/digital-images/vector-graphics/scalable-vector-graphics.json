@@ -1,20 +1,12 @@
 {
   "title": "learn anything - computer graphics - digital images - vector graphics - scalable vector graphics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "scalable vector graphics",
       "url": "http://www.wikiwand.com/en/Scalable_Vector_Graphics",
-      "fx": 433.1874771118164,
-      "fy": -62.12775373458862,
+      "fx": 442.0077896118164,
+      "fy": -14.674628734588623,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 647.720458984375,
-      "fy": 24.59111785888672
     },
     {
       "text": "basics",
@@ -26,13 +18,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome svg",
+      "text": "awesome",
       "url": "https://github.com/willianjusten/awesome-svg",
-      "fx": 784.720458984375,
-      "fy": 36.09111785888672,
+      "fx": 788.0077896118164,
+      "fy": -0.674628734588623,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "scalable vector graphics"
     },
     {
       "text": "1. take vector graphics to the web  ️",
@@ -46,19 +38,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "scalable vector graphics",
-      "curve": {
-        "x": -55.0165,
-        "y": -42.1094
-      }
-    },
-    {
       "source": "scalable vector graphics",
       "target": "basics",
       "curve": {
-        "x": 0.242199,
-        "y": 95.0502
+        "x": -4.16796,
+        "y": 71.3236
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer hardware - computer - computer memory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "computer memory",
@@ -19,22 +17,29 @@
     {
       "text": "memory management  ️",
       "url": "/computer-hardware/computer/computer-memory/memory-management",
-      "fx": -509.4857608946719,
-      "fy": -9.771882625381863,
+      "fx": -414.69654896056727,
+      "fy": -17.426488637924194,
       "category": "mindmap"
     },
     {
       "text": "pointers  ️",
       "url": "/computer-hardware/computer/computer-memory/pointers",
-      "fx": -204.07582038963847,
-      "fy": -9.223991338338465,
+      "fx": -129.21786584418396,
+      "fy": -16.886250953723106,
+      "category": "mindmap"
+    },
+    {
+      "text": "memory hierarchy  ️",
+      "url": "/computer-hardware/computer/computer-memory/memory-hierarchy",
+      "fx": -665.3132148692811,
+      "fy": -15.807291666666629,
       "category": "mindmap"
     },
     {
       "text": "random access memory  ️",
       "url": "/computer-hardware/computer/computer-memory/random-access-memory",
-      "fx": -40.761712651248786,
-      "fy": -5.385756672033608,
+      "fx": 34.09624189420572,
+      "fy": -13.04801628741825,
       "category": "mindmap"
     }
   ],
@@ -71,24 +76,32 @@
       "source": "basics",
       "target": "random access memory  ️",
       "curve": {
-        "x": 56.3826,
-        "y": 81.5015
+        "x": 93.8116,
+        "y": 77.6704
       }
     },
     {
       "source": "basics",
       "target": "pointers  ️",
       "curve": {
-        "x": -62.0245,
-        "y": 79.5824
+        "x": -24.5955,
+        "y": 75.7513
       }
     },
     {
       "source": "basics",
       "target": "memory management  ️",
       "curve": {
-        "x": -194.423,
-        "y": 76.7373
+        "x": -147.028,
+        "y": 72.91
+      }
+    },
+    {
+      "source": "basics",
+      "target": "memory hierarchy  ️",
+      "curve": {
+        "x": -324.82,
+        "y": 37.4784
       }
     }
   ]

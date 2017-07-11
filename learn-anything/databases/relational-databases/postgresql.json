@@ -1,7 +1,5 @@
 {
   "title": "learn anything - databases - relational databases - postgresql",
-  "tag": "postgreSQL",
-  "description": "",
   "nodes": [
     {
       "text": "PostgreSQL",
@@ -13,21 +11,21 @@
     {
       "text": "help",
       "url": "",
-      "fx": 91.1979808807373,
+      "fx": 102.22116636460828,
       "fy": -185.01295471191406
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 124.95433265932127,
-      "fy": -67.17500452841489
+      "fx": 144.8258044335148,
+      "fy": -79.22893598002781
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 8.957818975945656,
-      "fy": 23.57053097350382
+      "fx": -8.816878604699582,
+      "fy": 24.913776941245885
     }
   ],
   "subnodes": [
@@ -35,33 +33,33 @@
       "text": "",
       "url": "https://www.reddit.com/r/PostgreSQL/",
       "fx": 210.2890625,
-      "fy": -273.90625,
+      "fy": -293.90625,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "PostgreSQL"
     },
     {
-      "text": "awesome PostgreSQL",
+      "text": "awesome",
       "url": "https://github.com/dhamaniasad/awesome-postgres",
-      "fx": 228.1979808807373,
-      "fy": -190.51295471191406,
+      "fx": 210.2890625,
+      "fy": -253.90625,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "PostgreSQL"
     },
     {
-      "text": "PostgreSQL documentation",
+      "text": "documentation",
       "url": "https://www.postgresql.org/docs/current/static/index.html",
-      "fx": 228.1979808807373,
-      "fy": -150.51295471191406,
+      "fx": 239.22116636460828,
+      "fy": -170.51295471191406,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "17: why use postgres  ️",
       "url": "http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/",
-      "fx": 286.95433265932127,
-      "fy": -86.67500452841489,
+      "fx": 306.8258044335148,
+      "fy": -98.72893598002781,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -69,17 +67,17 @@
     {
       "text": "15: postgres full-text search is good enough  ️",
       "url": "http://rachbelaid.com/postgres-full-text-search-is-good-enough/",
-      "fx": 286.95433265932127,
-      "fy": -46.67500452841489,
+      "fx": 306.8258044335148,
+      "fy": -58.72893598002781,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
     },
     {
-      "text": "PostgreSQL exercises",
+      "text": "1. PostgreSQL exercises",
       "url": "https://pgexercises.com/",
-      "fx": 190.95781897594566,
-      "fy": 38.07053097350382,
+      "fx": 173.18312139530042,
+      "fy": 39.413776941245885,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -89,7 +87,7 @@
       "source": "help",
       "target": "PostgreSQL",
       "curve": {
-        "x": -33.9545,
+        "x": -39.4661,
         "y": -50.1966
       }
     },
@@ -97,16 +95,16 @@
       "source": "PostgreSQL",
       "target": "basics",
       "curve": {
-        "x": -2.41562,
-        "y": 154.488
+        "x": -11.303,
+        "y": 155.16
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -23.1281,
-        "y": -58.919
+        "x": -27.5522,
+        "y": -52.892
       }
     }
   ]

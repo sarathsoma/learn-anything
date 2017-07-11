@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - software development - software testing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "software testing",
@@ -14,8 +12,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 49.04989651132939,
-      "fy": -151.92142514649981
+      "fx": 49.730168620173,
+      "fy": -146.24806205126168
     },
     {
       "text": "basics",
@@ -32,6 +30,7 @@
     },
     {
       "text": "Test Anything Protocol  ️",
+      "url": "/programming/software-development/software-testing/tap",
       "fx": -817.2960246598575,
       "fy": 86.16167091836746,
       "category": "mindmap"
@@ -56,18 +55,36 @@
       "text": "️",
       "url": "https://sqa.stackexchange.com/",
       "fx": 132.17947514231946,
-      "fy": -228.27288873438548,
+      "fy": -248.27288873438548,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "software testing"
     },
     {
+      "text": "awesome",
+      "url": "https://github.com/TheJambo/awesome-testing",
+      "fx": 132.17947514231946,
+      "fy": -208.27288873438548,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "software testing"
+    },
+    {
       "text": "software testing books  ️",
       "url": "http://www.testuff.com/software-testing-books-for-the-lazy-newbie/",
-      "fx": 186.0498965113294,
-      "fy": -140.42142514649981,
+      "fx": 186.730168620173,
+      "fy": -154.74806205126168,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "software testing books",
+      "url": "https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md",
+      "fx": 186.730168620173,
+      "fy": -114.74806205126168,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
@@ -101,8 +118,8 @@
       "source": "help",
       "target": "software testing",
       "curve": {
-        "x": -66.6852,
-        "y": -43.9257
+        "x": -67.0253,
+        "y": -46.7624
       }
     },
     {

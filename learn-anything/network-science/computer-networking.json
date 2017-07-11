@@ -1,7 +1,5 @@
 {
   "title": "learn anything - network science - computer networking",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "computer networking",
@@ -61,8 +59,16 @@
     },
     {
       "text": "proxy server  ️",
+      "url": "/network-science/computer-networking/proxy-server",
       "fx": -765.5084206448187,
       "fy": 193.38123196066567,
+      "category": "mindmap"
+    },
+    {
+      "text": "emails  ️",
+      "url": "/network-science/computer-networking/emails",
+      "fx": -904.7203801945179,
+      "fy": 195.1871960654288,
       "category": "mindmap"
     }
   ],
@@ -194,6 +200,14 @@
       "curve": {
         "x": -551.822,
         "y": 23.2824
+      }
+    },
+    {
+      "source": "basics",
+      "target": "emails  ️",
+      "curve": {
+        "x": -751.549,
+        "y": 23.249
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - life - relationships",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "interpersonal relationships",
@@ -24,16 +22,17 @@
       "fy": 20.287847858525595
     },
     {
-      "text": "seduction  ️",
-      "url": "/life/relationships/seduction",
-      "fx": -57.06714847831722,
-      "fy": 156.17869779539126,
+      "text": "friendship  ️",
+      "url": "/life/relationships/friendship",
+      "fx": -254.3218435929648,
+      "fy": 161.3782977386935,
       "category": "mindmap"
     },
     {
-      "text": "friendship  ️",
-      "fx": -254.3218435929648,
-      "fy": 161.3782977386935,
+      "text": "seduction  ️",
+      "url": "/life/relationships/seduction",
+      "fx": -71.31066981978063,
+      "fy": 163.98484616937515,
       "category": "mindmap"
     }
   ],
@@ -41,28 +40,28 @@
     {
       "text": "16: the one thing to save your relationships  ️",
       "url": "https://themission.co/the-one-thing-to-save-your-relationships-c259f82bd2d",
-      "fx": 239.5435853721408,
-      "fy": -105.16465275824896,
+      "fx": 246.5435853721408,
+      "fy": -105.66465275824896,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
       "text": "1. how to win friends and influence people",
       "url": "http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
-      "fx": 15.022368488822963,
-      "fy": 0.7878478585255948,
+      "fx": 22.022368488822963,
+      "fy": -13.212152141474405,
       "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. Alan Watts: love &amp; selfishness",
       "url": "https://www.youtube.com/watch?v=n7CXhRdo5Ss",
-      "fx": 15.022368488822963,
-      "fy": 62.787847858525595,
+      "fx": 22.022368488822963,
+      "fy": 53.787847858525595,
       "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -79,8 +78,8 @@
       "source": "basics",
       "target": "seduction  ️",
       "curve": {
-        "x": 62.7053,
-        "y": 67.9454
+        "x": 55.5835,
+        "y": 71.8485
       }
     },
     {

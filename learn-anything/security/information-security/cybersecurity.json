@@ -1,7 +1,5 @@
 {
   "title": "learn anything - security - information security - cybersecurity",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "cybersecurity",
@@ -24,42 +22,59 @@
       "fy": -244.66389973958343
     },
     {
+      "text": "exploits",
+      "url": "http://www.wikiwand.com/en/Exploit_(computer_security)",
+      "fx": 219.80494115259717,
+      "fy": -124.98528814935491,
+      "category": "wiki"
+    },
+    {
       "text": "threats",
       "url": "",
-      "fx": -18.938007161866153,
-      "fy": -139.4555438534922
+      "fx": -152.60206966186615,
+      "fy": -115.7797626034922
     },
     {
       "text": "fuzz testing  ️",
-      "fx": 172.51729704797071,
-      "fy": -134.75299815498136,
+      "url": "/security/information-security/cybersecurity/fuzz-testing",
+      "fx": 1.626905955156417,
+      "fy": -93.5224826235443,
       "category": "mindmap"
     },
     {
       "text": "cyberattacks",
       "url": "http://www.wikiwand.com/en/Cyberattack",
-      "fx": -228.23122928686303,
-      "fy": -44.98174598134915,
+      "fx": -361.895291786863,
+      "fy": -21.30596473134915,
       "category": "wiki"
+    },
+    {
+      "text": "buffer overflow  ️",
+      "url": "/security/information-security/cybersecurity/buffer-overflow",
+      "fx": 273.3186659192827,
+      "fy": -18.565512892376773,
+      "category": "mindmap"
     },
     {
       "text": "malware  ️",
       "note": "short for malicious software  is a kind of software that can be installed on a computer without approval from the computer’s owner",
-      "fx": 36.51585719498269,
-      "fy": -23.164560640926766,
+      "url": "/security/information-security/cybersecurity/malware",
+      "fx": -97.14820530501731,
+      "fy": 0.5112206090732343,
       "category": "mindmap"
     },
     {
       "text": "man-in-the-middle attack  ️",
-      "fx": -552.3281250000111,
-      "fy": 74.16406249996373,
+      "url": "/security/information-security/cybersecurity/man-in-the-middle-attack",
+      "fx": -685.9921875000111,
+      "fy": 97.83984374996373,
       "category": "mindmap"
     },
     {
       "text": "distributed denial of service  ️",
       "url": "/security/information-security/cybersecurity/ddos",
-      "fx": -222.85902048346247,
-      "fy": 86.67590267952346,
+      "fx": -356.5230829834625,
+      "fy": 110.35168392952346,
       "category": "mindmap"
     }
   ],
@@ -68,9 +83,18 @@
       "text": "",
       "url": "https://www.reddit.com/r/cybersecurity/",
       "fx": 294.62109375,
-      "fy": -430.4618419027094,
+      "fy": -450.4618419027094,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "cybersecurity"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/Annsec/awesome-cybersecurity",
+      "fx": 294.62109375,
+      "fy": -410.4618419027094,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "cybersecurity"
     },
     {
@@ -121,8 +145,8 @@
       "source": "basics",
       "target": "threats",
       "curve": {
-        "x": -45.2597,
-        "y": 52.6042
+        "x": -112.092,
+        "y": 64.4421
       }
     },
     {
@@ -145,8 +169,8 @@
       "source": "basics",
       "target": "fuzz testing  ️",
       "curve": {
-        "x": 44.218,
-        "y": 54.9555
+        "x": -41.2272,
+        "y": 75.5708
       }
     },
     {
@@ -155,6 +179,22 @@
       "curve": {
         "x": -141.048,
         "y": 58.3229
+      }
+    },
+    {
+      "source": "basics",
+      "target": "exploits",
+      "curve": {
+        "x": 69.3618,
+        "y": 59.8393
+      }
+    },
+    {
+      "source": "exploits",
+      "target": "buffer overflow  ️",
+      "curve": {
+        "x": 35.5069,
+        "y": 51.9599
       }
     }
   ]

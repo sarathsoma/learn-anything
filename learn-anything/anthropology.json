@@ -1,7 +1,5 @@
 {
   "title": "learn anything - anthropology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "anthropology",
@@ -16,6 +14,13 @@
       "url": "",
       "fx": -64.06518724509112,
       "fy": -115.12751112128456
+    },
+    {
+      "text": "archaeology  ️",
+      "url": "/anthropology/archaeology",
+      "fx": -189.2106641699138,
+      "fy": 36.846280602188585,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -63,6 +68,14 @@
       "curve": {
         "x": -10.0429,
         "y": 104.083
+      }
+    },
+    {
+      "source": "basics",
+      "target": "archaeology  ️",
+      "curve": {
+        "x": -56.0727,
+        "y": 75.9869
       }
     }
   ]

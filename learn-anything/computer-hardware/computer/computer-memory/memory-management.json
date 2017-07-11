@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer hardware - computer - computer memory - memory management",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "memory management",
@@ -19,8 +17,15 @@
     {
       "text": "garbage collection  ️",
       "url": "/computer-hardware/computer/computer-memory/memory-management/garbage-collection",
-      "fx": -187.86232775590508,
-      "fy": 32.6742741141735,
+      "fx": -241.8654650590546,
+      "fy": 15.120755413386291,
+      "category": "mindmap"
+    },
+    {
+      "text": "virtual memory  ️",
+      "url": "/computer-hardware/computer/computer-memory/memory-management/virtual-memory",
+      "fx": 3.1238132911396406,
+      "fy": 21.14082278481021,
       "category": "mindmap"
     }
   ],
@@ -57,8 +62,16 @@
       "source": "basics",
       "target": "garbage collection  ️",
       "curve": {
-        "x": -43.0588,
-        "y": 82.167
+        "x": -70.0604,
+        "y": 73.3902
+      }
+    },
+    {
+      "source": "basics",
+      "target": "virtual memory  ️",
+      "curve": {
+        "x": 44.1843,
+        "y": 76.4003
       }
     }
   ]

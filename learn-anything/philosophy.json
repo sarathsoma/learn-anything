@@ -1,7 +1,5 @@
 {
   "title": "learn anything - philosophy",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "philosophy",
@@ -74,24 +72,28 @@
     },
     {
       "text": "philosophy of science  ️",
+      "url": "/philosophy/philosophy-of-science",
       "fx": -1092.789001027741,
       "fy": 17.410356464309757,
       "category": "mindmap"
     },
     {
       "text": "reasoning  ️",
+      "url": "/philosophy/reasoning",
       "fx": -1257.7415466308594,
       "fy": 18.88097858428955,
       "category": "mindmap"
     },
     {
       "text": "ideas  ️",
+      "url": "/philosophy/ideas",
       "fx": -1380.8821511243386,
       "fy": 19.858796296296646,
       "category": "mindmap"
     },
     {
       "text": "decision theory  ️",
+      "url": "/philosophy/decision-theory",
       "fx": -1593.8032111220477,
       "fy": 21.444820374013602,
       "category": "mindmap"

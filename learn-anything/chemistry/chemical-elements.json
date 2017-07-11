@@ -1,7 +1,5 @@
 {
   "title": "learn anything - chemistry - chemical elements",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "chemical elements",
@@ -13,18 +11,21 @@
     },
     {
       "text": "periodic table  ️",
+      "url": "/chemistry/chemical-elements/periodic-table",
       "fx": 48.78155517578125,
       "fy": -51.5562047958374,
       "category": "mindmap"
     },
     {
       "text": "atomic number  ️",
+      "url": "/chemistry/chemical-elements/atomic-number",
       "fx": 538.4345508784204,
       "fy": -51.098705690298516,
       "category": "mindmap"
     },
     {
       "text": "standard atomic weight  ️",
+      "url": "/chemistry/chemical-elements/standard-atomic-weight",
       "fx": 245.9059600830078,
       "fy": -50.67609691619873,
       "category": "mindmap"
@@ -46,6 +47,7 @@
     {
       "text": "hydrogen  ️",
       "note": "hydrogen is the lightest element on the periodic table",
+      "url": "/chemistry/chemical-elements/hydrogen",
       "fx": -42.85393994147171,
       "fy": 78.60935978840575,
       "category": "mindmap"

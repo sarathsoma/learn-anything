@@ -1,20 +1,18 @@
 {
   "title": "learn anything - programming - programming languages - typescript",
-  "tag": "typescript programming language",
-  "description": "",
   "nodes": [
     {
       "text": "typescript",
       "url": "http://www.wikiwand.com/en/TypeScript",
       "fx": -89.41238100165572,
-      "fy": -359.86281560430467,
+      "fy": -388.1430308360928,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 30.852888271508505,
-      "fy": -237.82841100913805
+      "fy": -223.0881378303302
     },
     {
       "text": "articles",
@@ -35,7 +33,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/typescript/",
       "fx": 126.58761899834428,
-      "fy": -365.86281560430467,
+      "fy": -434.1430308360928,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "typescript"
@@ -44,25 +42,34 @@
       "text": "",
       "url": "https://github.com/Microsoft/TypeScript",
       "fx": 126.58761899834428,
-      "fy": -325.86281560430467,
+      "fy": -394.1430308360928,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "typescript"
     },
     {
-      "text": "awesome typescript",
-      "url": "https://github.com/dzharii/awesome-typescript",
-      "fx": 167.8528882715085,
-      "fy": -277.32841100913805,
+      "text": "trending",
+      "url": "https://github.com/trending/typescript",
+      "fx": 126.58761899834428,
+      "fy": -354.1430308360928,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "typescript"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/dzharii/awesome-typescript",
+      "fx": 126.58761899834428,
+      "fy": -314.1430308360928,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "typescript"
     },
     {
       "text": "awesome typescript projects",
       "url": "https://github.com/brookshi/awesome-typescript-projects",
       "fx": 167.8528882715085,
-      "fy": -237.32841100913805,
+      "fy": -242.5881378303302,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -71,7 +78,7 @@
       "text": "high quality TypeScript type definitions",
       "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
       "fx": 167.8528882715085,
-      "fy": -197.32841100913805,
+      "fy": -202.5881378303302,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -80,9 +87,18 @@
       "text": "17: typescript in slack  ️",
       "url": "https://slack.engineering/typescript-at-slack-a81307fa288d",
       "fx": 268.9130903624954,
-      "fy": -82.027682513419,
+      "fy": -102.027682513419,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: reddit choses typescript  ️",
+      "url": "https://redditblog.com/2017/06/30/why-we-chose-typescript/",
+      "fx": 268.9130903624954,
+      "fy": -62.027682513418995,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
     },
     {
@@ -109,7 +125,7 @@
       "target": "typescript",
       "curve": {
         "x": -47.6326,
-        "y": -61.0172
+        "y": -82.5274
       }
     },
     {
@@ -117,7 +133,7 @@
       "target": "basics",
       "curve": {
         "x": -4.61104,
-        "y": 198.099
+        "y": 212.239
       }
     },
     {
@@ -125,7 +141,7 @@
       "target": "help",
       "curve": {
         "x": -44.2801,
-        "y": -72.1504
+        "y": -64.7803
       }
     }
   ]

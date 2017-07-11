@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "programming languages",
@@ -236,6 +234,7 @@
     },
     {
       "text": "pascal  ️",
+      "url": "/programming/programming-languages/pascal",
       "fx": 3353.382007312727,
       "fy": -473.71831756745314,
       "category": "mindmap"
@@ -421,6 +420,7 @@
     },
     {
       "text": "frege  ️",
+      "url": "/programming/programming-languages/frege",
       "fx": 920.0952443741226,
       "fy": -377.21864011954744,
       "category": "mindmap"
@@ -464,6 +464,7 @@
     },
     {
       "text": "purescript  ️",
+      "url": "/programming/programming-languages/purescript",
       "fx": 597.4701740674327,
       "fy": -340.4003947647309,
       "category": "mindmap"

@@ -1,13 +1,11 @@
 {
   "title": "learn anything - operating systems - unix - macos",
-  "tag": "macOS",
-  "description": "",
   "nodes": [
     {
       "text": "macOS",
       "url": "http://www.wikiwand.com/en/Macintosh_operating_systems",
-      "fx": -121.19988451736208,
-      "fy": -610.1092277145588,
+      "fx": -123.24285326736208,
+      "fy": -631.4490714645588,
       "category": "wiki"
     },
     {
@@ -26,8 +24,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -185.85006684407062,
-      "fy": -8.498596846307919
+      "fx": -201.23287934407062,
+      "fy": -54.38531559630792
     },
     {
       "text": "articles",
@@ -37,12 +35,14 @@
     },
     {
       "text": "launchd  ️",
+      "url": "/operating-systems/unix/macos/launchd",
       "fx": 67.43094877151566,
       "fy": 66.39849679971769,
       "category": "mindmap"
     },
     {
       "text": "automation  ️",
+      "url": "/operating-systems/unix/macos/automation",
       "fx": -93.15316436644775,
       "fy": 151.07943640703536,
       "category": "mindmap"
@@ -56,6 +56,7 @@
     },
     {
       "text": "cocoa  ️",
+      "url": "/programming/programming-languages/swift/apple-frameworks/cocoa",
       "fx": -402.13654765725175,
       "fy": 162.90066154530052,
       "category": "mindmap"
@@ -65,8 +66,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/MacOS/",
-      "fx": 73.80011548263792,
-      "fy": -616.1092277145588,
+      "fx": 71.75714673263792,
+      "fy": -657.4490714645588,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "macOS"
@@ -74,43 +75,43 @@
     {
       "text": "️",
       "url": "https://apple.stackexchange.com/",
-      "fx": 73.80011548263792,
-      "fy": -576.1092277145588,
+      "fx": 71.75714673263792,
+      "fy": -617.4490714645588,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "macOS"
     },
     {
+      "text": "awesome",
+      "url": "https://github.com/iCHAIT/awesome-macOS",
+      "fx": 71.75714673263792,
+      "fy": -577.4490714645588,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "macOS"
+    },
+    {
       "text": "reverse engineering resources",
       "url": "http://pewpewthespells.com/re.html",
-      "fx": 183.48898662156796,
-      "fy": -501.77551058631514,
+      "fx": 184.48898662156796,
+      "fy": -481.77551058631514,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "macOS shell scripts",
       "url": "https://github.com/liyanage/macosx-shell-scripts",
-      "fx": 183.48898662156796,
-      "fy": -467.77551058631514,
+      "fx": 184.48898662156796,
+      "fy": -447.77551058631514,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome macOS",
-      "url": "https://github.com/iCHAIT/awesome-macOS",
-      "fx": 183.48898662156796,
-      "fy": -427.77551058631514,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "awesome macOS command line",
       "url": "https://github.com/herrbischoff/awesome-osx-command-line",
-      "fx": 183.48898662156796,
-      "fy": -387.77551058631514,
+      "fx": 184.48898662156796,
+      "fy": -407.77551058631514,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -118,8 +119,8 @@
     {
       "text": "quick look plugins",
       "url": "https://github.com/sindresorhus/quick-look-plugins",
-      "fx": 183.48898662156796,
-      "fy": -347.77551058631514,
+      "fx": 184.48898662156796,
+      "fy": -367.77551058631514,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -127,8 +128,8 @@
     {
       "text": "macOS security and privacy guide",
       "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
-      "fx": 183.48898662156796,
-      "fy": -307.77551058631514,
+      "fx": 184.48898662156796,
+      "fy": -327.77551058631514,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -136,8 +137,8 @@
     {
       "text": "awesome mac",
       "url": "https://github.com/jaywcjlove/awesome-mac",
-      "fx": 183.48898662156796,
-      "fy": -245.77551058631514,
+      "fx": 184.48898662156796,
+      "fy": -265.77551058631514,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -145,8 +146,8 @@
     {
       "text": "awesome OS X command line",
       "url": "https://github.com/herrbischoff/awesome-osx-command-line",
-      "fx": 183.48898662156796,
-      "fy": -205.77551058631514,
+      "fx": 184.48898662156796,
+      "fy": -225.77551058631514,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -154,8 +155,8 @@
     {
       "text": "tools for macOS",
       "url": "https://github.com/morgant/tools-osx",
-      "fx": 183.48898662156796,
-      "fy": -165.77551058631514,
+      "fx": 184.48898662156796,
+      "fy": -185.77551058631514,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -170,10 +171,18 @@
       "parent": "interesting"
     },
     {
+      "text": "1. brew package manager",
+      "url": "https://brew.sh/",
+      "fx": -19.232879344070625,
+      "fy": -56.88531559630792,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. macOS internals",
       "url": "http://osxbook.com/",
-      "fx": -3.850066844070625,
-      "fy": 6.001403153692081,
+      "fx": -19.232879344070625,
+      "fy": -22.88531559630792,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -210,32 +219,32 @@
       "source": "basics",
       "target": "launchd  ️",
       "curve": {
-        "x": 91.781,
-        "y": 47.0935
+        "x": 99.4724,
+        "y": 70.0369
       }
     },
     {
       "source": "basics",
       "target": "automation  ️",
       "curve": {
-        "x": 57.3484,
-        "y": 79.7889
+        "x": 65.0398,
+        "y": 102.732
       }
     },
     {
       "source": "macOS",
       "target": "basics",
       "curve": {
-        "x": -42.0751,
-        "y": 299.555
+        "x": -48.745,
+        "y": 287.282
       }
     },
     {
       "source": "help",
       "target": "macOS",
       "curve": {
-        "x": -69.8445,
-        "y": -131.167
+        "x": -70.866,
+        "y": -141.837
       }
     },
     {
@@ -258,16 +267,16 @@
       "source": "basics",
       "target": "apps  ️",
       "curve": {
-        "x": -29.9809,
-        "y": 86.8617
+        "x": -22.2895,
+        "y": 109.805
       }
     },
     {
       "source": "basics",
       "target": "cocoa  ️",
       "curve": {
-        "x": -107.893,
-        "y": 86.9496
+        "x": -100.202,
+        "y": 109.893
       }
     }
   ]

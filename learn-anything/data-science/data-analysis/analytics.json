@@ -1,7 +1,5 @@
 {
   "title": "learn anything - data science - data analysis - analytics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "analytics",
@@ -18,6 +16,7 @@
     },
     {
       "text": "web analytics  ️",
+      "url": "/data-science/data-analysis/analytics/web-analytics",
       "fx": 125.36039959016364,
       "fy": 48.056181693989004,
       "category": "mindmap"
@@ -31,6 +30,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "awesome",
+      "url": "https://github.com/onurakpolat/awesome-analytics",
+      "fx": 282.69140625,
+      "fy": -199.68359375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "analytics"
+    },
     {
       "text": "1. how it works: analytics",
       "url": "https://www.youtube.com/watch?v=_HbjsNaUJ2A",

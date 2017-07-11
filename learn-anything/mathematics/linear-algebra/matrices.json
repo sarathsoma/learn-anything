@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - linear algebra - matrices",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "matrices",
@@ -19,8 +17,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 76.70078222213249,
-      "fy": 44.71060079143882
+      "fx": 52.89407692411908,
+      "fy": 36.49826635435278
     },
     {
       "text": "matrix factorisation  ️",
@@ -64,10 +62,18 @@
     {
       "text": "1. intro to matrices",
       "url": "http://immersivemath.com/ila/ch06_matrices/ch06.html",
-      "fx": 232.7007822221325,
-      "fy": 56.21060079143882,
+      "fx": 208.89407692411908,
+      "fy": 30.99826635435278,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the matrix cookbook",
+      "url": "http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf",
+      "fx": 208.89407692411908,
+      "fy": 70.99826635435278,
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -76,16 +82,16 @@
       "source": "matrices",
       "target": "basics",
       "curve": {
-        "x": -20.8589,
-        "y": 105.216
+        "x": -32.7622,
+        "y": 101.109
       }
     },
     {
       "source": "basics",
       "target": "matrix factorisation  ️",
       "curve": {
-        "x": -75.4521,
-        "y": 62.7836
+        "x": -63.5488,
+        "y": 66.8898
       }
     },
     {
@@ -100,24 +106,24 @@
       "source": "basics",
       "target": "determinants  ️",
       "curve": {
-        "x": 29.7043,
-        "y": 62.1285
+        "x": 41.6076,
+        "y": 66.2347
       }
     },
     {
       "source": "basics",
       "target": "rank  ️",
       "curve": {
-        "x": -232.624,
-        "y": 37.6276
+        "x": -220.721,
+        "y": 41.7338
       }
     },
     {
       "source": "basics",
       "target": "singular value decomposition  ️",
       "curve": {
-        "x": -341.135,
-        "y": 32.9248
+        "x": -329.232,
+        "y": 37.031
       }
     }
   ]

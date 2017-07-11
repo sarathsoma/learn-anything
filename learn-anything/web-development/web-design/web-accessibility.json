@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - web design - web accessibility",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "web accessibility",
       "url": "http://www.wikiwand.com/en/Web_accessibility",
-      "fx": -29.27734375,
-      "fy": -167.08984375,
+      "fx": -23.353604403409122,
+      "fy": -98.00248579545456,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 155.36947959710756,
-      "fy": -44.205352530991604
     },
     {
       "text": "basics",
@@ -31,12 +23,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome accessibility resources",
-      "url": "http://brunopulis.com/awesome-a11y/",
-      "fx": 292.36947959710756,
-      "fy": -29.705352530991604,
+      "text": "awesome",
+      "url": "https://github.com/brunopulis/awesome-a11y",
+      "fx": 255.64639559659088,
+      "fy": -84.00248579545456,
+      "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "web accessibility"
     },
     {
       "text": "1. overview",
@@ -49,19 +42,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "web accessibility",
-      "curve": {
-        "x": -56.8234,
-        "y": -60.1923
-      }
-    },
-    {
       "source": "web accessibility",
       "target": "basics",
       "curve": {
-        "x": -0.366255,
-        "y": 104.971
+        "x": -3.32812,
+        "y": 70.4273
       }
     },
     {

@@ -1,42 +1,40 @@
 {
   "title": "learn anything - programming - programming languages - javascript - promises",
-  "tag": "javascript promises",
-  "description": "",
   "nodes": [
     {
-      "text": "promise object",
+      "text": "promise objects",
       "url": "https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise",
-      "fx": 42.46875,
+      "fx": 37.96875,
       "fy": -114.4107521186441
     },
     {
       "text": "help",
       "url": "",
-      "fx": 171.13615732463006,
-      "fy": -12.237867930709172
+      "fx": 178.998313044969,
+      "fy": -12.66159674426848
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 75.45074152542384,
-      "fy": 94.1478078784479
+      "fx": 71.54780190677968,
+      "fy": 93.26393605641402
     }
   ],
   "subnodes": [
     {
-      "text": "awesome promises",
+      "text": "awesome",
       "url": "https://github.com/wbinnssmith/awesome-promises",
-      "fx": 308.13615732463006,
-      "fy": -20.73786793070917,
+      "fx": 278.96875,
+      "fy": -102.9107521186441,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "promise objects"
     },
     {
       "text": "promise fun",
       "url": "https://github.com/sindresorhus/promise-fun",
-      "fx": 308.13615732463006,
-      "fy": 19.26213206929083,
+      "fx": 315.998313044969,
+      "fy": -1.1615967442684791,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -44,8 +42,8 @@
     {
       "text": "1. the promise of a burger party  ️",
       "url": "https://kosamari.com/notes/the-promise-of-a-burger-party",
-      "fx": 231.45074152542384,
-      "fy": 105.6478078784479,
+      "fx": 227.54780190677968,
+      "fy": 104.76393605641402,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -53,19 +51,19 @@
   ],
   "connections": [
     {
-      "source": "promise object",
+      "source": "promise objects",
       "target": "basics",
       "curve": {
-        "x": -2.50901,
-        "y": 104.279
+        "x": -2.21048,
+        "y": 103.837
       }
     },
     {
       "source": "help",
-      "target": "promise object",
+      "target": "promise objects",
       "curve": {
-        "x": -40.5837,
-        "y": -51.0864
+        "x": -46.7648,
+        "y": -50.8745
       }
     }
   ]

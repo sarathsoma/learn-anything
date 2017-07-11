@@ -1,7 +1,5 @@
 {
   "title": "learn anything - entrepreneurship - success",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "success",
@@ -13,105 +11,114 @@
     {
       "text": "articles",
       "url": "",
-      "fx": -3.9769850011533663,
-      "fy": 28.896611290770068
+      "fx": -7.789576375422371,
+      "fy": 69.76146874691051
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -169.22642543859638,
-      "fy": 284.6751644736843
+      "fx": -235.46363304093575,
+      "fy": 400.8918128654973
     }
   ],
   "subnodes": [
     {
       "text": "13 lessons I learned  ️",
       "url": "https://brightreads.com/13-lessons-learned-e4f8ceb21e60",
-      "fx": 157.02301499884663,
-      "fy": -127.60338870922993,
+      "fx": 161.21042362457763,
+      "fy": -116.73853125308949,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
       "text": "the best  ️",
       "url": "https://dcurt.is/the-best",
-      "fx": 157.02301499884663,
-      "fy": -87.60338870922993,
+      "fx": 161.21042362457763,
+      "fy": -74.73853125308949,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "articles"
     },
     {
       "text": "on connecting  ️",
       "url": "https://medium.com/@dustinfarivar/on-connecting-6b748ade09a3",
-      "fx": 157.02301499884663,
-      "fy": -47.60338870922993,
+      "fx": 161.21042362457763,
+      "fy": -32.73853125308949,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "articles"
     },
     {
       "text": "how to make wealth  ️",
       "url": "http://paulgraham.com/wealth.html",
-      "fx": 157.02301499884663,
-      "fy": -7.603388709229932,
+      "fx": 161.21042362457763,
+      "fy": 9.26146874691051,
       "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "articles"
     },
     {
       "text": "why didn’t I do this sooner",
       "url": "https://news.ycombinator.com/item?id=12186587",
-      "fx": 157.02301499884663,
-      "fy": 32.39661129077007,
-      "color": "rgba(209, 21, 88, 1.0)",
+      "fx": 161.21042362457763,
+      "fy": 51.26146874691051,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "articles"
     },
     {
       "text": "8 things you should be doing before 8 A.M.  ️",
       "url": "https://themission.co/8-things-every-person-should-do-before-8-a-m-cc0233e15c8d",
-      "fx": 157.02301499884663,
-      "fy": 66.39661129077007,
+      "fx": 161.21042362457763,
+      "fy": 88.26146874691051,
       "category": "article",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "articles"
     },
     {
       "text": "life is short  ️",
       "url": "http://paulgraham.com/vb.html",
-      "fx": 157.02301499884663,
-      "fy": 128.39661129077007,
+      "fx": 161.21042362457763,
+      "fy": 155.2614687469105,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
       "text": "the day I did something  ️",
       "url": "http://www.frankwiles.com/posts/2015/day-i-did-something/",
-      "fx": 157.02301499884663,
-      "fy": 168.39661129077007,
+      "fx": 161.21042362457763,
+      "fy": 197.2614687469105,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "articles"
     },
     {
       "text": "copy what you like  ️",
       "url": "http://paulgraham.com/copy.html",
-      "fx": 157.02301499884663,
-      "fy": 208.39661129077007,
+      "fx": 161.21042362457763,
+      "fy": 239.2614687469105,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "the root of it all  ️",
+      "url": "https://medium.com/@NikitaVoloboev/the-root-of-it-all-9b6ab6a77e1d",
+      "fx": 161.21042362457763,
+      "fy": 281.2614687469105,
+      "category": "article",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "articles"
     },
     {
       "text": "1. how to win friends and influence people",
       "url": "http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
-      "fx": 12.77357456140362,
-      "fy": 285.1751644736843,
+      "fx": -46.46363304093575,
+      "fy": 400.8918128654973,
       "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -120,16 +127,16 @@
       "source": "articles",
       "target": "success",
       "curve": {
-        "x": -69.6507,
-        "y": -65.7235
+        "x": -67.7444,
+        "y": -86.1559
       }
     },
     {
       "source": "success",
       "target": "basics",
       "curve": {
-        "x": -1.72394,
-        "y": 193.613
+        "x": -34.8426,
+        "y": 251.721
       }
     }
   ]

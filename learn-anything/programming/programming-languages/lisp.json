@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - lisp",
-  "tag": "lisp programming language",
-  "description": "",
   "nodes": [
     {
       "text": "lisp",
@@ -14,13 +12,13 @@
       "text": "help",
       "url": "",
       "fx": 25.845347800401555,
-      "fy": -99.39249317798448
+      "fy": -88.40772008881254
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 90.18248174302187,
-      "fy": 25.86607265329252
+      "fx": 86.22398253920016,
+      "fy": 23.238684118260664
     },
     {
       "text": "basics",
@@ -35,34 +33,43 @@
       "text": "",
       "url": "https://www.reddit.com/r/lisp/",
       "fx": 84.16664457321167,
-      "fy": -199.8428726196289,
+      "fy": -239.8428726196289,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "lisp"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/common-lisp",
+      "fx": 84.16664457321167,
+      "fy": -199.8428726196289,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "lisp"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/CodyReichert/awesome-cl",
+      "fx": 84.16664457321167,
+      "fy": -159.8428726196289,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "lisp"
     },
     {
       "text": "fear of macros  ️",
       "url": "http://www.greghendershott.com/fear-of-macros/index.html",
       "fx": 162.84534780040156,
-      "fy": -107.89249317798448,
+      "fy": -76.90772008881254,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome cl",
-      "url": "https://github.com/CodyReichert/awesome-cl",
-      "fx": 162.84534780040156,
-      "fy": -67.89249317798448,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "14: why racket, why lisp?  ️",
       "url": "http://beautifulracket.com/appendix/why-racket-why-lisp.html",
-      "fx": 252.18248174302187,
-      "fy": 37.36607265329252,
+      "fx": 248.22398253920016,
+      "fy": 34.738684118260664,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -101,7 +108,7 @@
       "target": "lisp",
       "curve": {
         "x": -44.3394,
-        "y": -55.9751
+        "y": -61.4675
       }
     },
     {
@@ -116,8 +123,8 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -38.4186,
-        "y": -62.6293
+        "x": -36.4394,
+        "y": -55.8232
       }
     }
   ]

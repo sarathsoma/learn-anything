@@ -1,7 +1,5 @@
 {
   "title": "learn anything - health - mindfulness - zen",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "zen",
@@ -19,6 +17,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/zen/",
+      "fx": 77.08932125796184,
+      "fy": -162.5332404458598,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "zen"
+    },
     {
       "text": "1. Alan Watts - introduction to zen",
       "url": "https://www.youtube.com/watch?v=iQle7JxjcrA",

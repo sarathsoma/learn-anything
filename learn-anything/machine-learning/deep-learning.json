@@ -1,20 +1,18 @@
 {
   "title": "learn anything - machine learning - deep learning",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "deep learning",
       "url": "http://www.wikiwand.com/en/Deep_learning",
-      "fx": -209.10191437458718,
-      "fy": -956.3671302184299,
+      "fx": -204.2115592956543,
+      "fy": -1080.265250692562,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 59.89320642906296,
-      "fy": -737.8100705509297
+      "fx": -1.0479025840759277,
+      "fy": -795.0106201171875
     },
     {
       "text": "applications",
@@ -32,8 +30,8 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 323.20001568710586,
-      "fy": -335.55647197522626
+      "fx": 370.0414733886719,
+      "fy": -368.0263671875
     },
     {
       "text": "autonomous driving  ️",
@@ -52,14 +50,8 @@
     {
       "text": "talks",
       "url": "",
-      "fx": 588.6376624591817,
-      "fy": -39.412685924045036
-    },
-    {
-      "text": "interesting",
-      "url": "",
-      "fx": 689.595221049386,
-      "fy": 129.29428580232752
+      "fx": 547.2817461737268,
+      "fy": 19.759144404838707
     },
     {
       "text": "transfer learning  ️",
@@ -67,250 +59,292 @@
       "fx": -508.9579417293239,
       "fy": 132.843998015873,
       "category": "mindmap"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 641.2789494976614,
+      "fy": 195.30869851784473
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/deeplearning/",
-      "fx": 40.89808562541282,
-      "fy": -942.3671302184299,
+      "fx": 60.7884407043457,
+      "fy": -1087.265250692562,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "deep learning"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+      "fx": 60.7884407043457,
+      "fy": -1045.265250692562,
+      "category": "github",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "deep learning"
+    },
+    {
+      "text": "awesome deep learning papers",
+      "url": "https://github.com/terryum/awesome-deep-learning-papers",
+      "fx": 139.95209741592407,
+      "fy": -987.0106201171875,
+      "category": "github",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "help"
     },
     {
       "text": "essential cheat sheets  ️",
       "url": "https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5",
-      "fx": 196.89320642906296,
-      "fy": -913.3100705509297,
+      "fx": 139.95209741592407,
+      "fy": -920.0106201171875,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome deep learning",
-      "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
-      "fx": 196.89320642906296,
-      "fy": -873.3100705509297,
-      "category": "github",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome deep learning resources",
       "url": "https://github.com/guillaume-chevalier/awesome-deep-learning-resources",
-      "fx": 196.89320642906296,
-      "fy": -833.3100705509297,
+      "fx": 139.95209741592407,
+      "fy": -878.0106201171875,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "deep review",
       "note": "collaboratively written review paper on deep learning, genomics, and precision medicine",
       "url": "https://greenelab.github.io/deep-review/",
-      "fx": 196.89320642906296,
-      "fy": -771.3100705509297,
+      "fx": 139.95209741592407,
+      "fy": -811.0106201171875,
       "category": "paper",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "help"
     },
     {
       "text": "deep learning software slide",
       "url": "http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf",
-      "fx": 196.89320642906296,
-      "fy": -731.3100705509297,
-      "color": "rgba(255, 189, 10, 1.0)",
+      "fx": 139.95209741592407,
+      "fy": -769.0106201171875,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
     },
     {
       "text": "open source deep learning curriculum  ️",
       "url": "http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum/",
-      "fx": 196.89320642906296,
-      "fy": -697.3100705509297,
+      "fx": 139.95209741592407,
+      "fy": -732.0106201171875,
       "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "help"
     },
     {
       "text": "on the computational complexity of deep learning",
       "url": "http://lear.inrialpes.fr/workshop/osl2015/slides/osl2015_shalev_shwartz.pdf",
-      "fx": 196.89320642906296,
-      "fy": -635.3100705509297,
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome deep learning papers",
-      "url": "https://github.com/terryum/awesome-deep-learning-papers",
-      "fx": 196.89320642906296,
-      "fy": -579.3100705509297,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 139.95209741592407,
+      "fy": -665.0106201171875,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "deep learning summaries and notes",
       "url": "https://github.com/dennybritz/deeplearning-papernotes",
-      "fx": 196.89320642906296,
-      "fy": -539.3100705509297,
+      "fx": 139.95209741592407,
+      "fy": -603.0106201171875,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "16: why randomness is important for deep learning  ️",
       "url": "http://blog.evjang.com/2016/07/randomness-deep-learning.html",
-      "fx": 485.20001568710586,
-      "fy": -490.05647197522626,
+      "fx": 539.0414733886719,
+      "fy": -614.5263671875,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
       "text": "16: what product breakthroughs will recent advances in deep learning enable?  ️",
       "url": "http://blog.evjang.com/2016/07/what-product-breakthroughs-will-recent.html",
-      "fx": 485.20001568710586,
-      "fy": -428.05647197522626,
+      "fx": 539.0414733886719,
+      "fy": -547.5263671875,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "articles"
     },
     {
       "text": "17: everything that works works because it's bayesian: why deep nets generalize?  ️",
       "url": "http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/",
-      "fx": 485.20001568710586,
-      "fy": -344.05647197522626,
+      "fx": 539.0414733886719,
+      "fy": -431.5263671875,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "articles"
     },
     {
       "text": "17: deep learning  ️",
       "url": "https://www.technologyreview.com/s/513696/deep-learning/",
-      "fx": 485.20001568710586,
-      "fy": -260.05647197522626,
+      "fx": 539.0414733886719,
+      "fy": -339.5263671875,
       "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "articles"
     },
     {
       "text": "17: zero to one  ️",
       "url": "https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9",
-      "fx": 485.20001568710586,
-      "fy": -220.05647197522626,
+      "fx": 539.0414733886719,
+      "fy": -297.5263671875,
       "category": "article",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "articles"
     },
     {
       "text": "17: deep learning and virtual tense machines  ️",
       "url": "https://zigasajovic.github.io/Deep-Learning-and-Virtual-Tensor-Machines/",
-      "fx": 485.20001568710586,
-      "fy": -180.05647197522626,
+      "fx": 539.0414733886719,
+      "fy": -255.5263671875,
       "category": "article",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "articles"
+    },
+    {
+      "text": "17: activation functions its types - which is better?  ️",
+      "url": "https://medium.com/towards-data-science/activation-functions-and-its-types-which-is-better-a9a5310cc8f",
+      "fx": 539.0414733886719,
+      "fy": -188.5263671875,
+      "category": "article",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: when not to use deep learning  ️",
+      "url": "http://hyperparameter.space/blog/when-not-to-use-deep-learning/",
+      "fx": 539.0414733886719,
+      "fy": -121.5263671875,
+      "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "1. deep learning in a nutshell  ️",
+      "url": "http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/",
+      "fx": -76.97392902312504,
+      "fy": -402.15915093793626,
+      "category": "article",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. deep learning",
       "note": "one of the best introductions to the field, assumes you have the mathematical background to follow it",
       "url": "http://www.deeplearningbook.org",
-      "fx": -83.97392902312504,
-      "fy": -321.65915093793626,
+      "fx": -76.97392902312504,
+      "fy": -360.15915093793626,
       "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. foundations for deep learning",
       "url": "https://github.com/pauli-space/foundations_for_deep_learning",
-      "fx": -83.97392902312504,
-      "fy": -281.65915093793626,
+      "fx": -76.97392902312504,
+      "fy": -318.15915093793626,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. deep reinforcement learning",
       "url": "http://rll.berkeley.edu/deeprlcourse/",
-      "fx": -83.97392902312504,
-      "fy": -241.65915093793626,
+      "fx": -76.97392902312504,
+      "fy": -251.15915093793626,
       "category": "",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. designing, visualising and understanding deep neural networks",
       "url": "https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks",
-      "fx": -83.97392902312504,
-      "fy": -201.65915093793626,
+      "fx": -76.97392902312504,
+      "fy": -184.15915093793626,
       "category": "",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. practical deep learning for coders",
       "url": "http://course.fast.ai/",
-      "fx": -83.97392902312504,
-      "fy": -117.65915093793626,
+      "fx": -76.97392902312504,
+      "fy": -92.15915093793626,
       "category": "",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. learn TensorFlow and deep learning, without a Ph.D",
       "url": "https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd",
-      "fx": -83.97392902312504,
-      "fy": -55.65915093793626,
+      "fx": -76.97392902312504,
+      "fy": -25.15915093793626,
       "category": "",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. creative applications of deep learning with tensorflow",
       "url": "https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info",
-      "fx": -83.97392902312504,
-      "fy": 6.340849062063739,
+      "fx": -76.97392902312504,
+      "fy": 41.84084906206374,
       "category": "",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. grokking deep learning",
       "url": "https://www.manning.com/books/grokking-deep-learning",
-      "fx": -83.97392902312504,
-      "fy": 68.34084906206374,
+      "fx": -76.97392902312504,
+      "fy": 108.84084906206374,
       "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. tutorial on deep learning",
+      "url": "http://ai.stanford.edu/~quocle/tutorial1.pdf",
+      "fx": -76.97392902312504,
+      "fy": 150.84084906206374,
+      "category": "paper",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
     {
       "text": "15: how to learn an algorithm",
       "url": "https://www.youtube.com/watch?v=mF5-tr7qAF4&amp;feature=youtu.be",
-      "fx": 728.6376624591817,
-      "fy": -69.91268592404504,
+      "fx": 690.2817461737268,
+      "fy": -26.240855595161293,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "talks"
     },
     {
       "text": "13: deep learning, self-taught learning and unsupervised feature learning",
       "url": "https://www.youtube.com/watch?v=n1ViNeWhC24",
-      "fx": 728.6376624591817,
-      "fy": -29.912685924045036,
+      "fx": 690.2817461737268,
+      "fy": 40.75914440483871,
       "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "talks"
     },
     {
       "text": "the terrible deep learning list",
       "url": "https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List",
-      "fx": 880.595221049386,
-      "fy": 140.79428580232752,
+      "fx": 840.2789494976614,
+      "fy": 207.80869851784473,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "interesting"
     }
   ],
@@ -319,8 +353,8 @@
       "source": "deep learning",
       "target": "basics",
       "curve": {
-        "x": -46.1861,
-        "y": 409.104
+        "x": -48.6313,
+        "y": 471.053
       }
     },
     {
@@ -335,32 +369,32 @@
       "source": "help",
       "target": "deep learning",
       "curve": {
-        "x": -106.248,
-        "y": -108.028
+        "x": -73.3327,
+        "y": -141.376
       }
     },
     {
       "source": "deep learning",
       "target": "applications",
       "curve": {
-        "x": -169.337,
-        "y": 225.514
+        "x": -171.782,
+        "y": 287.463
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -203.486,
-        "y": -156.882
+        "x": -257.378,
+        "y": -169.247
       }
     },
     {
       "source": "talks",
       "target": "articles",
       "curve": {
-        "x": -189.529,
-        "y": -95.6665
+        "x": -145.43,
+        "y": -141.488
       }
     },
     {
@@ -383,8 +417,8 @@
       "source": "interesting",
       "target": "talks",
       "curve": {
-        "x": -63.2288,
-        "y": -84.3535
+        "x": -59.7486,
+        "y": -87.7749
       }
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - chemistry - chemical reactions",
+  "nodes": [
+    {
+      "text": "chemical reactions",
+      "url": "http://www.wikiwand.com/en/Chemical_reaction",
+      "fx": 130.52734375,
+      "fy": -251.81640625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 188.81640625,
+      "fy": -121.48046875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. types of chemical reactions",
+      "url": "https://www.youtube.com/watch?v=aMU1RaRulSo",
+      "fx": 344.81640625,
+      "fy": -109.98046875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "chemical reactions",
+      "target": "basics",
+      "curve": {
+        "x": 1.39453,
+        "y": 65.168
+      }
+    }
+  ]
+}

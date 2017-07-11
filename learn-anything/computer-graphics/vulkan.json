@@ -1,20 +1,18 @@
 {
   "title": "learn anything - computer graphics - vulkan",
-  "tag": "vulkan graphics api",
-  "description": "",
   "nodes": [
     {
       "text": "vulkan",
       "url": "http://www.wikiwand.com/en/Vulkan_(API)",
-      "fx": -55.6852964743573,
-      "fy": -477.46246722032225,
+      "fx": -42.14162660256238,
+      "fy": -444.1611851690402,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 25.47676282051293,
-      "fy": -352.0300480769228
+      "fx": 69.6494391025642,
+      "fy": -330.1550480769228
     },
     {
       "text": "basics",
@@ -28,26 +26,26 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/vulkan/",
-      "fx": 129.3147035256427,
-      "fy": -463.46246722032225,
+      "fx": 142.85837339743762,
+      "fy": -450.1611851690402,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "vulkan"
     },
     {
-      "text": "awesome vulkan",
+      "text": "awesome",
       "url": "https://github.com/vinjn/awesome-vulkan",
-      "fx": 162.47676282051293,
-      "fy": -360.5300480769228,
+      "fx": 142.85837339743762,
+      "fy": -410.1611851690402,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "vulkan"
     },
     {
       "text": "vulkan resources",
       "url": "https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/vulkan/resources.md",
-      "fx": 162.47676282051293,
-      "fy": -320.5300480769228,
+      "fx": 206.6494391025642,
+      "fy": -318.6550480769228,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -66,16 +64,16 @@
       "source": "help",
       "target": "vulkan",
       "curve": {
-        "x": -28.581,
-        "y": -61.4662
+        "x": -43.8955,
+        "y": -55.7531
       }
     },
     {
       "source": "vulkan",
       "target": "basics",
       "curve": {
-        "x": -2.31941,
-        "y": 119.371
+        "x": -9.09124,
+        "y": 102.72
       }
     }
   ]

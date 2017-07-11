@@ -1,0 +1,78 @@
+{
+  "title": "learn anything - computer science - computation - interactive computing - jupyter notebooks",
+  "nodes": [
+    {
+      "text": "Jupyter notebooks",
+      "url": "http://jupyter.org/",
+      "fx": 330.5109215561225,
+      "fy": -60.61774553571428
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 490.87475627877575,
+      "fy": 54.89856258163758
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 372.4780771683669,
+      "fy": 162.91015625000006
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/IPython/",
+      "fx": 598.5109215561225,
+      "fy": -69.11774553571428,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "Jupyter notebooks"
+    },
+    {
+      "text": "trending",
+      "url": "https://github.com/trending/jupyter-notebook",
+      "fx": 598.5109215561225,
+      "fy": -29.117745535714278,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "Jupyter notebooks"
+    },
+    {
+      "text": "awesome jupyter",
+      "url": "https://github.com/postpdm/awesome-jupyter",
+      "fx": 627.8747562787757,
+      "fy": 66.39856258163758,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. Jupyter documentation",
+      "url": "https://jupyter.readthedocs.io/en/latest/index.html",
+      "fx": 528.4780771683669,
+      "fy": 177.41015625000006,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "Jupyter notebooks",
+      "curve": {
+        "x": -47.4319,
+        "y": -57.7581
+      }
+    },
+    {
+      "source": "Jupyter notebooks",
+      "target": "basics",
+      "curve": {
+        "x": -7.01642,
+        "y": 111.764
+      }
+    }
+  ]
+}

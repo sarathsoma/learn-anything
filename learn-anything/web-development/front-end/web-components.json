@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - front end - web components",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "web components",
       "url": "http://www.wikiwand.com/en/Web_Components",
-      "fx": -95.26545041899442,
-      "fy": -141.98703736033514,
+      "fx": -88.76240403534666,
+      "fy": -112.03666393266218,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 51.42940367267124,
-      "fy": -51.34120675305411
     },
     {
       "text": "basics",
@@ -25,6 +17,7 @@
     },
     {
       "text": "polymer library  ️",
+      "url": "/web-development/front-end/web-components/polymer",
       "fx": -149.29952330508468,
       "fy": 156.04224046610182,
       "category": "mindmap"
@@ -32,13 +25,13 @@
   ],
   "subnodes": [
     {
-      "text": "web components the right way",
+      "text": "awesome",
       "url": "https://github.com/mateusortiz/webcomponents-the-right-way",
-      "fx": 188.42940367267124,
-      "fy": -39.84120675305411,
+      "fx": 196.23759596465334,
+      "fy": -98.03666393266218,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "web components"
     },
     {
       "text": "1. MDN doc",
@@ -54,16 +47,8 @@
       "source": "web components",
       "target": "basics",
       "curve": {
-        "x": -5.112,
-        "y": 86.4169
-      }
-    },
-    {
-      "source": "help",
-      "target": "web components",
-      "curve": {
-        "x": -36.3474,
-        "y": -44.0729
+        "x": -8.36352,
+        "y": 71.4417
       }
     },
     {

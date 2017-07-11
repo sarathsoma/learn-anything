@@ -1,14 +1,18 @@
 {
   "title": "learn anything - computer science - programming language theory - type systems",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "type systems",
       "url": "http://www.wikiwand.com/en/Type_system",
-      "fx": -111.92578125,
-      "fy": -153.19140625,
+      "fx": -115.2107221948819,
+      "fy": -273.1809485728346,
       "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 104.45401111868603,
+      "fy": -162.93702043745225
     },
     {
       "text": "basics",
@@ -18,6 +22,7 @@
     },
     {
       "text": "gradual typing  ️",
+      "url": "/computer-science/programming-language-theory/type-systems/gradual-typing",
       "fx": -41.2989742249016,
       "fy": 124.14410063976379,
       "category": "mindmap"
@@ -32,21 +37,30 @@
   ],
   "subnodes": [
     {
+      "text": "17: where do type systems come from  ️",
+      "url": "http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/",
+      "fx": 273.454011118686,
+      "fy": -162.93702043745225,
+      "category": "article",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "articles"
+    },
+    {
       "text": "1. explanation",
       "url": "https://www.youtube.com/watch?v=ozwFIuVfPsQ",
-      "fx": 86.48785638809204,
+      "fx": 93.48785638809204,
       "fy": -53.682718716458794,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. propositions as types",
       "url": "http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf",
-      "fx": 86.48785638809204,
-      "fy": -13.682718716458794,
+      "fx": 93.48785638809204,
+      "fy": -11.682718716458794,
       "category": "paper",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -55,8 +69,8 @@
       "source": "type systems",
       "target": "basics",
       "curve": {
-        "x": 0.956819,
-        "y": 52.7543
+        "x": 2.59929,
+        "y": 112.749
       }
     },
     {
@@ -73,6 +87,14 @@
       "curve": {
         "x": 31.6065,
         "y": 84.6634
+      }
+    },
+    {
+      "source": "articles",
+      "target": "type systems",
+      "curve": {
+        "x": -86.5824,
+        "y": -54.372
       }
     }
   ]

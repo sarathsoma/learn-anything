@@ -1,7 +1,5 @@
 {
   "title": "learn anything - engineering",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "engineering",
@@ -26,6 +24,7 @@
     },
     {
       "text": "computer engineering  ️",
+      "url": "/engineering/computer-engineering",
       "fx": -1611.6077161538958,
       "fy": 192.78640391189361,
       "category": "mindmap"
@@ -53,6 +52,13 @@
       "category": "wiki"
     },
     {
+      "text": "bionics  ️",
+      "url": "/engineering/bionics",
+      "fx": -1992.6344675268097,
+      "fy": 195.72375055407764,
+      "category": "mindmap"
+    },
+    {
       "text": "mechatronics  ️",
       "url": "/engineering/mechatronics",
       "fx": -853.0446428571427,
@@ -68,6 +74,7 @@
     },
     {
       "text": "audio engineering  ️",
+      "url": "/engineering/audio-engineering",
       "fx": -1851.8366955500153,
       "fy": 198.22155789907197,
       "category": "mindmap"
@@ -252,8 +259,16 @@
       "source": "engineering",
       "target": "audio engineering  ️",
       "curve": {
-        "x": -1350.26,
-        "y": -22.3759
+        "x": -1383.92,
+        "y": 48.6929
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "bionics  ️",
+      "curve": {
+        "x": -1496.05,
+        "y": 55.868
       }
     }
   ]

@@ -1,20 +1,12 @@
 {
   "title": "learn anything - linguistics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "linguistics",
       "url": "http://www.wikiwand.com/en/Linguistics",
-      "fx": -86.75191304831435,
-      "fy": -370.47431861455715,
+      "fx": -149.60738179831435,
+      "fy": -307.00556861455715,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 57.074932707458174,
-      "fy": -259.9923133315753
     },
     {
       "text": "basics",
@@ -39,18 +31,21 @@
     },
     {
       "text": "computational linguistics  ️",
+      "url": "/linguistics/computational-linguistics",
       "fx": -78.83876433006935,
       "fy": 25.265833980176808,
       "category": "mindmap"
     },
     {
       "text": "formal language  ️",
+      "url": "/linguistics/formal-language",
       "fx": -675.2427825927734,
       "fy": 25.409942626953125,
       "category": "mindmap"
     },
     {
       "text": "corpus linguistics  ️",
+      "url": "/linguistics/corpus-linguistics",
       "fx": -906.3851354125608,
       "fy": 29.384845946660334,
       "category": "mindmap"
@@ -60,8 +55,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/linguistics/",
-      "fx": 127.24808695168565,
-      "fy": -376.47431861455715,
+      "fx": 64.39261820168565,
+      "fy": -333.00556861455715,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "linguistics"
@@ -69,20 +64,20 @@
     {
       "text": "️",
       "url": "https://linguistics.stackexchange.com/",
-      "fx": 127.24808695168565,
-      "fy": -336.47431861455715,
+      "fx": 64.39261820168565,
+      "fy": -293.00556861455715,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "linguistics"
     },
     {
-      "text": "awesome linguistics",
+      "text": "awesome",
       "url": "https://github.com/theimpossibleastronaut/awesome-linguistics",
-      "fx": 194.07493270745817,
-      "fy": -248.4923133315753,
+      "fx": 64.39261820168565,
+      "fy": -253.00556861455715,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "linguistics"
     },
     {
       "text": "1. course in general linguistics",
@@ -108,16 +103,8 @@
       "source": "linguistics",
       "target": "basics",
       "curve": {
-        "x": -32.7142,
-        "y": 118.513
-      }
-    },
-    {
-      "source": "help",
-      "target": "linguistics",
-      "curve": {
-        "x": -58.6635,
-        "y": -55.241
+        "x": -1.28647,
+        "y": 86.7786
       }
     },
     {

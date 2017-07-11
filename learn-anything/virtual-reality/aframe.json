@@ -1,19 +1,11 @@
 {
   "title": "learn anything - virtual reality - aframe",
-  "tag": "a-frame virtual reality framework",
-  "description": "",
   "nodes": [
     {
       "text": "A-Frame",
       "url": "https://aframe.io/",
-      "fx": -91.61328125,
-      "fy": -368.95703125
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 13.603803539374667,
-      "fy": -266.98549632041613
+      "fx": -79.32316930970148,
+      "fy": -300.27990904850753
     },
     {
       "text": "basics",
@@ -25,13 +17,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome A-Frame",
+      "text": "awesome",
       "url": "https://github.com/aframevr/awesome-aframe",
-      "fx": 150.60380353937467,
-      "fy": -255.48549632041613,
+      "fx": 97.67683069029852,
+      "fy": -288.77990904850753,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "A-Frame"
     },
     {
       "text": "1. get started",
@@ -61,19 +53,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "A-Frame",
-      "curve": {
-        "x": -42.6085,
-        "y": -50.9857
-      }
-    },
-    {
       "source": "A-Frame",
       "target": "basics",
       "curve": {
-        "x": -9.46243,
-        "y": 117.734
+        "x": -15.6075,
+        "y": 83.3954
       }
     }
   ]

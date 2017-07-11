@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming paradigms - functional programming",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "functional programming",
@@ -25,6 +23,7 @@
     },
     {
       "text": "callback functions  ️",
+      "url": "/programming/programming-paradigms/functional-programming/callback-functions",
       "fx": -808.4023624908739,
       "fy": 249.66072825406786,
       "category": "mindmap"
@@ -37,7 +36,15 @@
       "category": "mindmap"
     },
     {
+      "text": "pure functions  ️",
+      "url": "/programming/programming-paradigms/functional-programming/pure-functions",
+      "fx": -1019.632661679536,
+      "fy": 251.11210246901055,
+      "category": "mindmap"
+    },
+    {
       "text": "anonymous functions  ️",
+      "url": "/programming/programming-paradigms/functional-programming/anonymous-functions",
       "fx": -560.6559539318245,
       "fy": 251.66578706264033,
       "category": "mindmap"
@@ -55,34 +62,43 @@
       "text": "",
       "url": "https://www.reddit.com/r/functionalprogramming/",
       "fx": 167.68359375,
-      "fy": -194.99609375,
+      "fy": -214.99609375,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "functional programming"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/lucasviola/awesome-functional-programming",
+      "fx": 167.68359375,
+      "fy": -174.99609375,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "functional programming"
     },
     {
       "text": "functional programming jargon",
       "url": "https://github.com/hemanth/functional-programming-jargon",
       "fx": 129.12886238098156,
-      "fy": -114.56463692404998,
+      "fy": -83.56463692404998,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome functional programming",
-      "url": "https://github.com/lucasviola/awesome-functional-programming",
-      "fx": 129.12886238098156,
-      "fy": -74.56463692404998,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "text": "1. functional programming &amp; haskell",
+      "url": "https://www.youtube.com/watch?v=LnX3B9oaKzw",
+      "fx": 71.48840487992766,
+      "fy": 17.16466524142953,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. introduction to functional programming",
       "url": "https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/all.pdf",
       "fx": 71.48840487992766,
-      "fy": 37.16466524142953,
+      "fy": 57.16466524142953,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -91,7 +107,7 @@
       "text": "1. lecture series on functional programming",
       "url": "http://lambda-the-ultimate.org/node/3642",
       "fx": 71.48840487992766,
-      "fy": 99.16466524142953,
+      "fy": 119.16466524142953,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -144,6 +160,14 @@
       "curve": {
         "x": -368.54,
         "y": 53.6412
+      }
+    },
+    {
+      "source": "basics",
+      "target": "pure functions  ️",
+      "curve": {
+        "x": -513.702,
+        "y": 45.7822
       }
     }
   ]

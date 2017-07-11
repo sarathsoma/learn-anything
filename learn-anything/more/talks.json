@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - more - talks",
+  "nodes": [
+    {
+      "text": "talks",
+      "url": "https://github.com/learn-anything/talks",
+      "fx": -24.3515625,
+      "fy": -51.12109375,
+      "category": "github"
+    },
+    {
+      "text": "find new talks",
+      "url": "",
+      "fx": -51.65625,
+      "fy": 90.00390625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome talks",
+      "url": "https://github.com/JanVanRyswyck/awesome-talks",
+      "fx": 170.34375,
+      "fy": 101.50390625,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "find new talks"
+    }
+  ],
+  "connections": [
+    {
+      "source": "talks",
+      "target": "find new talks",
+      "curve": {
+        "x": 2.09766,
+        "y": 69.3125
+      }
+    }
+  ]
+}

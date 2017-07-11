@@ -1,20 +1,18 @@
 {
   "title": "learn anything - programming - programming languages - ruby - ruby on rails",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "ruby on rails",
       "url": "http://www.wikiwand.com/en/Ruby_on_Rails",
-      "fx": -97.42578125,
-      "fy": -187.703125,
+      "fx": -97.67499719982072,
+      "fy": -182.50179211469538,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 34.7673891129034,
-      "fy": -75.98519405241927
+      "fx": 34.518173163082565,
+      "fy": -63.31158294130813
     },
     {
       "text": "basics",
@@ -28,8 +26,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/rails/",
-      "fx": 139.57421875,
-      "fy": -193.703125,
+      "fx": 139.32500280017928,
+      "fy": -208.50179211469538,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "ruby on rails"
@@ -37,26 +35,26 @@
     {
       "text": "",
       "url": "https://github.com/rails/rails",
-      "fx": 139.57421875,
-      "fy": -153.703125,
+      "fx": 139.32500280017928,
+      "fy": -168.50179211469538,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "ruby on rails"
     },
     {
-      "text": "awesome rails",
+      "text": "awesome",
       "url": "https://github.com/ekremkaraca/awesome-rails",
-      "fx": 171.7673891129034,
-      "fy": -84.48519405241927,
+      "fx": 139.32500280017928,
+      "fy": -128.50179211469538,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "ruby on rails"
     },
     {
       "text": "awesome rails gems",
       "url": "https://github.com/hothero/awesome-rails-gem",
-      "fx": 171.7673891129034,
-      "fy": -44.485194052419274,
+      "fx": 171.51817316308257,
+      "fy": -51.81158294130813,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -93,15 +91,15 @@
       "target": "ruby on rails",
       "curve": {
         "x": -41.0966,
-        "y": -54.609
+        "y": -58.3451
       }
     },
     {
       "source": "ruby on rails",
       "target": "basics",
       "curve": {
-        "x": -5.02928,
-        "y": 117.522
+        "x": -4.90467,
+        "y": 114.921
       }
     }
   ]

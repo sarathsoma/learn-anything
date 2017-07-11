@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer science - programming language theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "programming language theory",
@@ -32,12 +30,14 @@
     },
     {
       "text": "session types  ️",
+      "url": "/computer-science/programming-language-theory/session-types",
       "fx": 151.16490765171375,
       "fy": -582.2928759894461,
       "category": "mindmap"
     },
     {
       "text": "evaluation strategies  ️",
+      "url": "/computer-science/programming-language-theory/evaluation-strategies",
       "fx": -428.9995597466659,
       "fy": -523.6946419047815,
       "category": "mindmap"

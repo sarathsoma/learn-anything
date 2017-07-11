@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - life - work - freelancing",
+  "nodes": [
+    {
+      "text": "freelancing",
+      "url": "http://www.wikiwand.com/en/Freelancer",
+      "fx": -126.98828125,
+      "fy": -118.39453125,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": -16.8203125,
+      "fy": -18.59375
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 20.74609375,
+      "fy": 97.98828125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "the remote freelancer",
+      "url": "https://github.com/engineerapart/TheRemoteFreelancer",
+      "fx": 120.1796875,
+      "fy": -7.09375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "17: why most freelancing advice doesn’t apply to programmers most of the time  ️",
+      "url": "https://www.jasonswett.net/why-most-freelancing-advice-doesnt-apply-to-programmers-most-of-the-time/",
+      "fx": 182.74609375,
+      "fy": 87.48828125,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "freelancing",
+      "curve": {
+        "x": -40.334,
+        "y": -49.9004
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -25.0332,
+        "y": -58.291
+      }
+    }
+  ]
+}

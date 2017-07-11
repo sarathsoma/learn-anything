@@ -1,13 +1,11 @@
 {
   "title": "learn anything - computer science",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "computer science",
       "url": "http://www.wikiwand.com/en/Computer_science",
-      "fx": 598.8837324573149,
-      "fy": -1071.8018533029863,
+      "fx": 610.5205331566151,
+      "fy": -1120.0399433379514,
       "category": "wiki"
     },
     {
@@ -89,41 +87,57 @@
       "fx": -740.930084745763,
       "fy": -232.43365995762701,
       "category": "mindmap"
+    },
+    {
+      "text": "program analysis  ️",
+      "url": "/computer-science/program-analysis",
+      "fx": -973.2771819526623,
+      "fy": -231.1894415680474,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
-      "text": "",
-      "url": "https://www.reddit.com/r/compsci/",
-      "fx": 887.8837324573149,
-      "fy": -1097.8018533029863,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "computer science"
-    },
-    {
       "text": "️",
       "url": "https://cs.stackexchange.com/",
-      "fx": 887.8837324573149,
-      "fy": -1057.8018533029863,
+      "fx": 899.5205331566151,
+      "fy": -1166.0399433379514,
       "category": "stack exchange",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "computer science"
     },
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/compsci/",
+      "fx": 899.5205331566151,
+      "fy": -1126.0399433379514,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "computer science"
+    },
+    {
       "text": "ask cs",
       "url": "https://www.reddit.com/r/AskComputerScience/",
-      "fx": 887.8837324573149,
-      "fy": -1017.8018533029863,
+      "fx": 899.5205331566151,
+      "fy": -1086.0399433379514,
       "category": "reddit",
       "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "computer science"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/open-source-society/computer-science",
+      "fx": 899.5205331566151,
+      "fy": -1046.0399433379514,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "computer science"
     },
     {
       "text": "cs student resources",
       "url": "http://www.computersciencestudent.com/",
       "fx": 968.7559051513672,
-      "fy": -962.745361328125,
+      "fy": -931.745361328125,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
@@ -131,24 +145,15 @@
       "text": "cs concept map",
       "url": "https://fkcd.ca/b7d.svg",
       "fx": 968.7559051513672,
-      "fy": -928.745361328125,
+      "fy": -897.745361328125,
       "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "path to a free self-taught education in cs",
-      "url": "https://github.com/open-source-society/computer-science",
-      "fx": 968.7559051513672,
-      "fy": -894.745361328125,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "notes to cs freshmen from the future",
       "url": "https://github.com/nushackers/notes-to-cs-freshmen-from-the-future",
       "fx": 968.7559051513672,
-      "fy": -832.745361328125,
+      "fy": -863.745361328125,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
@@ -156,7 +161,7 @@
       "text": "papers we love",
       "url": "https://github.com/papers-we-love/papers-we-love",
       "fx": 968.7559051513672,
-      "fy": -776.745361328125,
+      "fy": -807.745361328125,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -251,16 +256,16 @@
       "source": "computer science",
       "target": "basics",
       "curve": {
-        "x": 7.17042,
-        "y": 297.128
+        "x": 1.35202,
+        "y": 321.247
       }
     },
     {
       "source": "help",
       "target": "computer science",
       "curve": {
-        "x": -78.4361,
-        "y": -94.0283
+        "x": -72.6177,
+        "y": -118.147
       }
     },
     {
@@ -333,6 +338,14 @@
       "curve": {
         "x": -971.039,
         "y": 53.2795
+      }
+    },
+    {
+      "source": "basics",
+      "target": "program analysis  ️",
+      "curve": {
+        "x": -1108.05,
+        "y": 47.5073
       }
     }
   ]

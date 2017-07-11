@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - quantum mechanics - quantum computing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "quantum computing",
@@ -14,7 +12,7 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 202.51743521341473,
+      "fx": 197.0034298780489,
       "fy": -99.77829649390242
     }
   ],
@@ -22,17 +20,26 @@
     {
       "text": "1. quantum computers explained – limits of human technology",
       "url": "https://www.youtube.com/watch?v=JhHMJCUmq28",
-      "fx": 384.51743521341473,
-      "fy": -119.27829649390242,
+      "fx": 379.0034298780489,
+      "fy": -150.27829649390242,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. quantum computing since Democritus",
+      "url": "http://www.scottaaronson.com/democritus/default.html",
+      "fx": 379.0034298780489,
+      "fy": -88.27829649390242,
+      "category": "",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "2. quantum computation",
       "url": "https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/",
-      "fx": 384.51743521341473,
-      "fy": -57.77429869116804,
+      "fx": 379.0034298780489,
+      "fy": -26.278296493902417,
       "category": "",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -43,7 +50,7 @@
       "source": "quantum computing",
       "target": "basics",
       "curve": {
-        "x": -5.68074,
+        "x": -8.43774,
         "y": 77.5796
       }
     }

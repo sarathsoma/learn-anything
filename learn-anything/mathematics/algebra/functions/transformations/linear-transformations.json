@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - algebra - functions - transformations - linear transformations",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "linear transformation",
@@ -15,6 +13,13 @@
       "url": "",
       "fx": -78.67958757877352,
       "fy": -37.057030773162865
+    },
+    {
+      "text": "transformation matrices  ️",
+      "url": "/mathematics/algebra/functions/transformations/linear-transformations/transformation-matrices",
+      "fx": -276.5991115196083,
+      "fy": 100.90987540849665,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -44,6 +49,14 @@
       "curve": {
         "x": -3.88379,
         "y": 69.8328
+      }
+    },
+    {
+      "source": "basics",
+      "target": "transformation matrices  ️",
+      "curve": {
+        "x": -59.9598,
+        "y": 68.9835
       }
     }
   ]

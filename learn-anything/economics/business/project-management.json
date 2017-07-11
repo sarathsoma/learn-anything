@@ -1,7 +1,5 @@
 {
   "title": "learn anything - economics - business - project management",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "project management",
@@ -19,6 +17,7 @@
     },
     {
       "text": "event management  ️",
+      "url": "/economics/business/project-management/event-management",
       "fx": -394.4033203125,
       "fy": -320.3310546875,
       "category": "mindmap"

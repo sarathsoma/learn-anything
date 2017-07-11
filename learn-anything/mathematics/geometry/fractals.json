@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - geometry - fractals",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "fractals",
@@ -32,8 +30,15 @@
     {
       "text": "Hilbert curve  ️",
       "url": "/mathematics/geometry/fractals/hilbert-curve",
-      "fx": -121.7998046875,
-      "fy": 457.150390625,
+      "fx": -200.5823163334628,
+      "fy": 450.0560583268633,
+      "category": "mindmap"
+    },
+    {
+      "text": "fractal analysis  ️",
+      "url": "/mathematics/geometry/fractals/fractal-analysis",
+      "fx": -9.495592948717785,
+      "fy": 451.63461538461536,
       "category": "mindmap"
     }
   ],
@@ -112,8 +117,16 @@
       "source": "basics",
       "target": "Hilbert curve  ️",
       "curve": {
-        "x": -42.886,
-        "y": 65.488
+        "x": -82.2773,
+        "y": 61.9408
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fractal analysis  ️",
+      "curve": {
+        "x": 17.7661,
+        "y": 62.7301
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - biology - anatomy",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "anatomy",
@@ -14,8 +12,15 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 95.83598867358091,
-      "fy": 52.587523881004415
+      "fx": 82.62505117358091,
+      "fy": 30.204711381004415
+    },
+    {
+      "text": "human body  ️",
+      "url": "/biology/anatomy/human-body",
+      "fx": -27.269630931020743,
+      "fy": 149.6590950624667,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -31,26 +36,17 @@
     {
       "text": "1. khan academy human anatomy and physiology",
       "url": "https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology",
-      "fx": 277.8359886735809,
-      "fy": -8.912476118995585,
+      "fx": 264.6250511735809,
+      "fy": -0.2952886189955848,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
-      "text": "1. introduction to anatomy &amp; physiology",
-      "url": "https://www.youtube.com/watch?v=uBGl2BujkPQ",
-      "fx": 277.8359886735809,
-      "fy": 53.087523881004415,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
       "text": "1. crash course anatomy &amp; physiology",
       "url": "https://www.youtube.com/watch?v=uBGl2BujkPQ&amp;list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8",
-      "fx": 277.8359886735809,
-      "fy": 115.08752388100442,
+      "fx": 264.6250511735809,
+      "fy": 61.704711381004415,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -61,8 +57,16 @@
       "source": "anatomy",
       "target": "basics",
       "curve": {
-        "x": -9.71057,
-        "y": 77.2387
+        "x": -16.316,
+        "y": 66.0473
+      }
+    },
+    {
+      "source": "basics",
+      "target": "human body  ️",
+      "curve": {
+        "x": -40.1973,
+        "y": 60.9772
       }
     }
   ]

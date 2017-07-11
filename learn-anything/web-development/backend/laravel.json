@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - backend - laravel",
-  "tag": "laravel web framework",
-  "description": "",
   "nodes": [
     {
       "text": "laravel",
@@ -13,32 +11,32 @@
     {
       "text": "help",
       "url": "",
-      "fx": 72.56008493257264,
-      "fy": -149.27838109439836
+      "fx": 76.29452476659753,
+      "fy": -137.50128047199178
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -33.871272043568524,
-      "fy": -4.473628760373458
+      "fy": 8.935668438796597
     }
   ],
   "subnodes": [
     {
-      "text": "awesome laravel",
+      "text": "awesome",
       "url": "https://github.com/chiraggude/awesome-laravel",
-      "fx": 209.56008493257264,
-      "fy": -194.77838109439836,
+      "fx": 144.61328125,
+      "fy": -239.83984375,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "laravel"
     },
     {
       "text": "laravel cheat sheet",
       "url": "https://github.com/summerblue/laravel5-cheatsheet",
-      "fx": 209.56008493257264,
-      "fy": -154.77838109439836,
+      "fx": 213.29452476659753,
+      "fy": -183.00128047199178,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -46,8 +44,8 @@
     {
       "text": "larachat slack",
       "url": "https://larachat.slack.com/",
-      "fx": 209.56008493257264,
-      "fy": -114.77838109439836,
+      "fx": 213.29452476659753,
+      "fy": -143.00128047199178,
       "category": "",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -55,16 +53,25 @@
     {
       "text": "laravel videos",
       "url": "https://laracasts.com/search?q=laravel",
-      "fx": 209.56008493257264,
-      "fy": -74.77838109439836,
+      "fx": 213.29452476659753,
+      "fy": -103.00128047199178,
       "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "laravel education",
+      "url": "https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md",
+      "fx": 213.29452476659753,
+      "fy": -69.00128047199178,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. installation",
       "url": "https://laravel.com/docs/5.4",
       "fx": 148.12872795643148,
-      "fy": -9.973628760373458,
+      "fy": 3.435668438796597,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
@@ -72,7 +79,7 @@
       "text": "1. laravel 5 fundamentals",
       "url": "https://laracasts.com/series/laravel-5-fundamentals",
       "fx": 148.12872795643148,
-      "fy": 24.026371239626542,
+      "fy": 37.4356684387966,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -83,8 +90,8 @@
       "source": "help",
       "target": "laravel",
       "curve": {
-        "x": -44.2234,
-        "y": -51.0307
+        "x": -46.0906,
+        "y": -56.9193
       }
     },
     {
@@ -92,7 +99,7 @@
       "target": "basics",
       "curve": {
         "x": -4.24227,
-        "y": 123.433
+        "y": 130.138
       }
     }
   ]

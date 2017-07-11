@@ -1,14 +1,12 @@
 {
   "title": "learn anything - web development - search engines",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
-      "text": "web search engine",
+      "text": "web search engines",
       "note": "",
       "url": "http://www.wikiwand.com/en/Web_search_engine",
-      "fx": -120.44421487603313,
-      "fy": -2,
+      "fx": -117.18622068998661,
+      "fy": -28.649709302325675,
       "category": "wiki"
     },
     {
@@ -21,8 +19,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 90.33485367642027,
-      "fy": 130.1657264303676
+      "fx": 113.06559495549016,
+      "fy": 133.46151131408857
     },
     {
       "text": "sphinx",
@@ -31,79 +29,94 @@
       "fy": 189.98538358457307
     },
     {
-      "text": "query understanding",
-      "url": "http://www.wikiwand.com/en/Query_understanding",
-      "fx": -58.84572208737234,
-      "fy": 288.4224817961165,
-      "category": "wiki"
-    },
-    {
       "text": "Solr  ️",
       "url": "/web-development/search-engines/solr",
       "fx": -196.30716249200543,
       "fy": 304.99181010844825,
       "category": "mindmap"
+    },
+    {
+      "text": "PageRank  ️",
+      "url": "/web-development/search-engines/pagerank",
+      "fx": 98.52422664141432,
+      "fy": 307.1923137626263,
+      "category": "mindmap"
+    },
+    {
+      "text": "query understanding",
+      "url": "http://www.wikiwand.com/en/Query_understanding",
+      "fx": -185.36328292808025,
+      "fy": 411.66639772532005,
+      "category": "wiki"
     }
   ],
   "subnodes": [
     {
       "text": "the anatomy of a large-scale hypertextual web search engine  ️",
       "url": "http://infolab.stanford.edu/~backrub/google.html",
-      "fx": 227.33485367642027,
-      "fy": 110.66572643036761,
+      "fx": 254.06559495549016,
+      "fy": 99.96151131408857,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "search engine optimisation",
       "url": "https://github.com/marcobiedermann/search-engine-optimization",
-      "fx": 227.33485367642027,
-      "fy": 172.6657264303676,
+      "fx": 254.06559495549016,
+      "fy": 191.96151131408857,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     }
   ],
   "connections": [
     {
       "source": "help",
-      "target": "web search engine",
+      "target": "web search engines",
       "curve": {
-        "x": -65.1395,
-        "y": -64.8329
+        "x": -74.8759,
+        "y": -79.8056
       }
     },
     {
-      "source": "web search engine",
+      "source": "web search engines",
       "target": "Elasticsearch  ️",
       "curve": {
-        "x": -138.603,
-        "y": 46.0048
+        "x": -140.232,
+        "y": 59.3297
       }
     },
     {
-      "source": "web search engine",
+      "source": "web search engines",
       "target": "sphinx",
       "curve": {
-        "x": -104.423,
-        "y": 94.7423
+        "x": -106.052,
+        "y": 108.067
       }
     },
     {
-      "source": "web search engine",
+      "source": "web search engines",
       "target": "Solr  ️",
       "curve": {
-        "x": -86.1815,
-        "y": 152.247
+        "x": -87.8105,
+        "y": 165.572
       }
     },
     {
-      "source": "web search engine",
+      "source": "web search engines",
       "target": "query understanding",
       "curve": {
-        "x": 20.7992,
-        "y": 143.961
+        "x": -44.0886,
+        "y": 218.908
+      }
+    },
+    {
+      "source": "web search engines",
+      "target": "PageRank  ️",
+      "curve": {
+        "x": 77.7823,
+        "y": 226.01
       }
     }
   ]

@@ -1,10 +1,9 @@
 {
   "title": "learn anything",
-  "tag": "anything",
-  "description": "",
   "nodes": [
     {
       "text": "information theory",
+      "url": "/information-theory",
       "fx": 210.94635674504934,
       "fy": -1020.7918858292078
     },
@@ -51,6 +50,7 @@
     },
     {
       "text": "agriculture",
+      "url": "/agriculture",
       "fx": -836.9086501892434,
       "fy": -875.2626976860358
     },
@@ -377,6 +377,7 @@
     },
     {
       "text": "journalism",
+      "url": "/journalism",
       "fx": -1055.6675488234591,
       "fy": -441.39851961896784
     }

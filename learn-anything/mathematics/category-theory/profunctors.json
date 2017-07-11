@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - mathematics - category theory - profunctors",
+  "nodes": [
+    {
+      "text": "profunctors",
+      "url": "http://www.wikiwand.com/en/Profunctor",
+      "fx": 25.745494944150323,
+      "fy": -149.65797929555345,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 59.839003078273095,
+      "fy": -4.1257709206127515
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. monodical categories, functoriality of ADTs, profunctors",
+      "url": "https://www.youtube.com/watch?v=wtIKd8AhJOc",
+      "fx": 215.8390030782731,
+      "fy": -34.62577092061275,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. profunctor optics: the categorical view  ️",
+      "url": "https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/",
+      "fx": 215.8390030782731,
+      "fy": 27.37422907938725,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "profunctors",
+      "target": "basics",
+      "curve": {
+        "x": -1.70325,
+        "y": 71.5161
+      }
+    }
+  ]
+}

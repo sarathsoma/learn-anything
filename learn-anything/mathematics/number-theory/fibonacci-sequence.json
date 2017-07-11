@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - mathematics - number theory - fibonacci sequence",
+  "nodes": [
+    {
+      "text": "Fibonacci sequence",
+      "url": "http://www.wikiwand.com/en/Fibonacci_number",
+      "fx": -32.5078125,
+      "fy": -143.98046875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 30.208610372340445,
+      "fy": 48.173869680851055
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. Fibonacci numbers and the golden ratio",
+      "url": "https://www.coursera.org/learn/fibonacci",
+      "fx": 186.20861037234044,
+      "fy": 48.673869680851055,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "Fibonacci sequence",
+      "target": "basics",
+      "curve": {
+        "x": -6.64179,
+        "y": 94.8272
+      }
+    }
+  ]
+}

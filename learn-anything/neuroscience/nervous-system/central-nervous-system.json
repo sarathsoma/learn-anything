@@ -1,0 +1,84 @@
+{
+  "title": "learn anything - neuroscience - nervous system - central nervous system",
+  "nodes": [
+    {
+      "text": "central nervous system",
+      "url": "http://www.wikiwand.com/en/Nervous_system",
+      "fx": 99.36396789550781,
+      "fy": -141.35448145866394,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 184.9965501673081,
+      "fy": -7.169576252208003
+    },
+    {
+      "text": "brain  ️",
+      "url": "/neuroscience/human-brain",
+      "fx": 16.22579405737713,
+      "fy": 125.06595799180332,
+      "category": "mindmap"
+    },
+    {
+      "text": "spinal cord  ️",
+      "url": "/neuroscience/nervous-system/central-nervous-system/spinal-cord",
+      "fx": 158.47789001464844,
+      "fy": 128.34631538391113,
+      "category": "mindmap"
+    },
+    {
+      "text": "visual system  ️",
+      "url": "/neuroscience/nervous-system/central-nervous-system/visual-system",
+      "fx": 337.0317146726086,
+      "fy": 128.4335801132396,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=q8NtmDrb_qo",
+      "fx": 340.9965501673081,
+      "fy": 4.330423747791997,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "central nervous system",
+      "target": "basics",
+      "curve": {
+        "x": -2.18371,
+        "y": 65.8424
+      }
+    },
+    {
+      "source": "basics",
+      "target": "brain  ️",
+      "curve": {
+        "x": -80.3854,
+        "y": 67.3678
+      }
+    },
+    {
+      "source": "basics",
+      "target": "spinal cord  ️",
+      "curve": {
+        "x": -3.00934,
+        "y": 67.7579
+      }
+    },
+    {
+      "source": "basics",
+      "target": "visual system  ️",
+      "curve": {
+        "x": 91.7676,
+        "y": 67.8016
+      }
+    }
+  ]
+}

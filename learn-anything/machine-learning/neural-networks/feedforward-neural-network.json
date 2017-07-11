@@ -1,7 +1,5 @@
 {
   "title": "learn anything - machine learning - neural networks - feedforward neural network",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "feedforward neural network",
@@ -18,6 +16,7 @@
     },
     {
       "text": "extreme learning machines  ️",
+      "url": "/machine-learning/neural-networks/feedforward-neural-network/extreme-learning-machines",
       "fx": -228.0383800014166,
       "fy": 74.1390768536744,
       "category": "mindmap"

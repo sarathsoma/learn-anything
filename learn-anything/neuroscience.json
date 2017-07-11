@@ -1,7 +1,5 @@
 {
   "title": "learn anything - neuroscience",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "neuroscience",
@@ -46,6 +44,7 @@
     },
     {
       "text": "nervous system  ️",
+      "url": "/neuroscience/nervous-system",
       "fx": -815.1863967080146,
       "fy": 59.473461354961614,
       "category": "mindmap"

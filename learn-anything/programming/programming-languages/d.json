@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - d",
-  "tag": "d programming language",
-  "description": "",
   "nodes": [
     {
       "text": "D",
@@ -9,12 +7,6 @@
       "fx": -60.46875,
       "fy": -194.46484375,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 19.038352272727252,
-      "fy": -94.35783617424244
     },
     {
       "text": "basics",
@@ -29,7 +21,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/d_language/",
       "fx": 81.53125,
-      "fy": -200.46484375,
+      "fy": -240.46484375,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "D"
@@ -38,19 +30,28 @@
       "text": "",
       "url": "https://github.com/dlang/dmd",
       "fx": 81.53125,
-      "fy": -160.46484375,
+      "fy": -200.46484375,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "D"
     },
     {
-      "text": "awesome d",
-      "url": "https://github.com/zhaopuming/awesome-d",
-      "fx": 156.03835227272725,
-      "fy": -82.85783617424244,
+      "text": "trending",
+      "url": "https://github.com/trending/d",
+      "fx": 81.53125,
+      "fy": -160.46484375,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "D"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/zhaopuming/awesome-d",
+      "fx": 81.53125,
+      "fy": -120.46484375,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "D"
     },
     {
       "text": "1. welcome to D",
@@ -71,14 +72,6 @@
     }
   ],
   "connections": [
-    {
-      "source": "help",
-      "target": "D",
-      "curve": {
-        "x": -39.2535,
-        "y": -48.8035
-      }
-    },
     {
       "source": "D",
       "target": "basics",

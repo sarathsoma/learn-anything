@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - ruby",
-  "tag": "ruby programming language",
-  "description": "",
   "nodes": [
     {
       "text": "ruby",
@@ -71,6 +69,7 @@
     },
     {
       "text": "hanami  ️",
+      "url": "/programming/programming-languages/ruby-/hanami",
       "fx": 682.6091408167299,
       "fy": -113.67032929911159,
       "category": "mindmap"
@@ -119,7 +118,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/ruby/",
       "fx": 401.8253900394882,
-      "fy": -834.6924857206122,
+      "fy": -854.6924857206122,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "ruby"
@@ -128,7 +127,7 @@
       "text": "",
       "url": "https://github.com/ruby/ruby",
       "fx": 401.8253900394882,
-      "fy": -794.6924857206122,
+      "fy": -814.6924857206122,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "ruby"
@@ -137,25 +136,25 @@
       "text": "trending",
       "url": "https://github.com/trending/ruby",
       "fx": 401.8253900394882,
-      "fy": -754.6924857206122,
+      "fy": -774.6924857206122,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "ruby"
     },
     {
-      "text": "awesome ruby",
+      "text": "awesome",
       "url": "https://github.com/Froren?page=6&amp;tab=stars",
-      "fx": 467.43959045410156,
-      "fy": -692.5079345703125,
+      "fx": 401.8253900394882,
+      "fy": -734.6924857206122,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "ruby"
     },
     {
       "text": "airbnb ruby style guide",
       "url": "https://github.com/airbnb/ruby",
       "fx": 467.43959045410156,
-      "fy": -652.5095672607422,
+      "fy": -672.5095672607422,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -164,7 +163,7 @@
       "text": "community ruby style guide",
       "url": "https://github.com/bbatsov/ruby-style-guide",
       "fx": 467.43959045410156,
-      "fy": -612.5095672607422,
+      "fy": -632.5095672607422,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -173,7 +172,7 @@
       "text": "awesome ruby",
       "url": "https://ruby.libhunt.com/",
       "fx": 467.43959045410156,
-      "fy": -572.5095672607422,
+      "fy": -592.5095672607422,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -181,7 +180,7 @@
       "text": "awesome ruby events",
       "url": "https://github.com/planetruby/awesome-events",
       "fx": 467.43959045410156,
-      "fy": -538.5095672607422,
+      "fy": -558.5095672607422,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"

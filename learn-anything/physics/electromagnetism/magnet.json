@@ -1,12 +1,10 @@
 {
   "title": "learn anything - physics - electromagnetism - magnet",
-  "tag": "magnets",
-  "description": "",
   "nodes": [
     {
-      "text": "magnet",
+      "text": "magnets",
       "url": "http://www.wikiwand.com/en/Magnet",
-      "fx": -1.500351905822754,
+      "fx": -6.000351905822754,
       "fy": -37.30001175403595,
       "category": "wiki"
     },
@@ -24,6 +22,7 @@
     },
     {
       "text": "magnetic field  ️",
+      "url": "/physics/electromagnetism/magnets/magnetic-field",
       "fx": -120.66095753205207,
       "fy": 316.8676883012764,
       "category": "mindmap"
@@ -61,17 +60,17 @@
   "connections": [
     {
       "source": "interesting",
-      "target": "magnet",
+      "target": "magnets",
       "curve": {
-        "x": -61.2039,
+        "x": -63.4539,
         "y": -50.1082
       }
     },
     {
-      "source": "magnet",
+      "source": "magnets",
       "target": "basics",
       "curve": {
-        "x": -3.42596,
+        "x": -1.17596,
         "y": 101.22
       }
     },

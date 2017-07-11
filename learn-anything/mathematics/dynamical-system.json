@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - dynamical system",
-  "tag": "dynamical systems",
-  "description": "",
   "nodes": [
     {
       "text": "dynamical system",
@@ -31,6 +29,7 @@
     },
     {
       "text": "Simulink  ️",
+      "url": "/mathematics/dynamical-system/simulink",
       "fx": 254.89737090941935,
       "fy": 187.89131923303273,
       "category": "mindmap"

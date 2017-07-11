@@ -1,44 +1,51 @@
 {
   "title": "learn anything - web development - javascript libraries - cyclejs",
-  "tag": "cycle.js library",
-  "description": "",
   "nodes": [
     {
       "text": "cycle.js",
       "url": "https://github.com/cyclejs/cyclejs",
-      "fx": -31.82030963897705,
-      "fy": -163.87928676605225,
+      "fx": -5.26987527604274,
+      "fy": -117.23655027956579,
       "category": "github"
     },
     {
-      "text": "help",
+      "text": "articles",
       "url": "",
-      "fx": 78.54760176610773,
-      "fy": -72.84440592357089
+      "fx": 127.2592416158542,
+      "fy": -10.419397865853512
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -23.684802918820765,
-      "fy": 20.91684882337057
+      "fx": -31.99272974808889,
+      "fy": 99.33481757337057
     }
   ],
   "subnodes": [
     {
-      "text": "awesome cyclejs",
+      "text": "awesome",
       "url": "https://github.com/cyclejs-community/awesome-cyclejs",
-      "fx": 215.54760176610773,
-      "fy": -61.34440592357089,
+      "fx": 187.73012472395726,
+      "fy": -103.23655027956579,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "cycle.js"
+    },
+    {
+      "text": "17: why i’m switching from react to cycle.js  ️",
+      "url": "https://www.sitepoint.com/switching-from-react-to-cycle-js/",
+      "fx": 289.2592416158542,
+      "fy": -9.919397865853512,
+      "category": "article",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "articles"
     },
     {
       "text": "1. getting started",
       "url": "https://cycle.js.org/getting-started.html",
-      "fx": 158.31519708117924,
-      "fy": 35.41684882337057,
+      "fx": 150.0072702519111,
+      "fy": 113.83481757337057,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -48,16 +55,16 @@
       "source": "cycle.js",
       "target": "basics",
       "curve": {
-        "x": -5.18225,
-        "y": 91.1481
+        "x": -22.6115,
+        "y": 107.036
       }
     },
     {
-      "source": "help",
+      "source": "articles",
       "target": "cycle.js",
       "curve": {
-        "x": -41.184,
-        "y": -44.2674
+        "x": -58.5146,
+        "y": -52.1586
       }
     }
   ]

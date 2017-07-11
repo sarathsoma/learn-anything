@@ -1,29 +1,20 @@
 {
   "title": "learn anything - communication",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "communication",
       "note": "",
       "url": "http://www.wikiwand.com/en/Communication",
-      "fx": -85.34586808840913,
-      "fy": -403.53318295352506,
+      "fx": -162.89676770962137,
+      "fy": -401.4616867414038,
       "category": "wiki"
     },
     {
       "text": "telecommunication  ️",
       "url": "/communication/telecommunication",
-      "fx": -219.49697875976562,
-      "fy": -273.5055389404297,
+      "fx": -281.75133149869964,
+      "fy": -265.8628164101564,
       "category": "mindmap"
-    },
-    {
-      "text": "information theory",
-      "url": "http://www.wikiwand.com/en/Information_theory",
-      "fx": 28.66394092179462,
-      "fy": -269.25419597186703,
-      "category": "wiki"
     }
   ],
   "subnodes": [],
@@ -32,16 +23,8 @@
       "source": "communication",
       "target": "telecommunication  ️",
       "curve": {
-        "x": -65.5756,
-        "y": 65.0138
-      }
-    },
-    {
-      "source": "communication",
-      "target": "information theory",
-      "curve": {
-        "x": 49.2549,
-        "y": 65.8895
+        "x": -57.9273,
+        "y": 67.7994
       }
     }
   ]

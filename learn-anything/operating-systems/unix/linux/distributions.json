@@ -1,7 +1,5 @@
 {
   "title": "learn anything - operating systems - unix - linux - distributions",
-  "tag": "linux distributions",
-  "description": "",
   "nodes": [
     {
       "text": "distributions",
@@ -40,6 +38,7 @@
     },
     {
       "text": "gentoo  ️",
+      "url": "/operating-systems/unix/linux/distributions/gentoo",
       "fx": 248.37412537179512,
       "fy": -230.71368734114571,
       "category": "mindmap"
@@ -114,6 +113,7 @@
     },
     {
       "text": "ubuntu  ️",
+      "url": "/operating-systems/unix/linux/distributions/ubuntu",
       "fx": -183.253970940199,
       "fy": -130.11458534608346,
       "category": "mindmap"
@@ -134,6 +134,7 @@
     },
     {
       "text": "funtoo  ️",
+      "url": "/operating-systems/unix/linux/distributions/funtoo",
       "fx": 286.8701993272132,
       "fy": -58.81740109043875,
       "category": "mindmap"

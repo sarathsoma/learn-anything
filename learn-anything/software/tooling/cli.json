@@ -1,16 +1,39 @@
 {
   "title": "learn anything - software - tooling - cli",
-  "tag": "command line tools",
-  "description": "",
   "nodes": [
     {
       "text": "command line tools",
       "url": "https://github.com/learn-anything/command-line-tools",
-      "fx": -55.5,
-      "fy": 4,
+      "fx": 10.102679525102872,
+      "fy": 26.62735966273715,
       "category": "github"
+    },
+    {
+      "text": "find new cli tools",
+      "url": "",
+      "fx": 32.131696428571445,
+      "fy": 175.65457589287075
     }
   ],
-  "subnodes": [],
-  "connections": []
+  "subnodes": [
+    {
+      "text": "awesome cli apps",
+      "url": "https://github.com/aharris88/awesome-cli-apps",
+      "fx": 281.13169642857144,
+      "fy": 187.15457589287075,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "find new cli tools"
+    }
+  ],
+  "connections": [
+    {
+      "source": "command line tools",
+      "target": "find new cli tools",
+      "curve": {
+        "x": -2.73549,
+        "y": 73.2636
+      }
+    }
+  ]
 }

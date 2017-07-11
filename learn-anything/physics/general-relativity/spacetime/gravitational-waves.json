@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - physics - general relativity - spacetime - gravitational waves",
+  "nodes": [
+    {
+      "text": "gravitational waves",
+      "url": "http://www.wikiwand.com/en/Gravitational_wave",
+      "fx": 97.5234375,
+      "fy": -282.36328125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 155.5,
+      "fy": -109.84375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. gravitational waves discovery",
+      "url": "https://www.youtube.com/watch?v=hIgZG7A1fqc",
+      "fx": 311.5,
+      "fy": -98.34375,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "gravitational waves",
+      "target": "basics",
+      "curve": {
+        "x": -6.51172,
+        "y": 85.0098
+      }
+    }
+  ]
+}

@@ -1,12 +1,10 @@
 {
   "title": "learn anything - history - united states",
-  "tag": "US history",
-  "description": "",
   "nodes": [
     {
       "text": "US history",
       "url": "http://www.wikiwand.com/en/History_of_the_United_States",
-      "fx": 138.62570814640185,
+      "fx": 136.7852634348634,
       "fy": -165.0728565319704,
       "category": "wiki"
     },
@@ -16,6 +14,13 @@
       "url": "",
       "fx": 154.9935408464563,
       "fy": -29.48172982283944
+    },
+    {
+      "text": "politics of the United States",
+      "url": "http://www.wikiwand.com/en/Politics_of_the_United_States",
+      "fx": -83.53735723350223,
+      "fy": 116.32515069796955,
+      "category": "wiki"
     }
   ],
   "subnodes": [
@@ -43,8 +48,16 @@
       "source": "US history",
       "target": "basics",
       "curve": {
-        "x": -1.31608,
+        "x": -0.395858,
         "y": 66.5456
+      }
+    },
+    {
+      "source": "basics",
+      "target": "politics of the United States",
+      "curve": {
+        "x": -71.0154,
+        "y": 74.1534
       }
     }
   ]

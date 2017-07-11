@@ -1,0 +1,66 @@
+{
+  "title": "learn anything - art - music - new music - coding music",
+  "nodes": [
+    {
+      "text": "coding music",
+      "url": "",
+      "fx": -78,
+      "fy": -2
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "music for programming",
+      "url": "https://musicforprogramming.net/?one",
+      "fx": 155,
+      "fy": -89.5,
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "coding music"
+    },
+    {
+      "text": "Mome live session",
+      "url": "https://www.youtube.com/watch?v=bGoVFZck_NY",
+      "fx": 155,
+      "fy": -52.5,
+      "category": "video",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "coding music"
+    },
+    {
+      "text": "Yosi Horikawa Live Stream",
+      "url": "https://www.youtube.com/watch?v=E34S2Iihoww",
+      "fx": 155,
+      "fy": -10.5,
+      "category": "video",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "coding music"
+    },
+    {
+      "text": "Nils has a new piano",
+      "url": "http://www.youtubeonrepeat.com/watch/?v=kSLd6D0tgIQ",
+      "fx": 155,
+      "fy": 31.5,
+      "category": "video",
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "coding music"
+    },
+    {
+      "text": "OP-1 performance",
+      "url": "http://www.youtubeonrepeat.com/watch/?v=TyXoFG-HPQs&amp;list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-&amp;index=20",
+      "fx": 155,
+      "fy": 73.5,
+      "category": "video",
+      "color": "rgba(255, 254, 60, 1.0)",
+      "parent": "coding music"
+    },
+    {
+      "text": "purr generator",
+      "url": "https://purrli.com/",
+      "fx": 155,
+      "fy": 115.5,
+      "color": "rgba(169, 255, 0, 1.0)",
+      "parent": "coding music"
+    }
+  ],
+  "connections": []
+}

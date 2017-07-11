@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - web api",
-  "tag": "web APIs",
-  "description": "",
   "nodes": [
     {
       "text": "web API",
@@ -19,12 +17,14 @@
     },
     {
       "text": "WebExtensions  ️",
+      "url": "/web-development/web-api/webextensions",
       "fx": -276.57503568558803,
       "fy": -49.800838297635835,
       "category": "mindmap"
     },
     {
       "text": "WebAudio  ️",
+      "url": "/web-development/web-api/webaudio",
       "fx": -42.71469840354314,
       "fy": -49.1392899493257,
       "category": "mindmap"

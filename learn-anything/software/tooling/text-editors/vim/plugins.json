@@ -1,7 +1,5 @@
 {
   "title": "learn anything - software - tooling - text editors - vim - plugins",
-  "tag": "vim plugins",
-  "description": "",
   "nodes": [
     {
       "text": "plugin manager",

@@ -1,102 +1,108 @@
 {
   "title": "learn anything - physics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "physics",
       "url": "https://www.wikiwand.com/en/Physics",
-      "fx": 16.12369930593536,
-      "fy": -801.8273376642213,
+      "fx": 37.777835170631306,
+      "fy": -1066.617709248003,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 325.79088356789543,
-      "fy": -665.0729800449328
+      "fx": 354.6367298249279,
+      "fy": -907.09744738507
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -44.130154077671705,
-      "fy": -293.42767813186003
+      "fx": -36.42109876208815,
+      "fy": -449.54345533582887
     },
     {
       "text": "nuclear physics  ️",
       "url": "/physics/nuclear-physics",
-      "fx": -312.1314165409407,
-      "fy": -146.51108932980412,
+      "fx": -297.2552490234375,
+      "fy": -146.51209831237793,
       "category": "mindmap"
     },
     {
       "text": "particle physics  ️",
       "url": "/physics/particle-physics",
-      "fx": -555.9956667146143,
-      "fy": -145.58402258342926,
+      "fx": -530.3879547119141,
+      "fy": -145.5850315093994,
       "category": "mindmap"
     },
     {
       "text": "optics  ️",
       "url": "/physics/optics",
-      "fx": -695.1161583357712,
-      "fy": -142.73964432084313,
+      "fx": -669.4995193481445,
+      "fy": -142.7406406402588,
       "category": "mindmap"
     },
     {
       "text": "computational physics  ️",
       "url": "/physics/computational-physics",
-      "fx": -1229.1077728271484,
-      "fy": -141.9203224182129,
+      "fx": -1223.6721649169922,
+      "fy": -141.92131996154785,
       "category": "mindmap"
     },
     {
       "text": "orbital mechanics  ️",
       "url": "/physics/orbital-mechanics",
-      "fx": -936.6499013253866,
-      "fy": -140.35153867231884,
-      "category": "mindmap"
-    },
-    {
-      "text": "condensed matter physics  ️",
-      "url": "/physics/condensed-matter-physics",
-      "fx": -1546.8535067873304,
-      "fy": -138.4277432126696,
+      "fx": -922.5928497314453,
+      "fy": -140.3525447845459,
       "category": "mindmap"
     },
     {
       "text": "electromagnetism  ️",
       "url": "/physics/electromagnetism",
-      "fx": -2025.7175348285432,
-      "fy": -137.24710255107948,
+      "fx": -2036.8737182617188,
+      "fy": -137.24810600280762,
       "category": "mindmap"
     },
     {
       "text": "polymer physics  ️",
       "url": "/physics/polymer-physics",
-      "fx": -1772.0425874233792,
-      "fy": -135.14295238688328,
+      "fx": -1781.7949829101562,
+      "fy": -135.14395713806152,
       "category": "mindmap"
     },
     {
       "text": "energy  ️",
       "url": "/physics/energy",
-      "fx": -2459.7098388671875,
-      "fy": -133.3791103363037,
+      "fx": -2480.0777587890625,
+      "fy": -133.38010787963867,
       "category": "mindmap"
     },
     {
       "text": "continuum mechanics  ️",
       "url": "/physics/continuum-mechanics",
-      "fx": -2311.806402439023,
-      "fy": -131.94073932926858,
+      "fx": -2334.9664306640625,
+      "fy": -131.9417381286621,
+      "category": "mindmap"
+    },
+    {
+      "text": "time  ️",
+      "url": "/physics/time",
+      "fx": -2757.919737590926,
+      "fy": -128.6337836964915,
       "category": "mindmap"
     },
     {
       "text": "matter  ️",
-      "fx": -2593.8492144808743,
-      "fy": -128.08179644808752,
+      "url": "/physics/matter",
+      "fx": -2620.2103576660156,
+      "fy": -128.08279991149902,
+      "category": "mindmap"
+    },
+    {
+      "text": "condensed matter physics  ️",
+      "url": "/physics/condensed-matter-physics",
+      "fx": -1541.7431640625,
+      "fy": -138.44323348999023,
       "category": "mindmap"
     },
     {
@@ -107,59 +113,67 @@
       "category": "wiki"
     },
     {
-      "text": "quantum mechanics  ️",
-      "note": "is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  quantum mechanics differs from classical physics in that energy, momentum and other quantities are often restricted to discrete values (quantisation), objects have characteristics of both particles and waves (wave-particle duality) and there are limits to the precision with which quantities can be  known (uncertainty principle)",
-      "url": "/physics/quantum-mechanics",
-      "fx": -624.253203837276,
-      "fy": 160.44209103266996,
+      "text": "statistical mechanics  ️",
+      "url": "/physics/statistical-mechanics",
+      "fx": -1209.5698547363281,
+      "fy": 157.50132751464844,
       "category": "mindmap"
     },
     {
       "text": "classical mechanics  ️",
       "url": "/physics/classical-mechanics",
-      "fx": -1152.1593763680798,
-      "fy": 160.88330090696377,
+      "fx": -917.2896728515625,
+      "fy": 158.1010513305664,
       "category": "mindmap"
     },
     {
-      "text": "statistical mechanics",
-      "url": "http://www.wikiwand.com/en/Statistical_mechanics",
-      "fx": -888.0104771857171,
-      "fy": 161.27739903415545,
+      "text": "quantum mechanics  ️",
+      "note": "is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  quantum mechanics differs from classical physics in that energy, momentum and other quantities are often restricted to discrete values (quantisation), objects have characteristics of both particles and waves (wave-particle duality) and there are limits to the precision with which quantities can be  known (uncertainty principle)",
+      "url": "/physics/quantum-mechanics",
+      "fx": -632.2173309326172,
+      "fy": 160.44109344482422,
+      "category": "mindmap"
+    },
+    {
+      "text": "electromagnetism  ️",
+      "url": "/physics/electromagnetism",
+      "fx": -324.15822982788086,
+      "fy": 163.09064865112305,
+      "category": "mindmap"
+    },
+    {
+      "text": "theory of relativity",
+      "url": "http://www.wikiwand.com/en/Theory_of_relativity",
+      "fx": -54.76353517527832,
+      "fy": 164.36338012253555,
       "category": "wiki"
     },
     {
       "text": "thermodynamics  ️",
       "url": "/physics/thermodynamics",
-      "fx": 344.26675598528504,
-      "fy": 162.84724588831727,
-      "category": "mindmap"
-    },
-    {
-      "text": "electromagnetism",
-      "url": "http://www.wikiwand.com/en/Electromagnetism",
-      "fx": -339.2953277934687,
-      "fy": 163.09163665771507,
-      "category": "wiki"
-    },
-    {
-      "text": "general relativity  ️",
-      "url": "/physics/general-relativity",
-      "fx": 116.38920923303908,
-      "fy": 164.38687969622674,
+      "fx": 200.8350067138672,
+      "fy": 168.09235382080078,
       "category": "mindmap"
     },
     {
       "text": "special relativity  ️",
       "url": "/physics/special-relativity",
-      "fx": -103.2223888744013,
-      "fy": 164.4779739379885,
+      "fx": -287.1984990574101,
+      "fy": 324.02148463646154,
       "category": "mindmap"
     },
     {
-      "text": "statistical mechanics  ️",
-      "fx": -1418.120812218476,
-      "fy": 165.3265413851359,
+      "text": "general relativity  ️",
+      "url": "/physics/general-relativity",
+      "fx": -51.699026107788086,
+      "fy": 325.37364959716797,
+      "category": "mindmap"
+    },
+    {
+      "text": "time dilation  ️",
+      "url": "/physics/time-dilation",
+      "fx": 182.42899359065723,
+      "fy": 326.08427605773363,
       "category": "mindmap"
     }
   ],
@@ -167,174 +181,174 @@
     {
       "text": "️",
       "url": "https://physics.stackexchange.com/",
-      "fx": 211.12369930593536,
-      "fy": -827.8273376642213,
+      "fx": 243.7778351706313,
+      "fy": -1094.617709248003,
       "category": "stack exchange",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "physics"
     },
     {
       "text": "",
       "url": "https://www.reddit.com/r/Physics/",
-      "fx": 211.12369930593536,
-      "fy": -787.8273376642213,
+      "fx": 243.7778351706313,
+      "fy": -1052.617709248003,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "physics"
     },
     {
       "text": "physics gifs",
       "url": "https://www.reddit.com/r/physicsgifs/",
-      "fx": 211.12369930593536,
-      "fy": -747.8273376642213,
+      "fx": 243.7778351706313,
+      "fy": -1010.6177092480029,
       "category": "reddit",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "physics"
     },
     {
       "text": "uni physics notes",
       "url": "https://github.com/joebentley/physics",
-      "fx": 462.79088356789543,
-      "fy": -687.5729800449328,
+      "fx": 495.6367298249279,
+      "fy": -944.09744738507,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "the theoretical minimum courses",
       "url": "http://theoreticalminimum.com/courses",
-      "fx": 462.79088356789543,
-      "fy": -647.5729800449328,
-      "color": "rgba(36, 170, 255, 1.0)",
+      "fx": 495.6367298249279,
+      "fy": -902.09744738507,
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "study tips for physics students",
       "url": "http://www2.oberlin.edu/physics/dstyer/StudyTips.html",
-      "fx": 462.79088356789543,
-      "fy": -613.5729800449328,
-      "color": "rgba(255, 189, 10, 1.0)",
+      "fx": 495.6367298249279,
+      "fy": -840.09744738507,
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. map of physics",
       "note": "this will give you an overview of how vast the field is and will spark your interest",
       "url": "https://www.youtube.com/watch?v=ZihywtixUYo&amp;feature=youtu.be",
-      "fx": 137.8698459223283,
-      "fy": -576.92767813186,
+      "fx": 152.57890123791185,
+      "fy": -801.5434553358289,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. how to become a good theoretical physicist  ️",
       "note": "amazing piece written by a physicist on how to best approach learning physics",
       "url": "http://www.staff.science.uu.nl/%7Egadda001/goodtheorist/index.html",
-      "fx": 137.8698459223283,
-      "fy": -536.92767813186,
+      "fx": 152.57890123791185,
+      "fy": -759.5434553358289,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. so you want to learn physics  ️",
       "url": "https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics",
-      "fx": 137.8698459223283,
-      "fy": -474.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -692.5434553358289,
       "category": "article",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. the astonishing simplicity of everything",
       "url": "https://www.youtube.com/watch?v=JV7K8CvA26I",
-      "fx": 137.8698459223283,
-      "fy": -434.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -625.5434553358289,
       "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. the character of physical law",
       "url": "http://people.virginia.edu/~ecd3m/1110/Fall2014/The_Character_of_Physical_Law.pdf",
-      "fx": 137.8698459223283,
-      "fy": -372.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -558.5434553358289,
       "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. university physics text book",
       "note": "44 chapters of everything physics  as it is a text book, it has a lot of exercises which are very helpful to actually consolidate your understanding",
       "url": "https://www.goodreads.com/book/show/125139.University_Physics_with_Modern_Physics",
-      "fx": 137.8698459223283,
-      "fy": -332.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -491.54345533582887,
       "category": "non-free book",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. the Feynman lectures on physics",
       "url": "http://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics",
-      "fx": 137.8698459223283,
-      "fy": -292.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -424.54345533582887,
       "category": "non-free book",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. khan academy physics",
       "note": "watch the videos and work through the exercises, they are very important",
       "url": "https://www.khanacademy.org/science/physics",
-      "fx": 137.8698459223283,
-      "fy": -252.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -357.54345533582887,
       "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. crash course physics",
       "url": "https://www.youtube.com/watch?v=ZM8ECpBuQYE&amp;list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV&amp;index=1",
-      "fx": 137.8698459223283,
-      "fy": -212.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -315.54345533582887,
       "category": "video",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. mit physics I: classical mechanics",
       "url": "https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e",
-      "fx": 137.8698459223283,
-      "fy": -172.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -273.54345533582887,
       "category": "",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
     {
       "text": "3. modern physics: classical mechanics",
       "url": "https://www.youtube.com/watch?v=pyX8kQ-JzHI&amp;list=PLQrxduI9Pds1fm91Dmn8x1lo-O_kpZGk8",
-      "fx": 137.8698459223283,
-      "fy": -110.92767813186003,
+      "fx": 152.57890123791185,
+      "fy": -206.54345533582887,
       "category": "",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     },
     {
       "text": "3. mathematics for physics",
       "url": "http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf",
-      "fx": 137.8698459223283,
-      "fy": -48.927678131860034,
+      "fx": 152.57890123791185,
+      "fy": -139.54345533582887,
       "category": "free book",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "basics"
     },
     {
       "text": "4. lectures on theoretical physics by David Tong",
       "url": "http://www.damtp.cam.ac.uk/user/tong/teaching.html",
-      "fx": 137.8698459223283,
-      "fy": -8.927678131860034,
+      "fx": 152.57890123791185,
+      "fy": -97.54345533582887,
       "category": "video",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -343,176 +357,192 @@
       "source": "physics",
       "target": "basics",
       "curve": {
-        "x": -39.877,
-        "y": 252.95
+        "x": -46.8495,
+        "y": 307.287
       }
     },
     {
       "source": "basics",
       "target": "nuclear physics  ️",
       "curve": {
-        "x": -114.061,
-        "y": 82.492
+        "x": -110.477,
+        "y": 160.549
       }
     },
     {
       "source": "theoretical physics",
       "target": "classical mechanics  ️",
       "curve": {
-        "x": -527.204,
-        "y": 62.4659
+        "x": -409.769,
+        "y": 61.0748
       }
     },
     {
       "source": "basics",
       "target": "theoretical physics",
       "curve": {
-        "x": -66.2968,
-        "y": 137.946
-      }
-    },
-    {
-      "source": "theoretical physics",
-      "target": "statistical mechanics",
-      "curve": {
-        "x": -316.143,
-        "y": 90.6574
+        "x": -44.2073,
+        "y": 249.185
       }
     },
     {
       "source": "theoretical physics",
       "target": "quantum mechanics  ️",
       "curve": {
-        "x": -185.015,
-        "y": 90.2397
+        "x": -188.997,
+        "y": 90.2392
       }
     },
     {
       "source": "theoretical physics",
-      "target": "electromagnetism",
+      "target": "electromagnetism  ️",
       "curve": {
-        "x": -48.2857,
-        "y": 91.5645
-      }
-    },
-    {
-      "source": "theoretical physics",
-      "target": "special relativity  ️",
-      "curve": {
-        "x": 64.5014,
-        "y": 92.2576
+        "x": -40.7172,
+        "y": 91.564
       }
     },
     {
       "source": "theoretical physics",
       "target": "thermodynamics  ️",
       "curve": {
-        "x": 307.504,
-        "y": 91.4422
+        "x": 235.788,
+        "y": 94.0647
       }
     },
     {
       "source": "help",
       "target": "physics",
       "curve": {
-        "x": -128.094,
-        "y": -38.131
-      }
-    },
-    {
-      "source": "theoretical physics",
-      "target": "general relativity  ️",
-      "curve": {
-        "x": 175.307,
-        "y": 92.2122
+        "x": -131.69,
+        "y": -49.514
       }
     },
     {
       "source": "basics",
       "target": "particle physics  ️",
       "curve": {
-        "x": -241.933,
-        "y": 73.9219
+        "x": -232.984,
+        "y": 151.979
       }
     },
     {
       "source": "basics",
       "target": "optics  ️",
       "curve": {
-        "x": -466.757,
-        "y": 73.8515
+        "x": -457.803,
+        "y": 151.909
       }
     },
     {
       "source": "basics",
       "target": "orbital mechanics  ️",
       "curve": {
-        "x": -619.378,
-        "y": 78.053
+        "x": -616.204,
+        "y": 156.11
       }
     },
     {
       "source": "basics",
       "target": "computational physics  ️",
       "curve": {
-        "x": -694.317,
-        "y": 22.8474
+        "x": -695.454,
+        "y": 100.905
       }
     },
     {
       "source": "basics",
       "target": "condensed matter physics  ️",
       "curve": {
-        "x": -998.331,
-        "y": 5.51647
+        "x": -999.63,
+        "y": 83.5666
       }
     },
     {
       "source": "basics",
       "target": "polymer physics  ️",
       "curve": {
-        "x": -1147.41,
-        "y": -31.3925
+        "x": -1156.14,
+        "y": 46.6649
       }
     },
     {
       "source": "basics",
       "target": "electromagnetism  ️",
       "curve": {
-        "x": -1096.9,
-        "y": -84.5678
+        "x": -1106.33,
+        "y": -6.51041
       }
     },
     {
       "source": "basics",
       "target": "continuum mechanics  ️",
       "curve": {
-        "x": -1560.03,
-        "y": 21.7064
+        "x": -1575.46,
+        "y": 99.7638
       }
     },
     {
       "source": "basics",
       "target": "energy  ️",
       "curve": {
-        "x": -1368.31,
-        "y": -104.032
+        "x": -1797.56,
+        "y": 75.6412
       }
     },
     {
       "source": "basics",
       "target": "matter  ️",
       "curve": {
-        "x": -1831.56,
-        "y": -74.9787
+        "x": -1848.6,
+        "y": 3.07869
       }
     },
     {
       "source": "theoretical physics",
       "target": "statistical mechanics  ️",
       "curve": {
-        "x": -793.601,
-        "y": 48.9287
+        "x": -689.325,
+        "y": 45.0161
+      }
+    },
+    {
+      "source": "theoretical physics",
+      "target": "theory of relativity",
+      "curve": {
+        "x": 92.2304,
+        "y": 92.2004
+      }
+    },
+    {
+      "source": "theory of relativity",
+      "target": "special relativity  ️",
+      "curve": {
+        "x": -120.717,
+        "y": 79.8291
+      }
+    },
+    {
+      "source": "theory of relativity",
+      "target": "general relativity  ️",
+      "curve": {
+        "x": -2.21775,
+        "y": 80.5051
+      }
+    },
+    {
+      "source": "theory of relativity",
+      "target": "time dilation  ️",
+      "curve": {
+        "x": 97.3463,
+        "y": 80.1104
+      }
+    },
+    {
+      "source": "basics",
+      "target": "time  ️",
+      "curve": {
+        "x": -1993.53,
+        "y": 78.9266
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - network science - computer networking - protocols - ipfs",
-  "tag": "IPFS",
-  "description": "",
   "nodes": [
     {
       "text": "InterPlanetary File System",
@@ -29,25 +27,25 @@
       "text": "",
       "url": "https://www.reddit.com/r/ipfs/",
       "fx": 247.4941878019323,
-      "fy": -143.08944746376812,
+      "fy": -163.08944746376812,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "InterPlanetary File System"
     },
     {
-      "text": "awesome ipfs",
+      "text": "awesome",
       "url": "https://github.com/ipfs/awesome-ipfs",
-      "fx": 267.0676076216399,
-      "fy": -43.52147429461638,
+      "fx": 247.4941878019323,
+      "fy": -123.08944746376812,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "InterPlanetary File System"
     },
     {
       "text": "IFPS discuss",
       "url": "https://discuss.ipfs.io/",
       "fx": 267.0676076216399,
-      "fy": -3.5214742946163824,
+      "fy": -23.521474294616382,
       "category": "",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"

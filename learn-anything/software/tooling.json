@@ -1,61 +1,73 @@
 {
   "title": "learn anything - software - tooling",
-  "tag": "software tooling",
-  "description": "",
   "nodes": [
     {
       "text": "software tooling",
       "note": " ",
       "url": "",
       "fx": -19.950654871323536,
-      "fy": -447.0748430008655
+      "fy": -510.15257409330246
     },
     {
       "text": "help",
       "url": "",
-      "fx": 338.07872270840903,
-      "fy": -378.07572570822805
+      "fx": 285.69229938908165,
+      "fy": -417.5419809603289
+    },
+    {
+      "text": "development environment  ️",
+      "url": "/software/tooling/development-environment",
+      "fx": 278.1643743434877,
+      "fy": -239.055643546481,
+      "category": "mindmap"
     },
     {
       "text": "productivity  ️",
       "url": "/software/tooling/productivity",
-      "fx": 77.63021469116211,
-      "fy": -201.91950225830078,
+      "fx": -195.7916603088379,
+      "fy": -238.32575225830078,
       "category": "mindmap"
     },
     {
       "text": "IDE  ️",
       "url": "/software/tooling/ide",
-      "fx": -29.514838899482015,
-      "fy": -201.81884898340928,
+      "fx": -302.936713899482,
+      "fy": -238.22509898340928,
       "category": "mindmap"
     },
     {
       "text": "spreadsheets  ️",
       "url": "/software/tooling/spreadsheets",
-      "fx": -430.7853760822511,
-      "fy": -201.49627130681813,
+      "fx": -700.176155090332,
+      "fy": -237.90253067016602,
       "category": "mindmap"
     },
     {
       "text": "text editors  ️",
       "url": "/software/tooling/text-editors",
-      "fx": -209.77818391515848,
-      "fy": -201.39502407078606,
+      "fx": -483.2000589151585,
+      "fy": -237.80127407078606,
       "category": "mindmap"
     },
     {
       "text": "cli  ️",
       "url": "/software/tooling/cli",
-      "fx": 260.56254334770176,
-      "fy": -201.1878186959691,
+      "fx": -12.859331652298238,
+      "fy": -237.5940686959691,
+      "category": "mindmap"
+    },
+    {
+      "text": "application generators  ️",
+      "url": "/software/tooling/application-generators",
+      "fx": -976.3132218070643,
+      "fy": -237.32611692777266,
       "category": "mindmap"
     },
     {
       "text": "messaging  ️",
       "url": "/software/tooling/messaging",
-      "fx": 377.41748046875,
-      "fy": -199.234375,
+      "fx": 102.5003433227539,
+      "fy": -235.60425186157227,
       "category": "mindmap"
     }
   ],
@@ -63,26 +75,17 @@
     {
       "text": "tools for web",
       "url": "https://github.com/lvwzhen/tools",
-      "fx": 475.07872270840903,
-      "fy": -406.57572570822805,
+      "fx": 422.69229938908165,
+      "fy": -426.0419809603289,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome dev env",
-      "url": "https://github.com/jondot/awesome-devenv",
-      "fx": 475.07872270840903,
-      "fy": -366.57572570822805,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "tools of the trade",
       "url": "https://github.com/cjbarber/ToolsOfTheTrade",
-      "fx": 475.07872270840903,
-      "fy": -326.57572570822805,
+      "fx": 422.69229938908165,
+      "fy": -386.0419809603289,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -93,56 +96,72 @@
       "source": "software tooling",
       "target": "text editors  ️",
       "curve": {
-        "x": -98.4137,
-        "y": 124.09
+        "x": -235.125,
+        "y": 137.426
       }
     },
     {
       "source": "software tooling",
       "target": "cli  ️",
       "curve": {
-        "x": 124.718,
-        "y": 122.943
+        "x": -11.9929,
+        "y": 136.279
       }
     },
     {
       "source": "software tooling",
       "target": "IDE  ️",
       "curve": {
-        "x": -25.5321,
-        "y": 123.878
+        "x": -162.243,
+        "y": 137.214
       }
     },
     {
       "source": "software tooling",
       "target": "productivity  ️",
       "curve": {
-        "x": 38.7905,
-        "y": 122.578
+        "x": -97.9204,
+        "y": 135.914
       }
     },
     {
       "source": "software tooling",
       "target": "messaging  ️",
       "curve": {
-        "x": 190.934,
-        "y": 123.92
-      }
-    },
-    {
-      "source": "help",
-      "target": "software tooling",
-      "curve": {
-        "x": -146.265,
-        "y": -34.4995
+        "x": 53.4754,
+        "y": 137.274
       }
     },
     {
       "source": "software tooling",
       "target": "spreadsheets  ️",
       "curve": {
-        "x": -217.417,
-        "y": 122.789
+        "x": -352.112,
+        "y": 136.125
+      }
+    },
+    {
+      "source": "software tooling",
+      "target": "development environment  ️",
+      "curve": {
+        "x": 165.058,
+        "y": 135.548
+      }
+    },
+    {
+      "source": "help",
+      "target": "software tooling",
+      "curve": {
+        "x": -120.072,
+        "y": -46.3052
+      }
+    },
+    {
+      "source": "software tooling",
+      "target": "application generators  ️",
+      "curve": {
+        "x": -503.862,
+        "y": 103.016
       }
     }
   ]

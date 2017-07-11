@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer science - compilers",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "compilers",
@@ -30,37 +28,53 @@
       "fy": -17.5406407253854
     },
     {
+      "text": "optimising compiler  ️",
+      "url": "/computer-science/compilers/optimising-compiler",
+      "fx": 243.4769615565715,
+      "fy": 160.7970011821867,
+      "category": "mindmap"
+    },
+    {
       "text": "interpreter  ️",
-      "fx": -322.89827118223104,
-      "fy": 67.45940183259995,
+      "url": "/computer-science/compilers/interpreter",
+      "fx": -398.27717743223104,
+      "fy": 162.12737058259995,
       "category": "mindmap"
     },
     {
       "text": "just-in-time compilation  ️",
       "url": "/computer-science/compilers/just-in-time-compilation",
-      "fx": -332.4765094094741,
-      "fy": 182.2853649204353,
+      "fx": -389.5155719094741,
+      "fy": 247.2306774204353,
+      "category": "mindmap"
+    },
+    {
+      "text": "bootstrapping  ️",
+      "url": "/computer-science/compilers/bootstrapping",
+      "fx": 190.564881781356,
+      "fy": 248.90431186061403,
       "category": "mindmap"
     },
     {
       "text": "lexical analysis  ️",
-      "fx": 138.61794956088852,
-      "fy": 201.79149434379872,
+      "url": "/computer-science/compilers/lexical-analysis",
+      "fx": 86.16613758609833,
+      "fy": 344.5118199740509,
       "category": "mindmap"
     },
     {
       "text": "LLVM  ️",
       "note": "is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  this new IR can then be converted and linked into machine-dependent assembly language code for a target platform",
       "url": "/computer-science/compilers/llvm",
-      "fx": -135.96050750620145,
-      "fy": 279.9438193028583,
+      "fx": -192.99957000620145,
+      "fy": 344.8891318028583,
       "category": "mindmap"
     },
     {
       "text": "intermediate representation",
       "url": "http://www.wikiwand.com/en/Intermediate_representation",
-      "fx": -40.476681819407986,
-      "fy": 358.28330579324665,
+      "fx": -116.89855681940799,
+      "fy": 430.35361829324665,
       "category": "wiki"
     }
   ],
@@ -185,40 +199,56 @@
       "source": "basics",
       "target": "intermediate representation",
       "curve": {
-        "x": 19.4907,
-        "y": 189.162
+        "x": -18.7202,
+        "y": 225.197
       }
     },
     {
       "source": "basics",
       "target": "LLVM  ️",
       "curve": {
-        "x": -77.7175,
-        "y": 178.821
+        "x": -106.237,
+        "y": 211.294
       }
     },
     {
       "source": "basics",
       "target": "just-in-time compilation  ️",
       "curve": {
-        "x": -149.009,
-        "y": 99.9133
+        "x": -177.529,
+        "y": 132.386
       }
     },
     {
       "source": "basics",
       "target": "interpreter  ️",
       "curve": {
-        "x": -173.97,
-        "y": 42.5
+        "x": -211.659,
+        "y": 89.834
       }
     },
     {
       "source": "basics",
       "target": "lexical analysis  ️",
       "curve": {
-        "x": 66.7885,
-        "y": 109.666
+        "x": 40.5626,
+        "y": 181.027
+      }
+    },
+    {
+      "source": "basics",
+      "target": "bootstrapping  ️",
+      "curve": {
+        "x": 84.5942,
+        "y": 144.705
+      }
+    },
+    {
+      "source": "basics",
+      "target": "optimising compiler  ️",
+      "curve": {
+        "x": 104.504,
+        "y": 110.566
       }
     }
   ]

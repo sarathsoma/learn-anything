@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - mathematics - geometry - coordinate systems",
+  "nodes": [
+    {
+      "text": "coordinate systems",
+      "url": "http://www.wikiwand.com/en/Coordinate_system",
+      "fx": 254.30757615546224,
+      "fy": -162.2214417016807,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 329.10523897059545,
+      "fy": -1.450498949560199
+    },
+    {
+      "text": "dimensions  ️",
+      "url": "/mathematics/geometry/coordinate-systems/dimensions",
+      "fx": 211.07890820801765,
+      "fy": 125.93840068922395,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. three dimensional coordinate systems",
+      "url": "https://www.youtube.com/watch?v=vZNtoloJbEI",
+      "fx": 491.10523897059545,
+      "fy": -1.450498949560199,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "coordinate systems",
+      "target": "basics",
+      "curve": {
+        "x": -2.85117,
+        "y": 79.6355
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dimensions  ️",
+      "curve": {
+        "x": -46.7632,
+        "y": 63.6944
+      }
+    }
+  ]
+}

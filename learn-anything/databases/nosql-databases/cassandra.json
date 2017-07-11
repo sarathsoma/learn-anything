@@ -1,7 +1,5 @@
 {
   "title": "learn anything - databases - nosql databases - cassandra",
-  "tag": "apache cassandra",
-  "description": "",
   "nodes": [
     {
       "text": "cassandra",

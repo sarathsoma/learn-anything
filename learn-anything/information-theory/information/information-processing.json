@@ -1,0 +1,90 @@
+{
+  "title": "learn anything - information theory - information - information processing",
+  "nodes": [
+    {
+      "text": "information processing",
+      "url": "http://www.wikiwand.com/en/Information_processing",
+      "fx": 79.10352422907499,
+      "fy": -100.57275605726886,
+      "category": "wiki"
+    },
+    {
+      "text": "code",
+      "url": "http://www.wikiwand.com/en/Code",
+      "fx": -52.70828744493372,
+      "fy": 55.920567180613205,
+      "category": "wiki"
+    },
+    {
+      "text": "character encoding  ️",
+      "url": "/information-theory/information/information-processing/character-encoding",
+      "fx": 88.14268997797456,
+      "fy": 58.23650881056852,
+      "category": "mindmap"
+    },
+    {
+      "text": "morse code  ️",
+      "url": "/information-theory/information/information-processing/morse-code",
+      "fx": -188.96347045898438,
+      "fy": 194.33154678344727,
+      "category": "mindmap"
+    },
+    {
+      "text": "barcodes  ️",
+      "url": "/information-theory/information/information-processing/barcodes",
+      "fx": -349.1075067934818,
+      "fy": 194.58101222826036,
+      "category": "mindmap"
+    },
+    {
+      "text": "prefix codes  ️",
+      "url": "/information-theory/information/information-processing/prefix-codes",
+      "fx": 2.5224609375,
+      "fy": 194.9521484375,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "information processing",
+      "target": "code",
+      "curve": {
+        "x": -112.906,
+        "y": 76.9967
+      }
+    },
+    {
+      "source": "information processing",
+      "target": "character encoding  ️",
+      "curve": {
+        "x": -2.98042,
+        "y": 79.4046
+      }
+    },
+    {
+      "source": "code",
+      "target": "morse code  ️",
+      "curve": {
+        "x": -52.6276,
+        "y": 69.2055
+      }
+    },
+    {
+      "source": "code",
+      "target": "prefix codes  ️",
+      "curve": {
+        "x": 36.6154,
+        "y": 68.2658
+      }
+    },
+    {
+      "source": "code",
+      "target": "barcodes  ️",
+      "curve": {
+        "x": -177.383,
+        "y": 51.6485
+      }
+    }
+  ]
+}

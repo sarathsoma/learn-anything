@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - analysis - real analysis",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "real analysis",
@@ -14,16 +12,16 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 195.5172625545805,
-      "fy": 12.094022925757372
+      "fx": 187.79687499999545,
+      "fy": 22.089929039294418
     }
   ],
   "subnodes": [
     {
       "text": "1. real analysis",
       "url": "https://www.youtube.com/watch?v=sqEyWLGvvdw&amp;list=PL04BA7A9EB907EDAF",
-      "fx": 377.5172625545805,
-      "fy": 3.594022925757372,
+      "fx": 369.79687499999545,
+      "fy": -6.410070960705582,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -31,10 +29,19 @@
     {
       "text": "1. introductory real analysis",
       "url": "http://www.goodreads.com/book/show/218517.Introductory_Real_Analysis",
-      "fx": 377.5172625545805,
-      "fy": 43.59402292575737,
+      "fx": 369.79687499999545,
+      "fy": 33.58992903929442,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. self study real analysis",
+      "url": "https://www.youtube.com/watch?v=xO_sIS2nEGg",
+      "fx": 369.79687499999545,
+      "fy": 73.58992903929442,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -43,8 +50,8 @@
       "source": "real analysis",
       "target": "basics",
       "curve": {
-        "x": -6.09351,
-        "y": 61.6907
+        "x": -9.9537,
+        "y": 66.6887
       }
     }
   ]

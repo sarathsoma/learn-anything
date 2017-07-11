@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - graph theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "graph theory",
@@ -22,6 +20,13 @@
       "url": "",
       "fx": -55.999657435830045,
       "fy": -5.839242869913676
+    },
+    {
+      "text": "graphs  ️",
+      "url": "/mathematics/graph-theory/graphs",
+      "fx": -174.31050097911213,
+      "fy": 144.97992819843364,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -86,6 +91,14 @@
       "curve": {
         "x": -59.0826,
         "y": -57.5518
+      }
+    },
+    {
+      "source": "basics",
+      "target": "graphs  ️",
+      "curve": {
+        "x": -57.1554,
+        "y": 76.6596
       }
     }
   ]

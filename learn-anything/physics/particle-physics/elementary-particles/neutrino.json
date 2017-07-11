@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - particle physics - elementary particles - neutrino",
-  "tag": "neutrino particles",
-  "description": "",
   "nodes": [
     {
       "text": "neutrino",
@@ -18,6 +16,7 @@
     },
     {
       "text": "neutrino oscillations  ️",
+      "url": "/physics/particle-physics/elementary-particles/neutrino/neutrino-oscillations",
       "fx": -146.68469807710835,
       "fy": 207.157805596275,
       "category": "mindmap"

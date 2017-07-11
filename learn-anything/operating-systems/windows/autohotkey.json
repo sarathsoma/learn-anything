@@ -1,20 +1,12 @@
 {
   "title": "learn anything - operating systems - windows - autohotkey",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "autohotkey",
       "url": "http://www.wikiwand.com/en/AutoHotkey",
-      "fx": -214.69531250000006,
-      "fy": -113.72265625,
+      "fx": -215.8495321327684,
+      "fy": -81.35374735169489,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -83.65573937908493,
-      "fy": -14.135671977124218
     },
     {
       "text": "basics",
@@ -27,20 +19,20 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/AutoHotkey/",
-      "fx": 13.304687499999943,
-      "fy": -99.72265625,
+      "fx": 12.150467867231612,
+      "fy": -87.35374735169489,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "autohotkey"
     },
     {
-      "text": "awesome autohotkey",
+      "text": "awesome",
       "url": "https://github.com/ahkscript/awesome-AutoHotkey",
-      "fx": 53.344260620915065,
-      "fy": -2.6356719771242183,
+      "fx": 12.150467867231612,
+      "fy": -47.35374735169489,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "autohotkey"
     },
     {
       "text": "1. beginner tutorial",
@@ -53,19 +45,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "autohotkey",
-      "curve": {
-        "x": -42.7698,
-        "y": -48.5435
-      }
-    },
-    {
       "source": "autohotkey",
       "target": "basics",
       "curve": {
-        "x": -1.72901,
-        "y": 100.733
+        "x": -1.1519,
+        "y": 84.5485
       }
     }
   ]

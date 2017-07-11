@@ -1,7 +1,5 @@
 {
   "title": "learn anything - natural language processing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "natural language processing",
@@ -32,12 +30,14 @@
     },
     {
       "text": "automatic summarisation  ️",
+      "url": "/natural-language-processing/automatic-summarisation",
       "fx": -561.4237761203123,
       "fy": 236.74097507044553,
       "category": "mindmap"
     },
     {
       "text": "text classification  ️",
+      "url": "/natural-language-processing/text-classification",
       "fx": -250.25875689252473,
       "fy": 237.2090655363312,
       "category": "mindmap"
@@ -45,28 +45,28 @@
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/keon/awesome-nlp",
+      "fx": 274.12111602489676,
+      "fy": -292.8074902630834,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "natural language processing"
+    },
+    {
       "text": "practical natural language processing done in ruby",
       "url": "https://github.com/arbox/nlp-with-ruby",
       "fx": 232.09252884352065,
-      "fy": -214.05207688084153,
+      "fy": -194.05207688084153,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome nlp",
-      "url": "https://github.com/keon/awesome-nlp",
-      "fx": 232.09252884352065,
-      "fy": -152.05207688084153,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "speech language processing",
       "url": "https://github.com/edobashira/speech-language-processing",
       "fx": 232.09252884352065,
-      "fy": -112.05207688084153,
+      "fy": -132.05207688084153,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"

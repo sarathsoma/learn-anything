@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - python - python libraries",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "python libraries",
@@ -87,11 +85,11 @@
       "category": "mindmap"
     },
     {
-      "text": "SQLAlchemy",
-      "url": "https://github.com/dahlia/awesome-sqlalchemy",
-      "fx": -7.188097735646579,
+      "text": "SQLAlchemy  ️",
+      "url": "/programming/programming-languages/python/python-libraries/sqlalchemy",
+      "fx": -6.188097735646579,
       "fy": 358.7872069920761,
-      "category": "github"
+      "category": "mindmap"
     },
     {
       "text": "tornado",
@@ -114,23 +112,14 @@
       "fy": -36.295654296875,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "scipy"
-    },
-    {
-      "text": "awesome SQLAlachemy",
-      "url": "https://github.com/dahlia/awesome-sqlalchemy",
-      "fx": 237.81190226435342,
-      "fy": 372.7872069920761,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "SQLAlchemy"
     }
   ],
   "connections": [
     {
       "source": "database",
-      "target": "SQLAlchemy",
+      "target": "SQLAlchemy  ️",
       "curve": {
-        "x": 62.8213,
+        "x": 63.3213,
         "y": 61.3273
       }
     },

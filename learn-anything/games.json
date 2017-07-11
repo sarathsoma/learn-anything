@@ -1,7 +1,5 @@
 {
   "title": "learn anything - games",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "games",
@@ -32,6 +30,7 @@
     },
     {
       "text": "puzzles  ️",
+      "url": "/games/puzzles",
       "fx": -676.2146561135413,
       "fy": -9.434770742362502,
       "category": "mindmap"

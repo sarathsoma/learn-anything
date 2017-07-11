@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer hardware - raspberry pi",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "raspberry pi",
@@ -35,7 +33,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/raspberry_pi/",
       "fx": 203.890625,
-      "fy": -163.6469089673913,
+      "fy": -183.6469089673913,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "raspberry pi"
@@ -44,27 +42,27 @@
       "text": "️",
       "url": "https://raspberrypi.stackexchange.com/",
       "fx": 203.890625,
-      "fy": -123.64690896739131,
+      "fy": -143.6469089673913,
       "category": "stack exchange",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "raspberry pi"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/thibmaek/awesome-raspberry-pi",
+      "fx": 203.890625,
+      "fy": -103.64690896739131,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "raspberry pi"
     },
     {
       "text": "shell script to setup raspberry pi",
       "url": "https://github.com/RetroPie/RetroPie-Setup",
       "fx": 232.43448067632858,
-      "fy": -28.731412288647277,
+      "fy": -8.731412288647277,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome raspberry pi",
-      "url": "https://github.com/thibmaek/awesome-raspberry-pi",
-      "fx": 232.43448067632858,
-      "fy": 11.268587711352723,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {

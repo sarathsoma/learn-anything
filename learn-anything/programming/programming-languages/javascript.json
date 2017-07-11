@@ -1,32 +1,30 @@
 {
   "title": "learn anything - programming - programming languages - javascript",
-  "tag": "javascript programming language",
-  "description": "",
   "nodes": [
     {
       "text": "javascript",
       "url": "http://www.wikiwand.com/en/JavaScript",
-      "fx": -122.83775029765388,
-      "fy": -813.5583772512393,
+      "fx": -134.96665654765388,
+      "fy": -846.3669710012393,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 60.63497539224295,
-      "fy": -487.7906707237506
+      "fx": 91.69747539224295,
+      "fy": -543.8766082237506
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 141.0388005504135,
-      "fy": -100.21576654139903
+      "fx": 169.1872380504135,
+      "fy": -193.55170404139892
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 265.5255542681193,
-      "fy": 19.094544664426394
+      "fx": 270.1700855181193,
+      "fy": -47.026549085573606
     },
     {
       "text": "basics",
@@ -63,6 +61,7 @@
     },
     {
       "text": "npm  ️",
+      "url": "/programming/programming-languages/javascript/npm",
       "fx": -601.3985298767409,
       "fy": 453.74422361968186,
       "category": "mindmap"
@@ -86,8 +85,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/javascript/",
-      "fx": 90.16224970234612,
-      "fy": -839.5583772512393,
+      "fx": 78.03334345234612,
+      "fy": -892.3669710012393,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "javascript"
@@ -95,44 +94,35 @@
     {
       "text": "learn javascript",
       "url": "https://www.reddit.com/r/learnjavascript/",
-      "fx": 90.16224970234612,
-      "fy": -799.5583772512393,
+      "fx": 78.03334345234612,
+      "fy": -852.3669710012393,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "javascript"
     },
     {
+      "text": "awesome",
+      "url": "https://github.com/sorrycc/awesome-javascript",
+      "fx": 78.03334345234612,
+      "fy": -812.3669710012393,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "javascript"
+    },
+    {
       "text": "trending",
       "url": "https://github.com/trending/javascript",
-      "fx": 90.16224970234612,
-      "fy": -759.5583772512393,
+      "fx": 78.03334345234612,
+      "fy": -772.3669710012393,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "javascript"
     },
     {
-      "text": "awesome javascript",
-      "url": "https://github.com/sorrycc/awesome-javascript",
-      "fx": 197.63497539224295,
-      "fy": -716.2906707237506,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome promises",
-      "url": "https://github.com/wbinnssmith/awesome-promises",
-      "fx": 197.63497539224295,
-      "fy": -676.2906707237506,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "high level style in javascript",
       "url": "https://gist.github.com/dominictarr/2401787",
-      "fx": 197.63497539224295,
-      "fy": -636.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -732.3766082237506,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -140,8 +130,8 @@
     {
       "text": "js must watch",
       "url": "https://github.com/bolshchikov/js-must-watch",
-      "fx": 197.63497539224295,
-      "fy": -596.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -692.3766082237506,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -149,8 +139,8 @@
     {
       "text": "awesome js tips",
       "url": "https://github.com/loverajoel/jstips",
-      "fx": 197.63497539224295,
-      "fy": -556.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -652.3766082237506,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -158,8 +148,8 @@
     {
       "text": "awesome network js",
       "url": "https://github.com/Kikobeats/awesome-network-js",
-      "fx": 197.63497539224295,
-      "fy": -516.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -612.3766082237506,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -167,8 +157,8 @@
     {
       "text": "awesome observables",
       "url": "https://github.com/sindresorhus/awesome-observables",
-      "fx": 197.63497539224295,
-      "fy": -476.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -572.3766082237506,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -176,8 +166,8 @@
     {
       "text": "awesome fp in js",
       "url": "https://github.com/stoeffel/awesome-fp-js",
-      "fx": 197.63497539224295,
-      "fy": -436.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -532.3766082237506,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -185,8 +175,8 @@
     {
       "text": "awesome javascript learning",
       "url": "https://github.com/micromata/awesome-javascript-learning",
-      "fx": 197.63497539224295,
-      "fy": -396.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -492.3766082237506,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -195,8 +185,8 @@
       "text": "awesome standard",
       "note": "- explosion of packages in the standard ecosystem",
       "url": "https://github.com/feross/awesome-standard",
-      "fx": 197.63497539224295,
-      "fy": -356.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -452.3766082237506,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
@@ -204,8 +194,8 @@
     {
       "text": "clean code javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-      "fx": 197.63497539224295,
-      "fy": -316.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -412.3766082237506,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -213,8 +203,8 @@
     {
       "text": "js concepts with code",
       "url": "https://github.com/vasanthk/js-bits",
-      "fx": 197.63497539224295,
-      "fy": -276.2906707237506,
+      "fx": 228.69747539224295,
+      "fy": -372.3766082237506,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -222,8 +212,8 @@
     {
       "text": "javascript in one pic",
       "url": "https://github.com/coodict/javascript-in-one-pic",
-      "fx": 197.63497539224295,
-      "fy": -236.29067072375062,
+      "fx": 228.69747539224295,
+      "fy": -332.3766082237506,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -231,8 +221,8 @@
     {
       "text": "write any js with []()!+",
       "url": "https://github.com/aemkei/jsfuck",
-      "fx": 332.0388005504135,
-      "fy": -119.71576654139903,
+      "fx": 360.1872380504135,
+      "fy": -213.05170404139892,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -240,8 +230,8 @@
     {
       "text": "list of languages that compile to js",
       "url": "https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js",
-      "fx": 332.0388005504135,
-      "fy": -79.71576654139903,
+      "fx": 360.1872380504135,
+      "fy": -173.05170404139892,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
@@ -249,8 +239,8 @@
     {
       "text": "javascript primer  ️",
       "url": "https://www.discovermeteor.com/blog/javascript-for-meteor/",
-      "fx": 427.5255542681193,
-      "fy": 30.594544664426394,
+      "fx": 432.1700855181193,
+      "fy": -35.526549085573606,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -336,16 +326,16 @@
       "source": "help",
       "target": "javascript",
       "curve": {
-        "x": -79.9862,
-        "y": -162.885
+        "x": -101.582,
+        "y": -151.246
       }
     },
     {
       "source": "javascript",
       "target": "basics",
       "curve": {
-        "x": -82.3547,
-        "y": 457.78
+        "x": -76.2902,
+        "y": 474.184
       }
     },
     {
@@ -360,16 +350,16 @@
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -74.0926,
-        "y": -192.181
+        "x": -72.6356,
+        "y": -173.556
       }
     },
     {
       "source": "articles",
       "target": "interesting",
       "curve": {
-        "x": -54.9933,
-        "y": -59.6551
+        "x": -43.2413,
+        "y": -73.2625
       }
     },
     {

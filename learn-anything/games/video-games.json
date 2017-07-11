@@ -1,30 +1,38 @@
 {
   "title": "learn anything - games - video games",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "computer games",
       "url": "https://github.com/learn-anything/computer-games",
-      "fx": -239.16594464227467,
-      "fy": -34.33430972213995,
+      "fx": -239.16594314575195,
+      "fy": -27.71273770928383,
       "category": "github"
     }
   ],
   "subnodes": [
     {
+      "text": "league of legends  ️",
+      "url": "/games/video-games/league-of-legends",
+      "fx": 41.83405685424805,
+      "fy": -73.71273770928383,
+      "category": "mindmap",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "computer games"
+    },
+    {
       "text": "hearthstone  ️",
       "url": "/games/video-games/hearthstone",
-      "fx": 41.83405535772533,
-      "fy": -60.33430972213995,
+      "fx": 41.83405685424805,
+      "fy": -33.71273770928383,
       "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "computer games"
     },
     {
       "text": "factorio  ️",
-      "fx": 41.83405535772533,
-      "fy": -20.33430972213995,
+      "url": "/games/video-games/factorio",
+      "fx": 41.83405685424805,
+      "fy": 6.287262290716171,
       "category": "mindmap",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "computer games"
@@ -32,8 +40,8 @@
     {
       "text": "dota 2  ️",
       "url": "/games/video-games/dota-2",
-      "fx": 41.83405535772533,
-      "fy": 19.66569027786005,
+      "fx": 41.83405685424805,
+      "fy": 46.28726229071617,
       "category": "mindmap",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "computer games"

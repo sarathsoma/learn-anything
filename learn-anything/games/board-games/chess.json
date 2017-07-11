@@ -1,7 +1,5 @@
 {
   "title": "learn anything - games - board games - chess",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "chess",
@@ -29,7 +27,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/chess/",
       "fx": 24.12109375,
-      "fy": -350.3515625,
+      "fy": -370.3515625,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "chess"
@@ -38,16 +36,25 @@
       "text": "️",
       "url": "https://chess.stackexchange.com/",
       "fx": 24.12109375,
-      "fy": -310.3515625,
+      "fy": -330.3515625,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "chess"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/hkirat/awesome-chess",
+      "fx": 24.12109375,
+      "fy": -290.3515625,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "chess"
     },
     {
       "text": "ChessNetwork",
       "url": "https://www.youtube.com/user/ChessNetwork/videos",
       "fx": 78.92533992230892,
-      "fy": -238.15365982055664,
+      "fy": -218.15365982055664,
       "category": "youtube",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -56,25 +63,16 @@
       "text": "climbing the rating ladder: up to 1000",
       "url": "https://www.youtube.com/watch?v=U2huVf1l4UE&amp;list=PLl9uuRYQ-6MCBnhtCk_bTZsD8GxeWP6BV",
       "fx": 78.92533992230892,
-      "fy": -198.15365982055664,
+      "fy": -178.15365982055664,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome chess",
-      "url": "https://github.com/hkirat/awesome-chess",
-      "fx": 78.92533992230892,
-      "fy": -136.15365982055664,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "chess tactics",
       "url": "http://www.chesstactics.org/",
       "fx": 78.92533992230892,
-      "fy": -96.15365982055664,
+      "fy": -116.15365982055664,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },

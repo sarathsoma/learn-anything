@@ -1,7 +1,5 @@
 {
   "title": "learn anything - health - mindfulness - minimalism",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "minimalism",
@@ -19,8 +17,8 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 476.7030210791668,
-      "fy": 8.484579754034144
+      "fx": 420.8270941723872,
+      "fy": 12.685453694712123
     },
     {
       "text": "basics",
@@ -31,6 +29,7 @@
     },
     {
       "text": "simple living  ️",
+      "url": "/health/mindfulness/minimalism/simple-living",
       "fx": -72.51024177808824,
       "fy": 236.6144924245744,
       "category": "mindmap"
@@ -40,45 +39,36 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/minimalism/",
-      "fx": 272.07365932743915,
+      "fx": 284.07365932743915,
       "fy": -196.06031084964098,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "minimalism"
-    },
-    {
-      "text": "light by Coco",
-      "url": "https://www.youtube.com/channel/UCp12IFoANz_tEY6YgZFqohA/videos",
-      "fx": 335.1196861094071,
-      "fy": -123.81584806839544,
-      "category": "youtube",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
     },
     {
       "text": "zen habits  ️",
       "url": "https://zenhabits.net/",
-      "fx": 335.1196861094071,
-      "fy": -83.81584806839544,
+      "fx": 339.1196861094071,
+      "fy": -102.81584806839544,
       "category": "blog",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "minimal desks",
       "url": "http://minimaldesks.com/",
-      "fx": 667.7030210791668,
-      "fy": 22.984579754034144,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 619.8270941723872,
+      "fy": 27.685453694712123,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "interesting"
     },
     {
       "text": "1. minimalism: a beginner’s guide  ️",
       "url": "https://anuschkarees.com/blog/2014/10/27/minimalism-a-beginners-guide/",
-      "fx": 136.37716665303446,
-      "fy": 115.7340018901013,
+      "fx": 143.37716665303446,
+      "fy": 115.2340018901013,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -111,8 +101,8 @@
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -183.714,
-        "y": -44.2294
+        "x": -155.776,
+        "y": -46.3298
       }
     }
   ]

@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - law - politics - political corruption",
+  "nodes": [
+    {
+      "text": "political corruption",
+      "url": "http://www.wikiwand.com/en/Political_corruption",
+      "fx": 167.57587594696963,
+      "fy": -260.60144412878793,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 303.67697742226835,
+      "fy": -142.0323464912375
+    },
+    {
+      "text": "nepotism",
+      "url": "http://www.wikiwand.com/en/Nepotism",
+      "fx": 20.15876071570915,
+      "fy": -98.8109051036775,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "17: why I’m leaving 18F  ️",
+      "url": "https://medium.com/@noahkunin/why-im-leaving-18f-48970131d547",
+      "fx": 502.67697742226835,
+      "fy": -129.5323464912375,
+      "category": "article",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "political corruption",
+      "target": "nepotism",
+      "curve": {
+        "x": -98.4586,
+        "y": 80.8953
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "political corruption",
+      "curve": {
+        "x": -40.3006,
+        "y": -58.5345
+      }
+    }
+  ]
+}

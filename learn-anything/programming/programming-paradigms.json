@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming paradigms",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "programming paradigms",
@@ -32,6 +30,7 @@
     },
     {
       "text": "dataflow programming  ️",
+      "url": "/programming/programming-paradigms/dataflow-programming",
       "fx": -1351.1132721047288,
       "fy": 172.42291451245012,
       "category": "mindmap"
@@ -45,6 +44,7 @@
     },
     {
       "text": "declarative programming  ️",
+      "url": "/programming/programming-paradigms/declarative-programming",
       "fx": -1054.2757110595703,
       "fy": 174.18109512329102,
       "category": "mindmap"
@@ -58,6 +58,7 @@
     },
     {
       "text": "generic programming  ️",
+      "url": "/programming/programming-paradigms/generic-programming",
       "fx": -755.3004127358483,
       "fy": 174.32080385220115,
       "category": "mindmap"

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - engineering - electrical engineering - electronics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "electronics",
@@ -31,6 +29,7 @@
     },
     {
       "text": "logic gates  ️",
+      "url": "/engineering/electrical-engineering/electronics/logic-gates",
       "fx": -23.822261682968474,
       "fy": -198.2709136901296,
       "category": "mindmap"
@@ -44,6 +43,7 @@
     },
     {
       "text": "electronic circuits  ️",
+      "url": "/engineering/electrical-engineering/electronics/electronic-circuits",
       "fx": -222.42708333333326,
       "fy": -64.16796875,
       "category": "mindmap"
@@ -64,6 +64,7 @@
     },
     {
       "text": "power electronics  ️",
+      "url": "/engineering/electrical-engineering/electronics/power-electronics",
       "fx": 295.37678006328906,
       "fy": 92.2094541139628,
       "category": "mindmap"

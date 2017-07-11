@@ -1,7 +1,5 @@
 {
   "title": "learn anything - linguistics - languages - chinese - mandarin",
-  "tag": "mandarin chinese",
-  "description": "",
   "nodes": [
     {
       "text": "mandarin chinese",
@@ -29,19 +27,10 @@
       "parent": "mandarin chinese"
     },
     {
-      "text": "1. where to start?",
-      "url": "https://www.reddit.com/r/learnmandarin/comments/6cynax/where_to_start/",
-      "fx": 70.87686752988043,
-      "fy": -208.9135333664952,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
       "text": "1. chinese pod",
       "url": "https://chinesepod.com/",
-      "fx": 70.87686752988043,
-      "fy": -168.9135333664952,
+      "fx": 71.87686752988043,
+      "fy": -188.9135333664952,
       "category": "podcast",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - javascript libraries - electron",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "electron",
@@ -11,16 +9,10 @@
       "category": "wiki"
     },
     {
-      "text": "help",
-      "url": "",
-      "fx": -51.77045036764707,
-      "fy": -182.7820542279411
-    },
-    {
       "text": "articles",
       "url": "",
-      "fx": 4.668475115740648,
-      "fy": -85.37853604985992
+      "fx": -11.418955950435702,
+      "fy": -128.24675755721285
     },
     {
       "text": "basics",
@@ -35,7 +27,7 @@
       "text": "",
       "url": "https://twitter.com/electronjs",
       "fx": 20.10546875,
-      "fy": -300.12373621323525,
+      "fy": -320.12373621323525,
       "category": "",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "electron"
@@ -44,25 +36,25 @@
       "text": "",
       "url": "https://github.com/electron/electron",
       "fx": 20.10546875,
-      "fy": -260.12373621323525,
+      "fy": -280.12373621323525,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "electron"
     },
     {
-      "text": "awesome electron",
+      "text": "awesome",
       "url": "https://github.com/sindresorhus/awesome-electron",
-      "fx": 85.22954963235293,
-      "fy": -171.2820542279411,
+      "fx": 20.10546875,
+      "fy": -240.12373621323525,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "electron"
     },
     {
       "text": "16: electron is flash for the desktop  ️",
       "url": "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
-      "fx": 166.66847511574065,
-      "fy": -104.87853604985992,
+      "fx": 150.5810440495643,
+      "fy": -147.74675755721285,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -70,8 +62,8 @@
     {
       "text": "17: how to build your first app with electron  ️",
       "url": "https://neutrondev.com/how-build-first-app-electron/",
-      "fx": 166.66847511574065,
-      "fy": -64.87853604985992,
+      "fx": 150.5810440495643,
+      "fy": -107.74675755721285,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -96,14 +88,6 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "electron",
-      "curve": {
-        "x": -48.0621,
-        "y": -54.4208
-      }
-    },
-    {
       "source": "electron",
       "target": "basics",
       "curve": {
@@ -113,10 +97,10 @@
     },
     {
       "source": "articles",
-      "target": "help",
+      "target": "electron",
       "curve": {
-        "x": -34.4695,
-        "y": -48.7018
+        "x": -74.4878,
+        "y": -81.6885
       }
     }
   ]

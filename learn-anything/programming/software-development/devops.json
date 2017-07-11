@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - software development - devops",
-  "tag": "DevOps",
-  "description": "",
   "nodes": [
     {
       "text": "DevOps",
@@ -14,14 +12,14 @@
     {
       "text": "help",
       "url": "",
-      "fx": 270.99613689805915,
-      "fy": -841.9691427860533
+      "fx": 264.22813418066767,
+      "fy": -843.4806916990968
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 135.46271514892578,
-      "fy": -730.6876220703125
+      "fx": 135.93259739530276,
+      "fy": -723.4780432659647
     },
     {
       "text": "automation",
@@ -32,12 +30,14 @@
     },
     {
       "text": "cloud computing  ️",
+      "url": "/programming/software-development/devops/cloud-computing",
       "fx": 536.108051120938,
       "fy": -509.8821885664386,
       "category": "mindmap"
     },
     {
       "text": "continuous integration  ️",
+      "url": "/programming/software-development/devops/continuous-integration",
       "fx": 240.48871149360116,
       "fy": -509.8281487551602,
       "category": "mindmap"
@@ -83,6 +83,7 @@
     },
     {
       "text": "puppet  ️",
+      "url": "/programming/software-development/devops/puppet",
       "fx": -781.8198751634831,
       "fy": -423.68340973627005,
       "category": "mindmap"
@@ -195,9 +196,9 @@
       "category": "mindmap"
     },
     {
-      "text": "cluster managers",
+      "text": "container orchestration",
       "url": "",
-      "fx": -113.00172025347524,
+      "fx": -137.50172025347524,
       "fy": 38.33142148043157
     },
     {
@@ -291,19 +292,37 @@
     {
       "text": "awesome DevOps",
       "url": "https://github.com/AcalephStorage/awesome-devops",
-      "fx": 407.99613689805915,
-      "fy": -830.4691427860533,
+      "fx": 401.22813418066767,
+      "fy": -851.9806916990968,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
+      "text": "DevOps wiki",
+      "url": "https://github.com/Leo-G/DevopsWiki",
+      "fx": 401.22813418066767,
+      "fy": -811.9806916990968,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "1. what is DevOps?",
       "url": "https://www.youtube.com/watch?v=_I94-tJlovg",
-      "fx": 291.4627151489258,
-      "fy": -719.1876220703125,
+      "fx": 291.93259739530276,
+      "fy": -742.9780432659647,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the practice of system and network administration",
+      "url": "http://almus.net/docs/System_and_Network_Administration/The_Practice_of_System_and_Network_Administration(2007).pdf",
+      "fx": 291.93259739530276,
+      "fy": -702.9780432659647,
+      "category": "free book",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -312,8 +331,8 @@
       "source": "basics",
       "target": "automation",
       "curve": {
-        "x": -219.504,
-        "y": 89.1776
+        "x": -219.739,
+        "y": 85.5728
       }
     },
     {
@@ -376,16 +395,16 @@
       "source": "basics",
       "target": "cloud computing  ️",
       "curve": {
-        "x": 180.824,
-        "y": 109.153
+        "x": 180.589,
+        "y": 105.548
       }
     },
     {
       "source": "basics",
       "target": "monitoring and alterting",
       "curve": {
-        "x": -121.117,
-        "y": 338.641
+        "x": -121.352,
+        "y": 335.036
       }
     },
     {
@@ -502,49 +521,49 @@
     },
     {
       "source": "basics",
-      "target": "cluster managers",
+      "target": "container orchestration",
       "curve": {
-        "x": -112.186,
-        "y": 551.991
+        "x": -124.671,
+        "y": 548.386
       }
     },
     {
-      "source": "cluster managers",
+      "source": "container orchestration",
       "target": "kubernetes  ️",
       "curve": {
-        "x": -137.548,
+        "x": -125.298,
         "y": -19.3946
       }
     },
     {
-      "source": "cluster managers",
+      "source": "container orchestration",
       "target": "mesosphere",
       "curve": {
-        "x": -137.596,
+        "x": -125.346,
         "y": 22.849
       }
     },
     {
-      "source": "cluster managers",
+      "source": "container orchestration",
       "target": "mesos",
       "curve": {
-        "x": -141.646,
+        "x": -129.396,
         "y": 70.2483
       }
     },
     {
-      "source": "cluster managers",
+      "source": "container orchestration",
       "target": "docker swarm  ️",
       "curve": {
-        "x": -52.1375,
+        "x": -39.8875,
         "y": 88.3528
       }
     },
     {
-      "source": "cluster managers",
+      "source": "container orchestration",
       "target": "nomad",
       "curve": {
-        "x": 34.8375,
+        "x": 47.0875,
         "y": 51.6591
       }
     },
@@ -576,48 +595,48 @@
       "source": "basics",
       "target": "continuous integration  ️",
       "curve": {
-        "x": 77.763,
-        "y": 110.43
+        "x": 77.5281,
+        "y": 106.825
       }
     },
     {
       "source": "basics",
       "target": "containers",
       "curve": {
-        "x": 31.5542,
-        "y": 243.754
+        "x": 31.3193,
+        "y": 240.149
       }
     },
     {
       "source": "basics",
       "target": "web servers",
       "curve": {
-        "x": 25.0246,
-        "y": 383.267
+        "x": 24.7897,
+        "y": 379.662
       }
     },
     {
       "source": "basics",
       "target": "terminal",
       "curve": {
-        "x": 15.7135,
-        "y": 467.54
+        "x": 15.4786,
+        "y": 463.935
       }
     },
     {
       "source": "DevOps",
       "target": "basics",
       "curve": {
-        "x": 13.6467,
-        "y": 111.384
+        "x": 13.8816,
+        "y": 114.989
       }
     },
     {
       "source": "help",
       "target": "DevOps",
       "curve": {
-        "x": -59.1634,
-        "y": -54.4929
+        "x": -55.7794,
+        "y": -53.7371
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - distributed computing - ethereum",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "ethereum",
@@ -14,33 +12,33 @@
     {
       "text": "help",
       "url": "",
-      "fx": -26.21810315999187,
-      "fy": -604.8851103151446
+      "fx": 5.619980631217004,
+      "fy": -616.1187985019578
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 162.12465335372144,
-      "fy": -456.1198343225174
+      "fx": 173.4892653042707,
+      "fy": -423.5090856961438
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -308.81587387141315,
-      "fy": -380.9283976210916
+      "fx": -333.8718986461879,
+      "fy": -306.17473771118165
     },
     {
       "text": "solidity  ️",
       "url": "/programming/programming-languages/solidity",
-      "fx": -456.355846485058,
-      "fy": -244.09937419757978,
+      "fx": -539.8299455841571,
+      "fy": -210.54081563902128,
       "category": "mindmap"
     },
     {
       "text": "ether",
       "url": "https://www.ethereum.org/ether",
-      "fx": -252.18696607027732,
-      "fy": -203.47789461203695
+      "fx": -335.66106516937646,
+      "fy": -169.91933605347845
     }
   ],
   "subnodes": [
@@ -65,8 +63,8 @@
     {
       "text": "ethereum starter guide",
       "url": "https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/",
-      "fx": 110.78189684000813,
-      "fy": -644.3851103151446,
+      "fx": 142.619980631217,
+      "fy": -675.6187985019578,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -74,8 +72,8 @@
     {
       "text": "comprehensive ethereum reading list",
       "url": "https://github.com/Scanate/Ethlist",
-      "fx": 110.78189684000813,
-      "fy": -604.3851103151446,
+      "fx": 142.619980631217,
+      "fy": -635.6187985019578,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -83,17 +81,26 @@
     {
       "text": "awesome ethereum",
       "url": "https://github.com/btomashvili/awesome-ethereum",
-      "fx": 110.78189684000813,
-      "fy": -542.3851103151446,
+      "fx": 142.619980631217,
+      "fy": -573.6187985019578,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
+      "text": "awesome ethereum virtual machine",
+      "url": "https://github.com/pirapira/awesome-ethereum-virtual-machine",
+      "fx": 142.619980631217,
+      "fy": -533.6187985019578,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "15: ethereum golem",
       "url": "https://www.youtube.com/watch?v=JA-UkjnapAU&amp;feature=youtu.be",
-      "fx": 353.12465335372144,
-      "fy": -475.6198343225174,
+      "fx": 364.4892653042707,
+      "fy": -443.0090856961438,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -101,8 +108,8 @@
     {
       "text": "17: Vitalik Buterin -  the mastermind behind ethereum",
       "url": "https://www.youtube.com/watch?v=KCQP02LHjGY",
-      "fx": 353.12465335372144,
-      "fy": -435.6198343225174,
+      "fx": 364.4892653042707,
+      "fy": -403.0090856961438,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
@@ -110,34 +117,51 @@
     {
       "text": "1. what is ethereum   ️",
       "url": "https://ethereum.stackexchange.com/questions/45/how-would-i-explain-ethereum-to-a-non-technical-friend",
-      "fx": -152.81587387141315,
-      "fy": -426.4283976210916,
+      "fx": -177.8718986461879,
+      "fy": -371.67473771118165,
       "category": "stack exchange",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. WTF is ethereum  ️",
+      "url": "http://whatthefuckisethereum.com/",
+      "fx": -177.8718986461879,
+      "fy": -331.67473771118165,
+      "category": "article",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. ethereum white paper",
       "url": "http://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform",
-      "fx": -152.81587387141315,
-      "fy": -386.4283976210916,
+      "fx": -177.8718986461879,
+      "fy": -291.67473771118165,
       "category": "paper",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "annotated",
+      "url": "http://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform",
+      "fx": 117.1281013538121,
+      "fy": -288.67473771118165,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "1. ethereum white paper"
+    },
+    {
       "text": "1. step-by-step beginners guide",
       "url": "https://blockgeeks.com/guides/what-is-ethereum/",
-      "fx": -152.81587387141315,
-      "fy": -346.4283976210916,
+      "fx": -177.8718986461879,
+      "fy": -251.67473771118165,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. ethereum: the world computer",
       "url": "https://www.youtube.com/watch?v=j23HnORQXvs",
-      "fx": -152.81587387141315,
-      "fy": -312.4283976210916,
+      "fx": -177.8718986461879,
+      "fy": -217.67473771118165,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -148,40 +172,40 @@
       "source": "help",
       "target": "ethereum",
       "curve": {
-        "x": -72.0252,
-        "y": -84.6934
+        "x": -87.9442,
+        "y": -79.0766
       }
     },
     {
       "source": "ethereum",
       "target": "basics",
       "curve": {
-        "x": -64.5238,
-        "y": 196.672
+        "x": -77.0518,
+        "y": 234.049
       }
     },
     {
       "source": "basics",
       "target": "solidity  ️",
       "curve": {
-        "x": -65.52,
-        "y": 69.6645
+        "x": -94.729,
+        "y": 49.0669
       }
     },
     {
       "source": "basics",
       "target": "ether",
       "curve": {
-        "x": 25.3145,
-        "y": 88.7252
+        "x": -3.89454,
+        "y": 68.1276
       }
     },
     {
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -125.906,
-        "y": -62.973
+        "x": -115.669,
+        "y": -84.8952
       }
     }
   ]

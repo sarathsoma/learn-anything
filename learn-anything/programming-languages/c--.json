@@ -1,56 +1,91 @@
 {
   "title": "learn anything - programming languages - c  ",
-  "tag": "c++ programming language",
-  "description": "",
   "nodes": [
     {
       "text": "c++",
       "url": "http://www.wikiwand.com/en/C%2B%2B",
-      "fx": -55.56284236907959,
-      "fy": -185.08818435668945,
+      "fx": -65.96207957380386,
+      "fy": -228.2537847503903,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 13.52604079246521,
-      "fy": -5.063737869262695
+      "fx": 38.018535871205245,
+      "fy": -4.374761491309812
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 93.06096233538733,
-      "fy": 207.02394138165369
+      "fx": 120.11866410704079,
+      "fy": 203.5052405942521
     },
     {
       "text": "talks",
       "url": "",
-      "fx": 173.7449579403227,
-      "fy": 326.4533432341748
+      "fx": 201.58698549937787,
+      "fy": 338.73496232866296
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -93.07334421641781,
-      "fy": 463.07097917342617
+      "fx": -287.96960446231935,
+      "fy": 457.9416246652297
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 365.7641574585732,
+      "fy": 475.6620338397788
+    },
+    {
+      "text": "cross platform frameworks",
+      "url": "",
+      "fx": -500.60287238103274,
+      "fy": 582.5009874199436
+    },
+    {
+      "text": "Qt  ️",
+      "url": "/programming-languages/c--/qt",
+      "fx": -504.2340690052472,
+      "fy": 696.8123776509942,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/cpp/",
-      "fx": 107.43715763092041,
-      "fy": -171.08818435668945,
+      "fx": 97.03792042619614,
+      "fy": -254.2537847503903,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "c++"
     },
     {
+      "text": "trending",
+      "url": "https://github.com/trending/c++",
+      "fx": 97.03792042619614,
+      "fy": -214.2537847503903,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "c++"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/fffaraz/awesome-cpp",
+      "fx": 97.03792042619614,
+      "fy": -174.2537847503903,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "c++"
+    },
+    {
       "text": "functional data structures in c++",
       "url": "https://github.com/BartoszMilewski/Okasaki",
-      "fx": 150.5260407924652,
-      "fy": -107.5637378692627,
+      "fx": 175.01853587120524,
+      "fy": -86.87476149130981,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -58,8 +93,8 @@
     {
       "text": "modern c++",
       "url": "https://github.com/utilForever/ModernCpp",
-      "fx": 150.5260407924652,
-      "fy": -67.5637378692627,
+      "fx": 175.01853587120524,
+      "fy": -46.87476149130981,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -67,42 +102,33 @@
     {
       "text": "c++ reading list",
       "url": "http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282",
-      "fx": 150.5260407924652,
-      "fy": -27.563737869262695,
+      "fx": 175.01853587120524,
+      "fy": -6.874761491309812,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "c++ code samples",
       "url": "http://www.cppsamples.com/",
-      "fx": 150.5260407924652,
-      "fy": 6.436262130737305,
+      "fx": 175.01853587120524,
+      "fy": 27.125238508690188,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "modern c++ references",
       "url": "https://github.com/Vitorian/modern-cpp-references",
-      "fx": 150.5260407924652,
-      "fy": 40.436262130737305,
+      "fx": 175.01853587120524,
+      "fy": 61.12523850869019,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome c++",
-      "url": "https://github.com/fffaraz/awesome-cpp",
-      "fx": 150.5260407924652,
-      "fy": 80.4362621307373,
-      "category": "github",
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "open source c++ books  ️",
       "url": "https://www.ossblog.org/master-c-programming-with-open-source-books/",
-      "fx": 150.5260407924652,
-      "fy": 120.4362621307373,
+      "fx": 175.01853587120524,
+      "fy": 101.12523850869019,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -110,8 +136,8 @@
     {
       "text": "17: lisp meta-programming for c++ developers: first macros  ️",
       "url": "https://deque.blog/2017/05/09/lisp-meta-programming-for-c-developers-first-macros/",
-      "fx": 255.06096233538733,
-      "fy": 190.52394138165369,
+      "fx": 282.1186641070408,
+      "fy": 187.0052405942521,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -119,16 +145,16 @@
     {
       "text": "17: c++ on embedded systems",
       "url": "http://bitbashing.io/embedded-cpp.html",
-      "fx": 255.06096233538733,
-      "fy": 252.52394138165369,
+      "fx": 282.1186641070408,
+      "fy": 249.0052405942521,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
     },
     {
       "text": "15: Andrei Alexandrescu “std::allocator...”",
       "url": "https://www.youtube.com/watch?v=LIb3L4vKZ7U",
-      "fx": 313.7449579403227,
-      "fy": 326.9533432341748,
+      "fx": 341.5869854993779,
+      "fy": 339.23496232866296,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "talks"
@@ -136,16 +162,16 @@
     {
       "text": "1. learn c++",
       "url": "http://www.learncpp.com/",
-      "fx": 88.92665578358219,
-      "fy": 437.57097917342617,
+      "fx": -105.96960446231935,
+      "fy": 432.4416246652297,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. practical guide to bare metal c++",
       "url": "https://arobenko.gitbooks.io/bare_metal_cpp/content/",
-      "fx": 88.92665578358219,
-      "fy": 471.57097917342617,
+      "fx": -105.96960446231935,
+      "fy": 466.4416246652297,
       "category": "free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -153,11 +179,20 @@
     {
       "text": "2. c++ concurrency in action",
       "url": "https://www.manning.com/books/c-plus-plus-concurrency-in-action",
-      "fx": 88.92665578358219,
-      "fy": 511.57097917342617,
+      "fx": -105.96960446231935,
+      "fy": 506.4416246652297,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
+    },
+    {
+      "text": "folly",
+      "url": "https://github.com/facebook/folly",
+      "fx": 556.7641574585732,
+      "fy": 487.1620338397788,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
     }
   ],
   "connections": [
@@ -165,32 +200,56 @@
       "source": "c++",
       "target": "basics",
       "curve": {
-        "x": -20.5053,
-        "y": 322.829
+        "x": -112.754,
+        "y": 341.847
       }
     },
     {
       "source": "help",
       "target": "c++",
       "curve": {
-        "x": -28.0445,
-        "y": -88.7621
+        "x": -45.4904,
+        "y": -110.689
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -46.0174,
-        "y": -106.044
+        "x": -47.3,
+        "y": -103.94
       }
     },
     {
       "source": "talks",
       "target": "articles",
       "curve": {
-        "x": -34.842,
-        "y": -59.7147
+        "x": -35.2342,
+        "y": -67.6149
+      }
+    },
+    {
+      "source": "basics",
+      "target": "cross platform frameworks",
+      "curve": {
+        "x": -67.0666,
+        "y": 62.2797
+      }
+    },
+    {
+      "source": "cross platform frameworks",
+      "target": "Qt  ️",
+      "curve": {
+        "x": -49.3156,
+        "y": 58.4057
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "talks",
+      "curve": {
+        "x": -101.632,
+        "y": -67.8873
       }
     }
   ]

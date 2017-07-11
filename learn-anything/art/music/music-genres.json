@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art - music - music genres",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "music genres",
@@ -33,6 +31,7 @@
     },
     {
       "text": "blues  ️",
+      "url": "/art/music/music-genres/blues",
       "fx": 76.67829123866011,
       "fy": 157.20703497299587,
       "category": "mindmap"

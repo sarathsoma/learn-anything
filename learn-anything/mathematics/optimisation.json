@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - optimisation",
-  "tag": "mathematical optimisation",
-  "description": "",
   "nodes": [
     {
       "text": "mathematical optimisation",
@@ -23,16 +21,17 @@
       "fy": -241.03231416891708
     },
     {
-      "text": "loss functions  ️",
-      "fx": -593.5397636217951,
-      "fy": -62.55649038462036,
-      "category": "mindmap"
-    },
-    {
       "text": "constrained optimisation  ️",
       "url": "/mathematics/optimisation/constrained-optimisation",
       "fx": -378.24657549765703,
       "fy": -57.79330115846028,
+      "category": "mindmap"
+    },
+    {
+      "text": "loss functions  ️",
+      "url": "/mathematics/optimisation/loss-functions",
+      "fx": -590.9423610243927,
+      "fy": -56.49165678072427,
       "category": "mindmap"
     },
     {
@@ -114,8 +113,8 @@
       "source": "basics",
       "target": "loss functions  ️",
       "curve": {
-        "x": -286.542,
-        "y": 60.2965
+        "x": -285.243,
+        "y": 63.3289
       }
     }
   ]

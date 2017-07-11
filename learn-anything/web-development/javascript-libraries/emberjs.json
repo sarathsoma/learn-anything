@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - javascript libraries - emberjs",
-  "tag": "ember.js library",
-  "description": "",
   "nodes": [
     {
       "text": "ember.js",
       "url": "https://github.com/emberjs/ember.js/",
-      "fx": 86.05078125,
-      "fy": -268.3203125,
+      "fx": 84.9865274234694,
+      "fy": -185.21882971938777,
       "category": "github"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 201.44921875,
-      "fy": -159.1171875
     },
     {
       "text": "basics",
@@ -26,13 +18,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome ember",
+      "text": "awesome",
       "url": "https://github.com/nmec/awesome-ember",
-      "fx": 338.44921875,
-      "fy": -147.6171875,
+      "fx": 287.9865274234694,
+      "fy": -171.21882971938777,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "ember.js"
     },
     {
       "text": "1. getting started",
@@ -53,19 +45,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "ember.js",
-      "curve": {
-        "x": -41.1992,
-        "y": -53.3516
-      }
-    },
-    {
       "source": "ember.js",
       "target": "basics",
       "curve": {
-        "x": -14.6946,
-        "y": 113.139
+        "x": -14.1625,
+        "y": 71.5883
       }
     }
   ]

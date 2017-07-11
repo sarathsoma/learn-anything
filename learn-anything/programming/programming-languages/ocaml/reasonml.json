@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - ocaml - reasonml",
-  "tag": "reasonML",
-  "description": "",
   "nodes": [
     {
       "text": "reasonML",
@@ -11,10 +9,10 @@
       "fy": -215.50909810126586
     },
     {
-      "text": "help",
+      "text": "basics",
       "url": "",
-      "fx": 37.27350049079212,
-      "fy": -111.24425279641457
+      "fx": -20.180947929177023,
+      "fy": -66.34163459438804
     }
   ],
   "subnodes": [
@@ -22,7 +20,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/reasonml/",
       "fx": 169.67192444620252,
-      "fy": -224.00909810126586,
+      "fy": -244.00909810126586,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "reasonML"
@@ -31,28 +29,36 @@
       "text": "",
       "url": "https://github.com/facebook/reason",
       "fx": 169.67192444620252,
-      "fy": -184.00909810126586,
+      "fy": -204.00909810126586,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "reasonML"
     },
     {
-      "text": "awesome reasonML",
+      "text": "awesome",
       "url": "https://github.com/vramana/awesome-reasonml",
-      "fx": 174.27350049079212,
-      "fy": -99.74425279641457,
+      "fx": 169.67192444620252,
+      "fy": -164.00909810126586,
       "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "reasonML"
+    },
+    {
+      "text": "1. why Reason",
+      "url": "http://facebook.github.io/reason/#why-reason",
+      "fx": 135.81905207082298,
+      "fy": -51.84163459438804,
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "basics"
     }
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "reasonML",
+      "source": "reasonML",
+      "target": "basics",
       "curve": {
-        "x": -35.0508,
-        "y": -52.1324
+        "x": -2.42644,
+        "y": 74.5837
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - security - information security - cybersecurity - ddos",
-  "tag": "distributed denial of service",
-  "description": "",
   "nodes": [
     {
       "text": "distributed denial of service",
@@ -13,25 +11,25 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 42.45968646836718,
-      "fy": -61.108456599342105
+      "fx": 35.44041883033026,
+      "fy": -84.023525617747
     }
   ],
   "subnodes": [
     {
-      "text": "1. DDoS attacks explained",
-      "url": "https://www.youtube.com/watch?v=0I4O4hoKzb8",
-      "fx": 198.45968646836718,
-      "fy": -80.6084565993421,
+      "text": "1. slow loris attack",
+      "url": "https://www.youtube.com/watch?v=XiFkyR35v2Y",
+      "fx": 191.44041883033026,
+      "fy": -103.523525617747,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. the attack that could disrupt the whole internet",
       "url": "https://www.youtube.com/watch?v=BcDZS7iYNsA",
-      "fx": 198.45968646836718,
-      "fy": -40.608456599342105,
+      "fx": 191.44041883033026,
+      "fy": -63.523525617747,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -42,8 +40,8 @@
       "source": "distributed denial of service",
       "target": "basics",
       "curve": {
-        "x": -4.45389,
-        "y": 81.2899
+        "x": -7.96352,
+        "y": 69.8324
       }
     }
   ]

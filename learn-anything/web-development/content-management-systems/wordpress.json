@@ -1,26 +1,18 @@
 {
   "title": "learn anything - web development - content management systems - wordpress",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "wordpress",
       "url": "http://www.wikiwand.com/en/WordPress",
-      "fx": -62.198863636363626,
-      "fy": -275.76349431818176,
+      "fx": -54.7698403994242,
+      "fy": -160.91963450113929,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 56.37139179180201,
-      "fy": -130.03821276379875
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 137.8192344764608,
-      "fy": 7.812347808482059
+      "fx": 114.30621364312742,
+      "fy": -0.554839691517941
     },
     {
       "text": "basics",
@@ -33,8 +25,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/Wordpress/",
-      "fx": 159.80113636363637,
-      "fy": -281.76349431818176,
+      "fx": 167.2301596005758,
+      "fy": -186.91963450113929,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "wordpress"
@@ -42,26 +34,26 @@
     {
       "text": "️",
       "url": "https://wordpress.stackexchange.com/",
-      "fx": 159.80113636363637,
-      "fy": -241.76349431818176,
+      "fx": 167.2301596005758,
+      "fy": -146.91963450113929,
       "category": "stack exchange",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "wordpress"
     },
     {
-      "text": "awesome wordpress",
+      "text": "awesome",
       "url": "https://github.com/miziomon/awesome-wordpress",
-      "fx": 193.371391791802,
-      "fy": -118.53821276379875,
+      "fx": 167.2301596005758,
+      "fy": -106.91963450113929,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "wordpress"
     },
     {
       "text": "14: where to learn wordpress development  ️",
       "url": "https://poststatus.com/learn-wordpress-development/",
-      "fx": 299.8192344764608,
-      "fy": 8.312347808482059,
+      "fx": 276.3062136431274,
+      "fy": -0.05483969151794099,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -77,27 +69,19 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "wordpress",
+      "source": "wordpress",
+      "target": "basics",
       "curve": {
-        "x": -38.0351,
-        "y": -71.6126
+        "x": -9.22999,
+        "y": 141.468
       }
     },
     {
       "source": "articles",
-      "target": "help",
+      "target": "wordpress",
       "curve": {
-        "x": -46.9739,
-        "y": -68.9253
-      }
-    },
-    {
-      "source": "wordpress",
-      "target": "basics",
-      "curve": {
-        "x": -5.51548,
-        "y": 198.89
+        "x": -69.538,
+        "y": -78.9324
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - geography",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "geography",
@@ -34,6 +32,7 @@
     },
     {
       "text": "cartography  ️",
+      "url": "/geography/cartography",
       "fx": 180.54756433823513,
       "fy": -186.5,
       "category": "mindmap"

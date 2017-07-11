@@ -1,0 +1,30 @@
+{
+  "title": "learn anything - medicine - symptoms",
+  "nodes": [
+    {
+      "text": "symptoms",
+      "url": "http://www.wikiwand.com/en/Symptom",
+      "fx": -121.609375,
+      "fy": -339.23046875,
+      "category": "wiki"
+    },
+    {
+      "text": "pain  ️",
+      "url": "/medicine/symptoms/pain",
+      "fx": -156.45759828629048,
+      "fy": -194.49017137104528,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "symptoms",
+      "target": "pain  ️",
+      "curve": {
+        "x": -38.6741,
+        "y": 71.1201
+      }
+    }
+  ]
+}

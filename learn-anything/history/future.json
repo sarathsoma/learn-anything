@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - history - future",
+  "nodes": [
+    {
+      "text": "future",
+      "url": "http://www.wikiwand.com/en/Future",
+      "fx": -50.84025478363037,
+      "fy": -120.4427375793457,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 8.584321615830959,
+      "fy": 5.186975596086029
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Futurology/",
+      "fx": 128.15974521636963,
+      "fy": -106.4427375793457,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "future"
+    },
+    {
+      "text": "the future of programming",
+      "url": "https://vimeo.com/71278954",
+      "fx": 199.58432161583096,
+      "fy": 16.68697559608603,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "interesting",
+      "target": "future",
+      "curve": {
+        "x": -32.7123,
+        "y": -61.5649
+      }
+    }
+  ]
+}

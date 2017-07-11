@@ -1,20 +1,12 @@
 {
   "title": "learn anything - programming - programming languages - php",
-  "tag": "php programming language",
-  "description": "",
   "nodes": [
     {
       "text": "php",
       "url": "http://www.wikiwand.com/en/PHP",
-      "fx": -146.12890625,
-      "fy": -366.44921875,
+      "fx": -147.0060992324561,
+      "fy": -340.2259457236842,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -53.33203125,
-      "fy": -258.15625
     },
     {
       "text": "basics",
@@ -56,6 +48,7 @@
     },
     {
       "text": "composer  ️",
+      "url": "/programming/programming-languages/php-/composer",
       "fx": -664.1871484917406,
       "fy": 7.753653592107867,
       "category": "mindmap"
@@ -92,8 +85,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/PHP/",
-      "fx": 16.87109375,
-      "fy": -372.44921875,
+      "fx": 15.993900767543892,
+      "fy": -386.2259457236842,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "php"
@@ -101,20 +94,29 @@
     {
       "text": "",
       "url": "https://github.com/php/php-src",
-      "fx": 16.87109375,
-      "fy": -332.44921875,
+      "fx": 15.993900767543892,
+      "fy": -346.2259457236842,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "php"
     },
     {
-      "text": "awesome php",
-      "url": "https://github.com/ziadoz/awesome-php",
-      "fx": 83.66796875,
-      "fy": -246.65625,
+      "text": "trending",
+      "url": "https://github.com/trending/php",
+      "fx": 15.993900767543892,
+      "fy": -306.2259457236842,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "php"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/ziadoz/awesome-php",
+      "fx": 15.993900767543892,
+      "fy": -266.2259457236842,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "php"
     },
     {
       "text": "1. php the right way",
@@ -128,19 +130,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "php",
-      "curve": {
-        "x": -39.8985,
-        "y": -52.8965
-      }
-    },
-    {
       "source": "php",
       "target": "basics",
       "curve": {
-        "x": -1.13281,
-        "y": 96.8941
+        "x": -0.694214,
+        "y": 83.7825
       }
     },
     {

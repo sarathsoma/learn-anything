@@ -1,0 +1,92 @@
+{
+  "title": "learn anything - mathematics - topology - algebraic topology - homology",
+  "nodes": [
+    {
+      "text": "homology",
+      "url": "http://www.wikiwand.com/en/Homology_(mathematics)",
+      "fx": -36.58017113095252,
+      "fy": -80.25911458333334,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 101.45312500000011,
+      "fy": 15.095238095251716
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -16.359188988095184,
+      "fy": 108.26822916666663
+    },
+    {
+      "text": "homological algebra  ️",
+      "url": "/mathematics/topology/algebraic-topology/homology/homological-algebra",
+      "fx": -254.46195027017467,
+      "fy": 229.52140723901482,
+      "category": "mindmap"
+    },
+    {
+      "text": "simplical homology",
+      "url": "http://www.wikiwand.com/en/Simplicial_homology",
+      "fx": 26.948288690476033,
+      "fy": 231.03050595239358,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "intuition of the meaning of homology groups   ️",
+      "url": "https://math.stackexchange.com/questions/40149/intuition-of-the-meaning-of-homology-groups",
+      "fx": 238.4531250000001,
+      "fy": 15.595238095251716,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. introduction to homology",
+      "url": "https://www.youtube.com/watch?v=ShWdSNJeuOg",
+      "fx": 139.64081101190482,
+      "fy": 119.76822916666663,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "homology",
+      "target": "basics",
+      "curve": {
+        "x": -4.88951,
+        "y": 93.0137
+      }
+    },
+    {
+      "source": "help",
+      "target": "homology",
+      "curve": {
+        "x": -49.2666,
+        "y": -46.4272
+      }
+    },
+    {
+      "source": "basics",
+      "target": "homological algebra  ️",
+      "curve": {
+        "x": -80.8014,
+        "y": 61.8766
+      }
+    },
+    {
+      "source": "basics",
+      "target": "simplical homology",
+      "curve": {
+        "x": 57.4037,
+        "y": 62.6311
+      }
+    }
+  ]
+}

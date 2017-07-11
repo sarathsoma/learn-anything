@@ -1,7 +1,5 @@
 {
   "title": "learn anything - data science - data mining",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "data mining",
@@ -13,13 +11,13 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -47.47988174855709,
-      "fy": -32.06861877441406
+      "fx": -52.253682620650125,
+      "fy": -19.43916746627451
     },
     {
       "text": "cluster analysis  ️",
       "url": "/data-science/data-mining/cluster-analysis",
-      "fx": -187.96670994065278,
+      "fx": -222.44163726623412,
       "fy": 110.48599777448067,
       "category": "mindmap"
     }
@@ -28,46 +26,46 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/datamining/",
-      "fx": 149.76878765987794,
+      "fx": 161.76878765987794,
       "fy": -172.34115982055664,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "data mining"
     },
     {
       "text": "1. basics of data mining",
       "url": "https://www.youtube.com/watch?v=u2oSiVOQRmg",
-      "fx": 108.52011825144291,
-      "fy": -80.56861877441406,
+      "fx": 110.74631737934988,
+      "fy": -69.93916746627451,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. MIT data mining",
       "url": "https://ocw.mit.edu/courses/sloan-school-of-management/15-062-data-mining-spring-2003/lecture-notes/",
-      "fx": 108.52011825144291,
-      "fy": -40.56861877441406,
+      "fx": 110.74631737934988,
+      "fy": -27.93916746627451,
       "category": "",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. data mining by Erik Demaine",
       "url": "http://people.cs.vt.edu/ramakris/Courses/CS6604/lectures.html",
-      "fx": 108.52011825144291,
-      "fy": -0.5686187744140625,
+      "fx": 110.74631737934988,
+      "fy": 14.060832533725488,
       "category": "",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. introduction to data mining",
       "url": "http://www-users.cs.umn.edu/%7Ekumar/dmbook/index.php#item2",
-      "fx": 108.52011825144291,
-      "fy": 39.43138122558594,
+      "fx": 110.74631737934988,
+      "fy": 56.06083253372549,
       "category": "",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     }
   ],
@@ -76,16 +74,16 @@
       "source": "data mining",
       "target": "basics",
       "curve": {
-        "x": -1.37433,
-        "y": 75.8863
+        "x": -3.76123,
+        "y": 82.201
       }
     },
     {
       "source": "basics",
       "target": "cluster analysis  ️",
       "curve": {
-        "x": -50.4934,
-        "y": 71.2773
+        "x": -65.344,
+        "y": 64.9626
       }
     }
   ]

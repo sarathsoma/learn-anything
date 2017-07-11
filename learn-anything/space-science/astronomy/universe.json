@@ -1,7 +1,5 @@
 {
   "title": "learn anything - space science - astronomy - universe",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "universe",
@@ -19,6 +17,7 @@
     },
     {
       "text": "Big Bang theory  ️",
+      "url": "/space-science/astronomy/universe/big-bang",
       "fx": 84.32251183749656,
       "fy": 20.99941916553263,
       "category": "mindmap"

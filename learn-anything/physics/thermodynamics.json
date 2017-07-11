@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - thermodynamics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "thermodynamics",
@@ -25,6 +23,7 @@
     },
     {
       "text": "laws of thermodynamics  ️",
+      "url": "/physics/thermodynamics/laws-of-thermodynamics",
       "fx": -212.77164288949268,
       "fy": 55.77391304347816,
       "category": "mindmap"

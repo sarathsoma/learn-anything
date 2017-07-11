@@ -1,0 +1,61 @@
+{
+  "title": "learn anything - network science - computer networking - protocols - irc",
+  "nodes": [
+    {
+      "text": "irc",
+      "url": "http://www.wikiwand.com/en/Internet_Relay_Chat",
+      "fx": 36.37249599358972,
+      "fy": -213.56119791666663,
+      "category": "wiki"
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 148.15584935897436,
+      "fy": -107.67548076923077
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 27.660890434403882,
+      "fy": -8.208263318396916
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "irc logs bot",
+      "url": "https://www.botbot.me/",
+      "fx": 289.15584935897436,
+      "fy": -93.17548076923077,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "tools"
+    },
+    {
+      "text": "1. explanation  ️",
+      "url": "https://superuser.com/a/316592/277517",
+      "fx": 183.66089043440388,
+      "fy": 3.2917366816030835,
+      "category": "stack exchange",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "irc",
+      "target": "basics",
+      "curve": {
+        "x": -2.3558,
+        "y": 101.427
+      }
+    },
+    {
+      "source": "tools",
+      "target": "irc",
+      "curve": {
+        "x": -54.3917,
+        "y": -51.6929
+      }
+    }
+  ]
+}

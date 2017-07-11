@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - economics - finance - financial markets",
+  "nodes": [
+    {
+      "text": "financial markets",
+      "url": "http://www.wikiwand.com/en/Financial_market",
+      "fx": 75.421875,
+      "fy": -87.54296875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 133.5,
+      "fy": 30
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction",
+      "url": "https://www.youtube.com/watch?v=6OoMQiClXCs",
+      "fx": 289.5,
+      "fy": 41.5,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "financial markets",
+      "target": "basics",
+      "curve": {
+        "x": -1.46094,
+        "y": 57.5215
+      }
+    }
+  ]
+}

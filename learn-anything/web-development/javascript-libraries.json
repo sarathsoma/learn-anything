@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - javascript libraries",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "javascript libraries",
@@ -132,6 +130,7 @@
     },
     {
       "text": "mojs  ️",
+      "url": "/web-development/javascript-libraries/mojs",
       "fx": -835.5243055555555,
       "fy": -82.46238425925924,
       "category": "mindmap"
@@ -201,6 +200,7 @@
     },
     {
       "text": "preact  ️",
+      "url": "/web-development/javascript-libraries/preact",
       "fx": -648.1077665308364,
       "fy": -54.25887593202708,
       "category": "mindmap"
@@ -319,12 +319,14 @@
     },
     {
       "text": "angularJS  ️",
+      "url": "/web-development/javascript-libraries/angularjs",
       "fx": 1320.347046903099,
       "fy": 40.78473478125636,
       "category": "mindmap"
     },
     {
       "text": "NativeScript  ️",
+      "url": "/web-development/javascript-libraries/nativescript",
       "fx": 572.1220703125,
       "fy": 73.072265625,
       "category": "mindmap"

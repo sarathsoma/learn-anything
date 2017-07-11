@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer vision - augmented reality",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "augmented reality",
@@ -25,6 +23,7 @@
     },
     {
       "text": "mixed reality  ️",
+      "url": "/computer-vision/augmented-reality/mixed-reality",
       "fx": -19.923828125,
       "fy": 133.533203125,
       "category": "mindmap"

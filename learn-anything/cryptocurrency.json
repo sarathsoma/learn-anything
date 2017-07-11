@@ -1,26 +1,24 @@
 {
   "title": "learn anything - cryptocurrency",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "cryptocurrency",
       "url": "http://www.wikiwand.com/en/Cryptocurrency",
-      "fx": -166.05311546228086,
-      "fy": -304.4728592878118,
+      "fx": -144.28053543179294,
+      "fy": -371.60081279390937,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 7.823332055214905,
-      "fy": -189.9132476993865
+      "fx": 16.933945622288093,
+      "fy": -236.79777513841083
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -148.2194370288944,
+      "fx": -141.252497242309,
       "fy": -59.980789830850654
     },
     {
@@ -60,21 +58,56 @@
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/kasketis/awesome-cryptocurrencies",
+      "fx": 117.71946456820706,
+      "fy": -357.60081279390937,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "cryptocurrency"
+    },
+    {
       "text": "overview of top cryptocurrencies in the market",
       "url": "https://github.com/kilimchoi/cryptocurrency",
-      "fx": 144.8233320552149,
-      "fy": -189.4132476993865,
+      "fx": 153.9339456222881,
+      "fy": -253.29777513841083,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
+      "text": "cryptominded",
+      "url": "https://cryptominded.com/",
+      "fx": 153.9339456222881,
+      "fy": -191.29777513841083,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1 how bitcoin and other cryptocurrencies work",
+      "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4&amp;t=540s",
+      "fx": 40.747502757690995,
+      "fy": -121.48078983085065,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. bitcoin and cryptocurrency technologies",
       "url": "https://www.coursera.org/learn/cryptocurrency",
-      "fx": 33.78056297110561,
+      "fx": 40.747502757690995,
       "fy": -59.480789830850654,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. starter’s guide to cryptocurrencies  ️",
+      "url": "https://cryptominded.com/starters-guide-cryptocurrencies/",
+      "fx": 40.747502757690995,
+      "fy": 2.5192101691493463,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -83,23 +116,23 @@
       "source": "cryptocurrency",
       "target": "basics",
       "curve": {
-        "x": -4.08316,
-        "y": 122.246
+        "x": -11.486,
+        "y": 155.81
       }
     },
     {
       "source": "help",
       "target": "cryptocurrency",
       "curve": {
-        "x": -55.6882,
-        "y": -56.0298
+        "x": -49.3573,
+        "y": -66.1515
       }
     },
     {
       "source": "basics",
       "target": "currencies",
       "curve": {
-        "x": 26.3191,
+        "x": 22.8356,
         "y": 65.473
       }
     },
@@ -131,7 +164,7 @@
       "source": "basics",
       "target": "proof-of-work system",
       "curve": {
-        "x": -127.625,
+        "x": -131.108,
         "y": 52.8714
       }
     }

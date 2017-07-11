@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - lambda calculus",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "lambda calculus",
@@ -20,8 +18,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -8.211908340454102,
-      "fy": -101.64071083068848
+      "fx": -49.3603458404541,
+      "fy": -79.95711708068848
     }
   ],
   "subnodes": [
@@ -44,10 +42,19 @@
       "parent": "help"
     },
     {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=eis11j_iGMs",
+      "fx": 132.6396541595459,
+      "fy": -85.45711708068848,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. learn lambda calculus",
       "url": "http://safalra.com/lambda-calculus/",
-      "fx": 173.7880916595459,
-      "fy": -87.14071083068848,
+      "fx": 132.6396541595459,
+      "fy": -45.45711708068848,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -65,8 +72,8 @@
       "source": "lambda calculus",
       "target": "basics",
       "curve": {
-        "x": -0.672365,
-        "y": 101.795
+        "x": -21.2466,
+        "y": 112.637
       }
     }
   ]

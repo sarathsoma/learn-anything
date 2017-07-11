@@ -1,7 +1,5 @@
 {
   "title": "learn anything - data science - data processing - apache hadoop",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "apache hadoop",
@@ -26,19 +24,19 @@
   ],
   "subnodes": [
     {
-      "text": "awesome hadoop",
+      "text": "awesome",
       "url": "https://github.com/youngwookim/awesome-hadoop",
-      "fx": 67.00646018981934,
-      "fy": -87.77765464782715,
+      "fx": 65.80177307128906,
+      "fy": -170.28180015087128,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "apache hadoop"
     },
     {
       "text": "how to learn hadoop for free  ️",
       "url": "http://www.johnwittenauer.net/how-to-learn-hadoop-for-free/",
       "fx": 67.00646018981934,
-      "fy": -47.77765464782715,
+      "fy": -67.77765464782715,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"

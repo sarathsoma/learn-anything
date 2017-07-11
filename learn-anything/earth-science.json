@@ -1,7 +1,5 @@
 {
   "title": "learn anything - earth science",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "earth science",
@@ -20,6 +18,7 @@
     },
     {
       "text": "atmospheric sciences  ️",
+      "url": "/earth-science/atmospheric-sciences",
       "fx": -205.84662356321837,
       "fy": -37.94169061307542,
       "category": "mindmap"

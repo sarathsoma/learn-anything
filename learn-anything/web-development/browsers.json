@@ -1,40 +1,38 @@
 {
   "title": "learn anything - web development - browsers",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
-      "text": "web browser",
+      "text": "web browsers",
       "note": "",
       "url": "http://www.wikiwand.com/en/Web_browser",
-      "fx": 112.77969162381282,
-      "fy": -487.50266349981206,
+      "fx": 120.04050893151566,
+      "fy": -584.9988574100678,
       "category": "wiki"
     },
     {
-      "text": "help",
+      "text": "articles",
       "url": "",
-      "fx": 300.6969428396351,
-      "fy": -376.9999343487396
+      "fx": 391.6577792761152,
+      "fy": -450.06044305034084
     },
     {
       "text": "basics",
       "url": "",
       "fx": 158.1325827205867,
-      "fy": -276.2799862132355
+      "fy": -310.96097579656873
     },
     {
       "text": "safari  ️",
       "url": "/web-development/browsers/safari",
-      "fx": -256.5461874166565,
-      "fy": -69.69237795869185,
+      "fx": -282.0577583312988,
+      "fy": -69.69337463378906,
       "category": "mindmap"
     },
     {
       "text": "google chrome  ️",
       "url": "/web-development/browsers/chrome",
-      "fx": -133.6728210607605,
-      "fy": -68.69768134156539,
+      "fx": -151.93059730529785,
+      "fy": -68.6986780166626,
       "category": "mindmap"
     },
     {
@@ -46,22 +44,37 @@
     },
     {
       "text": "firefox  ️",
-      "fx": 211.53131064812715,
-      "fy": -63.910092394017965,
+      "url": "/web-development/browsers/firefox",
+      "fx": 210.25089645385742,
+      "fy": -63.91109228134155,
       "category": "mindmap"
     },
     {
       "text": "tor browser",
       "url": "https://www.torproject.org/projects/torbrowser.html.en",
-      "fx": 342.56393608633266,
-      "fy": -61.05542530150882
+      "fx": 345.3220672607422,
+      "fy": -61.05742073059082
     },
     {
       "text": "microsoft edge",
       "url": "http://www.wikiwand.com/en/Microsoft_Edge",
-      "fx": 502.14220330231535,
-      "fy": -60.804166227901476,
+      "fx": 504.3954544067383,
+      "fy": -60.80516576766968,
       "category": "wiki"
+    },
+    {
+      "text": "headless browsers  ️",
+      "url": "/web-development/browsers/headless",
+      "fx": 731.4829406738281,
+      "fy": -59.952781200408936,
+      "category": "mindmap"
+    },
+    {
+      "text": "WebExtensions  ️",
+      "url": "/web-development/browsers/webextensions",
+      "fx": 997.5948028564453,
+      "fy": -57.58321523666382,
+      "category": "mindmap"
     },
     {
       "text": "Blink",
@@ -104,42 +117,35 @@
       "fx": 197.65024833650978,
       "fy": 196.64963854728865,
       "category": "wiki"
-    },
-    {
-      "text": "headless browser",
-      "url": "http://www.wikiwand.com/en/Headless_browser",
-      "fx": 492.2284165174583,
-      "fy": 206.61349678228856,
-      "category": "wiki"
     }
   ],
   "subnodes": [
     {
-      "text": "awesome browser extensions and apps",
+      "text": "awesome",
       "url": "https://github.com/vitalets/awesome-browser-extensions-and-apps",
-      "fx": 437.6969428396351,
-      "fy": -376.4999343487396,
+      "fx": 417.04050893151566,
+      "fy": -570.9988574100678,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "web browsers"
+    },
+    {
+      "text": "17: the best kind of web  ️",
+      "url": "https://medium.com/@NikitaVoloboev/the-best-kind-of-web-3c9131a1fd99",
+      "fx": 560.6577792761152,
+      "fy": -437.56044305034084,
+      "category": "article",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "articles"
     },
     {
       "text": "1. how browsers work",
       "url": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
-      "fx": 314.1325827205867,
-      "fy": -264.7799862132355,
+      "fx": 321.1325827205867,
+      "fy": -298.46097579656873,
       "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
-    },
-    {
-      "text": "list of all headless web browsers",
-      "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
-      "fx": 778.2284165174583,
-      "fy": 220.61349678228856,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "headless browser"
     }
   ],
   "connections": [
@@ -155,8 +161,8 @@
       "source": "WebKit",
       "target": "safari  ️",
       "curve": {
-        "x": -72.2981,
-        "y": -62.6907
+        "x": -85.0539,
+        "y": -62.6912
       }
     },
     {
@@ -171,8 +177,8 @@
       "source": "Chrome V8  ️",
       "target": "google chrome  ️",
       "curve": {
-        "x": -80.181,
-        "y": -63.146
+        "x": -89.3099,
+        "y": -63.1465
       }
     },
     {
@@ -195,8 +201,8 @@
       "source": "Blink",
       "target": "google chrome  ️",
       "curve": {
-        "x": -167.895,
-        "y": -61.2483
+        "x": -177.024,
+        "y": -61.2488
       }
     },
     {
@@ -211,8 +217,8 @@
       "source": "Gecko",
       "target": "firefox  ️",
       "curve": {
-        "x": -83.9565,
-        "y": -59.173
+        "x": -84.5967,
+        "y": -59.1735
       }
     },
     {
@@ -227,40 +233,32 @@
       "source": "Chakra",
       "target": "microsoft edge",
       "curve": {
-        "x": 5.68641,
-        "y": -58.0352
+        "x": 6.81304,
+        "y": -58.0357
       }
     },
     {
-      "source": "web browser",
+      "source": "web browsers",
       "target": "basics",
       "curve": {
-        "x": -6.07355,
-        "y": 104.361
-      }
-    },
-    {
-      "source": "help",
-      "target": "web browser",
-      "curve": {
-        "x": -60.4586,
-        "y": -54.0014
+        "x": -9.70396,
+        "y": 135.769
       }
     },
     {
       "source": "basics",
       "target": "safari  ️",
       "curve": {
-        "x": -202.589,
-        "y": 104.544
+        "x": -215.345,
+        "y": 121.884
       }
     },
     {
       "source": "basics",
       "target": "google chrome  ️",
       "curve": {
-        "x": -119.153,
-        "y": 105.041
+        "x": -128.282,
+        "y": 122.381
       }
     },
     {
@@ -268,31 +266,55 @@
       "target": "brave",
       "curve": {
         "x": -34.8304,
-        "y": 106.247
+        "y": 123.587
       }
     },
     {
       "source": "basics",
       "target": "firefox  ️",
       "curve": {
-        "x": 32.9494,
-        "y": 107.435
+        "x": 32.3092,
+        "y": 124.775
       }
     },
     {
       "source": "basics",
       "target": "tor browser",
       "curve": {
-        "x": 103.716,
-        "y": 107.612
+        "x": 105.095,
+        "y": 124.951
       }
     },
     {
       "source": "basics",
       "target": "microsoft edge",
       "curve": {
-        "x": 198.505,
-        "y": 108.988
+        "x": 199.632,
+        "y": 126.328
+      }
+    },
+    {
+      "source": "basics",
+      "target": "headless browsers  ️",
+      "curve": {
+        "x": 417.591,
+        "y": 140.216
+      }
+    },
+    {
+      "source": "basics",
+      "target": "WebExtensions  ️",
+      "curve": {
+        "x": 586.788,
+        "y": 133.428
+      }
+    },
+    {
+      "source": "articles",
+      "target": "web browsers",
+      "curve": {
+        "x": -103.809,
+        "y": -66.7192
       }
     }
   ]

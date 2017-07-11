@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer graphics - 3d modelling",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "3d modelling",
@@ -12,34 +10,37 @@
       "category": "wiki"
     },
     {
-      "text": "texture mapping  ️",
-      "fx": 85.36170212766001,
-      "fy": -253.37965425531928,
-      "category": "mindmap"
-    },
-    {
       "text": "software",
       "url": "",
       "fx": -117.61457060044074,
       "fy": -211.65438033873778
     },
     {
+      "text": "texture mapping  ️",
+      "url": "/computer-graphics/3d-modelling/texture-mapping",
+      "fx": 12.538518366976405,
+      "fy": -210.56114463993464,
+      "category": "mindmap"
+    },
+    {
       "text": "autodesk 3DS  ️",
-      "fx": -187.86188674991968,
-      "fy": -94.34090518951416,
+      "url": "/computer-graphics/3d-modelling/autodesk-3ds-max",
+      "fx": -189.24991035461426,
+      "fy": -94.3419075012207,
       "category": "mindmap"
     },
     {
       "text": "cinema 4D  ️",
-      "fx": -373.80771178719937,
-      "fy": -93.92256090340732,
+      "url": "/computer-graphics/3d-modelling/cinema-4d",
+      "fx": -376.3977165222168,
+      "fy": -93.92355918884277,
       "category": "mindmap"
     },
     {
       "text": "blender  ️",
       "url": "/computer-graphics/3d-modelling/blender",
-      "fx": 27.939558029174805,
-      "fy": -92.74507427215576,
+      "fx": 31.896991729736328,
+      "fy": -92.7460765838623,
       "category": "mindmap"
     }
   ],
@@ -47,10 +48,10 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/3Dmodeling/",
-      "fx": 207.52252327127667,
+      "fx": 222.52252327127667,
       "fy": -406.5496176861701,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "3d modelling"
     }
   ],
@@ -67,32 +68,32 @@
       "source": "software",
       "target": "blender  ️",
       "curve": {
-        "x": 70.2771,
-        "y": 59.4547
+        "x": 72.2558,
+        "y": 59.4542
       }
     },
     {
       "source": "software",
       "target": "autodesk 3DS  ️",
       "curve": {
-        "x": -23.6237,
-        "y": 58.6568
+        "x": -24.3177,
+        "y": 58.6563
       }
     },
     {
       "source": "software",
       "target": "cinema 4D  ️",
       "curve": {
-        "x": -132.458,
-        "y": 42.7495
+        "x": -133.753,
+        "y": 42.749
       }
     },
     {
       "source": "3d modelling",
       "target": "texture mapping  ️",
       "curve": {
-        "x": 67.9196,
-        "y": 82.335
+        "x": 31.508,
+        "y": 103.744
       }
     }
   ]

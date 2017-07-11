@@ -1,7 +1,5 @@
 {
   "title": "learn anything - machine learning - neural networks - recurrent neural networks",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "recurrent neural networks",
@@ -25,6 +23,7 @@
     },
     {
       "text": "Hopfield networks  ️",
+      "url": "/machine-learning/neural-networks/recurrent-neural-networks/hopfield-networks",
       "fx": -86.28232147982021,
       "fy": 219.58507862794318,
       "category": "mindmap"

@@ -1,33 +1,52 @@
 {
   "title": "learn anything - computer science - data structures",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "data structures",
       "note": "",
       "url": "http://www.wikiwand.com/en/Data_structure",
-      "fx": -108.23762920411082,
-      "fy": -586.9148180244451,
+      "fx": -21.651691704110817,
+      "fy": -784.6218492744451,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 45.72922185949369,
-      "fy": -474.5040462596995
+      "fx": 132.3151593594937,
+      "fy": -672.2110775096995
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -77.0762246621614,
-      "fy": -373.0040118243252
+      "fx": 9.509712837838606,
+      "fy": -570.7110430743252
+    },
+    {
+      "text": "disjoint sets  ️",
+      "url": "/computer-science/data-structures/disjoint-sets",
+      "fx": -887.1788383152174,
+      "fy": -501.7973845108695,
+      "category": "mindmap"
     },
     {
       "text": "arrays  ️",
       "url": "/computer-science/data-structures/arrays",
-      "fx": -693.7373972819214,
-      "fy": -375.3333333333478,
+      "fx": -905.8769351546116,
+      "fy": -386.3429312375182,
+      "category": "mindmap"
+    },
+    {
+      "text": "binary heaps  ️",
+      "url": "/computer-science/data-structures/binary-heaps",
+      "fx": 504.68657483552397,
+      "fy": -379.2857730263164,
+      "category": "mindmap"
+    },
+    {
+      "text": "heaps  ️",
+      "url": "/computer-science/data-structures/heaps",
+      "fx": 283.20855614973425,
+      "fy": -375.8983957219252,
       "category": "mindmap"
     },
     {
@@ -38,17 +57,17 @@
       "category": "wiki"
     },
     {
+      "text": "stack  ️",
+      "url": "/computer-science/data-structures/stack",
+      "fx": 322.33470875873377,
+      "fy": -276.4976379946751,
+      "category": "mindmap"
+    },
+    {
       "text": "serialisation  ️",
       "url": "/computer-science/data-structures/serialisation",
       "fx": -524.3088353913074,
       "fy": -262.5840053041354,
-      "category": "mindmap"
-    },
-    {
-      "text": "linked list  ️",
-      "url": "/computer-science/data-structures/linked-lists",
-      "fx": 347.8290108009471,
-      "fy": -225.8926435687746,
       "category": "mindmap"
     },
     {
@@ -61,23 +80,16 @@
     {
       "text": "self balancing binary search tree",
       "url": "http://www.wikiwand.com/en/Self-balancing_binary_search_tree",
-      "fx": -913.5512820512841,
-      "fy": -197.1282051282053,
+      "fx": -906.2973758012841,
+      "fy": -180.6203926282053,
       "category": "wiki"
     },
     {
-      "text": "priority queue",
-      "url": "http://www.wikiwand.com/en/Priority_queue",
-      "fx": 113.4727847789793,
-      "fy": -149.05775391277962,
-      "category": "wiki"
-    },
-    {
-      "text": "tries",
-      "url": "http://www.wikiwand.com/en/Trie",
-      "fx": 336.08984375,
-      "fy": -118.12109375,
-      "category": "wiki"
+      "text": "linked list  ️",
+      "url": "/computer-science/data-structures/linked-lists",
+      "fx": 280.7795517988054,
+      "fy": -165.11773950447207,
+      "category": "mindmap"
     },
     {
       "text": "trees",
@@ -90,9 +102,16 @@
       "text": "hash tables  ️",
       "note": "a hash function is any function that can be used to map data of arbitrary size to data of fixed size  the values returned by a hash function are called hash values, hash codes, digests or simply hashes  one use is a data structure called a hash table, widely used in computer software for rapid data lookup",
       "url": "/computer-science/data-structures/hash-tables",
-      "fx": -17.332408813639177,
+      "fx": -66.16053381363918,
       "fy": -63.87630990227785,
       "category": "mindmap"
+    },
+    {
+      "text": "queues",
+      "url": "http://www.wikiwand.com/en/Queue_(abstract_data_type)",
+      "fx": 169.873693452829,
+      "fy": -59.62684513566683,
+      "category": "wiki"
     },
     {
       "text": "log-structured merge-tree",
@@ -104,14 +123,22 @@
     {
       "text": "binary search trees  ️",
       "url": "/computer-science/data-structures/binary-search-trees",
-      "fx": -801.4516356306934,
-      "fy": 27.95839257682394,
+      "fx": -821.8800659179688,
+      "fy": 27.9573917388916,
       "category": "mindmap"
     },
     {
       "text": "tries  ️",
-      "fx": -241.4198412009564,
-      "fy": 28.558378941724982,
+      "url": "/computer-science/data-structures/tries",
+      "fx": -221.5940933227539,
+      "fy": 28.557376861572266,
+      "category": "mindmap"
+    },
+    {
+      "text": "priority queue  ️",
+      "url": "/computer-science/data-structures/priority-queue",
+      "fx": 140.78483797898934,
+      "fy": 83.76641857090294,
       "category": "mindmap"
     },
     {
@@ -133,28 +160,37 @@
     {
       "text": "some data structures",
       "url": "https://github.com/voxsim/knowledge/tree/master/computer-science/data-structures",
-      "fx": 182.7292218594937,
-      "fy": -494.0040462596995,
+      "fx": 273.3151397705078,
+      "fy": -719.1449890136719,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "best online video courses for data structures and algorithms  ️",
       "url": "https://www.techiedelight.com/best-online-courses-data-structures-algorithms/",
-      "fx": 182.7292218594937,
-      "fy": -454.0040462596995,
+      "fx": 273.31517028808594,
+      "fy": -679.015251159668,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. data structures by Bereley uni",
       "url": "https://www.youtube.com/watch?v=QMV45tHCYNI&amp;list=PL4BBB74C7D2A1049C",
-      "fx": 78.9237753378386,
-      "fy": -361.5040118243252,
+      "fx": 172.50971221923828,
+      "fy": -588.9015731811523,
       "category": "",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. 10 common data structures explained  ️",
+      "url": "https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b",
+      "fx": 172.50972366333008,
+      "fy": -523.7831649780273,
+      "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -187,112 +223,144 @@
       "source": "basics",
       "target": "trees",
       "curve": {
-        "x": -269.276,
-        "y": 127.17
+        "x": -312.569,
+        "y": 226.023
       }
     },
     {
       "source": "basics",
       "target": "conflict-free replicated data type",
       "curve": {
-        "x": -48.1865,
-        "y": 91.8107
+        "x": -91.4794,
+        "y": 190.664
       }
     },
     {
       "source": "basics",
       "target": "hash tables  ️",
       "curve": {
-        "x": 96.2887,
-        "y": 167.785
+        "x": 2.8894,
+        "y": 266.638
       }
     },
     {
       "source": "basics",
       "target": "serialisation  ️",
       "curve": {
-        "x": -204.616,
-        "y": 56.46
-      }
-    },
-    {
-      "source": "basics",
-      "target": "priority queue",
-      "curve": {
-        "x": 118.775,
-        "y": 113.223
-      }
-    },
-    {
-      "source": "basics",
-      "target": "tries",
-      "curve": {
-        "x": 303.669,
-        "y": 165.324
+        "x": -247.909,
+        "y": 155.313
       }
     },
     {
       "source": "basics",
       "target": "self balancing binary search tree",
       "curve": {
-        "x": -478.024,
-        "y": 64.1399
+        "x": -492.724,
+        "y": 188.4
       }
     },
     {
       "source": "basics",
       "target": "bloom filter",
       "curve": {
-        "x": -486.745,
-        "y": 31.9298
+        "x": -530.038,
+        "y": 130.783
       }
     },
     {
       "source": "basics",
       "target": "linked list  ️",
       "curve": {
-        "x": 225.953,
-        "y": 74.8057
+        "x": 136.796,
+        "y": 228.555
       }
     },
     {
       "source": "basics",
       "target": "arrays  ️",
       "curve": {
-        "x": -309.081,
-        "y": -1.16466
+        "x": -458.444,
+        "y": 92.184
       }
     },
     {
       "source": "trees",
       "target": "binary search trees  ️",
       "curve": {
-        "x": -178.98,
-        "y": 39.4753
+        "x": -189.194,
+        "y": 39.4748
       }
     },
     {
       "source": "binary search trees  ️",
       "target": "red-black tree  ️",
       "curve": {
-        "x": -17.6138,
-        "y": 67.7028
+        "x": -7.39958,
+        "y": 67.7033
       }
     },
     {
       "source": "trees",
       "target": "tries  ️",
       "curve": {
-        "x": 102.595,
-        "y": 58.9155
+        "x": 112.508,
+        "y": 58.915
       }
     },
     {
       "source": "tries  ️",
       "target": "quadtrees  ️",
       "curve": {
-        "x": 15.1988,
-        "y": 61.7675
+        "x": 5.28593,
+        "y": 61.768
+      }
+    },
+    {
+      "source": "basics",
+      "target": "stack  ️",
+      "curve": {
+        "x": 136.505,
+        "y": 161.634
+      }
+    },
+    {
+      "source": "basics",
+      "target": "queues",
+      "curve": {
+        "x": 87.682,
+        "y": 256.292
+      }
+    },
+    {
+      "source": "queues",
+      "target": "priority queue  ️",
+      "curve": {
+        "x": 3.45557,
+        "y": 71.6966
+      }
+    },
+    {
+      "source": "basics",
+      "target": "disjoint sets  ️",
+      "curve": {
+        "x": -436.845,
+        "y": 34.4568
+      }
+    },
+    {
+      "source": "basics",
+      "target": "heaps  ️",
+      "curve": {
+        "x": 113.053,
+        "y": 115.952
+      }
+    },
+    {
+      "source": "heaps  ️",
+      "target": "binary heaps  ️",
+      "curve": {
+        "x": 119.489,
+        "y": -2.44369
       }
     }
   ]

@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - neuroscience - human brain - cerebral cortex",
+  "nodes": [
+    {
+      "text": "cerebral cortex",
+      "url": "http://www.wikiwand.com/en/Cerebral_cortex",
+      "fx": 92.0625,
+      "fy": -104.8359375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 144.5,
+      "fy": 30
+    },
+    {
+      "text": "visual cortex  ️",
+      "url": "/neuroscience/human-brain/cerebral-cortex/visual-cortex",
+      "fx": 18.70014133165853,
+      "fy": 179.859335741206,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=mGxomKWfJXs",
+      "fx": 300.5,
+      "fy": 41.5,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "cerebral cortex",
+      "target": "basics",
+      "curve": {
+        "x": -0.28125,
+        "y": 66.168
+      }
+    },
+    {
+      "source": "basics",
+      "target": "visual cortex  ️",
+      "curve": {
+        "x": -49.1499,
+        "y": 74.9297
+      }
+    }
+  ]
+}

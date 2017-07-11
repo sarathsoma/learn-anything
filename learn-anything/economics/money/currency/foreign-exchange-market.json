@@ -1,0 +1,56 @@
+{
+  "title": "learn anything - economics - money - currency - foreign exchange market",
+  "nodes": [
+    {
+      "text": "foreign exchange market",
+      "url": "http://www.wikiwand.com/en/Foreign_exchange_market",
+      "fx": 78.44921875,
+      "fy": -214.125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 174.30177418320227,
+      "fy": -62.14896136246432
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Forex/",
+      "fx": 453.44921875,
+      "fy": -200.125,
+      "category": "reddit",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "foreign exchange market"
+    },
+    {
+      "text": "1. how to trade forex",
+      "url": "https://www.babypips.com/learn",
+      "fx": 337.30177418320227,
+      "fy": -68.14896136246432,
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. getting started guide",
+      "url": "https://www.reddit.com/r/Forex/wiki/index",
+      "fx": 337.30177418320227,
+      "fy": -31.14896136246432,
+      "category": "reddit",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "foreign exchange market",
+      "target": "basics",
+      "curve": {
+        "x": -5.07372,
+        "y": 75.238
+      }
+    }
+  ]
+}

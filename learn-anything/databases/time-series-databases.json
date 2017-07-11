@@ -1,7 +1,5 @@
 {
   "title": "learn anything - databases - time series databases",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "time series database",
@@ -13,6 +11,7 @@
     },
     {
       "text": "influxDB  ️",
+      "url": "/databases/time-series-databases/influxdb",
       "fx": -190.14985015272623,
       "fy": -104.79893100520178,
       "category": "mindmap"

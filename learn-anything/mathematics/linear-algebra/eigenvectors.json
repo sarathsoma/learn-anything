@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - linear algebra - eigenvectors",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "eigenvectors and eigenvalues",
@@ -18,6 +16,7 @@
     },
     {
       "text": "spectral theory  ️",
+      "url": "/mathematics/linear-algebra/eigenvectors/spectral-theory-",
       "fx": 66.8232421875,
       "fy": 202.2978515625,
       "category": "mindmap"

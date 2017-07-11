@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer science - recursion",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "recursion",
@@ -14,46 +12,47 @@
       "text": "articles",
       "url": "",
       "fx": 90.55882393359718,
-      "fy": -238.0426217568163
-    },
-    {
-      "text": "interesting",
-      "url": "",
-      "fx": 142.31196581196627,
-      "fy": -129.58723958333326
+      "fy": -250.78567731237183
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -37.007342896174805,
-      "fy": -9.546106557376959
+      "fx": -79.03808227525951,
+      "fy": -106.17777745490281
+    },
+    {
+      "text": "tail recursion  ️",
+      "url": "/computer-science/recursion/tail-recursion",
+      "fx": -162.72488925934226,
+      "fy": 25.232365871174125,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/passy/awesome-recursion-schemes",
+      "fx": 159.9976008858266,
+      "fy": -342.49495570866145,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "recursion"
+    },
+    {
       "text": "16: recursion, recursion, recursion  ️",
       "url": "https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d",
       "fx": 252.55882393359718,
-      "fy": -226.5426217568163,
+      "fy": -239.28567731237183,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
     },
     {
-      "text": "awesome recursion schemes",
-      "url": "https://github.com/passy/awesome-recursion-schemes",
-      "fx": 333.3119658119663,
-      "fy": -118.08723958333326,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
       "text": "1. what is recursion?",
       "url": "https://www.youtube.com/watch?v=Mv9NEXX1VHc",
-      "fx": 144.9926571038252,
-      "fy": -18.04610655737696,
+      "fx": 102.96191772474049,
+      "fy": -145.6777774549028,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -61,10 +60,19 @@
     {
       "text": "1. example of recursion",
       "url": "https://www.reddit.com/r/learnprogramming/comments/3dmyap/wrapping_my_head_around_recursion/ct6sfcz/",
-      "fx": 144.9926571038252,
-      "fy": 21.95389344262304,
+      "fx": 102.96191772474049,
+      "fy": -105.67777745490281,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. the most difficult program to compute?",
+      "url": "https://www.youtube.com/watch?v=i7sm9dzFtEI",
+      "fx": 102.96191772474049,
+      "fy": -65.67777745490281,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -74,23 +82,23 @@
       "target": "recursion",
       "curve": {
         "x": -58.2806,
-        "y": -57.9762
+        "y": -51.6047
       }
     },
     {
       "source": "recursion",
       "target": "basics",
       "curve": {
-        "x": -7.00248,
-        "y": 172.225
+        "x": -28.0178,
+        "y": 123.909
       }
     },
     {
-      "source": "interesting",
-      "target": "articles",
+      "source": "basics",
+      "target": "tail recursion  ️",
       "curve": {
-        "x": -33.1266,
-        "y": -54.2277
+        "x": -34.3434,
+        "y": 65.7051
       }
     }
   ]

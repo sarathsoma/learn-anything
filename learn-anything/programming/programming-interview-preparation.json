@@ -1,17 +1,16 @@
 {
   "title": "learn anything - programming - programming interview preparation",
-  "tag": "programming interviews",
-  "description": "",
   "nodes": [
     {
       "text": "prepare",
       "note": "",
       "url": "",
-      "fx": 307.12745666503906,
-      "fy": -637.3891143798828
+      "fx": 321.76866036874276,
+      "fy": -682.0534662317348
     },
     {
       "text": "interview questions  ️",
+      "url": "/programming/programming-interview-preparation/interview-questions",
       "fx": 133.30859375,
       "fy": -508.1564797794118,
       "category": "mindmap"
@@ -32,8 +31,8 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 999.3141880201331,
-      "fy": 79.75405040814758
+      "fx": 961.8220005201331,
+      "fy": 134.54701915814758
     }
   ],
   "subnodes": [
@@ -41,230 +40,266 @@
       "text": "1. choose a programming language",
       "note": "java, python are the two great choices",
       "url": "",
-      "fx": 501.12745666503906,
-      "fy": -758.8891143798828,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 522.7686603687428,
+      "fy": -870.0534662317348,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "prepare"
+    },
+    {
+      "text": "java  ️",
+      "url": "/programming/programming-languages/java",
+      "fx": 860.7686603687428,
+      "fy": -881.0534662317348,
+      "category": "mindmap",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "1. choose a programming language"
+    },
+    {
+      "text": "python  ️",
+      "url": "/programming/programming-languages/python",
+      "fx": 860.7686603687428,
+      "fy": -839.0534662317348,
+      "category": "mindmap",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "1. choose a programming language"
     },
     {
       "text": "2. coding interview university",
       "note": "is a complete study plan that covers algorithms, data structures and various cs topics",
       "url": "https://github.com/jwasham/coding-interview-university",
-      "fx": 501.12745666503906,
-      "fy": -724.8891143798828,
+      "fx": 522.7686603687428,
+      "fy": -797.0534662317348,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "prepare"
     },
     {
       "text": "2. cracking the coding interview",
       "note": "covers a great range of questions you may get asked with solutions  is quite useful to attempt to do all the exercises yourself",
       "url": "https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview",
-      "fx": 501.12745666503906,
-      "fy": -676.8891143798828,
+      "fx": 522.7686603687428,
+      "fy": -755.0534662317348,
       "category": "non-free book",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "prepare"
     },
     {
       "text": "check your work with official answers for the book",
       "url": "https://github.com/careercup/ctci",
-      "fx": 882.1274566650391,
-      "fy": -684.8891143798828,
-      "color": "rgba(255, 189, 10, 1.0)",
+      "fx": 910.7686603687428,
+      "fy": -752.5534662317348,
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "2. cracking the coding interview"
     },
     {
       "text": "2. elements of programming interviews",
       "url": "http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews",
-      "fx": 501.12745666503906,
-      "fy": -628.8891143798828,
+      "fx": 522.7686603687428,
+      "fy": -688.0534662317348,
       "category": "non-free book",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "prepare"
+    },
+    {
+      "text": "2. leetcode grinding guide",
+      "url": "https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/",
+      "fx": 522.7686603687428,
+      "fy": -621.0534662317348,
+      "category": "reddit",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "prepare"
     },
     {
       "text": "2. leetcode",
       "note": "start from easy problems and go from there  do not get demotivated if you don’t manage to come up with solutions of your own  do not look at solutions straight away and try your best to first understand the problem and then give your best solution to the problem",
       "url": "https://leetcode.com",
-      "fx": 501.12745666503906,
-      "fy": -543.8891143798828,
-      "color": "rgba(34, 205, 224, 1.0)",
+      "fx": 522.7686603687428,
+      "fy": -534.5534662317348,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "prepare"
     },
     {
       "text": "in python",
       "url": "https://github.com/csujedihy/lc-all-solutions",
-      "fx": 689.1274566650391,
-      "fy": -566.8891143798828,
+      "fx": 721.7686603687428,
+      "fy": -579.0534662317348,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "2. leetcode"
     },
     {
       "text": "in java",
       "url": "https://github.com/gouthampradhan/leetcode",
-      "fx": 689.1274566650391,
-      "fy": -526.8891143798828,
+      "fx": 721.7686603687428,
+      "fy": -537.0534662317348,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
+      "parent": "2. leetcode"
+    },
+    {
+      "text": "in go",
+      "url": "https://github.com/nikitavoloboev/go-leetcode",
+      "fx": 721.7686603687428,
+      "fy": -495.0534662317348,
+      "category": "github",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "2. leetcode"
     },
     {
       "text": "2. interviewbit",
       "url": "https://www.interviewbit.com/",
-      "fx": 501.12745666503906,
-      "fy": -486.8891143798828,
-      "color": "rgba(49, 187, 71, 1.0)",
+      "fx": 522.7686603687428,
+      "fy": -453.0534662317348,
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "prepare"
     },
     {
       "text": "coding interview in java",
       "note": "goes over various solutions for problems in Java",
       "url": "http://www.programcreek.com/wp-content/uploads/2012/11/coding-interview-6.pdf",
-      "fx": 1033.8238432678995,
-      "fy": -515.0419941672797,
+      "fx": 1037.8238432678995,
+      "fy": -542.0419941672797,
       "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "algoDS",
       "url": "https://github.com/sherxon/AlgoDS",
-      "fx": 1033.8238432678995,
-      "fy": -475.04199416727965,
+      "fx": 1037.8238432678995,
+      "fy": -500.04199416727965,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "interactive coding challenges",
       "url": "https://github.com/donnemartin/interactive-coding-challenges",
-      "fx": 1033.8238432678995,
-      "fy": -435.04199416727965,
+      "fx": 1037.8238432678995,
+      "fy": -458.04199416727965,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "great overview of programming topics",
       "url": "https://docs.google.com/document/d/1VNoEUzBtyCw0fDw0X_bvuhmCwz1qhNjETPJc5VRZqm8/edit",
-      "fx": 1033.8238432678995,
-      "fy": -395.04199416727965,
-      "color": "rgba(34, 205, 224, 1.0)",
+      "fx": 1037.8238432678995,
+      "fy": -416.04199416727965,
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "help"
     },
     {
       "text": "technical interview cheatsheet",
       "url": "https://gist.github.com/TSiege/cbb0507082bb18ff7e4b",
-      "fx": 1033.8238432678995,
-      "fy": -339.04199416727965,
-      "color": "rgba(209, 21, 88, 1.0)",
+      "fx": 1037.8238432678995,
+      "fy": -354.04199416727965,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
     },
     {
       "text": "hacking a google interview",
       "url": "http://courses.csail.mit.edu/iap/interview/materials.php",
-      "fx": 1033.8238432678995,
-      "fy": -305.04199416727965,
-      "color": "rgba(49, 187, 71, 1.0)",
+      "fx": 1037.8238432678995,
+      "fy": -317.04199416727965,
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "help"
     },
     {
       "text": "cs career questions",
       "url": "https://www.reddit.com/r/cscareerquestions/",
-      "fx": 1033.8238432678995,
-      "fy": -271.04199416727965,
+      "fx": 1037.8238432678995,
+      "fy": -280.04199416727965,
       "category": "reddit",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "wiki",
       "url": "https://www.reddit.com/r/cscareerquestions/wiki/index",
-      "fx": 1290.8238432678995,
-      "fy": -271.04199416727965,
+      "fx": 1315.8238432678995,
+      "fy": -280.04199416727965,
       "category": "reddit",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "cs career questions"
     },
     {
       "text": "getting a gig",
       "url": "https://github.com/cassidoo/getting-a-gig",
-      "fx": 1033.8238432678995,
-      "fy": -231.04199416727965,
+      "fx": 1037.8238432678995,
+      "fy": -238.04199416727965,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "interview cake",
       "note": "list of very detailed solutions to 44 problems",
       "url": "https://www.interviewcake.com/",
-      "fx": 1033.8238432678995,
-      "fy": -191.04199416727965,
-      "color": "rgba(34, 205, 224, 1.0)",
+      "fx": 1037.8238432678995,
+      "fy": -196.04199416727965,
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "gainlo blog",
       "url": "http://blog.gainlo.co/?utm_source=Gainlo&amp;utm_medium=header&amp;utm_campaign=Gainlo",
-      "fx": 1033.8238432678995,
-      "fy": -157.04199416727965,
-      "color": "rgba(209, 21, 88, 1.0)",
+      "fx": 1037.8238432678995,
+      "fy": -159.04199416727965,
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "help"
     },
     {
       "text": "interviews",
       "url": "https://github.com/kdn251/interviews",
-      "fx": 1033.8238432678995,
-      "fy": -123.04199416727965,
+      "fx": 1037.8238432678995,
+      "fy": -122.04199416727965,
       "category": "github",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
     },
     {
       "text": "how to approach tech internships",
       "url": "https://evykassirer.github.io/playing-the-internship-game/",
-      "fx": 1033.8238432678995,
-      "fy": -83.04199416727965,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 1037.8238432678995,
+      "fy": -80.04199416727965,
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "help"
     },
     {
       "text": "preparing for a technical interview: algorithms, data structures and computer science  ️",
       "url": "http://www.primaryobjects.com/2017/03/28/preparing-for-a-technical-interview-algorithms-data-structures-and-computer-science/",
-      "fx": 1161.314188020133,
-      "fy": -12.745949591852423,
+      "fx": 1130.822000520133,
+      "fy": -2.9529808418524226,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
       "text": "how I got my dream job in the tech industry without a CS degree  ️",
       "url": "https://billmei.net/blog/silicon-valley-job-search",
-      "fx": 1161.314188020133,
-      "fy": 71.25405040814758,
+      "fx": 1130.822000520133,
+      "fy": 113.04701915814758,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "articles"
     },
     {
       "text": "13: four steps to Google, without a degree  ️",
       "url": "https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e",
-      "fx": 1161.314188020133,
-      "fy": 133.25405040814758,
+      "fx": 1130.822000520133,
+      "fy": 205.04701915814758,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "articles"
     },
     {
       "text": "17: how to interview engineers  ️",
       "url": "http://blog.triplebyte.com/how-to-interview-engineers",
-      "fx": 1161.314188020133,
-      "fy": 195.25405040814758,
+      "fx": 1130.822000520133,
+      "fy": 272.0470191581476,
       "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "articles"
     }
   ],
@@ -273,24 +308,24 @@
       "source": "help",
       "target": "prepare",
       "curve": {
-        "x": -375.329,
-        "y": -71.0596
+        "x": -368.008,
+        "y": -93.3918
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -81.0576,
-        "y": -152.586
+        "x": -62.3115,
+        "y": -179.982
       }
     },
     {
       "source": "prepare",
       "target": "interview questions  ️",
       "curve": {
-        "x": -67.6594,
-        "y": 64.6163
+        "x": -74.98,
+        "y": 86.9485
       }
     },
     {

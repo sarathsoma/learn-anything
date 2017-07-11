@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming languages - c",
-  "tag": "c programming language",
-  "description": "",
   "nodes": [
     {
       "text": "c",
@@ -14,171 +12,180 @@
       "text": "help",
       "url": "",
       "fx": 87.97102381732009,
-      "fy": -146.76596275535786
+      "fy": -128.21437545377051
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 203.8527242299673,
-      "fy": 70.18119546529397
+      "fx": 265.70440570891856,
+      "fy": 126.34555653163375
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -82.51960416118027,
-      "fy": 288.8994966455408
+      "fx": -148.0350188868531,
+      "fy": 358.1705995613447
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/C_Programming/",
-      "fx": 132.8490698144244,
-      "fy": -328.28045097557276,
+      "fx": 137.8490698144244,
+      "fy": -350.28045097557276,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "c"
     },
     {
       "text": "trending",
       "url": "https://github.com/trending/swift",
-      "fx": 132.8490698144244,
-      "fy": -288.28045097557276,
+      "fx": 137.8490698144244,
+      "fy": -308.28045097557276,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "c"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/aleksandar-todorovic/awesome-c",
+      "fx": 137.8490698144244,
+      "fy": -266.28045097557276,
+      "category": "github",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "c"
     },
     {
       "text": "write a c interpreter",
       "url": "https://github.com/lotabout/write-a-C-interpreter",
-      "fx": 224.95829607989333,
-      "fy": -230.05071846214497,
+      "fx": 228.9710238173201,
+      "fy": -209.21437545377051,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
-      "text": "awesome c",
-      "url": "https://github.com/aleksandar-todorovic/awesome-c",
-      "fx": 224.9710238173201,
-      "fy": -189.76596275535786,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "c gibberish ↔ english",
+      "text": "c gibberish  ↔  english",
       "url": "https://cdecl.org/",
-      "fx": 224.9710238173201,
-      "fy": -149.76596275535786,
-      "color": "rgba(255, 189, 10, 1.0)",
+      "fx": 228.9710238173201,
+      "fy": -167.21437545377051,
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "how to C by Keith Thompson",
       "url": "https://github.com/Keith-S-Thompson/how-to-c-response",
-      "fx": 224.9710238173201,
-      "fy": -108.76596275535786,
+      "fx": 228.9710238173201,
+      "fy": -121.21437545377051,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "deep C (and c++) slides",
       "url": "https://www.slideshare.net/olvemaudal/deep-c",
-      "fx": 224.9710238173201,
-      "fy": -68.76596275535786,
-      "color": "rgba(209, 21, 88, 1.0)",
+      "fx": 228.9710238173201,
+      "fy": -54.214375453770515,
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "help"
     },
     {
       "text": "how to learn C",
       "url": "http://charliethe.ninja/slideshow/english/introtoc#1",
-      "fx": 224.9710238173201,
-      "fy": -34.76596275535786,
-      "color": "rgba(49, 187, 71, 1.0)",
+      "fx": 228.9710238173201,
+      "fy": -17.214375453770515,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
     },
     {
-      "text": "lessons to learn from c",
+      "text": "lessons to learn from c  ️",
       "url": "https://drewdevault.com/2017/01/30/Lessons-to-learn-from-C.html",
-      "fx": 365.8527242299673,
-      "fy": 10.681195465293968,
+      "fx": 434.70440570891856,
+      "fy": 50.84555653163375,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
-      "text": "let’s stop copying c",
+      "text": "let’s stop copying c  ️",
       "url": "https://eev.ee/blog/2016/12/01/lets-stop-copying-c/",
-      "fx": 365.8527242299673,
-      "fy": 50.68119546529397,
+      "fx": 434.70440570891856,
+      "fy": 92.84555653163375,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "articles"
     },
     {
-      "text": "principles for c programming",
+      "text": "principles for c programming  ️",
       "url": "https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html",
-      "fx": 365.8527242299673,
-      "fy": 90.68119546529397,
+      "fx": 434.70440570891856,
+      "fy": 134.84555653163375,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "articles"
     },
     {
-      "text": "after all these years, the world is still powered by c programming",
+      "text": "after all these years, the world is still powered by c programming  ️",
       "url": "http://tekhinnovation.blogspot.nl/2017/03/after-all-these-years-world-is-still.html?m=1",
-      "fx": 365.8527242299673,
-      "fy": 130.68119546529397,
+      "fx": 434.70440570891856,
+      "fy": 176.84555653163375,
       "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "articles"
+    },
+    {
+      "text": "1. how to C in 2016  ️",
+      "url": "https://matt.sh/howto-c",
+      "fx": 40.964981113146905,
+      "fy": 268.1705995613447,
+      "category": "article",
+      "color": "rgba(169, 255, 0, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. c programming language",
       "url": "https://www.goodreads.com/book/show/515601.The_C_Programming_Language",
-      "fx": 99.48039583881973,
-      "fy": 223.3994966455408,
+      "fx": 40.964981113146905,
+      "fy": 310.1705995613447,
       "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
-      "text": "1. higher computing from UNSW",
+      "text": "1. higher computing",
       "url": "https://www.youtube.com/playlist?list=PL6B940F08B9773B9F",
-      "fx": 99.48039583881973,
-      "fy": 263.3994966455408,
+      "fx": 40.964981113146905,
+      "fy": 352.1705995613447,
       "category": "",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. CS50 from Harvard",
       "note": "first 6 lectures are done in C, the rest are in python",
       "url": "https://cs50.harvard.edu/weeks",
-      "fx": 99.48039583881973,
-      "fy": 303.3994966455408,
+      "fx": 40.964981113146905,
+      "fy": 394.1705995613447,
       "category": "",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. build your own text editor",
       "url": "http://viewsourcecode.org/snaptoken/kilo/",
-      "fx": 99.48039583881973,
-      "fy": 343.3994966455408,
+      "fx": 40.964981113146905,
+      "fy": 436.1705995613447,
       "category": "free book",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. beginner’s guide to linkers",
       "url": "http://www.lurklurk.org/linkers/linkers.html",
-      "fx": 99.48039583881973,
-      "fy": 383.3994966455408,
-      "color": "rgba(209, 21, 88, 1.0)",
+      "fx": 40.964981113146905,
+      "fy": 478.1705995613447,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     }
   ],
@@ -187,8 +194,8 @@
       "source": "c",
       "target": "basics",
       "curve": {
-        "x": -34.1844,
-        "y": 304.339
+        "x": -66.9421,
+        "y": 338.974
       }
     },
     {
@@ -196,15 +203,15 @@
       "target": "c",
       "curve": {
         "x": -46.311,
-        "y": -86.5073
+        "y": -95.7831
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -64.1908,
-        "y": -108.473
+        "x": -112.459,
+        "y": -104.18
       }
     }
   ]

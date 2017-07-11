@@ -1,7 +1,5 @@
 {
   "title": "learn anything - space science - astronomy",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "astronomy",
@@ -47,6 +45,7 @@
     {
       "text": "stars  ️",
       "note": "is a luminous sphere of plasma held together by its own gravity  the most prominent stars were grouped into constellations and asterisms  most of the stars in the Universe, including all stars outside our galaxy, the Milky Way, are invisible to the naked eye from Earth  for at least a portion of its life, a star shines due to thermonuclear fusion of hydrogen into helium in its core, releasing energy that traverses the star's interior and then radiates into outer space",
+      "url": "/space-science/astronomy/stars",
       "fx": -360.8550910925304,
       "fy": 246.5311274305593,
       "category": "mindmap"

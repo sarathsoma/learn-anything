@@ -1,85 +1,83 @@
 {
   "title": "learn anything - data science - data processing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "data processing",
       "url": "http://www.wikiwand.com/en/Data_processing",
-      "fx": 479.32421875,
-      "fy": -278.58984375,
+      "fx": 439.3529730902776,
+      "fy": -260.1246744791667,
       "category": "wiki"
     },
     {
-      "text": "apache spark  ️",
-      "url": "/data-science/data-processing/apache-spark",
-      "fx": 163.68049337403033,
-      "fy": -200.78542093454575,
-      "category": "mindmap"
-    },
-    {
-      "text": "help",
+      "text": "software",
       "url": "",
-      "fx": 722.46484375,
-      "fy": -154.2421875
-    },
-    {
-      "text": "MapReduce  ️",
-      "url": "/data-science/data-processing/mapreduce",
-      "fx": 301.5877386412617,
-      "fy": -81.7757315771953,
-      "category": "mindmap"
+      "fx": 328.1381293402758,
+      "fy": -119.24218749999767
     },
     {
       "text": "apache hadoop  ️",
       "url": "/data-science/data-processing/apache-hadoop",
-      "fx": 503.5570714966809,
-      "fy": 3.887847122204448,
+      "fx": 7.257158302250275,
+      "fy": -6.100217113906524,
+      "category": "mindmap"
+    },
+    {
+      "text": "apache spark  ️",
+      "url": "/data-science/data-processing/apache-spark",
+      "fx": 230.59672601291913,
+      "fy": -5.676371455378899,
+      "category": "mindmap"
+    },
+    {
+      "text": "MapReduce  ️",
+      "url": "/data-science/data-processing/mapreduce",
+      "fx": 441.6783419398728,
+      "fy": -4.236669077195188,
       "category": "mindmap"
     }
   ],
   "subnodes": [
     {
-      "text": "awesome streaming",
+      "text": "awesome",
       "url": "https://github.com/manuzhang/awesome-streaming",
-      "fx": 859.46484375,
-      "fy": -142.7421875,
+      "fx": 711.3529730902776,
+      "fy": -246.12467447916669,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "data processing"
     }
   ],
   "connections": [
     {
       "source": "data processing",
-      "target": "MapReduce  ️",
+      "target": "software",
       "curve": {
-        "x": -97.368,
-        "y": 98.4069
+        "x": -79.6074,
+        "y": 69.1912
       }
     },
     {
-      "source": "data processing",
-      "target": "apache spark  ️",
-      "curve": {
-        "x": -163.321,
-        "y": 38.9023
-      }
-    },
-    {
-      "source": "data processing",
+      "source": "software",
       "target": "apache hadoop  ️",
       "curve": {
-        "x": 11.6165,
-        "y": 141.238
+        "x": -136.94,
+        "y": 57.821
       }
     },
     {
-      "source": "help",
-      "target": "data processing",
+      "source": "software",
+      "target": "apache spark  ️",
       "curve": {
-        "x": -87.8203,
-        "y": -60.9238
+        "x": -30.2707,
+        "y": 58.0329
+      }
+    },
+    {
+      "source": "software",
+      "target": "MapReduce  ️",
+      "curve": {
+        "x": 72.2701,
+        "y": 58.7528
       }
     }
   ]

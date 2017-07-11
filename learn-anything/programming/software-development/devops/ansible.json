@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - software development - devops - ansible",
-  "tag": "ansible automation",
-  "description": "",
   "nodes": [
     {
       "text": "ansible",
@@ -38,7 +36,7 @@
       "text": "ansible module list",
       "url": "http://docs.ansible.com/ansible/list_of_all_modules.html",
       "fx": 166.41362117230892,
-      "fy": -198.31772232055664,
+      "fy": -218.31772232055664,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
@@ -46,9 +44,18 @@
       "text": "awesome ansible",
       "url": "https://github.com/jdauphant/awesome-ansible",
       "fx": 166.41362117230892,
-      "fy": -164.31772232055664,
+      "fy": -184.31772232055664,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "ansible recipes",
+      "url": "https://github.com/gshakir/ansible-recipes",
+      "fx": 166.41362117230892,
+      "fy": -144.31772232055664,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {

@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - cognitive science - cognition - learning - education",
+  "nodes": [
+    {
+      "text": "education",
+      "url": "http://www.wikiwand.com/en/Education",
+      "fx": 38.58197784423828,
+      "fy": -159.2294464111328,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 63.328097343444824,
+      "fy": -11.034655570983887
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. how to escape education’s death valley",
+      "url": "https://www.youtube.com/watch?v=wX78iKhInsc",
+      "fx": 219.32809734344482,
+      "fy": -10.534655570983887,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "education",
+      "target": "basics",
+      "curve": {
+        "x": -2.62694,
+        "y": 72.8474
+      }
+    }
+  ]
+}

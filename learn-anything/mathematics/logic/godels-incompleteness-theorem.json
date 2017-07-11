@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - logic - godels incompleteness theorem",
-  "tag": "Godels incompleteness theorem",
-  "description": "",
   "nodes": [
     {
       "text": "Godel’s incompleteness theorem",
@@ -13,26 +11,34 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -63.11067708333337,
-      "fy": 18.398437500000057
+      "fx": -66.91276041666663,
+      "fy": 16.731770833333314
     }
   ],
   "subnodes": [
     {
       "text": "1. explained in layman terms",
       "url": "https://math.stackexchange.com/questions/453503/can-someone-explain-g%c3%b6dels-incompleteness-theorems-in-layman-terms/453535#453535",
-      "fx": 92.88932291666663,
-      "fy": 12.898437500000057,
+      "fx": 89.08723958333337,
+      "fy": -5.768229166666686,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. math’s existential crisis",
       "url": "https://www.youtube.com/watch?v=YrKLy4VN-7k",
-      "fx": 92.88932291666663,
-      "fy": 46.89843750000006,
+      "fx": 89.08723958333337,
+      "fy": 28.231770833333314,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. lecture on Godel and Turing",
+      "url": "http://www.scottaaronson.com/democritus/lec3.html",
+      "fx": 89.08723958333337,
+      "fy": 68.23177083333331,
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -41,8 +47,8 @@
       "source": "Godel’s incompleteness theorem",
       "target": "basics",
       "curve": {
-        "x": -1.64518,
-        "y": 91.9141
+        "x": -3.54622,
+        "y": 91.0808
       }
     }
   ]

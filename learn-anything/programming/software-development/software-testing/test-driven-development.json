@@ -1,20 +1,12 @@
 {
   "title": "learn anything - programming - software development - software testing - test driven development",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "test driven development",
       "url": "http://www.wikiwand.com/en/Test-driven_development",
-      "fx": 138.69140625,
-      "fy": -283.63671875,
+      "fx": 155.77633990921777,
+      "fy": -195.811561627095,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 351.63451466480456,
-      "fy": -175.1765013966301
     },
     {
       "text": "basics",
@@ -25,15 +17,6 @@
     }
   ],
   "subnodes": [
-    {
-      "text": "awesome testing",
-      "url": "https://github.com/TheJambo/awesome-testing",
-      "fx": 488.63451466480456,
-      "fy": -163.6765013966301,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
     {
       "text": "1. test-driven development with python",
       "url": "http://www.obeythetestinggoat.com/pages/book.html#toc",
@@ -67,16 +50,8 @@
       "source": "test driven development",
       "target": "basics",
       "curve": {
-        "x": -8.83966,
-        "y": 134.611
-      }
-    },
-    {
-      "source": "help",
-      "target": "test driven development",
-      "curve": {
-        "x": -54.7216,
-        "y": -52.9801
+        "x": -17.3821,
+        "y": 90.6987
       }
     }
   ]

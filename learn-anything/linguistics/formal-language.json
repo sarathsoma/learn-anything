@@ -1,0 +1,55 @@
+{
+  "title": "learn anything - linguistics - formal language",
+  "nodes": [
+    {
+      "text": "formal language",
+      "url": "http://www.wikiwand.com/en/Formal_language",
+      "fx": 78.96484375,
+      "fy": -118.97265625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 136.38671875,
+      "fy": 18.89453125
+    },
+    {
+      "text": "regular expressions  ️",
+      "note": "are sequences of characters that define a search pattern  usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis",
+      "url": "/linguistics/formal-language/regular-expressions",
+      "fx": -45.046875,
+      "fy": 170.5703125,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=7MBpk4gJRkk",
+      "fx": 292.38671875,
+      "fy": 30.39453125,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "formal language",
+      "target": "basics",
+      "curve": {
+        "x": -0.289062,
+        "y": 67.6836
+      }
+    },
+    {
+      "source": "basics",
+      "target": "regular expressions  ️",
+      "curve": {
+        "x": -47.7168,
+        "y": 77.0879
+      }
+    }
+  ]
+}

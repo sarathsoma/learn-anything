@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - type theory - dependent type theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "dependent type theory",
@@ -15,6 +13,13 @@
       "url": "",
       "fx": 256.45703125,
       "fy": -66.31640625
+    },
+    {
+      "text": "agda programming language  ️",
+      "url": "/programming/programming-languages/agda",
+      "fx": 17.092962846347632,
+      "fy": 53.16286209070512,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -44,6 +49,14 @@
       "curve": {
         "x": -0.21875,
         "y": 68.832
+      }
+    },
+    {
+      "source": "basics",
+      "target": "agda programming language  ️",
+      "curve": {
+        "x": -61.682,
+        "y": 60.9896
       }
     }
   ]

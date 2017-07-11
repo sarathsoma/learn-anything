@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - biology - anatomy - human body - digestive system",
+  "nodes": [
+    {
+      "text": "digestive system",
+      "url": "http://www.wikiwand.com/en/Human_digestive_system",
+      "fx": 64.7467245729814,
+      "fy": -123.95962732919253,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 119.69718309858706,
+      "fy": 29.70422535213629
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. digestive system: part I",
+      "url": "https://www.youtube.com/watch?v=yIoTRGfcMqM",
+      "fx": 275.69718309858706,
+      "fy": 1.204225352136291,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. digestive system: part II",
+      "url": "https://www.youtube.com/watch?v=pqgcEIaXGME&amp;t=1s",
+      "fx": 275.69718309858706,
+      "fy": 41.20422535213629,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. digestive system: part III",
+      "url": "https://www.youtube.com/watch?v=jGme7BRkpuQ",
+      "fx": 275.69718309858706,
+      "fy": 81.20422535213629,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "digestive system",
+      "target": "basics",
+      "curve": {
+        "x": -2.77477,
+        "y": 75.5819
+      }
+    }
+  ]
+}

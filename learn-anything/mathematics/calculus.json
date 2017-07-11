@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - calculus",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "calculus",
@@ -45,11 +43,11 @@
       "category": "wiki"
     },
     {
-      "text": "vector calculus",
-      "url": "http://www.wikiwand.com/en/Vector_calculus",
-      "fx": -282.21176407281564,
+      "text": "vector calculus  ️",
+      "url": "/mathematics/calculus/vector-calculus",
+      "fx": -281.21176407281564,
       "fy": 335.4614091531787,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "multivariable calculus  ️",
@@ -228,9 +226,9 @@
     },
     {
       "source": "basics",
-      "target": "vector calculus",
+      "target": "vector calculus  ️",
       "curve": {
-        "x": -138.85,
+        "x": -138.35,
         "y": 160.03
       }
     },

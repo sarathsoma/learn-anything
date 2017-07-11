@@ -1,7 +1,5 @@
 {
   "title": "learn anything - law - politics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "politics",
@@ -12,9 +10,17 @@
       "category": "wiki"
     },
     {
+      "text": "political corruption  ️",
+      "url": "/law/politics/political-corruption",
+      "fx": 32.18834369685345,
+      "fy": -155.50123565051018,
+      "category": "mindmap"
+    },
+    {
       "text": "political science  ️",
-      "fx": 217.37695312499977,
-      "fy": -160.14257812499994,
+      "url": "/law/politics/political-science",
+      "fx": 294.9638583669954,
+      "fy": -153.4382007762788,
       "category": "mindmap"
     }
   ],
@@ -22,10 +28,10 @@
     {
       "text": "️",
       "url": "https://politics.stackexchange.com/",
-      "fx": 559.2324074024784,
+      "fx": 568.2324074024784,
       "fy": -301.03121040850436,
       "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "politics"
     }
   ],
@@ -34,8 +40,16 @@
       "source": "politics",
       "target": "political science  ️",
       "curve": {
-        "x": -56.9277,
-        "y": 76.1943
+        "x": -18.1342,
+        "y": 79.546
+      }
+    },
+    {
+      "source": "politics",
+      "target": "political corruption  ️",
+      "curve": {
+        "x": -142.272,
+        "y": 79.015
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - statistics - probability theory",
-  "tag": "probabiliy theory",
-  "description": "",
   "nodes": [
     {
       "text": "probability theory",
@@ -41,8 +39,16 @@
     },
     {
       "text": "conditional probability  ️",
-      "fx": -759.0497537110814,
-      "fy": 82.46342442095624,
+      "url": "/mathematics/statistics/probability-theory/conditional-probability",
+      "fx": -756.2307586669922,
+      "fy": 82.46343231201172,
+      "category": "mindmap"
+    },
+    {
+      "text": "expected value  ️",
+      "url": "/mathematics/statistics/probability-theory/expected-value",
+      "fx": -968.3375946969668,
+      "fy": 87.93832859841825,
       "category": "mindmap"
     }
   ],
@@ -103,8 +109,16 @@
       "source": "basics",
       "target": "conditional probability  ️",
       "curve": {
-        "x": -313.107,
+        "x": -311.698,
         "y": 64.9644
+      }
+    },
+    {
+      "source": "basics",
+      "target": "expected value  ️",
+      "curve": {
+        "x": -471.261,
+        "y": 40.5102
       }
     }
   ]

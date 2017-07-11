@@ -1,7 +1,5 @@
 {
   "title": "learn anything - operating systems - unix - shells - bash",
-  "tag": "bash shell",
-  "description": "",
   "nodes": [
     {
       "text": "bash",
@@ -19,15 +17,15 @@
     {
       "text": "tools",
       "url": "",
-      "fx": 98.68936258278188,
-      "fy": -99.82274420529848
+      "fx": 109.7975993377488,
+      "fy": -75.82905629139123
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -80.44174254966879,
-      "fy": 46.605442880755504
+      "fy": 80.50186258274209
     }
   ],
   "subnodes": [
@@ -44,7 +42,7 @@
       "text": "bash one liners",
       "url": "https://github.com/janosgyerik/bashoneliners",
       "fx": 170.15321097468677,
-      "fy": -212.64998549657156,
+      "fy": -232.64998549657156,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -53,17 +51,26 @@
       "text": "bash notes",
       "url": "https://github.com/jp2011/bash-playground",
       "fx": 170.15321097468677,
-      "fy": -172.64998549657156,
+      "fy": -192.64998549657156,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "bash snippets",
+      "url": "https://github.com/alexanderepstein/Bash-Snippets",
+      "fx": 170.15321097468677,
+      "fy": -152.64998549657156,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "explain shell",
       "note": "match command-line arguments to their help text",
       "url": "https://github.com/idank/explainshell",
-      "fx": 240.68936258278188,
-      "fy": -105.32274420529848,
+      "fx": 251.7975993377488,
+      "fy": -81.32905629139123,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "tools"
     },
@@ -71,8 +78,8 @@
       "text": "spellcheck",
       "note": "static analysis tool for shell scripts",
       "url": "https://github.com/koalaman/shellcheck",
-      "fx": 240.68936258278188,
-      "fy": -71.32274420529848,
+      "fx": 251.7975993377488,
+      "fy": -47.329056291391225,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "tools"
@@ -81,7 +88,7 @@
       "text": "1. bash guide",
       "url": "https://github.com/Idnan/bash-guide",
       "fx": 101.55825745033121,
-      "fy": 4.105442880755504,
+      "fy": 38.00186258274209,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -90,7 +97,7 @@
       "text": "1. learn you bash",
       "url": "https://github.com/denysdovhan/learnyoubash",
       "fx": 101.55825745033121,
-      "fy": 44.105442880755504,
+      "fy": 78.00186258274209,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -99,7 +106,7 @@
       "text": "2. advanced bash scripting",
       "url": "http://www.tldp.org/LDP/abs/html/",
       "fx": 101.55825745033121,
-      "fy": 84.1054428807555,
+      "fy": 118.00186258274209,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
@@ -107,7 +114,7 @@
       "text": "2. practice",
       "url": "http://exercism.io/languages/bash/launch",
       "fx": 101.55825745033121,
-      "fy": 118.1054428807555,
+      "fy": 152.0018625827421,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
@@ -126,15 +133,15 @@
       "target": "basics",
       "curve": {
         "x": -11.4103,
-        "y": 174.515
+        "y": 191.463
       }
     },
     {
       "source": "tools",
       "target": "help",
       "curve": {
-        "x": -34.0182,
-        "y": -52.1636
+        "x": -39.5723,
+        "y": -64.1604
       }
     }
   ]

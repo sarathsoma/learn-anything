@@ -1,7 +1,5 @@
 {
   "title": "learn anything - psychology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "psychology",
@@ -60,6 +58,7 @@
     },
     {
       "text": "behaviour analysis  ️",
+      "url": "/psychology/behaviour-analysis",
       "fx": -1419.865979306484,
       "fy": -36.17934419347182,
       "category": "mindmap"
@@ -73,6 +72,7 @@
     },
     {
       "text": "evolutionary psychology  ️",
+      "url": "/psychology/evolutionary-psychology",
       "fx": -1721.274912348841,
       "fy": -32.193928189033045,
       "category": "mindmap"

@@ -1,20 +1,12 @@
 {
   "title": "learn anything - software - tooling - productivity - tmux",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "tmux",
       "url": "http://www.wikiwand.com/en/Tmux",
-      "fx": -9.885879984662665,
-      "fy": -218.54778565950915,
+      "fx": 18.33163646270566,
+      "fy": -169.31288199409562,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 97.38656268724515,
-      "fy": -122.93873762974277
     },
     {
       "text": "basics",
@@ -26,13 +18,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome tmux",
+      "text": "awesome",
       "url": "https://github.com/rothgar/awesome-tmux",
-      "fx": 234.38656268724515,
-      "fy": -111.43873762974277,
+      "fx": 190.33163646270566,
+      "fy": -155.31288199409562,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "tmux"
     },
     {
       "text": "1. learn tmux",
@@ -58,16 +50,8 @@
       "source": "tmux",
       "target": "basics",
       "curve": {
-        "x": -9.77386,
-        "y": 104.146
-      }
-    },
-    {
-      "source": "help",
-      "target": "tmux",
-      "curve": {
-        "x": -44.8862,
-        "y": -46.5545
+        "x": -23.8826,
+        "y": 79.5285
       }
     }
   ]

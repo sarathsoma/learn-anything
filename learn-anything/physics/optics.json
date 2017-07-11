@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - optics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "optics",
@@ -19,6 +17,7 @@
     },
     {
       "text": "Fermat’s principle  ️",
+      "url": "/physics/optics/fermats-principle",
       "fx": -182.3427734375,
       "fy": 140.4453125,
       "category": "mindmap"

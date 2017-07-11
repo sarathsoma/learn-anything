@@ -1,7 +1,5 @@
 {
   "title": "learn anything - economics - economic systems",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "economic systems",
@@ -26,6 +24,7 @@
     },
     {
       "text": "socialism  ️",
+      "url": "/economics/economic-systems/socialism",
       "fx": 74.10393415178567,
       "fy": -54.71170147746602,
       "category": "mindmap"

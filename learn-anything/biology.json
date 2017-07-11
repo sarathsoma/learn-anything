@@ -1,7 +1,5 @@
 {
   "title": "learn anything - biology",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "biology",
@@ -26,84 +24,113 @@
     {
       "text": "botany  ️",
       "url": "/biology/botany",
-      "fx": -1357.790366113396,
-      "fy": 247.01888709361526,
+      "fx": -1333.4270324707031,
+      "fy": 247.0178985595703,
       "category": "mindmap"
     },
     {
       "text": "computational biology  ️",
       "url": "/biology/computational-biology",
-      "fx": -1639.8091824680903,
-      "fy": 248.70301761168366,
+      "fx": -1629.4487609863281,
+      "fy": 248.70201110839844,
       "category": "mindmap"
     },
     {
       "text": "genetics  ️",
       "url": "/biology/genetics",
-      "fx": -193.71339225769043,
-      "fy": 250.04178619384766,
+      "fx": -185.25242805480957,
+      "fy": 250.04077911376953,
       "category": "mindmap"
     },
     {
       "text": "physiology  ️",
       "url": "/biology/physiology",
-      "fx": -1199.4658324688794,
-      "fy": 250.07099325728655,
+      "fx": -1187.4134521484375,
+      "fy": 250.06999969482422,
       "category": "mindmap"
     },
     {
       "text": "abiogenesis  ️",
       "note": "how life came to be from just chemistry",
       "url": "/biology/abiogenesis",
-      "fx": -42.62024688720703,
-      "fy": 251.27873992919922,
+      "fx": -22.152135848999023,
+      "fy": 251.27775192260742,
       "category": "mindmap"
     },
     {
       "text": "ecology  ️",
       "url": "/biology/ecology",
-      "fx": -1008.6614583333333,
-      "fy": 251.5295138888889,
+      "fx": -1003.4017791748047,
+      "fy": 251.52851104736328,
       "category": "mindmap"
     },
     {
       "text": "bioinformatics  ️",
       "url": "/biology/bioinformatics",
-      "fx": -394.83669662475586,
-      "fy": 252.87469482421875,
+      "fx": -401.32696533203125,
+      "fy": 252.87370681762695,
       "category": "mindmap"
     },
     {
       "text": "immunology  ️",
       "url": "/biology/immunology",
-      "fx": -1835.6416967200096,
-      "fy": 253.22319022739646,
+      "fx": -1828.4837036132812,
+      "fy": 253.22219848632812,
       "category": "mindmap"
     },
     {
       "text": "anatomy  ️",
       "url": "/biology/anatomy",
-      "fx": -841.8911290615536,
-      "fy": 253.71481105411522,
+      "fx": -847.4123382568359,
+      "fy": 253.71381759643555,
       "category": "mindmap"
     },
     {
       "text": "astrobiology  ️",
-      "fx": -2024.7691978663452,
-      "fy": 254.74537037035327,
+      "url": "/biology/astrobiology",
+      "fx": -2026.5367126464844,
+      "fy": 254.74437713623047,
       "category": "mindmap"
     },
     {
       "text": "human development  ️",
       "url": "/biology/human-development",
-      "fx": -657.6057169631739,
-      "fy": 254.78125,
+      "fx": -684.3788909912109,
+      "fy": 254.78025436401367,
+      "category": "mindmap"
+    },
+    {
+      "text": "pharmacology  ️",
+      "url": "/biology/pharmacology",
+      "fx": -2246.6121826171875,
+      "fy": 255.02124786376953,
       "category": "mindmap"
     },
     {
       "text": "organisms  ️",
-      "fx": 166.40821641156504,
-      "fy": 255.37344990079373,
+      "fx": 201.9757423400879,
+      "fy": 255.3724479675293,
+      "category": "mindmap"
+    },
+    {
+      "text": "endocrinology  ️",
+      "url": "/biology/endocrinology",
+      "fx": -2464.7129821777344,
+      "fy": 258.2453727722168,
+      "category": "mindmap"
+    },
+    {
+      "text": "microbiology  ️",
+      "url": "/biology/microbiology",
+      "fx": -2668.8407592773438,
+      "fy": 261.0657501220703,
+      "category": "mindmap"
+    },
+    {
+      "text": "zoology  ️",
+      "url": "/biology/zoology-",
+      "fx": -2826.4675252203156,
+      "fy": 261.29749463705946,
       "category": "mindmap"
     },
     {
@@ -118,73 +145,73 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/biology/",
-      "fx": 232.84958101848815,
-      "fy": -190.7221384565994,
+      "fx": 241.84958101848815,
+      "fy": -191.7221384565994,
       "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "biology"
     },
     {
       "text": "️",
       "url": "https://biology.stackexchange.com/",
-      "fx": 232.84958101848815,
-      "fy": -150.7221384565994,
+      "fx": 241.84958101848815,
+      "fy": -149.7221384565994,
       "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "biology"
     },
     {
       "text": "notes on biology",
       "url": "https://github.com/SirSharpest/Bio-Cramming",
-      "fx": 300.4619612149013,
-      "fy": -57.03902651908271,
+      "fx": 304.4619612149013,
+      "fy": -56.03902651908271,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. crash course biology",
       "url": "https://www.youtube.com/watch?v=QnQe0xW_JY4&amp;list=PL3EED4C1D684D3ADF",
-      "fx": 219.128189599483,
-      "fy": 11.242046188630354,
+      "fx": 226.128189599483,
+      "fy": -4.257953811369646,
       "category": "video",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. khan academy biology",
       "url": "https://www.khanacademy.org/science/biology",
-      "fx": 219.128189599483,
-      "fy": 51.242046188630354,
+      "fx": 226.128189599483,
+      "fy": 37.742046188630354,
       "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. human behavioural biology",
       "url": "https://www.youtube.com/watch?v=NNnIGh9g6fA&amp;list=PL150326949691B199",
-      "fx": 219.128189599483,
-      "fy": 91.24204618863035,
+      "fx": 226.128189599483,
+      "fy": 79.74204618863035,
       "category": "",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. introduction to biology",
       "url": "https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-5",
-      "fx": 219.128189599483,
-      "fy": 131.24204618863035,
+      "fx": 226.128189599483,
+      "fy": 146.74204618863035,
       "category": "",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. the selfish gene",
       "url": "https://www.goodreads.com/book/show/61535.The_Selfish_Gene",
-      "fx": 219.128189599483,
-      "fy": 171.24204618863035,
+      "fx": 226.128189599483,
+      "fy": 188.74204618863035,
       "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     }
   ],
@@ -193,16 +220,16 @@
       "source": "basics",
       "target": "bioinformatics  ️",
       "curve": {
-        "x": -205.482,
-        "y": 86.5663
+        "x": -208.727,
+        "y": 86.5658
       }
     },
     {
       "source": "basics",
       "target": "genetics  ️",
       "curve": {
-        "x": -117.42,
-        "y": 85.1498
+        "x": -113.19,
+        "y": 85.1493
       }
     },
     {
@@ -217,16 +244,16 @@
       "source": "basics",
       "target": "abiogenesis  ️",
       "curve": {
-        "x": -26.6242,
-        "y": 87.0183
+        "x": -16.3901,
+        "y": 87.0178
       }
     },
     {
       "source": "abiogenesis  ️",
       "target": "evolution  ️",
       "curve": {
-        "x": 3.45641,
-        "y": 53.5028
+        "x": -6.77765,
+        "y": 53.5033
       }
     },
     {
@@ -241,72 +268,104 @@
       "source": "basics",
       "target": "human development  ️",
       "curve": {
-        "x": -381.518,
-        "y": 85.0806
+        "x": -394.905,
+        "y": 85.0801
       }
     },
     {
       "source": "basics",
       "target": "anatomy  ️",
       "curve": {
-        "x": -483.857,
-        "y": 60.4786
+        "x": -486.618,
+        "y": 60.4781
       }
     },
     {
       "source": "basics",
       "target": "ecology  ️",
       "curve": {
-        "x": -656.05,
-        "y": 36.8303
+        "x": -653.42,
+        "y": 36.8298
       }
     },
     {
       "source": "basics",
       "target": "physiology  ️",
       "curve": {
-        "x": -819.591,
-        "y": 34.287
+        "x": -813.565,
+        "y": 34.2865
       }
     },
     {
       "source": "basics",
       "target": "botany  ️",
       "curve": {
-        "x": -1051.39,
-        "y": 35.6448
+        "x": -1039.21,
+        "y": 35.6443
       }
     },
     {
       "source": "basics",
       "target": "computational biology  ️",
       "curve": {
-        "x": -1074.34,
-        "y": 7.60549
+        "x": -1069.16,
+        "y": 7.60499
       }
     },
     {
       "source": "basics",
       "target": "immunology  ️",
       "curve": {
-        "x": -1184.32,
-        "y": -38.908
+        "x": -1180.74,
+        "y": -38.9085
       }
     },
     {
       "source": "basics",
       "target": "organisms  ️",
       "curve": {
-        "x": 67.14,
-        "y": 87.8157
+        "x": 84.9238,
+        "y": 87.8152
       }
     },
     {
       "source": "basics",
       "target": "astrobiology  ️",
       "curve": {
-        "x": -1329.45,
-        "y": -52.3328
+        "x": -1330.33,
+        "y": -52.3333
+      }
+    },
+    {
+      "source": "basics",
+      "target": "pharmacology  ️",
+      "curve": {
+        "x": -1588.11,
+        "y": -19.5681
+      }
+    },
+    {
+      "source": "basics",
+      "target": "endocrinology  ️",
+      "curve": {
+        "x": -1723.73,
+        "y": -68.2736
+      }
+    },
+    {
+      "source": "basics",
+      "target": "microbiology  ️",
+      "curve": {
+        "x": -1971.37,
+        "y": -9.49899
+      }
+    },
+    {
+      "source": "basics",
+      "target": "zoology  ️",
+      "curve": {
+        "x": -1929.82,
+        "y": -129.648
       }
     }
   ]

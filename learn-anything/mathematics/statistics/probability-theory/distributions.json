@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - statistics - probability theory - distributions",
-  "tag": "probability distributions",
-  "description": "",
   "nodes": [
     {
       "text": "probability distributions",
@@ -53,6 +51,7 @@
     },
     {
       "text": "F-distribution  ️",
+      "url": "/mathematics/statistics/probability-theory/distributions/f-distribution",
       "fx": -1240.9554100801572,
       "fy": -77.6847614222794,
       "category": "mindmap"

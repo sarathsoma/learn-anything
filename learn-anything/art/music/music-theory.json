@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art - music - music theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "music theory",
@@ -19,6 +17,7 @@
     },
     {
       "text": "harmony  ️",
+      "url": "/art/music/music-theory/harmony",
       "fx": -296.39271763392867,
       "fy": 231.02650669642844,
       "category": "mindmap"

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - software - tooling - text editors - sublime text",
-  "tag": "sublime text editor",
-  "description": "",
   "nodes": [
     {
       "text": "sublime text",
@@ -25,21 +23,21 @@
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/dreikanter/sublime-bookmarks",
+      "fx": 63.7265625,
+      "fy": -206.23046875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "sublime text"
+    },
+    {
       "text": "sublime text 3 plugins for frontend web development",
       "url": "https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development",
       "fx": 65.9484153368794,
-      "fy": -118.38228612588654,
+      "fy": -98.38228612588654,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome sublime text",
-      "url": "https://github.com/dreikanter/sublime-bookmarks",
-      "fx": 65.9484153368794,
-      "fy": -56.38228612588654,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {

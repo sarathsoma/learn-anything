@@ -1,13 +1,11 @@
 {
   "title": "learn anything - chemistry - organic chemistry",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "organic chemistry",
       "url": "http://www.wikiwand.com/en/Organic_chemistry",
-      "fx": -145.01171875,
-      "fy": -293.125,
+      "fx": -119.27019332627106,
+      "fy": -266.5790519067797,
       "category": "wiki"
     },
     {
@@ -16,6 +14,13 @@
       "url": "",
       "fx": -98.41796875,
       "fy": -119.65508319805184
+    },
+    {
+      "text": "organic compounds  ️",
+      "url": "/chemistry/organic-chemistry/organic-compounds",
+      "fx": -288.8585411417772,
+      "fy": -10.651342285081682,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -23,7 +28,7 @@
       "text": "1. khan academy organic chemistry",
       "url": "https://www.khanacademy.org/science/organic-chemistry",
       "fx": 83.58203125,
-      "fy": -171.65508319805184,
+      "fy": -160.65508319805184,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -32,7 +37,7 @@
       "text": "2. strategic applications of named reactions in organic synthesis: background and detailed mechanisms",
       "url": "http://www.goodreads.com/book/show/354826.Strategic_Applications_of_Named_Reactions_in_Organic_Synthesis",
       "fx": 83.58203125,
-      "fy": -109.65508319805184,
+      "fy": -120.65508319805184,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -43,8 +48,16 @@
       "source": "organic chemistry",
       "target": "basics",
       "curve": {
-        "x": -9.45313,
-        "y": 85.485
+        "x": -22.3239,
+        "y": 72.212
+      }
+    },
+    {
+      "source": "basics",
+      "target": "organic compounds  ️",
+      "curve": {
+        "x": -70.7203,
+        "y": 54.5019
       }
     }
   ]

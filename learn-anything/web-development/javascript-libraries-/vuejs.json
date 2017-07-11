@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - javascript libraries  - vuejs",
-  "tag": "vue.js",
-  "description": "",
   "nodes": [
     {
       "text": "vue.js",
@@ -26,19 +24,19 @@
   ],
   "subnodes": [
     {
-      "text": "awesome vue.js",
+      "text": "awesome",
       "url": "https://github.com/vuejs/awesome-vue",
-      "fx": 142.14851058847012,
-      "fy": -245.90065565365745,
+      "fx": 79.60546875,
+      "fy": -304.96875,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "vue.js"
     },
     {
       "text": "vue cli",
       "url": "https://github.com/vuejs/vue-cli",
       "fx": 142.14851058847012,
-      "fy": -205.90065565365745,
+      "fy": -225.90065565365745,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -47,7 +45,7 @@
       "text": "vue forum",
       "url": "https://forum.vuejs.org/",
       "fx": 142.14851058847012,
-      "fy": -165.90065565365745,
+      "fy": -185.90065565365745,
       "category": "",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -56,7 +54,7 @@
       "text": "vue land",
       "url": "https://vue-land.js.org/",
       "fx": 142.14851058847012,
-      "fy": -125.90065565365745,
+      "fy": -145.90065565365745,
       "category": "",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - quantum mechanics - quantum field theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "quantum field theory",
@@ -13,8 +11,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": -14.373103323700434,
-      "fy": -349.7586705202295
+      "fx": -41.489580596427686,
+      "fy": -342.83395461113855
     },
     {
       "text": "talks",
@@ -26,15 +24,29 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -181.09302745664627,
-      "fy": -110.65914017341157
+      "fx": -171.93338704449718,
+      "fy": -92.97074533048686
+    },
+    {
+      "text": "quantum electrodynamics  ️",
+      "url": "/physics/quantum-mechanics/quantum-field-theory/quantum-electrodynamics",
+      "fx": -123.9707568807338,
+      "fy": 82.12657683486236,
+      "category": "mindmap"
     },
     {
       "text": "conformal field theory",
       "url": "http://www.wikiwand.com/en/Conformal_field_theory",
-      "fx": -296.6478689353089,
-      "fy": 62.742671832884184,
+      "fx": -393.7435530916266,
+      "fy": 84.3691394994537,
       "category": "wiki"
+    },
+    {
+      "text": "Casimir effect  ️",
+      "url": "/physics/quantum-mechanics/quantum-field-theory/casimir-effect",
+      "fx": -591.467524530219,
+      "fy": 87.2037309672155,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -42,8 +54,8 @@
       "text": "of particular significance  ️",
       "note": "by quantum field theorist Matt Strassler",
       "url": "https://profmattstrassler.com/2013/09/23/quantum-field-theory-string-theory-and-predictions/",
-      "fx": 122.62689667629957,
-      "fy": -338.2586705202295,
+      "fx": 95.51041940357231,
+      "fy": -331.33395461113855,
       "category": "blog",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -58,10 +70,19 @@
       "parent": "talks"
     },
     {
-      "text": "1. David Tong’s lectures on Quantum Field Theory",
+      "text": "1. overview of QFT",
+      "url": "https://www.youtube.com/watch?v=ATcrrzJFtBY&amp;app=desktop",
+      "fx": 10.06661295550282,
+      "fy": -132.47074533048686,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. David Tong’s lectures on QFT",
       "url": "http://www.damtp.cam.ac.uk/user/tong/qft.html",
-      "fx": 0.9069725433537315,
-      "fy": -141.15914017341157,
+      "fx": 10.06661295550282,
+      "fy": -92.47074533048686,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -69,8 +90,8 @@
     {
       "text": "1. particles, fields and the future of physics",
       "url": "https://www.youtube.com/watch?v=gEKSpZPByD0&amp;t=4472s",
-      "fx": 0.9069725433537315,
-      "fy": -79.15914017341157,
+      "fx": 10.06661295550282,
+      "fy": -52.470745330486864,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -81,32 +102,48 @@
       "source": "quantum field theory",
       "target": "basics",
       "curve": {
-        "x": -5.57362,
-        "y": 167.02
+        "x": -0.9938,
+        "y": 175.864
       }
     },
     {
       "source": "help",
       "target": "quantum field theory",
       "curve": {
-        "x": -73.0363,
-        "y": -47.4699
+        "x": -59.4781,
+        "y": -50.9323
       }
     },
     {
       "source": "talks",
       "target": "help",
       "curve": {
-        "x": -14.182,
-        "y": -49.2868
+        "x": -27.7402,
+        "y": -45.8244
       }
     },
     {
       "source": "basics",
       "target": "conformal field theory",
       "curve": {
-        "x": -23.0274,
-        "y": 87.9509
+        "x": -76.1551,
+        "y": 89.9199
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum electrodynamics  ️",
+      "curve": {
+        "x": 61.4813,
+        "y": 87.5487
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Casimir effect  ️",
+      "curve": {
+        "x": -218.194,
+        "y": 76.8308
       }
     }
   ]

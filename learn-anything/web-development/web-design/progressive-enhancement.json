@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - web design - progressive enhancement",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "progressive enhancement",
       "url": "http://www.wikiwand.com/en/Progressive_enhancement",
-      "fx": -179.28905963897705,
-      "fy": -68.26193714141846,
+      "fx": -176.27148151397705,
+      "fy": 0.07009410858154297,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 10.933131217956543,
-      "fy": 42.25707244873047
     },
     {
       "text": "basics",
@@ -25,13 +17,13 @@
   ],
   "subnodes": [
     {
-      "text": "resources",
+      "text": "awesome",
       "url": "https://github.com/jbmoelker/progressive-enhancement-resources",
-      "fx": 147.93313121795654,
-      "fy": 53.75707244873047,
+      "fx": 183.72851848602295,
+      "fy": 14.070094108581543,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "progressive enhancement"
     },
     {
       "text": "1. Jeremy Keith unprogressive enhancement",
@@ -54,19 +46,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "progressive enhancement",
-      "curve": {
-        "x": -39.3611,
-        "y": -54.0095
-      }
-    },
-    {
       "source": "progressive enhancement",
       "target": "basics",
       "curve": {
-        "x": -1.19727,
-        "y": 118.507
+        "x": -2.70606,
+        "y": 84.341
       }
     }
   ]

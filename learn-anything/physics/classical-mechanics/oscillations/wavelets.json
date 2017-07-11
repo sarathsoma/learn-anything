@@ -1,0 +1,39 @@
+{
+  "title": "learn anything - physics - classical mechanics - oscillations - wavelets",
+  "nodes": [
+    {
+      "text": "wavelets",
+      "url": "http://www.wikiwand.com/en/Wavelet",
+      "fx": 117.3671875,
+      "fy": -106.25390625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 131,
+      "fy": 23.7890625
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction",
+      "url": "https://www.youtube.com/watch?v=ZnmvUCtUAEE",
+      "fx": 294,
+      "fy": 36.2890625,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "wavelets",
+      "target": "basics",
+      "curve": {
+        "x": -6.43359,
+        "y": 64.2715
+      }
+    }
+  ]
+}

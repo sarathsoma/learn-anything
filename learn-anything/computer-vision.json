@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer vision",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "computer vision",
@@ -63,34 +61,34 @@
       "text": "",
       "url": "https://www.reddit.com/r/computervision/",
       "fx": 199.06927385186157,
-      "fy": -452.8853343431684,
+      "fy": -472.8853343431684,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "computer vision"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+      "fx": 199.06927385186157,
+      "fy": -432.8853343431684,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "computer vision"
     },
     {
       "text": "awesome deep vision",
       "url": "https://github.com/kjw0612/awesome-deep-vision",
       "fx": 217.78064903846155,
-      "fy": -364.4603365384615,
+      "fy": -344.4603365384615,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome computer vision",
-      "url": "https://github.com/jbhuang0604/awesome-computer-vision",
-      "fx": 217.78064903846155,
-      "fy": -324.4603365384615,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "datasets, transforms and models specific to computer vision",
       "url": "https://github.com/pytorch/vision",
       "fx": 217.78064903846155,
-      "fy": -284.4603365384615,
+      "fy": -304.4603365384615,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -100,7 +98,7 @@
       "note": "- modern approach for Computer Vision on the web",
       "url": "https://github.com/eduardolundgren/tracking.js",
       "fx": 217.78064903846155,
-      "fy": -222.4603365384615,
+      "fy": -242.4603365384615,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -109,7 +107,7 @@
       "text": "vision, learning and graphics papers on cats",
       "url": "https://github.com/junyanz/CatPapers",
       "fx": 217.78064903846155,
-      "fy": -182.4603365384615,
+      "fy": -202.4603365384615,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"

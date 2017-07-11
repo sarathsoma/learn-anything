@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer graphics - rendering",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "rendering",
@@ -18,6 +16,13 @@
       "fy": -168.3983943370166
     },
     {
+      "text": "path tracing  ️",
+      "url": "/computer-graphics/rendering/path-tracing",
+      "fx": -227.39871527448554,
+      "fy": -96.22531658884054,
+      "category": "mindmap"
+    },
+    {
       "text": "tools",
       "url": "",
       "fx": 129.7409419239317,
@@ -27,8 +32,8 @@
       "text": "ray tracing  ️",
       "note": "is a technique for generating an image by tracing the path of light through pixels in an image plane and simulating the effects of its encounters with virtual objects   the technique is capable of producing a very high degree of visual realism, usually higher than that of typical scalene rendering methods, but at a greater computational cost  this makes it best suited for applications where the image can be rendered slowly ahead of time, such as still images and film and television visual effects, and more poorly suited for real-time applications like video games where speed is critical  it is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering and dispersion phenomena (such as chromatic aberration)  it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it",
       "url": "/computer-graphics/rendering/ray-tracing",
-      "fx": -162.99193886694673,
-      "fy": -5.74960047486428,
+      "fx": -95.06030095205756,
+      "fy": 44.62429484069264,
       "category": "mindmap"
     }
   ],
@@ -64,8 +69,8 @@
       "source": "rendering",
       "target": "ray tracing  ️",
       "curve": {
-        "x": -45.8729,
-        "y": 125.813
+        "x": -11.9071,
+        "y": 151
       }
     },
     {
@@ -74,6 +79,14 @@
       "curve": {
         "x": -36.8283,
         "y": -43.9913
+      }
+    },
+    {
+      "source": "rendering",
+      "target": "path tracing  ️",
+      "curve": {
+        "x": -88.5763,
+        "y": 79.3248
       }
     }
   ]

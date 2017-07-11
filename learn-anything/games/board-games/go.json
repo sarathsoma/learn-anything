@@ -1,7 +1,5 @@
 {
   "title": "learn anything - games - board games - go",
-  "tag": "go game",
-  "description": "",
   "nodes": [
     {
       "text": "go",
@@ -43,6 +41,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/baduk/",
+      "fx": 107,
+      "fy": -110.9921875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "go"
+    },
     {
       "text": "Hay lees world of Go",
       "url": "https://www.youtube.com/channel/UCTji1kQNoWIH85dB_Vxka9g/videos",

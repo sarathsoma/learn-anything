@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer hardware - computer - computer memory - pointers",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "pointers",
@@ -13,16 +11,25 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -173.40234375,
+      "fx": -178.4453125,
       "fy": 44.9375
     }
   ],
   "subnodes": [
     {
+      "text": "1. pointer fun in C",
+      "url": "https://www.youtube.com/watch?v=mnXkiAKbUPg",
+      "fx": -22.4453125,
+      "fy": 36.4375,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. what is a pointer  ️",
       "url": "https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back",
-      "fx": -17.40234375,
-      "fy": 56.4375,
+      "fx": -22.4453125,
+      "fy": 76.4375,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -33,7 +40,7 @@
       "source": "pointers",
       "target": "basics",
       "curve": {
-        "x": 0.828125,
+        "x": -1.69336,
         "y": 63.8984
       }
     }

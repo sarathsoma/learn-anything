@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - search engine optimisation",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "search engine optimisation",
@@ -26,13 +24,22 @@
   ],
   "subnodes": [
     {
-      "text": "awesome SEO",
+      "text": "",
+      "url": "https://www.reddit.com/r/bigseo/",
+      "fx": 118.98477939494603,
+      "fy": -50.52025591285479,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "search engine optimisation"
+    },
+    {
+      "text": "awesome",
       "url": "https://github.com/teles/awesome-seo",
-      "fx": 96.2490911900419,
-      "fy": 11.24435676648784,
+      "fx": 118.98477939494603,
+      "fy": -10.520255912854793,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "search engine optimisation"
     },
     {
       "text": "whiteboard friday  ️",
@@ -52,19 +59,10 @@
       "parent": "help"
     },
     {
-      "text": "big SEO",
-      "url": "https://www.reddit.com/r/bigseo/",
-      "fx": 96.2490911900419,
-      "fy": 125.24435676648784,
-      "category": "reddit",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "webmaster guidelines",
       "url": "https://support.google.com/webmasters/answer/35769",
       "fx": 96.2490911900419,
-      "fy": 165.24435676648784,
+      "fy": 125.24435676648784,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
@@ -72,7 +70,7 @@
       "text": "google search cheat sheet",
       "url": "https://supple.com.au/tools/google-advanced-search-operators/",
       "fx": 96.2490911900419,
-      "fy": 199.24435676648784,
+      "fy": 159.24435676648784,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },

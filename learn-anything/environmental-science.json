@@ -1,7 +1,5 @@
 {
   "title": "learn anything - environmental science",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "environmental science",
@@ -28,8 +26,16 @@
     {
       "text": "renewable energy  ️",
       "note": "is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat",
-      "fx": 615.4852340733621,
-      "fy": -638.6151029175164,
+      "url": "/environmental-science/renewable-energy",
+      "fx": 514.7524336857651,
+      "fy": -628.2075205531753,
+      "category": "mindmap"
+    },
+    {
+      "text": "circular economy  ️",
+      "url": "/environmental-science/circular-economy",
+      "fx": 778.6119511970971,
+      "fy": -626.0274041842473,
       "category": "mindmap"
     }
   ],
@@ -47,8 +53,8 @@
       "source": "sustainability",
       "target": "renewable energy  ️",
       "curve": {
-        "x": -6.95807,
-        "y": 56.8824
+        "x": -57.3245,
+        "y": 62.0862
       }
     },
     {
@@ -57,6 +63,14 @@
       "curve": {
         "x": 56.7956,
         "y": 83.421
+      }
+    },
+    {
+      "source": "sustainability",
+      "target": "circular economy  ️",
+      "curve": {
+        "x": 66.1053,
+        "y": 61.9263
       }
     }
   ]

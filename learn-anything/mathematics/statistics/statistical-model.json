@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - statistics - statistical model",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "statistical models",
@@ -26,12 +24,14 @@
     },
     {
       "text": "probabilistic programming  ️",
+      "url": "/mathematics/statistics/statistical-model/probabilistic-programming",
       "fx": -1136.6849453829225,
       "fy": 157.16772590256483,
       "category": "mindmap"
     },
     {
       "text": "maximum likelihood estimation  ️",
+      "url": "/mathematics/statistics/statistical-model/maximum-likelihood-estimation",
       "fx": -1499.7680431547617,
       "fy": 157.88913690476193,
       "category": "mindmap"
@@ -52,6 +52,7 @@
     },
     {
       "text": "Gaussian mixture model  ️",
+      "url": "/mathematics/statistics/statistical-model/gaussian-mixture-model",
       "fx": 320.94949674954387,
       "fy": 159.1982421875,
       "category": "mindmap"

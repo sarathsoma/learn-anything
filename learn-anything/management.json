@@ -1,7 +1,5 @@
 {
   "title": "learn anything - management",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "management",
@@ -19,6 +17,7 @@
     },
     {
       "text": "engineering management  ️",
+      "url": "/management/engineering-management",
       "fx": -176.74907544378692,
       "fy": -5.154308431952586,
       "category": "mindmap"

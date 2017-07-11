@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - nuclear physics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "nuclear physics",
@@ -19,6 +17,7 @@
     },
     {
       "text": "nuclear reactions  ️",
+      "url": "/physics/nuclear-physics/nuclear-reactions",
       "fx": -86.291015625,
       "fy": 44.57421875,
       "category": "mindmap"

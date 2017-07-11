@@ -1,20 +1,12 @@
 {
   "title": "learn anything - programming - programming languages - lua",
-  "tag": "lua programming language",
-  "description": "",
   "nodes": [
     {
       "text": "lua",
       "url": "http://www.wikiwand.com/en/Lua_(programming_language)",
-      "fx": -85.3125,
-      "fy": -318.015625,
+      "fx": -91.44140625,
+      "fy": -299.84765625,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -0.37890625,
-      "fy": -193.21484375
     },
     {
       "text": "basics",
@@ -28,8 +20,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/lua/",
-      "fx": 67.6875,
-      "fy": -324.015625,
+      "fx": 61.55859375,
+      "fy": -345.84765625,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "lua"
@@ -37,20 +29,29 @@
     {
       "text": "",
       "url": "https://github.com/lua/lua",
-      "fx": 67.6875,
-      "fy": -284.015625,
+      "fx": 61.55859375,
+      "fy": -305.84765625,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "lua"
     },
     {
-      "text": "awesome lua",
-      "url": "https://github.com/LewisJEllis/awesome-lua",
-      "fx": 136.62109375,
-      "fy": -181.71484375,
+      "text": "trending",
+      "url": "https://github.com/trending/lua",
+      "fx": 61.55859375,
+      "fy": -265.84765625,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "lua"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/LewisJEllis/awesome-lua",
+      "fx": 61.55859375,
+      "fy": -225.84765625,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "lua"
     },
     {
       "text": "1. learn lua in 15 minutes",
@@ -63,19 +64,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "lua",
-      "curve": {
-        "x": -38.4668,
-        "y": -61.1504
-      }
-    },
-    {
       "source": "lua",
       "target": "basics",
       "curve": {
-        "x": -5.82617,
-        "y": 101.738
+        "x": -2.76172,
+        "y": 92.6536
       }
     }
   ]

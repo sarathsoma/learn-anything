@@ -1,7 +1,5 @@
 {
   "title": "learn anything - operating systems - unix",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "unix",
@@ -19,43 +17,50 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 186.52585645272688,
-      "fy": -2.6874709226193545
+      "fx": 205.43005053167417,
+      "fy": -4.479548773496504
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -77.57348394393921,
-      "fy": 130.0341567993164
+      "fx": -85.63115787506104,
+      "fy": 134.8639144897461
     },
     {
       "text": "unix philosophy",
       "url": "http://www.wikiwand.com/en/Unix_philosophy",
-      "fx": -374.5454601027877,
-      "fy": 186.360130797411,
+      "fx": -445.7109575517672,
+      "fy": 252.63085783822748,
       "category": "wiki"
     },
     {
-      "text": "shells  ️",
-      "url": "/operating-systems/unix/shells",
-      "fx": 103.81910453998137,
-      "fy": 248.0730726853635,
+      "text": "FreeBSD  ️",
+      "url": "/operating-systems/unix/freebsd",
+      "fx": 124.1019423781654,
+      "fy": 277.0425683609776,
       "category": "mindmap"
     },
     {
       "text": "macOS  ️",
       "url": "/operating-systems/unix/macos",
-      "fx": -184.22135238647468,
-      "fy": 258.92795181274414,
+      "fx": -196.9578532368149,
+      "fy": 309.8181516426763,
+      "category": "mindmap"
+    },
+    {
+      "text": "shells  ️",
+      "url": "/operating-systems/unix/shells",
+      "fx": 83.89830780029297,
+      "fy": 361.4255905151367,
       "category": "mindmap"
     },
     {
       "text": "linux  ️",
       "note": "is a Unix-like computer operating system assembled under the model of free and open-source software development and distribution",
       "url": "/operating-systems/unix/linux",
-      "fx": -27.479805185029022,
-      "fy": 362.5279363320078,
+      "fx": -64.25165951251984,
+      "fy": 387.2364807128906,
       "category": "mindmap"
     }
   ],
@@ -63,81 +68,90 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/unix/",
-      "fx": 164.85064045338606,
-      "fy": -325.2460201618,
+      "fx": 170.85064045338606,
+      "fy": -326.2460201618,
       "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "unix"
     },
     {
       "text": "️",
       "url": "https://unix.stackexchange.com/",
-      "fx": 164.85064045338606,
-      "fy": -285.2460201618,
+      "fx": 170.85064045338606,
+      "fy": -284.2460201618,
       "category": "stack exchange",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "unix"
     },
     {
       "text": "unix architecture evolution diagrams",
       "url": "https://www.spinellis.gr/blog/20170510/",
-      "fx": 229.24091564279934,
-      "fy": -184.33602837084453,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 233.24091564279934,
+      "fy": -186.83602837084453,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "unix programmer’s manual",
       "url": "",
-      "fx": 229.24091564279934,
-      "fy": -128.33602837084453,
-      "color": "rgba(36, 170, 255, 1.0)",
+      "fx": 233.24091564279934,
+      "fy": -124.83602837084453,
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "many things  ️",
       "note": "When frameworks make your decisions for you, you very often won't even realise that a decision has been made at all so it's much harder to identify problems when the assumptions grounded in that technology choice no longer apply.",
       "url": "https://github.com/substack/blog/blob/master/many_things.markdown",
-      "fx": 348.5258564527269,
-      "fy": -51.187470922619354,
+      "fx": 374.43005053167417,
+      "fy": -67.4795487734965,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
       "text": "the TTY demystified  ️",
       "url": "http://www.linusakesson.net/programming/tty/",
-      "fx": 348.5258564527269,
-      "fy": -11.187470922619354,
+      "fx": 374.43005053167417,
+      "fy": -25.479548773496504,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "articles"
     },
     {
       "text": "14: hints for writing unix tools  ️",
       "url": "https://monkey.org/~marius/unix-tools-hints.html",
-      "fx": 348.5258564527269,
-      "fy": 28.812529077380646,
+      "fx": 374.43005053167417,
+      "fy": 16.520451226503496,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "articles"
     },
     {
       "text": "17: writing a unix shell  ️",
       "url": "https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/",
-      "fx": 348.5258564527269,
-      "fy": 68.81252907738065,
+      "fx": 374.43005053167417,
+      "fy": 83.5204512265035,
       "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "articles"
     },
     {
       "text": "1. introduction to unix",
       "url": "http://www.oliverelliott.org/article/computing/tut_unix/",
-      "fx": 104.42651605606079,
-      "fy": 141.5341567993164,
+      "fx": 103.36884212493896,
+      "fy": 113.8639144897461,
       "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. mainframes and the unix revolution",
+      "url": "https://www.youtube.com/watch?v=-rPPqm44xLs",
+      "fx": 103.36884212493896,
+      "fy": 155.8639144897461,
+      "category": "video",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -146,8 +160,8 @@
       "source": "unix",
       "target": "basics",
       "curve": {
-        "x": -41.2121,
-        "y": 223.39
+        "x": -45.2409,
+        "y": 225.805
       }
     },
     {
@@ -162,40 +176,48 @@
       "source": "basics",
       "target": "macOS  ️",
       "curve": {
-        "x": -43.574,
-        "y": 65.6969
+        "x": -45.9135,
+        "y": 88.7272
       }
     },
     {
       "source": "basics",
       "target": "shells  ️",
       "curve": {
-        "x": 95.9461,
-        "y": 60.2695
+        "x": 90.0145,
+        "y": 114.531
       }
     },
     {
       "source": "basics",
       "target": "unix philosophy",
       "curve": {
-        "x": -127.236,
-        "y": 29.413
+        "x": -158.791,
+        "y": 60.1336
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -53.3925,
-        "y": -84.0743
+        "x": -62.8446,
+        "y": -83.1783
       }
     },
     {
       "source": "basics",
       "target": "linux  ️",
       "curve": {
-        "x": 28.0468,
-        "y": 117.497
+        "x": 13.6897,
+        "y": 127.437
+      }
+    },
+    {
+      "source": "basics",
+      "target": "FreeBSD  ️",
+      "curve": {
+        "x": 104.116,
+        "y": 71.0894
       }
     }
   ]

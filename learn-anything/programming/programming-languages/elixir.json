@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - elixir",
-  "tag": "elixir programming language",
-  "description": "",
   "nodes": [
     {
       "text": "elixir",
@@ -13,8 +11,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 170.42494912874872,
-      "fy": -425.43124190138843
+      "fx": 187.50569447036378,
+      "fy": -397.7405392616369
     },
     {
       "text": "tools",
@@ -49,6 +47,7 @@
     },
     {
       "text": "phoenix  ️",
+      "url": "/programming/programming-languages/elixir/phoenix",
       "fx": -68.72274116847848,
       "fy": 160.85865319293498,
       "category": "mindmap"
@@ -59,7 +58,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/elixir/",
       "fx": 198.22403681884373,
-      "fy": -655.8127862962624,
+      "fy": -695.8127862962624,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "elixir"
@@ -68,25 +67,43 @@
       "text": "",
       "url": "https://github.com/elixir-lang/elixir",
       "fx": 198.22403681884373,
-      "fy": -615.8127862962624,
+      "fy": -655.8127862962624,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "elixir"
     },
     {
-      "text": "awesome elixir",
-      "url": "https://github.com/h4cc/awesome-elixir",
-      "fx": 307.4249491287487,
-      "fy": -544.9312419013884,
+      "text": "trending",
+      "url": "https://github.com/trending/elixir",
+      "fx": 198.22403681884373,
+      "fy": -615.8127862962624,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "elixir"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/h4cc/awesome-elixir",
+      "fx": 198.22403681884373,
+      "fy": -575.8127862962624,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "elixir"
+    },
+    {
+      "text": "elixir books",
+      "url": "https://github.com/sger/ElixirBooks",
+      "fx": 324.5056944703638,
+      "fy": -497.24053926163685,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "elixir dose",
       "url": "http://elixirdose.com/",
-      "fx": 307.4249491287487,
-      "fy": -504.9312419013884,
+      "fx": 324.5056944703638,
+      "fy": -457.24053926163685,
       "category": "newsletter",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -94,8 +111,8 @@
     {
       "text": "elixir weekly",
       "url": "https://elixirweekly.net/",
-      "fx": 307.4249491287487,
-      "fy": -464.9312419013884,
+      "fx": 324.5056944703638,
+      "fy": -417.24053926163685,
       "category": "newsletter",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -103,42 +120,33 @@
     {
       "text": "daily drip",
       "url": "https://www.dailydrip.com/topics/elixir",
-      "fx": 307.4249491287487,
-      "fy": -424.9312419013884,
+      "fx": 324.5056944703638,
+      "fy": -377.24053926163685,
       "category": "newsletter",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
-      "text": "elixir books",
-      "url": "https://github.com/sger/ElixirBooks",
-      "fx": 307.4249491287487,
-      "fy": -384.9312419013884,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "elixir jobs",
       "url": "http://jobs.elixirdose.com/",
-      "fx": 307.4249491287487,
-      "fy": -344.9312419013884,
+      "fx": 324.5056944703638,
+      "fy": -337.24053926163685,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "elixir forum",
       "url": "https://elixirforum.com/",
-      "fx": 307.4249491287487,
-      "fy": -310.9312419013884,
+      "fx": 324.5056944703638,
+      "fy": -303.24053926163685,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "elixir libhunt",
       "url": "https://elixir.libhunt.com/",
-      "fx": 307.4249491287487,
-      "fy": -276.9312419013884,
+      "fx": 324.5056944703638,
+      "fy": -269.24053926163685,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -201,8 +209,8 @@
       "source": "help",
       "target": "elixir",
       "curve": {
-        "x": -62.1005,
-        "y": -110.941
+        "x": -70.6409,
+        "y": -124.786
       }
     },
     {
@@ -233,8 +241,8 @@
       "source": "tools",
       "target": "help",
       "curve": {
-        "x": -148.349,
-        "y": -76.628
+        "x": -139.809,
+        "y": -62.7826
       }
     },
     {

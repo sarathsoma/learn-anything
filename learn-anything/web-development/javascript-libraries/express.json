@@ -1,20 +1,12 @@
 {
   "title": "learn anything - web development - javascript libraries - express",
-  "tag": "express.js",
-  "description": "",
   "nodes": [
     {
       "text": "express.js",
       "url": "https://github.com/expressjs/express",
-      "fx": 85.5503101348877,
-      "fy": -115.02266800403595,
+      "fx": 83.27195110405069,
+      "fy": -75.43015699082014,
       "category": "github"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 218.13584899902344,
-      "fy": -14.318731307983398
     },
     {
       "text": "basics",
@@ -25,13 +17,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome express",
+      "text": "awesome",
       "url": "https://github.com/rajikaimal/awesome-express",
-      "fx": 355.13584899902344,
-      "fy": -2.8187313079833984,
+      "fx": 301.2719511040507,
+      "fy": -61.43015699082014,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "express.js"
     },
     {
       "text": "1. getting started",
@@ -56,16 +48,8 @@
       "source": "express.js",
       "target": "basics",
       "curve": {
-        "x": -3.18125,
-        "y": 101.005
-      }
-    },
-    {
-      "source": "help",
-      "target": "express.js",
-      "curve": {
-        "x": -46.0428,
-        "y": -49.102
+        "x": -2.04207,
+        "y": 81.2087
       }
     }
   ]

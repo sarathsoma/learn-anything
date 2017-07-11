@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - energy",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "energy",
@@ -18,24 +16,28 @@
     },
     {
       "text": "conservation of energy  ️",
+      "url": "/physics/energy/conservation-of-energy",
       "fx": 86.38194932864451,
       "fy": 100.59687100383627,
       "category": "mindmap"
     },
     {
       "text": "dark energy  ️",
+      "url": "/physics/energy/dark-energy",
       "fx": -113.32361917038008,
       "fy": 101.01471515098302,
       "category": "mindmap"
     },
     {
       "text": "potential energy  ️",
+      "url": "/physics/energy/potential-energy",
       "fx": -534.0221362421285,
       "fy": 104.58916967795085,
       "category": "mindmap"
     },
     {
       "text": "kinetic energy  ️",
+      "url": "/physics/energy/kinetic-energy",
       "fx": -315.17929252356464,
       "fy": 104.59457981566948,
       "category": "mindmap"

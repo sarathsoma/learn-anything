@@ -1,13 +1,11 @@
 {
   "title": "learn anything - web development - javascript libraries - react",
-  "tag": "react.js",
-  "description": "",
   "nodes": [
     {
       "text": "react",
       "url": "https://facebook.github.io/react/",
       "fx": -113.96950319463565,
-      "fy": -486.8374539462003
+      "fy": -529.9393715598367
     },
     {
       "text": "help",
@@ -25,32 +23,40 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -314.2061233520508,
-      "fy": 35.4533109664917
+      "fx": -319.2490921020508,
+      "fy": 13.624604871450288
     },
     {
       "text": "tools",
       "url": "",
-      "fx": 240.67412638546784,
+      "fx": 247.00384577322302,
       "fy": 94.12338362068988
     },
     {
       "text": "react router  ️",
-      "fx": -459.67625427246094,
-      "fy": 148.50194549560547,
+      "url": "/web-development/javascript-libraries/react/react-router",
+      "fx": -522.6371917724609,
+      "fy": 197.00194549560547,
       "category": "mindmap"
     },
     {
       "text": "react move",
       "url": "https://github.com/tannerlinsley/react-move",
-      "fx": -188.447265625,
-      "fy": 184.4541015625,
+      "fx": -251.408203125,
+      "fy": 232.9541015625,
       "category": "github"
     },
     {
+      "text": "blogs",
+      "url": "",
+      "fx": 320.62248441043016,
+      "fy": 235.2866032776751
+    },
+    {
       "text": "relay  ️",
-      "fx": -324.72126185866523,
-      "fy": 250.39300489540312,
+      "url": "/web-development/javascript-libraries/react/relay",
+      "fx": -387.68219935866523,
+      "fy": 298.8930048954031,
       "category": "mindmap"
     }
   ],
@@ -58,179 +64,204 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/reactjs/",
-      "fx": 30.03049680536435,
-      "fy": -515.3374539462003,
+      "fx": 34.03049680536435,
+      "fy": -580.4393715598367,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "react"
     },
     {
       "text": "",
       "url": "https://twitter.com/reactjs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-      "fx": 30.03049680536435,
-      "fy": -475.3374539462003,
+      "fx": 34.03049680536435,
+      "fy": -538.4393715598367,
       "category": "",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "react"
     },
     {
       "text": "",
       "url": "https://github.com/facebook/react",
-      "fx": 30.03049680536435,
-      "fy": -435.3374539462003,
+      "fx": 34.03049680536435,
+      "fy": -496.4393715598367,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "react"
     },
     {
-      "text": "awesome react",
+      "text": "awesome",
       "url": "https://github.com/enaqx/awesome-react",
-      "fx": 162.5689044075882,
-      "fy": -419.52438757175895,
+      "fx": 34.03049680536435,
+      "fy": -454.4393715598367,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "react"
     },
     {
       "text": "react patterns, techniques, tips and tricks",
       "url": "https://github.com/vasanthk/react-bits",
-      "fx": 162.5689044075882,
-      "fy": -379.52438757175895,
+      "fx": 166.5689044075882,
+      "fy": -404.02438757175895,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "create react app",
       "url": "https://github.com/facebookincubator/create-react-app",
-      "fx": 162.5689044075882,
-      "fy": -317.52438757175895,
+      "fx": 166.5689044075882,
+      "fy": -337.02438757175895,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "reactiflux",
       "url": "https://www.reactiflux.com/",
-      "fx": 162.5689044075882,
-      "fy": -277.52438757175895,
+      "fx": 166.5689044075882,
+      "fy": -295.02438757175895,
       "category": "",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "react-redux links",
       "url": "https://github.com/markerikson/react-redux-links",
-      "fx": 162.5689044075882,
-      "fy": -237.52438757175895,
+      "fx": 166.5689044075882,
+      "fy": -253.02438757175895,
       "category": "github",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "help"
     },
     {
       "text": "community resources",
       "url": "https://github.com/markerikson/react-redux-links/blob/master/community-resources.md",
-      "fx": 396.5689044075882,
-      "fy": -237.52438757175895,
+      "fx": 416.5689044075882,
+      "fy": -253.02438757175895,
       "category": "github",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "react-redux links"
     },
     {
       "text": "react examples",
       "url": "https://github.com/facebook/react/wiki/examples",
-      "fx": 162.5689044075882,
-      "fy": -197.52438757175895,
+      "fx": 166.5689044075882,
+      "fy": -211.02438757175895,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
     },
     {
       "text": "15: wtf is JSX  ️",
       "url": "https://jasonformat.com/wtf-is-jsx/",
-      "fx": 300.53098156011197,
-      "fy": -113.62093755468925,
+      "fx": 307.53098156011197,
+      "fy": -117.62093755468925,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
       "text": "15: presentational and container components  ️",
       "url": "https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0",
-      "fx": 300.53098156011197,
-      "fy": -73.62093755468925,
+      "fx": 307.53098156011197,
+      "fy": -75.62093755468925,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "articles"
     },
     {
       "text": "17: understanding react boilerplates  ️",
       "url": "https://medium.com/@baphemot/understanding-react-boilerplates-e203fafdf063",
-      "fx": 300.53098156011197,
-      "fy": -11.620937554689249,
+      "fx": 307.53098156011197,
+      "fy": -8.620937554689249,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "articles"
     },
     {
       "text": "1. quick start",
       "url": "https://facebook.github.io/react/docs/hello-world.html",
-      "fx": -132.20612335205078,
-      "fy": -7.046689033508301,
-      "color": "rgba(36, 170, 255, 1.0)",
+      "fx": -130.24909210205078,
+      "fy": -68.87539512854971,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. react express",
       "url": "http://www.react.express/",
-      "fx": -132.20612335205078,
-      "fy": 26.9533109664917,
-      "color": "rgba(34, 205, 224, 1.0)",
+      "fx": -130.24909210205078,
+      "fy": -31.875395128549712,
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. complete intro to react",
+      "url": "https://btholt.github.io/complete-intro-to-react/",
+      "fx": -130.24909210205078,
+      "fy": 5.124604871450288,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. react fundamentals",
       "url": "https://reacttraining.com/online/react-fundamentals",
-      "fx": -132.20612335205078,
-      "fy": 60.9533109664917,
+      "fx": -130.24909210205078,
+      "fy": 42.12460487145029,
       "category": "",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. react koans",
       "url": "https://github.com/arkency/reactjs_koans",
-      "fx": -132.20612335205078,
-      "fy": 100.9533109664917,
+      "fx": -130.24909210205078,
+      "fy": 84.12460487145029,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. under the hood reactJS",
+      "url": "https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/",
+      "fx": -130.24909210205078,
+      "fy": 126.12460487145029,
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "basics"
     },
     {
       "text": "create react app",
       "url": "https://github.com/facebookincubator/create-react-app",
-      "fx": 382.67412638546784,
-      "fy": 88.62338362068988,
+      "fx": 393.003845773223,
+      "fy": 88.12338362068988,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "tools"
     },
     {
       "text": "awesome create react app",
       "url": "https://github.com/tuchk4/awesome-create-react-app",
-      "fx": 613.6741263854678,
-      "fy": 88.62338362068988,
+      "fx": 642.003845773223,
+      "fy": 88.12338362068988,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "create react app"
     },
     {
       "text": "react live",
       "url": "https://react-live.philpl.com/",
-      "fx": 382.67412638546784,
-      "fy": 128.62338362068988,
-      "color": "rgba(36, 170, 255, 1.0)",
+      "fx": 393.003845773223,
+      "fy": 130.12338362068988,
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "tools"
+    },
+    {
+      "text": "mark’s dev blog  ️",
+      "url": "http://blog.isquaredsoftware.com/",
+      "fx": 473.62248441043016,
+      "fy": 247.7866032776751,
+      "category": "blog",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "blogs"
     }
   ],
   "connections": [
@@ -239,15 +270,15 @@
       "target": "react",
       "curve": {
         "x": -68.0192,
-        "y": -83.4065
+        "y": -104.957
       }
     },
     {
       "source": "react",
       "target": "basics",
       "curve": {
-        "x": -97.1178,
-        "y": 261.146
+        "x": -99.6393,
+        "y": 271.783
       }
     },
     {
@@ -262,15 +293,15 @@
       "source": "basics",
       "target": "relay  ️",
       "curve": {
-        "x": -8.50749,
-        "y": 108.72
+        "x": -37.4665,
+        "y": 143.884
       }
     },
     {
       "source": "tools",
       "target": "articles",
       "curve": {
-        "x": -46.0716,
+        "x": -49.2365,
         "y": -78.6222
       }
     },
@@ -278,16 +309,24 @@
       "source": "basics",
       "target": "react router  ️",
       "curve": {
-        "x": -67.7351,
-        "y": 56.5243
+        "x": -96.6941,
+        "y": 91.6887
       }
     },
     {
       "source": "basics",
       "target": "react move",
       "curve": {
-        "x": 74.3794,
-        "y": 75.7504
+        "x": 45.4204,
+        "y": 110.915
+      }
+    },
+    {
+      "source": "blogs",
+      "target": "tools",
+      "curve": {
+        "x": -38.5593,
+        "y": -70.5816
       }
     }
   ]

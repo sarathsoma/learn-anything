@@ -1,20 +1,18 @@
 {
   "title": "learn anything - programming - programming languages - perl",
-  "tag": "perl programming language",
-  "description": "",
   "nodes": [
     {
       "text": "perl",
       "url": "http://www.wikiwand.com/en/Perl",
-      "fx": -75.63250968992259,
-      "fy": -205.43662185077517,
+      "fx": -75.26850032806396,
+      "fy": -209.75445175170898,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 1.8986191860464032,
-      "fy": -102.04548207364331
+      "fx": 3.0737827434096516,
+      "fy": -86.46310145355926
     },
     {
       "text": "basics",
@@ -28,8 +26,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/perl/",
-      "fx": 85.36749031007741,
-      "fy": -211.43662185077517,
+      "fx": 85.73149967193604,
+      "fy": -255.75445175170898,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "perl"
@@ -37,26 +35,35 @@
     {
       "text": "",
       "url": "https://github.com/Perl/perl5",
-      "fx": 85.36749031007741,
-      "fy": -171.43662185077517,
+      "fx": 85.73149967193604,
+      "fy": -215.75445175170898,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "perl"
     },
     {
-      "text": "awesome perl",
-      "url": "https://github.com/hachiojipm/awesome-perl",
-      "fx": 138.8986191860464,
-      "fy": -107.54548207364331,
+      "text": "trending",
+      "url": "https://github.com/trending/perl",
+      "fx": 85.73149967193604,
+      "fy": -175.75445175170898,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "perl"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/hachiojipm/awesome-perl",
+      "fx": 85.73149967193604,
+      "fy": -135.75445175170898,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "perl"
     },
     {
       "text": "perl tutorials",
       "url": "https://learn.perl.org/tutorials/",
-      "fx": 138.8986191860464,
-      "fy": -67.54548207364331,
+      "fx": 140.07378274340965,
+      "fy": -71.96310145355926,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -83,16 +90,16 @@
       "source": "help",
       "target": "perl",
       "curve": {
-        "x": -32.7655,
-        "y": -50.4455
+        "x": -33.1711,
+        "y": -60.3956
       }
     },
     {
       "source": "perl",
       "target": "basics",
       "curve": {
-        "x": -13.0403,
-        "y": 109.499
+        "x": -13.2223,
+        "y": 111.658
       }
     }
   ]

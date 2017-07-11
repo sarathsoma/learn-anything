@@ -1,13 +1,11 @@
 {
   "title": "learn anything - programming - programming languages - python",
-  "tag": "python programming language",
-  "description": "",
   "nodes": [
     {
       "text": "python",
       "url": "http://www.wikiwand.com/en/Python_(programming_language)",
-      "fx": -13.916222252976013,
-      "fy": -659.1641376795345,
+      "fx": -18.84579971776475,
+      "fy": -702.2374211302389,
       "category": "wiki"
     },
     {
@@ -30,18 +28,18 @@
       "fy": -123.62730003609113
     },
     {
-      "text": "package manager",
-      "url": "http://www.wikiwand.com/en/Package_manager",
-      "fx": -373.4439043717888,
-      "fy": 76.6601207286302,
-      "category": "wiki"
-    },
-    {
       "text": "python libraries  ️",
       "url": "/programming/programming-languages/python/python-libraries",
       "fx": -176.04714567422695,
       "fy": 150.09731283340284,
       "category": "mindmap"
+    },
+    {
+      "text": "package manager",
+      "url": "http://www.wikiwand.com/en/Package_manager",
+      "fx": -423.8824124363049,
+      "fy": 152.46657234153315,
+      "category": "wiki"
     },
     {
       "text": "micropython",
@@ -51,18 +49,25 @@
       "category": "github"
     },
     {
+      "text": "asyncio  ️",
+      "url": "/programming/programming-languages/python/asyncio",
+      "fx": -576.552178899078,
+      "fy": 154.30719610091523,
+      "category": "mindmap"
+    },
+    {
       "text": "pip",
       "url": "https://pypi.python.org/pypi/pip",
-      "fx": -345.00882849755226,
-      "fy": 191.19434975958518
+      "fx": -347.6449172072297,
+      "fy": 263.3163255660369
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/Python/",
-      "fx": 176.083777747024,
-      "fy": -685.1641376795345,
+      "fx": 171.15420028223525,
+      "fy": -748.2374211302389,
       "category": "reddit",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "python"
@@ -71,8 +76,8 @@
       "text": "",
       "note": "original python implementation in c, compiles python code into byte code and interprets the byte code in a evaluation loop",
       "url": "https://github.com/python/cpython",
-      "fx": 176.083777747024,
-      "fy": -645.1641376795345,
+      "fx": 171.15420028223525,
+      "fy": -708.2374211302389,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "python"
@@ -80,35 +85,26 @@
     {
       "text": "trending",
       "url": "https://github.com/trending/python",
-      "fx": 176.083777747024,
-      "fy": -605.1641376795345,
+      "fx": 171.15420028223525,
+      "fy": -668.2374211302389,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "python"
     },
     {
-      "text": "awesome python",
+      "text": "awesome",
       "url": "https://github.com/vinta/awesome-python",
-      "fx": 301.4522654914258,
-      "fy": -568.5244407662545,
+      "fx": 171.15420028223525,
+      "fy": -628.2374211302389,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome asyncio",
-      "url": "https://github.com/timofurrer/awesome-asyncio",
-      "fx": 301.4522654914258,
-      "fy": -528.5244407662545,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "python"
     },
     {
       "text": "python data model",
       "url": "https://docs.python.org/3/reference/datamodel.html",
       "fx": 301.4522654914258,
-      "fy": -488.52444076625454,
+      "fy": -528.5244407662545,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -116,7 +112,7 @@
       "text": "scientific python cheat sheet",
       "url": "https://ipgp.github.io/scientific_python_cheat_sheet/",
       "fx": 301.4522654914258,
-      "fy": -454.52444076625454,
+      "fy": -494.52444076625454,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
@@ -124,7 +120,7 @@
       "text": "structuring your project",
       "url": "http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/",
       "fx": 301.4522654914258,
-      "fy": -420.52444076625454,
+      "fy": -460.52444076625454,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
@@ -132,7 +128,7 @@
       "text": "style guide for python code",
       "url": "https://www.python.org/dev/peps/pep-0008/",
       "fx": 301.4522654914258,
-      "fy": -386.52444076625454,
+      "fy": -426.52444076625454,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
@@ -140,7 +136,7 @@
       "text": "cpython internals  ️",
       "url": "http://pgbovine.net/cpython-internals.htm",
       "fx": 301.4522654914258,
-      "fy": -352.52444076625454,
+      "fy": -392.52444076625454,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -149,7 +145,7 @@
       "text": "API at a glance",
       "url": "http://overapi.com/python",
       "fx": 301.4522654914258,
-      "fy": -312.52444076625454,
+      "fy": -352.52444076625454,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -238,16 +234,16 @@
       "source": "python",
       "target": "basics",
       "curve": {
-        "x": -55.4984,
-        "y": 267.769
+        "x": -53.0336,
+        "y": 289.306
       }
     },
     {
       "source": "help",
       "target": "python",
       "curve": {
-        "x": -83.1843,
-        "y": -102.07
+        "x": -85.6491,
+        "y": -123.607
       }
     },
     {
@@ -262,16 +258,16 @@
       "source": "basics",
       "target": "package manager",
       "curve": {
-        "x": -105.515,
-        "y": 100.144
+        "x": -130.734,
+        "y": 138.047
       }
     },
     {
       "source": "package manager",
       "target": "pip",
       "curve": {
-        "x": -19.7824,
-        "y": 57.2671
+        "x": 4.11881,
+        "y": 55.4249
       }
     },
     {
@@ -288,6 +284,14 @@
       "curve": {
         "x": 83.6231,
         "y": 180.28
+      }
+    },
+    {
+      "source": "basics",
+      "target": "asyncio  ️",
+      "curve": {
+        "x": -262.511,
+        "y": 121.78
       }
     }
   ]

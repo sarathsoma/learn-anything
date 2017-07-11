@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - calculus - series",
-  "tag": "mathematical series",
-  "description": "",
   "nodes": [
     {
       "text": "series",
@@ -19,15 +17,22 @@
     {
       "text": "geometric series  ️",
       "url": "/mathematics/calculus/series/geometric-series",
-      "fx": -221.97440099457498,
-      "fy": 88.40502889378104,
+      "fx": -343.9130859375,
+      "fy": 88.40503311157227,
       "category": "mindmap"
     },
     {
       "text": "Taylor series  ️",
       "url": "/mathematics/calculus/series/taylor-series",
-      "fx": 16.85419066820191,
-      "fy": 88.5858733219793,
+      "fx": -119.78956127166748,
+      "fy": 88.58586883544922,
+      "category": "mindmap"
+    },
+    {
+      "text": "wavelet transform  ️",
+      "url": "/mathematics/calculus/series/wavelet-transform",
+      "fx": 70.84788602941217,
+      "fy": 90.31449142156862,
       "category": "mindmap"
     }
   ],
@@ -55,7 +60,7 @@
       "source": "basics",
       "target": "Taylor series  ️",
       "curve": {
-        "x": 33.515,
+        "x": -34.8069,
         "y": 63.8442
       }
     },
@@ -63,8 +68,16 @@
       "source": "basics",
       "target": "geometric series  ️",
       "curve": {
-        "x": -83.6493,
+        "x": -144.619,
         "y": 62.5038
+      }
+    },
+    {
+      "source": "basics",
+      "target": "wavelet transform  ️",
+      "curve": {
+        "x": 65.7619,
+        "y": 63.4586
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - software - tooling - productivity",
-  "tag": "productivity software",
-  "description": "",
   "nodes": [
     {
       "text": "productivity",
@@ -45,18 +43,18 @@
       "category": "mindmap"
     },
     {
-      "text": "tmux  ️",
-      "url": "/software/tooling/productivity/tmux",
-      "fx": 292.2664385134344,
-      "fy": -95.60749063581233,
+      "text": "hyper  ️",
+      "url": "/software/tooling/productivity/hyper",
+      "fx": 146.91682330827052,
+      "fy": -90.50677474937345,
       "category": "mindmap"
     },
     {
-      "text": "hyper",
-      "url": "https://github.com/zeit/hyper",
-      "fx": 246.22932330827052,
-      "fy": 32.04010025062655,
-      "category": "github"
+      "text": "tmux  ️",
+      "url": "/software/tooling/productivity/tmux",
+      "fx": 281.6531572634344,
+      "fy": -87.88483438581233,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -68,14 +66,6 @@
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "productivity"
-    },
-    {
-      "text": "awesome hyper",
-      "url": "https://github.com/bnb/awesome-hyper",
-      "fx": 424.2293233082705,
-      "fy": 49.04010025062655,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "hyper"
     }
   ],
   "connections": [
@@ -107,8 +97,8 @@
       "source": "terminal",
       "target": "tmux  ️",
       "curve": {
-        "x": 49.0494,
-        "y": 55.2398
+        "x": 43.7428,
+        "y": 59.1011
       }
     },
     {
@@ -129,10 +119,10 @@
     },
     {
       "source": "terminal",
-      "target": "hyper",
+      "target": "hyper  ️",
       "curve": {
-        "x": 9.43158,
-        "y": 133.118
+        "x": -15.1255,
+        "y": 59.0402
       }
     }
   ]

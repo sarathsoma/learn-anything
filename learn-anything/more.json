@@ -1,22 +1,29 @@
 {
   "title": "learn anything - more",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "more",
       "note": "",
       "url": "",
-      "fx": -206.7266652786401,
-      "fy": -44.69983167240696
+      "fx": -213.8801219825507,
+      "fy": -36.59272622547962
     }
   ],
   "subnodes": [
     {
+      "text": "talks  ️",
+      "url": "/more/talks",
+      "fx": -42.88012198255069,
+      "fy": -305.0927262254796,
+      "category": "mindmap",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "more"
+    },
+    {
       "text": "quora  ️",
       "url": "/more/quora",
-      "fx": -35.7266652786401,
-      "fy": -253.19983167240696,
+      "fx": -42.88012198255069,
+      "fy": -265.0927262254796,
       "category": "mindmap",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "more"
@@ -24,8 +31,8 @@
     {
       "text": "reddit  ️",
       "url": "/more/reddit",
-      "fx": -35.7266652786401,
-      "fy": -213.19983167240696,
+      "fx": -42.88012198255069,
+      "fy": -225.09272622547962,
       "category": "mindmap",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "more"
@@ -33,8 +40,8 @@
     {
       "text": "blogs  ️",
       "url": "/more/blogs",
-      "fx": -35.7266652786401,
-      "fy": -173.19983167240696,
+      "fx": -42.88012198255069,
+      "fy": -185.09272622547962,
       "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "more"
@@ -42,17 +49,26 @@
     {
       "text": "books  ️",
       "url": "/more/books",
-      "fx": -35.7266652786401,
-      "fy": -133.19983167240696,
+      "fx": -42.88012198255069,
+      "fy": -145.09272622547962,
       "category": "mindmap",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "more"
     },
     {
+      "text": "quotes  ️",
+      "url": "/more/quotes",
+      "fx": -42.88012198255069,
+      "fy": -105.09272622547962,
+      "category": "mindmap",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "more"
+    },
+    {
       "text": "images  ️",
       "url": "/more/images",
-      "fx": -35.7266652786401,
-      "fy": -93.19983167240696,
+      "fx": -42.88012198255069,
+      "fy": -65.09272622547962,
       "category": "mindmap",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "more"
@@ -60,8 +76,8 @@
     {
       "text": "humans  ️",
       "url": "/more/humans",
-      "fx": -35.7266652786401,
-      "fy": -53.19983167240696,
+      "fx": -42.88012198255069,
+      "fy": -25.092726225479623,
       "category": "mindmap",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "more"
@@ -69,8 +85,17 @@
     {
       "text": "courses  ️",
       "url": "/more/courses",
-      "fx": -35.7266652786401,
-      "fy": -13.199831672406958,
+      "fx": -42.88012198255069,
+      "fy": 14.907273774520377,
+      "category": "mindmap",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "more"
+    },
+    {
+      "text": "tv series  ️",
+      "url": "/more/tv-series",
+      "fx": -42.88012198255069,
+      "fy": 54.90727377452038,
       "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "more"
@@ -78,8 +103,8 @@
     {
       "text": "websites  ️",
       "url": "/more/websites",
-      "fx": -35.7266652786401,
-      "fy": 26.800168327593042,
+      "fx": -42.88012198255069,
+      "fy": 94.90727377452038,
       "category": "mindmap",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "more"
@@ -87,16 +112,17 @@
     {
       "text": "podcasts  ️",
       "url": "/more/podcasts",
-      "fx": -35.7266652786401,
-      "fy": 66.80016832759304,
+      "fx": -42.88012198255069,
+      "fy": 134.90727377452038,
       "category": "mindmap",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "more"
     },
     {
       "text": "newsletters  ️",
-      "fx": -35.7266652786401,
-      "fy": 106.80016832759304,
+      "url": "/more/newsletters",
+      "fx": -42.88012198255069,
+      "fy": 174.90727377452038,
       "category": "mindmap",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "more"
@@ -104,8 +130,8 @@
     {
       "text": "documentaries  ️",
       "url": "/more/documentaries",
-      "fx": -35.7266652786401,
-      "fy": 146.80016832759304,
+      "fx": -42.88012198255069,
+      "fy": 214.90727377452038,
       "category": "mindmap",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "more"
@@ -113,8 +139,8 @@
     {
       "text": "youtube channels  ️",
       "url": "/more/youtube-channels",
-      "fx": -35.7266652786401,
-      "fy": 186.80016832759304,
+      "fx": -42.88012198255069,
+      "fy": 254.90727377452038,
       "category": "mindmap",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "more"

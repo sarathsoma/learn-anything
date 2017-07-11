@@ -1,13 +1,11 @@
 {
   "title": "learn anything - virtual reality",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "virtual reality",
       "url": "http://www.wikiwand.com/en/Virtual_reality",
-      "fx": 44.878239329268354,
-      "fy": -294.1063756210477,
+      "fx": 34.405583079268354,
+      "fy": -327.1688756210477,
       "category": "wiki"
     },
     {
@@ -19,28 +17,28 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 200.34305837850093,
-      "fy": 17.3727557588104
+      "fx": 186.00321462850093,
+      "fy": 22.4977557588104
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 46.17671695520755,
-      "fy": 138.6504273030293
+      "fx": 28.317341955207553,
+      "fy": 184.6074585530293
     },
     {
       "text": "unity  ️",
       "url": "/game-development/game-engines/unity",
-      "fx": 75.53990184583768,
-      "fy": 262.351960708276,
+      "fx": 64.28599559583768,
+      "fy": 323.180085708276,
       "category": "mindmap"
     },
     {
       "text": "A-Frame  ️",
       "url": "/virtual-reality/aframe",
-      "fx": -84.84443344530212,
-      "fy": 264.0811143005904,
+      "fx": -96.09833969530212,
+      "fy": 324.9092393005904,
       "category": "mindmap"
     }
   ],
@@ -48,10 +46,19 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/virtualreality/",
-      "fx": 281.87823932926835,
-      "fy": -280.1063756210477,
+      "fx": 271.40558307926835,
+      "fy": -333.1688756210477,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "virtual reality"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/Vytek/VR-Awesome",
+      "fx": 271.40558307926835,
+      "fy": -293.1688756210477,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "virtual reality"
     },
     {
@@ -92,8 +99,8 @@
     {
       "text": "shared reality: vive + hololenses",
       "url": "https://www.youtube.com/watch?v=XPYb2IsZL68&amp;feature=youtu.be",
-      "fx": 391.3430583785009,
-      "fy": -2.127244241189601,
+      "fx": 377.0032146285009,
+      "fy": 13.9977557588104,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -101,8 +108,8 @@
     {
       "text": "catching a real ball in virtual reality",
       "url": "https://www.youtube.com/watch?v=Qxu_y8ABajQ&amp;feature=youtu.be",
-      "fx": 391.3430583785009,
-      "fy": 37.8727557588104,
+      "fx": 377.0032146285009,
+      "fy": 53.9977557588104,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
@@ -110,8 +117,8 @@
     {
       "text": "1. introduction to virtual reality",
       "url": "https://www.udacity.com/course/introduction-to-virtual-reality--ud1012",
-      "fx": 228.17671695520755,
-      "fy": 130.1504273030293,
+      "fx": 210.31734195520755,
+      "fy": 156.1074585530293,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -119,10 +126,19 @@
     {
       "text": "1. vive developer mini course",
       "url": "http://learn.vrdev.school/p/vive-developer-mini",
-      "fx": 228.17671695520755,
-      "fy": 170.1504273030293,
+      "fx": 210.31734195520755,
+      "fy": 196.1074585530293,
       "category": "",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. John Carmack tech talk",
+      "url": "https://www.youtube.com/watch?v=lHLpKzUxjGk",
+      "fx": 210.31734195520755,
+      "fy": 236.1074585530293,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -131,40 +147,40 @@
       "source": "virtual reality",
       "target": "basics",
       "curve": {
-        "x": -13.1007,
-        "y": 216.378
+        "x": -16.7941,
+        "y": 255.888
       }
     },
     {
       "source": "basics",
       "target": "A-Frame  ️",
       "curve": {
-        "x": -66.7606,
-        "y": 62.7153
+        "x": -63.4579,
+        "y": 70.1508
       }
     },
     {
       "source": "help",
       "target": "virtual reality",
       "curve": {
-        "x": -37.7403,
-        "y": -67.4387
+        "x": -42.9766,
+        "y": -83.9699
       }
     },
     {
       "source": "basics",
       "target": "unity  ️",
       "curve": {
-        "x": 4.43159,
-        "y": 61.8507
+        "x": 7.73432,
+        "y": 69.2862
       }
     },
     {
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -28.4921,
-        "y": -87.0509
+        "x": -21.3222,
+        "y": -89.6134
       }
     }
   ]

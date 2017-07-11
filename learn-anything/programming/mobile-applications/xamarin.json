@@ -1,0 +1,56 @@
+{
+  "title": "learn anything - programming - mobile applications - xamarin",
+  "nodes": [
+    {
+      "text": "Xamarin",
+      "url": "http://www.wikiwand.com/en/Xamarin",
+      "fx": 43.18906691384177,
+      "fy": -85.90333686440681,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 64.09375,
+      "fy": 70.79296875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/xamarindevelopers/",
+      "fx": 243.18906691384177,
+      "fy": -91.90333686440681,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "Xamarin"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/benoitjadinon/awesome-xamarin",
+      "fx": 243.18906691384177,
+      "fy": -51.90333686440681,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "Xamarin"
+    },
+    {
+      "text": "1. getting started",
+      "url": "https://developer.xamarin.com/guides/cross-platform/getting_started/",
+      "fx": 219.09375,
+      "fy": 85.29296875,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "Xamarin",
+      "target": "basics",
+      "curve": {
+        "x": -0.547662,
+        "y": 77.0982
+      }
+    }
+  ]
+}

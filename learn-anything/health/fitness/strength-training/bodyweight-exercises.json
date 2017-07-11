@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - health - fitness - strength training - bodyweight exercises",
+  "nodes": [
+    {
+      "text": "bodyweight exercises",
+      "url": "http://www.wikiwand.com/en/Bodyweight_exercise",
+      "fx": -19.53879310344837,
+      "fy": -321.09617941422727,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 54.74137931034477,
+      "fy": -185.04296875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/bodyweightfitness/",
+      "fx": 302.46120689655163,
+      "fy": -307.09617941422727,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "bodyweight exercises"
+    },
+    {
+      "text": "wiki",
+      "url": "https://www.reddit.com/r/bodyweightfitness/wiki/index",
+      "fx": 412.46120689655163,
+      "fy": -307.09617941422727,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "1. recommended routine",
+      "url": "https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine",
+      "fx": 210.74137931034477,
+      "fy": -173.54296875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "bodyweight exercises",
+      "target": "basics",
+      "curve": {
+        "x": -4.35991,
+        "y": 66.7766
+      }
+    }
+  ]
+}

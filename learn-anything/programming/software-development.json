@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - software development",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "software development",
@@ -74,32 +72,65 @@
     },
     {
       "text": "architectural patterns  ️",
+      "url": "/programming/software-development/architectural-patterns",
       "fx": -1147.7577213892096,
       "fy": -67.11076268740067,
       "category": "mindmap"
     },
     {
       "text": "domain-driven design  ️",
+      "url": "/programming/software-development/domain-driven-design",
       "fx": -1421.6258417725664,
       "fy": -64.04985082737926,
       "category": "mindmap"
     },
     {
       "text": "software specifications  ️",
-      "fx": -1710.2642211914062,
+      "url": "/programming/software-development/software-specifications",
+      "fx": -1708.869873046875,
       "fy": -63.781861305236816,
       "category": "mindmap"
     },
     {
       "text": "code refactoring  ️",
-      "fx": -1932.4093745690586,
-      "fy": -60.52766719745239,
+      "url": "/programming/software-development/code-refactoring",
+      "fx": -1930.9967346191406,
+      "fy": -60.52766704559326,
       "category": "mindmap"
     },
     {
       "text": "debugging  ️",
-      "fx": -2105.511889370447,
-      "fy": -60.466477730384554,
+      "url": "/programming/software-development/debugging",
+      "fx": -2103.0977172851562,
+      "fy": -60.466476917266846,
+      "category": "mindmap"
+    },
+    {
+      "text": "documentation  ️",
+      "url": "/programming/software-development/documentation",
+      "fx": -2592.6410189519725,
+      "fy": -58.415099303221155,
+      "category": "mindmap"
+    },
+    {
+      "text": "software design  ️",
+      "url": "/programming/software-development/software-design",
+      "fx": -2810.4588448660716,
+      "fy": -56.56163758116861,
+      "category": "mindmap"
+    },
+    {
+      "text": "system administration  ️",
+      "url": "/programming/software-development/system-administration",
+      "fx": -2375.1570176037117,
+      "fy": -56.16931632096089,
+      "category": "mindmap"
+    },
+    {
+      "text": "formal methods  ️",
+      "url": "/programming/software-development/formal-methods",
+      "fx": -3027.3091607103734,
+      "fy": -55.22979695544893,
       "category": "mindmap"
     }
   ],
@@ -225,7 +256,7 @@
       "source": "basics",
       "target": "software specifications  ️",
       "curve": {
-        "x": -1108,
+        "x": -1107.3,
         "y": -38.8016
       }
     },
@@ -233,7 +264,7 @@
       "source": "basics",
       "target": "code refactoring  ️",
       "curve": {
-        "x": -1480.81,
+        "x": -1480.1,
         "y": -26.4714
       }
     },
@@ -241,8 +272,40 @@
       "source": "basics",
       "target": "debugging  ️",
       "curve": {
-        "x": -1670.93,
+        "x": -1669.72,
         "y": -26.5111
+      }
+    },
+    {
+      "source": "basics",
+      "target": "system administration  ️",
+      "curve": {
+        "x": -1688.65,
+        "y": -50.9786
+      }
+    },
+    {
+      "source": "basics",
+      "target": "documentation  ️",
+      "curve": {
+        "x": -1881.37,
+        "y": -78.1086
+      }
+    },
+    {
+      "source": "basics",
+      "target": "software design  ️",
+      "curve": {
+        "x": -2104.38,
+        "y": -85.4497
+      }
+    },
+    {
+      "source": "basics",
+      "target": "formal methods  ️",
+      "curve": {
+        "x": -2328.72,
+        "y": -87.9447
       }
     }
   ]

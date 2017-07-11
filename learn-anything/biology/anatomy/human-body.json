@@ -1,0 +1,75 @@
+{
+  "title": "learn anything - biology - anatomy - human body",
+  "nodes": [
+    {
+      "text": "human body",
+      "url": "http://www.wikiwand.com/en/Human_body",
+      "fx": 184.21875,
+      "fy": -139.32629145408163,
+      "category": "wiki"
+    },
+    {
+      "text": "body fluids",
+      "url": "http://www.wikiwand.com/en/Body_fluid",
+      "fx": -84.90792851432798,
+      "fy": -37.3994249077158,
+      "category": "wiki"
+    },
+    {
+      "text": "respiratory system  ️",
+      "url": "/biology/anatomy/human-body/respiratory-system",
+      "fx": 95.49399645366384,
+      "fy": 34.182726360502556,
+      "category": "mindmap"
+    },
+    {
+      "text": "digestive system  ️",
+      "url": "/biology/anatomy/human-body/digestive-system",
+      "fx": 346.3072177388585,
+      "fy": 34.798658806471565,
+      "category": "mindmap"
+    },
+    {
+      "text": "blood  ️",
+      "url": "/biology/anatomy/human-body/blood",
+      "fx": -143.8220797927371,
+      "fy": 74.56796382334494,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "human body",
+      "target": "body fluids",
+      "curve": {
+        "x": -138.563,
+        "y": 50.9634
+      }
+    },
+    {
+      "source": "body fluids",
+      "target": "blood  ️",
+      "curve": {
+        "x": -48.207,
+        "y": 54.7337
+      }
+    },
+    {
+      "source": "human body",
+      "target": "respiratory system  ️",
+      "curve": {
+        "x": -31.3624,
+        "y": 86.7545
+      }
+    },
+    {
+      "source": "human body",
+      "target": "digestive system  ️",
+      "curve": {
+        "x": 82.7942,
+        "y": 85.8125
+      }
+    }
+  ]
+}

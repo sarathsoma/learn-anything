@@ -1,20 +1,24 @@
 {
   "title": "learn anything - mathematics - logic",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "logic",
       "url": "http://www.wikiwand.com/en/Logic",
-      "fx": -81.10907451923094,
-      "fy": -147.831440924949,
+      "fx": -76.20558187217193,
+      "fy": -248.30478651318435,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 3.532042176573441,
-      "fy": -21.828125
+      "fx": 75.74711570598538,
+      "fy": -103.35386029411757
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 439.07142857142844,
+      "fy": 44.85714285714289
     },
     {
       "text": "basics",
@@ -24,11 +28,11 @@
       "fy": 90.5058730332168
     },
     {
-      "text": "substructural logic",
-      "url": "http://www.wikiwand.com/en/Substructural_logic",
-      "fx": 196.81862555528733,
-      "fy": 187.68997897827035,
-      "category": "wiki"
+      "text": "polish notation  ️",
+      "url": "/mathematics/logic/polish-notation",
+      "fx": -996.8525859330889,
+      "fy": 213.7833211285996,
+      "category": "mindmap"
     },
     {
       "text": "automated reasoning",
@@ -38,16 +42,32 @@
       "category": "wiki"
     },
     {
+      "text": "formal systems",
+      "url": "http://www.wikiwand.com/en/Formal_system",
+      "fx": -1211.5734279141107,
+      "fy": 216.46712039877298,
+      "category": "wiki"
+    },
+    {
       "text": "proofs  ️",
+      "url": "/mathematics/logic/proofs",
       "fx": -754.4810202245044,
       "fy": 216.83558138791864,
       "category": "mindmap"
     },
     {
       "text": "truth tables  ️",
+      "url": "/mathematics/logic/truth-tables",
       "fx": -320.25841346153834,
       "fy": 219.52274750712252,
       "category": "mindmap"
+    },
+    {
+      "text": "substructural logic",
+      "url": "http://www.wikiwand.com/en/Substructural_logic",
+      "fx": 194.76439761411075,
+      "fy": 226.3848319194468,
+      "category": "wiki"
     },
     {
       "text": "peano axioms",
@@ -57,16 +77,17 @@
       "category": "wiki"
     },
     {
-      "text": "linear logic  ️",
-      "fx": 429.68640783817773,
-      "fy": 313.73425836214244,
-      "category": "mindmap"
-    },
-    {
       "text": "proof theory  ️",
       "url": "/mathematics/logic/proof-theory",
       "fx": -877.4581983148621,
       "fy": 321.9542549635659,
+      "category": "mindmap"
+    },
+    {
+      "text": "linear logic  ️",
+      "url": "/mathematics/logic/linear-logic",
+      "fx": 409.33714313229507,
+      "fy": 333.1046627739071,
       "category": "mindmap"
     },
     {
@@ -77,11 +98,18 @@
       "category": "mindmap"
     },
     {
-      "text": "combinatory logic",
+      "text": "combinatory logic  ️",
       "note": "is a notation to eliminate the need for quantified variables in mathematical logic  It was introduced by Moses Schönfinkel and Haskell Curry and has more recently been used in computer science as a theoretical model of computation and also as a basis for the design of functional programming languages.",
-      "url": "http://www.wikiwand.com/en/Combinatory_logic",
-      "fx": -305.4384558433503,
+      "url": "/mathematics/logic/combinatory-logic",
+      "fx": -304.4384558433503,
       "fy": 351.78128315063225,
+      "category": "mindmap"
+    },
+    {
+      "text": "Tarski’s undefinability theorem",
+      "url": "http://www.wikiwand.com/en/Tarski%27s_undefinability_theorem",
+      "fx": -1395.4671962111731,
+      "fy": 352.4191674251899,
       "category": "wiki"
     },
     {
@@ -97,8 +125,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/logic/",
-      "fx": 87.89092548076906,
-      "fy": -133.831440924949,
+      "fx": 92.79441812782807,
+      "fy": -234.30478651318435,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "logic"
@@ -106,8 +134,8 @@
     {
       "text": "incredible proof machine",
       "url": "http://incredible.pm/",
-      "fx": 140.53204217657344,
-      "fy": -61.328125,
+      "fx": 212.74711570598538,
+      "fy": -142.85386029411757,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -115,8 +143,8 @@
     {
       "text": "functional programming in coq, logic and more",
       "url": "http://www.cis.upenn.edu/~bcpierce/sf/current/toc.html",
-      "fx": 140.53204217657344,
-      "fy": -21.328125,
+      "fx": 212.74711570598538,
+      "fy": -102.85386029411757,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -124,11 +152,20 @@
     {
       "text": "book of bad arguments",
       "url": "https://bookofbadarguments.com/",
-      "fx": 140.53204217657344,
-      "fy": 40.671875,
+      "fx": 212.74711570598538,
+      "fy": -40.85386029411757,
       "category": "free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "13: logic, information and computation",
+      "url": "https://www.youtube.com/watch?v=BczwMBsyODY",
+      "fx": 579.0714285714284,
+      "fy": 45.35714285714289,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "talks"
     },
     {
       "text": "1. logic matters",
@@ -145,23 +182,23 @@
       "source": "logic",
       "target": "basics",
       "curve": {
-        "x": -5.61343,
-        "y": 117.919
+        "x": -8.06518,
+        "y": 168.156
       }
     },
     {
       "source": "help",
       "target": "logic",
       "curve": {
-        "x": -34.3206,
-        "y": -61.7516
+        "x": -67.9764,
+        "y": -71.2254
       }
     },
     {
       "source": "basics",
-      "target": "combinatory logic",
+      "target": "combinatory logic  ️",
       "curve": {
-        "x": -83.3013,
+        "x": -82.8013,
         "y": 131.888
       }
     },
@@ -217,16 +254,16 @@
       "source": "basics",
       "target": "substructural logic",
       "curve": {
-        "x": 160.003,
-        "y": 64.5345
+        "x": 186.637,
+        "y": 77.7974
       }
     },
     {
       "source": "substructural logic",
       "target": "linear logic  ️",
       "curve": {
-        "x": 91.6839,
-        "y": 61.7721
+        "x": 82.5364,
+        "y": 52.1099
       }
     },
     {
@@ -235,6 +272,38 @@
       "curve": {
         "x": -112.711,
         "y": 64.5084
+      }
+    },
+    {
+      "source": "talks",
+      "target": "help",
+      "curve": {
+        "x": -241.326,
+        "y": -27.7097
+      }
+    },
+    {
+      "source": "basics",
+      "target": "polish notation  ️",
+      "curve": {
+        "x": -571.008,
+        "y": 9.90435
+      }
+    },
+    {
+      "source": "basics",
+      "target": "formal systems",
+      "curve": {
+        "x": -727.716,
+        "y": -14.5177
+      }
+    },
+    {
+      "source": "formal systems",
+      "target": "Tarski’s undefinability theorem",
+      "curve": {
+        "x": -66.4469,
+        "y": 66.726
       }
     }
   ]

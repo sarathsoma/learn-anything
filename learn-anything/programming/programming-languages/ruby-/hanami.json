@@ -1,0 +1,69 @@
+{
+  "title": "learn anything - programming - programming languages - ruby  - hanami",
+  "nodes": [
+    {
+      "text": "hanami",
+      "url": "http://hanamirb.org/",
+      "fx": -50.65625,
+      "fy": -115.9609375
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 66.2734375,
+      "fy": -36.55377674102783
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -48.62893807888031,
+      "fy": 55.91274642944336
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://github.com/hanami/hanami",
+      "fx": 113.34375,
+      "fy": -104.4609375,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "hanami"
+    },
+    {
+      "text": "awesome hanami",
+      "url": "https://github.com/davydovanton/awesome-hanami",
+      "fx": 203.2734375,
+      "fy": -25.053776741027832,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. getting started",
+      "url": "http://hanamirb.org/guides/getting-started/",
+      "fx": 107.37106192111969,
+      "fy": 70.41274642944336,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "hanami",
+      "target": "basics",
+      "curve": {
+        "x": -0.986344,
+        "y": 85.9368
+      }
+    },
+    {
+      "source": "help",
+      "target": "hanami",
+      "curve": {
+        "x": -51.7148,
+        "y": -39.7036
+      }
+    }
+  ]
+}

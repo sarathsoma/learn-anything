@@ -1,20 +1,18 @@
 {
   "title": "learn anything - programming - software development - devops - docker",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "docker",
       "url": "http://www.wikiwand.com/en/Docker_(software)",
-      "fx": -50.65253214887207,
-      "fy": -47.52763492244685,
+      "fx": -74.19550089887207,
+      "fy": -15.73075992244685,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 89.79224049928962,
-      "fy": 116.73898190169496
+      "fx": 81.71020924928962,
+      "fy": 151.65695065169496
     },
     {
       "text": "basics",
@@ -35,8 +33,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/docker/",
-      "fx": 139.34746785112793,
-      "fy": -73.52763492244685,
+      "fx": 115.80449910112793,
+      "fy": -61.73075992244685,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "docker"
@@ -44,8 +42,8 @@
     {
       "text": "",
       "url": "https://twitter.com/Docker?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-      "fx": 139.34746785112793,
-      "fy": -33.52763492244685,
+      "fx": 115.80449910112793,
+      "fy": -21.73075992244685,
       "category": "",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "docker"
@@ -53,26 +51,26 @@
     {
       "text": "",
       "url": "https://github.com/veggiemonk/awesome-docker",
-      "fx": 139.34746785112793,
-      "fy": 6.47236507755315,
+      "fx": 115.80449910112793,
+      "fy": 18.26924007755315,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "docker"
     },
     {
-      "text": "awesome docker",
+      "text": "awesome",
       "url": "https://github.com/veggiemonk/awesome-docker",
-      "fx": 226.79224049928962,
-      "fy": 68.23898190169496,
+      "fx": 115.80449910112793,
+      "fy": 58.26924007755315,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "docker"
     },
     {
       "text": "docker community",
       "url": "https://github.com/docker/community",
-      "fx": 226.79224049928962,
-      "fy": 108.23898190169496,
+      "fx": 218.71020924928962,
+      "fy": 123.15695065169496,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -80,8 +78,8 @@
     {
       "text": "docker tutorials",
       "url": "https://github.com/docker/labs/",
-      "fx": 226.79224049928962,
-      "fy": 148.23898190169496,
+      "fx": 218.71020924928962,
+      "fy": 163.15695065169496,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -89,8 +87,8 @@
     {
       "text": "good docker resources",
       "url": "https://github.com/shekhargulati/good-docker-resources",
-      "fx": 226.79224049928962,
-      "fy": 188.23898190169496,
+      "fx": 218.71020924928962,
+      "fy": 203.15695065169496,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -154,16 +152,16 @@
       "source": "docker",
       "target": "basics",
       "curve": {
-        "x": -49.4868,
-        "y": 205.882
+        "x": -37.7153,
+        "y": 189.984
       }
     },
     {
       "source": "help",
       "target": "docker",
       "curve": {
-        "x": -56.9724,
-        "y": -80.8833
+        "x": -64.7029,
+        "y": -82.4438
       }
     },
     {

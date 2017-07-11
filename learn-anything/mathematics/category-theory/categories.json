@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - mathematics - category theory - categories",
+  "nodes": [
+    {
+      "text": "categories",
+      "url": "http://www.wikiwand.com/en/Category_(mathematics)",
+      "fx": -73.80078125,
+      "fy": -129.15625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -40.74363227739741,
+      "fy": -7.6680757705480005
+    },
+    {
+      "text": "topos theory  ️",
+      "url": "/mathematics/category-theory/categories/topos-theory",
+      "fx": -181.26941094166568,
+      "fy": 118.51951688483575,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=p54Hd7AmVFU",
+      "fx": 115.25636772260259,
+      "fy": 3.8319242294519995,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "categories",
+      "target": "basics",
+      "curve": {
+        "x": 0.278574,
+        "y": 59.4941
+      }
+    },
+    {
+      "source": "basics",
+      "target": "topos theory  ️",
+      "curve": {
+        "x": -71.7629,
+        "y": 63.0938
+      }
+    }
+  ]
+}

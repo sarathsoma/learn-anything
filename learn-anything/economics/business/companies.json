@@ -1,7 +1,5 @@
 {
   "title": "learn anything - economics - business - companies",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "companies",
@@ -825,6 +823,7 @@
     },
     {
       "text": "04: facebook  ️",
+      "url": "/economics/business/companies/facebook",
       "fx": 278.7109375,
       "fy": 425.1796875,
       "category": "mindmap",

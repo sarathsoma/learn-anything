@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - front end",
-  "tag": "front end development",
-  "description": "",
   "nodes": [
     {
       "text": "front end",
@@ -25,6 +23,7 @@
     },
     {
       "text": "CSS3  ️",
+      "url": "/web-development/front-end/css/css3",
       "fx": 1233.8989984766658,
       "fy": -538.9596662961184,
       "category": "mindmap"
@@ -52,6 +51,7 @@
     },
     {
       "text": "HTML5  ️",
+      "url": "/web-development/front-end/html/html5",
       "fx": 553.2780385376011,
       "fy": -430.0901885704927,
       "category": "mindmap"
@@ -136,6 +136,7 @@
     },
     {
       "text": "npm  ️",
+      "url": "/programming/programming-languages/javascript/npm",
       "fx": 1093.4459838867188,
       "fy": -173.01318550109863,
       "category": "mindmap"
@@ -181,6 +182,7 @@
     },
     {
       "text": "preact  ️",
+      "url": "/web-development/javascript-libraries/preact",
       "fx": 417.57733154296875,
       "fy": -125.48646450042736,
       "category": "mindmap"
@@ -208,6 +210,7 @@
     },
     {
       "text": "angular  ️",
+      "url": "/web-development/javascript-libraries/angularjs",
       "fx": 21.589630126953125,
       "fy": -122.06597995758068,
       "category": "mindmap"
@@ -221,6 +224,7 @@
     },
     {
       "text": "flux  ️",
+      "url": "/programming/software-development/architectural-patterns/flux",
       "fx": 122.79539113230817,
       "fy": -11.370446935874838,
       "category": "mindmap"
@@ -238,33 +242,33 @@
       "text": "",
       "url": "https://www.reddit.com/r/Frontend/",
       "fx": 1092.631184361113,
-      "fy": -842.5069812654648,
+      "fy": -862.5069812654648,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "front end"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+      "fx": 1092.631184361113,
+      "fy": -822.5069812654648,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "front end"
     },
     {
       "text": "front end resources",
       "url": "https://enboard.co/frontend/",
       "fx": 1157.7021083980283,
-      "fy": -774.5126309523258,
+      "fy": -754.5126309523258,
       "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome front end",
-      "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
-      "fx": 1157.7021083980283,
-      "fy": -740.5126309523258,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "spell book of modern webdev",
       "url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
       "fx": 1157.7021083980283,
-      "fy": -700.5126309523258,
+      "fy": -720.5126309523258,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - economics - investing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "investing",
@@ -31,6 +29,7 @@
     },
     {
       "text": "rate of return  ️",
+      "url": "/economics/investing/rate-of-return",
       "fx": -266.4511370865134,
       "fy": 216.180423027992,
       "category": "mindmap"

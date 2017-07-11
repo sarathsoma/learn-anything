@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer science - virtual machines - jvm - rxjava",
-  "tag": "RxJava",
-  "description": "",
   "nodes": [
     {
       "text": "RxJava",
@@ -13,8 +11,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 45.48046875,
-      "fy": -177.140625
+      "fx": 20.031627136184625,
+      "fy": -180.3155292169282
     },
     {
       "text": "basics",
@@ -25,12 +23,21 @@
   ],
   "subnodes": [
     {
-      "text": "awesome RxJava",
+      "text": "awesome",
       "url": "https://github.com/lzyzsd/Awesome-RxJava",
-      "fx": 182.48046875,
-      "fy": -165.640625,
+      "fx": 99.85546875,
+      "fy": -273.09765625,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "RxJava"
+    },
+    {
+      "text": "Rx visualiser",
+      "url": "https://rxviz.com/",
+      "fx": 157.03162713618462,
+      "fy": -168.8155292169282,
+      "category": "interactive",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
@@ -57,8 +64,8 @@
       "source": "help",
       "target": "RxJava",
       "curve": {
-        "x": -55.3125,
-        "y": -53.7285
+        "x": -42.5881,
+        "y": -52.141
       }
     },
     {

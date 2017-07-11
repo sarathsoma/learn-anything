@@ -1,27 +1,31 @@
 {
   "title": "learn anything - security - privacy",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "privacy",
       "note": "",
       "url": "http://www.wikiwand.com/en/Privacy",
-      "fx": -72.94262170104241,
-      "fy": -426.3615800280751,
+      "fx": -46.72072764616439,
+      "fy": -626.4973460341727,
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 10.508244740190548,
-      "fy": -305.5178003946362
+      "fx": 86.71584763653163,
+      "fy": -509.2311197543923
     },
     {
       "text": "help",
       "url": "",
-      "fx": 96.27083684554077,
-      "fy": -189.23654183544892
+      "fx": 231.09124461993088,
+      "fy": -391.3254328415465
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -22.52048399389787,
+      "fy": -317.821169969522
     },
     {
       "text": "invading privacy",
@@ -45,6 +49,7 @@
     {
       "text": "facebook  ️",
       "note": "Facebook isn't just taking information that you choose to give them. They're taking anything they can get from any possible source, and you don't have a say in the matter.  Facebook tracks you whether you have an account or not, you're gonna have to do a lot more than just delete your account to gain an inch of your privacy back.  I think the most anyone can do is stop using Facebook... And when asked why you stopped using politely and simply state you do not like companies making profit by selling/ exchanging your privacy/ personal details.",
+      "url": "/economics/business/companies/facebook",
       "fx": -118.7910537027501,
       "fy": 189.02221370194218,
       "category": "mindmap"
@@ -171,8 +176,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/privacy/",
-      "fx": 144.0573782989576,
-      "fy": -412.3615800280751,
+      "fx": 170.2792723538356,
+      "fy": -612.4973460341727,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "privacy"
@@ -180,8 +185,8 @@
     {
       "text": "wiki",
       "url": "https://www.reddit.com/r/privacy/wiki/index",
-      "fx": 254.0573782989576,
-      "fy": -412.3615800280751,
+      "fx": 280.2792723538356,
+      "fy": -612.4973460341727,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": ""
@@ -189,8 +194,8 @@
     {
       "text": "16: what information security best practices does spideroak recommend?  ️",
       "url": "https://spideroak.com/infosec",
-      "fx": 172.50824474019055,
-      "fy": -336.0178003946362,
+      "fx": 248.71584763653163,
+      "fy": -539.7311197543922,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -198,8 +203,8 @@
     {
       "text": "17: build a better monster  ️",
       "url": "http://idlewords.com/talks/build_a_better_monster.htm",
-      "fx": 172.50824474019055,
-      "fy": -252.0178003946362,
+      "fx": 248.71584763653163,
+      "fy": -455.7311197543923,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -207,10 +212,19 @@
     {
       "text": "privacy tools",
       "url": "https://privacytoolsio.github.io/privacytools.io/",
-      "fx": 233.27083684554077,
-      "fy": -174.73654183544892,
+      "fx": 368.0912446199309,
+      "fy": -376.8254328415465,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "1. they’re watching you",
+      "url": "https://www.youtube.com/watch?v=tabVaoeNtdk",
+      "fx": 133.47951600610213,
+      "fy": -306.321169969522,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "17: by 2030, you’ll be living in a world that’s run by google  ️",
@@ -286,8 +300,8 @@
       "source": "articles",
       "target": "privacy",
       "curve": {
-        "x": -34.4754,
-        "y": -59.1719
+        "x": -59.4683,
+        "y": -57.3831
       }
     },
     {
@@ -385,19 +399,11 @@
       "text": "alternative"
     },
     {
-      "source": "privacy",
-      "target": "invading privacy",
-      "curve": {
-        "x": -51.7592,
-        "y": 159.391
-      }
-    },
-    {
       "source": "help",
       "target": "articles",
       "curve": {
-        "x": -36.6312,
-        "y": -58.1406
+        "x": -65.9376,
+        "y": -58.9528
       }
     },
     {
@@ -495,6 +501,22 @@
         "y": 94.0661
       },
       "text": "alternative"
+    },
+    {
+      "source": "privacy",
+      "target": "basics",
+      "curve": {
+        "x": -3.14988,
+        "y": 153.088
+      }
+    },
+    {
+      "source": "basics",
+      "target": "invading privacy",
+      "curve": {
+        "x": -53.7984,
+        "y": 106.371
+      }
     }
   ]
 }

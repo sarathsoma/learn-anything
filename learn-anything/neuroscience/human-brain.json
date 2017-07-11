@@ -1,7 +1,5 @@
 {
   "title": "learn anything - neuroscience - human brain",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "human brain",
@@ -33,8 +31,8 @@
     {
       "text": "memory  ️",
       "note": "is the faculty of the mind by which information is encoded, stored, and retrieved  it is vital to experiences and related to limbic systems, it is the retention of information over time for the purpose of influencing future action  if we could not remember past events, we could not learn or develop language, relationships, nor personal identity  it is understood as an informational processing system with explicit and implicit functioning that is made up of a sensory processor, short-term (or working) memory, and long-term memory",
-      "url": "/neuroscience/human-brain/memories",
-      "fx": -178.9795915585774,
+      "url": "/neuroscience/human-brain/memory",
+      "fx": -177.9795915585774,
       "fy": 12.013297093480674,
       "category": "mindmap"
     },
@@ -55,6 +53,7 @@
     },
     {
       "text": "cerebral cortex  ️",
+      "url": "/neuroscience/human-brain/cerebral-cortex",
       "fx": -780.212143605163,
       "fy": 14.401603987907038,
       "category": "mindmap"
@@ -62,6 +61,7 @@
     {
       "text": "neurotransmitters  ️",
       "note": "are endogenous chemicals that enable neurotransmission  they transmit signals across a chemical synapse, such as a neuromuscular junction, from one neuron (nerve cell) to another \"target\" neuron, muscle cell, or gland cell  they are released from synaptic vesicles in synapses into the synaptic cleft, where they are received by receptors on the target cells  many neurotransmitters are synthesized from simple and plentiful precursors such as amino acids, which are readily available from the diet and only require a small number of biosynthetic steps for conversion  their exact numbers are unknown, but more than 100 chemical messengers have been uniquely identified",
+      "url": "/neuroscience/human-brain/neurotransmitters",
       "fx": 198.60863117867348,
       "fy": 14.76810595075142,
       "category": "mindmap"
@@ -141,7 +141,7 @@
       "source": "basics",
       "target": "memory  ️",
       "curve": {
-        "x": -89.7617,
+        "x": -89.2617,
         "y": 86.824
       }
     },

@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - physics - matter - nanotechnology - molecular nanotechnology",
+  "nodes": [
+    {
+      "text": "molecular nanotechnology",
+      "url": "http://www.wikiwand.com/en/Molecular_nanotechnology",
+      "fx": 64.02734375,
+      "fy": -155.7890625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 159.5,
+      "fy": -19.61328125
+    },
+    {
+      "text": "molecular machines  ️",
+      "url": "/physics/matter/nanotechnology/molecular-nanotechnology/molecular-machines",
+      "fx": -6.653363269797296,
+      "fy": 123.20656158356053,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. the promise of molecular nanotechnology",
+      "url": "https://www.youtube.com/watch?v=Qape78ZyF8E",
+      "fx": 315.5,
+      "fy": -19.11328125,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "molecular nanotechnology",
+      "target": "basics",
+      "curve": {
+        "x": -4.51367,
+        "y": 66.8379
+      }
+    },
+    {
+      "source": "basics",
+      "target": "molecular machines  ️",
+      "curve": {
+        "x": -52.3267,
+        "y": 71.4099
+      }
+    }
+  ]
+}

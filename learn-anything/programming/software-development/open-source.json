@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - software development - open source",
-  "tag": "open source development",
-  "description": "",
   "nodes": [
     {
       "text": "open source",
@@ -32,8 +30,8 @@
     {
       "text": "build",
       "url": "",
-      "fx": -162.03023805902967,
-      "fy": 345.0553225189891
+      "fx": -144.68532201425364,
+      "fy": 374.01112942197403
     }
   ],
   "subnodes": [
@@ -50,8 +48,17 @@
       "text": "open source guides",
       "url": "https://opensource.guide/",
       "fx": 156.90035247802734,
-      "fy": -41.62710380554199,
+      "fy": -61.62710380554199,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "open source supporters",
+      "url": "https://github.com/ossfriendly/open-source-supporters",
+      "fx": 156.90035247802734,
+      "fy": -27.627103805541992,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
@@ -92,8 +99,8 @@
     {
       "text": "awesome foss apps",
       "url": "https://github.com/jwaterfaucett/awesome-foss-apps",
-      "fx": -20.03023805902967,
-      "fy": 316.5553225189891,
+      "fx": -2.685322014253643,
+      "fy": 345.51112942197403,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "build"
@@ -101,8 +108,8 @@
     {
       "text": "awesome open source apps",
       "url": "https://github.com/unicodeveloper/awesome-opensource-apps",
-      "fx": -20.03023805902967,
-      "fy": 356.5553225189891,
+      "fx": -2.685322014253643,
+      "fy": 385.51112942197403,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "build"
@@ -110,8 +117,8 @@
     {
       "text": "awesome for beginners",
       "url": "https://github.com/MunGell/awesome-for-beginners",
-      "fx": -20.03023805902967,
-      "fy": 396.5553225189891,
+      "fx": -2.685322014253643,
+      "fy": 425.51112942197403,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "build"
@@ -138,8 +145,8 @@
       "source": "basics",
       "target": "build",
       "curve": {
-        "x": -37.8016,
-        "y": 78.9923
+        "x": -29.1291,
+        "y": 93.4702
       }
     },
     {

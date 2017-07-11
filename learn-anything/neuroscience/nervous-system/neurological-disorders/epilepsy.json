@@ -1,0 +1,48 @@
+{
+  "title": "learn anything - neuroscience - nervous system - neurological disorders - epilepsy",
+  "nodes": [
+    {
+      "text": "epilepsy",
+      "url": "http://www.wikiwand.com/en/Epilepsy",
+      "fx": 130.2109375,
+      "fy": -97.0546875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 144.5,
+      "fy": 41
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/Epilepsy/",
+      "fx": 331.2109375,
+      "fy": -83.0546875,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "epilepsy"
+    },
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=ONvvTbKR_UA",
+      "fx": 300.5,
+      "fy": 52.5,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "epilepsy",
+      "target": "basics",
+      "curve": {
+        "x": -4.10547,
+        "y": 67.7773
+      }
+    }
+  ]
+}

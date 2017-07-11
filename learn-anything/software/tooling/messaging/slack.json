@@ -1,0 +1,56 @@
+{
+  "title": "learn anything - software - tooling - messaging - slack",
+  "nodes": [
+    {
+      "text": "slack",
+      "url": "http://www.wikiwand.com/en/Slack_(software)",
+      "fx": 137.53125,
+      "fy": -214.8671875,
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 208.98828125,
+      "fy": -88.4273976293104
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome",
+      "url": "https://github.com/matiassingers/awesome-slack",
+      "fx": 311.53125,
+      "fy": -200.8671875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "slack"
+    },
+    {
+      "text": "awesome slack communities",
+      "url": "https://github.com/filipelinhares/awesome-slack",
+      "fx": 345.98828125,
+      "fy": -93.9273976293104,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "discover slack communities",
+      "url": "https://slofile.com/",
+      "fx": 345.98828125,
+      "fy": -53.927397629310406,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "slack",
+      "curve": {
+        "x": -26.4785,
+        "y": -61.9699
+      }
+    }
+  ]
+}

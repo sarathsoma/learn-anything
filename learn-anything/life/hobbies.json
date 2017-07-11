@@ -1,7 +1,5 @@
 {
   "title": "learn anything - life - hobbies",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "hobbies",
@@ -66,6 +64,7 @@
     },
     {
       "text": "brewing  ️",
+      "url": "/life/hobbies/brewing",
       "fx": 479.93868885869574,
       "fy": -62.1368885869565,
       "category": "mindmap",

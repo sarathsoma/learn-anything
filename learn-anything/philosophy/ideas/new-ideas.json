@@ -1,0 +1,75 @@
+{
+  "title": "learn anything - philosophy - ideas - new ideas",
+  "nodes": [
+    {
+      "text": "project ideas",
+      "url": "",
+      "fx": -295.97265625,
+      "fy": -98.08203125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "list of practical projects to code in any language",
+      "url": "https://github.com/karan/Projects",
+      "fx": -81.97265625,
+      "fy": -211.58203125,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "project ideas"
+    },
+    {
+      "text": "awesome foss apps",
+      "url": "https://github.com/jwaterfaucett/awesome-foss-apps",
+      "fx": -81.97265625,
+      "fy": -149.58203125,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "project ideas"
+    },
+    {
+      "text": "awesome open source apps",
+      "url": "https://github.com/unicodeveloper/awesome-opensource-apps",
+      "fx": -81.97265625,
+      "fy": -109.58203125,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "project ideas"
+    },
+    {
+      "text": "awesome for beginners",
+      "url": "https://github.com/MunGell/awesome-for-beginners",
+      "fx": -81.97265625,
+      "fy": -69.58203125,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "project ideas"
+    },
+    {
+      "text": "mega project ideas list",
+      "url": "http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/",
+      "fx": -81.97265625,
+      "fy": -29.58203125,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "project ideas"
+    },
+    {
+      "text": "cool github projects",
+      "url": "https://www.reddit.com/r/coolgithubprojects/",
+      "fx": -81.97265625,
+      "fy": 4.41796875,
+      "category": "reddit",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "project ideas"
+    },
+    {
+      "text": "collective list of APIs",
+      "url": "http://apilist.fun",
+      "fx": -81.97265625,
+      "fy": 44.41796875,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "project ideas"
+    }
+  ],
+  "connections": []
+}

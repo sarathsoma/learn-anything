@@ -1,20 +1,18 @@
 {
   "title": "learn anything - chemistry",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "chemistry",
       "url": "http://www.wikiwand.com/en/Chemistry",
-      "fx": -233.6537879959485,
+      "fx": -157.57739910705982,
       "fy": -534.9495655956164,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": -109.8339502616011,
-      "fy": -413.0967242339922
+      "fx": -5.7714502616006484,
+      "fy": -422.93179367843675
     },
     {
       "text": "basics",
@@ -69,6 +67,13 @@
       "category": "mindmap"
     },
     {
+      "text": "chemical reactions  ️",
+      "url": "/chemistry/chemical-reactions",
+      "fx": -2112.292389187687,
+      "fy": 0.23501251854008842,
+      "category": "mindmap"
+    },
+    {
       "text": "organic chemistry  ️",
       "url": "/chemistry/organic-chemistry",
       "fx": -247.4729118347168,
@@ -77,30 +82,31 @@
     },
     {
       "text": "physical chemistry  ️",
+      "url": "/chemistry/physical-chemistry",
       "fx": -1866.7926718040346,
       "fy": 2.118421236318568,
       "category": "mindmap"
     },
     {
-      "text": "inorganic chemistry",
-      "url": "http://www.wikiwand.com/en/Inorganic_chemistry",
-      "fx": -12.344337463378906,
+      "text": "inorganic chemistry  ️",
+      "url": "/chemistry/inorganic-chemistry",
+      "fx": -11.344337463378906,
       "fy": 5.38154935836792,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
-      "text": "polymer chemistry",
-      "url": "http://www.wikiwand.com/en/Polymer_chemistry",
-      "fx": 237.79264068603516,
+      "text": "polymer chemistry  ️",
+      "url": "/chemistry/polymer-chemistry",
+      "fx": 239.80193328857422,
       "fy": 5.902863502502441,
-      "category": "wiki"
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/chemistry/",
-      "fx": -19.653787995948505,
+      "fx": 56.42260089294018,
       "fy": -540.9495655956164,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
@@ -109,7 +115,7 @@
     {
       "text": "️",
       "url": "https://chemistry.stackexchange.com/",
-      "fx": -19.653787995948505,
+      "fx": 56.42260089294018,
       "fy": -500.9495655956164,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
@@ -118,8 +124,8 @@
     {
       "text": "chemguide",
       "url": "http://www.chemguide.co.uk/",
-      "fx": 27.166049738398897,
-      "fy": -398.5967242339922,
+      "fx": 131.22854973839935,
+      "fy": -408.43179367843675,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
@@ -166,7 +172,7 @@
       "source": "chemistry",
       "target": "basics",
       "curve": {
-        "x": 24.3867,
+        "x": -13.6515,
         "y": 129.286
       }
     },
@@ -190,8 +196,8 @@
       "source": "help",
       "target": "chemistry",
       "curve": {
-        "x": -49.6599,
-        "y": -60.9264
+        "x": -63.653,
+        "y": -56.0089
       }
     },
     {
@@ -204,17 +210,17 @@
     },
     {
       "source": "basics",
-      "target": "inorganic chemistry",
+      "target": "inorganic chemistry  ️",
       "curve": {
-        "x": 114.768,
+        "x": 115.268,
         "y": 142.13
       }
     },
     {
       "source": "basics",
-      "target": "polymer chemistry",
+      "target": "polymer chemistry  ️",
       "curve": {
-        "x": 211.892,
+        "x": 212.897,
         "y": 161.74
       }
     },
@@ -256,6 +262,14 @@
       "curve": {
         "x": -989.245,
         "y": 42.5841
+      }
+    },
+    {
+      "source": "basics",
+      "target": "chemical reactions  ️",
+      "curve": {
+        "x": -1071.54,
+        "y": 4.31338
       }
     }
   ]

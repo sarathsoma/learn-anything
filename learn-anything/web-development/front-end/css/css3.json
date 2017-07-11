@@ -1,0 +1,57 @@
+{
+  "title": "learn anything - web development - front end - css - css3",
+  "nodes": [
+    {
+      "text": "CSS3",
+      "url": "https://developer.mozilla.org/en/docs/Web/CSS/CSS3",
+      "fx": 26.933270490997188,
+      "fy": -96.02879233070757
+    },
+    {
+      "text": "flexbox  ️",
+      "url": "/web-development/front-end/css/css3/flexbox",
+      "fx": -151.05546563745048,
+      "fy": 48.0731449203563,
+      "category": "mindmap"
+    },
+    {
+      "text": "background and borders",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders",
+      "fx": 147.494140625,
+      "fy": 51.083984375
+    },
+    {
+      "text": "animations",
+      "url": "https://developer.mozilla.org/en/docs/Web/CSS/animation",
+      "fx": -2.614124298095703,
+      "fy": 53.12989807128906
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "CSS3",
+      "target": "flexbox  ️",
+      "curve": {
+        "x": -85.9944,
+        "y": 72.051
+      }
+    },
+    {
+      "source": "CSS3",
+      "target": "animations",
+      "curve": {
+        "x": -3.5237,
+        "y": 74.5793
+      }
+    },
+    {
+      "source": "CSS3",
+      "target": "background and borders",
+      "curve": {
+        "x": 103.28,
+        "y": 73.5564
+      }
+    }
+  ]
+}

@@ -1,27 +1,18 @@
 {
   "title": "learn anything - mathematics - linear algebra - vectors",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
-      "text": "Euclidean vector",
+      "text": "Euclidean vectors",
       "url": "http://www.wikiwand.com/en/Euclidean_vector",
-      "fx": 51.64453125,
-      "fy": -115.359375,
+      "fx": 66.88095643785255,
+      "fy": -153.5462947421604,
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 103.27723332597179,
-      "fy": 16.064097394370265
-    },
-    {
-      "text": "vector space  ️",
-      "url": "/mathematics/linear-algebra/vectors/vector-space",
-      "fx": 151.19780685240949,
-      "fy": 148.085119464164,
-      "category": "mindmap"
+      "fx": 124.43608749263831,
+      "fy": -10.162031077851964
     },
     {
       "text": "dot product  ️",
@@ -31,10 +22,38 @@
       "category": "mindmap"
     },
     {
+      "text": "vector space  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space",
+      "fx": 151.19780685240949,
+      "fy": 152.9462305752752,
+      "category": "mindmap"
+    },
+    {
+      "text": "vector norms  ️",
+      "url": "/mathematics/linear-algebra/norm",
+      "fx": -445.28721618652344,
+      "fy": 153.75390625,
+      "category": "mindmap"
+    },
+    {
       "text": "cross product  ️",
       "url": "/mathematics/linear-algebra/vectors/cross-product",
       "fx": -247.77734375,
       "fy": 154.6875,
+      "category": "mindmap"
+    },
+    {
+      "text": "orthonormality",
+      "url": "http://www.wikiwand.com/en/Orthonormality",
+      "fx": -653.4606568113771,
+      "fy": 155.76758982035938,
+      "category": "wiki"
+    },
+    {
+      "text": "orthonormal basis  ️",
+      "url": "/mathematics/linear-algebra/vectors/orthonormal-basis",
+      "fx": -769.65625,
+      "fy": 275.79296875,
       "category": "mindmap"
     }
   ],
@@ -42,8 +61,8 @@
     {
       "text": "1. explanation",
       "url": "http://natureofcode.com/book/chapter-1-vectors/",
-      "fx": 259.2772333259718,
-      "fy": -12.435902605629735,
+      "fx": 280.4360874926383,
+      "fy": -58.662031077851964,
       "category": "interactive",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -51,8 +70,8 @@
     {
       "text": "1. what are vectors?",
       "url": "https://www.youtube.com/watch?v=ml4NSzCQobk",
-      "fx": 259.2772333259718,
-      "fy": 27.564097394370265,
+      "fx": 280.4360874926383,
+      "fy": -18.662031077851964,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -60,44 +79,77 @@
     {
       "text": "1. intro to vectors",
       "url": "http://immersivemath.com/ila/ch02_vectors/ch02.html",
-      "fx": 259.2772333259718,
-      "fy": 67.56409739437026,
+      "fx": 280.4360874926383,
+      "fy": 21.337968922148036,
       "category": "interactive",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. vectors - the math of intelligence",
+      "url": "https://www.youtube.com/watch?v=s0Q3CojqRfM",
+      "fx": 280.4360874926383,
+      "fy": 61.337968922148036,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],
   "connections": [
     {
-      "source": "Euclidean vector",
+      "source": "Euclidean vectors",
       "target": "basics",
       "curve": {
-        "x": -4.43365,
-        "y": 64.4617
+        "x": -1.47244,
+        "y": 70.4421
       }
     },
     {
       "source": "basics",
       "target": "vector space  ️",
       "curve": {
-        "x": 38.7103,
-        "y": 66.0105
+        "x": 28.1309,
+        "y": 81.5542
       }
     },
     {
       "source": "basics",
       "target": "dot product  ️",
       "curve": {
-        "x": -60.7189,
-        "y": 66.9286
+        "x": -71.2983,
+        "y": 80.0417
       }
     },
     {
       "source": "basics",
       "target": "cross product  ️",
       "curve": {
-        "x": -189.504,
-        "y": 47.507
+        "x": -200.083,
+        "y": 60.6201
+      }
+    },
+    {
+      "source": "basics",
+      "target": "vector norms  ️",
+      "curve": {
+        "x": -290.468,
+        "y": 41.5947
+      }
+    },
+    {
+      "source": "basics",
+      "target": "orthonormality",
+      "curve": {
+        "x": -479.726,
+        "y": 32.4843
+      }
+    },
+    {
+      "source": "orthonormality",
+      "target": "orthonormal basis  ️",
+      "curve": {
+        "x": -49.8478,
+        "y": 60.0127
       }
     }
   ]

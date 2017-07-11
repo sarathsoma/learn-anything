@@ -1,0 +1,111 @@
+{
+  "title": "learn anything - information theory",
+  "nodes": [
+    {
+      "text": "information theory",
+      "url": "http://www.wikiwand.com/en/Information_theory",
+      "fx": -97.47249494026312,
+      "fy": -199.64305321891652,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -33.82465821076573,
+      "fy": -49.298741638631725
+    },
+    {
+      "text": "information  ️",
+      "url": "/information-theory/information",
+      "fx": 3.912272135416515,
+      "fy": 114.83850097656239,
+      "category": "mindmap"
+    },
+    {
+      "text": "signals  ️",
+      "url": "/information-theory/signals",
+      "fx": -135.38278770446777,
+      "fy": 116.05892753601074,
+      "category": "mindmap"
+    },
+    {
+      "text": "coding theory  ️",
+      "url": "/information-theory/coding-theory",
+      "fx": -334.5224967277486,
+      "fy": 116.37769960732976,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/informationtheory/",
+      "fx": 192.52750505973688,
+      "fy": -185.64305321891652,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "information theory"
+    },
+    {
+      "text": "1. a mathematical theory of communication",
+      "url": "http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf",
+      "fx": 122.17534178923427,
+      "fy": -99.79874163863172,
+      "category": "paper",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to information theory",
+      "url": "https://www.youtube.com/watch?v=BCiZc0n6COY&amp;list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6",
+      "fx": 122.17534178923427,
+      "fy": -37.798741638631725,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. information theory, inference and learning algorithms",
+      "url": "http://www.inference.org.uk/itprnn/book.pdf",
+      "fx": 122.17534178923427,
+      "fy": 2.201258361368275,
+      "category": "free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "information theory",
+      "target": "basics",
+      "curve": {
+        "x": -1.67609,
+        "y": 73.9221
+      }
+    },
+    {
+      "source": "basics",
+      "target": "signals  ️",
+      "curve": {
+        "x": -49.7791,
+        "y": 82.6789
+      }
+    },
+    {
+      "source": "basics",
+      "target": "information  ️",
+      "curve": {
+        "x": 36.8685,
+        "y": 83.3186
+      }
+    },
+    {
+      "source": "basics",
+      "target": "coding theory  ️",
+      "curve": {
+        "x": -138.761,
+        "y": 69.7615
+      }
+    }
+  ]
+}

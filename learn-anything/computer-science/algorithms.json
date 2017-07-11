@@ -1,26 +1,24 @@
 {
   "title": "learn anything - computer science - algorithms",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "algorithms",
       "url": "http://www.wikiwand.com/en/Algorithm",
-      "fx": 44.118454196217044,
-      "fy": -286.7535836137648,
+      "fx": 54.541039423489565,
+      "fy": -354.7578449774012,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 368.7807314340596,
-      "fy": -84.28616963280513
+      "fx": 380.9469246158776,
+      "fy": -107.002788950987
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 528.5202082864694,
-      "fy": 248.20449496306367
+      "fx": 534.9619696501059,
+      "fy": 243.61997791760894
     },
     {
       "text": "basics",
@@ -30,11 +28,11 @@
       "fy": 261.1747953455887
     },
     {
-      "text": "algorithm design",
-      "url": "http://www.wikiwand.com/en/Algorithm_design",
-      "fx": 129.35446617251523,
-      "fy": 464.2783108070246,
-      "category": "wiki"
+      "text": "algorithm design  ️",
+      "url": "/computer-science/algorithms/algorithm-design",
+      "fx": 130.35446617251523,
+      "fy": 465.2264642161156,
+      "category": "mindmap"
     },
     {
       "text": "analysis of algorithms",
@@ -54,8 +52,8 @@
       "text": "big O notation  ️",
       "note": "is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  the letter O is used because the growth rate of a function is also referred to as order of the function",
       "url": "/computer-science/algorithms/big-O",
-      "fx": -137.97580353658623,
-      "fy": 563.1971730837394,
+      "fx": -147.4238977600712,
+      "fy": 578.7264033749328,
       "category": "mindmap"
     },
     {
@@ -77,6 +75,7 @@
     {
       "text": "graphs  ️",
       "note": "a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects",
+      "url": "/computer-science/algorithms/graph",
       "fx": -879.1015930175781,
       "fy": 667.2896728515625,
       "category": "mindmap"
@@ -91,6 +90,7 @@
     {
       "text": "evolutionary  ️",
       "note": "uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection",
+      "url": "/computer-science/algorithms/evolutionary",
       "fx": -591.5450054862558,
       "fy": 682.0652222925099,
       "category": "mindmap"
@@ -116,17 +116,26 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/algorithms/",
-      "fx": 265.11845419621704,
-      "fy": -272.7535836137648,
+      "fx": 275.54103942348956,
+      "fy": -360.7578449774012,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "algorithms"
     },
     {
+      "text": "awesome",
+      "url": "https://github.com/tayllan/awesome-algorithms",
+      "fx": 275.54103942348956,
+      "fy": -320.7578449774012,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "algorithms"
+    },
+    {
       "text": "list of algorithms",
       "url": "http://www.wikiwand.com/en/List_of_algorithms",
-      "fx": 505.7807314340596,
-      "fy": -311.7861696328051,
+      "fx": 517.9469246158776,
+      "fy": -314.502788950987,
       "category": "wiki",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -134,8 +143,8 @@
     {
       "text": "algorithms in python",
       "url": "https://github.com/keon/algorithms",
-      "fx": 505.7807314340596,
-      "fy": -271.7861696328051,
+      "fx": 517.9469246158776,
+      "fy": -274.502788950987,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -143,8 +152,8 @@
     {
       "text": "visualising algorithms",
       "url": "https://bost.ocks.org/mike/algorithms/",
-      "fx": 505.7807314340596,
-      "fy": -231.78616963280513,
+      "fx": 517.9469246158776,
+      "fy": -234.502788950987,
       "category": "interactive",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -152,8 +161,8 @@
     {
       "text": "visualgo",
       "url": "https://visualgo.net/en",
-      "fx": 505.7807314340596,
-      "fy": -191.78616963280513,
+      "fx": 517.9469246158776,
+      "fy": -194.502788950987,
       "category": "interactive",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -161,8 +170,8 @@
     {
       "text": "clever algorithms",
       "url": "https://github.com/jbrownlee/CleverAlgorithms",
-      "fx": 505.7807314340596,
-      "fy": -151.78616963280513,
+      "fx": 517.9469246158776,
+      "fy": -154.502788950987,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -170,42 +179,33 @@
     {
       "text": "lecture slides for algorithm design",
       "url": "http://www.cs.princeton.edu/%7Ewayne/kleinberg-tardos/",
-      "fx": 505.7807314340596,
-      "fy": -111.78616963280513,
+      "fx": 517.9469246158776,
+      "fy": -114.502788950987,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "ruby algorithms",
       "url": "https://rubyalgo.github.io/algorithms/",
-      "fx": 505.7807314340596,
-      "fy": -77.78616963280513,
+      "fx": 517.9469246158776,
+      "fy": -80.502788950987,
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome algorithms",
-      "url": "https://github.com/tayllan/awesome-algorithms",
-      "fx": 505.7807314340596,
-      "fy": -43.78616963280513,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "AlgoWiki",
       "url": "http://eulercoder.me/AlgoWiki/",
-      "fx": 505.7807314340596,
-      "fy": -3.7861696328051266,
+      "fx": 517.9469246158776,
+      "fy": -46.502788950987,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
-      "text": "algorithm visualisation",
+      "text": "algorithm visualisations",
       "url": "https://github.com/enjalot/algovis",
-      "fx": 505.7807314340596,
-      "fy": 36.21383036719487,
+      "fx": 517.9469246158776,
+      "fy": -6.5027889509869965,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -213,24 +213,24 @@
     {
       "text": "data structures and algorithms problems",
       "url": "http://www.techiedelight.com/list-of-problems/",
-      "fx": 505.7807314340596,
-      "fy": 76.21383036719487,
+      "fx": 517.9469246158776,
+      "fy": 33.497211049013,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "algorithms by Jeff Erickson",
       "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/",
-      "fx": 505.7807314340596,
-      "fy": 132.21383036719487,
+      "fx": 517.9469246158776,
+      "fy": 89.497211049013,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "annotated algorithms in python",
       "url": "https://github.com/mdipierro/nlib",
-      "fx": 505.7807314340596,
-      "fy": 166.21383036719487,
+      "fx": 517.9469246158776,
+      "fy": 123.497211049013,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -238,8 +238,8 @@
     {
       "text": "colouring maps  ️",
       "url": "http://roadtolarissa.com/blog/2015/01/04/coloring-maps-with-d3/",
-      "fx": 690.5202082864694,
-      "fy": 239.70449496306367,
+      "fx": 696.9619696501059,
+      "fy": 235.11997791760894,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -247,8 +247,8 @@
     {
       "text": "shortest path in a maze   ️",
       "url": "https://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/",
-      "fx": 690.5202082864694,
-      "fy": 279.70449496306367,
+      "fx": 696.9619696501059,
+      "fy": 275.11997791760894,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -325,16 +325,16 @@
       "source": "algorithms",
       "target": "basics",
       "curve": {
-        "x": -31.6991,
-        "y": 272.714
+        "x": -36.9104,
+        "y": 306.716
       }
     },
     {
       "source": "help",
       "target": "algorithms",
       "curve": {
-        "x": -141.331,
-        "y": -99.9837
+        "x": -142.203,
+        "y": -122.628
       }
     },
     {
@@ -363,10 +363,10 @@
     },
     {
       "source": "basics",
-      "target": "algorithm design",
+      "target": "algorithm design  ️",
       "curve": {
-        "x": 65.6374,
-        "y": 118.313
+        "x": 66.1374,
+        "y": 118.787
       }
     },
     {
@@ -381,8 +381,8 @@
       "source": "analysis of algorithms",
       "target": "big O notation  ️",
       "curve": {
-        "x": 1.46902,
-        "y": 48.6112
+        "x": -3.25503,
+        "y": 56.3758
       }
     },
     {
@@ -413,8 +413,8 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -139.679,
-        "y": -128.581
+        "x": -136.817,
+        "y": -137.647
       }
     },
     {

@@ -1,0 +1,56 @@
+{
+  "title": "learn anything - art - music - instruments - synthesiser",
+  "nodes": [
+    {
+      "text": "synthesiser",
+      "url": "http://www.wikiwand.com/en/Synthesizer",
+      "fx": 98.80859375,
+      "fy": -101.5859375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 130.546875,
+      "fy": 46.93359375
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/synthesizers/",
+      "fx": 325.80859375,
+      "fy": -87.5859375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "synthesiser"
+    },
+    {
+      "text": "1. how does synthesiser work",
+      "url": "http://www.explainthatstuff.com/synthesizers.html",
+      "fx": 286.546875,
+      "fy": 30.43359375,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. fundamentals of synthesiser programming",
+      "url": "https://www.youtube.com/results?search_query=fundamentals+of+synthesiser+programming",
+      "fx": 286.546875,
+      "fy": 64.43359375,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "synthesiser",
+      "target": "basics",
+      "curve": {
+        "x": -2.13086,
+        "y": 73.0097
+      }
+    }
+  ]
+}

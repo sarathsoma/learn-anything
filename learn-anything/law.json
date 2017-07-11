@@ -1,7 +1,5 @@
 {
   "title": "learn anything - law",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "law",
@@ -33,6 +31,7 @@
     },
     {
       "text": "property law  ️",
+      "url": "/law/property-law",
       "fx": -642.3700534986431,
       "fy": -127.89266304347814,
       "category": "mindmap"
@@ -46,6 +45,7 @@
     },
     {
       "text": "governance  ️",
+      "url": "/law/governance",
       "fx": 282.45348569772796,
       "fy": -77.94498701079033,
       "category": "mindmap"

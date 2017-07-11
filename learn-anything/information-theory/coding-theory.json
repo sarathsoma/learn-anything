@@ -1,0 +1,54 @@
+{
+  "title": "learn anything - information theory - coding theory",
+  "nodes": [
+    {
+      "text": "coding theory",
+      "url": "http://www.wikiwand.com/en/Coding_theory",
+      "fx": -92.0078125,
+      "fy": -159.32421875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -46.5,
+      "fy": -17.1171875
+    },
+    {
+      "text": "hamming distance  ️",
+      "url": "/information-theory/coding-theory/hamming-distance",
+      "fx": -202.16277356902378,
+      "fy": 139.23284932657333,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. exlanation",
+      "url": "https://www.youtube.com/watch?v=musBo7Kafic",
+      "fx": 109.5,
+      "fy": -5.6171875,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "coding theory",
+      "target": "basics",
+      "curve": {
+        "x": -0.996094,
+        "y": 69.8535
+      }
+    },
+    {
+      "source": "basics",
+      "target": "hamming distance  ️",
+      "curve": {
+        "x": -50.5814,
+        "y": 78.175
+      }
+    }
+  ]
+}

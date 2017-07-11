@@ -1,7 +1,5 @@
 {
   "title": "learn anything - history",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "history",
@@ -52,6 +50,7 @@
     },
     {
       "text": "future  ️",
+      "url": "/history/future",
       "fx": 776.2899816176492,
       "fy": -1063.53650210084,
       "category": "mindmap"

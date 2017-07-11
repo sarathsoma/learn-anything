@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art - music - music production",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "music production",
@@ -31,6 +29,7 @@
     },
     {
       "text": "Ableton Live  ️",
+      "url": "/art/music/music-production/ableton-live",
       "fx": -195.9078100854215,
       "fy": 210.69406765109886,
       "category": "mindmap"

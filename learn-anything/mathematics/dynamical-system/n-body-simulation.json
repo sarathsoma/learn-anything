@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - dynamical system - n-body simulation",
-  "tag": "N-body simulation",
-  "description": "",
   "nodes": [
     {
       "text": "N-body simulation",
@@ -21,6 +19,13 @@
       "url": "",
       "fx": -49.30859375,
       "fy": -86.21875
+    },
+    {
+      "text": "Barnes-Hut simulation  ️",
+      "url": "/mathematics/dynamical-system/n-body-simulation/barnes-hut-simulation",
+      "fx": -279.49428072914367,
+      "fy": 77.97960932539434,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -67,6 +72,14 @@
       "curve": {
         "x": -1.6543,
         "y": 116.494
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Barnes-Hut simulation  ️",
+      "curve": {
+        "x": -72.0928,
+        "y": 83.3492
       }
     }
   ]

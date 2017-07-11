@@ -1,0 +1,60 @@
+{
+  "title": "learn anything - web development - web api - webextensions",
+  "nodes": [
+    {
+      "text": "WebExtensions",
+      "url": "https://developer.mozilla.org/en-US/Add-ons/WebExtensions",
+      "fx": -63.16015625,
+      "fy": -129.29296875
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 81.76171875,
+      "fy": -24.76171875
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -36.24609375,
+      "fy": 89.4453125
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "awesome WebExtensions",
+      "url": "https://github.com/bfred-it/Awesome-WebExtensions",
+      "fx": 218.76171875,
+      "fy": -13.26171875,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. getting started",
+      "url": "https://developer.mozilla.org/en-US/Add-ons/WebExtensions/What_are_WebExtensions",
+      "fx": 119.75390625,
+      "fy": 103.9453125,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "WebExtensions",
+      "target": "basics",
+      "curve": {
+        "x": -7.04297,
+        "y": 109.369
+      }
+    },
+    {
+      "source": "help",
+      "target": "WebExtensions",
+      "curve": {
+        "x": -47.2109,
+        "y": -52.2656
+      }
+    }
+  ]
+}

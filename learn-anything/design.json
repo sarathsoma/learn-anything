@@ -1,7 +1,5 @@
 {
   "title": "learn anything - design",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "design",
@@ -76,12 +74,12 @@
       "category": "mindmap"
     },
     {
-      "text": "human computer interaction",
+      "text": "human computer interaction  ️",
       "note": "researches the design and use of computer technology, focused on the interfaces between people (users) and computers",
-      "url": "http://www.wikiwand.com/en/Human%E2%80%93computer_interaction",
-      "fx": 545.7687182741115,
+      "url": "/design/human-computer-interaction",
+      "fx": 546.7687182741115,
       "fy": 218.83772208125094,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "colour theory  ️",
@@ -112,16 +110,10 @@
       "category": "mindmap"
     },
     {
-      "text": "user experience  ️",
-      "url": "/design/user-experience",
-      "fx": 463.20236280487825,
-      "fy": 330.9731961382114,
-      "category": "mindmap"
-    },
-    {
-      "text": "user interfaces  ️",
-      "fx": 699.4433434959349,
-      "fy": 334.1590447154472,
+      "text": "interaction design  ️",
+      "url": "/design/interaction-design",
+      "fx": -1660.8359711613784,
+      "fy": 234.92028985507227,
       "category": "mindmap"
     }
   ],
@@ -283,26 +275,10 @@
       }
     },
     {
-      "source": "human computer interaction",
-      "target": "user experience  ️",
-      "curve": {
-        "x": -69.2832,
-        "y": 56.0677
-      }
-    },
-    {
-      "source": "human computer interaction",
-      "target": "user interfaces  ️",
-      "curve": {
-        "x": 46.0873,
-        "y": 57.6607
-      }
-    },
-    {
       "source": "basics",
-      "target": "human computer interaction",
+      "target": "human computer interaction  ️",
       "curve": {
-        "x": 264.074,
+        "x": 264.574,
         "y": 125.624
       }
     },
@@ -368,6 +344,14 @@
       "curve": {
         "x": -893.837,
         "y": 78.9887
+      }
+    },
+    {
+      "source": "basics",
+      "target": "interaction design  ️",
+      "curve": {
+        "x": -1049.38,
+        "y": 39.2409
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming paradigms - reactive programming",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "reactive programming",
@@ -20,27 +18,36 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -186.52119006849318,
-      "fy": 88.70012842465758
+      "fx": -216.87165221638054,
+      "fy": 119.47697701620689
     }
   ],
   "subnodes": [
     {
       "text": "17: reactive programming from scratch",
       "url": "https://www.youtube.com/watch?v=sEQiMCiMgpc&amp;t=270s",
-      "fx": 74.44360807914995,
-      "fy": -37.40016089990513,
+      "fx": 77.44360807914995,
+      "fy": -37.90016089990513,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "talks"
+    },
+    {
+      "text": "1. introduction to reactive programming",
+      "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+      "fx": -27.87165221638054,
+      "fy": 98.47697701620689,
+      "category": "github",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. what is reactive programming",
       "url": "https://www.youtube.com/watch?v=7D9QfMj_KwI",
-      "fx": -4.521190068493183,
-      "fy": 100.20012842465758,
+      "fx": -27.87165221638054,
+      "fy": 165.4769770162069,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -57,8 +64,8 @@
       "source": "reactive programming",
       "target": "basics",
       "curve": {
-        "x": -3.56919,
-        "y": 117.122
+        "x": -18.7444,
+        "y": 132.51
       }
     }
   ]

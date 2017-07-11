@@ -1,7 +1,5 @@
 {
   "title": "learn anything - philosophy - philosophy of mind - consciousness",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "consciousness",
@@ -30,6 +28,7 @@
     },
     {
       "text": "attention schema theory  ️",
+      "url": "/philosophy/philosophy-of-mind/consciousness/attention-schema-theory",
       "fx": -575.2690769134358,
       "fy": 247.84773458389043,
       "category": "mindmap"

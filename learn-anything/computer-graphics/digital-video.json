@@ -1,29 +1,34 @@
 {
   "title": "learn anything - computer graphics - digital video",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "digital video",
       "url": "http://www.wikiwand.com/en/Digital_video",
       "fx": -77.67557684926817,
-      "fy": -141.74840437162908,
+      "fy": -135.5479760721367,
       "category": "wiki"
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -48.512637071311474,
-      "fy": -6.1733856201171875
+      "fx": -55.74812247740272,
+      "fy": -17.049416711487765
+    },
+    {
+      "text": "streaming  ️",
+      "url": "/computer-graphics/digital-video/streaming",
+      "fx": -164.79522174642193,
+      "fy": 109.21416568885036,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "1. hands on intro to video technology",
       "url": "https://github.com/leandromoreira/digital_video_introduction",
-      "fx": 133.48736292868853,
-      "fy": -5.6733856201171875,
+      "fx": 126.25187752259728,
+      "fy": -16.549416711487765,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -34,8 +39,16 @@
       "source": "digital video",
       "target": "basics",
       "curve": {
-        "x": -4.91853,
-        "y": 66.5375
+        "x": -8.53627,
+        "y": 57.9993
+      }
+    },
+    {
+      "source": "basics",
+      "target": "streaming  ️",
+      "curve": {
+        "x": -53.2735,
+        "y": 63.1318
       }
     }
   ]

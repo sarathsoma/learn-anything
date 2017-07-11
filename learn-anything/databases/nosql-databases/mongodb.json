@@ -1,20 +1,18 @@
 {
   "title": "learn anything - databases - nosql databases - mongodb",
-  "tag": "mongoDB",
-  "description": "",
   "nodes": [
     {
       "text": "mongoDB",
       "url": "http://www.wikiwand.com/en/MongoDB",
       "fx": -140.85546875,
-      "fy": -303.04296875,
+      "fy": -232.4921875,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": -14.58984375,
-      "fy": -153.51171875
+      "fx": -7.375,
+      "fy": -116.27734375
     },
     {
       "text": "basics",
@@ -29,7 +27,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/mongodb/",
       "fx": 79.14453125,
-      "fy": -309.04296875,
+      "fy": -258.4921875,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "mongoDB"
@@ -38,25 +36,25 @@
       "text": "",
       "url": "https://github.com/mongodb/mongo",
       "fx": 79.14453125,
-      "fy": -269.04296875,
+      "fy": -218.4921875,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "mongoDB"
     },
     {
-      "text": "awesome mongoDB",
+      "text": "awesome",
       "url": "https://github.com/ramnes/awesome-mongodb",
-      "fx": 122.41015625,
-      "fy": -159.01171875,
+      "fx": 79.14453125,
+      "fy": -178.4921875,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "mongoDB"
     },
     {
       "text": "mongoDB university",
       "url": "https://university.mongodb.com/?_ga=1.59703789.1760068318.1441899177",
-      "fx": 122.41015625,
-      "fy": -119.01171875,
+      "fx": 129.625,
+      "fy": -101.77734375,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -75,8 +73,8 @@
       "source": "help",
       "target": "mongoDB",
       "curve": {
-        "x": -42.3828,
-        "y": -73.5157
+        "x": -45.9902,
+        "y": -56.8575
       }
     },
     {
@@ -84,7 +82,7 @@
       "target": "basics",
       "curve": {
         "x": -17.3496,
-        "y": 136.475
+        "y": 101.2
       }
     }
   ]

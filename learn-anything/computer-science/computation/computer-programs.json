@@ -1,0 +1,45 @@
+{
+  "title": "learn anything - computer science - computation - computer programs",
+  "nodes": [
+    {
+      "text": "computer programs",
+      "url": "http://www.wikiwand.com/en/Computer_program",
+      "fx": 181.83412682006326,
+      "fy": -146.409731044088,
+      "category": "wiki"
+    },
+    {
+      "text": "processes",
+      "url": "http://www.wikiwand.com/en/Process_(computing)",
+      "fx": 86.78531858035058,
+      "fy": -14.315516500707872,
+      "category": "wiki"
+    },
+    {
+      "text": "environment variables",
+      "url": "http://www.wikiwand.com/en/Environment_variable",
+      "fx": -67.189453125,
+      "fy": 116.8017578125,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [],
+  "connections": [
+    {
+      "source": "computer programs",
+      "target": "processes",
+      "curve": {
+        "x": -75.5244,
+        "y": 65.2971
+      }
+    },
+    {
+      "source": "processes",
+      "target": "environment variables",
+      "curve": {
+        "x": -49.4874,
+        "y": 65.5586
+      }
+    }
+  ]
+}

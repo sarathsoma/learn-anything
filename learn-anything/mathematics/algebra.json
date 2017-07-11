@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - algebra",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "algebra",
@@ -40,23 +38,37 @@
     {
       "text": "boolean algebra  ️",
       "url": "/mathematics/algebra/boolean-algebra",
-      "fx": -412.8722882748798,
-      "fy": -64.43303603948164,
+      "fx": -438.33238220214844,
+      "fy": -45.03996753692627,
       "category": "mindmap"
     },
     {
-      "text": "functions  ️",
-      "url": "/mathematics/algebra/functions",
-      "fx": 8.418459939626928,
-      "fy": -58.771485907831334,
+      "text": "quadratic equations  ️",
+      "url": "/mathematics/algebra/quadratic-equations",
+      "fx": -874.0544819078947,
+      "fy": -43.51123903508767,
+      "category": "mindmap"
+    },
+    {
+      "text": "polynomials  ️",
+      "url": "/mathematics/algebra/polynomials",
+      "fx": -620.4649251302084,
+      "fy": -43.42659505208326,
       "category": "mindmap"
     },
     {
       "text": "abstract algebra  ️",
       "note": "is the study of algebraic structures  it includes study of groups, rings, fields, modules, vector spaces, lattices and algebras  algebraic structures, with their associated homomorphisms, form mathematical categories",
       "url": "/mathematics/algebra/abstract-algebra",
-      "fx": -223.39127412038476,
-      "fy": 24.947111888422114,
+      "fx": -217.4521797326297,
+      "fy": -43.40694848572764,
+      "category": "mindmap"
+    },
+    {
+      "text": "functions  ️",
+      "url": "/mathematics/algebra/functions",
+      "fx": 36.96597269472875,
+      "fy": -43.25277842483831,
       "category": "mindmap"
     }
   ],
@@ -143,24 +155,40 @@
       "source": "basics",
       "target": "abstract algebra  ️",
       "curve": {
-        "x": -4.47641,
-        "y": 99.7321
+        "x": -1.50686,
+        "y": 65.5551
       }
     },
     {
       "source": "basics",
       "target": "boolean algebra  ️",
       "curve": {
-        "x": -106.217,
-        "y": 55.042
+        "x": -118.947,
+        "y": 64.7385
       }
     },
     {
       "source": "basics",
       "target": "functions  ️",
       "curve": {
-        "x": 69.4654,
-        "y": 65.9241
+        "x": 107.418,
+        "y": 64.638
+      }
+    },
+    {
+      "source": "basics",
+      "target": "polynomials  ️",
+      "curve": {
+        "x": -251.017,
+        "y": 23.0742
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quadratic equations  ️",
+      "curve": {
+        "x": -415.145,
+        "y": 12.4374
       }
     }
   ]

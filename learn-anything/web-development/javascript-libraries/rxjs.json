@@ -1,7 +1,5 @@
 {
   "title": "learn anything - web development - javascript libraries - rxjs",
-  "tag": "RxJS library",
-  "description": "",
   "nodes": [
     {
       "text": "RxJS",
@@ -13,8 +11,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 210.0422134399414,
-      "fy": -212.6605453491211
+      "fx": 219.2531509399414,
+      "fy": -228.1292953491211
     },
     {
       "text": "talks",
@@ -40,8 +38,8 @@
     {
       "text": "how to think majorly in terms of streams",
       "url": "https://github.com/staltz/ama/issues/24",
-      "fx": 347.0422134399414,
-      "fy": -291.1605453491211,
+      "fx": 356.2531509399414,
+      "fy": -306.6292953491211,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -49,8 +47,8 @@
     {
       "text": "introduction to reactive programming you've been missing",
       "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
-      "fx": 347.0422134399414,
-      "fy": -229.1605453491211,
+      "fx": 356.2531509399414,
+      "fy": -244.6292953491211,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -58,16 +56,16 @@
     {
       "text": "RxMarbles",
       "url": "http://rxmarbles.com/",
-      "fx": 347.0422134399414,
-      "fy": -145.1605453491211,
+      "fx": 356.2531509399414,
+      "fy": -160.6292953491211,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "Rx visualiser",
       "url": "https://rxviz.com/",
-      "fx": 347.0422134399414,
-      "fy": -111.1605453491211,
+      "fx": 356.2531509399414,
+      "fy": -126.6292953491211,
       "category": "interactive",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -131,8 +129,8 @@
       "source": "help",
       "target": "RxJS",
       "curve": {
-        "x": -52.4977,
-        "y": -55.1911
+        "x": -57.1032,
+        "y": -47.4567
       }
     },
     {
@@ -147,8 +145,8 @@
       "source": "talks",
       "target": "help",
       "curve": {
-        "x": -49.3878,
-        "y": -88.066
+        "x": -44.7823,
+        "y": -95.8004
       }
     },
     {

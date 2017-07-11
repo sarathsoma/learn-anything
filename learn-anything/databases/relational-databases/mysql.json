@@ -1,7 +1,5 @@
 {
   "title": "learn anything - databases - relational databases - mysql",
-  "tag": "mySQL",
-  "description": "",
   "nodes": [
     {
       "text": "MySQL",
@@ -13,8 +11,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 110.61290804140128,
-      "fy": -174.37241242038215
+      "fx": 122.5655354299364,
+      "fy": -167.06747611464976
     },
     {
       "text": "basics",
@@ -29,24 +27,24 @@
       "text": "",
       "url": "https://www.reddit.com/r/mysql/",
       "fx": 212.3203125,
-      "fy": -251.8671875,
+      "fy": -268.8671875,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "MySQL"
     },
     {
-      "text": "awesome mySQL",
+      "text": "awesome",
       "url": "http://shlomi-noach.github.io/awesome-mysql/",
-      "fx": 247.61290804140128,
-      "fy": -176.87241242038215,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "fx": 212.3203125,
+      "fy": -228.8671875,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "MySQL"
     },
     {
       "text": "mySQL docs",
       "url": "https://dev.mysql.com/doc/",
-      "fx": 247.61290804140128,
-      "fy": -142.87241242038215,
+      "fx": 259.5655354299364,
+      "fy": -152.56747611464976,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -64,8 +62,8 @@
       "source": "help",
       "target": "MySQL",
       "curve": {
-        "x": -31.8963,
-        "y": -44.4974
+        "x": -37.8726,
+        "y": -48.1499
       }
     },
     {

@@ -1,20 +1,12 @@
 {
   "title": "learn anything - data science - data processing - apache spark",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "apache spark",
       "url": "http://www.wikiwand.com/en/Apache_Spark",
-      "fx": -106.6640625,
-      "fy": -289.08203125,
+      "fx": -77.94034754672884,
+      "fy": -229.56465391355135,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 30.253169221698045,
-      "fy": -177.93688405234855
     },
     {
       "text": "basics",
@@ -25,6 +17,7 @@
     },
     {
       "text": "PySpark  ️",
+      "url": "/data-science/data-processing/apache-spark/pyspark",
       "fx": -196.02815713367477,
       "fy": 52.18814267352002,
       "category": "mindmap"
@@ -32,22 +25,22 @@
   ],
   "subnodes": [
     {
-      "text": "source",
+      "text": "",
       "url": "https://github.com/apache/spark",
-      "fx": 143.3359375,
-      "fy": -275.08203125,
+      "fx": 172.05965245327116,
+      "fy": -235.56465391355135,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "apache spark"
     },
     {
-      "text": "awesome spark",
+      "text": "awesome",
       "url": "https://github.com/awesome-spark/awesome-spark",
-      "fx": 167.25316922169804,
-      "fy": -166.43688405234855,
+      "fx": 172.05965245327116,
+      "fy": -195.56465391355135,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "apache spark"
     },
     {
       "text": "1. learning spark: lightning-fast big data analysis",
@@ -61,19 +54,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "apache spark",
-      "curve": {
-        "x": -40.2086,
-        "y": -54.3226
-      }
-    },
-    {
       "source": "apache spark",
       "target": "basics",
       "curve": {
-        "x": -8.35302,
-        "y": 103.262
+        "x": -22.7149,
+        "y": 73.5033
       }
     },
     {

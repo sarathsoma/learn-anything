@@ -1,7 +1,5 @@
 {
   "title": "learn anything - mathematics - number theory",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "number theory",
@@ -19,6 +17,7 @@
     },
     {
       "text": "algebraic number theory  ️",
+      "url": "/mathematics/number-theory/algebraic-number-theory",
       "fx": -832.4489005827111,
       "fy": 118.26951481316792,
       "category": "mindmap"
@@ -32,6 +31,7 @@
     },
     {
       "text": "Fibonacci sequence  ️",
+      "url": "/mathematics/number-theory/fibonacci-sequence",
       "fx": -530.1506652832031,
       "fy": 122.92407608032227,
       "category": "mindmap"

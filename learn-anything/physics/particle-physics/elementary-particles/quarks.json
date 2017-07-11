@@ -1,0 +1,62 @@
+{
+  "title": "learn anything - physics - particle physics - elementary particles - quarks",
+  "nodes": [
+    {
+      "text": "quarks",
+      "url": "http://www.wikiwand.com/en/Quark",
+      "fx": 277.33101420187666,
+      "fy": -319.18068491879916,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 402.537109375,
+      "fy": -201.1484375
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 292.4331815326635,
+      "fy": -92.8039415829146
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "askscience: quarks",
+      "url": "https://www.reddit.com/r/askscience/search?q=quarks&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
+      "fx": 593.537109375,
+      "fy": -189.6484375,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "1. what are quarks?",
+      "url": "https://www.youtube.com/watch?v=LraNu_78sCw",
+      "fx": 448.4331815326635,
+      "fy": -81.3039415829146,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "quarks",
+      "target": "basics",
+      "curve": {
+        "x": -0.698917,
+        "y": 111.938
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "quarks",
+      "curve": {
+        "x": -63.103,
+        "y": -57.7661
+      }
+    }
+  ]
+}

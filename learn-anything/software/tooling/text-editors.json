@@ -1,7 +1,5 @@
 {
   "title": "learn anything - software - tooling - text editors",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "text editors",
@@ -53,7 +51,17 @@
       "fy": 37.96733019331646
     }
   ],
-  "subnodes": [],
+  "subnodes": [
+    {
+      "text": "awesome",
+      "url": "https://github.com/dok/awesome-text-editing",
+      "fx": -17.871839320237996,
+      "fy": -208.6200122656719,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "text editors"
+    }
+  ],
   "connections": [
     {
       "source": "text editors",

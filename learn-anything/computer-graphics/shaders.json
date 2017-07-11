@@ -1,7 +1,5 @@
 {
   "title": "learn anything - computer graphics - shaders",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "shaders",
@@ -11,10 +9,16 @@
       "category": "wiki"
     },
     {
+      "text": "help",
+      "url": "",
+      "fx": 71.9208984375,
+      "fy": -36.3056640625
+    },
+    {
       "text": "basics",
       "url": "",
-      "fx": -52.16389238834381,
-      "fy": -19.918127059936523
+      "fx": -66.49982988834381,
+      "fy": 53.572787617029746
     }
   ],
   "subnodes": [
@@ -28,10 +32,18 @@
       "parent": "shaders"
     },
     {
+      "text": "shader toy",
+      "url": "https://www.shadertoy.com/",
+      "fx": 208.9208984375,
+      "fy": -21.8056640625,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "1. introduction to OpenGL shaders",
       "url": "https://www.youtube.com/watch?v=j_h3GdMtO0M",
-      "fx": 103.83610761165619,
-      "fy": -8.418127059936523,
+      "fx": 89.50017011165619,
+      "fy": 65.07278761702975,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -42,8 +54,16 @@
       "source": "shaders",
       "target": "basics",
       "curve": {
-        "x": 6.86739,
-        "y": 68.3205
+        "x": -0.300579,
+        "y": 105.066
+      }
+    },
+    {
+      "source": "help",
+      "target": "shaders",
+      "curve": {
+        "x": -56.9098,
+        "y": -58.8767
       }
     }
   ]

@@ -1,38 +1,36 @@
 {
   "title": "learn anything - web development - front end - css",
-  "tag": "CSS",
-  "description": "",
   "nodes": [
     {
       "text": "CSS",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-      "fx": 12.1015625,
-      "fy": -329.359375
+      "fx": 2.4534034729003906,
+      "fy": -453.68700846687693
     },
     {
       "text": "help",
       "url": "",
-      "fx": 103.20639545349002,
-      "fy": -237.56521386146318
+      "fx": 150.84808262058914,
+      "fy": -287.2126098382668
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 255.0526833619881,
-      "fy": -125.63282644686376
+      "fx": 272.73762016087926,
+      "fy": -96.54249056831713
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -97.93281855900955,
+      "fx": -96.43281855900955,
       "fy": -41.55736286765091
     },
     {
       "text": "tools",
       "url": "",
-      "fx": 373.9365287401853,
-      "fy": -16.749911754306936
+      "fx": 400.3538784669612,
+      "fy": 35.282192070829524
     },
     {
       "text": "methodologies",
@@ -55,42 +53,43 @@
     },
     {
       "text": "CSS3  ️",
+      "url": "/web-development/front-end/css/css3",
       "fx": -337.8883099663052,
       "fy": 191.25318248927806,
       "category": "mindmap"
     },
     {
+      "text": "grid  layout  ️",
+      "url": "/web-development/front-end/css/grid-layout",
+      "fx": -516.6111786428452,
+      "fy": 194.54269117349475,
+      "category": "mindmap"
+    },
+    {
       "text": "preprocessors",
       "url": "http://www.wikiwand.com/en/Preprocessor",
-      "fx": -551.80078125,
-      "fy": 193.5546875,
+      "fx": -724.7458967962186,
+      "fy": 194.5460215336135,
       "category": "wiki"
     },
     {
       "text": "Stylus",
       "url": "http://stylus-lang.com/",
-      "fx": -542.3624188823087,
-      "fy": 305.5390774665341
+      "fx": -715.3075344285273,
+      "fy": 306.5304115001476
     },
     {
       "text": "Less",
       "url": "http://lesscss.org/",
-      "fx": -631.4435956401212,
-      "fy": 305.5525338111386
+      "fx": -804.3887111863398,
+      "fy": 306.54386784475207
     },
     {
       "text": "PostCSS",
       "url": "https://github.com/postcss/postcss",
-      "fx": -441.25579046433995,
-      "fy": 305.41253203730435,
+      "fx": -614.2009060105586,
+      "fy": 306.40386607091784,
       "category": "github"
-    },
-    {
-      "text": "Sass  ️",
-      "url": "/web-development/front-end/css/sass",
-      "fx": -751.4740347444736,
-      "fy": 307.1971169001497,
-      "category": "mindmap"
     },
     {
       "text": "materialise css",
@@ -110,6 +109,13 @@
       "url": "http://foundation.zurb.com/",
       "fx": -118.13103057155286,
       "fy": 310.46770915591566
+    },
+    {
+      "text": "Sass  ️",
+      "url": "/web-development/front-end/css/sass",
+      "fx": -924.4191502906922,
+      "fy": 308.1884509337632,
+      "category": "mindmap"
     },
     {
       "text": "semantic UI",
@@ -153,33 +159,78 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/css/",
-      "fx": 151.1015625,
-      "fy": -317.859375,
+      "fx": 142.4534034729004,
+      "fy": -462.18700846687693,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "CSS"
     },
     {
+      "text": "awesome",
+      "url": "https://github.com/sotayamashita/awesome-css",
+      "fx": 142.4534034729004,
+      "fy": -422.18700846687693,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "CSS"
+    },
+    {
       "text": "css almanac",
       "url": "https://css-tricks.com/almanac/",
-      "fx": 240.20639545349002,
-      "fy": -240.06521386146318,
+      "fx": 287.84808262058914,
+      "fy": -369.7126098382668,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "css reference",
       "url": "http://cssreference.io/#hn",
-      "fx": 240.20639545349002,
-      "fy": -206.06521386146318,
+      "fx": 287.84808262058914,
+      "fy": -335.7126098382668,
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "critical path css tools",
+      "url": "https://github.com/addyosmani/critical-path-css-tools",
+      "fx": 287.84808262058914,
+      "fy": -301.7126098382668,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "scalable css reading list",
+      "url": "https://github.com/davidtheclark/scalable-css-reading-list",
+      "fx": 287.84808262058914,
+      "fy": -261.7126098382668,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "must watch css",
+      "url": "https://github.com/AllThingsSmitty/must-watch-css",
+      "fx": 287.84808262058914,
+      "fy": -221.71260983826681,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "css pro tips",
+      "url": "https://github.com/AllThingsSmitty/css-protips",
+      "fx": 287.84808262058914,
+      "fy": -181.71260983826681,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "17: the state of CSS  ️",
       "url": "http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html",
-      "fx": 417.0526833619881,
-      "fy": -145.13282644686376,
+      "fx": 434.73762016087926,
+      "fy": -116.04249056831713,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -187,8 +238,8 @@
     {
       "text": "14: a pattern for writing CSS to scale  ️",
       "url": "http://www.intelligiblebabble.com/a-pattern-for-writing-css-to-scale",
-      "fx": 417.0526833619881,
-      "fy": -105.13282644686376,
+      "fx": 434.73762016087926,
+      "fy": -76.04249056831713,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -196,7 +247,7 @@
     {
       "text": "1. intro to css",
       "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS",
-      "fx": 84.06718144099045,
+      "fx": 85.56718144099045,
       "fy": -47.05736286765091,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -204,7 +255,7 @@
     {
       "text": "1. grid garden",
       "url": "http://cssgridgarden.com/",
-      "fx": 84.06718144099045,
+      "fx": 85.56718144099045,
       "fy": -13.057362867650909,
       "category": "interactive",
       "color": "rgba(36, 170, 255, 1.0)",
@@ -213,8 +264,8 @@
     {
       "text": "blend",
       "url": "http://colinkeany.com/blend/",
-      "fx": 515.9365287401853,
-      "fy": -2.249911754306936,
+      "fx": 542.3538784669612,
+      "fy": 49.782192070829524,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "tools"
     }
@@ -224,39 +275,39 @@
       "source": "CSS",
       "target": "basics",
       "curve": {
-        "x": -48.5171,
-        "y": 143.901
+        "x": -42.943,
+        "y": 206.065
       }
     },
     {
       "source": "help",
       "target": "CSS",
       "curve": {
-        "x": -47.3024,
-        "y": -45.8971
+        "x": -75.9473,
+        "y": -83.2372
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -95.13,
-        "y": -49.4866
+        "x": -80.1516,
+        "y": -88.8555
       }
     },
     {
       "source": "tools",
       "target": "articles",
       "curve": {
-        "x": -54.4419,
-        "y": -54.4415
+        "x": -58.8081,
+        "y": -65.9124
       }
     },
     {
       "source": "basics",
       "target": "styled components  ️",
       "curve": {
-        "x": -26.4219,
+        "x": -27.1719,
         "y": 115.568
       }
     },
@@ -264,7 +315,7 @@
       "source": "basics",
       "target": "CSS3  ️",
       "curve": {
-        "x": -127.728,
+        "x": -128.478,
         "y": 116.405
       }
     },
@@ -304,7 +355,7 @@
       "source": "basics",
       "target": "frameworks",
       "curve": {
-        "x": 99.5439,
+        "x": 98.7939,
         "y": 117.115
       }
     },
@@ -344,8 +395,8 @@
       "source": "basics",
       "target": "preprocessors",
       "curve": {
-        "x": -223.821,
-        "y": 102.126
+        "x": -311.044,
+        "y": 102.622
       }
     },
     {
@@ -392,8 +443,16 @@
       "source": "basics",
       "target": "methodologies",
       "curve": {
-        "x": 292.605,
+        "x": 291.855,
         "y": 135.902
+      }
+    },
+    {
+      "source": "basics",
+      "target": "grid  layout  ️",
+      "curve": {
+        "x": -194.839,
+        "y": 118.05
       }
     }
   ]

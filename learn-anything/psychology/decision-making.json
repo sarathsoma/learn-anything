@@ -1,7 +1,5 @@
 {
   "title": "learn anything - psychology - decision making",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "decision making",
@@ -26,6 +24,7 @@
     },
     {
       "text": "leadership  ️",
+      "url": "/psychology/decision-making/leadership",
       "fx": 68.943359375,
       "fy": -56.8291015625,
       "category": "mindmap"

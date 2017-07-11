@@ -1,7 +1,5 @@
 {
   "title": "learn anything - linguistics - languages",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "languages",
@@ -53,6 +51,7 @@
     },
     {
       "text": "finnish  ️",
+      "url": "/linguistics/languages/finnish",
       "fx": -945.8598681780052,
       "fy": -74.66084608478639,
       "category": "mindmap"
@@ -66,6 +65,7 @@
     },
     {
       "text": "vietnamese  ️",
+      "url": "/linguistics/languages/vietnamese",
       "fx": -1133.8058000385788,
       "fy": -73.30792186819929,
       "category": "mindmap"
@@ -75,6 +75,13 @@
       "url": "/linguistics/languages/spanish",
       "fx": 277.6274932502122,
       "fy": -72.55505627351044,
+      "category": "mindmap"
+    },
+    {
+      "text": "latvian  ️",
+      "url": "/linguistics/languages/latvian",
+      "fx": -1269.5235875096007,
+      "fy": -70.71322522536195,
       "category": "mindmap"
     },
     {
@@ -395,6 +402,14 @@
       "curve": {
         "x": -989.753,
         "y": 64.4388
+      }
+    },
+    {
+      "source": "languages",
+      "target": "latvian  ️",
+      "curve": {
+        "x": -1076.18,
+        "y": 85.2212
       }
     }
   ]

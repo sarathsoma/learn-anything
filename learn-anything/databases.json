@@ -1,20 +1,12 @@
 {
   "title": "learn anything - databases",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "databases",
       "url": "http://www.wikiwand.com/en/Database",
-      "fx": 13.527658871334324,
-      "fy": -432.8098971539046,
+      "fx": 6.899553903385595,
+      "fy": -334.15454859621235,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 151.12141927082894,
-      "fy": -314.51936848958337
     },
     {
       "text": "basics",
@@ -22,6 +14,13 @@
       "url": "",
       "fx": 21.890589344574096,
       "fy": -187.9086332104127
+    },
+    {
+      "text": "distributed databases  ️",
+      "url": "/databases/distributed-databases",
+      "fx": -692.8006359405884,
+      "fy": 41.511917284780566,
+      "category": "mindmap"
     },
     {
       "text": "relational databases  ️",
@@ -38,6 +37,13 @@
       "category": "mindmap"
     },
     {
+      "text": "time series database  ️",
+      "url": "/databases/time-series-databases",
+      "fx": -969.2688419117649,
+      "fy": 43.272649684873954,
+      "category": "mindmap"
+    },
+    {
       "text": "database caching",
       "url": "http://www.wikiwand.com/en/Database_caching",
       "fx": 92.73653017241418,
@@ -50,35 +56,14 @@
       "fx": 337.3810663926288,
       "fy": 45.590967695758195,
       "category": "mindmap"
-    },
-    {
-      "text": "distributed database",
-      "url": "http://www.wikiwand.com/en/Distributed_database",
-      "fx": -701.6680094524933,
-      "fy": 49.99716034033611,
-      "category": "wiki"
-    },
-    {
-      "text": "time series database  ️",
-      "url": "/databases/time-series-databases",
-      "fx": -969.2688419117649,
-      "fy": 53.066176470588175,
-      "category": "mindmap"
-    },
-    {
-      "text": "blockchain  ️",
-      "url": "/databases/blockchain",
-      "fx": -660.5833395652535,
-      "fy": 170.13252202162528,
-      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/Database/",
-      "fx": 233.52765887133432,
-      "fy": -438.8098971539046,
+      "fx": 227.8995539033856,
+      "fy": -360.15454859621235,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "databases"
@@ -86,20 +71,20 @@
     {
       "text": "️",
       "url": "https://dba.stackexchange.com/",
-      "fx": 233.52765887133432,
-      "fy": -398.8098971539046,
+      "fx": 227.8995539033856,
+      "fy": -320.15454859621235,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "databases"
     },
     {
-      "text": "awesome db",
+      "text": "awesome",
       "url": "https://github.com/numetriclabz/awesome-db",
-      "fx": 288.12141927082894,
-      "fy": -303.01936848958337,
+      "fx": 227.8995539033856,
+      "fy": -280.15454859621235,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "databases"
     },
     {
       "text": "1. databases from Stanford",
@@ -116,8 +101,8 @@
       "source": "databases",
       "target": "basics",
       "curve": {
-        "x": -2.81861,
-        "y": 122.451
+        "x": 0.495442,
+        "y": 73.1233
       }
     },
     {
@@ -146,18 +131,10 @@
     },
     {
       "source": "basics",
-      "target": "distributed database",
+      "target": "distributed databases  ️",
       "curve": {
-        "x": -322.779,
-        "y": 120.203
-      }
-    },
-    {
-      "source": "distributed database",
-      "target": "blockchain  ️",
-      "curve": {
-        "x": -1.20766,
-        "y": 60.0677
+        "x": -318.345,
+        "y": 115.96
       }
     },
     {
@@ -169,19 +146,11 @@
       }
     },
     {
-      "source": "help",
-      "target": "databases",
-      "curve": {
-        "x": -50.2969,
-        "y": -57.8953
-      }
-    },
-    {
       "source": "basics",
       "target": "time series database  ️",
       "curve": {
         "x": -583.767,
-        "y": 116.663
+        "y": 111.766
       }
     }
   ]

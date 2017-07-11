@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - query languages - graphql",
-  "tag": "graphQL",
-  "description": "",
   "nodes": [
     {
       "text": "GraphQL",
@@ -37,20 +35,20 @@
   ],
   "subnodes": [
     {
-      "text": "awesome graphQL",
+      "text": "awesome",
       "url": "https://github.com/chentsulin/awesome-graphql",
-      "fx": 122.0499044789209,
-      "fy": -126.91815630594891,
+      "fx": 92.2890625,
+      "fy": -196.5703125,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "GraphQL"
     },
     {
       "text": "apollo",
       "note": "open source tools for GraphQL",
       "url": "https://github.com/apollographql/apollo",
       "fx": 122.0499044789209,
-      "fy": -86.91815630594891,
+      "fy": -106.91815630594891,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"

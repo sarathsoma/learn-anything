@@ -1,40 +1,38 @@
 {
   "title": "learn anything - chemistry - drugs - psychedelic - lsd",
-  "tag": "LSD",
-  "description": "",
   "nodes": [
     {
       "text": "LSD",
       "url": "https://psychonautwiki.org/w/index.php/LSD",
-      "fx": 69.28515625,
-      "fy": -421.1796875,
+      "fx": 73.69280550373128,
+      "fy": -457.7468516791045,
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 214.0174429086543,
-      "fy": -309.54687500000006
+      "fx": 179.4150641773109,
+      "fy": -343.4029850746269
     },
     {
       "text": "papers",
       "url": "",
-      "fx": 552.2708082932756,
-      "fy": -153.77381310094944
+      "fx": 450.17820929231254,
+      "fy": -203.42200610768992
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 66.45819056103778,
-      "fy": -98.406744651091
+      "fx": 59.4832807052685,
+      "fy": -72.44201077838727
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/LSD/",
-      "fx": 235.28515625,
-      "fy": -407.1796875,
+      "fx": 239.69280550373128,
+      "fy": -443.7468516791045,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "LSD"
@@ -42,8 +40,8 @@
     {
       "text": "interview with Stanislav Grof",
       "url": "https://www.youtube.com/watch?v=5ig3eU_oDS0&amp;feature=youtu.be",
-      "fx": 405.0174429086543,
-      "fy": -329.04687500000006,
+      "fx": 370.4150641773109,
+      "fy": -382.9029850746269,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -51,17 +49,26 @@
     {
       "text": "structure of LSD and its receptor explains its potency  ️",
       "url": "https://www.eurekalert.org/pub_releases/2017-01/cp-sol011917.php",
-      "fx": 405.0174429086543,
-      "fy": -289.04687500000006,
+      "fx": 370.4150641773109,
+      "fy": -342.9029850746269,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
     },
     {
+      "text": "trippy art",
+      "url": "http://imgur.com/a/auarM",
+      "fx": 370.4150641773109,
+      "fy": -280.9029850746269,
+      "category": "image",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "16: crystal structure of an LSD-bound human serotonin receptor",
       "url": "http://www.cell.com/cell/fulltext/S0092-8674%2816%2931749-4",
-      "fx": 713.2708082932756,
-      "fy": -164.27381310094944,
+      "fx": 611.1782092923125,
+      "fy": -213.92200610768992,
       "category": "paper",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "papers"
@@ -69,8 +76,8 @@
     {
       "text": "1. your brain on LSD",
       "url": "https://www.youtube.com/watch?v=wG5JyorwYPo&amp;t=141s",
-      "fx": 222.45819056103778,
-      "fy": -117.906744651091,
+      "fx": 215.4832807052685,
+      "fy": -122.94201077838727,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -78,10 +85,19 @@
     {
       "text": "2. the first modern images of a human brain on LSD",
       "url": "https://www.youtube.com/watch?v=kvalFfavNpU",
-      "fx": 222.45819056103778,
-      "fy": -77.906744651091,
+      "fx": 215.4832807052685,
+      "fy": -82.94201077838727,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. Alan Watts - the use of LSD and psilocybin",
+      "url": "https://www.youtube.com/watch?v=4l90LMpSJM4",
+      "fx": 215.4832807052685,
+      "fy": -20.94201077838727,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -90,24 +106,24 @@
       "source": "LSD",
       "target": "basics",
       "curve": {
-        "x": -3.91349,
-        "y": 160.136
+        "x": -9.60476,
+        "y": 191.402
       }
     },
     {
       "source": "interesting",
       "target": "LSD",
       "curve": {
-        "x": -78.6162,
-        "y": -54.5664
+        "x": -59.1112,
+        "y": -55.9219
       }
     },
     {
       "source": "papers",
       "target": "interesting",
       "curve": {
-        "x": -179.13,
-        "y": -75.9015
+        "x": -153.104,
+        "y": -54.8758
       }
     }
   ]

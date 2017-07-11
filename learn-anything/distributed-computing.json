@@ -1,7 +1,5 @@
 {
   "title": "learn anything - distributed computing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "distributed computing",
@@ -11,9 +9,9 @@
       "category": "wiki"
     },
     {
-      "text": "help",
+      "text": "blogs",
       "url": "",
-      "fx": 0.5726776996018543,
+      "fx": -4.427322300398146,
       "fy": -342.96900233599456
     },
     {
@@ -51,11 +49,11 @@
       "category": "mindmap"
     },
     {
-      "text": "load balancing",
-      "url": "http://www.wikiwand.com/en/Load_balancing_(computing)",
-      "fx": -808.6574388586963,
-      "fy": 81.96671195652186,
-      "category": "wiki"
+      "text": "load balancing  ️",
+      "url": "/distributed-computing/load-balancing",
+      "fx": -799.5715013586963,
+      "fy": 78.92764945652186,
+      "category": "mindmap"
     },
     {
       "text": "ethereum  ️",
@@ -76,12 +74,13 @@
       "parent": "distributed computing"
     },
     {
-      "text": "high scalability blog",
+      "text": "high scalability  ️",
       "url": "http://highscalability.com/",
-      "fx": 137.57267769960185,
-      "fy": -328.46900233599456,
+      "fx": 143.57267769960185,
+      "fy": -331.46900233599456,
+      "category": "blog",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "blogs"
     },
     {
       "text": "loopy",
@@ -131,9 +130,9 @@
     },
     {
       "source": "tools",
-      "target": "help",
+      "target": "blogs",
       "curve": {
-        "x": -59.0303,
+        "x": -61.5303,
         "y": -51.5019
       }
     },
@@ -146,10 +145,10 @@
       }
     },
     {
-      "source": "help",
+      "source": "blogs",
       "target": "distributed computing",
       "curve": {
-        "x": -58.511,
+        "x": -56.011,
         "y": -48.1709
       }
     },
@@ -179,10 +178,10 @@
     },
     {
       "source": "basics",
-      "target": "load balancing",
+      "target": "load balancing  ️",
       "curve": {
-        "x": -217.231,
-        "y": 92.3905
+        "x": -238.668,
+        "y": 72.1483
       }
     }
   ]

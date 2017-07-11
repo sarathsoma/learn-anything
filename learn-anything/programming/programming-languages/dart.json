@@ -1,20 +1,12 @@
 {
   "title": "learn anything - programming - programming languages - dart",
-  "tag": "dart programming language",
-  "description": "",
   "nodes": [
     {
       "text": "dart",
       "url": "http://www.wikiwand.com/en/Dart_(programming_language)",
-      "fx": -80.01190659403801,
-      "fy": -192.13022232055664,
+      "fx": -89.39081284403801,
+      "fy": -177.39975357055664,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 21.254152536392212,
-      "fy": -87.17138290405273
     },
     {
       "text": "basics",
@@ -28,8 +20,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/dartlang/",
-      "fx": 82.98809340596199,
-      "fy": -198.13022232055664,
+      "fx": 73.60918715596199,
+      "fy": -223.39975357055664,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "dart"
@@ -37,20 +29,29 @@
     {
       "text": "",
       "url": "https://github.com/dart-lang/sdk",
-      "fx": 82.98809340596199,
-      "fy": -158.13022232055664,
+      "fx": 73.60918715596199,
+      "fy": -183.39975357055664,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "dart"
     },
     {
-      "text": "awesome dart",
-      "url": "https://github.com/yissachar/awesome-dart",
-      "fx": 158.2541525363922,
-      "fy": -75.67138290405273,
+      "text": "trending",
+      "url": "https://github.com/trending/dart",
+      "fx": 73.60918715596199,
+      "fy": -143.39975357055664,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "dart"
+    },
+    {
+      "text": "awesome",
+      "url": "https://github.com/yissachar/awesome-dart",
+      "fx": 73.60918715596199,
+      "fy": -103.39975357055664,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "dart"
     },
     {
       "text": "1. get started",
@@ -63,19 +64,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "dart",
-      "curve": {
-        "x": -44.1331,
-        "y": -51.2294
-      }
-    },
-    {
       "source": "dart",
       "target": "basics",
       "curve": {
-        "x": -10.4433,
-        "y": 101.176
+        "x": -5.75385,
+        "y": 93.811
       }
     }
   ]

@@ -1,7 +1,5 @@
 {
   "title": "learn anything - physics - classical mechanics",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "classical mechanics",
@@ -33,74 +31,107 @@
     },
     {
       "text": "principle of least action  ️",
-      "fx": -247.38029919383058,
-      "fy": 273.5659681084735,
-      "category": "mindmap"
-    },
-    {
-      "text": "harmonic oscillators  ️",
-      "fx": -512.5289110220994,
-      "fy": 274.6182872470465,
-      "category": "mindmap"
-    },
-    {
-      "text": "simple harmonic motion  ️",
-      "fx": -808.5524762697239,
-      "fy": 274.86920570889095,
+      "url": "/physics/classical-mechanics/principle-of-least-action",
+      "fx": -243.6230138681708,
+      "fy": 277.1500562247584,
       "category": "mindmap"
     },
     {
       "text": "Hamiltonian mechanics  ️",
-      "fx": -1096.147705078125,
-      "fy": 275.0478706359863,
+      "url": "/physics/classical-mechanics/hamiltonian-mechanics",
+      "fx": -729.3245639143324,
+      "fy": 278.7924827049519,
+      "category": "mindmap"
+    },
+    {
+      "text": "oscillations  ️",
+      "url": "/physics/classical-mechanics/oscillations",
+      "fx": -426.66545858168683,
+      "fy": 279.5141733364775,
       "category": "mindmap"
     },
     {
       "text": "inertial frame of reference  ️",
-      "fx": -1399.2902462121212,
-      "fy": 278.9382891414141,
+      "url": "/physics/classical-mechanics/inertial-frame-of-reference",
+      "fx": -1032.4671050483287,
+      "fy": 282.68290121037967,
       "category": "mindmap"
     },
     {
       "text": "forces  ️",
-      "fx": -1535.82861328125,
-      "fy": 278.9774475097656,
+      "url": "/physics/classical-mechanics/forces",
+      "fx": -1169.0054721174574,
+      "fy": 282.7220595787312,
       "category": "mindmap"
     },
     {
       "text": "Lagrangian mechanics  ️",
-      "fx": -1821.011093073593,
-      "fy": 282.55130546534144,
+      "url": "/physics/classical-mechanics/lagrangian-mechanics",
+      "fx": -1454.1879519098004,
+      "fy": 286.295917534307,
       "category": "mindmap"
     },
     {
       "text": "analytical mechanics  ️",
-      "fx": -2081.3647693452376,
-      "fy": 288.20430672269924,
+      "url": "/physics/classical-mechanics/analytical-mechanics",
+      "fx": -1714.541628181445,
+      "fy": 291.9489187916648,
       "category": "mindmap"
     },
     {
       "text": "kinematics  ️",
-      "fx": -2262.988114064074,
-      "fy": 290.6075044844923,
+      "url": "/physics/classical-mechanics/kinematics",
+      "fx": -1896.1649729002816,
+      "fy": 294.3521165534579,
       "category": "mindmap"
     },
     {
       "text": "momentum  ️",
-      "fx": -2594.103282869176,
-      "fy": 295.10409245466417,
+      "url": "/physics/classical-mechanics/momentum",
+      "fx": -2222.828164988551,
+      "fy": 298.8486922691609,
       "category": "mindmap"
     },
     {
       "text": "motion  ️",
-      "fx": -2407.3481500879366,
-      "fy": 295.7264186323197,
+      "url": "/physics/classical-mechanics/motion",
+      "fx": -2040.525008924144,
+      "fy": 299.47103070128526,
       "category": "mindmap"
     },
     {
       "text": "mechanical equilibrium   ️",
-      "fx": -2884.6543019805636,
-      "fy": 296.3385008221826,
+      "url": "/physics/classical-mechanics/mechanical-equilibrium-",
+      "fx": -2509.9559115705824,
+      "fy": 300.08312830431714,
+      "category": "mindmap"
+    },
+    {
+      "text": "rigid body dynamics  ️",
+      "url": "/physics/classical-mechanics/rigid-body-dynamics",
+      "fx": -2767.0288169058276,
+      "fy": 302.83870819238336,
+      "category": "mindmap"
+    },
+    {
+      "text": "harmonic oscillators  ️",
+      "url": "/physics/classical-mechanics/harmonic-oscillators",
+      "fx": -767.0617329303486,
+      "fy": 412.16453701392174,
+      "category": "mindmap"
+    },
+    {
+      "text": "simple harmonic motion  ️",
+      "url": "/physics/classical-mechanics/simple-harmonic-motion",
+      "fx": -511.9380757037861,
+      "fy": 413.52638393774987,
+      "category": "mindmap"
+    },
+    {
+      "text": "waves  ️",
+      "url": "/physics/classical-mechanics/waves",
+      "fx": -219.84434859196972,
+      "fy": 414.05960232153893,
       "category": "mindmap"
     }
   ],
@@ -189,96 +220,120 @@
       "source": "basics",
       "target": "principle of least action  ️",
       "curve": {
-        "x": -93.0357,
-        "y": 150.325
-      }
-    },
-    {
-      "source": "basics",
-      "target": "harmonic oscillators  ️",
-      "curve": {
-        "x": -232.36,
-        "y": 150.851
-      }
-    },
-    {
-      "source": "basics",
-      "target": "simple harmonic motion  ️",
-      "curve": {
-        "x": -371.121,
-        "y": 150.976
+        "x": -91.1571,
+        "y": 152.117
       }
     },
     {
       "source": "basics",
       "target": "Hamiltonian mechanics  ️",
       "curve": {
-        "x": -565.133,
-        "y": 102.507
+        "x": -381.721,
+        "y": 104.379
       }
     },
     {
       "source": "basics",
       "target": "inertial frame of reference  ️",
       "curve": {
-        "x": -803.361,
-        "y": 95.4495
+        "x": -619.949,
+        "y": 97.3218
       }
     },
     {
       "source": "basics",
       "target": "forces  ️",
       "curve": {
-        "x": -1052.29,
-        "y": 76.7312
+        "x": -868.878,
+        "y": 78.6035
       }
     },
     {
       "source": "basics",
       "target": "Lagrangian mechanics  ️",
       "curve": {
-        "x": -1152.59,
-        "y": 37.8628
+        "x": -969.178,
+        "y": 39.7351
       }
     },
     {
       "source": "basics",
       "target": "analytical mechanics  ️",
       "curve": {
-        "x": -1281.9,
-        "y": -16.9116
+        "x": -1098.49,
+        "y": -15.0393
       }
     },
     {
       "source": "basics",
       "target": "kinematics  ️",
       "curve": {
-        "x": -1429.02,
-        "y": -43.0482
+        "x": -1245.61,
+        "y": -41.1759
       }
     },
     {
       "source": "basics",
       "target": "motion  ️",
       "curve": {
-        "x": -1518.99,
-        "y": -96.0352
+        "x": -1335.58,
+        "y": -94.1629
       }
     },
     {
       "source": "basics",
       "target": "momentum  ️",
       "curve": {
-        "x": -1721.66,
-        "y": -30.4334
+        "x": -1536.02,
+        "y": -28.5611
       }
     },
     {
       "source": "basics",
       "target": "mechanical equilibrium   ️",
       "curve": {
-        "x": -1843.51,
-        "y": 33.9766
+        "x": -1656.16,
+        "y": 35.8489
+      }
+    },
+    {
+      "source": "basics",
+      "target": "rigid body dynamics  ️",
+      "curve": {
+        "x": -1946.43,
+        "y": 27.3505
+      }
+    },
+    {
+      "source": "basics",
+      "target": "oscillations  ️",
+      "curve": {
+        "x": -202.428,
+        "y": 154.549
+      }
+    },
+    {
+      "source": "oscillations  ️",
+      "target": "harmonic oscillators  ️",
+      "curve": {
+        "x": -149.948,
+        "y": 66.3252
+      }
+    },
+    {
+      "source": "oscillations  ️",
+      "target": "simple harmonic motion  ️",
+      "curve": {
+        "x": -13.1362,
+        "y": 67.0061
+      }
+    },
+    {
+      "source": "oscillations  ️",
+      "target": "waves  ️",
+      "curve": {
+        "x": 85.9106,
+        "y": 66.0227
       }
     }
   ]

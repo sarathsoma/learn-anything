@@ -1,7 +1,5 @@
 {
   "title": "learn anything - art - drawing",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "drawing",
@@ -13,20 +11,20 @@
     {
       "text": "help",
       "url": "",
-      "fx": 47.84660357520693,
-      "fy": -251.8438377380371
+      "fx": 102.80363482520693,
+      "fy": -276.4766502380371
     },
     {
       "text": "inspiring",
       "url": "",
-      "fx": 108.01733362107063,
-      "fy": -118.60890406653988
+      "fx": 188.4911880493164,
+      "fy": -165.7363739013672
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 174.74836697692865,
-      "fy": 8.097983221763457
+      "fx": 329.8846664428711,
+      "fy": -25.792312622070312
     },
     {
       "text": "basics",
@@ -43,12 +41,14 @@
     },
     {
       "text": "perspective drawing  ️",
+      "url": "/art/drawing/perspective-drawing",
       "fx": -250.45935821533203,
       "fy": 231.46958923339844,
       "category": "mindmap"
     },
     {
       "text": "watercolour paintings  ️",
+      "url": "/art/drawing/watercolour-painting",
       "fx": -528.4173014587725,
       "fy": 231.64468703291084,
       "category": "mindmap"
@@ -67,8 +67,8 @@
     {
       "text": "art tutorials",
       "url": "https://www.youtube.com/user/LighterNoteProd/videos",
-      "fx": 184.84660357520693,
-      "fy": -268.3438377380371,
+      "fx": 239.80363482520693,
+      "fy": -292.9766502380371,
       "category": "youtube",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -76,41 +76,32 @@
     {
       "text": "drawing on the right side of the brain",
       "url": "http://drawright.com/",
-      "fx": 184.84660357520693,
-      "fy": -228.3438377380371,
+      "fx": 239.80363482520693,
+      "fy": -252.9766502380371,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
-      "text": "art album",
-      "url": "http://imgur.com/a/3m5wf",
-      "fx": 281.01733362107063,
-      "fy": -141.10890406653988,
-      "category": "image",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "inspiring"
-    },
-    {
       "text": "Huckleberry's art",
       "url": "http://huckleberryfineart.com/artist/rob-gonsalves/",
-      "fx": 281.01733362107063,
-      "fy": -101.10890406653988,
+      "fx": 361.4911880493164,
+      "fy": -168.2363739013672,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "inspiring"
     },
     {
       "text": "art by Scott Uminga",
       "url": "https://www.artstation.com/artwork/25JYg",
-      "fx": 281.01733362107063,
-      "fy": -67.10890406653988,
+      "fx": 361.4911880493164,
+      "fy": -134.2363739013672,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "inspiring"
     },
     {
       "text": "why ink?  ️",
       "url": "http://drawabox.com/article/ink",
-      "fx": 365.74836697692865,
-      "fy": -25.402016778236543,
+      "fx": 520.8846664428711,
+      "fy": -101.29231262207031,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "interesting"
@@ -118,24 +109,32 @@
     {
       "text": "2016 monster gallery",
       "url": "http://themonsterproject.org/monster-gallery",
-      "fx": 365.74836697692865,
-      "fy": 14.597983221763457,
+      "fx": 520.8846664428711,
+      "fy": -61.29231262207031,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
     },
     {
       "text": "how cultures around the world draw shapes differently",
       "url": "https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/?utm_source=facebook.com&amp;utm_medium=atlas-page",
-      "fx": 365.74836697692865,
-      "fy": 48.59798322176346,
+      "fx": 520.8846664428711,
+      "fy": -27.292312622070312,
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "why didn’t great painters of the past reach the level of realism achieved today by many artists?  ❓",
+      "url": "https://www.quora.com/Why-didn%E2%80%99t-great-painters-of-the-past-reach-the-level-of-realism-achieved-today-by-many-artists/answer/Tyler-Berry-25?srid=OKNi",
+      "fx": 520.8846664428711,
+      "fy": 28.707687377929688,
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "interesting"
     },
     {
       "text": "1. draw a box",
       "url": "http://drawabox.com/",
       "fx": 70.88240146267947,
-      "fy": 78.05847580618774,
+      "fy": 47.058475806187744,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -143,9 +142,18 @@
       "text": "1. you can draw in 30 days",
       "url": "http://www.goodreads.com/book/show/3113980-you-can-draw-in-30-days",
       "fx": 70.88240146267947,
-      "fy": 112.05847580618774,
+      "fy": 81.05847580618774,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. how to draw from imagination exercises  ️",
+      "url": "https://www.sketchbook.com/blog/draw-imagination-part-1-precision/",
+      "fx": 70.88240146267947,
+      "fy": 121.05847580618774,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -154,24 +162,24 @@
       "source": "help",
       "target": "drawing",
       "curve": {
-        "x": -41.6738,
-        "y": -61.3325
+        "x": -69.1523,
+        "y": -49.0161
       }
     },
     {
       "source": "inspiring",
       "target": "help",
       "curve": {
-        "x": -36.5854,
-        "y": -66.6174
+        "x": -49.3438,
+        "y": -55.37
       }
     },
     {
       "source": "help",
       "target": "drawing",
       "curve": {
-        "x": -41.6739,
-        "y": -61.3326
+        "x": -69.1524,
+        "y": -49.0162
       }
     },
     {
@@ -186,8 +194,8 @@
       "source": "interesting",
       "target": "inspiring",
       "curve": {
-        "x": -37.8655,
-        "y": -63.3534
+        "x": -75.1967,
+        "y": -69.972
       }
     },
     {

@@ -1,13 +1,11 @@
 {
   "title": "learn anything - operating systems",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "operating systems",
       "url": "http://www.wikiwand.com/en/Operating_system",
-      "fx": 256.4867685132391,
-      "fy": -472.92923711951545,
+      "fx": 251.3148935132391,
+      "fy": -475.97220586951545,
       "category": "wiki"
     },
     {
@@ -60,6 +58,7 @@
     },
     {
       "text": "file systems  ️",
+      "url": "/operating-systems/file-systems",
       "fx": -625.3028746488528,
       "fy": 274.1538660055512,
       "category": "mindmap"
@@ -94,6 +93,15 @@
     }
   ],
   "subnodes": [
+    {
+      "text": "",
+      "url": "https://www.reddit.com/r/osdev/",
+      "fx": 544.3148935132391,
+      "fy": -461.97220586951545,
+      "category": "reddit",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "operating systems"
+    },
     {
       "text": "bootstrap yourself to write an OS from scratch",
       "url": "https://github.com/tuhdo/os01",
@@ -200,16 +208,16 @@
       "source": "operating systems",
       "target": "basics",
       "curve": {
-        "x": -64.8964,
-        "y": 247.301
+        "x": -62.3105,
+        "y": 248.822
       }
     },
     {
       "source": "help",
       "target": "operating systems",
       "curve": {
-        "x": -53.1438,
-        "y": -80.0599
+        "x": -55.7297,
+        "y": -81.5814
       }
     },
     {

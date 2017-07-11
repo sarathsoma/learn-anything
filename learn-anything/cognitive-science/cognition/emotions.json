@@ -1,7 +1,5 @@
 {
   "title": "learn anything - cognitive science - cognition - emotions",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "emotions",
@@ -18,23 +16,31 @@
       "fy": -95.88623687318125
     },
     {
+      "text": "fear  ️",
+      "url": "/cognitive-science/cognition/emotions/fear",
+      "fx": -338.8381549099123,
+      "fy": 34.88544934842605,
+      "category": "mindmap"
+    },
+    {
       "text": "happiness  ️",
       "url": "/cognitive-science/cognition/emotions/happiness",
-      "fx": -316.2801876173494,
-      "fy": 39.06710568995936,
+      "fx": -220.56316757202148,
+      "fy": 37.811036109924316,
       "category": "mindmap"
     },
     {
       "text": "love  ️",
       "url": "/cognitive-science/cognition/emotions/love",
-      "fx": -135.869140625,
-      "fy": 40.68359375,
+      "fx": -39.430813789367676,
+      "fy": 39.427523612976074,
       "category": "mindmap"
     },
     {
       "text": "empathy  ️",
-      "fx": -10.3408203125,
-      "fy": 45.0927734375,
+      "url": "/cognitive-science/cognition/emotions/empathy",
+      "fx": 84.1446533203125,
+      "fy": 43.835449218750114,
       "category": "mindmap"
     }
   ],
@@ -42,10 +48,10 @@
     {
       "text": "1. feeling all the feels",
       "url": "https://www.youtube.com/watch?v=gAMbkJk6gnE",
-      "fx": 66.38040448877427,
-      "fy": -84.38623687318125,
+      "fx": 73.38040448877427,
+      "fy": -83.38623687318125,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -62,24 +68,32 @@
       "source": "basics",
       "target": "happiness  ️",
       "curve": {
-        "x": -101.08,
-        "y": 67.4767
+        "x": -53.2215,
+        "y": 66.8487
       }
     },
     {
       "source": "basics",
       "target": "love  ️",
       "curve": {
-        "x": -14.6248,
-        "y": 69.5349
+        "x": 33.5944,
+        "y": 68.9069
       }
     },
     {
       "source": "basics",
       "target": "empathy  ️",
       "curve": {
-        "x": 51.3894,
-        "y": 70.4895
+        "x": 98.6321,
+        "y": 69.8608
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fear  ️",
+      "curve": {
+        "x": -142.214,
+        "y": 45.9416
       }
     }
   ]

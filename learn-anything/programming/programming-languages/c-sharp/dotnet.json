@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - programming languages - c sharp - dotnet",
-  "tag": ".NET framework",
-  "description": "",
   "nodes": [
     {
       "text": ".NET framework",
@@ -43,25 +41,25 @@
       "text": "",
       "url": "https://www.reddit.com/r/dotnet/",
       "fx": 296.2121342124278,
-      "fy": -86.31794165462429,
+      "fy": -106.31794165462429,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": ".NET framework"
     },
     {
-      "text": "awesome .NET",
+      "text": "awesome",
       "url": "https://github.com/quozd/awesome-dotnet",
-      "fx": 330.6894776303774,
-      "fy": 2.2467402780155226,
+      "fx": 296.2121342124278,
+      "fy": -66.31794165462429,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": ".NET framework"
     },
     {
       "text": "awesome .NET core",
       "url": "https://github.com/thangchung/awesome-dotnet-core",
       "fx": 330.6894776303774,
-      "fy": 42.24674027801552,
+      "fy": 22.246740278015523,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"

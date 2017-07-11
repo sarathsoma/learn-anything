@@ -1,20 +1,12 @@
 {
   "title": "learn anything - programming - programming languages - groovy",
-  "tag": "groovy programming language",
-  "description": "",
   "nodes": [
     {
       "text": "groovy",
       "url": "http://www.wikiwand.com/en/Groovy_(programming_language)",
-      "fx": -62.50022315979004,
-      "fy": -74.72055393673597,
+      "fx": -64.65979246030827,
+      "fy": -59.97193023207271,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 61.93167098445588,
-      "fy": 41.917159139801186
     },
     {
       "text": "basics",
@@ -28,8 +20,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/groovy/",
-      "fx": 125.49977684020996,
-      "fy": -100.72055393673597,
+      "fx": 123.34020753969173,
+      "fy": -105.97193023207271,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "groovy"
@@ -37,8 +29,8 @@
     {
       "text": "",
       "url": "https://github.com/apache/groovy",
-      "fx": 125.49977684020996,
-      "fy": -60.72055393673597,
+      "fx": 123.34020753969173,
+      "fy": -65.97193023207271,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "groovy"
@@ -46,20 +38,20 @@
     {
       "text": "trending",
       "url": "https://github.com/trending/groovy",
-      "fx": 125.49977684020996,
-      "fy": -20.720553936735968,
+      "fx": 123.34020753969173,
+      "fy": -25.971930232072708,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "groovy"
     },
     {
-      "text": "awesome groovy",
+      "text": "awesome",
       "url": "https://github.com/kdabir/awesome-groovy",
-      "fx": 198.93167098445588,
-      "fy": 53.417159139801186,
+      "fx": 123.34020753969173,
+      "fy": 14.028069767927292,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "groovy"
     },
     {
       "text": "1. get started",
@@ -72,19 +64,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "groovy",
-      "curve": {
-        "x": -49.4659,
-        "y": -57.0689
-      }
-    },
-    {
       "source": "groovy",
       "target": "basics",
       "curve": {
-        "x": -12.5251,
-        "y": 103.114
+        "x": -11.4453,
+        "y": 95.7397
       }
     }
   ]

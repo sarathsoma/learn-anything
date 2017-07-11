@@ -1,7 +1,5 @@
 {
   "title": "learn anything - programming - software development - build automation",
-  "tag": "",
-  "description": "",
   "nodes": [
     {
       "text": "build automation",
@@ -25,6 +23,7 @@
     },
     {
       "text": "cmake  ️",
+      "url": "/programming/software-development/build-automation/cmake",
       "fx": 126.99997356984454,
       "fy": 173.45891798116895,
       "category": "mindmap"
