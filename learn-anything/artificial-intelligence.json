@@ -17,6 +17,12 @@
     {
       "text": "articles",
       "url": "",
+      "fx": 564.1293532183797,
+      "fy": 136.98376782697255
+    },
+    {
+      "text": "talks",
+      "url": "",
       "fx": 434.1293532183797,
       "fy": -89.98376782697255
     },
@@ -24,14 +30,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -63.23664760824431,
+      "fx": -163.23664760824431,
       "fy": -81.80416448805465
     },
     {
       "text": "general artificial intelligence  ️",
       "url": "/artificial-intelligence/general-artificial-intelligence",
       "fx": -213.64084393217922,
-      "fy": 105.54459483131126,
+      "fy": 125.54459483131126,
       "category": "mindmap"
     },
     {
@@ -51,8 +57,8 @@
     {
       "text": "generative learning  ️",
       "url": "/artificial-intelligence/generative-learning",
-      "fx": -1133.3372692694438,
-      "fy": 108.12615870573643,
+      "fx": -833.3372692694438,
+      "fy": 80.12615870573643,
       "category": "mindmap"
     },
     {
@@ -113,6 +119,15 @@
       "fy": -273.2821448500807,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "video playlist  ️",
+      "url": "https://www.ted.com/playlists/310/talks_on_artificial_intelligen",
+      "fx": 596.1293532183797,
+      "fy": -191.48376782697255,
+      "category": "video",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "talks"
     },
     {
       "text": "15: the AI revolution: the road to superintelligence  ️",
@@ -276,6 +291,14 @@
       "curve": {
         "x": -571.281,
         "y": 62.4614
+      }
+    },
+    {
+      "source": "help",
+      "target": "talks",
+      "curve": {
+        "x": -91.0884,
+        "y": -118.9
       }
     }
   ]
