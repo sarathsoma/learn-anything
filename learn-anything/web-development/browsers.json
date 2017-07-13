@@ -1,5 +1,6 @@
 {
   "title": "learn anything - web development - browsers",
+  "tag": "",
   "nodes": [
     {
       "text": "web browsers",
@@ -23,14 +24,14 @@
     },
     {
       "text": "safari  ️",
-      "url": "/web-development/browsers/safari",
+      "url": "https://my.mindnode.com/vzpg628sGAz3c67v6eKCsqxzth9QNHpm4sHdZyzy",
       "fx": -282.0577583312988,
       "fy": -69.69337463378906,
       "category": "mindmap"
     },
     {
       "text": "google chrome  ️",
-      "url": "/web-development/browsers/chrome",
+      "url": "https://my.mindnode.com/3uqHrLo8E7tCqznyNp2xtCLsWkT9qRtpwwFyYTTR",
       "fx": -151.93059730529785,
       "fy": -68.6986780166626,
       "category": "mindmap"
@@ -44,7 +45,7 @@
     },
     {
       "text": "firefox  ️",
-      "url": "/web-development/browsers/firefox",
+      "url": "https://my.mindnode.com/ahEX3okEg86r3iSXu2WfSf475ubHPLMxmFqybKGo",
       "fx": 210.25089645385742,
       "fy": -63.91109228134155,
       "category": "mindmap"
@@ -64,14 +65,14 @@
     },
     {
       "text": "headless browsers  ️",
-      "url": "/web-development/browsers/headless",
+      "url": "https://my.mindnode.com/kw1NfUi1SdmtuxqLsKz2nKS2AVE2a8hgon3XhUuR",
       "fx": 731.4829406738281,
       "fy": -59.952781200408936,
       "category": "mindmap"
     },
     {
       "text": "WebExtensions  ️",
-      "url": "/web-development/browsers/webextensions",
+      "url": "https://my.mindnode.com/xS1mVawVtDYu6yp9ZKvz49WGR7M7Gm8w2UghsCtW",
       "fx": 997.5948028564453,
       "fy": -57.58321523666382,
       "category": "mindmap"
@@ -99,7 +100,7 @@
     },
     {
       "text": "Chrome V8  ️",
-      "url": "/web-development/browsers/v8",
+      "url": "https://my.mindnode.com/SZxDsZmsX4p4TE4vp8zJrfWPsQpq12qZfAu8W4Tz",
       "fx": 43.189177458709196,
       "fy": 57.59433065876408,
       "category": "mindmap"

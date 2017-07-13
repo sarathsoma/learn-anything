@@ -1,5 +1,6 @@
 {
   "title": "learn anything - natural language processing",
+  "tag": "",
   "nodes": [
     {
       "text": "natural language processing",
@@ -23,21 +24,21 @@
     },
     {
       "text": "sentiment analysis  ️",
-      "url": "/natural-language-processing/sentiment-analysis",
+      "url": "https://my.mindnode.com/BTNhqptfyxynrT4NFoaLAysgHnkKgpC98YGuKqRA",
       "fx": -14.552920181138916,
       "fy": 234.01660732393077,
       "category": "mindmap"
     },
     {
       "text": "automatic summarisation  ️",
-      "url": "/natural-language-processing/automatic-summarisation",
+      "url": "https://my.mindnode.com/zHYYtiagqytmxJERpFYs1eTcuoNQrvCLV3MMoGr4",
       "fx": -561.4237761203123,
       "fy": 236.74097507044553,
       "category": "mindmap"
     },
     {
       "text": "text classification  ️",
-      "url": "/natural-language-processing/text-classification",
+      "url": "https://my.mindnode.com/4sxtVyAoAMHrk4SJR33ZTLXsWYpuH5zqe7x97Dq6",
       "fx": -250.25875689252473,
       "fy": 237.2090655363312,
       "category": "mindmap"

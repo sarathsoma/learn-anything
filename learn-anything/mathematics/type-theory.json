@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - type theory",
+  "tag": "",
   "nodes": [
     {
       "text": "type theory",
@@ -35,14 +36,14 @@
     },
     {
       "text": "polymorphism  ️",
-      "url": "/mathematics/type-theory/polymorphism",
+      "url": "https://my.mindnode.com/p1EyvTGiSqyUmyMFHN2jsGMu4MZ6thnYkx11zPc3",
       "fx": -419.9552735201776,
       "fy": 440.39064704741065,
       "category": "mindmap"
     },
     {
       "text": "algebraic data types  ️",
-      "url": "/mathematics/type-theory/algebraic-data-types",
+      "url": "https://my.mindnode.com/btbCN3cSxVKpUstzFrwK9dsQaCpxQConApGq3ua1",
       "fx": -216.98556341832983,
       "fy": 441.1125891313719,
       "category": "mindmap"
@@ -56,14 +57,14 @@
     },
     {
       "text": "homotopy type theory  ️",
-      "url": "/mathematics/type-theory/homotopy-type-theory",
+      "url": "https://my.mindnode.com/66wZyXSpGgj6qxtJoQWqGzpskJtgYHZGV9nVBxrp",
       "fx": -104.29886896793948,
       "fy": 553.244509542734,
       "category": "mindmap"
     },
     {
       "text": "dependent type theory  ️",
-      "url": "/mathematics/type-theory/dependent-type-theory",
+      "url": "https://my.mindnode.com/DJQDzmqucni35iam9xnb6GesKZoD3SZ2Chwpy6S4",
       "fx": 179.28145968801834,
       "fy": 554.7874462246291,
       "category": "mindmap"

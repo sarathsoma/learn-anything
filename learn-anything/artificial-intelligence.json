@@ -1,5 +1,6 @@
 {
   "title": "learn anything - artificial intelligence",
+  "tag": "",
   "nodes": [
     {
       "text": "artificial intelligence",
@@ -11,54 +12,48 @@
     {
       "text": "help",
       "url": "",
-      "fx": 264.45398297467443,
-      "fy": -327.7821448500807
-    },
-    {
-      "text": "articles",
-      "url": "",
-      "fx": 564.1293532183797,
-      "fy": 136.98376782697255
-    },
-    {
-      "text": "talks",
-      "url": "",
-      "fx": 434.1293532183797,
-      "fy": -89.98376782697255
+      "fx": 301.65130440324594,
+      "fy": -314.152624760795
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -163.23664760824431,
+      "fx": -63.23664760824431,
       "fy": -81.80416448805465
     },
     {
+      "text": "articles",
+      "url": "",
+      "fx": 492.5199782183797,
+      "fy": -65.61501782697246
+    },
+    {
       "text": "general artificial intelligence  ️",
-      "url": "/artificial-intelligence/general-artificial-intelligence",
+      "url": "https://my.mindnode.com/xpVVydyqzs1U8dLJE1ywzxCyGqC6HcmueGUicFpW",
       "fx": -213.64084393217922,
-      "fy": 125.54459483131126,
+      "fy": 105.54459483131126,
       "category": "mindmap"
     },
     {
       "text": "AI planning  ️",
-      "url": "/artificial-intelligence/ai-planning",
+      "url": "https://my.mindnode.com/4PmTMMrQCr9oPLsczgLqfC7NwVhFGJGxGUPnx4n9",
       "fx": -412.53248727749815,
       "fy": 107.41032479243222,
       "category": "mindmap"
     },
     {
       "text": "knowledge representation and reasoning  ️",
-      "url": "/artificial-intelligence/knowledge-representation-and-reasoning",
+      "url": "https://my.mindnode.com/wqeqMSq4MDizrYxt4uT4gqqrwnY993x7QaMmELf4",
       "fx": -883.8553830443641,
       "fy": 107.74196054694801,
       "category": "mindmap"
     },
     {
       "text": "generative learning  ️",
-      "url": "/artificial-intelligence/generative-learning",
-      "fx": -833.3372692694438,
-      "fy": 80.12615870573643,
+      "url": "https://my.mindnode.com/DiSyLnjJcwJq7yybyMVDhCs8qYNdnbqWPyHuxJmT",
+      "fx": -1133.3372692694438,
+      "fy": 108.12615870573643,
       "category": "mindmap"
     },
     {
@@ -71,8 +66,8 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 597.1826250165636,
-      "fy": 136.00527562446143
+      "fx": 565.3013750165633,
+      "fy": 212.99902562446152
     }
   ],
   "subnodes": [
@@ -97,8 +92,8 @@
     {
       "text": "outline of artificial intelligence",
       "url": "http://www.wikiwand.com/en/Outline_of_artificial_intelligence",
-      "fx": 401.45398297467443,
-      "fy": -353.2821448500807,
+      "fx": 438.65130440324594,
+      "fy": -339.652624760795,
       "category": "wiki",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -106,8 +101,8 @@
     {
       "text": "AI in practice  ️",
       "url": "http://frnsys.com/ai_notes/artificial_intelligence/in_practice.html",
-      "fx": 401.45398297467443,
-      "fy": -313.2821448500807,
+      "fx": 438.65130440324594,
+      "fy": -299.652624760795,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -115,64 +110,10 @@
     {
       "text": "notes on artificial intelligence",
       "url": "http://frnsys.com/ai_notes/",
-      "fx": 401.45398297467443,
-      "fy": -273.2821448500807,
+      "fx": 438.65130440324594,
+      "fy": -259.652624760795,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
-    },
-    {
-      "text": "video playlist  ️",
-      "url": "https://www.ted.com/playlists/310/talks_on_artificial_intelligen",
-      "fx": 596.1293532183797,
-      "fy": -191.48376782697255,
-      "category": "video",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "talks"
-    },
-    {
-      "text": "15: the AI revolution: the road to superintelligence  ️",
-      "url": "http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
-      "fx": 596.1293532183797,
-      "fy": -191.48376782697255,
-      "category": "article",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: the myth of superhuman AI  ️",
-      "url": "https://backchannel.com/the-myth-of-a-superhuman-ai-59282b686c62",
-      "fx": 596.1293532183797,
-      "fy": -129.48376782697255,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: deepmind's new algorithm adds 'memory' to ai  ️",
-      "url": "http://www.wired.co.uk/article/deepmind-atari-learning-sequential-memory-ewc",
-      "fx": 596.1293532183797,
-      "fy": -89.48376782697255,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: ai is all around us  ️",
-      "url": "http://www.livemint.com/Industry/fJ2aNzCUokPneLlENJY5YI/Artificial-intelligence-is-already-all-around-us-John-MacIn.html",
-      "fx": 596.1293532183797,
-      "fy": -27.483767826972553,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: the arrival of artificial intelligence  ️",
-      "url": "https://stratechery.com/2017/the-arrival-of-artificial-intelligence/",
-      "fx": 596.1293532183797,
-      "fy": 12.516232173027447,
-      "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "articles"
     },
     {
       "text": "1. intro to AI",
@@ -202,21 +143,75 @@
       "parent": "basics"
     },
     {
-      "text": "17: elon musk nick bostrom ray kurzweil superintelligence",
-      "url": "https://www.youtube.com/watch?v=Xc2tiSH_eBg",
-      "fx": 788.1826250165636,
-      "fy": 105.50527562446143,
-      "category": "video",
+      "text": "15: the AI revolution: the road to superintelligence  ️",
+      "url": "http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
+      "fx": 654.5199782183797,
+      "fy": -198.11501782697246,
+      "category": "article",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: the myth of superhuman AI  ️",
+      "url": "https://backchannel.com/the-myth-of-a-superhuman-ai-59282b686c62",
+      "fx": 654.5199782183797,
+      "fy": -136.11501782697246,
+      "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "parent": "articles"
+    },
+    {
+      "text": "17: deepmind's new algorithm adds 'memory' to ai  ️",
+      "url": "http://www.wired.co.uk/article/deepmind-atari-learning-sequential-memory-ewc",
+      "fx": 654.5199782183797,
+      "fy": -96.11501782697246,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: ai is all around us  ️",
+      "url": "http://www.livemint.com/Industry/fJ2aNzCUokPneLlENJY5YI/Artificial-intelligence-is-already-all-around-us-John-MacIn.html",
+      "fx": 654.5199782183797,
+      "fy": -34.11501782697246,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "17: the arrival of artificial intelligence  ️",
+      "url": "https://stratechery.com/2017/the-arrival-of-artificial-intelligence/",
+      "fx": 654.5199782183797,
+      "fy": 5.884982173027538,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "articles"
     },
     {
       "text": "17: measuring the process of AI research  ️",
       "url": "https://www.eff.org/ai/metrics",
-      "fx": 788.1826250165636,
-      "fy": 167.50527562446143,
+      "fx": 654.5199782183797,
+      "fy": 67.88498217302754,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "TED talks on AI",
+      "url": "https://www.ted.com/playlists/310/talks_on_artificial_intelligen",
+      "fx": 756.3013750165633,
+      "fy": 193.49902562446152,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "17: elon musk nick bostrom ray kurzweil superintelligence",
+      "url": "https://www.youtube.com/watch?v=Xc2tiSH_eBg",
+      "fx": 756.3013750165633,
+      "fy": 233.49902562446152,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
     }
   ],
@@ -249,24 +244,24 @@
       "source": "help",
       "target": "artificial intelligence",
       "curve": {
-        "x": -54.8665,
-        "y": -63.5308
+        "x": -73.4652,
+        "y": -70.3456
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -91.0884,
-        "y": -118.9
+        "x": -101.685,
+        "y": -124.27
       }
     },
     {
       "source": "interesting",
       "target": "articles",
       "curve": {
-        "x": -108.981,
-        "y": -99.2861
+        "x": -63.8451,
+        "y": -125.599
       }
     },
     {
@@ -291,14 +286,6 @@
       "curve": {
         "x": -571.281,
         "y": 62.4614
-      }
-    },
-    {
-      "source": "help",
-      "target": "talks",
-      "curve": {
-        "x": -91.0884,
-        "y": -118.9
       }
     }
   ]

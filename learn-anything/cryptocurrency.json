@@ -1,5 +1,6 @@
 {
   "title": "learn anything - cryptocurrency",
+  "tag": "",
   "nodes": [
     {
       "text": "cryptocurrency",
@@ -43,7 +44,7 @@
     },
     {
       "text": "bitcoin  ️",
-      "url": "/cryptocurrency/bitcoin",
+      "url": "https://my.mindnode.com/u5DHRfRkjPMTTq3vkXRsyVxzZneUp8PJCYsT1RNv",
       "fx": -182.4449700438795,
       "fy": 189.78781655509283,
       "category": "mindmap"

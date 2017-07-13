@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - computability theory - turing completeness",
+  "tag": "",
   "nodes": [
     {
       "text": "turing completeness",
@@ -22,14 +23,14 @@
     },
     {
       "text": "turing machines  ️",
-      "url": "/mathematics/computability-theory/turing-completeness/turing-machines",
+      "url": "https://my.mindnode.com/fsKqqedULwQZSiAHcc4LmqgbJh7TsgCsu32Qo5cG",
       "fx": -69.30351738700165,
       "fy": 91.02539583908242,
       "category": "mindmap"
     },
     {
       "text": "halting problem  ️",
-      "url": "/mathematics/computability-theory/turing-completeness/halting-problem",
+      "url": "https://my.mindnode.com/zaNAJKTxMesRndasvbAfTDzW6iWKiaexxf3kzR4p",
       "fx": -299.89445422535243,
       "fy": 94.56417620305166,
       "category": "mindmap"

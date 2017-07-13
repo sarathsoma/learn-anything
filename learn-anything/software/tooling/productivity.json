@@ -1,5 +1,6 @@
 {
   "title": "learn anything - software - tooling - productivity",
+  "tag": "productivity software",
   "nodes": [
     {
       "text": "productivity",
@@ -23,35 +24,35 @@
     },
     {
       "text": "alfred  ️",
-      "url": "/software/tooling/productivity/alfred",
+      "url": "https://my.mindnode.com/tetuczqhA9mYrxXDx4zVWVmEFBgixkRe6SzjsFcq",
       "fx": -250.10663767881408,
       "fy": -105.78489774550076,
       "category": "mindmap"
     },
     {
       "text": "karabiner  ️",
-      "url": "/software/tooling/productivity/karabiner",
+      "url": "https://my.mindnode.com/hqzoDQSdDSLHK8yssrbbiC6SdhapeRg9SGNeznPk",
       "fx": -412.3867107548326,
       "fy": -103.90725003103569,
       "category": "mindmap"
     },
     {
       "text": "hammerspoon  ️",
-      "url": "/software/tooling/productivity/hammerspoon",
+      "url": "https://my.mindnode.com/gTuyPVTtpQyUuH7HZhd1jeBpio2q7p2zFxLN2Zzy",
       "fx": -123.66009039907044,
       "fy": -102.87452071385138,
       "category": "mindmap"
     },
     {
       "text": "hyper  ️",
-      "url": "/software/tooling/productivity/hyper",
+      "url": "https://my.mindnode.com/cnELLqCs6yhp2LnqPMiGts4X5UtS5tGxxBEgKqxV",
       "fx": 146.91682330827052,
       "fy": -90.50677474937345,
       "category": "mindmap"
     },
     {
       "text": "tmux  ️",
-      "url": "/software/tooling/productivity/tmux",
+      "url": "https://my.mindnode.com/mk1hLazUx97D8tymkePWZPuwhY2LCFDXTN4vF5RV",
       "fx": 281.6531572634344,
       "fy": -87.88483438581233,
       "category": "mindmap"

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - algorithms - search - string searching",
+  "tag": "",
   "nodes": [
     {
       "text": "string searching algorithms",
@@ -10,6 +11,7 @@
     },
     {
       "text": "Boyer–Moore string search algorithm  ️",
+      "url": "https://my.mindnode.com/6BijwPdzqZSC7BkyEvAJVoVySwvvVVQvu75pqsqR",
       "fx": -173.16774867957747,
       "fy": -23.056393045774655,
       "category": "mindmap"

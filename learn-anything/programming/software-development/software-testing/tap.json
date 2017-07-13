@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - software development - software testing - tap",
+  "tag": "test anything protocol",
   "nodes": [
     {
       "text": "Test Anything Protocol",
@@ -20,25 +21,25 @@
       "text": "",
       "url": "https://www.reddit.com/r/testanythingprotocol/",
       "fx": 284.27734375,
-      "fy": -100.62109375,
+      "fy": -120.62109375,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "Test Anything Protocol"
     },
     {
-      "text": "awesome tap",
+      "text": "awesome",
       "url": "https://github.com/sindresorhus/awesome-tap",
-      "fx": 290.3846077071031,
-      "fy": -21.673927932659524,
+      "fx": 284.27734375,
+      "fy": -80.62109375,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "Test Anything Protocol"
     },
     {
       "text": "TAP specification",
       "url": "https://testanything.org/tap-specification.html",
       "fx": 290.3846077071031,
-      "fy": 18.326072067340476,
+      "fy": -1.6739279326595238,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     }

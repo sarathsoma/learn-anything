@@ -1,0 +1,156 @@
+{
+  "title": "learn anything - more - research papers",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "research papers",
+      "note": "",
+      "url": "https://github.com/learn-anything/research-papers",
+      "fx": -105,
+      "fy": -301.2579195205479,
+      "category": "github"
+    },
+    {
+      "text": "",
+      "url": "",
+      "fx": -120.43359375,
+      "fy": 94.35546875
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "arxiv",
+      "url": "https://arxiv.org/",
+      "fx": 213.56640625,
+      "fy": -195.64453125,
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "papers we love",
+      "url": "http://paperswelove.org/",
+      "fx": 213.56640625,
+      "fy": -158.64453125,
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "arxiv sanity preserver",
+      "url": "http://www.arxiv-sanity.com/",
+      "fx": 213.56640625,
+      "fy": -121.64453125,
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "google scholar",
+      "url": "https://scholar.google.nl/",
+      "fx": 213.56640625,
+      "fy": -84.64453125,
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "lobal",
+      "url": "https://www.lobal.io/",
+      "fx": 213.56640625,
+      "fy": -47.64453125,
+      "color": "rgba(255, 254, 60, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "research in production",
+      "url": "https://github.com/evnm/research-in-production",
+      "fx": 213.56640625,
+      "fy": -10.64453125,
+      "category": "github",
+      "color": "rgba(169, 255, 0, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "awesome deep learning papers",
+      "url": "https://github.com/endymecy/awesome-deeplearning-resources",
+      "fx": 213.56640625,
+      "fy": 31.35546875,
+      "category": "github",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "summaries and notes on deep learning research papers",
+      "url": "https://github.com/dennybritz/deeplearning-papernotes",
+      "fx": 213.56640625,
+      "fy": 98.35546875,
+      "category": "github",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "inspire",
+      "url": "https://inspirehep.net/",
+      "fx": 213.56640625,
+      "fy": 165.35546875,
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "parallel &amp; distributed operating systems group",
+      "url": "https://pdos.csail.mit.edu/publications/",
+      "fx": 213.56640625,
+      "fy": 202.35546875,
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "google brain team",
+      "url": "https://research.google.com/teams/brain/",
+      "fx": 213.56640625,
+      "fy": 264.35546875,
+      "color": "rgba(255, 254, 60, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "recommend papers",
+      "url": "https://recommend-papers.org/",
+      "fx": 213.56640625,
+      "fy": 301.35546875,
+      "color": "rgba(169, 255, 0, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "PLOS",
+      "url": "https://www.plos.org/",
+      "fx": 213.56640625,
+      "fy": 338.35546875,
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "classic papers",
+      "url": "https://scholar.google.com/citations?view_op=list_classic_articles&amp;hl=en&amp;by=2006",
+      "fx": 213.56640625,
+      "fy": 375.35546875,
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": ""
+    },
+    {
+      "text": "two minute papers",
+      "url": "https://www.youtube.com/user/keeroyz/videos",
+      "fx": 213.56640625,
+      "fy": 412.35546875,
+      "category": "youtube",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": ""
+    }
+  ],
+  "connections": [
+    {
+      "source": "research papers",
+      "target": "",
+      "curve": {
+        "x": -3.7168,
+        "y": 197.807
+      }
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - operating systems - file systems",
+  "tag": "",
   "nodes": [
     {
       "text": "file systems",
@@ -17,8 +18,22 @@
     {
       "text": "file formats",
       "url": "http://www.wikiwand.com/en/File_format",
-      "fx": -167.0571646341466,
-      "fy": 133.84641768296046,
+      "fx": -231.197705568508,
+      "fy": 163.02354585130092,
+      "category": "wiki"
+    },
+    {
+      "text": "APFS",
+      "url": "http://www.wikiwand.com/en/Apple_File_System",
+      "fx": 67.29045050761408,
+      "fy": 179.08704790609136,
+      "category": "wiki"
+    },
+    {
+      "text": "ZFS",
+      "url": "http://www.wikiwand.com/en/ZFS",
+      "fx": -55.193819005042315,
+      "fy": 260.419921875,
       "category": "wiki"
     }
   ],
@@ -26,28 +41,28 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/filesystems/",
-      "fx": 157.25095274390253,
+      "fx": 170.25095274390253,
       "fy": -106.93111661585363,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "file systems"
     },
     {
       "text": "1. file system forensic analysis",
       "url": "http://www.campus64.com/digital_learning/data/cyber_forensics_essentials/info_file_system_forensic_analysis.pdf",
-      "fx": 90.21455792682912,
-      "fy": 11.304496951219392,
+      "fx": 97.21455792682912,
+      "fy": -1.1955030487806084,
       "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. anatomy of file systems",
       "url": "https://www.youtube.com/watch?v=0Yf-W7Ps6u4",
-      "fx": 90.21455792682912,
-      "fy": 51.30449695121939,
+      "fx": 97.21455792682912,
+      "fy": 65.80449695121939,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -64,8 +79,24 @@
       "source": "basics",
       "target": "file formats",
       "curve": {
-        "x": -40.3858,
-        "y": 57.0209
+        "x": -72.4561,
+        "y": 71.6095
+      }
+    },
+    {
+      "source": "basics",
+      "target": "ZFS",
+      "curve": {
+        "x": 7.29581,
+        "y": 121.058
+      }
+    },
+    {
+      "source": "basics",
+      "target": "APFS",
+      "curve": {
+        "x": 72.2879,
+        "y": 80.3913
       }
     }
   ]

@@ -1,33 +1,40 @@
 {
   "title": "learn anything - mathematics - lambda calculus",
+  "tag": "",
   "nodes": [
     {
       "text": "lambda calculus",
       "url": "http://www.wikiwand.com/en/Lambda_calculus",
-      "fx": -65.8671875,
-      "fy": -307.73046875,
+      "fx": -94.53283739089966,
+      "fy": -397.579738451087,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 102.95169448852539,
-      "fy": -211.08154678344727
+      "fx": 66.1253129710318,
+      "fy": -277.7040071902068
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 122.56178160483785,
+      "fy": -135.15060202083242
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -49.3603458404541,
-      "fy": -79.95711708068848
+      "fx": -113.55294094914973,
+      "fy": 5.873725310615782
     }
   ],
   "subnodes": [
     {
       "text": "compiling to lambda-calculus: turtles all the way down  ️",
       "url": "http://matt.might.net/articles/compiling-up-to-lambda-calculus/",
-      "fx": 239.9516944885254,
-      "fy": -241.58154678344727,
+      "fx": 203.1253129710318,
+      "fy": -308.2040071902068,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -35,17 +42,26 @@
     {
       "text": "whiteboard problems in pure lambda calculus  ️",
       "url": "http://www.jtolds.com/writing/2017/03/whiteboard-problems-in-pure-lambda-calculus/",
-      "fx": 239.9516944885254,
-      "fy": -179.58154678344727,
+      "fx": 203.1253129710318,
+      "fy": -246.20400719020682,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
+      "text": "a simple model of the lambda calculus",
+      "url": "https://github.com/jozefg/graph-models/blob/master/graphs.pdf",
+      "fx": 313.56178160483785,
+      "fy": -134.65060202083242,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "1. explanation",
       "url": "https://www.youtube.com/watch?v=eis11j_iGMs",
-      "fx": 132.6396541595459,
-      "fy": -85.45711708068848,
+      "fx": 68.44705905085027,
+      "fy": 0.3737253106157823,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -53,8 +69,8 @@
     {
       "text": "1. learn lambda calculus",
       "url": "http://safalra.com/lambda-calculus/",
-      "fx": 132.6396541595459,
-      "fy": -45.45711708068848,
+      "fx": 68.44705905085027,
+      "fy": 40.37372531061578,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -64,16 +80,24 @@
       "source": "help",
       "target": "lambda calculus",
       "curve": {
-        "x": -50.1595,
-        "y": -47.0745
+        "x": -46.0791,
+        "y": -58.6879
       }
     },
     {
       "source": "lambda calculus",
       "target": "basics",
       "curve": {
-        "x": -21.2466,
-        "y": 112.637
+        "x": -39.0101,
+        "y": 200.477
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -41.7182,
+        "y": -71.2767
       }
     }
   ]

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - programming languages - sql",
+  "tag": "SQL",
   "nodes": [
     {
       "text": "SQL",
@@ -23,7 +24,7 @@
     },
     {
       "text": "SQL injections  ️",
-      "url": "/programming/programming-languages/sql/sql-injections",
+      "url": "https://my.mindnode.com/fcpb6j4gpssaBFv4zCDabRz4YVkmJs9sPVWLD78t",
       "fx": -187.10001843657813,
       "fy": 110.58559181414637,
       "category": "mindmap"

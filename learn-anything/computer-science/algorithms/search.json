@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - algorithms - search",
+  "tag": "search algorithms",
   "nodes": [
     {
       "text": "search algorithms",
@@ -23,42 +24,42 @@
     },
     {
       "text": "A* search  ️",
-      "url": "/computer-science/algorithms/search/a-star",
+      "url": "https://my.mindnode.com/ZViLXVpPyUStsfdsPJxLqdSzU5ssBKxs8KgxbgZ9",
       "fx": -1018.6633955059416,
       "fy": 166.9675852124193,
       "category": "mindmap"
     },
     {
       "text": "depth-first search  ️",
-      "url": "/computer-science/algorithms/search/depth-first-search",
+      "url": "https://my.mindnode.com/f78pjsaRb2PaBuseUPKAtsh3rkE7HuLAqXitd9CP",
       "fx": -833.3035583496094,
       "fy": 169.69873428344727,
       "category": "mindmap"
     },
     {
       "text": "binary search  ️",
-      "url": "/computer-science/algorithms/search/binary-search",
+      "url": "https://my.mindnode.com/k2xpSqsxbz27PxjCqWaFeLokmqJwwBfHTWxsrym3",
       "fx": -310.10943603515625,
       "fy": 171.15663528442383,
       "category": "mindmap"
     },
     {
       "text": "Monte Carlo tree search  ️",
-      "url": "/computer-science/algorithms/search/monte-carlo-tree-search",
+      "url": "https://my.mindnode.com/fegEqsZPctyE5msMWTTwqWoc8Lp9GUqaap9RF7c2",
       "fx": -98.0391263961792,
       "fy": 172.85097122192383,
       "category": "mindmap"
     },
     {
       "text": "breadth-first search  ️",
-      "url": "/computer-science/algorithms/search/breadth-first-search",
+      "url": "https://my.mindnode.com/m7aCpVqsQTWsy1cTPCvvfecEGj6ww13PJsxwUBwk",
       "fx": -581.1892166137695,
       "fy": 174.08029556274414,
       "category": "mindmap"
     },
     {
       "text": "string searching  ️",
-      "url": "/computer-science/algorithms/search/string-searching",
+      "url": "https://my.mindnode.com/n2UQ9sBQgzqkss8R2PqamzKZsxmpgY6vPUb5CGbA",
       "fx": 220.0527801513672,
       "fy": 175.1279067993164,
       "category": "mindmap"

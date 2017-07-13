@@ -1,5 +1,6 @@
 {
   "title": "learn anything - web development - web design",
+  "tag": "",
   "nodes": [
     {
       "text": "web design",
@@ -29,21 +30,21 @@
     },
     {
       "text": "responsive web design  ️",
-      "url": "/web-development/web-design/responsive-web-development",
+      "url": "https://my.mindnode.com/SQd3ph8MmAFNCZeBYe9N3csyH28ZAokuxz9qDopG",
       "fx": -648.5055612645441,
       "fy": -19.969229824082845,
       "category": "mindmap"
     },
     {
       "text": "web accessibility  ️",
-      "url": "/web-development/web-design/web-accessibility",
+      "url": "https://my.mindnode.com/s2CAMQUzR7JQ9UAXBog5rRRkVhSjTEeVNerjyHYY",
       "fx": -359.61870655994136,
       "fy": -17.158802158553613,
       "category": "mindmap"
     },
     {
       "text": "progressive enhancement  ️",
-      "url": "/web-development/web-design/progressive-enhancement",
+      "url": "https://my.mindnode.com/Xs5KoWKuK6Cqz9BH7FgymmeRstp2bzeLKCNUR8C7",
       "fx": -123.75058282935356,
       "fy": -14.052854562909488,
       "category": "mindmap"

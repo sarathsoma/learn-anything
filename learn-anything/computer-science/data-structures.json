@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - data structures",
+  "tag": "",
   "nodes": [
     {
       "text": "data structures",
@@ -23,28 +24,28 @@
     },
     {
       "text": "disjoint sets  ️",
-      "url": "/computer-science/data-structures/disjoint-sets",
+      "url": "https://my.mindnode.com/bSM3gowBhs9pF49RtSsxaBc98hXH5KmJ7uTZxJFo",
       "fx": -887.1788383152174,
       "fy": -501.7973845108695,
       "category": "mindmap"
     },
     {
       "text": "arrays  ️",
-      "url": "/computer-science/data-structures/arrays",
+      "url": "https://my.mindnode.com/WeVj6q5ZQ7W8RcVnAFzX1tVSyzoScBY2eDJngXHA",
       "fx": -905.8769351546116,
       "fy": -386.3429312375182,
       "category": "mindmap"
     },
     {
       "text": "binary heaps  ️",
-      "url": "/computer-science/data-structures/binary-heaps",
+      "url": "https://my.mindnode.com/zwPUHD2eFWEYLDqpYz3Ex24WKKNgopNyj9v2cuNy",
       "fx": 504.68657483552397,
       "fy": -379.2857730263164,
       "category": "mindmap"
     },
     {
       "text": "heaps  ️",
-      "url": "/computer-science/data-structures/heaps",
+      "url": "https://my.mindnode.com/f8syN1QxAoDfJJ1SpZJQZtcwsLy6XnXpax5xZVkf",
       "fx": 283.20855614973425,
       "fy": -375.8983957219252,
       "category": "mindmap"
@@ -58,14 +59,14 @@
     },
     {
       "text": "stack  ️",
-      "url": "/computer-science/data-structures/stack",
+      "url": "https://my.mindnode.com/WyLMGpfxPRbFCpnpXDkuT9BQeCFHssdmEWLeQSfD",
       "fx": 322.33470875873377,
       "fy": -276.4976379946751,
       "category": "mindmap"
     },
     {
       "text": "serialisation  ️",
-      "url": "/computer-science/data-structures/serialisation",
+      "url": "https://my.mindnode.com/wqJZUS4hRZx9ApSm3gutDz86Po9XDtCMiydKwCJP",
       "fx": -524.3088353913074,
       "fy": -262.5840053041354,
       "category": "mindmap"
@@ -86,7 +87,7 @@
     },
     {
       "text": "linked list  ️",
-      "url": "/computer-science/data-structures/linked-lists",
+      "url": "https://my.mindnode.com/hko7BypWr8wJmi2GRxBXqUcbdxGV9RRL8H4itJ91",
       "fx": 280.7795517988054,
       "fy": -165.11773950447207,
       "category": "mindmap"
@@ -101,7 +102,7 @@
     {
       "text": "hash tables  ️",
       "note": "a hash function is any function that can be used to map data of arbitrary size to data of fixed size  the values returned by a hash function are called hash values, hash codes, digests or simply hashes  one use is a data structure called a hash table, widely used in computer software for rapid data lookup",
-      "url": "/computer-science/data-structures/hash-tables",
+      "url": "https://my.mindnode.com/64QWJLf2vFoA5xJcP3BXvp3ak1VXkpWTJhPyqaev",
       "fx": -66.16053381363918,
       "fy": -63.87630990227785,
       "category": "mindmap"
@@ -122,35 +123,35 @@
     },
     {
       "text": "binary search trees  ️",
-      "url": "/computer-science/data-structures/binary-search-trees",
+      "url": "https://my.mindnode.com/1jDpHatgqThpeB3fAxKJPPsJSQuDFdypHkb6BpM3",
       "fx": -821.8800659179688,
       "fy": 27.9573917388916,
       "category": "mindmap"
     },
     {
       "text": "tries  ️",
-      "url": "/computer-science/data-structures/tries",
+      "url": "https://my.mindnode.com/zpi84AvxkQKz7EX6z5efdSThmqBNGRvsC7CiDWEi",
       "fx": -221.5940933227539,
       "fy": 28.557376861572266,
       "category": "mindmap"
     },
     {
       "text": "priority queue  ️",
-      "url": "/computer-science/data-structures/priority-queue",
+      "url": "https://my.mindnode.com/hpbywTZs65syi1oMrqbsdSx8duZi9P7S5KywBc4o",
       "fx": 140.78483797898934,
       "fy": 83.76641857090294,
       "category": "mindmap"
     },
     {
       "text": "quadtrees  ️",
-      "url": "/computer-science/data-structures/quadtree",
+      "url": "https://my.mindnode.com/TAamxXzxZbqPpbqEDjHqd8Fxa1Sqos1kzXMFAs7C",
       "fx": -247.02221488965677,
       "fy": 149.5933428930009,
       "category": "mindmap"
     },
     {
       "text": "red-black tree  ️",
-      "url": "/computer-science/data-structures/red-black-trees",
+      "url": "https://my.mindnode.com/igsGsunBxQ7opKiZmuU4zDobJZ8tFCn84vTD58Gq",
       "fx": -799.6791930379746,
       "fy": 165.8639240506326,
       "category": "mindmap"

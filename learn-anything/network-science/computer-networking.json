@@ -1,5 +1,6 @@
 {
   "title": "learn anything - network science - computer networking",
+  "tag": "",
   "nodes": [
     {
       "text": "computer networking",
@@ -23,14 +24,14 @@
     },
     {
       "text": "software-defined networking  ️",
-      "url": "/network-science/computer-networking/software-defined-networking",
+      "url": "https://my.mindnode.com/k2CCWrftHFpYsU2jc5TWwPXB4FirWbfzGRwK9Ewx",
       "fx": -85.05657427651545,
       "fy": 183.37897872924805,
       "category": "mindmap"
     },
     {
       "text": "protocols  ️",
-      "url": "/network-science/computer-networking/protocols",
+      "url": "https://my.mindnode.com/REzVv3zAJzajgYQbvfdNkGsopRTz9pTyCkqWUyts",
       "fx": -250.96206665039062,
       "fy": 185.40719604492188,
       "category": "mindmap"
@@ -38,35 +39,35 @@
     {
       "text": "internet of things  ️",
       "note": "is the inter-networking of physical devices, vehicles (also referred to as \"connected devices\" and \"smart devices\"), buildings, and other items—embedded with electronics, software, sensors, actuators, and network connectivity that enable these objects to collect and exchange data",
-      "url": "/network-science/computer-networking/internet-of-things",
+      "url": "https://my.mindnode.com/7DGQWiuwyXvB19qQdW9saGv2bhw5WVEdbHyEnB7g",
       "fx": 249.89517161885237,
       "fy": 185.97150358606575,
       "category": "mindmap"
     },
     {
       "text": "peer to peer  ️",
-      "url": "/network-science/computer-networking/peer-to-peer",
+      "url": "https://my.mindnode.com/qFLBh134gcZ3knMursuxjjEnsWfUzbivcH6fTxbS",
       "fx": -436.33768463134766,
       "fy": 187.53400421142578,
       "category": "mindmap"
     },
     {
       "text": "internet  ️",
-      "url": "/network-science/computer-networking/internet",
+      "url": "https://my.mindnode.com/s6oDsxXnkgvpLW4D1zXkcRJRV3fWyXag1hQR2T5k",
       "fx": -579.4438934326172,
       "fy": 190.57941055297852,
       "category": "mindmap"
     },
     {
       "text": "proxy server  ️",
-      "url": "/network-science/computer-networking/proxy-server",
+      "url": "https://my.mindnode.com/TjjrN4R6yxgCRyznvYJZae8gbnXEJcTzQpR85aFq",
       "fx": -765.5084206448187,
       "fy": 193.38123196066567,
       "category": "mindmap"
     },
     {
       "text": "emails  ️",
-      "url": "/network-science/computer-networking/emails",
+      "url": "https://my.mindnode.com/axdbHX76hZNvjoPymgMCipsxmMbYXmtyFbmCfpqz",
       "fx": -904.7203801945179,
       "fy": 195.1871960654288,
       "category": "mindmap"

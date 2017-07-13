@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - algorithms - search - a star",
+  "tag": "A* search algorithm",
   "nodes": [
     {
       "text": "A* search",

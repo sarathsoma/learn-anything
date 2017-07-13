@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - calculus - series",
+  "tag": "mathematical series",
   "nodes": [
     {
       "text": "series",
@@ -16,21 +17,21 @@
     },
     {
       "text": "geometric series  ️",
-      "url": "/mathematics/calculus/series/geometric-series",
+      "url": "https://my.mindnode.com/2UkVqQM6zzpkeeaCJgJMqciE2PFGsfmx7KqwpjXf",
       "fx": -343.9130859375,
       "fy": 88.40503311157227,
       "category": "mindmap"
     },
     {
       "text": "Taylor series  ️",
-      "url": "/mathematics/calculus/series/taylor-series",
+      "url": "https://my.mindnode.com/zkzCoopivHZqHsF2Ep6yGNUqzrCCGJDFDJspUCyH",
       "fx": -119.78956127166748,
       "fy": 88.58586883544922,
       "category": "mindmap"
     },
     {
       "text": "wavelet transform  ️",
-      "url": "/mathematics/calculus/series/wavelet-transform",
+      "url": "https://my.mindnode.com/6txr63usB7NxHxudu9zTHPAp7E2LQysTuRsp7Hnh",
       "fx": 70.84788602941217,
       "fy": 90.31449142156862,
       "category": "mindmap"

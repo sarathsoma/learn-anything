@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - software development - devops - docker",
+  "tag": "",
   "nodes": [
     {
       "text": "docker",
@@ -23,7 +24,7 @@
     },
     {
       "text": "docker swarm  ️",
-      "url": "/programming/software-development/devops/docker/docker-swarm",
+      "url": "https://my.mindnode.com/XwWBqZU1TBDj3dG88xaBbzwY1TU99cKxsmBVskuY",
       "fx": -228.31104932709354,
       "fy": 524.5075727982085,
       "category": "mindmap"

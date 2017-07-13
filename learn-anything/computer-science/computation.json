@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - computation",
+  "tag": "",
   "nodes": [
     {
       "text": "computation",
@@ -11,7 +12,7 @@
     },
     {
       "text": "computer programs  ️",
-      "url": "/computer-science/computation/computer-programs",
+      "url": "https://my.mindnode.com/CZAvRseshKFKFAsLm1VSA1nRV47dWutzrzajmaEF",
       "fx": -616.9526640855456,
       "fy": -518.669939159292,
       "category": "mindmap"
@@ -24,14 +25,14 @@
     },
     {
       "text": "finite-state machine  ️",
-      "url": "/computer-science/computation/finite-state-machine",
+      "url": "https://my.mindnode.com/GFgiX7X54VPAzucD9zNWt63houxvAxahuEgLxqPE",
       "fx": -612.3928480691086,
       "fy": -432.01537093496097,
       "category": "mindmap"
     },
     {
       "text": "interactive computing  ️",
-      "url": "/computer-science/computation/interactive-computing",
+      "url": "https://my.mindnode.com/AwRTP4as7mt72BFKCTkqFTfNhyNmDSuqpTN23hSe",
       "fx": 318.5091932583673,
       "fy": -330.26349043276014,
       "category": "mindmap"
@@ -45,14 +46,14 @@
     },
     {
       "text": "theory of computation  ️",
-      "url": "/computer-science/computation/theory-of-computation",
+      "url": "https://my.mindnode.com/nv2bgFsqXvmrTByTt5W1Q7GtXqu8skYRTyac1pDU",
       "fx": 236.78729489849934,
       "fy": -216.23806264464724,
       "category": "mindmap"
     },
     {
       "text": "evolutionary computation  ️",
-      "url": "/computer-science/computation/evolutionary-computation",
+      "url": "https://my.mindnode.com/VfuGudA1ZBCqwwjiHyuu4SEucy5y4jxPWwibvysh",
       "fx": -505.37593591816665,
       "fy": -209.4783072292596,
       "category": "mindmap"
@@ -60,7 +61,7 @@
     {
       "text": "DNA computing  ️",
       "note": "DNA computing is the performing of computations using biological molecules rather than traditional silicon chips. In DNA computing, information is represented using the four-character genetic alphabet - A [adenine], G [guanine], C [cytosine], and T [thymine] - rather than the binary alphabet, which is a series of 1s and 0s used by traditional computers.",
-      "url": "/computer-science/computation/dna-computing",
+      "url": "https://my.mindnode.com/9UsRN1u9bevjaxPFntjwtzQiazdxaUAeWFoecEcf",
       "fx": 114.99642680547447,
       "fy": -136.70943633280302,
       "category": "mindmap"
@@ -82,7 +83,7 @@
     },
     {
       "text": "computer simulations  ️",
-      "url": "/computer-science/computation/computer-simulations",
+      "url": "https://my.mindnode.com/pT8z9q2fZTeAggCuB9SneTtj6ioVRt4xsY1eqpH4",
       "fx": 28.740400476539662,
       "fy": -19.034556757087216,
       "category": "mindmap"

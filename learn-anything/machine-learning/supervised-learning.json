@@ -1,5 +1,6 @@
 {
   "title": "learn anything - machine learning - supervised learning",
+  "tag": "",
   "nodes": [
     {
       "text": "supervised learning",
@@ -16,14 +17,14 @@
     },
     {
       "text": "support vector machines  ️",
-      "url": "/machine-learning/supervised-learning/support-vector-machines",
+      "url": "https://my.mindnode.com/kuxqLwbVqNXM7yRpQT35tB7NJBGP95XBzsP21pt4",
       "fx": -306.6866234221601,
       "fy": 84.92846394345838,
       "category": "mindmap"
     },
     {
       "text": "perceptrons  ️",
-      "url": "/machine-learning/supervised-learning/perceptrons",
+      "url": "https://my.mindnode.com/f5yM1K3bpbbb7cxSqGRwggx8ar5veMcrpusvEUvx",
       "fx": -1.881611563804654,
       "fy": 86.75621936686645,
       "category": "mindmap"

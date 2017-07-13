@@ -1,5 +1,6 @@
 {
   "title": "learn anything - security",
+  "tag": "",
   "nodes": [
     {
       "text": "security",
@@ -18,7 +19,7 @@
     {
       "text": "penetration testing  ️",
       "note": "a penetration test is an authorised simulated attack on a computer system that looks for security weaknesses, potentially gaining access to the system’s features and data  general attack sequence in steps is  1. find an exploitable vulnerability  2. design an attack around it - test the attack - seize a line in use - enter the attack - exploit the entry for information recovery",
-      "url": "/security/penetration-testing",
+      "url": "https://my.mindnode.com/4ihKdHT7ZKc1a6hp7MiFFYGpzA4Dm6Qu6sr5LdMT",
       "fx": -120.21112468880654,
       "fy": 7.8789494305767676,
       "category": "mindmap"
@@ -26,35 +27,35 @@
     {
       "text": "privacy  ️",
       "note": "is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  it is the right of people to conceal information about themselves that others might use to their advantage",
-      "url": "/security/privacy",
+      "url": "https://my.mindnode.com/uFiw9mUYxyQjTnTcHqpX8VGsH5sSVSWztpY5AyWJ#-154.8,-53.0,2",
       "fx": -296.7759606192335,
       "fy": 8.281329490548387,
       "category": "mindmap"
     },
     {
       "text": "hacking  ️",
-      "url": "/security/hacking",
+      "url": "https://my.mindnode.com/7dWQHvRBshf6cmgczxFGLTq9Lqg5DpiYqxs8UG3K",
       "fx": -462.15126377345905,
       "fy": 11.918183627678218,
       "category": "mindmap"
     },
     {
       "text": "information security  ️",
-      "url": "/security/information-security",
+      "url": "https://my.mindnode.com/JnJxmfMwcigFArLsxvGTi1VwpK42vxbZzfBDSaEr",
       "fx": -724.0113554201312,
       "fy": 17.15036369298673,
       "category": "mindmap"
     },
     {
       "text": "authentication  ️",
-      "url": "/security/authentication",
+      "url": "https://my.mindnode.com/ciaxqLS74KGNcoC93dJ3U2YpFh8kWRA5wAMq9Nzz",
       "fx": -928.9643822521098,
       "fy": 18.00318328658443,
       "category": "mindmap"
     },
     {
       "text": "virtual private networks  ️",
-      "url": "/security/virtual-private-networks",
+      "url": "https://my.mindnode.com/CzViS3qsYSPreTTjveyGSmfFJQ4Vy9GJMjJdXn5x",
       "fx": -357.65000431474516,
       "fy": 117.25895609175723,
       "category": "mindmap"

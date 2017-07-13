@@ -1,5 +1,6 @@
 {
   "title": "learn anything - health - nutrition - food",
+  "tag": "",
   "nodes": [
     {
       "text": "food",
@@ -10,7 +11,7 @@
     },
     {
       "text": "cooking  ️",
-      "url": "/health/nutrition/food/cooking",
+      "url": "https://my.mindnode.com/p3QJJmouj4U6WiPZ9fpUUdrt6U2Erc18QNMqz1oA",
       "fx": -148.46484375,
       "fy": -71.671875,
       "category": "mindmap"

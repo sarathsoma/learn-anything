@@ -1,5 +1,6 @@
 {
   "title": "learn anything - data science - data processing",
+  "tag": "",
   "nodes": [
     {
       "text": "data processing",
@@ -16,21 +17,21 @@
     },
     {
       "text": "apache hadoop  ️",
-      "url": "/data-science/data-processing/apache-hadoop",
+      "url": "https://my.mindnode.com/XfVM3yn1aEw6Pyd1VzLUPsJ99aepedVLHbnhRzrZ",
       "fx": 7.257158302250275,
       "fy": -6.100217113906524,
       "category": "mindmap"
     },
     {
       "text": "apache spark  ️",
-      "url": "/data-science/data-processing/apache-spark",
+      "url": "https://my.mindnode.com/qpFqeRNNuHbMoBiUjM4rcpKCHLphefKbJpxH4YZc",
       "fx": 230.59672601291913,
       "fy": -5.676371455378899,
       "category": "mindmap"
     },
     {
       "text": "MapReduce  ️",
-      "url": "/data-science/data-processing/mapreduce",
+      "url": "https://my.mindnode.com/txEzbeTzzxpnRFezDLs7fB5z3iK2SquyhoCsDpmk",
       "fx": 441.6783419398728,
       "fy": -4.236669077195188,
       "category": "mindmap"

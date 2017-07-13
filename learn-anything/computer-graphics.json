@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer graphics",
+  "tag": "",
   "nodes": [
     {
       "text": "computer graphics",
@@ -23,7 +24,7 @@
     },
     {
       "text": "digital images  ️",
-      "url": "/computer-graphics/digital-images",
+      "url": "https://my.mindnode.com/dvZnqeVH9Lz2hwFYRYZ4miyV4sUpxxEXEDdo6Tbq",
       "fx": -876.4138329653817,
       "fy": 263.9408209081637,
       "category": "mindmap"
@@ -37,14 +38,14 @@
     },
     {
       "text": "bezier curves  ️",
-      "url": "/computer-graphics/bezier-curves",
+      "url": "https://my.mindnode.com/xFxmSxUn5zw5FF4ZoNqZsCGjvszFZSEHhy5PuHfE",
       "fx": -284.3838039285995,
       "fy": 265.0241406010646,
       "category": "mindmap"
     },
     {
       "text": "3d modelling  ️",
-      "url": "/computer-graphics/3d-modelling",
+      "url": "https://my.mindnode.com/KwqKLxpHNEMg45pZ6PpMQmgWimEdYxWa7JzTeGTi",
       "fx": -89.2539621240951,
       "fy": 265.2975781010646,
       "category": "mindmap"
@@ -52,42 +53,42 @@
     {
       "text": "rendering  ️",
       "note": "is the process of generating an image from a 2D or 3D model (or models in what collectively could be called a scene file) by means of computer programs  the results of such a model can be called a rendering  a scene file contains objects in a strictly defined language or data structure (it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene)  the data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file",
-      "url": "/computer-graphics/rendering",
+      "url": "https://my.mindnode.com/rdgKa9yyxeycCFwbFLsJhHxocZzzzzixzyHQhWgk",
       "fx": -470.4896684534408,
       "fy": 266.70401883592785,
       "category": "mindmap"
     },
     {
       "text": "digital video  ️",
-      "url": "/computer-graphics/digital-video",
+      "url": "https://my.mindnode.com/CWPVHgTCxAbA46d1yx9xtpLE5YHq7QARwcRFz6vC",
       "fx": -1070.0990510828353,
       "fy": 267.6895077275294,
       "category": "mindmap"
     },
     {
       "text": "volume rendering  ️",
-      "url": "/computer-graphics/volume-rendering",
+      "url": "https://my.mindnode.com/JxH9Z3z2qyucFdUigjTzrnrp3jR9zy6gsgFvFGdV",
       "fx": -1301.2250276453353,
       "fy": 267.7938015507716,
       "category": "mindmap"
     },
     {
       "text": "polygon mesh  ️",
-      "url": "/computer-graphics/polygon-mesh",
+      "url": "https://my.mindnode.com/wkmAWzxwx6y1vFXgBe1oyySpWEJk8Wsi1zctxRbz",
       "fx": -1504.3148713953353,
       "fy": 269.10582852831067,
       "category": "mindmap"
     },
     {
       "text": "shaders  ️",
-      "url": "/computer-graphics/shaders",
+      "url": "https://my.mindnode.com/S9LpJuFLjpsRUirqygAFzSy6cgTr7SnxjhzVXtDr",
       "fx": -1655.3709564758517,
       "fy": 269.16482398928804,
       "category": "mindmap"
     },
     {
       "text": "computer graphics lighting  ️",
-      "url": "/computer-graphics/computer-graphics-lighting",
+      "url": "https://my.mindnode.com/eLJvNJ1FsdAHh1Y8stmXiDHkKsEnzLPUujAEFQBF",
       "fx": -1974.2505908613446,
       "fy": 270.0863433441559,
       "category": "mindmap"
@@ -95,7 +96,7 @@
     {
       "text": "metal  ️",
       "note": "is a low-level, low-overhead hardware-accelerated graphics and compute application interface that debuted in iOS 8",
-      "url": "/computer-graphics/metal",
+      "url": "https://my.mindnode.com/ssCTRUmvnugyPUfquW6ihpnyZdwKVySz4gpXSHoY",
       "fx": -890.2193031856173,
       "fy": 371.4622275184604,
       "category": "mindmap"
@@ -103,7 +104,7 @@
     {
       "text": "vulkan  ️",
       "note": "is a low-overhead, cross-platform 3D graphics and compute API first announced in 2015  it targets high-performance realtime 3D graphics applications such as video games and interactive media across all platforms, and can offer higher performance and more balanced CPU/GPU usage",
-      "url": "/computer-graphics/vulkan",
+      "url": "https://my.mindnode.com/ej8XKCb4Gopu2Uxz5Cc6qRJyraETKeGXdABzYNYr",
       "fx": -739.1016755945541,
       "fy": 373.7010510014552,
       "category": "mindmap"
@@ -111,14 +112,14 @@
     {
       "text": "openGL  ️",
       "note": "is a cross-language, cross platform API for rendering 2D and 3D vector graphics  it is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering",
-      "url": "/computer-graphics/opengl",
+      "url": "https://my.mindnode.com/zPHWFpAprmq1Tt3YGm3ZBE1pysmVUYSgDhsfMVfZ",
       "fx": -430.99159657632913,
       "fy": 374.23334614427006,
       "category": "mindmap"
     },
     {
       "text": "webGL  ️",
-      "url": "/computer-graphics/webgl",
+      "url": "https://my.mindnode.com/pRs2UppBdxxyS7YxD3KuqyMsFz5BNsNAyyAzzTfq",
       "fx": -571.816738053864,
       "fy": 374.4201595829984,
       "category": "mindmap"

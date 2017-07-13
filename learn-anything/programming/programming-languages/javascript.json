@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - programming languages - javascript",
+  "tag": "javascript programming language",
   "nodes": [
     {
       "text": "javascript",
@@ -35,14 +36,14 @@
     },
     {
       "text": "promises  ️",
-      "url": "/programming/programming-languages/javascript/promises",
+      "url": "https://my.mindnode.com/1H9tLbqyqiaEd6ESR9Zw16WUZHusJJuDzxsfX5Rm",
       "fx": -613.2223914823428,
       "fy": 216.28562818413388,
       "category": "mindmap"
     },
     {
       "text": "ES6  ️",
-      "url": "/programming/programming-languages/javascript/es6",
+      "url": "https://my.mindnode.com/rNhr9Nq5D6yWCM6rjQLYyLyoxtomM6yK62VZS4Ud",
       "fx": -302.6810119275051,
       "fy": 276.18781490330525,
       "category": "mindmap"
@@ -61,7 +62,7 @@
     },
     {
       "text": "npm  ️",
-      "url": "/programming/programming-languages/javascript/npm",
+      "url": "https://my.mindnode.com/9bmZLDspyMzpsB7p5vqMhmBxqXDYiDnxbUrY3GGx",
       "fx": -601.3985298767409,
       "fy": 453.74422361968186,
       "category": "mindmap"
@@ -75,7 +76,7 @@
     },
     {
       "text": "flow  ️",
-      "url": "/programming/programming-languages/javascript/flow",
+      "url": "https://my.mindnode.com/SSbhAb3K5XKYqrX1Ya6755WKvCQTitbJWGJtMBnn",
       "fx": -38.465957000334356,
       "fy": 468.8140618594564,
       "category": "mindmap"

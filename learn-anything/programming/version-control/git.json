@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - version control - git",
+  "tag": "git version control",
   "nodes": [
     {
       "text": "git",
@@ -29,14 +30,14 @@
     },
     {
       "text": "git hooks  ️",
-      "url": "/programming/version-control/git/git-hooks",
+      "url": "https://my.mindnode.com/QwLKVq6ZJuXzxscjc9Y9NZbnpN81d3pNxxsy5nSm",
       "fx": -275.1467353351957,
       "fy": 699.1692562849162,
       "category": "mindmap"
     },
     {
       "text": "GitHub  ️",
-      "url": "/programming/version-control/git/github",
+      "url": "https://my.mindnode.com/pcNLWQPSVE2DnGfTCvCawS2CcKpYzkT67kZcNYTH",
       "fx": -100.06012339547283,
       "fy": 701.7892742355953,
       "category": "mindmap"

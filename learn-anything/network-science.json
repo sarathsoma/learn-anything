@@ -1,5 +1,6 @@
 {
   "title": "learn anything - network science",
+  "tag": "",
   "nodes": [
     {
       "text": "network science",
@@ -26,7 +27,7 @@
     {
       "text": "computer networking  ️",
       "note": "computer network is a telecommunications network which allows nodes to share resources  in computer networks, networked computing devices exchange data with each other using a data link",
-      "url": "/network-science/computer-networking",
+      "url": "https://my.mindnode.com/N78CWbGse4y4gyZXjb6yLAsj8p58vmVD5RzC5qWj",
       "fx": -266.9644584655762,
       "fy": -238.89255905151367,
       "category": "mindmap"
@@ -40,7 +41,7 @@
     },
     {
       "text": "network topology  ️",
-      "url": "/network-science/network-topology",
+      "url": "https://my.mindnode.com/qsGxmY5KYwWw49yFyMMxNmRfszs8swqCEiWg77D1",
       "fx": -512.8932952880859,
       "fy": -238.56880569458008,
       "category": "mindmap"
@@ -61,7 +62,7 @@
     },
     {
       "text": "network theory  ️",
-      "url": "/network-science/network-theory",
+      "url": "https://my.mindnode.com/n49ig2yzjb5pyKUZTtHthq4S7parxjE7zqoUMHoP",
       "fx": -723.039891098485,
       "fy": -236.41193181818159,
       "category": "mindmap"

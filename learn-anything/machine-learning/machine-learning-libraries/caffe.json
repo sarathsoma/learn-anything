@@ -1,18 +1,13 @@
 {
   "title": "learn anything - machine learning - machine learning libraries - caffe",
+  "tag": "caffe library",
   "nodes": [
     {
       "text": "caffe",
       "url": "https://github.com/BVLC/caffe",
-      "fx": -35.95816136006283,
-      "fy": -271.193322523585,
+      "fx": -15.881510416666629,
+      "fy": -260.1329844732705,
       "category": "github"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 71.5348556806457,
-      "fy": -176.9871315626229
     },
     {
       "text": "basics",
@@ -24,21 +19,21 @@
   ],
   "subnodes": [
     {
-      "text": "awesome caffe",
+      "text": "awesome",
       "url": "https://github.com/MichaelXin/Awesome-Caffe",
-      "fx": 208.5348556806457,
-      "fy": -165.4871315626229,
+      "fx": 162.11848958333337,
+      "fy": -246.13298447327048,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "caffe"
     },
     {
       "text": "1. a practical introduction to deep learning with caffe and python  ️",
       "url": "http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/",
-      "fx": 150.46724462509155,
-      "fy": -94.41063007618652,
+      "fx": 157.46724462509155,
+      "fy": -107.41063007618652,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -47,16 +42,8 @@
       "source": "caffe",
       "target": "basics",
       "curve": {
-        "x": -1.5373,
-        "y": 86.8913
-      }
-    },
-    {
-      "source": "help",
-      "target": "caffe",
-      "curve": {
-        "x": -45.2465,
-        "y": -45.8531
+        "x": -11.5756,
+        "y": 81.3611
       }
     }
   ]

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - dynamical system",
+  "tag": "dynamical systems",
   "nodes": [
     {
       "text": "dynamical system",
@@ -16,7 +17,7 @@
     },
     {
       "text": "N-body simulation  ️",
-      "url": "/mathematics/dynamical-system/n-body-simulation",
+      "url": "https://my.mindnode.com/pmssZyeZermyjuwaBFafzHsqKsUizaFxwstujxyC",
       "fx": -298.5713408252327,
       "fy": 93.66883284491746,
       "category": "mindmap"
@@ -29,7 +30,7 @@
     },
     {
       "text": "Simulink  ️",
-      "url": "/mathematics/dynamical-system/simulink",
+      "url": "https://my.mindnode.com/8zqt8vXx4Zqjgvxu7BypkCnWz9NwxpMSYjxub6cG",
       "fx": 254.89737090941935,
       "fy": 187.89131923303273,
       "category": "mindmap"

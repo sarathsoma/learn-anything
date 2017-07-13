@@ -1,5 +1,6 @@
 {
   "title": "learn anything - security - information security",
+  "tag": "",
   "nodes": [
     {
       "text": "information security",
@@ -17,21 +18,21 @@
     },
     {
       "text": "network security  ️",
-      "url": "/security/information-security/network-security",
+      "url": "https://my.mindnode.com/yEDQPFZjUX7Rn1y1Vy1KppoutF6ybp7eP6mqdUVy",
       "fx": -400.1319141421386,
       "fy": -100.5352515811843,
       "category": "mindmap"
     },
     {
       "text": "sanitisation  ️",
-      "url": "/security/information-security/sanitisation",
+      "url": "https://my.mindnode.com/9hD7HBqdJ8HVVTzjnMyysbbP1Dwpq68dj32pUyfo",
       "fx": -588.3249707819804,
       "fy": -99.84768557869381,
       "category": "mindmap"
     },
     {
       "text": "computer security  ️",
-      "url": "/security/information-security/cybersecurity",
+      "url": "https://my.mindnode.com/HstinnJz9VyxRxHsr3sAQzCWPuFXqLYBMzkX5AoM",
       "fx": -159.1784383817319,
       "fy": -99.10377654132151,
       "category": "mindmap"

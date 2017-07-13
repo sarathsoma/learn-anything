@@ -1,5 +1,6 @@
 {
   "title": "learn anything - machine learning - neural networks",
+  "tag": "",
   "nodes": [
     {
       "text": "neural networks",
@@ -35,70 +36,70 @@
     },
     {
       "text": "long short term memory  ️",
-      "url": "/machine-learning/neural-networks/long-short-term-memory",
+      "url": "https://my.mindnode.com/52gwTZrqaRUT3YsdWbJpy1o3jzwEgHpmmjFfaS4y",
       "fx": -822.2489922273041,
       "fy": 252.36951694313223,
       "category": "mindmap"
     },
     {
       "text": "biases  ️",
-      "url": "/machine-learning/neural-networks/biases",
+      "url": "https://my.mindnode.com/GuaqvCZceVUsmkLosKWaVNkqUucqp9gp3jUqJ6qE",
       "fx": -695.2887516285381,
       "fy": 338.4923505455024,
       "category": "mindmap"
     },
     {
       "text": "activation functions  ️",
-      "url": "/machine-learning/neural-networks/activation-functions",
+      "url": "https://my.mindnode.com/FEoVZ2JYmzqA8psYXySWNrSstzX7zw2CrsHJszAZ",
       "fx": -758.0496578839883,
       "fy": 413.48913836367853,
       "category": "mindmap"
     },
     {
       "text": "generative adversarial networks  ️",
-      "url": "/machine-learning/neural-networks/generative-adversarial-networks",
+      "url": "https://my.mindnode.com/syi7FzRwkccqfD2NBvRzC4zq8zmwCpXHqjVDuz5n",
       "fx": -804.050176832411,
       "fy": 481.0388199336944,
       "category": "mindmap"
     },
     {
       "text": "feedforward neural network  ️",
-      "url": "/machine-learning/neural-networks/feedforward-neural-network",
+      "url": "https://my.mindnode.com/DyxkixakRgg1e5FqrsztyM9gD31pZ6yQWE8pEupn",
       "fx": -686.8180296156141,
       "fy": 578.1284348018585,
       "category": "mindmap"
     },
     {
       "text": "dropout  ️",
-      "url": "/machine-learning/neural-networks/dropout",
+      "url": "https://my.mindnode.com/jkPEz39Sv2gNL1bbeqdvx6DMsH8tLcVPwmyVAzSd",
       "fx": 208.20292251829073,
       "fy": 624.8243096972269,
       "category": "mindmap"
     },
     {
       "text": "convolutional neural networks  ️",
-      "url": "/machine-learning/neural-networks/convolutional-neural-networks",
+      "url": "https://my.mindnode.com/88ngrfYXYvJvtjsrUk6yEB1wwkKHexABji2z6sjn",
       "fx": -551.9335119459364,
       "fy": 675.225106859964,
       "category": "mindmap"
     },
     {
       "text": "relation networks  ️",
-      "url": "/machine-learning/neural-networks/relation-networks",
+      "url": "https://my.mindnode.com/zKxyk4hpVA2NzhpoatKS6q4Dzqq3w6UboRxwcsyz",
       "fx": 124.06096268374313,
       "fy": 712.2847409896168,
       "category": "mindmap"
     },
     {
       "text": "backpropagation  ️",
-      "url": "/machine-learning/neural-networks/backpropagation",
+      "url": "https://my.mindnode.com/sB4DzqysqpDpgWyBce7u2qd8YYp2z13bMVSb2Dx9",
       "fx": -14.694883740137811,
       "fy": 790.7287210131449,
       "category": "mindmap"
     },
     {
       "text": "recurrent neural networks  ️",
-      "url": "/machine-learning/neural-networks/recurrent-neural-networks",
+      "url": "https://my.mindnode.com/s6VnQhjrxqFwmXDqvnpZa3sKuornySRcqgJwLSeJ",
       "fx": -343.8448537947643,
       "fy": 807.4484628344339,
       "category": "mindmap"

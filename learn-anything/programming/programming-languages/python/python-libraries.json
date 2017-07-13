@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - programming languages - python - python libraries",
+  "tag": "",
   "nodes": [
     {
       "text": "python libraries",
@@ -23,7 +24,7 @@
     {
       "text": "numpy  ️",
       "note": "python package for scientific computing  contains  a powerful N-dimensional array object  sophisticated (broadcasting) functions  useful linear algebra, Fourier transform or random number capabilities",
-      "url": "/programming/programming-languages/python/python-libraries/numpy",
+      "url": "https://my.mindnode.com/buGeFf4ms9LDv1ypqL5gXX8UzvbnxjjxMqEct7fp",
       "fx": 122.53345184560453,
       "fy": 49.69938846664866,
       "category": "mindmap"
@@ -72,21 +73,21 @@
     },
     {
       "text": "flask  ️",
-      "url": "/programming/programming-languages/python/python-libraries/flask",
+      "url": "https://my.mindnode.com/5Nw5QGrzySmMTUg28CtuBdMseu1PqnzUCRnMMAA7",
       "fx": -569.3064480792013,
       "fy": 294.47332059927294,
       "category": "mindmap"
     },
     {
       "text": "django  ️",
-      "url": "/web-development/full-stack/django",
+      "url": "https://my.mindnode.com/K5WJhHspfaaezNNbNRZYxWGEoofFqnQVTa3ZcxEz",
       "fx": -452.7706029165229,
       "fy": 348.7671260083358,
       "category": "mindmap"
     },
     {
       "text": "SQLAlchemy  ️",
-      "url": "/programming/programming-languages/python/python-libraries/sqlalchemy",
+      "url": "https://my.mindnode.com/DjGypZc6jGFYTxkMHXK6gBsgzXLvsEJtwsJjXzkw",
       "fx": -6.188097735646579,
       "fy": 358.7872069920761,
       "category": "mindmap"

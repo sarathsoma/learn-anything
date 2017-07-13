@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - computation - theory of computation",
+  "tag": "",
   "nodes": [
     {
       "text": "theory of computation",
@@ -18,14 +19,14 @@
     {
       "text": "computational complexity theory  ️",
       "note": "focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other  a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved mechanical application of mathematical steps, such as an algorithm  one of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do",
-      "url": "/computer-science/computation/theory-of-computation/computational-complexity-theory",
+      "url": "https://my.mindnode.com/HhbXPapV6af2Kb8dB5xDLJoLahCpKsuCWzucVrk7",
       "fx": -101.70291682993582,
       "fy": 148.54437389792315,
       "category": "mindmap"
     },
     {
       "text": "computability theory  ️",
-      "url": "/mathematics/computability-theory",
+      "url": "https://my.mindnode.com/SnqXfwJjzbc3Vs5F1tUayBG5RhDxxwTadc3Y6At5",
       "fx": -420.6143367428396,
       "fy": 174.06773399014787,
       "category": "mindmap"

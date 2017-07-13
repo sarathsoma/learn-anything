@@ -1,5 +1,6 @@
 {
   "title": "learn anything - machine learning - deep learning",
+  "tag": "",
   "nodes": [
     {
       "text": "deep learning",
@@ -22,7 +23,7 @@
     },
     {
       "text": "AlphaGo  ️",
-      "url": "/machine-learning/deep-learning/alphago",
+      "url": "https://my.mindnode.com/3bJnF3jaqaqyBKDTD5jw8DbBne2PfatQzhjAVsLM",
       "fx": -774.5327576754387,
       "fy": -459.98122258771923,
       "category": "mindmap"
@@ -35,7 +36,7 @@
     },
     {
       "text": "autonomous driving  ️",
-      "url": "/machine-learning/deep-learning/autonomous-driving",
+      "url": "https://my.mindnode.com/MhFEcBDGRppiZxghusrGbqpKbxVTiqMsvy5VDsyg",
       "fx": -708.8905214241751,
       "fy": -327.8245351936067,
       "category": "mindmap"
@@ -55,7 +56,7 @@
     },
     {
       "text": "transfer learning  ️",
-      "url": "/machine-learning/deep-learning/transfer-learning",
+      "url": "https://my.mindnode.com/MCHDmzzox8fx9vsK46fUuUZfqHsnofzqYrxXsfyr",
       "fx": -508.9579417293239,
       "fy": 132.843998015873,
       "category": "mindmap"

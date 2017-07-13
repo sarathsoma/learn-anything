@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - linear algebra",
+  "tag": "",
   "nodes": [
     {
       "text": "linear algebra",
@@ -23,28 +24,28 @@
     },
     {
       "text": "matrices  ️",
-      "url": "/mathematics/linear-algebra/matrices",
+      "url": "https://my.mindnode.com/mY7Cx9QHHSdw71hkeJoeLCsojwRLMAHMA3y49UU6",
       "fx": -186.89954566955566,
       "fy": 342.7462158203125,
       "category": "mindmap"
     },
     {
       "text": "Gaussian elimination  ️",
-      "url": "/mathematics/linear-algebra/gaussian-elimination",
+      "url": "https://my.mindnode.com/fgzMe7zWaUMyggLsTBaaHLXnAe2EyXxYotyxYSbx",
       "fx": -469.01683807373047,
       "fy": 346.7969284057617,
       "category": "mindmap"
     },
     {
       "text": "vectors  ️",
-      "url": "/mathematics/linear-algebra/vectors",
+      "url": "https://my.mindnode.com/6Gg75iLp5NzyC9FQYF81rwVi4uBqzqip8cxicFUp",
       "fx": -620.1382751464844,
       "fy": 348.6736068725586,
       "category": "mindmap"
     },
     {
       "text": "eigenvectors and eigenvalues  ️",
-      "url": "/mathematics/linear-algebra/eigenvectors",
+      "url": "https://my.mindnode.com/W7TqDzCZ3zHBnpSUmN7sYzhgNGkjqaqzB6jXzhBh",
       "fx": -23.76779556274414,
       "fy": 342.26805114746094,
       "category": "mindmap"

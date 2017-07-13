@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - software development - devops - cloud computing - aws",
+  "tag": "amazon web services",
   "nodes": [
     {
       "text": "aws",
@@ -23,7 +24,7 @@
     },
     {
       "text": "aws lambda  ️",
-      "url": "/programming/software-development/devops/cloud-computing/aws/aws-lambda",
+      "url": "https://my.mindnode.com/5QMbiUAfbJDz9Pww353FReaeDUDNiSUxJZNGEyxp",
       "fx": -195.22408992686155,
       "fy": 328.11759266954766,
       "category": "mindmap"

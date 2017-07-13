@@ -1,5 +1,6 @@
 {
   "title": "learn anything - network science - computer networking - protocols",
+  "tag": "networking protocols",
   "nodes": [
     {
       "text": "protocols",
@@ -11,84 +12,84 @@
     },
     {
       "text": "MQTT  ️",
-      "url": "/network-science/computer-networking/protocols/mqtt",
+      "url": "https://my.mindnode.com/45vkWwTbpU4UGWsYPxcNjZp5iEMzqv8iw98NRxHa",
       "fx": -417.0270577428644,
       "fy": -251.6650412463972,
       "category": "mindmap"
     },
     {
       "text": "tcp/ip  ️",
-      "url": "/network-science/computer-networking/protocols/tcp-ip",
+      "url": "https://my.mindnode.com/Kb1RSvayp4zmx2SHDoaaxvGrB42Y5w3jByzne1FM",
       "fx": -274.75141358196515,
       "fy": -251.1240740395537,
       "category": "mindmap"
     },
     {
       "text": "irc  ️",
-      "url": "/network-science/computer-networking/protocols/irc",
+      "url": "https://my.mindnode.com/NeYN9axaEYrpQLMYiqHjaRbCwqsm4BqA7d8zPc1n",
       "fx": -30.393035652223716,
       "fy": -250.0376739817217,
       "category": "mindmap"
     },
     {
       "text": "BitTorrent  ️",
-      "url": "/network-science/computer-networking/protocols/bittorrent",
+      "url": "https://my.mindnode.com/MRgKxhCJLmC752mZn5NY3tAsqw5gzxzt1D5npy59",
       "fx": -595.7239141949153,
       "fy": -249.34383275953388,
       "category": "mindmap"
     },
     {
       "text": "http  ️",
-      "url": "/network-science/computer-networking/protocols/http",
+      "url": "https://my.mindnode.com/g22pTF3asibAhgqgqxyxFwzgrdy6b5iPYsVDcTxf",
       "fx": -142.80126236431056,
       "fy": -246.05196556188173,
       "category": "mindmap"
     },
     {
       "text": "ssh  ️",
-      "url": "/network-science/computer-networking/protocols/ssh",
+      "url": "https://my.mindnode.com/SHh7NGCfxiqTS63Spf93pSpZ34o8mrveVHsGFQLg",
       "fx": 74.49513966584004,
       "fy": -244.93049422965555,
       "category": "mindmap"
     },
     {
       "text": "WebSocket  ️",
-      "url": "/network-science/computer-networking/protocols/websocket",
+      "url": "https://my.mindnode.com/aTjvT4XmpogsHt4zDqWpbZh2EYAZ9JMT4fz4xMh5",
       "fx": 181.525634765625,
       "fy": -241.7728271484375,
       "category": "mindmap"
     },
     {
       "text": "IPFS  ️",
-      "url": "/network-science/computer-networking/protocols/ipfs",
+      "url": "https://my.mindnode.com/wppXqMkJqznwmiNfyzsvyaVqheYz7vPDxRmyQHyq",
       "fx": 361.64825439453125,
       "fy": -240.02977752685547,
       "category": "mindmap"
     },
     {
       "text": "WebRTC  ️",
-      "url": "/network-science/computer-networking/protocols/webrtc",
+      "url": "https://my.mindnode.com/2b4HbUnfLDv1arrAuyFsk9Bqx1MmCbFVf8FY3U1p",
       "fx": 479.7574234008789,
       "fy": -236.1245574951172,
       "category": "mindmap"
     },
     {
       "text": "AMQP  ️",
-      "url": "/network-science/computer-networking/protocols/amqp",
+      "url": "https://my.mindnode.com/Yaiens48cknx2maSia3BRAzRRT6DjDqenTczqczF",
       "fx": 757.1203078772205,
       "fy": -232.66193602070996,
       "category": "mindmap"
     },
     {
       "text": "TLS  ️",
-      "url": "/network-science/computer-networking/protocols/tls",
+      "url": "https://my.mindnode.com/jPxVBXKN2dtxLyady3g3uiam6W4NvJgtjLBEyVRi",
       "fx": 637.8561096191406,
       "fy": -232.39275360107422,
       "category": "mindmap"
     },
     {
       "text": "RADIUS  ️",
-      "url": "/network-science/computer-networking/protocols/radius",
+      "url": "https://my.mindnode.com/Zzo61w8CnFxwVx6Esqu2j65jqKKATDxSHJqi1qkf",
       "fx": 893.9562853294442,
       "fy": -227.23994214804827,
       "category": "mindmap"

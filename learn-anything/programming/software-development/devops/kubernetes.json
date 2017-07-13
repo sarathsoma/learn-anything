@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - software development - devops - kubernetes",
+  "tag": "",
   "nodes": [
     {
       "text": "kubernetes",
@@ -29,7 +30,7 @@
     },
     {
       "text": "openshift  ️",
-      "url": "/programming/software-development/devops/kubernetes/openshift",
+      "url": "https://my.mindnode.com/tsg8CJDALgBMGjguSTy4W83hMKbZxuFxxD63SNHX",
       "fx": -291.79129142651266,
       "fy": 246.32528818443802,
       "category": "mindmap"

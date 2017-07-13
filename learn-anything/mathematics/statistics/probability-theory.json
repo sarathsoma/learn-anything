@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - statistics - probability theory",
+  "tag": "probabiliy theory",
   "nodes": [
     {
       "text": "probability theory",
@@ -17,7 +18,7 @@
     },
     {
       "text": "probability distributions  ️",
-      "url": "/mathematics/statistics/probability-theory/distributions",
+      "url": "https://my.mindnode.com/zme7cJKFpqjzapGfVmvAQxKn8zE5xoXTyCfssHqp",
       "fx": -242.517070660405,
       "fy": 79.18478810639533,
       "category": "mindmap"
@@ -32,21 +33,21 @@
     {
       "text": "markov chains  ️",
       "note": "are stochastic processes that satisfy the Markov property (sometimes characterised as ‘memorylessness’)  a process satisfies the Markov property if one can make predictions for the future of the process based solely on its present state just as well as one could knowing the process’s full history, hence independently from such history (i.e. conditional on the present state of the system, its future and paste states are independent)  a Markov chain is a type of Markov process that has either discrete state space or discrete index set (often representing time), but the precise definition of a Markov chain varies",
-      "url": "/mathematics/statistics/probability-theory/markov-chains",
+      "url": "https://my.mindnode.com/1NpiefgrirDdunaD1stiWpyX3bcQbGMKP79hosmN",
       "fx": 51.847304043704526,
       "fy": 80.81032321877683,
       "category": "mindmap"
     },
     {
       "text": "conditional probability  ️",
-      "url": "/mathematics/statistics/probability-theory/conditional-probability",
+      "url": "https://my.mindnode.com/UtaFiiR4M24aWKTfjoX6SDhfsgQ9BeopaGQd87xj",
       "fx": -756.2307586669922,
       "fy": 82.46343231201172,
       "category": "mindmap"
     },
     {
       "text": "expected value  ️",
-      "url": "/mathematics/statistics/probability-theory/expected-value",
+      "url": "https://my.mindnode.com/BY6ZsiKtLZRTets2gBakqPVMW1DWfyMCuRzU7qLN",
       "fx": -968.3375946969668,
       "fy": 87.93832859841825,
       "category": "mindmap"

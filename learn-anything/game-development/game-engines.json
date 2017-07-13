@@ -1,5 +1,6 @@
 {
   "title": "learn anything - game development - game engines",
+  "tag": "",
   "nodes": [
     {
       "text": "game engines",
@@ -10,7 +11,7 @@
     },
     {
       "text": "unreal engine  ️",
-      "url": "/game-development/game-engines/unreal-engine",
+      "url": "https://my.mindnode.com/yRZNc3qGqiHGa4j1PQFP2MbwukvassARw1xfWyXx",
       "fx": 89.06255340576172,
       "fy": -44.27727127075195,
       "category": "mindmap"
@@ -18,7 +19,7 @@
     {
       "text": "LÖVE  ️",
       "note": "framework in Lua to make 2D games",
-      "url": "/game-development/game-engines/love",
+      "url": "https://my.mindnode.com/gKQdRD1VLLAi1etGdsKnhtXsW4WX8y6HQUQBx6eN",
       "fx": -346.3064753214518,
       "fy": -44.21203279495239,
       "category": "mindmap"
@@ -26,7 +27,7 @@
     {
       "text": "godot  ️",
       "note": "provides a huge set of common tools to create multi-platform 2D and 3D games",
-      "url": "/game-development/game-engines/godot",
+      "url": "https://my.mindnode.com/9J1fJTLMtBohP398Zs1axCyQf7v4nFyoMTWuG9P5",
       "fx": -65.88006782531738,
       "fy": -43.075279235839844,
       "category": "mindmap"
@@ -39,7 +40,7 @@
     },
     {
       "text": "unity  ️",
-      "url": "/game-development/game-engines/unity",
+      "url": "https://my.mindnode.com/e6eGCsYMysgfLWp32sC94KKjriUy5UNmBJXJGoox",
       "fx": -184.6782324049209,
       "fy": -42.626130421956304,
       "category": "mindmap"

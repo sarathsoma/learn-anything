@@ -1,5 +1,6 @@
 {
   "title": "learn anything - security - information security - cybersecurity",
+  "tag": "",
   "nodes": [
     {
       "text": "cybersecurity",
@@ -36,7 +37,7 @@
     },
     {
       "text": "fuzz testing  ️",
-      "url": "/security/information-security/cybersecurity/fuzz-testing",
+      "url": "https://my.mindnode.com/NzoKdzx1xMnJnNNwuKSFfMDC9GdvhsexN5CjwP5r",
       "fx": 1.626905955156417,
       "fy": -93.5224826235443,
       "category": "mindmap"
@@ -50,7 +51,7 @@
     },
     {
       "text": "buffer overflow  ️",
-      "url": "/security/information-security/cybersecurity/buffer-overflow",
+      "url": "https://my.mindnode.com/DrSpt11xhuzrYHJ3akpsqfGY9jCopsEck6MsnzXr",
       "fx": 273.3186659192827,
       "fy": -18.565512892376773,
       "category": "mindmap"
@@ -58,21 +59,21 @@
     {
       "text": "malware  ️",
       "note": "short for malicious software  is a kind of software that can be installed on a computer without approval from the computer’s owner",
-      "url": "/security/information-security/cybersecurity/malware",
+      "url": "https://my.mindnode.com/8nHyya1okQ4w1tPfVTsxBquHA9fR3CAW4GXf4zfs",
       "fx": -97.14820530501731,
       "fy": 0.5112206090732343,
       "category": "mindmap"
     },
     {
       "text": "man-in-the-middle attack  ️",
-      "url": "/security/information-security/cybersecurity/man-in-the-middle-attack",
+      "url": "https://my.mindnode.com/sZWmfgHEAqpryv7t6s5syvgroxsxZFUqjqWxb64t",
       "fx": -685.9921875000111,
       "fy": 97.83984374996373,
       "category": "mindmap"
     },
     {
       "text": "distributed denial of service  ️",
-      "url": "/security/information-security/cybersecurity/ddos",
+      "url": "https://my.mindnode.com/FsKNKu3bwEvQxWtEFX1r8eX9pq8hdSrhpqmcitco",
       "fx": -356.5230829834625,
       "fy": 110.35168392952346,
       "category": "mindmap"

@@ -1,11 +1,12 @@
 {
   "title": "learn anything - design - graphic design - sketch",
+  "tag": "sketch app",
   "nodes": [
     {
       "text": "sketch",
       "url": "https://www.sketchapp.com/",
-      "fx": -91.96400803786048,
-      "fy": -348.39246544471155
+      "fx": -90.48252655637896,
+      "fy": -365.3889932224893
     },
     {
       "text": "tools",
@@ -41,10 +42,19 @@
   ],
   "subnodes": [
     {
+      "text": "",
+      "url": "https://www.reddit.com/r/sketchapp/",
+      "fx": 67.51747344362104,
+      "fy": -373.8889932224893,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "sketch"
+    },
+    {
       "text": "awesome",
       "url": "https://github.com/diessica/awesome-sketch",
-      "fx": 66.03599196213952,
-      "fy": -336.89246544471155,
+      "fx": 67.51747344362104,
+      "fy": -333.8889932224893,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "sketch"
@@ -99,8 +109,8 @@
       "source": "sketch",
       "target": "basics",
       "curve": {
-        "x": -51.7132,
-        "y": 128.672
+        "x": -52.4539,
+        "y": 137.17
       }
     },
     {
@@ -123,8 +133,8 @@
       "source": "tools",
       "target": "sketch",
       "curve": {
-        "x": -72.6322,
-        "y": -46.0792
+        "x": -71.8915,
+        "y": -54.5775
       }
     },
     {

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - virtual reality",
+  "tag": "",
   "nodes": [
     {
       "text": "virtual reality",
@@ -29,14 +30,14 @@
     },
     {
       "text": "unity  ️",
-      "url": "/game-development/game-engines/unity",
+      "url": "https://my.mindnode.com/e6eGCsYMysgfLWp32sC94KKjriUy5UNmBJXJGoox",
       "fx": 64.28599559583768,
       "fy": 323.180085708276,
       "category": "mindmap"
     },
     {
       "text": "A-Frame  ️",
-      "url": "/virtual-reality/aframe",
+      "url": "https://my.mindnode.com/CWsQJ418QKxqEztQEYyozPWHiqxEK9JnZBgdSbpz",
       "fx": -96.09833969530212,
       "fy": 324.9092393005904,
       "category": "mindmap"

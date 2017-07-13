@@ -1,5 +1,6 @@
 {
   "title": "learn anything - databases",
+  "tag": "",
   "nodes": [
     {
       "text": "databases",
@@ -17,28 +18,28 @@
     },
     {
       "text": "distributed databases  ️",
-      "url": "/databases/distributed-databases",
+      "url": "https://my.mindnode.com/mH5k8YTTF9mL1wmMYqr44pzAwPZWbwv4Mosqq2F6",
       "fx": -692.8006359405884,
       "fy": 41.511917284780566,
       "category": "mindmap"
     },
     {
       "text": "relational databases  ️",
-      "url": "/databases/relational-databases",
+      "url": "https://my.mindnode.com/y48JgLrYtbyNrsKyRze4WHzhYVrGZks9N9pvsekp",
       "fx": -404.2229881286621,
       "fy": 42.566781997680664,
       "category": "mindmap"
     },
     {
       "text": "noSQL databases  ️",
-      "url": "/databases/nosql-databases",
+      "url": "https://my.mindnode.com/mLEApxUMnfyeMpB7WzzkUdUNAweVk9WWJZpXgsh6",
       "fx": -146.53618621826172,
       "fy": 42.56679153442383,
       "category": "mindmap"
     },
     {
       "text": "time series database  ️",
-      "url": "/databases/time-series-databases",
+      "url": "https://my.mindnode.com/2MSAaYJ2x3CT9sXdNWJV8hupqHhykRxy3MAVikaZ",
       "fx": -969.2688419117649,
       "fy": 43.272649684873954,
       "category": "mindmap"
@@ -52,7 +53,7 @@
     },
     {
       "text": "graph databases  ️",
-      "url": "/databases/graph-databases",
+      "url": "https://my.mindnode.com/kAMXBibSaps4PdfxkB4jBoYBxWBfMbk1eYEzo6Cz",
       "fx": 337.3810663926288,
       "fy": 45.590967695758195,
       "category": "mindmap"

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - logic - proof theory",
+  "tag": "",
   "nodes": [
     {
       "text": "proof theory",
@@ -16,7 +17,7 @@
     },
     {
       "text": "Curry-Howard correspondence  ️",
-      "url": "/mathematics/logic/proof-theory/curry-howard-correspondence",
+      "url": "https://my.mindnode.com/rn86HoyXnAxwaySGe8ekiKdFJzQ5gB75DUhMgecx",
       "fx": -372.0481333892617,
       "fy": -28.99748322147468,
       "category": "mindmap"

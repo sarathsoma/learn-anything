@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - query languages - graphql",
+  "tag": "graphQL",
   "nodes": [
     {
       "text": "GraphQL",
@@ -9,28 +10,22 @@
       "fy": -208.0703125
     },
     {
-      "text": "help",
-      "url": "",
-      "fx": -14.950095521079106,
-      "fy": -118.41815630594891
-    },
-    {
       "text": "articles",
       "url": "",
-      "fx": 35.06473907943837,
-      "fy": -15.757598773453651
+      "fx": 15.837992032194506,
+      "fy": -98.83923017109151
     },
     {
       "text": "tools",
       "url": "",
-      "fx": 121.82182693481445,
-      "fy": 62.624794006347656
+      "fx": 145.86833284032616,
+      "fy": 21.003238888237433
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -91.39522653983636,
-      "fy": 161.44992051517795
+      "fx": -97.00392486660803,
+      "fy": 166.7694948262016
     }
   ],
   "subnodes": [
@@ -44,29 +39,29 @@
       "parent": "GraphQL"
     },
     {
-      "text": "apollo",
-      "note": "open source tools for GraphQL",
-      "url": "https://github.com/apollographql/apollo",
-      "fx": 122.0499044789209,
-      "fy": -106.91815630594891,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "17: is graphQL the next frontier for web apis?  ️",
       "url": "https://brandur.org/api-paradigms",
-      "fx": 197.06473907943837,
-      "fy": -15.257598773453651,
+      "fx": 177.8379920321945,
+      "fy": -98.33923017109151,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "apollo",
+      "note": "open source tools for GraphQL",
+      "url": "https://github.com/apollographql/apollo",
+      "fx": 287.86833284032616,
+      "fy": 12.503238888237433,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "tools"
+    },
+    {
       "text": "graphQL IDE",
       "url": "https://github.com/redound/graphql-ide",
-      "fx": 263.82182693481445,
-      "fy": 74.12479400634766,
+      "fx": 287.86833284032616,
+      "fy": 52.50323888823743,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "tools"
@@ -74,52 +69,52 @@
     {
       "text": "1. introduction to GraphQL",
       "url": "https://learngraphql.com/basics/introduction",
-      "fx": 64.60477346016364,
-      "fy": 155.94992051517795,
+      "fx": 58.99607513339197,
+      "fy": 144.2694948262016,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. GraphQL - getting started  ️",
       "url": "https://www.getboost.io/posts/graphql-tutorial-getting-started",
-      "fx": 64.60477346016364,
-      "fy": 189.94992051517795,
+      "fx": 58.99607513339197,
+      "fy": 178.2694948262016,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. how to GraphQL",
+      "url": "https://www.howtographql.com/",
+      "fx": 58.99607513339197,
+      "fy": 218.2694948262016,
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "GraphQL",
-      "curve": {
-        "x": -39.1305,
-        "y": -44.8261
-      }
-    },
-    {
-      "source": "articles",
-      "target": "help",
-      "curve": {
-        "x": -31.2574,
-        "y": -51.3302
-      }
-    },
-    {
       "source": "tools",
       "target": "articles",
       "curve": {
-        "x": -38.3785,
-        "y": -39.1912
+        "x": -60.0151,
+        "y": -59.9212
       }
     },
     {
       "source": "GraphQL",
       "target": "basics",
       "curve": {
-        "x": -0.842145,
-        "y": 184.76
+        "x": -3.64649,
+        "y": 187.42
+      }
+    },
+    {
+      "source": "articles",
+      "target": "GraphQL",
+      "curve": {
+        "x": -54.2745,
+        "y": -54.6155
       }
     }
   ]

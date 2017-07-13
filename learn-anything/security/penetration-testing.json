@@ -1,5 +1,6 @@
 {
   "title": "learn anything - security - penetration testing",
+  "tag": "",
   "nodes": [
     {
       "text": "penetration testing",
@@ -35,25 +36,25 @@
       "text": "",
       "url": "https://www.reddit.com/r/Pentesting/",
       "fx": 161.27734375,
-      "fy": -174.26171875,
+      "fy": -194.26171875,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "penetration testing"
     },
     {
-      "text": "awesome pentest",
+      "text": "awesome",
       "url": "https://github.com/enaqx/awesome-pentest",
-      "fx": 160.1681146621704,
-      "fy": -81.35546684265137,
+      "fx": 161.27734375,
+      "fy": -154.26171875,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "penetration testing"
     },
     {
       "text": "awesome hacking",
       "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
       "fx": 160.1681146621704,
-      "fy": -41.35546684265137,
+      "fy": -61.35546684265137,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - databases - nosql databases",
+  "tag": "noSQL databases",
   "nodes": [
     {
       "text": "noSQL databases",
@@ -11,35 +12,35 @@
     },
     {
       "text": "mongoDB  ️",
-      "url": "/databases/nosql-databases/mongodb",
+      "url": "https://my.mindnode.com/q2xktwYoqXPzUGxvqg6QQqk5MyATv8oy8nkCEsrh",
       "fx": -162.7247570782173,
       "fy": -49.275160549132806,
       "category": "mindmap"
     },
     {
       "text": "cassandra  ️",
-      "url": "/databases/nosql-databases/cassandra",
+      "url": "https://my.mindnode.com/Yg6yJKxfEVLwDVpBDXzj6KioR4LPpsjJrLJiHUjJ",
       "fx": 19.742781521847974,
       "fy": -47.83928339141545,
       "category": "mindmap"
     },
     {
       "text": "redis  ️",
-      "url": "/databases/nosql-databases/redis",
+      "url": "https://my.mindnode.com/Fb7dmtCvahWRF1LWybq5JqtPjHwBeF4mxoV7zLB5",
       "fx": -281.83635032467726,
       "fy": -47.780194995849115,
       "category": "mindmap"
     },
     {
       "text": "NewSQL  ️",
-      "url": "/databases/nosql-databases/newsql",
+      "url": "https://my.mindnode.com/rQQDNz1gFCUB16EUvh8oHLLHzLL9hTmyLFqKHk1d",
       "fx": 199.51634216308594,
       "fy": -45.72853946685791,
       "category": "mindmap"
     },
     {
       "text": "realm  ️",
-      "url": "/databases/nosql-databases/realm",
+      "url": "https://my.mindnode.com/SVxtpr4sCBWPZXJ9D3LyKzfJyNhNdcmHxzNyWy4e",
       "fx": 356.6612870065792,
       "fy": -42.70867598684208,
       "category": "mindmap"

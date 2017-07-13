@@ -1,49 +1,53 @@
 {
   "title": "learn anything - web development - front end - css - styled components",
+  "tag": "",
   "nodes": [
     {
       "text": "styled components",
       "url": "https://github.com/styled-components/styled-components",
-      "fx": -118.50000381469727,
-      "fy": -134.3077735900879,
+      "fx": -134.02477766338143,
+      "fy": -65.64001043219315,
       "category": "github"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 70.90387806139495,
-      "fy": -25.586674044006713
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -50.6679996997118,
-      "fy": 90.0150245867278
+      "fx": -67.20017486418544,
+      "fy": 105.2005714617278
     }
   ],
   "subnodes": [
     {
-      "text": "awesome styled components",
+      "text": "awesome",
       "url": "https://github.com/romellogood/awesome-styled-components",
-      "fx": 207.90387806139495,
-      "fy": -14.086674044006713,
+      "fx": 165.97522233661857,
+      "fy": -51.64001043219315,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "styled components"
     },
     {
       "text": "1. basics",
       "url": "https://www.styled-components.com/docs/basics#motivation",
-      "fx": 105.3320003002882,
-      "fy": 73.5150245867278,
+      "fx": 88.79982513581456,
+      "fy": 68.7005714617278,
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. 5 min intro to styled components  ️",
+      "url": "https://medium.freecodecamp.org/a-5-minute-intro-to-styled-components-41f40eb7cd55",
+      "fx": 88.79982513581456,
+      "fy": 102.7005714617278,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. styling react apps with styled components",
       "url": "https://www.youtube.com/watch?v=qu4U7lwZTRI",
-      "fx": 105.3320003002882,
-      "fy": 107.5150245867278,
+      "fx": 88.79982513581456,
+      "fy": 142.7005714617278,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -54,16 +58,8 @@
       "source": "styled components",
       "target": "basics",
       "curve": {
-        "x": -2.084,
-        "y": 110.911
-      }
-    },
-    {
-      "source": "help",
-      "target": "styled components",
-      "curve": {
-        "x": -53.9519,
-        "y": -53.1105
+        "x": -2.5877,
+        "y": 84.1699
       }
     }
   ]

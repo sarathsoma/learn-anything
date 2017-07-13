@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - algorithms - sorting",
+  "tag": "sorting algorithms",
   "nodes": [
     {
       "text": "sorting algorithms",
@@ -23,7 +24,7 @@
     },
     {
       "text": "quicksort  ️",
-      "url": "/computer-science/algorithms/sorting/quicksort",
+      "url": "https://my.mindnode.com/qon6ADWpbNd3eaysvGARLneYV5Mmnwyqbx2Nndrc",
       "fx": -2.5260245685658447,
       "fy": 52.06905515863218,
       "category": "mindmap"
@@ -37,21 +38,21 @@
     },
     {
       "text": "selection sort  ️",
-      "url": "/computer-science/algorithms/sorting/selection-sort",
+      "url": "https://my.mindnode.com/sEGYp5prquKGFcZvFmgeFcy8F4rxsyKjoU4Ga4ux",
       "fx": -418.78046158257376,
       "fy": 55.212944380733916,
       "category": "mindmap"
     },
     {
       "text": "merge sort  ️",
-      "url": "/computer-science/algorithms/sorting/merge-sort",
+      "url": "https://my.mindnode.com/EFfW1Kpxk7TpZxxnDya1SmqGwpW49uvawaqEbND6",
       "fx": -611.2068639457258,
       "fy": 58.703246922143194,
       "category": "mindmap"
     },
     {
       "text": "topological sort  ️",
-      "url": "/computer-science/algorithms/sorting/topological-sort",
+      "url": "https://my.mindnode.com/JmsxgZyQrzgZDsmPbPKCbNHEffLtj7NxWvWiyNyM",
       "fx": -834.1545438218391,
       "fy": 62.99510596264372,
       "category": "mindmap"

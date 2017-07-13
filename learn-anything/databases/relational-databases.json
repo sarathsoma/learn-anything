@@ -1,5 +1,6 @@
 {
   "title": "learn anything - databases - relational databases",
+  "tag": "",
   "nodes": [
     {
       "text": "relational databases",
@@ -24,14 +25,14 @@
     },
     {
       "text": "PostgreSQL  ️",
-      "url": "/databases/relational-databases/postgresql",
+      "url": "https://my.mindnode.com/QrSn9FP4n8QBgYq7VyyJdRzwmZdJq6tpKqsjvsi7",
       "fx": -266.78324127197266,
       "fy": -20.60106658935547,
       "category": "mindmap"
     },
     {
       "text": "MariaDB  ️",
-      "url": "/databases/relational-databases/mariadb",
+      "url": "https://my.mindnode.com/1nvNgqRhs3Ef6q1Zy2ZMiUttPx3bcyR2p86EL5g9",
       "fx": -78.99925148277941,
       "fy": -20.60091376722903,
       "category": "mindmap"
@@ -45,7 +46,7 @@
     },
     {
       "text": "MySQL  ️",
-      "url": "/databases/relational-databases/mysql",
+      "url": "https://my.mindnode.com/yVaG46dqLUEx9CqnxPg6Yxox9xAFPXTivv9eMr9M",
       "fx": 78.27120590209961,
       "fy": -17.228851318359375,
       "category": "mindmap"

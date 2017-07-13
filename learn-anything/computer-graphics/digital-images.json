@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer graphics - digital images",
+  "tag": "",
   "nodes": [
     {
       "text": "digital images",
@@ -10,7 +11,7 @@
     },
     {
       "text": "image processing  ️",
-      "url": "/computer-graphics/digital-images/image-processing",
+      "url": "https://my.mindnode.com/uvq9pE4kpwzLBYEvU5iuriwMZbeMpAD1gLebH2Jv",
       "fx": 178.04105777877703,
       "fy": -93.21543390287775,
       "category": "mindmap"
@@ -18,14 +19,14 @@
     {
       "text": "vector graphics  ️",
       "note": "",
-      "url": "/computer-graphics/digital-images/vector-graphics",
+      "url": "https://my.mindnode.com/F5VsCQKf3s2BjZgsKpWxpfW1TTVKeKRAxPsG2xX5",
       "fx": 415.52983330664983,
       "fy": -92.04461253199588,
       "category": "mindmap"
     },
     {
       "text": "raster graphics  ️",
-      "url": "/computer-graphics/digital-images/raster-graphics",
+      "url": "https://my.mindnode.com/fMCtrZUsXjC7TQzgbjQVzWBVkm5iTaz4SWpiELDe",
       "fx": 660.1320567094397,
       "fy": -88.62755296187254,
       "category": "mindmap"

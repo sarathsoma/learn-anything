@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - algorithms",
+  "tag": "",
   "nodes": [
     {
       "text": "algorithms",
@@ -29,7 +30,7 @@
     },
     {
       "text": "algorithm design  ️",
-      "url": "/computer-science/algorithms/algorithm-design",
+      "url": "https://my.mindnode.com/AiVsE6S17nKMCfHh6tNZzTxBbDCjwh1WmTz9zpdj",
       "fx": 130.35446617251523,
       "fy": 465.2264642161156,
       "category": "mindmap"
@@ -51,7 +52,7 @@
     {
       "text": "big O notation  ️",
       "note": "is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  the letter O is used because the growth rate of a function is also referred to as order of the function",
-      "url": "/computer-science/algorithms/big-O",
+      "url": "https://my.mindnode.com/wptdyX9aF7U63EaydGsif5s49ypXyCJ5qq2Gyduh",
       "fx": -147.4238977600712,
       "fy": 578.7264033749328,
       "category": "mindmap"
@@ -59,7 +60,7 @@
     {
       "text": "genetic  ️",
       "note": "genetic algorithm is a metaheuristic inspired by the process of natural selection  are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection",
-      "url": "/computer-science/algorithms/genetic-algorithms",
+      "url": "https://my.mindnode.com/eyXxva1VSE8WZvKJqNgF6tXMpRqt6KL44FsizaFF",
       "fx": -1375.1603294139684,
       "fy": 659.7009661899706,
       "category": "mindmap"
@@ -75,7 +76,7 @@
     {
       "text": "graphs  ️",
       "note": "a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects",
-      "url": "/computer-science/algorithms/graph",
+      "url": "https://my.mindnode.com/6oyRa3x6esxEtPgnb1igPuEqPxGbATcndS7xpEsZ",
       "fx": -879.1015930175781,
       "fy": 667.2896728515625,
       "category": "mindmap"
@@ -90,7 +91,7 @@
     {
       "text": "evolutionary  ️",
       "note": "uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection",
-      "url": "/computer-science/algorithms/evolutionary",
+      "url": "https://my.mindnode.com/bKbp6rpXsxeVC4xHPTTk1dKDJq1daANa2N1tsuQJ",
       "fx": -591.5450054862558,
       "fy": 682.0652222925099,
       "category": "mindmap"
@@ -98,7 +99,7 @@
     {
       "text": "searching  ️",
       "note": "search algorithm is an algorithm that retrieves information stored within some data structure  appropriate search algorithm often depends on the data structure being searched  searching also encompasses algorithms that query the data structure, such as the SQL SELECT command  they can be classified based on their mechanism of searching",
-      "url": "/computer-science/algorithms/search",
+      "url": "https://my.mindnode.com/AgnjCBHsB7xdQ61qP7Ncxp6FkaDkEXqartpjYqRY",
       "fx": -787.233077150359,
       "fy": 769.1595200557284,
       "category": "mindmap"
@@ -106,7 +107,7 @@
     {
       "text": "sorting  ️",
       "note": "sorting algorithm is an algorithm that puts elements of a list in a certain order  most used orders are numerical order and lexicographical order  efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  it is also often useful for canonicalising data and for producing human readable output",
-      "url": "/computer-science/algorithms/sorting",
+      "url": "https://my.mindnode.com/wfdPrx9rsUeUpwwspRgsM741LKciWLMeUev8ML1u",
       "fx": -421.10001649247874,
       "fy": 794.7859447289868,
       "category": "mindmap"

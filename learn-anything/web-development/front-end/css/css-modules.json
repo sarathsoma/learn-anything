@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - web development - front end - css - css modules",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "css modules",
+      "url": "https://github.com/css-modules/css-modules",
+      "fx": -91.015625,
+      "fy": -137.15234375,
+      "category": "github"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -51,
+      "fy": -2
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction  ️",
+      "url": "https://www.sitepoint.com/understanding-css-modules-methodology/",
+      "fx": 112,
+      "fy": 10.5,
+      "category": "article",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "css modules",
+      "target": "basics",
+      "curve": {
+        "x": -3.74219,
+        "y": 66.8262
+      }
+    }
+  ]
+}

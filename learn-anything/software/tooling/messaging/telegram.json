@@ -1,5 +1,6 @@
 {
   "title": "learn anything - software - tooling - messaging - telegram",
+  "tag": "telegram messenger",
   "nodes": [
     {
       "text": "telegram",
@@ -10,7 +11,7 @@
     },
     {
       "text": "bots  ️",
-      "url": "/software/bots",
+      "url": "https://my.mindnode.com/cEiDW9MbfjEwzmmE637yBJE7WgHSNtx7zSMsTmVv",
       "fx": -69.26171875,
       "fy": -191.484375,
       "category": "mindmap"

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - computability theory",
+  "tag": "",
   "nodes": [
     {
       "text": "computability theory",
@@ -17,14 +18,14 @@
     },
     {
       "text": "cellular automata  ️",
-      "url": "/mathematics/computability-theory/cellular-automata",
+      "url": "https://my.mindnode.com/1HwFH9xRqub42VjeSuUiz3RqPNX2dKrZS2R3bZyg",
       "fx": 55.989432410111704,
       "fy": 120.81749786571254,
       "category": "mindmap"
     },
     {
       "text": "turing completeness  ️",
-      "url": "/mathematics/computability-theory/turing-completeness",
+      "url": "https://my.mindnode.com/r4VyuLHXWMNdDp15a1SSLbwise4Rbbf89FTMrgMx",
       "fx": -207.45636929214186,
       "fy": 128.42933556198295,
       "category": "mindmap"

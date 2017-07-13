@@ -1,17 +1,18 @@
 {
   "title": "learn anything - software - tooling - productivity - alfred",
+  "tag": "alfred macOS launcher",
   "nodes": [
     {
       "text": "alfred",
       "url": "https://www.alfredapp.com/",
-      "fx": -146.9712604329684,
-      "fy": -365.4950749054513
+      "fx": -141.7993854329684,
+      "fy": -430.9638249054513
     },
     {
       "text": "help",
       "url": "",
-      "fx": -45.387633458487244,
-      "fy": -268.76478558750784
+      "fx": -63.024352208487244,
+      "fy": -282.14759808750784
     },
     {
       "text": "basics",
@@ -22,31 +23,25 @@
     },
     {
       "text": "workflows  ️",
-      "url": "/software/tooling/productivity/alfred/workflows",
-      "fx": -90.0367179366217,
-      "fy": -21.4588516772356,
+      "url": "https://my.mindnode.com/KRC43JvzgP3YDrzzeMvkSN4TRWpTJokcLqKz6BRs",
+      "fx": -84.9703116866217,
+      "fy": 3.1739608227644,
       "category": "mindmap"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 5.034624099731445,
-      "fy": 93.22013473510742
     },
     {
       "text": "libraries",
       "note": "- help you save time with creating new workflows",
       "url": "https://www.alfredforum.com/topic/10227-workflow-libraries-and-helpers/#comment-51636",
-      "fx": -144.91757321391958,
-      "fy": 305.48040731527885
+      "fx": -135.23007321391958,
+      "fy": 169.82806356527885
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/Alfred/",
-      "fx": 1.0287395670316073,
-      "fy": -370.9950749054513,
+      "fx": 6.200614567031607,
+      "fy": -436.4638249054513,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "alfred"
@@ -55,17 +50,42 @@
       "text": "powerpack",
       "note": "need power pack to create and use other people’s workflows   costs 19 £",
       "url": "https://www.alfredapp.com/powerpack/",
-      "fx": 1.0287395670316073,
-      "fy": -330.9950749054513,
+      "fx": 6.200614567031607,
+      "fy": -396.4638249054513,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "alfred"
     },
     {
+      "text": "alfred forum",
+      "note": "big community of alfred workflow creators and users willing to help you with any question  you can also post your workflow there and get feedback on it",
+      "url": "https://www.alfredforum.com/",
+      "fx": 73.97564779151276,
+      "fy": -312.64759808750784,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how to report problems with workflows",
+      "url": "https://www.alfredforum.com/topic/10224-reporting-problems-with-workflows/",
+      "fx": 269.97564779151276,
+      "fy": -323.64759808750784,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "alfred forum"
+    },
+    {
       "text": "script filter JSON format",
       "url": "https://www.alfredapp.com/help/workflows/inputs/script-filter/json/",
-      "fx": 91.61236654151276,
-      "fy": -254.26478558750784,
+      "fx": 73.97564779151276,
+      "fy": -267.64759808750784,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "how to use workflow / environment variables",
+      "url": "https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/",
+      "fx": 73.97564779151276,
+      "fy": -233.64759808750784,
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
@@ -78,36 +98,11 @@
       "parent": "basics"
     },
     {
-      "text": "alfred forum",
-      "note": "big community of alfred workflow creators and users willing to help you with any question  you can also post your workflow there and get feedback on it",
-      "url": "https://www.alfredforum.com/",
-      "fx": 142.03462409973145,
-      "fy": 79.72013473510742,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "how to report problems with workflows",
-      "url": "https://www.alfredforum.com/topic/10224-reporting-problems-with-workflows/",
-      "fx": 338.03462409973145,
-      "fy": 68.72013473510742,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "alfred forum"
-    },
-    {
-      "text": "how to use workflow / environment variables",
-      "url": "https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/",
-      "fx": 142.03462409973145,
-      "fy": 124.72013473510742,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
       "text": "alfred workflow",
       "note": "built in python  fully featured and most popular option of all",
       "url": "https://github.com/deanishe/alfred-workflow",
-      "fx": 48.08242678608042,
-      "fy": 256.98040731527885,
+      "fx": 57.76992678608042,
+      "fy": 121.32806356527885,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "libraries"
@@ -115,8 +110,8 @@
     {
       "text": "tutorial",
       "url": "http://www.deanishe.net/alfred-workflow/tutorial.html",
-      "fx": 296.0824267860804,
-      "fy": 259.98040731527885,
+      "fx": 305.7699267860804,
+      "fy": 124.32806356527885,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "alfred workflow"
     },
@@ -124,8 +119,8 @@
       "text": "awgo",
       "note": "built in go  written by same author as ‘alfred workflow’",
       "url": "https://gogs.deanishe.net/deanishe/awgo",
-      "fx": 48.08242678608042,
-      "fy": 296.98040731527885,
+      "fx": 57.76992678608042,
+      "fy": 161.32806356527885,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "libraries"
@@ -134,8 +129,8 @@
       "text": "go alfred",
       "note": "built in go",
       "url": "https://github.com/pascalw/go-alfred",
-      "fx": 48.08242678608042,
-      "fy": 336.98040731527885,
+      "fx": 57.76992678608042,
+      "fy": 201.32806356527885,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "libraries"
@@ -144,8 +139,8 @@
       "text": "go alfred by jason",
       "note": "built in go",
       "url": "https://github.com/jason0x43/go-alfred",
-      "fx": 48.08242678608042,
-      "fy": 376.98040731527885,
+      "fx": 57.76992678608042,
+      "fy": 241.32806356527885,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "libraries"
@@ -153,8 +148,8 @@
     {
       "text": "binary to build alfred workflow",
       "url": "https://github.com/jason0x43/go-alfred/tree/master/alfred",
-      "fx": 317.0824267860804,
-      "fy": 379.98040731527885,
+      "fx": 326.7699267860804,
+      "fy": 244.32806356527885,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "go alfred by jason"
     }
@@ -164,40 +159,32 @@
       "source": "basics",
       "target": "libraries",
       "curve": {
-        "x": -13.8419,
-        "y": 257.971
-      }
-    },
-    {
-      "source": "workflows  ️",
-      "target": "basics",
-      "curve": {
-        "x": -58.5767,
-        "y": -58.2993
+        "x": -8.99815,
+        "y": 190.145
       }
     },
     {
       "source": "alfred",
       "target": "basics",
       "curve": {
-        "x": -19.6095,
-        "y": 113.719
-      }
-    },
-    {
-      "source": "help",
-      "target": "workflows  ️",
-      "curve": {
-        "x": -34.2857,
-        "y": -57.3394
+        "x": -22.1954,
+        "y": 146.453
       }
     },
     {
       "source": "help",
       "target": "alfred",
       "curve": {
-        "x": -48.0418,
-        "y": -48.3651
+        "x": -36.6375,
+        "y": -74.4081
+      }
+    },
+    {
+      "source": "basics",
+      "target": "workflows  ️",
+      "curve": {
+        "x": 61.6099,
+        "y": 71.8656
       }
     }
   ]

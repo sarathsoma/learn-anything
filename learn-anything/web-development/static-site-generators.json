@@ -1,5 +1,6 @@
 {
   "title": "learn anything - web development - static site generators",
+  "tag": "",
   "nodes": [
     {
       "text": "static web pages",
@@ -17,7 +18,7 @@
     },
     {
       "text": "hugo  ️",
-      "url": "/web-development/static-site-generators/hugo",
+      "url": "https://my.mindnode.com/3YcyuNsJfaGUijeszKyhi4e96xTTHQW3CpPTLwBm",
       "fx": -324.7534361489285,
       "fy": -75.11292244060382,
       "category": "mindmap"
@@ -31,7 +32,7 @@
     },
     {
       "text": "jekyll  ️",
-      "url": "/web-development/static-site-generators/jekyll",
+      "url": "https://my.mindnode.com/SJx6hSy2CxyynmUcikvsnHo5vHiicosaswyLoJTb",
       "fx": -173.88148206602602,
       "fy": -74.32266507998429,
       "category": "mindmap"

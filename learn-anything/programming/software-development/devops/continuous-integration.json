@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - software development - devops - continuous integration",
+  "tag": "",
   "nodes": [
     {
       "text": "continuous integration",
@@ -22,7 +23,7 @@
     },
     {
       "text": "jenkins  ️",
-      "url": "/programming/software-development/devops/continuous-integration/jenkins",
+      "url": "https://my.mindnode.com/ozgWcNjvvHHxbgB5DpY1WkVs5DEq3VLxqGmAkhfU",
       "fx": 22.3203125,
       "fy": -156.3046875,
       "category": "mindmap"
@@ -42,7 +43,7 @@
     },
     {
       "text": "travis  ️",
-      "url": "/programming/software-development/devops/continuous-integration/travis",
+      "url": "https://my.mindnode.com/HhD9CVU7znbCkVGqgZy39TTrwyV44gvL1t83ZyYS",
       "fx": -107.54449052077052,
       "fy": -154.91722512703677,
       "category": "mindmap"

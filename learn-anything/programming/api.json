@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - api",
+  "tag": "application programming interfaces",
   "nodes": [
     {
       "text": "application programming interface",
@@ -17,7 +18,7 @@
     },
     {
       "text": "REST  ️",
-      "url": "/programming/api/rest",
+      "url": "https://my.mindnode.com/CxhN1EgADw4skCLWkwWefCXRosAhhJAnuwjBwyno",
       "fx": -204.5934115303071,
       "fy": -35.51726737445841,
       "category": "mindmap"

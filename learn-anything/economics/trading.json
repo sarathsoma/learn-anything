@@ -1,5 +1,6 @@
 {
   "title": "learn anything - economics - trading",
+  "tag": "",
   "nodes": [
     {
       "text": "trading",
@@ -10,20 +11,21 @@
     },
     {
       "text": "stock exchange  ️",
-      "url": "/economics/trading/stock-exchange",
+      "url": "https://my.mindnode.com/Yud1TyctRUkLxj6PDuyqef1TqtfH5zVYzkZfsvYk",
       "fx": -27.891077995300293,
       "fy": 168.85818099975586,
       "category": "mindmap"
     },
     {
       "text": "quantitative trading  ️",
+      "url": "https://my.mindnode.com/EwzV1z5GJdUA4LAbqer9j31xiwRuB21YJhwTbext",
       "fx": -275.0249451754387,
       "fy": 170.73245614035085,
       "category": "mindmap"
     },
     {
       "text": "algorithmic trading  ️",
-      "url": "/economics/trading/algorithmic-trading-",
+      "url": "https://my.mindnode.com/k3o8KPGQYbXsotkx63pzXJaqHMYjmRs83HRs3zFT",
       "fx": 195.10251724510863,
       "fy": 172.21913073355694,
       "category": "mindmap"

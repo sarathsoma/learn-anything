@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - data structures - serialisation - json",
+  "tag": "JSON",
   "nodes": [
     {
       "text": "JSON",
@@ -23,7 +24,7 @@
     },
     {
       "text": "GeoJSON  ️",
-      "url": "/computer-science/data-structures/serialisation/json/geojson",
+      "url": "https://my.mindnode.com/GDJPDSmJRwSoyZ1Myx8RVZ3BZyVR4vou83cxcKJF",
       "fx": -157.60894731562064,
       "fy": 6.502328283841848,
       "category": "mindmap"

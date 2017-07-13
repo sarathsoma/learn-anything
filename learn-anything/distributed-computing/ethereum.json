@@ -1,5 +1,6 @@
 {
   "title": "learn anything - distributed computing - ethereum",
+  "tag": "",
   "nodes": [
     {
       "text": "ethereum",
@@ -29,7 +30,7 @@
     },
     {
       "text": "solidity  ️",
-      "url": "/programming/programming-languages/solidity",
+      "url": "https://my.mindnode.com/8EaMoYcRYzyLAkJ1EUSWQFxfpdQm4hqmcyjhH7es",
       "fx": -539.8299455841571,
       "fy": -210.54081563902128,
       "category": "mindmap"

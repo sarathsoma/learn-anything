@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - programming language theory - type systems",
+  "tag": "",
   "nodes": [
     {
       "text": "type systems",
@@ -22,14 +23,14 @@
     },
     {
       "text": "gradual typing  ️",
-      "url": "/computer-science/programming-language-theory/type-systems/gradual-typing",
+      "url": "https://my.mindnode.com/fR9ym3VzCzEMNqMtCzSTNYKZ9pArhjw7pAeh97vE",
       "fx": -41.2989742249016,
       "fy": 124.14410063976379,
       "category": "mindmap"
     },
     {
       "text": "type classes  ️",
-      "url": "/computer-science/programming-language-theory/type-systems/type-classes",
+      "url": "https://my.mindnode.com/sbcvas9yTvpFEhD8YLFVzPTM1oCQQvXHN7CAqq7A",
       "fx": -250.459008967125,
       "fy": 130.45892278839437,
       "category": "mindmap"

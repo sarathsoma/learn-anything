@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - algorithms - graph",
+  "tag": "graph algorithms",
   "nodes": [
     {
       "text": "graph algorithms",
@@ -16,21 +17,21 @@
     },
     {
       "text": "Dijkstras algorithm  ️",
-      "url": "/computer-science/algorithms/graph/dijkstras",
+      "url": "https://my.mindnode.com/x34BBvgGqzD5VzXZRhxSarQgR1Y8e5myjRsXdsL8",
       "fx": -70.91974639892578,
       "fy": 96.26941299438477,
       "category": "mindmap"
     },
     {
       "text": "Prim’s algorithm  ️",
-      "url": "/computer-science/algorithms/graph/prim",
+      "url": "https://my.mindnode.com/pMxtTtR2Ygq3zAQTAYqCBozfHe3FoexG61xqiNEG",
       "fx": -304.06033869535145,
       "fy": 98.83743733439712,
       "category": "mindmap"
     },
     {
       "text": "Kruskal’s algorithm  ️",
-      "url": "/computer-science/algorithms/graph/kruskal",
+      "url": "https://my.mindnode.com/Cz98T8mqWqeZkhDH3U44Z8HF38b8uvWuicJwYzor",
       "fx": -575.7517907745587,
       "fy": 99.7626206968933,
       "category": "mindmap"

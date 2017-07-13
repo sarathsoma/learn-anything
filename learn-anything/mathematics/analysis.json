@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - analysis",
+  "tag": "",
   "nodes": [
     {
       "text": "analysis",
@@ -18,7 +19,7 @@
     {
       "text": "real analysis  ️",
       "note": "deals with real numbers and real-valued functions of a real variable  in particular, it deals with the analytic properties of real functions and sequences, including convergence and limits of sequences of real numbers, the calculus of the real numbers, and continuity, smoothness and related properties of real-valued functions",
-      "url": "/mathematics/analysis/real-analysis",
+      "url": "https://my.mindnode.com/AaUBkh3cjJiSaQPiuSpzxrTshkiAZWrhUeyFYy7S",
       "fx": -523.6487067086357,
       "fy": -69.2495438711984,
       "category": "mindmap"
@@ -26,21 +27,21 @@
     {
       "text": "fourier analysis  ️",
       "note": "is the study of the way general functions may be represented or approximated by sums of simpler trigonometric functions  it grew from the study of Fourier series which shows that representing a function as a sum of trigonometric functions greatly simplifies the study of heat transfer  the decomposition process is called a Fourier transformation",
-      "url": "/mathematics/analysis/fourier-analysis",
+      "url": "https://my.mindnode.com/wyAP4f8ZeW3WRASBapjyyPJbs733jsBbsWuFKvvA",
       "fx": -530.1339142568977,
       "fy": 11.322760022402463,
       "category": "mindmap"
     },
     {
       "text": "harmonic analysis  ️",
-      "url": "/mathematics/analysis/harmonic-analysis",
+      "url": "https://my.mindnode.com/sQm6Zgx5Nz7y8jUU7XRPtyGucQFQyresWwRWFCoM",
       "fx": -526.4985383100279,
       "fy": 99.87646778959243,
       "category": "mindmap"
     },
     {
       "text": "space-filling curve  ️",
-      "url": "/mathematics/analysis/space-filling-curve",
+      "url": "https://my.mindnode.com/z85Y5zXmoEqjiEM34hjj5XvkLfvWzqM12iAQWvHy",
       "fx": 370.77933396635876,
       "fy": 119.40237483609144,
       "category": "mindmap"
@@ -48,7 +49,7 @@
     {
       "text": "functional analysis  ️",
       "note": "the core of this study is formed by the study of vector spaces endowed with some kind of limit-related structure (e.g. inner product, norm, topology, etc.) and the linear functions defined on these spaces and respecting these structures in a suitable sense",
-      "url": "/mathematics/analysis/functional-analysis",
+      "url": "https://my.mindnode.com/ScFgoYotBwT4ucQSRz1Q1daixxu11JDBfzjHGz4r",
       "fx": -421.0980529785155,
       "fy": 187.38346099853504,
       "category": "mindmap"
@@ -56,14 +57,14 @@
     {
       "text": "complex analysis  ️",
       "note": "investigates functions of complex numbers   as a differentiable function of a complex variable is equal to the sum of its Taylor series (that is, it is analytic), complex analysis is particularly concerned with analytic functions of a complex variable (that is, holomorphic functions)",
-      "url": "/mathematics/analysis/complex-analysis",
+      "url": "https://my.mindnode.com/YafLyafC3bkpDQHFrktcGFypCGWF2jNxtF7rWqps",
       "fx": 155.11611938476562,
       "fy": 193.90668106079102,
       "category": "mindmap"
     },
     {
       "text": "measure theory  ️",
-      "url": "/mathematics/analysis/measure-theory",
+      "url": "https://my.mindnode.com/2qzgDcLAps3tWz2xZDdZ93cDpXzbqGzZ7WyzixTz",
       "fx": -242.57920360565186,
       "fy": 265.88926696777344,
       "category": "mindmap"
@@ -71,7 +72,7 @@
     {
       "text": "numerical analysis  ️",
       "note": "is the study of algorithms that use numerical approximation (as opposed to general symbolic manipulations) for the problems of mathematical analysis ",
-      "url": "/mathematics/analysis/numerical-analysis",
+      "url": "https://my.mindnode.com/EMutg8hCqAGsTxLf7aW8WYSa9paupbXdaqVax3xn",
       "fx": -21.43908905044873,
       "fy": 270.834491824314,
       "category": "mindmap"

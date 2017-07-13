@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - logic",
+  "tag": "",
   "nodes": [
     {
       "text": "logic",
@@ -29,7 +30,7 @@
     },
     {
       "text": "polish notation  ️",
-      "url": "/mathematics/logic/polish-notation",
+      "url": "https://my.mindnode.com/xfVvk5LUpADHVdj7yMsWfxVYGiEZBLuM9SiidU4B",
       "fx": -996.8525859330889,
       "fy": 213.7833211285996,
       "category": "mindmap"
@@ -50,14 +51,14 @@
     },
     {
       "text": "proofs  ️",
-      "url": "/mathematics/logic/proofs",
+      "url": "https://my.mindnode.com/ninYzqp3QpzfKTcFfKY2JWLQkqrJiWPwmwFHYNR4",
       "fx": -754.4810202245044,
       "fy": 216.83558138791864,
       "category": "mindmap"
     },
     {
       "text": "truth tables  ️",
-      "url": "/mathematics/logic/truth-tables",
+      "url": "https://my.mindnode.com/15PQgjxf6SgeLRpmnr1ZEPwpKgSStz3TNpw9yqtJ",
       "fx": -320.25841346153834,
       "fy": 219.52274750712252,
       "category": "mindmap"
@@ -78,21 +79,21 @@
     },
     {
       "text": "proof theory  ️",
-      "url": "/mathematics/logic/proof-theory",
+      "url": "https://my.mindnode.com/ScedY6zyrZqp7ueE6vJSK8qYyaPipSzSS2xL9eYk",
       "fx": -877.4581983148621,
       "fy": 321.9542549635659,
       "category": "mindmap"
     },
     {
       "text": "linear logic  ️",
-      "url": "/mathematics/logic/linear-logic",
+      "url": "https://my.mindnode.com/E54B4hL24K8ehGzQA1nQbxChAzpyW7q2bsLMNkAm",
       "fx": 409.33714313229507,
       "fy": 333.1046627739071,
       "category": "mindmap"
     },
     {
       "text": "automated theorem proving  ️",
-      "url": "/mathematics/logic/automated-theorem-proving",
+      "url": "https://my.mindnode.com/iEF8RLqxkRznMvNHvzCyCmBxstqzbJhzFuHDGpsq",
       "fx": -646.5482238736976,
       "fy": 348.168212106037,
       "category": "mindmap"
@@ -100,7 +101,7 @@
     {
       "text": "combinatory logic  ️",
       "note": "is a notation to eliminate the need for quantified variables in mathematical logic  It was introduced by Moses Schönfinkel and Haskell Curry and has more recently been used in computer science as a theoretical model of computation and also as a basis for the design of functional programming languages.",
-      "url": "/mathematics/logic/combinatory-logic",
+      "url": "https://my.mindnode.com/LZzCDFtPer8Aq3YSNpP3PrhSzVZkQRPx1dxMSp2Y",
       "fx": -304.4384558433503,
       "fy": 351.78128315063225,
       "category": "mindmap"
@@ -115,7 +116,7 @@
     {
       "text": "Godel’s incompleteness theorem  ️",
       "note": "Godel’s incompleteness theorems are two theories of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system containing basic arithmetic  the theorems are widely, but not universally, interpreted as showing that Hilbert’s program to find a complete and consistent set of axioms for all mathematics is impossible  the first implemented theorem states that no consistent system of axioms whose theorems ca be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of the natural numbers  for any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system  the second theorem, an extension of the first, shows that the system cannot demonstrate its own consistency ",
-      "url": "/mathematics/logic/godels-incompleteness-theorem",
+      "url": "https://my.mindnode.com/yvqyTXrxF6TtxrmCix56cpp47ZvX8LAvLDr6oqGW",
       "fx": 48.356246361365265,
       "fy": 372.74590037419284,
       "category": "mindmap"

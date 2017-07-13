@@ -1,5 +1,6 @@
 {
   "title": "learn anything - physics - computational physics - monte carlo methods",
+  "tag": "",
   "nodes": [
     {
       "text": "monte carlo methods",
@@ -16,14 +17,14 @@
     },
     {
       "text": "particle filters  ️",
-      "url": "/physics/computational-physics/monte-carlo-methods/particle-filters",
+      "url": "https://my.mindnode.com/rzUJ4XnmWBLka4iVJDdGUNWw66rNxu4sNc5bGAMb",
       "fx": -177.64867579573604,
       "fy": 31.996749920454477,
       "category": "mindmap"
     },
     {
       "text": "Kalman filter  ️",
-      "url": "/physics/computational-physics/monte-carlo-methods/kalman-filter",
+      "url": "https://my.mindnode.com/MbCcDYoKnDdkWaVUNT8fBHMsrczvx94TDLrEPo69",
       "fx": 24.599984015345285,
       "fy": 34.636109335038384,
       "category": "mindmap"

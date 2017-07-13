@@ -1,5 +1,6 @@
 {
   "title": "learn anything - linguistics - formal language",
+  "tag": "",
   "nodes": [
     {
       "text": "formal language",
@@ -17,7 +18,7 @@
     {
       "text": "regular expressions  ️",
       "note": "are sequences of characters that define a search pattern  usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis",
-      "url": "/linguistics/formal-language/regular-expressions",
+      "url": "https://my.mindnode.com/o59VSTgxJzakQap2ofJaSTsSChyy8cpqK4bLEjiG",
       "fx": -45.046875,
       "fy": 170.5703125,
       "category": "mindmap"

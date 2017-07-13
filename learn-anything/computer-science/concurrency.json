@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer science - concurrency",
+  "tag": "",
   "nodes": [
     {
       "text": "concurrency",
@@ -17,14 +18,14 @@
     },
     {
       "text": "process calculus  ️",
-      "url": "/computer-science/concurrency/process-calculus",
+      "url": "https://my.mindnode.com/8sXxupmKzvXxP8fprfUwxa9SbgUBkpeqxYw7ZFzd",
       "fx": -405.36460690045203,
       "fy": -38.94280260180341,
       "category": "mindmap"
     },
     {
       "text": "petri nets  ️",
-      "url": "/computer-science/concurrency/petri-nets",
+      "url": "https://my.mindnode.com/v9DEzGB56z4Rr3kfXrJhuotwXmGFg33WCxuQf7Lx",
       "fx": -166.25374717194586,
       "fy": -38.38779694569905,
       "category": "mindmap"

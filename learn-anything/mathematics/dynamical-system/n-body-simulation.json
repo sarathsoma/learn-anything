@@ -1,5 +1,6 @@
 {
   "title": "learn anything - mathematics - dynamical system - n-body simulation",
+  "tag": "N-body simulation",
   "nodes": [
     {
       "text": "N-body simulation",
@@ -22,7 +23,7 @@
     },
     {
       "text": "Barnes-Hut simulation  ️",
-      "url": "/mathematics/dynamical-system/n-body-simulation/barnes-hut-simulation",
+      "url": "https://my.mindnode.com/bQiPTJLJhjm7pCybtiz2g8f7hqmMLdRz9btxzUQK",
       "fx": -279.49428072914367,
       "fy": 77.97960932539434,
       "category": "mindmap"

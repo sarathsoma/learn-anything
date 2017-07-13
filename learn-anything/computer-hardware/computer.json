@@ -1,5 +1,6 @@
 {
   "title": "learn anything - computer hardware - computer",
+  "tag": "computers",
   "nodes": [
     {
       "text": "computer",
@@ -17,7 +18,7 @@
     },
     {
       "text": "computer architectures  ️",
-      "url": "/computer-hardware/computer/computer-architecture",
+      "url": "https://my.mindnode.com/VEeaqaXaB3G1yYf5ebeX9tXMqWbjoywrMdEdb5zf",
       "fx": 38.38409566616167,
       "fy": 118.77145511158926,
       "category": "mindmap"
@@ -37,21 +38,21 @@
     },
     {
       "text": "CPU  ️",
-      "url": "/computer-hardware/computer/cpu",
+      "url": "https://my.mindnode.com/YPhHH5Xy749FDuLTtw8Sy7QhceCvPsYqiwpucjKv",
       "fx": -350.6383321101682,
       "fy": 256.5166106132068,
       "category": "mindmap"
     },
     {
       "text": "GPU  ️",
-      "url": "/computer-hardware/computer/gpu",
+      "url": "https://my.mindnode.com/sm4Fhdd4tkWngabpYRSjf5kjp3qtQSxpj73iftpc",
       "fx": -202.99650955200195,
       "fy": 257.3299560546875,
       "category": "mindmap"
     },
     {
       "text": "computer memory  ️",
-      "url": "/computer-hardware/computer/computer-memory",
+      "url": "https://my.mindnode.com/Ja8jZpjhcVxW3dRmkXRs4LAySyJ7oVGZU1tGbHgj",
       "fx": -598.5281250000002,
       "fy": 258.70208333333323,
       "category": "mindmap"

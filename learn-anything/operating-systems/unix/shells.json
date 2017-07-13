@@ -1,5 +1,6 @@
 {
   "title": "learn anything - operating systems - unix - shells",
+  "tag": "unix shells",
   "nodes": [
     {
       "text": "unix shells",
@@ -30,28 +31,28 @@
     },
     {
       "text": "zsh  ️",
-      "url": "/operating-systems/unix/shells/zsh",
+      "url": "https://my.mindnode.com/hyytPyvKEHFpdtnqxWNCqe96TFKM6qzDM4NRj2vd",
       "fx": -193.11801122489794,
       "fy": -86.66009242496477,
       "category": "mindmap"
     },
     {
       "text": "dotfiles  ️",
-      "url": "/operating-systems/unix/shells/dotfiles",
+      "url": "https://my.mindnode.com/nzpDH7L2bkLsBSqv5cCQtVTyc1zLJehqRspUL1dT",
       "fx": -500.3897470506092,
       "fy": -85.99985784013006,
       "category": "mindmap"
     },
     {
       "text": "bash  ️",
-      "url": "/operating-systems/unix/shells/bash",
+      "url": "https://my.mindnode.com/gvKrazbC3joUVUJ6oTpyxHrKtZDsifk28UYyJdq8",
       "fx": -79.65292215210934,
       "fy": -85.21432228561378,
       "category": "mindmap"
     },
     {
       "text": "fish  ️",
-      "url": "/operating-systems/unix/shells/fish",
+      "url": "https://my.mindnode.com/sBKVXzBFc3x9BPDixjauyix3UPnVjYazVBj85axz",
       "fx": 49.09993255509505,
       "fy": -84.46279765766252,
       "category": "mindmap"

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - network science - computer networking - protocols - amqp",
+  "tag": "AMQP protocol",
   "nodes": [
     {
       "text": "Advanced Message Queuing Protocol",
@@ -16,7 +17,7 @@
     },
     {
       "text": "RabbitMQ  ️",
-      "url": "/network-science/computer-networking/protocols/amqp/rabbitmq",
+      "url": "https://my.mindnode.com/FLPs7vYxc8WHbydosAhUNXMRtHuuzLw2XGSjdXza",
       "fx": -111.17959872159088,
       "fy": -51.536487926136374,
       "category": "mindmap"

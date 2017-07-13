@@ -1,5 +1,6 @@
 {
   "title": "learn anything - software - tooling - text editors - vim",
+  "tag": "vim text editor",
   "nodes": [
     {
       "text": "vim",
@@ -29,7 +30,7 @@
     },
     {
       "text": "vim plugins  ️",
-      "url": "/software/tooling/text-editors/vim/plugins",
+      "url": "https://my.mindnode.com/XazZqbK22FoZhYA78ZWiYzX9PrxbzWSsmm9u4QCu",
       "fx": -214.62179434564973,
       "fy": 551.7896757435811,
       "category": "mindmap"
@@ -43,7 +44,7 @@
     {
       "text": "viml  ️",
       "note": "the programming language created to extend vim",
-      "url": "/software/tooling/text-editors/vim/viml",
+      "url": "https://my.mindnode.com/GXqUT8MFr24iZFzwwmNFG1QbyYahZaPMtdqvMc2q",
       "fx": 12.613867083098057,
       "fy": 628.4002028385447,
       "category": "mindmap"

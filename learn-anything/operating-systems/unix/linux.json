@@ -1,5 +1,6 @@
 {
   "title": "learn anything - operating systems - unix - linux",
+  "tag": "",
   "nodes": [
     {
       "text": "linux",
@@ -35,35 +36,35 @@
     },
     {
       "text": "Wayland  ️",
-      "url": "/operating-systems/unix/linux/wayland",
+      "url": "https://my.mindnode.com/qcqxFFzm2D3ZmNTh4QPnSdRBhAxWsuMTxj7cVmTG",
       "fx": -337.15384203767167,
       "fy": 491.9273865582189,
       "category": "mindmap"
     },
     {
       "text": "containers  ️",
-      "url": "/operating-systems/unix/linux/containers",
+      "url": "https://my.mindnode.com/X2kj5Djhxkmr323zDauwMThaVUQHCKMtVtaauKu1",
       "fx": 38.37563014792215,
       "fy": 494.0317203177258,
       "category": "mindmap"
     },
     {
       "text": "distributions  ️",
-      "url": "/operating-systems/unix/linux/distributions",
+      "url": "https://my.mindnode.com/uZFAizZuJGxuAr4s2XYQ3vCLsUELCqLzL8XpzmxY",
       "fx": -164.8369314721291,
       "fy": 494.23352813720703,
       "category": "mindmap"
     },
     {
       "text": "iptables  ️",
-      "url": "/operating-systems/unix/linux/iptables",
+      "url": "https://my.mindnode.com/6L8dLMzojMqopG3AMixsppMqiRpkGosLTpxMLvPv",
       "fx": -646.7745454645307,
       "fy": 494.38672790294936,
       "category": "mindmap"
     },
     {
       "text": "systemd  ️",
-      "url": "/operating-systems/unix/linux/systemd",
+      "url": "https://my.mindnode.com/YvVn8JSoQkHSWfvqb7dtCnv8nA8AATpXf1dyQzB2",
       "fx": -494.1360452586207,
       "fy": 495.5255926724178,
       "category": "mindmap"

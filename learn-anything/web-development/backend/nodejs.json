@@ -1,5 +1,6 @@
 {
   "title": "learn anything - web development - backend - nodejs",
+  "tag": "node.js",
   "nodes": [
     {
       "text": "node.js",
@@ -96,7 +97,7 @@
     },
     {
       "text": "express  ️",
-      "url": "/web-development/javascript-libraries/express",
+      "url": "https://my.mindnode.com/zwXmrqAW4wDks9xzpPzumULC7RGuryQCesparXZU",
       "fx": -306.63391407093445,
       "fy": 248.51274890280536,
       "category": "mindmap"
@@ -110,7 +111,7 @@
     },
     {
       "text": "jest  ️",
-      "url": "/web-development/javascript-libraries/jest",
+      "url": "https://my.mindnode.com/vQttqzUvfzbk97qSDhtEZiFFmNpb9fy6XxtKPyz7",
       "fx": 284.4532014586084,
       "fy": 298.355031185013,
       "category": "mindmap"

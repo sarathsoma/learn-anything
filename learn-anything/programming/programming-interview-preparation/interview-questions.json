@@ -1,5 +1,6 @@
 {
   "title": "learn anything - programming - programming interview preparation - interview questions",
+  "tag": "",
   "nodes": [
     {
       "text": "general",
@@ -9,42 +10,42 @@
     },
     {
       "text": "iOS  ️",
-      "url": "/operating-systems/ios",
+      "url": "https://my.mindnode.com/m32Zo1SzPiqfWqJvpUwBMuTMCNVXejfyWfZyeSFz",
       "fx": -214.6464112599691,
       "fy": -76.82087771097827,
       "category": "mindmap"
     },
     {
       "text": "javascript  ️",
-      "url": "/programming/programming-languages/javascript",
+      "url": "https://my.mindnode.com/QQzCynmUtZpAuyGipqxsvRJ6NPn477o9cSjCGqqR",
       "fx": -245.14483443985273,
       "fy": 57.40538358635092,
       "category": "mindmap"
     },
     {
       "text": "front end  ️",
-      "url": "/web-development/front-end",
+      "url": "https://my.mindnode.com/zRGj6Bjd1T31sVhsJz4HcNbCCz7ZMgKNqJSWSjyt",
       "fx": -247.21667449874735,
       "fy": 160.3024749373435,
       "category": "mindmap"
     },
     {
       "text": "java  ️",
-      "url": "/programming/programming-languages/java",
-      "fx": -228.6530948438142,
-      "fy": 281.6960027594316,
+      "url": "https://my.mindnode.com/XcFAZAvk82ipqdis1UW5wznzxBxuVbx5iHLwgLHP",
+      "fx": -229.26301808942821,
+      "fy": 288.27723448457766,
       "category": "mindmap"
     },
     {
       "text": "android  ️",
-      "url": "/operating-systems/android",
-      "fx": -251.17041251221826,
-      "fy": 391.55007725771463,
+      "url": "https://my.mindnode.com/9GNqw9qRvvg1A8Jeo9EW7fm8bcyWWtjKD6i6pa6w",
+      "fx": -255.92187450052222,
+      "fy": 392.7425114682411,
       "category": "mindmap"
     },
     {
       "text": "scala  ️",
-      "url": "/programming/programming-languages/scala",
+      "url": "https://my.mindnode.com/z5jpzSuE3Tdyy4TFpxz3vbZMAKyS6B4cDPNQKmS2",
       "fx": -250.00858215249627,
       "fy": 518.5144336201081,
       "category": "mindmap"
@@ -123,8 +124,8 @@
     {
       "text": "interview questions in java",
       "url": "https://github.com/mission-peace/interview/wiki",
-      "fx": -66.65309484381419,
-      "fy": 295.6960027594316,
+      "fx": -66.26301808942821,
+      "fy": 302.27723448457766,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "java  ️"
@@ -132,10 +133,19 @@
     {
       "text": "android interview",
       "url": "https://github.com/JackyAndroid/AndroidInterview-Q-A",
-      "fx": -56.17041251221826,
-      "fy": 405.55007725771463,
+      "fx": -60.92187450052222,
+      "fy": 386.7425114682411,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "android  ️"
+    },
+    {
+      "text": "android interview cheat sheet",
+      "url": "https://github.com/MindorksOpenSource/android-interview-questions",
+      "fx": -60.92187450052222,
+      "fy": 426.7425114682411,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "android  ️"
     },
     {
@@ -178,16 +188,16 @@
       "source": "java  ️",
       "target": "android  ️",
       "curve": {
-        "x": -3.00866,
-        "y": 54.927
+        "x": -5.07943,
+        "y": 52.2326
       }
     },
     {
       "source": "android  ️",
       "target": "scala  ️",
       "curve": {
-        "x": -11.9191,
-        "y": 62.2322
+        "x": -9.54337,
+        "y": 61.636
       }
     },
     {
@@ -202,8 +212,8 @@
       "source": "front end  ️",
       "target": "java  ️",
       "curve": {
-        "x": 5.28179,
-        "y": 61.9468
+        "x": 4.97683,
+        "y": 65.2374
       }
     },
     {

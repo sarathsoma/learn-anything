@@ -1,5 +1,6 @@
 {
   "title": "learn anything - cryptography - encryption",
+  "tag": "",
   "nodes": [
     {
       "text": "encryption",
@@ -23,14 +24,14 @@
     },
     {
       "text": "RSA  ️",
-      "url": "/cryptography/encryption/rsa",
+      "url": "https://my.mindnode.com/Eqxwf41jpdWebzrx5xuzGx23dyDqgETh8SGQfuRc",
       "fx": -220.50319246925756,
       "fy": 206.4222720777417,
       "category": "mindmap"
     },
     {
       "text": "end to end encryption  ️",
-      "url": "/cryptography/encryption/end-to-end-encryption",
+      "url": "https://my.mindnode.com/y1RBVPdJBVWoYz1hDN5NURy34sQp2TyMSaoqnPqS",
       "fx": -101.04870292467945,
       "fy": 208.42004707532055,
       "category": "mindmap"

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - cryptography - cryptographic hash functions",
+  "tag": "",
   "nodes": [
     {
       "text": "cryptographic hash functions",
@@ -16,7 +17,7 @@
     },
     {
       "text": "SHA-1  ️",
-      "url": "/cryptography/cryptographic-hash-functions/sha",
+      "url": "https://my.mindnode.com/dxci55wMw5NVoyP41DUJbCxoyXQhpa9uGWr4tMyY",
       "fx": 160.85087076822936,
       "fy": 14.555786132812273,
       "category": "mindmap"

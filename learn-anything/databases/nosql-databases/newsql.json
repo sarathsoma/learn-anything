@@ -1,5 +1,6 @@
 {
   "title": "learn anything - databases - nosql databases - newsql",
+  "tag": "NewSQL",
   "nodes": [
     {
       "text": "NewSQL",
@@ -17,7 +18,7 @@
     },
     {
       "text": "cockroachDB  ️",
-      "url": "/databases/nosql-databases/newsql/cockroachdb",
+      "url": "https://my.mindnode.com/Yu39NVsf7ppg96BDKACfFsti7qeZUHyKA7m7diLR",
       "fx": -150.61866103751026,
       "fy": 12.081718432312528,
       "category": "mindmap"

@@ -1,5 +1,6 @@
 {
   "title": "learn anything - cognitive science - cognition - learning - research",
+  "tag": "",
   "nodes": [
     {
       "text": "research",
@@ -23,15 +24,16 @@
     },
     {
       "text": "research papers  ️",
-      "fx": -173.54726900770936,
-      "fy": 426.1141231479269,
+      "url": "https://my.mindnode.com/Cny5WMjy56ay4pDopou6spjQiiAbzusp9XuW5zpT",
+      "fx": -172.2400794652258,
+      "fy": 429.41018115446286,
       "category": "mindmap"
     },
     {
       "text": "methodology  ️",
-      "url": "/cognitive-science/cognition/learning/research/methodology",
-      "fx": 69.74176203328943,
-      "fy": 428.9717652716315,
+      "url": "https://my.mindnode.com/EKSN4nosKsKP96x2r5a4BbhyxryspJgfsqzbkd6k",
+      "fx": 70.9366149744659,
+      "fy": 430.55724321280775,
       "category": "mindmap"
     }
   ],
@@ -119,16 +121,16 @@
       "source": "basics",
       "target": "research papers  ️",
       "curve": {
-        "x": -68.6333,
-        "y": 63.3388
+        "x": -67.9797,
+        "y": 64.9868
       }
     },
     {
       "source": "basics",
       "target": "methodology  ️",
       "curve": {
-        "x": 30.2612,
-        "y": 63.5173
+        "x": 30.8586,
+        "y": 64.31
       }
     }
   ]
