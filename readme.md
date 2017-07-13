@@ -21,7 +21,7 @@
   <br>
   <br>
   </div>
-  <p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/LA.gif?token=AGGH4KQygS95N6LH9kzVvKfI65q3JM_mks5ZZp4RwA%3D%3D" alt="img" width="600"></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/LA.gif?token=AGGH4LQsFjCLS6H-GvBuaFw9XzQ3HCIyks5ZcSlJwA%3D%3D" alt="img" width="600"></p>
   </div>
   
   
