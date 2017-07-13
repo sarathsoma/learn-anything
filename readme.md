@@ -16,7 +16,7 @@
 		<img src="https://img.shields.io/pypi/l/pipenv.svg">
 	</a>
   <a href="https://learn-anything.xyz/learn_anything">
-    <img width="900" heigth="900" src="http://i.imgur.com/w0Ek1j2.png">
+    <img width="900" heigth="900" src="http://i.imgur.com/xJG2RXs.png">
   </a>
   <br>
   <br>
@@ -33,9 +33,9 @@ Each node with a link has an emoji attached to show where this node leads on the
 
 Just search for what you wish to learn or [simply explore](https://learn-anything.xyz/learn-anything).
   
-If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. Just [click on the 🦄](http://i.imgur.com/Qpi9xZK.png) and say what you wish was added or changed.
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can [help improve it](https://github.com/nikitavoloboev/learn-anything#contributing--). 
 
-The search engine is [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙
+The search engine is also [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙
 
 The [main goal of this project](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html) is to **expose human knowledge in a [visual and structured way to accelerate learning](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e)**. 🚀
 
@@ -64,7 +64,7 @@ We use [Twitter](https://twitter.com/learnanything_) to announce new things like
 
 <h1 align="center"><a href="https://www.patreon.com/learnanything">Keep this project going 💚</a></h1>
 
-This project is **built by the community, for the community** and in our goals to make the most efficient path and the best user experience possible in exploring the mind maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
+This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the mind maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
 
 There are **no advertisements** and **no sponsored content** in this Search Engine as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
  
