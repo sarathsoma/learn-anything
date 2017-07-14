@@ -25,21 +25,21 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -155.17855473736608,
-      "fy": 518.7777394784016
+      "fx": -181.35042973736586,
+      "fy": 508.31091058495895
     },
     {
       "text": "git hooks  ️",
-      "url": "https://my.mindnode.com/QwLKVq6ZJuXzxscjc9Y9NZbnpN81d3pNxxsy5nSm",
-      "fx": -275.1467353351957,
-      "fy": 699.1692562849162,
+      "url": "/programming/version-control/git/git-hooks",
+      "fx": -341.90518820404816,
+      "fy": 719.0847275963918,
       "category": "mindmap"
     },
     {
       "text": "GitHub  ️",
-      "url": "https://my.mindnode.com/pcNLWQPSVE2DnGfTCvCawS2CcKpYzkT67kZcNYTH",
-      "fx": -100.06012339547283,
-      "fy": 701.7892742355953,
+      "url": "/programming/version-control/git/github",
+      "fx": -166.81857626432532,
+      "fy": 721.7047455470708,
       "category": "mindmap"
     }
   ],
@@ -223,10 +223,18 @@
       "parent": "articles"
     },
     {
+      "text": "1. how Git works",
+      "url": "http://gitlet.maryrosecook.com/docs/gitlet.html",
+      "fx": 0.6495702626341426,
+      "fy": 411.81091058495895,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. git branching",
       "url": "http://learngitbranching.js.org/",
-      "fx": 26.821445262633915,
-      "fy": 439.2777394784016,
+      "fx": 0.6495702626341426,
+      "fy": 445.81091058495895,
       "category": "interactive",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -234,32 +242,32 @@
     {
       "text": "1. git game",
       "url": "https://www.git-game.com/",
-      "fx": 26.821445262633915,
-      "fy": 479.2777394784016,
+      "fx": 0.6495702626341426,
+      "fy": 485.81091058495895,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1: learn git",
       "url": "https://try.github.io/levels/1/challenges/1",
-      "fx": 26.821445262633915,
-      "fy": 513.2777394784016,
+      "fx": 0.6495702626341426,
+      "fy": 519.810910584959,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. fundamentals of git",
       "url": "https://githowto.com/setup",
-      "fx": 26.821445262633915,
-      "fy": 547.2777394784016,
+      "fx": 0.6495702626341426,
+      "fy": 553.810910584959,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. learn version control with git",
       "url": "https://www.git-tower.com/learn/git/ebook",
-      "fx": 26.821445262633915,
-      "fy": 581.2777394784016,
+      "fx": 0.6495702626341426,
+      "fy": 587.810910584959,
       "category": "free book",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -267,8 +275,8 @@
     {
       "text": "1. learn enough git to be dangerous",
       "url": "https://www.learnenough.com/git-tutorial",
-      "fx": 26.821445262633915,
-      "fy": 621.2777394784016,
+      "fx": 0.6495702626341426,
+      "fy": 627.810910584959,
       "category": "free book",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
@@ -279,8 +287,8 @@
       "source": "git",
       "target": "basics",
       "curve": {
-        "x": -43.5474,
-        "y": 403.115
+        "x": -56.6333,
+        "y": 397.882
       }
     },
     {
@@ -303,16 +311,16 @@
       "source": "basics",
       "target": "GitHub  ️",
       "curve": {
-        "x": 20.8092,
-        "y": 91.5058
+        "x": 0.515911,
+        "y": 106.697
       }
     },
     {
       "source": "basics",
       "target": "git hooks  ️",
       "curve": {
-        "x": -60.2341,
-        "y": 90.1958
+        "x": -80.5274,
+        "y": 105.387
       }
     }
   ]

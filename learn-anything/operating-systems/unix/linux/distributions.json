@@ -18,28 +18,28 @@
     },
     {
       "text": "debian  ️",
-      "url": "https://my.mindnode.com/zUpkWjrqJ5xpxw6RVPygSFgFxsQC3esW2CVLw2wM",
+      "url": "/operating-systems/unix/linux/distributions/debian",
       "fx": -80.93588917525801,
       "fy": -237.55734536089432,
       "category": "mindmap"
     },
     {
       "text": "nixOS  ️",
-      "url": "https://my.mindnode.com/AV2oRx64iruLUUb8ptdy1kQQmady8abtt2sMfFBv",
+      "url": "/operating-systems/unix/linux/distributions/nixos",
       "fx": 1709.7587585449219,
       "fy": -231.74739837646484,
       "category": "mindmap"
     },
     {
       "text": "arch  ️",
-      "url": "https://my.mindnode.com/kqZieHKS6X3WNH6s9Ncm6k2GcSCAqmK3fnV6RALB",
+      "url": "/operating-systems/unix/linux/distributions/arch",
       "fx": 88.39133828182196,
       "fy": -231.6609813122575,
       "category": "mindmap"
     },
     {
       "text": "gentoo  ️",
-      "url": "https://my.mindnode.com/piQGZGg7GghsLDH6Ts6Ev5ut77xJM76hj1eryKDf",
+      "url": "/operating-systems/unix/linux/distributions/gentoo",
       "fx": 248.37412537179512,
       "fy": -230.71368734114571,
       "category": "mindmap"
@@ -58,7 +58,7 @@
     },
     {
       "text": "coreOS  ️",
-      "url": "https://my.mindnode.com/VMYxTSv8WaxpjszC2jWpAFB5KKdxsBeRQiHShnqq",
+      "url": "/operating-systems/unix/linux/distributions/coreos",
       "fx": 983.2400360107422,
       "fy": -228.8646697998047,
       "category": "mindmap"
@@ -114,7 +114,7 @@
     },
     {
       "text": "ubuntu  ️",
-      "url": "https://my.mindnode.com/9YJSf2S6MWi8Ucyju5q1xpabK1LkJGxHVWgvano3",
+      "url": "/operating-systems/unix/linux/distributions/ubuntu",
       "fx": -182.15057373046875,
       "fy": -130.11557579040527,
       "category": "mindmap"
@@ -149,7 +149,7 @@
     },
     {
       "text": "funtoo  ️",
-      "url": "https://my.mindnode.com/DXessrycNQb9QQ9YcgffA8VvYhkcrSZ7zyRpRpNa",
+      "url": "/operating-systems/unix/linux/distributions/funtoo",
       "fx": 286.8677673339844,
       "fy": -55.27113199234009,
       "category": "mindmap"

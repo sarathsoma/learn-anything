@@ -24,112 +24,119 @@
     },
     {
       "text": "code review  ️",
-      "url": "https://my.mindnode.com/oWJuvGLv1isvtjdxNwyfieczokJ8QMq4fwMhJ9KC",
+      "url": "/programming/software-development/code-review",
       "fx": -318.5536926498145,
       "fy": -75.86985018725966,
       "category": "mindmap"
     },
     {
       "text": "open source  ️",
-      "url": "https://my.mindnode.com/i2KJsa46DzxEMaziscL7xMzJMxqAtnNFNAXaJ6d1",
+      "url": "/programming/software-development/open-source",
       "fx": 571.4212660600676,
       "fy": -74.74188066966428,
       "category": "mindmap"
     },
     {
       "text": "devops  ️",
-      "url": "https://my.mindnode.com/4pT3AeEEywqSgdxTFBRgq3bmFpLs6s9YSaNMrxZY#321.0,-237.8,2",
+      "url": "/programming/software-development/devops",
       "fx": 170.67599943002426,
       "fy": -74.46723004046567,
       "category": "mindmap"
     },
     {
       "text": "software architecture  ️",
-      "url": "https://my.mindnode.com/eGwQJjrztCQoaUZwUdAeq2o4C1s9mdHKRKjX6iRD",
+      "url": "/programming/software-development/software-architecture",
       "fx": -105.86712276241474,
       "fy": -74.10179701002119,
       "category": "mindmap"
     },
     {
       "text": "software testing  ️",
-      "url": "https://my.mindnode.com/ELcJKvcycS3o6xNu8a6pgF88wCyq5wUkZRWvsfnu",
+      "url": "/programming/software-development/software-testing",
       "fx": 337.8226300802894,
       "fy": -72.96349186362824,
       "category": "mindmap"
     },
     {
       "text": "build automation  ️",
-      "url": "https://my.mindnode.com/1xbzNFU31QspquaHziUpzMhvo6TNKNtczMExmqzy",
+      "url": "/programming/software-development/build-automation",
       "fx": -554.7126016446551,
       "fy": -71.55796802399254,
       "category": "mindmap"
     },
     {
       "text": "agile software development  ️",
-      "url": "https://my.mindnode.com/6WpUA56pPmHd6hUcEfo5CKGfPcRsG771KTuyMhC3",
+      "url": "/programming/software-development/agile-software-development",
       "fx": -878.4374775035992,
       "fy": -70.69786500826478,
       "category": "mindmap"
     },
     {
       "text": "architectural patterns  ️",
-      "url": "https://my.mindnode.com/riyFy7zgX5kW9kUggeBk73CfxUHSsYVSJvr4mHq6",
+      "url": "/programming/software-development/architectural-patterns",
       "fx": -1147.7577213892096,
       "fy": -67.11076268740067,
       "category": "mindmap"
     },
     {
       "text": "domain-driven design  ️",
-      "url": "https://my.mindnode.com/y2zGZDqqrXtquEiA73T5a33q7S3d2WMhHk1x12iG",
+      "url": "/programming/software-development/domain-driven-design",
       "fx": -1421.6258417725664,
       "fy": -64.04985082737926,
       "category": "mindmap"
     },
     {
       "text": "software specifications  ️",
-      "url": "https://my.mindnode.com/VrVDF8ySqydfKfFxUy5VyqAZBQV5gC6x3W7isxue",
+      "url": "/programming/software-development/software-specifications",
       "fx": -1708.869873046875,
       "fy": -63.781861305236816,
       "category": "mindmap"
     },
     {
       "text": "code refactoring  ️",
-      "url": "https://my.mindnode.com/J7ye7TjSYwrcfuZY2D3FEXGytQxnbFzxpqj7PJKS",
+      "url": "/programming/software-development/code-refactoring",
       "fx": -1930.9967346191406,
       "fy": -60.52766704559326,
       "category": "mindmap"
     },
     {
       "text": "debugging  ️",
-      "url": "https://my.mindnode.com/F8Y19sWJLSVY6ZxvFRJgjZKEGx9cXH9DpkRxWujq",
+      "url": "/programming/software-development/debugging",
       "fx": -2103.0977172851562,
       "fy": -60.466476917266846,
       "category": "mindmap"
     },
     {
       "text": "documentation  ️",
-      "url": "https://my.mindnode.com/pFbNGbWq8UEyEk3v7Go5Se679fBxqozb9Kw6nm6q",
+      "url": "/programming/software-development/documentation",
       "fx": -2592.6410189519725,
       "fy": -58.415099303221155,
       "category": "mindmap"
     },
     {
       "text": "software design  ️",
-      "url": "https://my.mindnode.com/W6oKdpNyEGfgapRNqcDoy8kgGWzWxaX3drBhRH76",
+      "url": "/programming/software-development/software-design",
       "fx": -2810.4588448660716,
       "fy": -56.56163758116861,
       "category": "mindmap"
     },
     {
+      "text": "dependency injections  ️",
+      "url": "/programming/software-development/dependency-injections",
+      "fx": -3306.7104893071146,
+      "fy": -56.4172536333507,
+      "category": "mindmap"
+    },
+    {
       "text": "system administration  ️",
-      "url": "https://my.mindnode.com/p8GZ97vV7RR32p42pnJQbXH1QeF2nrXYje4TdywP",
+      "url": "/programming/software-development/system-administration",
       "fx": -2375.1570176037117,
       "fy": -56.16931632096089,
       "category": "mindmap"
     },
     {
       "text": "formal methods  ️",
-      "url": "https://my.mindnode.com/oEPybtr2EpyYrJxBFs5VitZmhM8PXht19NxfpycN",
+      "url": "/programming/software-development/formal-methods",
       "fx": -3027.3091607103734,
       "fy": -55.22979695544893,
       "category": "mindmap"
@@ -307,6 +314,14 @@
       "curve": {
         "x": -2328.72,
         "y": -87.9447
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dependency injections  ️",
+      "curve": {
+        "x": -2364.42,
+        "y": -83.8339
       }
     }
   ]

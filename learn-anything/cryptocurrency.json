@@ -23,17 +23,24 @@
       "fy": -59.980789830850654
     },
     {
-      "text": "proof-of-work system",
-      "url": "http://www.wikiwand.com/en/Proof-of-work_system",
-      "fx": -473.46938775510193,
-      "fy": 43.26203762755108,
-      "category": "wiki"
+      "text": "initial coin offering  ️",
+      "url": "/cryptocurrency/initial-coin-offering",
+      "fx": -608.7028301886793,
+      "fy": 66.88168238993717,
+      "category": "mindmap"
     },
     {
       "text": "currencies",
       "url": "",
       "fx": -100.08122822299651,
       "fy": 70.96515679442507
+    },
+    {
+      "text": "proof-of-work system",
+      "url": "http://www.wikiwand.com/en/Proof-of-work_system",
+      "fx": -371.6130599975586,
+      "fy": 68.71059036254883,
+      "category": "wiki"
     },
     {
       "text": "monero",
@@ -44,7 +51,7 @@
     },
     {
       "text": "bitcoin  ️",
-      "url": "https://my.mindnode.com/u5DHRfRkjPMTTq3vkXRsyVxzZneUp8PJCYsT1RNv",
+      "url": "/cryptocurrency/bitcoin",
       "fx": -182.4449700438795,
       "fy": 189.78781655509283,
       "category": "mindmap"
@@ -165,8 +172,16 @@
       "source": "basics",
       "target": "proof-of-work system",
       "curve": {
-        "x": -131.108,
-        "y": 52.8714
+        "x": -80.1798,
+        "y": 65.5957
+      }
+    },
+    {
+      "source": "basics",
+      "target": "initial coin offering  ️",
+      "curve": {
+        "x": -258.001,
+        "y": 35.2374
       }
     }
   ]

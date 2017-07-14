@@ -24,42 +24,42 @@
     },
     {
       "text": "CSS3  ️",
-      "url": "https://my.mindnode.com/vywFKt4WUVms6cz9zoBsqDbshXRAsSMFUV5uhx1G",
+      "url": "/web-development/front-end/css/css3",
       "fx": 1233.8989984766658,
       "fy": -538.9596662961184,
       "category": "mindmap"
     },
     {
       "text": "CSS  ️",
-      "url": "https://my.mindnode.com/RotqNyXWxoT5pBazqnehMuKLkgHiM32WYqjazgpY",
+      "url": "/web-development/front-end/css",
       "fx": 1008.5141112840424,
       "fy": -520.4629022587292,
       "category": "mindmap"
     },
     {
       "text": "HTML  ️",
-      "url": "https://my.mindnode.com/9XKbbxW8Ft3fzP43bPwtqU3PRhDzp3VjKsqLntQJ",
+      "url": "/web-development/front-end/html",
       "fx": 758.2533247259648,
       "fy": -516.1235539723475,
       "category": "mindmap"
     },
     {
       "text": "styled components  ️",
-      "url": "https://my.mindnode.com/uWFvanQ6XDxChCgsbSzB5io6rUz2ANCpYePQasdx",
+      "url": "/web-development/front-end/css/styled-components",
       "fx": 1184.3525403491956,
       "fy": -454.050451869241,
       "category": "mindmap"
     },
     {
       "text": "HTML5  ️",
-      "url": "https://my.mindnode.com/zxJxCNjx3c72WB6tpzvbbuuJxQRVBgxNRJqLB2uZ",
+      "url": "/web-development/front-end/html/html5",
       "fx": 553.2780385376011,
       "fy": -430.0901885704927,
       "category": "mindmap"
     },
     {
       "text": "javascript  ️",
-      "url": "https://my.mindnode.com/QQzCynmUtZpAuyGipqxsvRJ6NPn477o9cSjCGqqR",
+      "url": "/programming/programming-languages/javascript",
       "fx": 855.1500246161656,
       "fy": -407.9767984554468,
       "category": "mindmap"
@@ -78,7 +78,7 @@
     },
     {
       "text": "typescript  ️",
-      "url": "https://my.mindnode.com/aWy8dg8k9N99SQBvu6zMeAjyfHMrJswpvD5BiAXr",
+      "url": "/programming/programming-languages/typescript",
       "fx": 1774.586342901256,
       "fy": -279.57401276300857,
       "category": "mindmap"
@@ -91,7 +91,7 @@
     },
     {
       "text": "web components  ️",
-      "url": "https://my.mindnode.com/UCneg1U5LDqEKQpHrSqwinKbcYSwVa81kuU1Qpy2",
+      "url": "/web-development/front-end/web-components",
       "fx": 1951.2365350773566,
       "fy": -276.2686178893614,
       "category": "mindmap"
@@ -110,7 +110,7 @@
     },
     {
       "text": "ES6  ️",
-      "url": "https://my.mindnode.com/rNhr9Nq5D6yWCM6rjQLYyLyoxtomM6yK62VZS4Ud",
+      "url": "/programming/programming-languages/javascript/es6",
       "fx": 676.3379698253816,
       "fy": -271.1411999437146,
       "category": "mindmap"
@@ -130,14 +130,14 @@
     },
     {
       "text": "grunt  ️",
-      "url": "https://my.mindnode.com/mh6WYxCoBmcTkZ9wkXpJqSFZDJTUYaUwbKswTuhA",
+      "url": "/web-development/javascript-libraries/grunt",
       "fx": 853.6662190755208,
       "fy": -178.54452514648438,
       "category": "mindmap"
     },
     {
       "text": "npm  ️",
-      "url": "https://my.mindnode.com/9bmZLDspyMzpsB7p5vqMhmBxqXDYiDnxbUrY3GGx",
+      "url": "/programming/programming-languages/javascript/npm",
       "fx": 1093.4459838867188,
       "fy": -173.01318550109863,
       "category": "mindmap"
@@ -157,7 +157,7 @@
     },
     {
       "text": "webpack  ️",
-      "url": "https://my.mindnode.com/s6pamFzVLsjqEmECkedvcFuH8pdM47NuojDs8epy",
+      "url": "/web-development/javascript-libraries/webpack",
       "fx": 1653.1185913085938,
       "fy": -165.07349395751953,
       "category": "mindmap"
@@ -170,7 +170,7 @@
     },
     {
       "text": "jest  ️",
-      "url": "https://my.mindnode.com/vQttqzUvfzbk97qSDhtEZiFFmNpb9fy6XxtKPyz7",
+      "url": "/web-development/javascript-libraries/jest",
       "fx": 1323.2052001953125,
       "fy": -164.19062995910645,
       "category": "mindmap"
@@ -183,7 +183,7 @@
     },
     {
       "text": "preact  ️",
-      "url": "https://my.mindnode.com/s6r2X9DuxzoqMHHufvxsN8HLUWg1yLEDZfpsTfWL",
+      "url": "/web-development/javascript-libraries/preact",
       "fx": 417.57733154296875,
       "fy": -125.48646450042736,
       "category": "mindmap"
@@ -197,42 +197,42 @@
     },
     {
       "text": "vue.js  ️",
-      "url": "https://my.mindnode.com/nGBJtTf4DYUj4sxXXZRBn7YkRnxb1LtqLmzhonLn",
+      "url": "/web-development/javascript-libraries-/vuejs",
       "fx": 291.0352554321289,
       "fy": -123.46325874328613,
       "category": "mindmap"
     },
     {
       "text": "react  ️",
-      "url": "https://my.mindnode.com/ifaZsjVmDsFxTdqDDix8s3GyXibGvCArpc86ViZM",
+      "url": "/web-development/javascript-libraries/react",
       "fx": 169.35914611816406,
       "fy": -123.40617322921764,
       "category": "mindmap"
     },
     {
       "text": "angular  ️",
-      "url": "https://my.mindnode.com/QYBozsiUWZjbqguqyKSUV3psfhganW7PB1Wapxax",
+      "url": "/web-development/javascript-libraries/angularjs",
       "fx": 21.589630126953125,
       "fy": -122.06597995758068,
       "category": "mindmap"
     },
     {
       "text": "ember js  ️",
-      "url": "https://my.mindnode.com/5ZiWTQfkYuPuGrMQoHKEypmUzPVzDz1xrNbTo2ah",
+      "url": "/web-development/javascript-libraries/emberjs",
       "fx": -136.16109371185303,
       "fy": -119.04307746887207,
       "category": "mindmap"
     },
     {
       "text": "flux  ️",
-      "url": "https://my.mindnode.com/xyt9xRFxvmjedZmKKev7yGqztzU6qQkqJhp3mGDe",
+      "url": "/programming/software-development/architectural-patterns/flux",
       "fx": 122.79539113230817,
       "fy": -11.370446935874838,
       "category": "mindmap"
     },
     {
       "text": "redux  ️",
-      "url": "https://my.mindnode.com/eD7tx71JUqC6R4iqaPGxzvdR2ocpqGq5TVsxp2yk",
+      "url": "/web-development/javascript-libraries/redux",
       "fx": 236.55369825485855,
       "fy": -10.768922483764868,
       "category": "mindmap"

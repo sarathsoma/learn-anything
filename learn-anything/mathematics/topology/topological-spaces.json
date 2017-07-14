@@ -12,16 +12,23 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 175.71875,
-      "fy": -47.71484375
+      "fx": 178.60312499999998,
+      "fy": -59.271093750000034
+    },
+    {
+      "text": "manifolds  ️",
+      "url": "/mathematics/topology/topological-spaces/manifolds",
+      "fx": 51.0546875,
+      "fy": 58.00000000000006,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "1. construction and purpose of topological spaces",
       "url": "https://www.youtube.com/watch?v=1wyOoLUjUeI",
-      "fx": 338.71875,
-      "fy": -47.71484375,
+      "fx": 341.603125,
+      "fy": -59.271093750000034,
       "category": "video",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
@@ -32,8 +39,16 @@
       "source": "topological spaces",
       "target": "basics",
       "curve": {
-        "x": -2.81641,
-        "y": 72.9043
+        "x": -1.37422,
+        "y": 67.1262
+      }
+    },
+    {
+      "source": "basics",
+      "target": "manifolds  ️",
+      "curve": {
+        "x": -56.0242,
+        "y": 58.6355
       }
     }
   ]

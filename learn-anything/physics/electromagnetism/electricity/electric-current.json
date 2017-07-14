@@ -5,28 +5,35 @@
     {
       "text": "electric current",
       "url": "http://www.wikiwand.com/en/Electric_current",
-      "fx": -62.42578125,
-      "fy": -157.2734375,
+      "fx": -72.89376154556646,
+      "fy": -154.9393088054187,
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -25.2265625,
-      "fy": -14.421875
+      "fx": -23.727563115763587,
+      "fy": -13.929264162561594
     },
     {
       "text": "electrical resistivity  ️",
-      "url": "https://my.mindnode.com/N16DQHNypkD1C8UGU5VGNdJ1nzDBCeNftqq2PQye",
-      "fx": -235.3125,
-      "fy": 112.12723214285711,
+      "url": "/physics/electromagnetism/electricity/electric-current/electrical-resistivity",
+      "fx": -304.61884236453204,
+      "fy": 112.81396243842346,
       "category": "mindmap"
     },
     {
       "text": "voltage  ️",
-      "url": "https://my.mindnode.com/BhupAk7pQ9TjtpoAsbCrX2nk8XpvqLtX3zvggcRm",
-      "fx": 45.871122124697195,
-      "fy": 115.6758159301857,
+      "url": "/physics/electromagnetism/electricity/electric-current/voltage",
+      "fx": -37.87431917989204,
+      "fy": 114.64825253416154,
+      "category": "mindmap"
+    },
+    {
+      "text": "Kirchhoff’s circuit laws  ️",
+      "url": "/physics/electromagnetism/electricity/electric-current/kirchhoffs-circuit-laws",
+      "fx": 102.47510542027885,
+      "fy": 117.29802468510337,
       "category": "mindmap"
     }
   ],
@@ -34,8 +41,8 @@
     {
       "text": "1. explanation",
       "url": "https://www.youtube.com/watch?v=HXOok3mfMLM",
-      "fx": 130.7734375,
-      "fy": -2.921875,
+      "fx": 132.2724368842364,
+      "fy": -2.4292641625615943,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -46,24 +53,32 @@
       "source": "electric current",
       "target": "basics",
       "curve": {
-        "x": -7.65039,
-        "y": 70.1758
+        "x": -1.6669,
+        "y": 69.255
       }
     },
     {
       "source": "basics",
       "target": "voltage  ️",
       "curve": {
-        "x": 37.2989,
-        "y": 65.0488
+        "x": -5.32332,
+        "y": 64.2887
       }
     },
     {
       "source": "basics",
       "target": "electrical resistivity  ️",
       "curve": {
-        "x": -66.543,
-        "y": 69.5246
+        "x": -101.946,
+        "y": 69.6216
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Kirchhoff’s circuit laws  ️",
+      "curve": {
+        "x": 98.3513,
+        "y": 65.6136
       }
     }
   ]

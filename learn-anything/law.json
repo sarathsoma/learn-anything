@@ -25,14 +25,14 @@
     },
     {
       "text": "rights  ️",
-      "url": "https://my.mindnode.com/PqspiLyuwys6yetWfGUqoqpqfPGzRr3osziXPq4Q",
+      "url": "/law/rights",
       "fx": -449.7513620359007,
       "fy": -129.82683965189273,
       "category": "mindmap"
     },
     {
       "text": "property law  ️",
-      "url": "https://my.mindnode.com/SqZiWU6r8xT8EWhoWNMiMztkLjQSx5knyD7BWxUf",
+      "url": "/law/property-law",
       "fx": -642.3700534986431,
       "fy": -127.89266304347814,
       "category": "mindmap"
@@ -46,14 +46,14 @@
     },
     {
       "text": "governance  ️",
-      "url": "https://my.mindnode.com/ojzMZx1jER6mhuLwAckNsHUZsWNS5PSEis7zxPdN",
+      "url": "/law/governance",
       "fx": 282.45348569772796,
       "fy": -77.94498701079033,
       "category": "mindmap"
     },
     {
       "text": "politics  ️",
-      "url": "https://my.mindnode.com/jyGfsb3qosZpu4DgCnUxDNfwcCjhLjaSToVyCdxZ",
+      "url": "/law/politics",
       "fx": -7.411951764785954,
       "fy": -62.99975210765069,
       "category": "mindmap"
@@ -67,7 +67,7 @@
     },
     {
       "text": "software licenses  ️",
-      "url": "https://my.mindnode.com/qumP1wJy6DDKeZBfWh4pj3oc8fjcZxp2iXGz4pfd",
+      "url": "/law/software-licenses",
       "fx": -198.6162109375,
       "fy": 23.421936308856516,
       "category": "mindmap"

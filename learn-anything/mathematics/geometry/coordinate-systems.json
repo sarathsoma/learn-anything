@@ -17,9 +17,16 @@
     },
     {
       "text": "dimensions  ️",
-      "url": "https://my.mindnode.com/EKZzu4fBwFoGd4s1Dbx2xuEkxMtGkfsi69Duoyv8",
-      "fx": 211.07890820801765,
-      "fy": 125.93840068922395,
+      "url": "/mathematics/geometry/coordinate-systems/dimensions",
+      "fx": 156.48482131958008,
+      "fy": 128.57953071594238,
+      "category": "mindmap"
+    },
+    {
+      "text": "polar coordinate system  ️",
+      "url": "/mathematics/geometry/coordinate-systems/polar-coordinate-system",
+      "fx": 348.62729512790065,
+      "fy": 128.87478573312222,
       "category": "mindmap"
     }
   ],
@@ -47,8 +54,16 @@
       "source": "basics",
       "target": "dimensions  ️",
       "curve": {
-        "x": -46.7632,
-        "y": 63.6944
+        "x": -74.0602,
+        "y": 65.015
+      }
+    },
+    {
+      "source": "basics",
+      "target": "polar coordinate system  ️",
+      "curve": {
+        "x": 53.261,
+        "y": 65.1626
       }
     }
   ]

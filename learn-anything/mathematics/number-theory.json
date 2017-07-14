@@ -18,28 +18,34 @@
     },
     {
       "text": "algebraic number theory  ️",
-      "url": "https://my.mindnode.com/MZ5qGp2qWwZShsMLs8hVBAAbuZZXzXahyaq3qsja",
-      "fx": -832.4489005827111,
-      "fy": 118.26951481316792,
+      "url": "/mathematics/number-theory/algebraic-number-theory",
+      "fx": -824.7000274658203,
+      "fy": 118.26951599121094,
+      "category": "mindmap"
+    },
+    {
+      "text": "Fermat’s last theorem  ️",
+      "url": "/mathematics/number-theory/fermats-last-theorem",
+      "fx": -1094.7945808531745,
+      "fy": 120.21118551587301,
       "category": "mindmap"
     },
     {
       "text": "arithmetic  ️",
-      "url": "https://my.mindnode.com/XimK5sGQbFJy831xYyp4x5jNCCFbJ2p7xx7toPr8",
+      "url": "/mathematics/number-theory/arithmetic",
       "fx": -105.46815719031895,
       "fy": 122.26171525339095,
       "category": "mindmap"
     },
     {
       "text": "Fibonacci sequence  ️",
-      "url": "https://my.mindnode.com/ZqncZsC9qzsn64nWa7TiLQp6YWLsrPzmzNtxeKUJ",
+      "url": "/mathematics/number-theory/fibonacci-sequence",
       "fx": -530.1506652832031,
       "fy": 122.92407608032227,
       "category": "mindmap"
     },
     {
       "text": "numbers  ️",
-      "url": "https://my.mindnode.com/vyB35fW1TsZxTzwgFz5LGEhbVqG8GDEgApcApHHQ",
       "fx": -267.40741978609617,
       "fy": 124.14597259358277,
       "category": "mindmap"
@@ -102,8 +108,16 @@
       "source": "basics",
       "target": "algebraic number theory  ️",
       "curve": {
-        "x": -343.271,
+        "x": -339.397,
         "y": 32.8095
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Fermat’s last theorem  ️",
+      "curve": {
+        "x": -560.289,
+        "y": 27.9904
       }
     }
   ]

@@ -12,14 +12,21 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 7.755042109929036,
-      "fy": 20.278064051418426
+      "fx": 13.919905891980193,
+      "fy": 12.741004756546658
     },
     {
       "text": "viscous fluids  ️",
-      "url": "https://my.mindnode.com/mBpgRhYpeKhvT1x8rRkZN5Vbgwsi61gq8ATEFy1U",
-      "fx": -134.33811090225572,
-      "fy": 154.20148026315962,
+      "url": "/physics/continuum-mechanics/fluids/fluid-mechanics/viscous-fluids",
+      "fx": -171.36599159240723,
+      "fy": 192.12716674804688,
+      "category": "mindmap"
+    },
+    {
+      "text": "fluid dynamics  ️",
+      "url": "/physics/continuum-mechanics/fluids/fluid-mechanics/fluid-dynamics",
+      "fx": 23.76836271367597,
+      "fy": 194.22482638888903,
       "category": "mindmap"
     }
   ],
@@ -27,8 +34,8 @@
     {
       "text": "1. intro to fluid mechanics",
       "url": "https://www.youtube.com/watch?v=pAuQ4Hj2ZrU",
-      "fx": 163.75504210992904,
-      "fy": -5.221935948581574,
+      "fx": 169.9199058919802,
+      "fy": -32.75899524345334,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -36,8 +43,8 @@
     {
       "text": "1. fluids in motion",
       "url": "https://www.youtube.com/watch?v=fJefjG3xhW0",
-      "fx": 163.75504210992904,
-      "fy": 34.778064051418426,
+      "fx": 169.9199058919802,
+      "fy": 7.241004756546658,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -45,9 +52,18 @@
     {
       "text": "1. fundamentals of fluid mechanics",
       "url": "https://www.vssut.ac.in/lecture_notes/lecture1427495313.pdf",
-      "fx": 163.75504210992904,
-      "fy": 74.77806405141843,
+      "fx": 169.9199058919802,
+      "fy": 47.24100475654666,
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to fluid mechanics",
+      "url": "http://www.efm.leeds.ac.uk/CIVE/CIVE1400/PDF/Notes/section_all2.pdf",
+      "fx": 169.9199058919802,
+      "fy": 81.24100475654666,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],
@@ -56,16 +72,24 @@
       "source": "fluid mechanics",
       "target": "basics",
       "curve": {
-        "x": -5.14396,
-        "y": 77.7797
+        "x": -2.06153,
+        "y": 74.0112
       }
     },
     {
       "source": "basics",
       "target": "viscous fluids  ️",
       "curve": {
-        "x": -48.2966,
-        "y": 68.2117
+        "x": -69.893,
+        "y": 90.943
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fluid dynamics  ️",
+      "curve": {
+        "x": 22.6743,
+        "y": 90.7419
       }
     }
   ]

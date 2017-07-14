@@ -31,7 +31,7 @@
     {
       "text": "algorithms  ️",
       "note": "is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  they are essential to the way computers process data  they can be expressed in many kinds of notation, including  - natural languages - pseudocode - flowcharts - drakon-charts - programming languages - control tables  most algorithms are intended to be implemented as computer programs  however some are implemented as a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device",
-      "url": "https://my.mindnode.com/M9oKwx4cd9kzJqTpJsoUaqpGo2X2bvfwdp6ekodK#-61.3,248.6,1",
+      "url": "/computer-science/algorithms",
       "fx": 140.81180426139383,
       "fy": -238.313236705044,
       "category": "mindmap"
@@ -39,14 +39,14 @@
     {
       "text": "compilers  ️",
       "note": "are computer programs (or a set of programs) that transform source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code",
-      "url": "https://my.mindnode.com/8zoz2iumK52ZVSsuEr2bqY2cyzpx7icMS1nMsNH1",
+      "url": "/computer-science/compilers",
       "fx": 351.78001418057045,
       "fy": -238.01228051436567,
       "category": "mindmap"
     },
     {
       "text": "programming language theory  ️",
-      "url": "https://my.mindnode.com/6GZfjhTKw6cscXsr3MqFCLAfPnCs9dEEWSAuptrR",
+      "url": "/computer-science/programming-language-theory",
       "fx": 797.8155822753906,
       "fy": -236.89764785766602,
       "category": "mindmap"
@@ -54,14 +54,14 @@
     {
       "text": "data structures  ️",
       "note": "is a particular way of organising data in a computer so that it can be used efficiently  can implement one or more particular abstract data types (ADT), which specify the operations that can be performed on a data structure and the computational complexity of those operations  a data structure is a concrete implementation of the specification provided by an ADT  are generally based on the ability of a computer to fetch and store data at any place ints its memory, specified by a pointer (a bit string, representing a memory address), that can be itself stored in memory and manipulated by the program  implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure",
-      "url": "https://my.mindnode.com/2qFq7j3eSx2Szz3PcKGTbsSbM6psoYYGTErdyYXd",
+      "url": "/computer-science/data-structures",
       "fx": -105.10284015379466,
       "fy": -235.44336700439453,
       "category": "mindmap"
     },
     {
       "text": "virtual machines  ️",
-      "url": "https://my.mindnode.com/Y9qqxCqNzSV8GqxCg9yJvJGsvTJUSb3a9DzvvJGJ",
+      "url": "/computer-science/virtual-machines",
       "fx": -350.49400795305667,
       "fy": -234.8864814073529,
       "category": "mindmap"
@@ -69,7 +69,7 @@
     {
       "text": "computation  ️",
       "note": "computation is any type of calculation that follows a well-defined model understood and expressed as, for example, an algorithm",
-      "url": "https://my.mindnode.com/QWix8KpcBYXDpa7zVmVyiRbdv5KmAszxZqfyCP7s",
+      "url": "/computer-science/computation",
       "fx": 568.0502079441524,
       "fy": -234.0604268416771,
       "category": "mindmap"
@@ -77,21 +77,21 @@
     {
       "text": "concurrency  ️",
       "note": "is the decomposability property of a program, algorithm or problem into order-independent or partially-ordered components or units  this means that even if the concurrent units of the program, algorithm, or problem are executed out-of-order or in partial order, the final outcome will remain the same  this allows for parallel execution of the concurrent units  design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation and execution scheduling to minimise response time and maxima throughput",
-      "url": "https://my.mindnode.com/mb8GSLMzQTjoqN1AnmMbE8Uv91pyKfbA7NdAvvyk",
+      "url": "/computer-science/concurrency",
       "fx": -565.6000219580799,
       "fy": -233.11078847544468,
       "category": "mindmap"
     },
     {
       "text": "recursion  ️",
-      "url": "https://my.mindnode.com/shyEmRexQbPypbYYtjqoqPqA6ADoHvCi1Kzq4UuC",
+      "url": "/computer-science/recursion",
       "fx": -740.930084745763,
       "fy": -232.43365995762701,
       "category": "mindmap"
     },
     {
       "text": "program analysis  ️",
-      "url": "https://my.mindnode.com/jdKsypzB8Zfk5hDeraCD9Sq9aAkgZDxfQXpPfEnz",
+      "url": "/computer-science/program-analysis",
       "fx": -973.2771819526623,
       "fy": -231.1894415680474,
       "category": "mindmap"

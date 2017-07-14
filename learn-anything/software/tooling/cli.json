@@ -3,37 +3,786 @@
   "tag": "command line tools",
   "nodes": [
     {
-      "text": "command line tools",
-      "url": "https://github.com/learn-anything/command-line-tools",
-      "fx": 10.102679525102872,
-      "fy": 26.62735966273715,
-      "category": "github"
+      "text": "core utils",
+      "url": "",
+      "fx": 671.3442687988281,
+      "fy": 178.32921600341797
+    },
+    {
+      "text": "macOS",
+      "url": "",
+      "fx": 1518.0656512604787,
+      "fy": 187.49881827731213
+    },
+    {
+      "text": "useful",
+      "url": "",
+      "fx": 1026.1064453125,
+      "fy": 189.74595642089844
+    },
+    {
+      "text": "package managers",
+      "url": "",
+      "fx": 1844.3567689787806,
+      "fy": 190.01715612083433
+    },
+    {
+      "text": "static website engines",
+      "url": "",
+      "fx": 2214.530155470392,
+      "fy": 190.1239666337725
     },
     {
       "text": "find new cli tools",
       "url": "",
-      "fx": 32.131696428571445,
-      "fy": 175.65457589287075
+      "fx": 765.2541289770305,
+      "fy": 1000.2363687723623
     }
   ],
   "subnodes": [
     {
-      "text": "awesome cli apps",
-      "url": "https://github.com/aharris88/awesome-cli-apps",
-      "fx": 281.13169642857144,
-      "fy": 187.15457589287075,
+      "text": "ls",
+      "url": "https://www.explainshell.com/explain/ls",
+      "fx": 850.3442687988281,
+      "fy": -419.17078399658203,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "echo",
+      "url": "https://www.explainshell.com/explain/echo",
+      "fx": 850.3442687988281,
+      "fy": -385.17078399658203,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "mv",
+      "url": "https://www.explainshell.com/explain/mv",
+      "fx": 850.3442687988281,
+      "fy": -351.17078399658203,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "rm",
+      "url": "https://www.explainshell.com/explain/rm",
+      "fx": 850.3442687988281,
+      "fy": -317.17078399658203,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "sed",
+      "url": "https://www.explainshell.com/explain/sed",
+      "fx": 850.3442687988281,
+      "fy": -283.17078399658203,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "intro to sed",
+      "url": "http://www.grymoire.com/Unix/Sed.html",
+      "fx": 960.3442687988281,
+      "fy": -283.17078399658203,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "sed"
+    },
+    {
+      "text": "wc",
+      "url": "https://www.explainshell.com/explain/wc",
+      "fx": 850.3442687988281,
+      "fy": -249.17078399658203,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "sort",
+      "url": "https://www.explainshell.com/explain/1/sort",
+      "fx": 850.3442687988281,
+      "fy": -215.17078399658203,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "uniq",
+      "url": "https://www.explainshell.com/explain/uniq",
+      "fx": 850.3442687988281,
+      "fy": -181.17078399658203,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "tr",
+      "url": "https://www.explainshell.com/explain/tr",
+      "fx": 850.3442687988281,
+      "fy": -147.17078399658203,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "cut",
+      "url": "https://www.explainshell.com/explain/cut",
+      "fx": 850.3442687988281,
+      "fy": -113.17078399658203,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "paste",
+      "url": "https://www.explainshell.com/explain/paste",
+      "fx": 850.3442687988281,
+      "fy": -79.17078399658203,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "split",
+      "url": "https://www.explainshell.com/explain/1/split",
+      "fx": 850.3442687988281,
+      "fy": -45.17078399658203,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "join",
+      "url": "https://www.explainshell.com/explain/1/join",
+      "fx": 850.3442687988281,
+      "fy": -11.170783996582031,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "bc",
+      "url": "https://www.explainshell.com/explain/1/bc",
+      "fx": 850.3442687988281,
+      "fy": 22.82921600341797,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "find",
+      "url": "https://www.explainshell.com/explain/1/find",
+      "fx": 850.3442687988281,
+      "fy": 56.82921600341797,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "grep",
+      "url": "https://www.explainshell.com/explain/1/grep",
+      "fx": 850.3442687988281,
+      "fy": 90.82921600341797,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "ssh",
+      "url": "https://www.explainshell.com/explain/1/ssh",
+      "fx": 850.3442687988281,
+      "fy": 124.82921600341797,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "scp",
+      "url": "https://www.explainshell.com/explain/1/scp",
+      "fx": 850.3442687988281,
+      "fy": 158.82921600341797,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "nice",
+      "url": "https://www.explainshell.com/explain/1/nice",
+      "fx": 850.3442687988281,
+      "fy": 192.82921600341797,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "kill",
+      "url": "https://www.explainshell.com/explain/1/kill",
+      "fx": 850.3442687988281,
+      "fy": 226.82921600341797,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "top",
+      "url": "https://www.explainshell.com/explain/1/top",
+      "fx": 850.3442687988281,
+      "fy": 260.82921600341797,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "jobs",
+      "url": "https://www.explainshell.com/explain?cmd=jobs",
+      "fx": 850.3442687988281,
+      "fy": 294.82921600341797,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "cron",
+      "url": "https://www.explainshell.com/explain/8/cron",
+      "fx": 850.3442687988281,
+      "fy": 328.82921600341797,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "diff",
+      "url": "https://www.explainshell.com/explain/1/diff",
+      "fx": 850.3442687988281,
+      "fy": 362.82921600341797,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "awk",
+      "url": "https://www.explainshell.com/explain?cmd=awk",
+      "fx": 850.3442687988281,
+      "fy": 396.82921600341797,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "screen",
+      "url": "https://www.explainshell.com/explain/1/screen",
+      "fx": 850.3442687988281,
+      "fy": 430.82921600341797,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "gnuplot",
+      "url": "https://www.explainshell.com/explain/1/gnuplot",
+      "fx": 850.3442687988281,
+      "fy": 464.82921600341797,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "tree",
+      "url": "https://www.explainshell.com/explain/tree",
+      "fx": 850.3442687988281,
+      "fy": 498.82921600341797,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "killall",
+      "url": "https://www.explainshell.com/explain/killall",
+      "fx": 850.3442687988281,
+      "fy": 532.829216003418,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "touch",
+      "url": "https://www.explainshell.com/explain/touch",
+      "fx": 850.3442687988281,
+      "fy": 566.829216003418,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "type",
+      "url": "https://www.explainshell.com/explain?cmd=type",
+      "fx": 850.3442687988281,
+      "fy": 600.829216003418,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "tail",
+      "url": "https://www.explainshell.com/explain/tail",
+      "fx": 850.3442687988281,
+      "fy": 634.829216003418,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "head",
+      "url": "https://www.explainshell.com/explain/head",
+      "fx": 850.3442687988281,
+      "fy": 668.829216003418,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "cpu",
+      "url": "https://www.explainshell.com/explain/cpu",
+      "fx": 850.3442687988281,
+      "fy": 702.829216003418,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "man",
+      "url": "https://www.explainshell.com/explain/1/man",
+      "fx": 850.3442687988281,
+      "fy": 736.829216003418,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "chmod",
+      "url": "https://www.explainshell.com/explain/chmod",
+      "fx": 850.3442687988281,
+      "fy": 770.829216003418,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "ack",
+      "url": "https://beyondgrep.com/documentation/",
+      "fx": 850.3442687988281,
+      "fy": 804.829216003418,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "core utils"
+    },
+    {
+      "text": "m-cli",
+      "note": "useful utils for macOS",
+      "url": "https://github.com/rgcr/m-cli",
+      "fx": 1685.0656512604787,
+      "fy": 141.99881827731213,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "macOS"
+    },
+    {
+      "text": "mas",
+      "note": "cli for mac app store",
+      "url": "https://github.com/mas-cli/mas",
+      "fx": 1685.0656512604787,
+      "fy": 181.99881827731213,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "macOS"
+    },
+    {
+      "text": "tag",
+      "url": "https://github.com/jdberry/tag/",
+      "fx": 1685.0656512604787,
+      "fy": 221.99881827731213,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "macOS"
+    },
+    {
+      "text": "osx utils",
+      "url": "https://libraries.io/homebrew/osxutil",
+      "fx": 1685.0656512604787,
+      "fy": 261.9988182773121,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "macOS"
+    },
+    {
+      "text": "git  ️",
+      "url": "/programming/version-control/git",
+      "fx": 1177.1064453125,
+      "fy": -425.75404357910156,
+      "category": "mindmap",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "go",
+      "url": "https://golang.org/doc/cmd",
+      "fx": 1177.1064453125,
+      "fy": -385.75404357910156,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "docker",
+      "url": "https://docs.docker.com/",
+      "fx": 1177.1064453125,
+      "fy": -351.75404357910156,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "kubectl",
+      "url": "https://kubernetes.io/docs/user-guide/kubectl-overview/",
+      "fx": 1177.1064453125,
+      "fy": -317.75404357910156,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "ag",
+      "url": "https://github.com/ggreer/the_silver_searcher",
+      "fx": 1177.1064453125,
+      "fy": -283.75404357910156,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "curl",
+      "note": "transfer data, supports various protocols",
+      "url": "https://www.explainshell.com/explain/curl",
+      "fx": 1177.1064453125,
+      "fy": -249.75404357910156,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "reflex",
+      "note": "linting and fixing of code",
+      "url": "https://github.com/cespare/reflex",
+      "fx": 1177.1064453125,
+      "fy": -215.75404357910156,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "cmake",
+      "url": "https://www.explainshell.com/explain/1/cmake",
+      "fx": 1177.1064453125,
+      "fy": -175.75404357910156,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "ctop",
+      "url": "https://github.com/bcicen/ctop",
+      "fx": 1177.1064453125,
+      "fy": -141.75404357910156,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "gotty",
+      "url": "https://github.com/yudai/gotty",
+      "fx": 1177.1064453125,
+      "fy": -107.75404357910156,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "tmux",
+      "note": "terminal multiplexer",
+      "url": "https://github.com/tmux/tmux",
+      "fx": 1177.1064453125,
+      "fy": -73.75404357910156,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "jq",
+      "url": "https://github.com/stedolan/jq",
+      "fx": 1177.1064453125,
+      "fy": -33.75404357910156,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "pkg",
+      "url": "https://github.com/zeit/pkg",
+      "fx": 1177.1064453125,
+      "fy": 0.2459564208984375,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "fasd",
+      "note": "offers quick access to files and directories, inspired by autojump, z and v",
+      "url": "https://github.com/clvv/fasd",
+      "fx": 1177.1064453125,
+      "fy": 34.24595642089844,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "HTTPie",
+      "url": "https://httpie.org/",
+      "fx": 1177.1064453125,
+      "fy": 74.24595642089844,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "warp",
+      "url": "https://github.com/spolu/warp?attempt=8",
+      "fx": 1177.1064453125,
+      "fy": 108.24595642089844,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "ripgrep",
+      "note": "search text for patterns really fast",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "fx": 1177.1064453125,
+      "fy": 148.24595642089844,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "overview  ️",
+      "url": "http://blog.burntsushi.net/ripgrep/",
+      "fx": 1360.1064453125,
+      "fy": 148.24595642089844,
+      "category": "article",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "ripgrep"
+    },
+    {
+      "text": "fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "fx": 1177.1064453125,
+      "fy": 188.24595642089844,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "thefuck",
+      "note": "corrects your previous console command",
+      "url": "https://github.com/nvbn/thefuck",
+      "fx": 1177.1064453125,
+      "fy": 228.24595642089844,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "ccat",
+      "note": "cat command with colours",
+      "url": "https://github.com/jingweno/ccat",
+      "fx": 1177.1064453125,
+      "fy": 268.24595642089844,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "youtube-dl",
+      "note": "download videos from youtube and other video sites",
+      "url": "https://github.com/rg3/youtube-dl",
+      "fx": 1177.1064453125,
+      "fy": 308.24595642089844,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "pandoc",
+      "note": "universal markup converter",
+      "url": "https://github.com/jgm/pandoc",
+      "fx": 1177.1064453125,
+      "fy": 348.24595642089844,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "trash",
+      "note": "move files and folders to the trash",
+      "url": "https://github.com/sindresorhus/trash",
+      "fx": 1177.1064453125,
+      "fy": 388.24595642089844,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "vtop",
+      "note": "graphical activity monitor",
+      "url": "https://github.com/MrRio/vtop",
+      "fx": 1177.1064453125,
+      "fy": 428.24595642089844,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "howdoi",
+      "note": "instant coding answers",
+      "url": "https://github.com/gleitz/howdoi",
+      "fx": 1177.1064453125,
+      "fy": 468.24595642089844,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "asciinema",
+      "note": "terminal session recorder",
+      "url": "https://github.com/asciinema/asciinema",
+      "fx": 1177.1064453125,
+      "fy": 508.24595642089844,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "tldr",
+      "note": "simplified and community-driven man pages",
+      "url": "https://github.com/tldr-pages/tldr",
+      "fx": 1177.1064453125,
+      "fy": 548.2459564208984,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "imgcat",
+      "note": "like cat but for images",
+      "url": "https://github.com/eddieantonio/imgcat",
+      "fx": 1177.1064453125,
+      "fy": 588.2459564208984,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "screenfetch",
+      "note": "fetches system/theme information in terminal",
+      "url": "https://github.com/KittyKatt/screenFetch",
+      "fx": 1177.1064453125,
+      "fy": 628.2459564208984,
+      "category": "github",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "coala",
+      "note": "linting and fixing of code",
+      "url": "https://github.com/coala/coala",
+      "fx": 1177.1064453125,
+      "fy": 668.2459564208984,
+      "category": "github",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "create react app",
+      "note": "create React apps with no build configuration",
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "fx": 1177.1064453125,
+      "fy": 708.2459564208984,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "now cli",
+      "note": "realtime global deployments served over HTTP/2",
+      "url": "https://github.com/zeit/now-cli",
+      "fx": 1177.1064453125,
+      "fy": 748.2459564208984,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "license up",
+      "note": "create a license quickly for a given name",
+      "url": "https://github.com/nikitavoloboev/license-up",
+      "fx": 1177.1064453125,
+      "fy": 788.2459564208984,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "z",
+      "note": "jump around your file system",
+      "url": "https://github.com/rupa/z",
+      "fx": 1177.1064453125,
+      "fy": 828.2459564208984,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "useful"
+    },
+    {
+      "text": "yarn",
+      "note": "fast, reliable, and secure dependency management for javascript",
+      "url": "https://yarnpkg.com/lang/en/docs/",
+      "fx": 2116.3567689787806,
+      "fy": 170.51715612083433,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "package managers"
+    },
+    {
+      "text": "npm",
+      "url": "http://manpages.ubuntu.com/manpages/precise/en/man1/npm.1.html",
+      "fx": 2116.3567689787806,
+      "fy": 204.51715612083433,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "package managers"
+    },
+    {
+      "text": "brew",
+      "url": "http://docs.brew.sh/",
+      "fx": 2116.3567689787806,
+      "fy": 238.51715612083433,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "package managers"
+    },
+    {
+      "text": "hugo",
+      "note": "fast and flexible static site generator",
+      "url": "https://gohugo.io/commands/",
+      "fx": 2512.530155470392,
+      "fy": 187.6239666337725,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "static website engines"
+    },
+    {
+      "text": "jekyll",
+      "url": "https://jekyllrb.com/docs/home/",
+      "fx": 2512.530155470392,
+      "fy": 221.6239666337725,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "static website engines"
+    },
+    {
+      "text": "awesome command line",
+      "url": "https://github.com/herrbischoff/awesome-command-line-apps",
+      "fx": 1014.2541289770311,
+      "fy": 971.7363687723623,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "find new cli tools"
+    },
+    {
+      "text": "awesome cli apps",
+      "url": "https://github.com/aharris88/awesome-cli-apps",
+      "fx": 1014.2541289770311,
+      "fy": 1011.7363687723623,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "find new cli tools"
+    },
+    {
+      "text": "awesome shell",
+      "url": "https://github.com/alebcay/awesome-shell",
+      "fx": 1014.2541289770311,
+      "fy": 1051.7363687723623,
+      "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "find new cli tools"
     }
   ],
   "connections": [
     {
-      "source": "command line tools",
-      "target": "find new cli tools",
+      "source": "find new cli tools",
+      "target": "core utils",
       "curve": {
-        "x": -2.73549,
-        "y": 73.2636
+        "x": -90.5213,
+        "y": -384.934
       }
     }
   ]

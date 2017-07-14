@@ -12,21 +12,21 @@
     {
       "text": "pytorch  ️",
       "note": "tensors and dynamic neural networks in python with strong GPU acceleration",
-      "url": "https://my.mindnode.com/9ABQqxkZGqGtY2QKRkwyt7q3pfzMkoSQTgJ5anZn",
+      "url": "/machine-learning/machine-learning-libraries/pytorch",
       "fx": -44.51439666748047,
       "fy": -243.2207908630371,
       "category": "mindmap"
     },
     {
       "text": "torch  ️",
-      "url": "https://my.mindnode.com/zqcBKdtGqSVwEik7gqrYrynGeyfSXYLVyqxE72Q2",
+      "url": "/machine-learning/machine-learning-libraries/torch",
       "fx": 124.58058166503906,
       "fy": -242.64648818969727,
       "category": "mindmap"
     },
     {
       "text": "scikit-learn  ️",
-      "url": "https://my.mindnode.com/35hVLCpp3wbpsx4YqVD9XxpczbpPpyWJjwWfsfAq",
+      "url": "/machine-learning/machine-learning-libraries/scikit-learn",
       "fx": 246.69708251953125,
       "fy": -241.13748931884766,
       "category": "mindmap"
@@ -40,7 +40,7 @@
     },
     {
       "text": "tensorflow  ️",
-      "url": "https://my.mindnode.com/qA5158JZkdJzGWzr54AswZkmxPnwBJVTc89mytzy#15.3,278.5,2",
+      "url": "/machine-learning/machine-learning-libraries/tensorflow",
       "fx": -213.57716369628906,
       "fy": -240.63387298583984,
       "category": "mindmap"
@@ -48,7 +48,7 @@
     {
       "text": "caffe  ️",
       "note": "deep learning framework made with expression, speed and modularity in mind  has  expressive architecture extensible code speed community",
-      "url": "https://my.mindnode.com/QvtUUHWYL2TsoWD4QbrW8DCg8Fxy7yzmtWtqFG1z",
+      "url": "/machine-learning/machine-learning-libraries/caffe",
       "fx": -710.3664148326699,
       "fy": -240.26694963743893,
       "category": "mindmap"
@@ -69,7 +69,7 @@
     },
     {
       "text": "nnabla  ️",
-      "url": "https://my.mindnode.com/CwkzqyG8yypsZKSomVWviKx6nsBB9xbRxuaiqoHc",
+      "url": "/machine-learning/machine-learning-libraries/nnabla",
       "fx": 431.02264664837367,
       "fy": -238.78145082793884,
       "category": "mindmap"
@@ -83,7 +83,7 @@
     },
     {
       "text": "MXNet  ️",
-      "url": "https://my.mindnode.com/PGz5R5AHyZ1qCanKhziqRwLgpNEHF7AuAZzsSJSn",
+      "url": "/machine-learning/machine-learning-libraries/mxnet",
       "fx": -1271.7506205546772,
       "fy": -234.65124032419618,
       "category": "mindmap"
@@ -97,7 +97,7 @@
     },
     {
       "text": "keras  ️",
-      "url": "https://my.mindnode.com/rApczcRbzmMrgkZtP6QmEyTRGUvgiyThASZrPP5C",
+      "url": "/machine-learning/machine-learning-libraries/keras",
       "fx": -281.8561435669892,
       "fy": -135.22972034483928,
       "category": "mindmap"

@@ -12,40 +12,58 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 328.4887809108702,
-      "fy": -167.06787366615436
+      "fx": 310.6450309108702,
+      "fy": -151.97412366615436
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 170.22659632034618,
-      "fy": -28.076484713203513
+      "fx": 103.7370129870128,
+      "fy": 31.321952786796487
     }
   ],
   "subnodes": [
     {
       "text": "17: generative models and GANs  ️",
       "url": "https://medium.com/towards-data-science/generative-models-and-gans-fe7efc20020b",
-      "fx": 497.4887809108702,
-      "fy": -154.56787366615436,
+      "fx": 479.6450309108702,
+      "fy": -172.97412366615436,
       "category": "article",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
+      "text": "17: abusing GANs to make 8-bit pixel art  ️",
+      "url": "https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7",
+      "fx": 479.6450309108702,
+      "fy": -130.97412366615436,
+      "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "articles"
+    },
+    {
       "text": "1. Ian Goodfellow : generative adversarial networks",
       "url": "https://www.youtube.com/watch?v=HN9NRhm9waY",
-      "fx": 333.2265963203462,
-      "fy": -49.07648471320351,
+      "fx": 266.7370129870128,
+      "fy": -23.178047213203513,
       "category": "video",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. introduction to GANs with code in TensorFlow  ️",
+      "url": "http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/",
+      "fx": 266.7370129870128,
+      "fy": 43.82195278679649,
+      "category": "article",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "2. delving deep into GANs",
       "url": "https://github.com/GKalliatakis/Delving-deep-into-GANs",
-      "fx": 333.2265963203462,
-      "fy": 17.923515286796487,
+      "fx": 266.7370129870128,
+      "fy": 110.82195278679649,
       "category": "github",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
@@ -56,16 +74,16 @@
       "source": "generative adversarial networks",
       "target": "basics",
       "curve": {
-        "x": -8.78318,
-        "y": 132.997
+        "x": -42.028,
+        "y": 162.696
       }
     },
     {
       "source": "articles",
       "target": "generative adversarial networks",
       "curve": {
-        "x": -71.8479,
-        "y": -63.5016
+        "x": -62.926,
+        "y": -71.0485
       }
     }
   ]

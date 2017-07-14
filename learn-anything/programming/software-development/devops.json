@@ -31,21 +31,21 @@
     },
     {
       "text": "cloud computing  ️",
-      "url": "https://my.mindnode.com/LzjyjVYrG71xcmnNarSMbYAhR8ip58z6eS3fzfo5",
+      "url": "/programming/software-development/devops/cloud-computing",
       "fx": 536.108051120938,
       "fy": -509.8821885664386,
       "category": "mindmap"
     },
     {
       "text": "continuous integration  ️",
-      "url": "https://my.mindnode.com/Spim2n6dSkxHVpLwYZDWgbKzwwwKD9LEpTpJH3ru",
+      "url": "/programming/software-development/devops/continuous-integration",
       "fx": 240.48871149360116,
       "fy": -509.8281487551602,
       "category": "mindmap"
     },
     {
       "text": "docker  ️",
-      "url": "https://my.mindnode.com/mckfV3fnWaJJirpCTcieUhRdyMT3TuLHq6RY54Gs",
+      "url": "/programming/software-development/devops/docker",
       "fx": 477.66309686622003,
       "fy": -430.74175196001465,
       "category": "mindmap"
@@ -70,28 +70,28 @@
     },
     {
       "text": "chef  ️",
-      "url": "https://my.mindnode.com/AoWytgNd5KGWqk5w1C1h7yfUBRyXZeAkdqTwidRg",
+      "url": "/programming/software-development/devops/chef",
       "fx": -904.4762852555614,
       "fy": -424.97635042869445,
       "category": "mindmap"
     },
     {
       "text": "terraform  ️",
-      "url": "https://my.mindnode.com/wKsz4Z2JxPeriLwQ2LRqHpGUzzP32vphfrsT92SH",
+      "url": "/programming/software-development/devops/terraform",
       "fx": -351.2921162636692,
       "fy": -424.6134490870096,
       "category": "mindmap"
     },
     {
       "text": "puppet  ️",
-      "url": "https://my.mindnode.com/d7UfkvGCqgmZpnLX8PpypRxsg3dsQWyqns7gwg7q",
+      "url": "/programming/software-development/devops/puppet",
       "fx": -781.8198751634831,
       "fy": -423.68340973627005,
       "category": "mindmap"
     },
     {
       "text": "ansible  ️",
-      "url": "https://my.mindnode.com/qxB5SQXpxFML8WSYfgpgs9c1zvyyu1JXGbGzSZGf",
+      "url": "/programming/software-development/devops/ansible",
       "fx": -632.2639383819878,
       "fy": -422.44905314042603,
       "category": "mindmap"
@@ -145,7 +145,7 @@
     },
     {
       "text": "nginx  ️",
-      "url": "https://my.mindnode.com/vgUdobqCgPAzpNFwxi779aqRiqcHTXcgmrskyQqd",
+      "url": "/programming/software-development/devops/nginx",
       "fx": 514.5602481613762,
       "fy": -172.23074248878572,
       "category": "mindmap"
@@ -191,7 +191,7 @@
     },
     {
       "text": "kubernetes  ️",
-      "url": "https://my.mindnode.com/qD6Dva6VnUKLM1xg3tisnTznnXkBgpYd8nfyjGkn",
+      "url": "/programming/software-development/devops/kubernetes",
       "fx": -361.0986942000659,
       "fy": -0.45778951121292266,
       "category": "mindmap"
@@ -244,28 +244,28 @@
     },
     {
       "text": "docker swarm  ️",
-      "url": "https://my.mindnode.com/XwWBqZU1TBDj3dG88xaBbzwY1TU99cKxsmBVskuY",
+      "url": "/programming/software-development/devops/docker/docker-swarm",
       "fx": -204.2766966715044,
       "fy": 215.0369568534661,
       "category": "mindmap"
     },
     {
       "text": "cli  ️",
-      "url": "https://my.mindnode.com/XcsEDRdzwdo86zsfaQVmFR2pmXCXhkSvyqpynY97",
+      "url": "/software/tooling/cli",
       "fx": 353.81960201263405,
       "fy": 224.1126449317269,
       "category": "mindmap"
     },
     {
       "text": "bash  ️",
-      "url": "https://my.mindnode.com/gvKrazbC3joUVUJ6oTpyxHrKtZDsifk28UYyJdq8",
+      "url": "/operating-systems/unix/shells/bash",
       "fx": 101.09724840865465,
       "fy": 312.16027416034376,
       "category": "mindmap"
     },
     {
       "text": "vim  ️",
-      "url": "https://my.mindnode.com/onsumXxs7xywXeQxDHEJxfM8pQ5YNxmfzfxQc74T",
+      "url": "/software/tooling/text-editors/vim",
       "fx": 270.9837844755232,
       "fy": 325.59777965193416,
       "category": "mindmap"

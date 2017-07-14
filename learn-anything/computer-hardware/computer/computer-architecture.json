@@ -12,19 +12,26 @@
     {
       "text": "von Neumann architecture",
       "url": "http://www.wikiwand.com/en/Von_Neumann_architecture",
-      "fx": 63.34413453069749,
-      "fy": 61.34870775763568,
+      "fx": 55.69132399610646,
+      "fy": 72.28129423562314,
       "category": "wiki"
+    },
+    {
+      "text": "multithreading  ️",
+      "url": "/computer-hardware/computer/computer-architecture/multithreading",
+      "fx": -173.2658227848102,
+      "fy": 72.78481012658239,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/comparch/",
-      "fx": 332.40481505102036,
+      "fx": 354.40481505102036,
       "fy": -80.92522321428572,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "computer architecture"
     }
   ],
@@ -33,8 +40,16 @@
       "source": "computer architecture",
       "target": "von Neumann architecture",
       "curve": {
-        "x": 58.9696,
-        "y": 78.137
+        "x": 55.1432,
+        "y": 83.6033
+      }
+    },
+    {
+      "source": "computer architecture",
+      "target": "multithreading  ️",
+      "curve": {
+        "x": -117.585,
+        "y": 83.105
       }
     }
   ]

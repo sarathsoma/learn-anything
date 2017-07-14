@@ -18,9 +18,16 @@
     },
     {
       "text": "data compression  ️",
-      "url": "https://my.mindnode.com/Ru5Yp8xqkvEpn1p44NF4oKWpfS2bAFBmpU67Gyrq",
-      "fx": -55.9029854414639,
-      "fy": -12.165761334295553,
+      "url": "/information-theory/signals/signal-processing/data-compression",
+      "fx": -58.46283149719238,
+      "fy": -12.16576099395752,
+      "category": "mindmap"
+    },
+    {
+      "text": "compressed sensing  ️",
+      "url": "/information-theory/signals/signal-processing/compressed-sensing",
+      "fx": 200.55048076923003,
+      "fy": -12.07612179487171,
       "category": "mindmap"
     }
   ],
@@ -66,8 +73,16 @@
       "source": "basics",
       "target": "data compression  ️",
       "curve": {
-        "x": -84.7493,
+        "x": -86.0292,
         "y": 63.9272
+      }
+    },
+    {
+      "source": "basics",
+      "target": "compressed sensing  ️",
+      "curve": {
+        "x": 53.4775,
+        "y": 63.9721
       }
     }
   ]

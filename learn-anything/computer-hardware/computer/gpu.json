@@ -19,14 +19,14 @@
     {
       "text": "CUDA  ️",
       "note": "CUDA allows you to write what are called kernels  which are little blocks of parallel C++ or Fortran code which run your program’s bottlenecks on the GPU  it’s used for a lot of scientific / numerical applications, since these applications are often extremely computationally intensive but at the same time don’t involve a lot of complicated logic and abstraction and thus are (relatively) easy to parallelise",
-      "url": "https://my.mindnode.com/WicsHkTZ79jrtJm8sqtbHygr8qsJSa8kGKx68KN4",
+      "url": "/computer-hardware/computer/gpu/cuda",
       "fx": 20.633384327935687,
       "fy": 171.19776482671853,
       "category": "mindmap"
     },
     {
       "text": "OpenCL  ️",
-      "url": "https://my.mindnode.com/cPLzpxwsapXvTE3viS6TJesH6WmnV2uqG2Bueqi4",
+      "url": "/computer-hardware/computer/gpu/opencl",
       "fx": -172.28014539863005,
       "fy": 191.28849560105834,
       "category": "mindmap"

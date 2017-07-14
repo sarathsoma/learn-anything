@@ -5,44 +5,59 @@
     {
       "text": "category theory",
       "url": "http://www.wikiwand.com/en/Category_theory",
-      "fx": -152.48117405746098,
-      "fy": -126.05984112394964,
+      "fx": -112.59507208377681,
+      "fy": -202.70135702307243,
       "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 52.735363924050716,
+      "fy": -100.05903876582278
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 24.481335644815317,
-      "fy": 5.921654772977718
+      "fx": 115.13842127724331,
+      "fy": -11.044128510836572
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -129.0505014898862,
-      "fy": 286.1741679004424
+      "fx": -131.7617750113916,
+      "fy": 287.24943671764663
     },
     {
       "text": "categories  ️",
-      "url": "https://my.mindnode.com/RmCNrFfTKsrNLUNYmxrkqq7Nhg3Pi3HukreFhi9u",
-      "fx": -315.3396337365612,
-      "fy": 413.40524193548356,
+      "url": "/mathematics/category-theory/categories",
+      "fx": -344.92091114884187,
+      "fy": 410.69827921618514,
       "category": "mindmap"
     },
     {
       "text": "profunctors  ️",
-      "url": "https://my.mindnode.com/s4jXw87itBKFioqcaxCSp8wCP1XhvSHyzv3orwqn",
-      "fx": -132.71182647670537,
-      "fy": 560.4989416927965,
+      "url": "/mathematics/category-theory/profunctors",
+      "fx": -232.92769818723173,
+      "fy": 520.2234482717439,
       "category": "mindmap"
     }
   ],
   "subnodes": [
     {
+      "text": "glossary of category theory",
+      "url": "http://www.wikiwand.com/en/Glossary_of_category_theory",
+      "fx": 189.73536392405072,
+      "fy": -88.55903876582278,
+      "category": "wiki",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "category theory, syntactically  ️",
       "url": "http://www.hedonisticlearning.com/posts/category-theory-syntactically.html",
-      "fx": 186.48133564481532,
-      "fy": 17.421654772977718,
+      "fx": 277.1384212772433,
+      "fy": 0.4558714891634281,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -50,8 +65,8 @@
     {
       "text": "1. category theory in context",
       "url": "http://www.math.jhu.edu/~eriehl/context.pdf",
-      "fx": 52.94949851011381,
-      "fy": 113.6741679004424,
+      "fx": 50.23822498860841,
+      "fy": 83.74943671764663,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -59,17 +74,26 @@
     {
       "text": "1. basic category theory",
       "url": "https://arxiv.org/pdf/1612.09375.pdf",
-      "fx": 52.94949851011381,
-      "fy": 153.6741679004424,
+      "fx": 50.23822498860841,
+      "fy": 123.74943671764663,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. category theory explained by nLab  ️",
+      "url": "https://ncatlab.org/nlab/show/category+theory",
+      "fx": 50.23822498860841,
+      "fy": 163.74943671764663,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. category theory for scientists",
       "url": "https://arxiv.org/abs/1302.6946",
-      "fx": 52.94949851011381,
-      "fy": 193.6741679004424,
+      "fx": 50.23822498860841,
+      "fy": 225.74943671764663,
       "category": "paper",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -77,8 +101,8 @@
     {
       "text": "2. conceptual mathematics: a first introduction to categories",
       "url": "http://www.goodreads.com/book/show/1511125.Conceptual_Mathematics",
-      "fx": 52.94949851011381,
-      "fy": 233.6741679004424,
+      "fx": 50.23822498860841,
+      "fy": 265.74943671764663,
       "category": "non-free book",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
@@ -86,8 +110,8 @@
     {
       "text": "2. category theory for programmers",
       "url": "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
-      "fx": 52.94949851011381,
-      "fy": 295.6741679004424,
+      "fx": 50.23822498860841,
+      "fy": 327.74943671764663,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -95,8 +119,8 @@
     {
       "text": "2. category theory lectures",
       "url": "https://www.youtube.com/watch?v=I8LbkfSSR58&amp;list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_",
-      "fx": 52.94949851011381,
-      "fy": 357.6741679004424,
+      "fx": 50.23822498860841,
+      "fy": 389.74943671764663,
       "category": "video",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
@@ -104,8 +128,8 @@
     {
       "text": "2. category theory by Tom Lagatta",
       "url": "https://www.youtube.com/watch?v=o6L6XeNdd_k&amp;feature=youtu.be",
-      "fx": 52.94949851011381,
-      "fy": 397.6741679004424,
+      "fx": 50.23822498860841,
+      "fy": 429.74943671764663,
       "category": "video",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -113,8 +137,8 @@
     {
       "text": "2. the categorical abstract machine",
       "url": "http://www.sciencedirect.com/science/article/pii/0167642387900207",
-      "fx": 52.94949851011381,
-      "fy": 459.6741679004424,
+      "fx": 50.23822498860841,
+      "fy": 491.74943671764663,
       "category": "paper",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -125,32 +149,40 @@
       "source": "category theory",
       "target": "basics",
       "curve": {
-        "x": -16.2846,
-        "y": 204.867
-      }
-    },
-    {
-      "source": "articles",
-      "target": "category theory",
-      "curve": {
-        "x": -61.9813,
-        "y": -64.7407
+        "x": -37.5833,
+        "y": 243.726
       }
     },
     {
       "source": "basics",
       "target": "profunctors  ️",
       "curve": {
-        "x": 3.16932,
-        "y": 137.162
+        "x": -45.583,
+        "y": 116.487
       }
     },
     {
       "source": "basics",
       "target": "categories  ️",
       "curve": {
-        "x": -90.6445,
-        "y": 63.6155
+        "x": -104.08,
+        "y": 61.7244
+      }
+    },
+    {
+      "source": "help",
+      "target": "category theory",
+      "curve": {
+        "x": -49.9152,
+        "y": -50.0712
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -37.4515,
+        "y": -44.5075
       }
     }
   ]

@@ -5,34 +5,63 @@
     {
       "text": "scikit-learn",
       "url": "https://github.com/scikit-learn/scikit-learn",
-      "fx": -116.2265625,
-      "fy": -154.10546875,
+      "fx": -59.27847782258061,
+      "fy": -329.3096018145161,
       "category": "github"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 56.120362189508114,
+      "fy": -206.0548338120983
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 138.70352985012914,
+      "fy": -89.60230199752306
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -96.828125,
-      "fy": -28.93359375
+      "fx": -150.65093231201172,
+      "fy": 37.69112014770508
     }
   ],
   "subnodes": [
     {
+      "text": "1. scikit-learn tutorials",
+      "url": "http://scikit-learn.org/stable/tutorial/index.html",
+      "fx": 197.1203621895081,
+      "fy": -191.0548338120983,
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "scikit-learn classification algorithms",
+      "url": "https://github.com/mmmayo13/scikit-learn-classifiers/blob/master/sklearn-classifiers-tutorial.ipynb",
+      "fx": 337.70352985012914,
+      "fy": -89.60230199752306,
+      "category": "github",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "interesting"
+    },
+    {
       "text": "1. quick start",
       "url": "http://scikit-learn.org/stable/tutorial/basic/tutorial.html",
-      "fx": 85.171875,
-      "fy": -45.43359375,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 38.34906768798828,
+      "fy": 19.191120147705078,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. machine learning in python with scikit-learn",
       "url": "https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A",
-      "fx": 85.171875,
-      "fy": -11.43359375,
+      "fx": 38.34906768798828,
+      "fy": 56.19112014770508,
       "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -41,8 +70,24 @@
       "source": "scikit-learn",
       "target": "basics",
       "curve": {
-        "x": -7.55079,
-        "y": 61.3359
+        "x": -62.9362,
+        "y": 182.25
+      }
+    },
+    {
+      "source": "help",
+      "target": "scikit-learn",
+      "curve": {
+        "x": -33.9494,
+        "y": -60.8774
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -55.7916,
+        "y": -58.2263
       }
     }
   ]

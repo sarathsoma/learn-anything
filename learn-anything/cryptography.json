@@ -31,14 +31,14 @@
     },
     {
       "text": "cryptanalysis  ️",
-      "url": "https://my.mindnode.com/5mnsmbWz15EQY1XgVZPtE123z9u7PHcykXmXXWhj",
+      "url": "/cryptography/cryptanalysis",
       "fx": -46.33514648180744,
       "fy": 552.498589245222,
       "category": "mindmap"
     },
     {
       "text": "cryptographic hash functions  ️",
-      "url": "https://my.mindnode.com/9Tx7VQHpTrwUJtf1x7rcwPyt7q3vpM4kiMTws1qA",
+      "url": "/cryptography/cryptographic-hash-functions",
       "fx": -902.3167195855614,
       "fy": 556.3373579545454,
       "category": "mindmap"
@@ -46,28 +46,28 @@
     {
       "text": "encryption  ️",
       "note": "allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted",
-      "url": "https://my.mindnode.com/qWEzhMurSUCvDyqXq2p6nnUd5cdKSrq6vUnpbNrp",
+      "url": "/cryptography/encryption",
       "fx": -255.0542243058594,
       "fy": 556.535515638381,
       "category": "mindmap"
     },
     {
       "text": "zero-knowledge proofs  ️",
-      "url": "https://my.mindnode.com/9k24kzbGhMuqkGryqaJEy5KxJ28zzjfs1qvBTHXm",
+      "url": "/cryptography/zero-knowledge-proofs",
       "fx": -553.6724291885754,
       "fy": 556.927085931835,
       "category": "mindmap"
     },
     {
       "text": "steganography  ️",
-      "url": "https://my.mindnode.com/9GeejS1b1sQ4wsZo4sy3frtgZjHpg3oqNdjYGz7H",
+      "url": "/cryptography/steganography",
       "fx": -1112.5494589345171,
       "fy": 558.7253109970449,
       "category": "mindmap"
     },
     {
       "text": "universal composability  ️",
-      "url": "https://my.mindnode.com/Euwuw5HNzCqepF4RX8Y57TeZLSrWD7BHjqZGVPCH",
+      "url": "/cryptography/universal-composability",
       "fx": -1396.754871122749,
       "fy": 561.2775348038356,
       "category": "mindmap"

@@ -14,6 +14,13 @@
       "url": "",
       "fx": 235.89250920842653,
       "fy": -296.19663951058703
+    },
+    {
+      "text": "short-time Fourier transform  ️",
+      "url": "/mathematics/analysis/fourier-analysis/fourier-transform/short-time-fourier-transform",
+      "fx": 28.365048906989728,
+      "fy": -132.78675856307257,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -42,6 +49,14 @@
       "curve": {
         "x": -10.1768,
         "y": 82.0111
+      }
+    },
+    {
+      "source": "basics",
+      "target": "short-time Fourier transform  ️",
+      "curve": {
+        "x": -54.7637,
+        "y": 81.7049
       }
     }
   ]

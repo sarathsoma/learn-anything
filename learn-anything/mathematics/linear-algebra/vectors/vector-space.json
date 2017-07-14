@@ -3,9 +3,9 @@
   "tag": "vector spaces",
   "nodes": [
     {
-      "text": "vector space",
+      "text": "vector spaces",
       "url": "http://www.wikiwand.com/en/Vector_space",
-      "fx": -136.683789552005,
+      "fx": -141.683789552005,
       "fy": -232.76564458020056,
       "category": "wiki"
     },
@@ -16,24 +16,31 @@
       "fy": -107.40234375
     },
     {
+      "text": "dual spaces  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space/dual-spaces",
+      "fx": -540.6800245795076,
+      "fy": 66.14959061662057,
+      "category": "mindmap"
+    },
+    {
       "text": "inner product space  ️",
-      "url": "https://my.mindnode.com/xkgDGA9fVmZRaQUtzbASAPYqzj6h684tq3pnUf8v",
-      "fx": 94.3783950805664,
-      "fy": 62.20759391784668,
+      "url": "/mathematics/linear-algebra/vectors/vector-space/inner-product-space",
+      "fx": 233.2963638305664,
+      "fy": 66.16462516784668,
       "category": "mindmap"
     },
     {
       "text": "normed vector space  ️",
-      "url": "https://my.mindnode.com/Sp6J1NqUH7Wp2sLLphaHUHjMDyz88Tff7szq2RKy",
-      "fx": -472.8164501404407,
-      "fy": 63.823180009363284,
+      "url": "/mathematics/linear-algebra/vectors/vector-space/normed-vector-space",
+      "fx": -333.8984813904407,
+      "fy": 67.78021125936328,
       "category": "mindmap"
     },
     {
       "text": "vector space model  ️",
-      "url": "https://my.mindnode.com/yre3sP9ATDvW7Kuyzhh87LxppGTiPqcFub1YnH77",
-      "fx": -181.74960041046143,
-      "fy": 63.867902755737305,
+      "url": "/mathematics/linear-algebra/vectors/vector-space/vector-space-model",
+      "fx": -42.831631660461426,
+      "fy": 67.8249340057373,
       "category": "mindmap"
     }
   ],
@@ -50,10 +57,10 @@
   ],
   "connections": [
     {
-      "source": "vector space",
+      "source": "vector spaces",
       "target": "basics",
       "curve": {
-        "x": -1.13402,
+        "x": 1.36598,
         "y": 61.4317
       }
     },
@@ -61,24 +68,32 @@
       "source": "basics",
       "target": "vector space model  ️",
       "curve": {
-        "x": -13.1489,
-        "y": 85.6351
+        "x": 56.3101,
+        "y": 87.6136
       }
     },
     {
       "source": "basics",
       "target": "inner product space  ️",
       "curve": {
-        "x": 132.665,
-        "y": 86.055
+        "x": 202.124,
+        "y": 88.0335
       }
     },
     {
       "source": "basics",
       "target": "normed vector space  ️",
       "curve": {
-        "x": -151.682,
-        "y": 85.6128
+        "x": -82.2233,
+        "y": 87.5913
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dual spaces  ️",
+      "curve": {
+        "x": -259.865,
+        "y": 71.0848
       }
     }
   ]

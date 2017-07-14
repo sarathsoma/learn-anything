@@ -24,7 +24,7 @@
     },
     {
       "text": "windows  ️",
-      "url": "https://my.mindnode.com/yxcnFoyVpJecxFRoqfQ8orzsu3zesCAcS9jjMPZM",
+      "url": "/operating-systems/windows",
       "fx": -20.70330255681995,
       "fy": 266.32623048262167,
       "category": "mindmap"
@@ -38,56 +38,56 @@
     },
     {
       "text": "unix  ️",
-      "url": "https://my.mindnode.com/tnBjfWixxzaxU7G2ncpZUqjDS8qnFFx5ZrqdTRLe",
+      "url": "/operating-systems/unix",
       "fx": -150.64038189900964,
       "fy": 271.0578943365548,
       "category": "mindmap"
     },
     {
       "text": "fuchsia  ️",
-      "url": "https://my.mindnode.com/DVVBs4v9UTRzs3Mtqxm7XPxrZZsVAHp9dRnTde6s",
+      "url": "/operating-systems/fuchsia",
       "fx": -307.6897878882909,
       "fy": 272.1813589555718,
       "category": "mindmap"
     },
     {
       "text": "kernel  ️",
-      "url": "https://my.mindnode.com/jpo6SPa6Rr5qkjQC6LSqEbPVYSZ378WKnix2hhY9",
+      "url": "/operating-systems/kernel",
       "fx": -445.1591262817383,
       "fy": 273.34798431396484,
       "category": "mindmap"
     },
     {
       "text": "file systems  ️",
-      "url": "https://my.mindnode.com/PwQMAsmSMjV7iVepEoTZ7Fgzasaa5B1XpBUWPBK1",
+      "url": "/operating-systems/file-systems",
       "fx": -625.3028746488528,
       "fy": 274.1538660055512,
       "category": "mindmap"
     },
     {
       "text": "android  ️",
-      "url": "https://my.mindnode.com/9GNqw9qRvvg1A8Jeo9EW7fm8bcyWWtjKD6i6pa6w",
+      "url": "/operating-systems/android",
       "fx": 110.2131218202303,
       "fy": 381.32131395841907,
       "category": "mindmap"
     },
     {
       "text": "iOS  ️",
-      "url": "https://my.mindnode.com/m32Zo1SzPiqfWqJvpUwBMuTMCNVXejfyWfZyeSFz",
+      "url": "/operating-systems/ios",
       "fx": 264.3139455747371,
       "fy": 381.8360558384984,
       "category": "mindmap"
     },
     {
       "text": "watchOS  ️",
-      "url": "https://my.mindnode.com/JVr5HFsfah63syE1PsYsczMxc1ZhVQVZcQNxonDa",
+      "url": "/operating-systems/watchOS",
       "fx": 166.9028205871582,
       "fy": 486.6730651855469,
       "category": "mindmap"
     },
     {
       "text": "tvOS  ️",
-      "url": "https://my.mindnode.com/eqCzKZyfzu1zsoiGnVqehJbXDqRo3HYm6Ww1Ssdq",
+      "url": "/operating-systems/tvOS",
       "fx": 329.730186502341,
       "fy": 491.46025319343084,
       "category": "mindmap"

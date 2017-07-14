@@ -12,7 +12,7 @@
     },
     {
       "text": "pandemics  ️",
-      "url": "https://my.mindnode.com/xdfbY21ieH27zfkfz24stsxmKcJdVpNE2V7Nqoyq",
+      "url": "/medicine/diseases/pandemics",
       "fx": -216.2861201298702,
       "fy": -207.19778138528227,
       "category": "mindmap"
@@ -27,7 +27,7 @@
   "subnodes": [
     {
       "text": "cancer  ️",
-      "url": "https://my.mindnode.com/jepopC6ssQg7z991zJWxZHY4d8LWGzQUvcDuWmjn",
+      "url": "/medicine/diseases/cancer",
       "fx": 224.51953125,
       "fy": -640.94921875,
       "category": "mindmap",
@@ -36,7 +36,7 @@
     },
     {
       "text": "tuberculosis  ️",
-      "url": "https://my.mindnode.com/opXtVhyVGTV19TuHpKYUbAN6yvt3DcuFFKbSiMQm",
+      "url": "/medicine/diseases/tuberculosis",
       "fx": 224.51953125,
       "fy": -598.94921875,
       "category": "mindmap",
@@ -45,7 +45,7 @@
     },
     {
       "text": "diabetes  ️",
-      "url": "https://my.mindnode.com/AJzScQ5hQ6iBaXHpLpxXzRBgPxun73oGYvVdciKH",
+      "url": "/medicine/diseases/diabetes",
       "fx": 224.51953125,
       "fy": -556.94921875,
       "category": "mindmap",
@@ -63,7 +63,7 @@
     },
     {
       "text": "alzheimers  ️",
-      "url": "https://my.mindnode.com/MPLQLFMkb5PCWnziLM4136hsVgKeMKx7hHgMZDQb",
+      "url": "/medicine/neurology/neurodegeneration/alzheimers-disease",
       "fx": 224.51953125,
       "fy": -472.94921875,
       "category": "mindmap",
@@ -72,7 +72,7 @@
     },
     {
       "text": "influenza  ️",
-      "url": "https://my.mindnode.com/3igcVCXipErFygZy21WwjvfqaQkU13qxGbEE1Ten",
+      "url": "/medicine/diseases/influenza",
       "fx": 224.51953125,
       "fy": -430.94921875,
       "category": "mindmap",
@@ -81,7 +81,7 @@
     },
     {
       "text": "HIV  ️",
-      "url": "https://my.mindnode.com/NXdczhgbpmYbJ5AkGanktRK1eW6yhJHqbgRz2jyF",
+      "url": "/medicine/diseases/hiv",
       "fx": 224.51953125,
       "fy": -388.94921875,
       "category": "mindmap",
@@ -117,7 +117,7 @@
     },
     {
       "text": "malaria  ️",
-      "url": "https://my.mindnode.com/Ht1AscyHCGY7GmWARjbjH5hki9mZinHTh4WdXddw",
+      "url": "/medicine/diseases/malaria",
       "fx": 224.51953125,
       "fy": -195.94921875,
       "category": "mindmap",

@@ -12,18 +12,27 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 245.96744791666697,
-      "fy": 81.01074218759811
+      "fx": 243.3958333333337,
+      "fy": 83.59863281259811
     }
   ],
   "subnodes": [
     {
       "text": "1. explanation",
       "url": "https://www.youtube.com/watch?v=OqmJhPQYRc8",
-      "fx": 401.96744791666697,
-      "fy": 92.51074218759811,
+      "fx": 399.3958333333337,
+      "fy": 64.09863281259811,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. understanding Bayes theorem with ratios  ️",
+      "url": "https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/",
+      "fx": 399.3958333333337,
+      "fy": 104.09863281259811,
+      "category": "article",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -32,8 +41,8 @@
       "source": "Bayes’ theorem",
       "target": "basics",
       "curve": {
-        "x": -0.794596,
-        "y": 66.5716
+        "x": -2.0804,
+        "y": 67.8655
       }
     }
   ]

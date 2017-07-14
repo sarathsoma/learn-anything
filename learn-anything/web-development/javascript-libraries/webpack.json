@@ -12,15 +12,22 @@
     {
       "text": "help",
       "url": "",
-      "fx": 93.9609375,
-      "fy": -153.10846424102783
+      "fx": 75.16735081214688,
+      "fy": -133.32222659978493
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -101.44143529236317,
-      "fy": -18.32553482055664
+      "fx": -93.37979715305312,
+      "fy": -14.964951821746013
+    },
+    {
+      "text": "webpack plugins  ️",
+      "url": "/web-development/javascript-libraries/webpack/webpack-plugins",
+      "fx": -226.4216316858499,
+      "fy": 125.15527136116384,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -45,8 +52,8 @@
     {
       "text": "16: webpack - the confusing parts  ️",
       "url": "https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9",
-      "fx": 230.9609375,
-      "fy": -141.60846424102783,
+      "fx": 212.16735081214688,
+      "fy": -121.82222659978493,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -54,8 +61,8 @@
     {
       "text": "1. webpack: the core concepts",
       "url": "http://webpack.academy/p/the-core-concepts",
-      "fx": 80.55856470763683,
-      "fy": -23.82553482055664,
+      "fx": 88.62020284694688,
+      "fy": -20.464951821746013,
       "category": "",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -63,8 +70,8 @@
     {
       "text": "1. introduction to webpack",
       "url": "https://survivejs.com/webpack/introduction/",
-      "fx": 80.55856470763683,
-      "fy": 16.17446517944336,
+      "fx": 88.62020284694688,
+      "fy": 19.535048178253987,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }
@@ -74,16 +81,24 @@
       "source": "help",
       "target": "webpack",
       "curve": {
-        "x": -61.8965,
-        "y": -54.7192
+        "x": -52.4997,
+        "y": -64.6123
       }
     },
     {
       "source": "webpack",
       "target": "basics",
       "curve": {
-        "x": -31.0547,
-        "y": 122.11
+        "x": -27.0239,
+        "y": 123.79
+      }
+    },
+    {
+      "source": "basics",
+      "target": "webpack plugins  ️",
+      "curve": {
+        "x": -49.2709,
+        "y": 70.0601
       }
     }
   ]

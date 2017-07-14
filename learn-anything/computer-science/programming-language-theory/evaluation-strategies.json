@@ -10,11 +10,11 @@
       "category": "wiki"
     },
     {
-      "text": "lazy evaluation",
-      "url": "http://www.wikiwand.com/en/Lazy_evaluation",
-      "fx": -608.123941725579,
+      "text": "lazy evaluation  ️",
+      "url": "/computer-science/programming-language-theory/evaluation-strategies/lazy-evaluation",
+      "fx": -607.123941725579,
       "fy": 18.012832942946147,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "partial evaluation",
@@ -65,9 +65,9 @@
     },
     {
       "source": "evaluation strategies",
-      "target": "lazy evaluation",
+      "target": "lazy evaluation  ️",
       "curve": {
-        "x": -265.123,
+        "x": -264.623,
         "y": 93.1393
       }
     },

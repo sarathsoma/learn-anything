@@ -24,42 +24,42 @@
     },
     {
       "text": "trading  ️",
-      "url": "https://my.mindnode.com/d3cH9s5orWqhp4Fks1uTw5KFm7nJGYxE8pA6txdw",
+      "url": "/economics/trading",
       "fx": -460.8431396484375,
       "fy": -250.51050186157227,
       "category": "mindmap"
     },
     {
       "text": "macroeconomics  ️",
-      "url": "https://my.mindnode.com/7yruRs7n4ySrpYqFppAaRJrdcf8MKpAfpyjnqV1z",
+      "url": "/economics/macroeconomics",
       "fx": 270.3153381347656,
       "fy": -249.23311233520508,
       "category": "mindmap"
     },
     {
       "text": "economic systems  ️",
-      "url": "https://my.mindnode.com/RjPSsBxogK3XdZ5qmUwdTzMK5yYcchki1DRLVxPs",
+      "url": "/economics/economic-systems",
       "fx": -726.7362823486328,
       "fy": -248.81763458251953,
       "category": "mindmap"
     },
     {
       "text": "finance  ️",
-      "url": "https://my.mindnode.com/ia3bJrWf9yZRwqpBWZBZd1pgeUsNttzFRRxW7ueb",
+      "url": "/economics/finance",
       "fx": -121.85451316833496,
       "fy": -248.38308334350586,
       "category": "mindmap"
     },
     {
       "text": "microeconomics  ️",
-      "url": "https://my.mindnode.com/4vwsEGr7GgX2F6iTU1gzu4wCByWxGi9HCTqW7ABp",
+      "url": "/economics/microeconomics-",
       "fx": 27.205476760864258,
       "fy": -247.70204544067383,
       "category": "mindmap"
     },
     {
       "text": "mathematical finance  ️",
-      "url": "https://my.mindnode.com/MbLi29ZzLUxTpGtxvJDu2qrbhbVCc97Z3tfz5UZS",
+      "url": "/economics/mathematical-finance",
       "fx": -1014.6559143066406,
       "fy": -245.68193435668945,
       "category": "mindmap"
@@ -67,84 +67,91 @@
     {
       "text": "business  ️",
       "note": "organisational entity involved in providing goods or services to customers",
-      "url": "https://my.mindnode.com/8HjHL78qbW5weVG66sypetaqMJdVqgN8Xos6gaiK",
+      "url": "/economics/business",
       "fx": -315.86861419677734,
       "fy": -245.26792526245117,
       "category": "mindmap"
     },
     {
       "text": "accounting  ️",
-      "url": "https://my.mindnode.com/xbjRCSkQDphpvvvZ8FZcgCazpajSKUkEV8uTz7pE",
+      "url": "/economics/accounting",
       "fx": -1202.5736999511719,
       "fy": -244.0813446044922,
       "category": "mindmap"
     },
     {
       "text": "e-commerce  ️",
-      "url": "https://my.mindnode.com/kMpsxmGm6pe7MaWzARqpqsGQRonPt6e3YDSs1QSn",
+      "url": "/economics/e-commerce",
       "fx": -2142.444061279297,
       "fy": -241.90868377685547,
       "category": "mindmap"
     },
     {
       "text": "basic income  ️",
-      "url": "https://my.mindnode.com/4Xd3Y54pbQgrujAoDSpoK84pwp99mvDduuw9km7X",
+      "url": "/economics/basic-income",
       "fx": -1414.5010681152344,
       "fy": -241.70831680297852,
       "category": "mindmap"
     },
     {
       "text": "econometrics  ️",
-      "url": "https://my.mindnode.com/JAVxvYusixLic4s3UttbzGH4BXxDsPrXEnzam8PX",
+      "url": "/economics/econometrics",
       "fx": -1629.102417408251,
       "fy": -240.55089899410848,
       "category": "mindmap"
     },
     {
       "text": "contract theory  ️",
-      "url": "https://my.mindnode.com/jMRzeR8UWH5cBXxwiFPwm2urLspq4WCzG2ELS2Sg",
+      "url": "/economics/contract-theory",
       "fx": -2369.5062561035156,
       "fy": -239.05071258544922,
       "category": "mindmap"
     },
     {
       "text": "behavioural economics  ️",
-      "url": "https://my.mindnode.com/yWWDyx2dZ2zuaBqkyyNJ1ezEPssQhye9tHqksJZr",
+      "url": "/economics/behavioural-economics",
       "fx": -1936.4274597167969,
       "fy": -238.83346557617188,
       "category": "mindmap"
     },
     {
       "text": "economic history  ️",
-      "url": "https://my.mindnode.com/Hh9zyHQFf3At4UsS3pVNB4yABq7odg7CJjzRbftB",
+      "url": "/economics/economic-history",
       "fx": -2617.6170349121094,
       "fy": -237.47962951660156,
       "category": "mindmap"
     },
     {
       "text": "money  ️",
-      "url": "https://my.mindnode.com/yAZ7G3uVCfPdGTDrkw4UCKeLzrDwSAxtQdgxPZqX",
+      "url": "/economics/money",
       "fx": -2774.37761682501,
       "fy": -236.49041993482183,
       "category": "mindmap"
     },
     {
       "text": "development economics  ️",
-      "url": "https://my.mindnode.com/EpkxtYHXyuMJyxspwXNjVFuwE73pVnvyJYj3yBZq",
-      "fx": -3100.4502718456115,
-      "fy": -234.30680593652028,
+      "url": "/economics/development-economics",
+      "fx": -3098.816162109375,
+      "fy": -234.30681228637695,
+      "category": "mindmap"
+    },
+    {
+      "text": "inflation  ️",
+      "url": "/economics/inflation",
+      "fx": -3250.9282499762517,
+      "fy": -230.03551136363706,
       "category": "mindmap"
     },
     {
       "text": "investing  ️",
-      "url": "https://my.mindnode.com/GLyTce5yc3y6fxsHJqZSoP3UnR5pSx2My8cudp7o",
+      "url": "/economics/investing",
       "fx": -295.20759201049805,
       "fy": -107.39418029785156,
       "category": "mindmap"
     },
     {
       "text": "personal finance  ️",
-      "url": "https://my.mindnode.com/zf1V4zVDNjsFAcY7K3Asaykmjvvxzqd2cp4Z2dbA",
+      "url": "/economics/personal-finance",
       "fx": -130.05764746665955,
       "fy": -105.29864311218262,
       "category": "mindmap"
@@ -372,8 +379,16 @@
       "source": "basics",
       "target": "development economics  ️",
       "curve": {
-        "x": -1886.62,
+        "x": -1885.8,
         "y": -92.6409
+      }
+    },
+    {
+      "source": "basics",
+      "target": "inflation  ️",
+      "curve": {
+        "x": -2311.88,
+        "y": -47.5231
       }
     }
   ]

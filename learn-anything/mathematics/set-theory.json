@@ -18,14 +18,14 @@
     },
     {
       "text": "naive set theory  ️",
-      "url": "https://my.mindnode.com/WxzyCtupbmwD3HJZS2yykWeHBxar6TUConTpUpNo",
+      "url": "/mathematics/set-theory/naive-set-theory",
       "fx": -32.981498921197385,
       "fy": 109.38374064869879,
       "category": "mindmap"
     },
     {
       "text": "binary relation  ️",
-      "url": "https://my.mindnode.com/vPbxSa5ZmuU5JTZrxJoZHADiVxpK7Ynrut4P2iyf",
+      "url": "/mathematics/set-theory/binary-relation",
       "fx": -250.75290298461914,
       "fy": 110.02195358276367,
       "category": "mindmap"
@@ -39,15 +39,29 @@
     },
     {
       "text": "Banach-Tarski paradox  ️",
-      "url": "https://my.mindnode.com/DUbD2eeDQninHzVEezSJeSsJ7pj72kmsskiP24uG",
+      "url": "/mathematics/set-theory/banach-tarski-paradox",
       "fx": -709.4427083333333,
       "fy": 112.47774621212125,
       "category": "mindmap"
     },
     {
+      "text": "disjoint sets",
+      "url": "http://www.wikiwand.com/en/Disjoint_sets",
+      "fx": -263.0873893805308,
+      "fy": 229.641454646027,
+      "category": "wiki"
+    },
+    {
+      "text": "union  ️",
+      "url": "/mathematics/set-theory/union",
+      "fx": -401.04282611263807,
+      "fy": 230.57052662385058,
+      "category": "mindmap"
+    },
+    {
       "text": "metric spaces  ️",
-      "url": "https://my.mindnode.com/wW98xW8rNgJpuKwDLrPpDz98wbjYBET5NppPyzBp",
-      "fx": -551.731656023081,
+      "url": "/mathematics/set-theory/metric-spaces",
+      "fx": -627.3469768195412,
       "fy": 230.68787684776976,
       "category": "mindmap"
     }
@@ -126,7 +140,7 @@
       "source": "sets",
       "target": "metric spaces  ️",
       "curve": {
-        "x": -64.1422,
+        "x": -101.95,
         "y": 58.7605
       }
     },
@@ -136,6 +150,22 @@
       "curve": {
         "x": -297.333,
         "y": 82.3817
+      }
+    },
+    {
+      "source": "sets",
+      "target": "union  ️",
+      "curve": {
+        "x": -2.54776,
+        "y": 59.4518
+      }
+    },
+    {
+      "source": "sets",
+      "target": "disjoint sets",
+      "curve": {
+        "x": 82.1799,
+        "y": 58.9873
       }
     }
   ]

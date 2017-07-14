@@ -1,0 +1,55 @@
+{
+  "title": "learn anything - mathematics - geometry - spheres - 3-spheres",
+  "tag": "3-spheres",
+  "nodes": [
+    {
+      "text": "3-spheres",
+      "url": "http://www.wikiwand.com/en/3-sphere",
+      "fx": 224.50949191355653,
+      "fy": -200.44256749227395,
+      "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 365.01464449232765,
+      "fy": -74.866050588024
+    },
+    {
+      "text": "Poincare conjecture  ️",
+      "url": "/mathematics/geometry/spheres/3-spheres/poincare-conjecture",
+      "fx": -40.5293285962324,
+      "fy": -10.21298980971153,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "16: a breakthrough in higher dimensional spheres",
+      "url": "https://www.youtube.com/watch?v=ciM6wigZK0w",
+      "fx": 564.0146444923276,
+      "fy": -74.866050588024,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "3-spheres",
+      "target": "Poincare conjecture  ️",
+      "curve": {
+        "x": -108.769,
+        "y": 95.1147
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "3-spheres",
+      "curve": {
+        "x": -62.0026,
+        "y": -62.0383
+      }
+    }
+  ]
+}

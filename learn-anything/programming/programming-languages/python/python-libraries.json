@@ -10,10 +10,11 @@
       "fy": -130.60274874190827
     },
     {
-      "text": "scipy",
-      "url": "https://www.scipy.org/",
-      "fx": 140.7265625,
-      "fy": -50.795654296875
+      "text": "scipy  ️",
+      "url": "/programming/programming-languages/python/python-libraries/scipy",
+      "fx": 126.7265625,
+      "fy": -50.795654296875,
+      "category": "mindmap"
     },
     {
       "text": "science",
@@ -22,9 +23,16 @@
       "fy": -24.905350406706816
     },
     {
+      "text": "machine learning   ️",
+      "url": "/machine-learning/machine-learning-libraries",
+      "fx": -653.2280769561904,
+      "fy": 47.95364057470505,
+      "category": "mindmap"
+    },
+    {
       "text": "numpy  ️",
       "note": "python package for scientific computing  contains  a powerful N-dimensional array object  sophisticated (broadcasting) functions  useful linear algebra, Fourier transform or random number capabilities",
-      "url": "https://my.mindnode.com/buGeFf4ms9LDv1ypqL5gXX8UzvbnxjjxMqEct7fp",
+      "url": "/programming/programming-languages/python/python-libraries/numpy",
       "fx": 122.53345184560453,
       "fy": 49.69938846664866,
       "category": "mindmap"
@@ -73,21 +81,21 @@
     },
     {
       "text": "flask  ️",
-      "url": "https://my.mindnode.com/5Nw5QGrzySmMTUg28CtuBdMseu1PqnzUCRnMMAA7",
+      "url": "/programming/programming-languages/python/python-libraries/flask",
       "fx": -569.3064480792013,
       "fy": 294.47332059927294,
       "category": "mindmap"
     },
     {
       "text": "django  ️",
-      "url": "https://my.mindnode.com/K5WJhHspfaaezNNbNRZYxWGEoofFqnQVTa3ZcxEz",
+      "url": "/web-development/full-stack/django",
       "fx": -452.7706029165229,
       "fy": 348.7671260083358,
       "category": "mindmap"
     },
     {
       "text": "SQLAlchemy  ️",
-      "url": "https://my.mindnode.com/DjGypZc6jGFYTxkMHXK6gBsgzXLvsEJtwsJjXzkw",
+      "url": "/programming/programming-languages/python/python-libraries/sqlalchemy",
       "fx": -6.188097735646579,
       "fy": 358.7872069920761,
       "category": "mindmap"
@@ -105,16 +113,7 @@
       "fy": 389.1755563063389
     }
   ],
-  "subnodes": [
-    {
-      "text": "scipy lecture notes",
-      "url": "http://www.scipy-lectures.org/",
-      "fx": 285.7265625,
-      "fy": -36.295654296875,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "scipy"
-    }
-  ],
+  "subnodes": [],
   "connections": [
     {
       "source": "database",
@@ -198,9 +197,9 @@
     },
     {
       "source": "science",
-      "target": "scipy",
+      "target": "scipy  ️",
       "curve": {
-        "x": 86.493,
+        "x": 79.493,
         "y": -12.9451
       }
     },
@@ -234,6 +233,14 @@
       "curve": {
         "x": 92.0653,
         "y": 20.3194
+      }
+    },
+    {
+      "source": "python libraries",
+      "target": "machine learning   ️",
+      "curve": {
+        "x": -157.63,
+        "y": 90.5282
       }
     }
   ]

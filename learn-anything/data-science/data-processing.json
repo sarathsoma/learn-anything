@@ -10,6 +10,13 @@
       "category": "wiki"
     },
     {
+      "text": "lambda architecture  ️",
+      "url": "/data-science/data-processing/lambda-architecture",
+      "fx": 537.4521484375,
+      "fy": -140.6533203125,
+      "category": "mindmap"
+    },
+    {
       "text": "software",
       "url": "",
       "fx": 328.1381293402758,
@@ -17,21 +24,21 @@
     },
     {
       "text": "apache hadoop  ️",
-      "url": "https://my.mindnode.com/XfVM3yn1aEw6Pyd1VzLUPsJ99aepedVLHbnhRzrZ",
+      "url": "/data-science/data-processing/apache-hadoop",
       "fx": 7.257158302250275,
       "fy": -6.100217113906524,
       "category": "mindmap"
     },
     {
       "text": "apache spark  ️",
-      "url": "https://my.mindnode.com/qpFqeRNNuHbMoBiUjM4rcpKCHLphefKbJpxH4YZc",
+      "url": "/data-science/data-processing/apache-spark",
       "fx": 230.59672601291913,
       "fy": -5.676371455378899,
       "category": "mindmap"
     },
     {
       "text": "MapReduce  ️",
-      "url": "https://my.mindnode.com/txEzbeTzzxpnRFezDLs7fB5z3iK2SquyhoCsDpmk",
+      "url": "/data-science/data-processing/mapreduce",
       "fx": 441.6783419398728,
       "fy": -4.236669077195188,
       "category": "mindmap"
@@ -79,6 +86,14 @@
       "curve": {
         "x": 72.2701,
         "y": 58.7528
+      }
+    },
+    {
+      "source": "data processing",
+      "target": "lambda architecture  ️",
+      "curve": {
+        "x": 50.2996,
+        "y": 58.4857
       }
     }
   ]

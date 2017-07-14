@@ -17,16 +17,23 @@
     },
     {
       "text": "mechanical waves  ️",
-      "url": "https://my.mindnode.com/TQWhKD6kAKExCPhXsgVsSqBPtvrFnpASdX6zuk8R",
+      "url": "/physics/classical-mechanics/waves/mechanical-waves",
       "fx": -315.1991958618164,
       "fy": 96.2425708770752,
       "category": "mindmap"
     },
     {
       "text": "amplitude  ️",
-      "url": "https://my.mindnode.com/MGppL4QXdqa6CHL67oHHkJ2qE2uyyhRsbMpckFga",
-      "fx": -53.06869527672916,
+      "url": "/physics/classical-mechanics/waves/amplitude",
+      "fx": -49.256861745923516,
       "fy": 97.54250843441264,
+      "category": "mindmap"
+    },
+    {
+      "text": "transverse waves  ️",
+      "url": "/physics/classical-mechanics/waves/transverse-waves",
+      "fx": 140.22894633958913,
+      "fy": 100.07752144737788,
       "category": "mindmap"
     }
   ],
@@ -71,8 +78,16 @@
       "source": "basics",
       "target": "amplitude  ️",
       "curve": {
-        "x": -6.21458,
+        "x": -4.30866,
         "y": 83.4586
+      }
+    },
+    {
+      "source": "basics",
+      "target": "transverse waves  ️",
+      "curve": {
+        "x": 109.434,
+        "y": 84.7261
       }
     }
   ]

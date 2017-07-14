@@ -17,11 +17,11 @@
       "fy": 161.28900843890273
     },
     {
-      "text": "financial accounting",
-      "url": "http://www.wikiwand.com/en/Financial_accounting",
-      "fx": -260.22231414295857,
-      "fy": 318.0032054057135,
-      "category": "wiki"
+      "text": "financial accounting  ️",
+      "url": "/economics/accounting/financial-accounting",
+      "fx": -298.95223963964725,
+      "fy": 291.5002045778991,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -59,15 +59,6 @@
       "fy": 195.78900843890273,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
-    },
-    {
-      "text": "videos on financial accounting",
-      "url": "http://bus.emory.edu/scrosso/FA%20Videos.htm",
-      "fx": 45.77768585704143,
-      "fy": 332.0032054057135,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "financial accounting"
     }
   ],
   "connections": [
@@ -81,10 +72,10 @@
     },
     {
       "source": "basics",
-      "target": "financial accounting",
+      "target": "financial accounting  ️",
       "curve": {
-        "x": -40.831,
-        "y": 79.6071
+        "x": -60.196,
+        "y": 66.3556
       }
     }
   ]

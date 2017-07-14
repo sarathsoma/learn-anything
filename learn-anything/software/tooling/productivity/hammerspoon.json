@@ -36,7 +36,7 @@
       "text": "awesome hammerspoon",
       "url": "https://github.com/ashfinal/awesome-hammerspoon",
       "fx": 203.7672441709841,
-      "fy": -1.6011182315976953,
+      "fy": -21.601118231597695,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -45,9 +45,18 @@
       "text": "Anycomplete",
       "url": "https://github.com/nathancahill/Anycomplete",
       "fx": 203.7672441709841,
-      "fy": 38.398881768402305,
+      "fy": 18.398881768402305,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "interesting"
+    },
+    {
+      "text": "spoons",
+      "url": "https://github.com/Hammerspoon/hammerspoon/blob/master/SPOONS.md#what-is-a-spoon",
+      "fx": 203.7672441709841,
+      "fy": 58.398881768402305,
+      "category": "github",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "interesting"
     },
     {

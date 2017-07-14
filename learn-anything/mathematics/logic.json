@@ -30,9 +30,9 @@
     },
     {
       "text": "polish notation  ️",
-      "url": "https://my.mindnode.com/xfVvk5LUpADHVdj7yMsWfxVYGiEZBLuM9SiidU4B",
-      "fx": -996.8525859330889,
-      "fy": 213.7833211285996,
+      "url": "/mathematics/logic/polish-notation",
+      "fx": -994.3027038574219,
+      "fy": 213.78331756591797,
       "category": "mindmap"
     },
     {
@@ -45,20 +45,27 @@
     {
       "text": "formal systems",
       "url": "http://www.wikiwand.com/en/Formal_system",
-      "fx": -1211.5734279141107,
-      "fy": 216.46712039877298,
+      "fx": -1206.4331359863281,
+      "fy": 216.46710968017578,
       "category": "wiki"
     },
     {
       "text": "proofs  ️",
-      "url": "https://my.mindnode.com/ninYzqp3QpzfKTcFfKY2JWLQkqrJiWPwmwFHYNR4",
+      "url": "/mathematics/logic/proofs",
       "fx": -754.4810202245044,
       "fy": 216.83558138791864,
       "category": "mindmap"
     },
     {
+      "text": "propositional logic  ️",
+      "url": "/mathematics/logic/propositional-logic",
+      "fx": -1445.5201844110677,
+      "fy": 217.98346404261633,
+      "category": "mindmap"
+    },
+    {
       "text": "truth tables  ️",
-      "url": "https://my.mindnode.com/15PQgjxf6SgeLRpmnr1ZEPwpKgSStz3TNpw9yqtJ",
+      "url": "/mathematics/logic/truth-tables",
       "fx": -320.25841346153834,
       "fy": 219.52274750712252,
       "category": "mindmap"
@@ -71,29 +78,29 @@
       "category": "wiki"
     },
     {
-      "text": "peano axioms",
-      "url": "http://www.wikiwand.com/en/Peano_axioms",
-      "fx": -40.54851631531983,
+      "text": "peano axioms  ️",
+      "url": "/mathematics/logic/peano-axioms",
+      "fx": -39.54851631531983,
       "fy": 226.95262669432032,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "proof theory  ️",
-      "url": "https://my.mindnode.com/ScedY6zyrZqp7ueE6vJSK8qYyaPipSzSS2xL9eYk",
+      "url": "/mathematics/logic/proof-theory",
       "fx": -877.4581983148621,
       "fy": 321.9542549635659,
       "category": "mindmap"
     },
     {
       "text": "linear logic  ️",
-      "url": "https://my.mindnode.com/E54B4hL24K8ehGzQA1nQbxChAzpyW7q2bsLMNkAm",
+      "url": "/mathematics/logic/linear-logic",
       "fx": 409.33714313229507,
       "fy": 333.1046627739071,
       "category": "mindmap"
     },
     {
       "text": "automated theorem proving  ️",
-      "url": "https://my.mindnode.com/iEF8RLqxkRznMvNHvzCyCmBxstqzbJhzFuHDGpsq",
+      "url": "/mathematics/logic/automated-theorem-proving",
       "fx": -646.5482238736976,
       "fy": 348.168212106037,
       "category": "mindmap"
@@ -101,7 +108,7 @@
     {
       "text": "combinatory logic  ️",
       "note": "is a notation to eliminate the need for quantified variables in mathematical logic  It was introduced by Moses Schönfinkel and Haskell Curry and has more recently been used in computer science as a theoretical model of computation and also as a basis for the design of functional programming languages.",
-      "url": "https://my.mindnode.com/LZzCDFtPer8Aq3YSNpP3PrhSzVZkQRPx1dxMSp2Y",
+      "url": "/mathematics/logic/combinatory-logic",
       "fx": -304.4384558433503,
       "fy": 351.78128315063225,
       "category": "mindmap"
@@ -116,7 +123,7 @@
     {
       "text": "Godel’s incompleteness theorem  ️",
       "note": "Godel’s incompleteness theorems are two theories of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system containing basic arithmetic  the theorems are widely, but not universally, interpreted as showing that Hilbert’s program to find a complete and consistent set of axioms for all mathematics is impossible  the first implemented theorem states that no consistent system of axioms whose theorems ca be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of the natural numbers  for any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system  the second theorem, an extension of the first, shows that the system cannot demonstrate its own consistency ",
-      "url": "https://my.mindnode.com/yvqyTXrxF6TtxrmCix56cpp47ZvX8LAvLDr6oqGW",
+      "url": "/mathematics/logic/godels-incompleteness-theorem",
       "fx": 48.356246361365265,
       "fy": 372.74590037419284,
       "category": "mindmap"
@@ -221,17 +228,17 @@
     },
     {
       "source": "basics",
-      "target": "peano axioms",
+      "target": "peano axioms  ️",
       "curve": {
-        "x": 40.6437,
+        "x": 41.1437,
         "y": 69.4734
       }
     },
     {
-      "source": "peano axioms",
+      "source": "peano axioms  ️",
       "target": "Godel’s incompleteness theorem  ️",
       "curve": {
-        "x": 67.2024,
+        "x": 66.7024,
         "y": 79.1466
       }
     },
@@ -287,7 +294,7 @@
       "source": "basics",
       "target": "polish notation  ️",
       "curve": {
-        "x": -571.008,
+        "x": -569.733,
         "y": 9.90435
       }
     },
@@ -295,7 +302,7 @@
       "source": "basics",
       "target": "formal systems",
       "curve": {
-        "x": -727.716,
+        "x": -725.146,
         "y": -14.5177
       }
     },
@@ -303,8 +310,16 @@
       "source": "formal systems",
       "target": "Tarski’s undefinability theorem",
       "curve": {
-        "x": -66.4469,
+        "x": -69.017,
         "y": 66.726
+      }
+    },
+    {
+      "source": "basics",
+      "target": "propositional logic  ️",
+      "curve": {
+        "x": -844.902,
+        "y": -45.2723
       }
     }
   ]

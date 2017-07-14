@@ -12,16 +12,23 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 30.208610372340445,
-      "fy": 48.173869680851055
+      "fx": 38.48576511024362,
+      "fy": -1.91118576269713
+    },
+    {
+      "text": "Fibonacci polynomials",
+      "url": "http://www.wikiwand.com/en/Fibonacci_polynomials",
+      "fx": -152.67307685267542,
+      "fy": 128.77134187759884,
+      "category": "wiki"
     }
   ],
   "subnodes": [
     {
       "text": "1. Fibonacci numbers and the golden ratio",
       "url": "https://www.coursera.org/learn/fibonacci",
-      "fx": 186.20861037234044,
-      "fy": 48.673869680851055,
+      "fx": 194.48576511024362,
+      "fy": -1.41118576269713,
       "category": "",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -32,8 +39,16 @@
       "source": "Fibonacci sequence",
       "target": "basics",
       "curve": {
-        "x": -6.64179,
-        "y": 94.8272
+        "x": -2.50321,
+        "y": 69.7847
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Fibonacci polynomials",
+      "curve": {
+        "x": -60.0794,
+        "y": 65.3413
       }
     }
   ]

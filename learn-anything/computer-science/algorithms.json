@@ -16,21 +16,21 @@
       "fy": -107.002788950987
     },
     {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -19.01014407522598,
+      "fy": 236.58104534558868
+    },
+    {
       "text": "articles",
       "url": "",
       "fx": 534.9619696501059,
       "fy": 243.61997791760894
     },
     {
-      "text": "basics",
-      "note": "",
-      "url": "",
-      "fx": 13.22032467477402,
-      "fy": 261.1747953455887
-    },
-    {
       "text": "algorithm design  ️",
-      "url": "https://my.mindnode.com/AiVsE6S17nKMCfHh6tNZzTxBbDCjwh1WmTz9zpdj",
+      "url": "/computer-science/algorithms/algorithm-design",
       "fx": 130.35446617251523,
       "fy": 465.2264642161156,
       "category": "mindmap"
@@ -52,7 +52,7 @@
     {
       "text": "big O notation  ️",
       "note": "is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  the letter O is used because the growth rate of a function is also referred to as order of the function",
-      "url": "https://my.mindnode.com/wptdyX9aF7U63EaydGsif5s49ypXyCJ5qq2Gyduh",
+      "url": "/computer-science/algorithms/big-O",
       "fx": -147.4238977600712,
       "fy": 578.7264033749328,
       "category": "mindmap"
@@ -60,7 +60,7 @@
     {
       "text": "genetic  ️",
       "note": "genetic algorithm is a metaheuristic inspired by the process of natural selection  are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection",
-      "url": "https://my.mindnode.com/eyXxva1VSE8WZvKJqNgF6tXMpRqt6KL44FsizaFF",
+      "url": "/computer-science/algorithms/genetic-algorithms",
       "fx": -1375.1603294139684,
       "fy": 659.7009661899706,
       "category": "mindmap"
@@ -76,30 +76,30 @@
     {
       "text": "graphs  ️",
       "note": "a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects",
-      "url": "https://my.mindnode.com/6oyRa3x6esxEtPgnb1igPuEqPxGbATcndS7xpEsZ",
+      "url": "/computer-science/algorithms/graph",
       "fx": -879.1015930175781,
       "fy": 667.2896728515625,
       "category": "mindmap"
     },
     {
-      "text": "compression",
-      "url": "http://www.wikiwand.com/en/Data_compression",
-      "fx": -300.4876681285616,
-      "fy": 674.4451739743765,
-      "category": "wiki"
-    },
-    {
       "text": "evolutionary  ️",
       "note": "uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection",
-      "url": "https://my.mindnode.com/bKbp6rpXsxeVC4xHPTTk1dKDJq1daANa2N1tsuQJ",
+      "url": "/computer-science/algorithms/evolutionary",
       "fx": -591.5450054862558,
       "fy": 682.0652222925099,
       "category": "mindmap"
     },
     {
+      "text": "compression",
+      "url": "http://www.wikiwand.com/en/Data_compression",
+      "fx": -303.7651581018238,
+      "fy": 688.1086933594031,
+      "category": "wiki"
+    },
+    {
       "text": "searching  ️",
       "note": "search algorithm is an algorithm that retrieves information stored within some data structure  appropriate search algorithm often depends on the data structure being searched  searching also encompasses algorithms that query the data structure, such as the SQL SELECT command  they can be classified based on their mechanism of searching",
-      "url": "https://my.mindnode.com/AgnjCBHsB7xdQ61qP7Ncxp6FkaDkEXqartpjYqRY",
+      "url": "/computer-science/algorithms/search",
       "fx": -787.233077150359,
       "fy": 769.1595200557284,
       "category": "mindmap"
@@ -107,7 +107,7 @@
     {
       "text": "sorting  ️",
       "note": "sorting algorithm is an algorithm that puts elements of a list in a certain order  most used orders are numerical order and lexicographical order  efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  it is also often useful for canonicalising data and for producing human readable output",
-      "url": "https://my.mindnode.com/wfdPrx9rsUeUpwwspRgsM741LKciWLMeUev8ML1u",
+      "url": "/computer-science/algorithms/sorting",
       "fx": -421.10001649247874,
       "fy": 794.7859447289868,
       "category": "mindmap"
@@ -237,6 +237,72 @@
       "parent": "help"
     },
     {
+      "text": "1. algorithms",
+      "url": "http://algs4.cs.princeton.edu/home/",
+      "fx": 162.98985592477402,
+      "fy": 117.08104534558868,
+      "category": "free book",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. 100 days of algoritms",
+      "url": "https://github.com/trending",
+      "fx": 162.98985592477402,
+      "fy": 157.08104534558868,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. algorithms: part I",
+      "note": "a really great course by Stanford university that introduces you to different algorithms  how to prove them and reason about their efficiency",
+      "url": "https://www.coursera.org/learn/algorithms-part1",
+      "fx": 162.98985592477402,
+      "fy": 197.08104534558868,
+      "category": "",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. algorithms: part II",
+      "note": "continuation of the above course",
+      "url": "https://www.coursera.org/learn/algorithms-part2",
+      "fx": 162.98985592477402,
+      "fy": 237.08104534558868,
+      "category": "",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. algorithms notes  ️",
+      "url": "http://frnsys.com/ai_notes/foundations/algorithms.html",
+      "fx": 162.98985592477402,
+      "fy": 277.0810453455887,
+      "category": "article",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. introduction to algorithms",
+      "note": "can be read alongside the above courses  is very thorough and details the specifics of all the algorithms you may find",
+      "url": "http://ce.bonabu.ac.ir/uploads/30/CMS/user/file/115/EBook/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf",
+      "fx": 162.98985592477402,
+      "fy": 317.0810453455887,
+      "category": "non-free book",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. design and analysis of algorithms",
+      "url": "http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms",
+      "fx": 162.98985592477402,
+      "fy": 357.0810453455887,
+      "category": "",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "colouring maps  ️",
       "url": "http://roadtolarissa.com/blog/2015/01/04/coloring-maps-with-d3/",
       "fx": 696.9619696501059,
@@ -255,67 +321,10 @@
       "parent": "articles"
     },
     {
-      "text": "1. algorithms",
-      "url": "http://algs4.cs.princeton.edu/home/",
-      "fx": 195.22032467477402,
-      "fy": 161.67479534558868,
-      "category": "free book",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. algorithms notes  ️",
-      "url": "http://frnsys.com/ai_notes/foundations/algorithms.html",
-      "fx": 195.22032467477402,
-      "fy": 201.67479534558868,
-      "category": "article",
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. algorithms: part I",
-      "note": "a really great course by Stanford university that introduces you to different algorithms  how to prove them and reason about their efficiency",
-      "url": "https://www.coursera.org/learn/algorithms-part1",
-      "fx": 195.22032467477402,
-      "fy": 241.67479534558868,
-      "category": "",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. algorithms: part II",
-      "note": "continuation of the above course",
-      "url": "https://www.coursera.org/learn/algorithms-part2",
-      "fx": 195.22032467477402,
-      "fy": 281.6747953455887,
-      "category": "",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "3. introduction to algorithms",
-      "note": "can be read alongside the above courses  is very thorough and details the specifics of all the algorithms you may find",
-      "url": "http://ce.bonabu.ac.ir/uploads/30/CMS/user/file/115/EBook/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf",
-      "fx": 195.22032467477402,
-      "fy": 321.6747953455887,
-      "category": "non-free book",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "3. design and analysis of algorithms",
-      "url": "http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms",
-      "fx": 195.22032467477402,
-      "fy": 361.6747953455887,
-      "category": "",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "basics"
-    },
-    {
       "text": "benchmark and visualisation of various compression algorithms",
       "url": "https://github.com/mavam/compbench",
-      "fx": -56.48766812856161,
-      "fy": 677.4451739743765,
+      "fx": -59.76515810182377,
+      "fy": 691.1086933594031,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "compression"
@@ -326,8 +335,8 @@
       "source": "algorithms",
       "target": "basics",
       "curve": {
-        "x": -36.9104,
-        "y": 306.716
+        "x": -53.0256,
+        "y": 294.419
       }
     },
     {
@@ -342,32 +351,32 @@
       "source": "basics",
       "target": "analysis of algorithms",
       "curve": {
-        "x": -74.2955,
-        "y": 121.118
+        "x": -58.1803,
+        "y": 133.415
       }
     },
     {
       "source": "basics",
       "target": "algorithms on",
       "curve": {
-        "x": -237.549,
-        "y": 131.497
+        "x": -221.434,
+        "y": 143.794
       }
     },
     {
       "source": "algorithms on",
       "target": "compression",
       "curve": {
-        "x": 56.8674,
-        "y": 76.3881
+        "x": 55.2287,
+        "y": 83.2199
       }
     },
     {
       "source": "basics",
       "target": "algorithm design  ️",
       "curve": {
-        "x": 66.1374,
-        "y": 118.787
+        "x": 82.2526,
+        "y": 131.084
       }
     },
     {

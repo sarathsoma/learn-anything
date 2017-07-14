@@ -12,27 +12,27 @@
     {
       "text": "help",
       "url": "",
-      "fx": 101.45312500000011,
-      "fy": 15.095238095251716
+      "fx": 95.45312500000011,
+      "fy": 13.095238095251716
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -16.359188988095184,
-      "fy": 108.26822916666663
+      "fx": -23.111793154761926,
+      "fy": 116.49479166666663
     },
     {
       "text": "homological algebra  ️",
-      "url": "https://my.mindnode.com/xNsSFKqM6gLEzgLdFjgBpkb2kn4s3yxGtxsZz6bj",
-      "fx": -254.46195027017467,
-      "fy": 229.52140723901482,
+      "url": "/mathematics/topology/algebraic-topology/homology/homological-algebra",
+      "fx": -274.5036169368413,
+      "fy": 244.06046973901482,
       "category": "mindmap"
     },
     {
       "text": "simplical homology",
       "url": "http://www.wikiwand.com/en/Simplicial_homology",
-      "fx": 26.948288690476033,
-      "fy": 231.03050595239358,
+      "fx": 6.906622023809405,
+      "fy": 245.56956845239358,
       "category": "wiki"
     }
   ],
@@ -40,8 +40,8 @@
     {
       "text": "intuition of the meaning of homology groups   ️",
       "url": "https://math.stackexchange.com/questions/40149/intuition-of-the-meaning-of-homology-groups",
-      "fx": 238.4531250000001,
-      "fy": 15.595238095251716,
+      "fx": 232.4531250000001,
+      "fy": 13.595238095251716,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -49,10 +49,19 @@
     {
       "text": "1. introduction to homology",
       "url": "https://www.youtube.com/watch?v=ShWdSNJeuOg",
-      "fx": 139.64081101190482,
-      "fy": 119.76822916666663,
+      "fx": 132.88820684523807,
+      "fy": 96.99479166666663,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. links, homology cobordism and Milnor’s invariants",
+      "url": "https://www.youtube.com/watch?v=XRyaYo9B-zA",
+      "fx": 132.88820684523807,
+      "fy": 136.99479166666663,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -61,32 +70,32 @@
       "source": "homology",
       "target": "basics",
       "curve": {
-        "x": -4.88951,
-        "y": 93.0137
+        "x": -8.26581,
+        "y": 97.127
       }
     },
     {
       "source": "help",
       "target": "homology",
       "curve": {
-        "x": -49.2666,
-        "y": -46.4272
+        "x": -46.2666,
+        "y": -45.4272
       }
     },
     {
       "source": "basics",
       "target": "homological algebra  ️",
       "curve": {
-        "x": -80.8014,
-        "y": 61.8766
+        "x": -87.4459,
+        "y": 65.0328
       }
     },
     {
       "source": "basics",
       "target": "simplical homology",
       "curve": {
-        "x": 57.4037,
-        "y": 62.6311
+        "x": 50.7592,
+        "y": 65.7874
       }
     }
   ]

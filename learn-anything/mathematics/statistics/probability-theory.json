@@ -5,20 +5,26 @@
     {
       "text": "probability theory",
       "url": "http://www.wikiwand.com/en/Probability_theory",
-      "fx": -187.9376986228815,
-      "fy": -225.10335010593224,
+      "fx": -112.50800241449315,
+      "fy": -415.0012954688564,
       "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 70.91304871686862,
+      "fy": -303.56157582709153
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -134.6248087335215,
-      "fy": -97.50442855461358
+      "fx": -107.27157754420102,
+      "fy": -122.68267491383693
     },
     {
       "text": "probability distributions  ️",
-      "url": "https://my.mindnode.com/zme7cJKFpqjzapGfVmvAQxKn8zE5xoXTyCfssHqp",
+      "url": "/mathematics/statistics/probability-theory/distributions",
       "fx": -242.517070660405,
       "fy": 79.18478810639533,
       "category": "mindmap"
@@ -33,32 +39,63 @@
     {
       "text": "markov chains  ️",
       "note": "are stochastic processes that satisfy the Markov property (sometimes characterised as ‘memorylessness’)  a process satisfies the Markov property if one can make predictions for the future of the process based solely on its present state just as well as one could knowing the process’s full history, hence independently from such history (i.e. conditional on the present state of the system, its future and paste states are independent)  a Markov chain is a type of Markov process that has either discrete state space or discrete index set (often representing time), but the precise definition of a Markov chain varies",
-      "url": "https://my.mindnode.com/1NpiefgrirDdunaD1stiWpyX3bcQbGMKP79hosmN",
+      "url": "/mathematics/statistics/probability-theory/markov-chains",
       "fx": 51.847304043704526,
       "fy": 80.81032321877683,
       "category": "mindmap"
     },
     {
       "text": "conditional probability  ️",
-      "url": "https://my.mindnode.com/UtaFiiR4M24aWKTfjoX6SDhfsgQ9BeopaGQd87xj",
+      "url": "/mathematics/statistics/probability-theory/conditional-probability",
       "fx": -756.2307586669922,
       "fy": 82.46343231201172,
       "category": "mindmap"
     },
     {
       "text": "expected value  ️",
-      "url": "https://my.mindnode.com/BY6ZsiKtLZRTets2gBakqPVMW1DWfyMCuRzU7qLN",
+      "url": "/mathematics/statistics/probability-theory/expected-value",
       "fx": -968.3375946969668,
       "fy": 87.93832859841825,
+      "category": "mindmap"
+    },
+    {
+      "text": "random variables  ️",
+      "url": "/mathematics/statistics/probability-theory/random-variables",
+      "fx": -1202.2441151638952,
+      "fy": 91.15647361491597,
       "category": "mindmap"
     }
   ],
   "subnodes": [
     {
+      "text": "probability theory review for machine learning",
+      "url": "https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf",
+      "fx": 207.91304871686862,
+      "fy": -345.06157582709153,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "probability theory overview",
+      "url": "http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/Probability-Theory.pdf",
+      "fx": 207.91304871686862,
+      "fy": -289.06157582709153,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "probability theory for machine learning",
+      "url": "http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial1.pdf",
+      "fx": 207.91304871686862,
+      "fy": -255.06157582709153,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "1. probability notes  ️",
       "url": "http://frnsys.com/ai_notes/foundations/probability.html",
-      "fx": 47.37519126647851,
-      "fy": -106.00442855461358,
+      "fx": 74.72842245579898,
+      "fy": -148.18267491383693,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -66,10 +103,18 @@
     {
       "text": "1. probability: theory and examples",
       "url": "http://www.goodreads.com/book/show/9632300-probability",
-      "fx": 47.37519126647851,
-      "fy": -66.00442855461358,
+      "fx": 74.72842245579898,
+      "fy": -108.18267491383693,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. review of probability theory",
+      "url": "http://cs229.stanford.edu/section/cs229-prob.pdf",
+      "fx": 74.72842245579898,
+      "fy": -68.18267491383693,
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -78,48 +123,64 @@
       "source": "probability theory",
       "target": "basics",
       "curve": {
-        "x": -4.84355,
-        "y": 62.5495
+        "x": -28.8818,
+        "y": 144.909
       }
     },
     {
       "source": "basics",
       "target": "markov chains  ️",
       "curve": {
-        "x": 118.736,
-        "y": 90.4074
+        "x": 105.059,
+        "y": 102.997
       }
     },
     {
       "source": "basics",
       "target": "prediction market",
       "curve": {
-        "x": -149.804,
-        "y": 89.9871
+        "x": -163.481,
+        "y": 102.576
       }
     },
     {
       "source": "basics",
       "target": "probability distributions  ️",
       "curve": {
-        "x": -47.4461,
-        "y": 88.3446
+        "x": -61.1227,
+        "y": 100.934
       }
     },
     {
       "source": "basics",
       "target": "conditional probability  ️",
       "curve": {
-        "x": -311.698,
-        "y": 64.9644
+        "x": -325.375,
+        "y": 77.5535
       }
     },
     {
       "source": "basics",
       "target": "expected value  ️",
       "curve": {
-        "x": -471.261,
-        "y": 40.5102
+        "x": -484.938,
+        "y": 53.0993
+      }
+    },
+    {
+      "source": "help",
+      "target": "probability theory",
+      "curve": {
+        "x": -55.4606,
+        "y": -54.4698
+      }
+    },
+    {
+      "source": "basics",
+      "target": "random variables  ️",
+      "curve": {
+        "x": -647.369,
+        "y": 30.943
       }
     }
   ]

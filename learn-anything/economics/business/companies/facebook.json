@@ -10,6 +10,18 @@
       "category": "wiki"
     },
     {
+      "text": "alternative",
+      "url": "",
+      "fx": -440.70968173583026,
+      "fy": -164.84552042160362
+    },
+    {
+      "text": "mastodon",
+      "url": "https://mastodon.social/about",
+      "fx": -639.3663684475782,
+      "fy": -104.00861055107458
+    },
+    {
       "text": "privacy concerns",
       "url": "",
       "fx": 36.902191162109375,
@@ -199,6 +211,22 @@
       "curve": {
         "x": -201.23,
         "y": 54.1678
+      }
+    },
+    {
+      "source": "facebook",
+      "target": "alternative",
+      "curve": {
+        "x": -202.188,
+        "y": 73.3552
+      }
+    },
+    {
+      "source": "alternative",
+      "target": "mastodon",
+      "curve": {
+        "x": -98.8283,
+        "y": 30.4185
       }
     }
   ]

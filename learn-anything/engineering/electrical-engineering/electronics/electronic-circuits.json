@@ -32,7 +32,7 @@
     {
       "text": "embedded systems  ️",
       "note": "is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constrains  it is embedded as part of a complete device often including hardware and mechanical parts",
-      "url": "https://my.mindnode.com/ouBBSFqyBZxb4bqnkxcJcFcqiuHXw6TUBfRhPXvv",
+      "url": "/engineering/electrical-engineering/electronics/electronic-circuits/embedded-systems",
       "fx": 384.84571858456275,
       "fy": -55.63936233520508,
       "category": "mindmap"
@@ -46,7 +46,7 @@
     },
     {
       "text": "field-programmable gate array  ️",
-      "url": "https://my.mindnode.com/snXqg7diovD5U4Jtz6BsdTHszXaanmskusxxKVdt",
+      "url": "/engineering/electrical-engineering/electronics/electronic-circuits/fpga",
       "fx": -70.01820515822726,
       "fy": -45.32412724007247,
       "category": "mindmap"
@@ -60,7 +60,7 @@
     },
     {
       "text": "hardware description languages  ️",
-      "url": "https://my.mindnode.com/poPENpMXpzwqnoXP4NZ3LxCMCgzdsZdkMHze88Jk",
+      "url": "/engineering/electrical-engineering/electronics/electronic-circuits/hardware-description-languages",
       "fx": 239.13301112288218,
       "fy": 159.90132856638428,
       "category": "mindmap"

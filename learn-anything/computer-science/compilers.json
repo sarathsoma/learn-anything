@@ -30,35 +30,35 @@
     },
     {
       "text": "optimising compiler  ️",
-      "url": "https://my.mindnode.com/8LRiSdAPc22LqLEVjwWbkRvShMVYjJYzAqVJL3P5",
+      "url": "/computer-science/compilers/optimising-compiler",
       "fx": 243.4769615565715,
       "fy": 160.7970011821867,
       "category": "mindmap"
     },
     {
       "text": "interpreter  ️",
-      "url": "https://my.mindnode.com/Rbip5ygSsq7U54zGf5ssb17z46y7Psenyz3FzHbD",
+      "url": "/computer-science/compilers/interpreter",
       "fx": -398.27717743223104,
       "fy": 162.12737058259995,
       "category": "mindmap"
     },
     {
       "text": "just-in-time compilation  ️",
-      "url": "https://my.mindnode.com/yYnKJT1xwgtab3TsHmdsivW18s6xUcisxKqQh6PE",
+      "url": "/computer-science/compilers/just-in-time-compilation",
       "fx": -389.5155719094741,
       "fy": 247.2306774204353,
       "category": "mindmap"
     },
     {
       "text": "bootstrapping  ️",
-      "url": "https://my.mindnode.com/8qmT8MPtYMWVzh9vsTeYzEPeJt1VqPJM9xejyAt6",
+      "url": "/computer-science/compilers/bootstrapping",
       "fx": 190.564881781356,
       "fy": 248.90431186061403,
       "category": "mindmap"
     },
     {
       "text": "lexical analysis  ️",
-      "url": "https://my.mindnode.com/bbXCPXoseZe8VgvpBXnpCQsX7eqs8fnr5zxeDk3p",
+      "url": "/computer-science/compilers/lexical-analysis",
       "fx": 86.16613758609833,
       "fy": 344.5118199740509,
       "category": "mindmap"
@@ -66,7 +66,7 @@
     {
       "text": "LLVM  ️",
       "note": "is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  this new IR can then be converted and linked into machine-dependent assembly language code for a target platform",
-      "url": "https://my.mindnode.com/sQuPeeiDsBpGJDCz4mFg25iP2zBzo2GxhzjkCTBJ",
+      "url": "/computer-science/compilers/llvm",
       "fx": -192.99957000620145,
       "fy": 344.8891318028583,
       "category": "mindmap"

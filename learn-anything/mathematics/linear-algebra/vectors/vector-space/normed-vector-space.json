@@ -12,16 +12,23 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 414.1026936026948,
-      "fy": -38.22290614474224
+      "fx": 415.9376954739522,
+      "fy": -36.11423286629912
+    },
+    {
+      "text": "Banach spaces  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space/normed-vector-space/banach-spaces",
+      "fx": 225.48966130239535,
+      "fy": 105.19690306886241,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "1. explanation",
       "url": "https://www.youtube.com/watch?v=VXwXkME9uWU",
-      "fx": 577.1026936026948,
-      "fy": -25.72290614474224,
+      "fx": 578.9376954739522,
+      "fy": -23.61423286629912,
       "category": "video",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
@@ -32,8 +39,16 @@
       "source": "normed vector space",
       "target": "basics",
       "curve": {
-        "x": -2.91602,
-        "y": 71.0862
+        "x": -1.99852,
+        "y": 72.1405
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Banach spaces  ️",
+      "curve": {
+        "x": -75.224,
+        "y": 70.6556
       }
     }
   ]

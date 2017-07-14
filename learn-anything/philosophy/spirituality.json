@@ -18,16 +18,23 @@
     },
     {
       "text": "religion  ️",
-      "url": "https://my.mindnode.com/XEfmWxMMwAqDbXnMUPmjAmRYx6S3CXJcvyCdp33j",
-      "fx": -193.71123492463903,
-      "fy": -36.52501058914038,
+      "url": "/philosophy/spirituality/religion",
+      "fx": -245.92609850331928,
+      "fy": -26.46988685817587,
       "category": "mindmap"
     },
     {
       "text": "God  ️",
-      "url": "https://my.mindnode.com/GbSW5MNg2kiuwVsLnFti6xsHJG7QmoU4MyjpJqxq",
-      "fx": -46.86043087722078,
-      "fy": -35.40461413388323,
+      "url": "/philosophy/spirituality/god",
+      "fx": -102.6698169708252,
+      "fy": -25.359536051750183,
+      "category": "mindmap"
+    },
+    {
+      "text": "afterlife  ️",
+      "url": "/philosophy/spirituality/afterlife",
+      "fx": 13.258956755049894,
+      "fy": -24.34161931818153,
       "category": "mindmap"
     }
   ],
@@ -73,16 +80,24 @@
       "source": "basics",
       "target": "religion  ️",
       "curve": {
-        "x": -49.1227,
-        "y": 59.3819
+        "x": -75.2301,
+        "y": 64.4095
       }
     },
     {
       "source": "basics",
       "target": "God  ️",
       "curve": {
-        "x": 11.0527,
-        "y": 58.6921
+        "x": -16.852,
+        "y": 63.7146
+      }
+    },
+    {
+      "source": "basics",
+      "target": "afterlife  ️",
+      "curve": {
+        "x": 58.3867,
+        "y": 64.2236
       }
     }
   ]

@@ -20,7 +20,7 @@
   "subnodes": [
     {
       "text": "programming  ️",
-      "url": "https://my.mindnode.com/XK73eU8WNHy5qHEnsKTKqSdsVkXzs2iMtvTmgYpc",
+      "url": "/programming",
       "fx": 479.93868885869574,
       "fy": -262.1368885869565,
       "category": "mindmap",
@@ -29,7 +29,7 @@
     },
     {
       "text": "gardening  ️",
-      "url": "https://my.mindnode.com/zBgzq6H9Hz8S6fyB9rLtHNCYN5AXixNoHL2EM7yL",
+      "url": "/life/hobbies/gardening",
       "fx": 479.93868885869574,
       "fy": -222.1368885869565,
       "category": "mindmap",
@@ -38,7 +38,7 @@
     },
     {
       "text": "knitting  ️",
-      "url": "https://my.mindnode.com/zLUJZWvkWHtpxzjqnsohVLwbybupKvMY1bnq8FXX",
+      "url": "/life/hobbies/knitting",
       "fx": 479.93868885869574,
       "fy": -182.1368885869565,
       "category": "mindmap",
@@ -47,7 +47,7 @@
     },
     {
       "text": "woodworking  ️",
-      "url": "https://my.mindnode.com/ysZxjMan3cKrci4vF4ipEtvqs3wpxrqqAnUVLpGs",
+      "url": "/life/hobbies/woodworking",
       "fx": 479.93868885869574,
       "fy": -142.1368885869565,
       "category": "mindmap",
@@ -56,7 +56,7 @@
     },
     {
       "text": "carpentry  ️",
-      "url": "https://my.mindnode.com/8AxzB22vZAG1qyF21SUsP2N1BLYp5c5wEqLHVLg3",
+      "url": "/life/hobbies/carpentry",
       "fx": 479.93868885869574,
       "fy": -102.1368885869565,
       "category": "mindmap",
@@ -65,7 +65,7 @@
     },
     {
       "text": "brewing  ️",
-      "url": "https://my.mindnode.com/UzDzkB1moKxxgCz9uiJdLZhLHDuK55z1g2AbZmS4",
+      "url": "/life/hobbies/brewing",
       "fx": 479.93868885869574,
       "fy": -62.1368885869565,
       "category": "mindmap",

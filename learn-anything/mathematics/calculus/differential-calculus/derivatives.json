@@ -5,21 +5,28 @@
     {
       "text": "derivatives",
       "url": "http://www.wikiwand.com/en/Derivative",
-      "fx": -98.9140625,
-      "fy": -140.34446022727263,
+      "fx": -134.78645833333314,
+      "fy": -172.06794507575756,
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -71.70466382575762,
-      "fy": -6.0956439393939945
+      "fx": -143.39618844696975,
+      "fy": 5.9545454545452685
     },
     {
       "text": "differential equations  ️",
-      "url": "https://my.mindnode.com/YUPmxhdJdvqn4iEdN1xMBNycpPLncMypHBB1ck3L",
-      "fx": -245.86517518939377,
-      "fy": 150.19921874999955,
+      "url": "/mathematics/calculus/differential-calculus/derivatives/differential-equations",
+      "fx": -154.1955492424239,
+      "fy": 225.87097537878776,
+      "category": "mindmap"
+    },
+    {
+      "text": "gradient  ️",
+      "url": "/mathematics/calculus/differential-calculus/derivatives/gradient",
+      "fx": -316.3291462792377,
+      "fy": 228.14408091409803,
       "category": "mindmap"
     }
   ],
@@ -27,19 +34,37 @@
     {
       "text": "1. the paradox of the derivative",
       "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk&amp;t=2s",
-      "fx": 84.29533617424238,
-      "fy": -14.595643939393995,
+      "fx": 19.603811553030255,
+      "fy": -82.04545454545473,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the quotient rule, exponents and logarithms   ️",
+      "url": "https://betterexplained.com/articles/how-to-understand-derivatives-the-quotient-rule-exponents-and-logarithms/",
+      "fx": 19.603811553030255,
+      "fy": -15.045454545454731,
+      "category": "article",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. the product, power &amp; chain rules  ️",
+      "url": "https://betterexplained.com/articles/derivatives-product-power-chain/",
+      "fx": 19.603811553030255,
+      "fy": 51.95454545454527,
+      "category": "article",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. how to take derivatives",
       "url": "https://www.youtube.com/watch?v=hCLfogkqzEk&amp;t=21s",
-      "fx": 84.29533617424238,
-      "fy": 25.404356060606005,
+      "fx": 19.603811553030255,
+      "fy": 118.95454545454527,
       "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -48,16 +73,24 @@
       "source": "derivatives",
       "target": "basics",
       "curve": {
-        "x": -0.395301,
-        "y": 65.8744
+        "x": -18.3049,
+        "y": 87.7612
       }
     },
     {
       "source": "basics",
       "target": "differential equations  ️",
       "curve": {
-        "x": -48.0803,
-        "y": 79.3974
+        "x": 33.6003,
+        "y": 111.208
+      }
+    },
+    {
+      "source": "basics",
+      "target": "gradient  ️",
+      "curve": {
+        "x": -82.7165,
+        "y": 111.095
       }
     }
   ]

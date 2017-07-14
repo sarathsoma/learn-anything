@@ -5,21 +5,21 @@
     {
       "text": "machine learning",
       "url": "https://www.wikiwand.com/en/Machine_learning",
-      "fx": 368.9154140058772,
-      "fy": -1829.949791230351,
+      "fx": 366.4857265058772,
+      "fy": -1919.215416230351,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 684.5249014960395,
-      "fy": -1408.5921296619233
+      "fx": 720.6896362304688,
+      "fy": -1510.6791381835938
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 1073.6746215820312,
-      "fy": -899.1797997224417
+      "fx": 1113.9756164550781,
+      "fy": -877.5287475585938
     },
     {
       "text": "basics",
@@ -31,14 +31,14 @@
     {
       "text": "neural networks  ️",
       "note": "are computational models based on a large collection of simple neural units (artificial neurons), loosely analogous to the observed behaviour of a biological brain’s axons  each neural unit is connected with many others, and links can enhance or inhibit the activation state of adjoining neural units  each individual neural unit computes using summation function  there may be a threshold function or limiting function on each connection and on the unit itself, such that the signal must surpass the limit before propagating to there neurons  these systems are self learning and trained, rather than explicitly programmed, and excel in areas where the solution or feature detection is difficult to express in a traditional computer program",
-      "url": "https://my.mindnode.com/VznvpXy4JfeyVL4toshCQE3pdyHvLzx1bTGUpze2#210.2,163.7,2",
+      "url": "/machine-learning/neural-networks",
       "fx": -170.33546900026693,
       "fy": -200.2313120724848,
       "category": "mindmap"
     },
     {
       "text": "supervised learning  ️",
-      "url": "https://my.mindnode.com/vZEQWXFXJnxxNB4peB2z7oqxzuTWyYsS71LYy22G",
+      "url": "/machine-learning/supervised-learning",
       "fx": -1684.212660185838,
       "fy": -194.24692569785498,
       "category": "mindmap"
@@ -46,60 +46,67 @@
     {
       "text": "adversarial machine learning  ️",
       "note": "aims to enable the safe adoption of machine learning techniques in adversarial settings like spam filtering, malware detection and biometric recognition",
-      "url": "https://my.mindnode.com/CKNLj36vrZgDEVuxtxCpVpsMu7sCpYxodLqWUAaw",
+      "url": "/machine-learning/adversarial",
       "fx": -598.1466586321737,
       "fy": -194.05878845516963,
       "category": "mindmap"
     },
     {
       "text": "pattern recognition  ️",
-      "url": "https://my.mindnode.com/8Pwvsu1QAifWmHporsUx4f2ME3wxCek3TwWVEU9Z",
+      "url": "/machine-learning/pattern-recognition",
       "fx": -1418.6272583007812,
       "fy": -193.7800064086914,
       "category": "mindmap"
     },
     {
       "text": "hyperparameter optimisation  ️",
-      "url": "https://my.mindnode.com/WNrQuQ92uUim2DwZ4UMPdsCWj2VzTpkDNrK74sMA",
+      "url": "/machine-learning/hyperparameter-optimisation",
       "fx": -2022.3003998753636,
       "fy": -191.97402324816585,
       "category": "mindmap"
     },
     {
       "text": "unsupervised learning  ️",
-      "url": "https://my.mindnode.com/EvrzskgHbBg9SqE3sDDnDu2t9WmYFQXQDBncgqWL",
+      "url": "/machine-learning/unsupervised-learning",
       "fx": -892.4199925057097,
       "fy": -189.66987057480014,
       "category": "mindmap"
     },
     {
       "text": "decision tree learning  ️",
-      "url": "https://my.mindnode.com/C7Xyt658ExJoNwjaisQxpr9McAxex3fzSjay1uf5",
+      "url": "/machine-learning/decision-tree-learning",
       "fx": -1173.5078735351562,
       "fy": -189.03055572509766,
       "category": "mindmap"
     },
     {
-      "text": "machine learning libraries  ️",
-      "url": "https://my.mindnode.com/PVcz8iqUfa941KTpBqXgpiP7Asst1yGcqVa8Kmit",
-      "fx": 101.20956420898438,
-      "fy": -57.12721252441406,
+      "text": "multi-task learning  ️",
+      "url": "/machine-learning/multi-task-learning",
+      "fx": -2262.3690423545595,
+      "fy": -188.8460347877376,
       "category": "mindmap"
     },
     {
       "text": "reinforcement learning  ️",
       "note": "inspired by behaviourist psychology, concerned with how software agents ought to take actions in an environment so as to maximise some notion of cumulative reward  in machine learning, the environment is typically formulated as Markov decision process (MDP), as many reinforcement learning algorithms for this context utilise dynamic programming techniques  main differences between classical techniques and reinforcement learning algorithms is that the latter do not need knowledge about the MDP and they target large MDPs where exact methods become infeasible  it differs from standard supervised learning in that correct input/output pairs are never presented, nor sub-optimal actions explicitly corrected  basic reinforcement learning model consists of :  1. a set of environment and agent states S  2. a set of actions A of the agent  3. policies of transitioning from states to actions  4. rules that determine the scalar immediate reward of a transition  5. rules that describe what the agent observes",
-      "url": "https://my.mindnode.com/eKswyDv4KNY9fePuF3DcWvYZjtTaBzxk581Mw7Ru",
+      "url": "/machine-learning/reinforcement-learning",
       "fx": -360.7225469057171,
       "fy": -26.08330895216352,
       "category": "mindmap"
     },
     {
+      "text": "machine learning libraries  ️",
+      "url": "/machine-learning/machine-learning-libraries",
+      "fx": 197.15416648171185,
+      "fy": 18.933606884696474,
+      "category": "mindmap"
+    },
+    {
       "text": "deep learning  ️",
       "note": "is a class of machine learning algorithms that :   use a cascade of many layers of nonlinear processing units for feature extraction and transformation  each successive layer uses the output from the previous layer as input  the algorithms may be supervised or unsupervised and applications include pattern analysis (unsupervised) and classification (supervised)  are based on the (unsupervised) learning of multiple levels of features or representations of the data  higher level features are derived from lower level features to form a hierarchical representation  are part of the broader machine learning field of learning representations of data  learn multiple levels of representations that correspond to different levels of abstraction (the levels form a hierarchy of concepts)",
-      "url": "https://my.mindnode.com/wqhKt6rDSZrJR5pVV2TpCv4xnHUsYJf3vZ9SbX7D",
+      "url": "/machine-learning/deep-learning",
       "fx": -55.70289421081543,
-      "fy": 8.993674278259277,
+      "fy": 22.005845069885254,
       "category": "mindmap"
     }
   ],
@@ -107,8 +114,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/MachineLearning/",
-      "fx": 649.9154140058772,
-      "fy": -1855.949791230351,
+      "fx": 647.4857265058772,
+      "fy": -1945.215416230351,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "machine learning"
@@ -116,8 +123,8 @@
     {
       "text": "️",
       "url": "https://stats.stackexchange.com/",
-      "fx": 649.9154140058772,
-      "fy": -1815.949791230351,
+      "fx": 647.4857265058772,
+      "fy": -1905.215416230351,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "machine learning"
@@ -125,8 +132,8 @@
     {
       "text": "awesome",
       "url": "https://github.com/josephmisiti/awesome-machine-learning",
-      "fx": 649.9154140058772,
-      "fy": -1775.949791230351,
+      "fx": 647.4857265058772,
+      "fy": -1865.215416230351,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "machine learning"
@@ -134,8 +141,8 @@
     {
       "text": "machine learning for software engineers",
       "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
-      "fx": 821.5249014960395,
-      "fy": -1700.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1906.1791381835938,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -143,24 +150,24 @@
     {
       "text": "machine learning requirements list",
       "url": "https://metacademy.org/roadmaps/cjrd/level-up-your-ml",
-      "fx": 821.5249014960395,
-      "fy": -1638.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1844.1791381835938,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "machine learning concept map",
       "url": "https://fkcd.ca/EpU.svg",
-      "fx": 821.5249014960395,
-      "fy": -1604.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1810.1791381835938,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "machine learning tutorials",
       "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials",
-      "fx": 821.5249014960395,
-      "fy": -1570.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1776.1791381835938,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -168,16 +175,16 @@
     {
       "text": "machine learning in python course",
       "url": "https://www.springboard.com/learning-paths/machine-learning-python/",
-      "fx": 821.5249014960395,
-      "fy": -1530.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1736.1791381835938,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "dive into machine learning",
       "url": "https://github.com/hangtwenty/dive-into-machine-learning",
-      "fx": 821.5249014960395,
-      "fy": -1496.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1702.1791381835938,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -185,16 +192,16 @@
     {
       "text": "machine learning resources",
       "url": "http://www.ritchieng.com/machine-learning-resources/",
-      "fx": 821.5249014960395,
-      "fy": -1456.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1662.1791381835938,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "how to learn machine learning",
       "url": "https://elitedatascience.com/learn-machine-learning",
-      "fx": 821.5249014960395,
-      "fy": -1422.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1628.1791381835938,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -202,8 +209,8 @@
       "text": "machine learning demystified",
       "note": "- weekly workshop series at ITP to teach machine learning with a focus on deep learning",
       "url": "https://github.com/shekit/machine-learning-demystified",
-      "fx": 821.5249014960395,
-      "fy": -1388.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1594.1791381835938,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -211,8 +218,8 @@
     {
       "text": "ml from scratch",
       "url": "https://github.com/eriklindernoren/ML-From-Scratch",
-      "fx": 821.5249014960395,
-      "fy": -1348.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1554.1791381835938,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -220,24 +227,24 @@
     {
       "text": "books suggested for machine learning study",
       "url": "http://www.statsblogs.com/2014/12/30/machine-learning-books-suggested-by-michael-i-jordan-from-berkeley/",
-      "fx": 821.5249014960395,
-      "fy": -1308.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1514.1791381835938,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "is functional analysis relevant to machine learning?",
       "url": "https://www.quora.com/Is-functional-analysis-relevant-to-machine-learning",
-      "fx": 821.5249014960395,
-      "fy": -1252.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1458.1791381835938,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "machine learning surveys",
       "url": "https://github.com/metrofun/machine-learning-surveys",
-      "fx": 821.5249014960395,
-      "fy": -1196.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1402.1791381835938,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -245,8 +252,8 @@
     {
       "text": "fantastic machine learning",
       "url": "https://github.com/onmyway133/fantastic-machine-learning",
-      "fx": 821.5249014960395,
-      "fy": -1156.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1362.1791381835938,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -254,17 +261,50 @@
     {
       "text": "examples and experiments around ML",
       "url": "https://github.com/CodingTrain/Machine-Learning",
-      "fx": 821.5249014960395,
-      "fy": -1116.0921296619233,
+      "fx": 857.6896362304688,
+      "fy": -1322.1791381835938,
       "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "math for machine learning",
+      "url": "https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf",
+      "fx": 857.6896362304688,
+      "fy": -1260.1791381835938,
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "math for machine learning II",
+      "url": "http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf",
+      "fx": 857.6896362304688,
+      "fy": -1226.1791381835938,
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "an example machine learning notebook",
+      "url": "http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb",
+      "fx": 857.6896362304688,
+      "fy": -1192.1791381835938,
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "curated list of AI and machine learning resources from around the web  ️",
+      "url": "https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524",
+      "fx": 857.6896362304688,
+      "fy": -1136.1791381835938,
+      "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "four experiments in handwriting with a neural network",
       "url": "http://distill.pub/2016/handwriting/",
-      "fx": 1235.6746215820312,
-      "fy": -1312.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -1291.0287475585938,
       "category": "interactive",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -272,8 +312,8 @@
     {
       "text": "confounding variables  ️",
       "url": "http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/",
-      "fx": 1235.6746215820312,
-      "fy": -1250.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -1229.0287475585938,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -281,8 +321,8 @@
     {
       "text": "a beginner's guide to variational methods: mean-field approximation  ️",
       "url": "http://blog.evjang.com/2016/08/variational-bayes.html",
-      "fx": 1235.6746215820312,
-      "fy": -1210.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -1189.0287475585938,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
@@ -290,8 +330,8 @@
     {
       "text": "monte carlo variance reduction techniques in julia  ️",
       "url": "http://blog.evjang.com/2016/09/variance-reduction-part1.html",
-      "fx": 1235.6746215820312,
-      "fy": -1126.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -1105.0287475585938,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "articles"
@@ -299,8 +339,8 @@
     {
       "text": "summary of nips 2016  ️",
       "url": "http://blog.evjang.com/2017/01/nips2016.html",
-      "fx": 1235.6746215820312,
-      "fy": -1064.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -1043.0287475585938,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "articles"
@@ -308,8 +348,8 @@
     {
       "text": "rich tasks crowdsourcing data for more rich tasks  ️",
       "url": "http://klr.tumblr.com/post/158036182833/rich-tasks-crowdsourcing-data-for-more-rich-tasks",
-      "fx": 1235.6746215820312,
-      "fy": -1024.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -1003.0287475585938,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "articles"
@@ -317,8 +357,8 @@
     {
       "text": "machine learning overview  ️",
       "url": "http://frnsys.com/ai_notes/machine_learning/overview.html",
-      "fx": 1235.6746215820312,
-      "fy": -962.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -941.0287475585938,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -326,8 +366,8 @@
     {
       "text": "where do you get your ml news from?  ️",
       "url": "https://badhrink.github.io/where-you-get-ml-news/",
-      "fx": 1235.6746215820312,
-      "fy": -922.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -901.0287475585938,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "articles"
@@ -335,8 +375,8 @@
     {
       "text": "16: attention and augmented recurrent neural networks",
       "url": "http://distill.pub/2016/augmented-rnns/",
-      "fx": 1235.6746215820312,
-      "fy": -860.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -839.0287475585938,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -344,8 +384,8 @@
     {
       "text": "16: categorical variational autoencoders using gumbel-softmax  ️",
       "url": "http://blog.evjang.com/2016/11/tutorial-categorical-variational.html",
-      "fx": 1235.6746215820312,
-      "fy": -798.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -777.0287475585938,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -353,8 +393,8 @@
     {
       "text": "17: a casual intro to machine learning  ️",
       "url": "https://blog.intracto.com/a-casual-intro-to-machine-learning",
-      "fx": 1235.6746215820312,
-      "fy": -714.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -693.0287475585938,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -362,8 +402,8 @@
     {
       "text": "17: back to the core of intelligence … to really move to the future  ️",
       "url": "https://medium.com/ai-roadmap-institute/back-to-the-core-of-intelligence-to-really-move-to-the-future-8eb476c5dd36",
-      "fx": 1235.6746215820312,
-      "fy": -652.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -631.0287475585938,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -371,8 +411,8 @@
     {
       "text": "17: over 150 of the best machine learning, NLP and python tutorials I found  ️",
       "url": "https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78",
-      "fx": 1235.6746215820312,
-      "fy": -568.6797997224417,
+      "fx": 1275.9756164550781,
+      "fy": -547.0287475585938,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "articles"
@@ -380,8 +420,8 @@
     {
       "text": "17: which machine learning algorithm should I use?  ️",
       "url": "https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/",
-      "fx": 1235.6746215820312,
-      "fy": -484.67979972244166,
+      "fx": 1275.9756164550781,
+      "fy": -463.02874755859375,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -586,16 +626,16 @@
       "source": "machine learning",
       "target": "basics",
       "curve": {
-        "x": -116.571,
-        "y": 625.136
+        "x": -115.356,
+        "y": 669.769
       }
     },
     {
       "source": "help",
       "target": "machine learning",
       "curve": {
-        "x": -126.304,
-        "y": -210.681
+        "x": -145.601,
+        "y": -204.27
       }
     },
     {
@@ -619,15 +659,15 @@
       "target": "deep learning  ️",
       "curve": {
         "x": 52.066,
-        "y": 104.613
+        "y": 111.119
       }
     },
     {
       "source": "basics",
       "target": "machine learning libraries  ️",
       "curve": {
-        "x": -7.28268,
-        "y": 261.276
+        "x": 3.55184,
+        "y": 299.306
       }
     },
     {
@@ -642,8 +682,8 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -352.039,
-        "y": -151.922
+        "x": -354.107,
+        "y": -213.791
       }
     },
     {
@@ -684,6 +724,14 @@
       "curve": {
         "x": -1382.65,
         "y": 90.1686
+      }
+    },
+    {
+      "source": "basics",
+      "target": "multi-task learning  ️",
+      "curve": {
+        "x": -1526.67,
+        "y": 27.2578
       }
     }
   ]

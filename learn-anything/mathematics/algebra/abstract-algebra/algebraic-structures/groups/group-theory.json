@@ -24,7 +24,7 @@
     },
     {
       "text": "abelian group  ️",
-      "url": "https://my.mindnode.com/BXAvJCZCF6Mv3XxMDZPvxKCE3BU4XfSpZDtnLd4j",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/abelian-group",
       "fx": -504.25450606746347,
       "fy": 37.55625989278656,
       "category": "mindmap"
@@ -47,21 +47,21 @@
     {
       "text": "lie groups  ️",
       "note": "is a group that is also a differentiable manifold, with the property that the group operations are compatible with the smooth structure  lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups  one of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearised version",
-      "url": "https://my.mindnode.com/xdYxQxiAW9Vyi2bwHWPJswDxudBizpQxNkybsUhb",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/lie-groups",
       "fx": -231.17394824946075,
       "fy": 231.4412082961743,
       "category": "mindmap"
     },
     {
       "text": "Sylow theorems  ️",
-      "url": "https://my.mindnode.com/vPrpgi3wBgmff6sb3ibMCZwqo4dqhXLxsqm9xsuJ",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/sylow-theorems",
       "fx": 198.99432069742988,
       "fy": 280.16457222059853,
       "category": "mindmap"
     },
     {
       "text": "semigroups  ️",
-      "url": "https://my.mindnode.com/psvpxgDHypYsNfhSswzmep49MDxD42cFigcaiv3W",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/semigroups",
       "fx": -31.78431999683903,
       "fy": 316.2600404192193,
       "category": "mindmap"

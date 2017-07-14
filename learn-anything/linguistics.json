@@ -18,37 +18,44 @@
     },
     {
       "text": "languages  ️",
-      "url": "https://my.mindnode.com/stsEoNGkUKFSyU9tsZ79xwDwQqQWSufCXafvSdPx",
+      "url": "/linguistics/languages",
       "fx": -259.6507457386364,
       "fy": 22.13156960227161,
       "category": "mindmap"
     },
     {
       "text": "morphology  ️",
-      "url": "https://my.mindnode.com/pvqF4SLf2SoaCfYERz6bRqushqPyqumAyyKqp6bR",
+      "url": "/linguistics/morphology",
       "fx": -450.11610583843674,
       "fy": 25.160235176534,
       "category": "mindmap"
     },
     {
       "text": "computational linguistics  ️",
-      "url": "https://my.mindnode.com/tdBhCdF4V1dVDHxhCLWKc9L8mgDe1836mbzpHEFv",
+      "url": "/linguistics/computational-linguistics",
       "fx": -78.83876433006935,
       "fy": 25.265833980176808,
       "category": "mindmap"
     },
     {
       "text": "formal language  ️",
-      "url": "https://my.mindnode.com/rksntxsPPsRX24EK1Bq46u4tfQvUscqqqezBZxzi",
+      "url": "/linguistics/formal-language",
       "fx": -675.2427825927734,
       "fy": 25.409942626953125,
       "category": "mindmap"
     },
     {
       "text": "corpus linguistics  ️",
-      "url": "https://my.mindnode.com/sDrAVxFmdJ2r9qp6CmxTWL7HehLxUdsWMZ961QeD",
+      "url": "/linguistics/corpus-linguistics",
       "fx": -906.3851354125608,
       "fy": 29.384845946660334,
+      "category": "mindmap"
+    },
+    {
+      "text": "translation  ️",
+      "url": "/linguistics/translation",
+      "fx": -347.3984375,
+      "fy": 149.9365234375,
       "category": "mindmap"
     }
   ],
@@ -146,6 +153,14 @@
       "curve": {
         "x": -452.169,
         "y": 33.5026
+      }
+    },
+    {
+      "source": "languages  ️",
+      "target": "translation  ️",
+      "curve": {
+        "x": -51.1238,
+        "y": 62.6525
       }
     }
   ]

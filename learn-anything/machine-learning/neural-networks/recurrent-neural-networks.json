@@ -12,21 +12,21 @@
     {
       "text": "help",
       "url": "",
-      "fx": 179.896484375,
-      "fy": -49.86328125
+      "fx": 177.03246963700883,
+      "fy": -45.34806563864629
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 67.95703125,
-      "fy": 70.40234375
+      "fx": -31.82938441793067,
+      "fy": 190.56444820685783
     },
     {
       "text": "Hopfield networks  ️",
-      "url": "https://my.mindnode.com/s4hXFVzzM4jh5q2ws61tbJXwECyfYyNj1J8nwAvZ",
-      "fx": -86.28232147982021,
-      "fy": 219.58507862794318,
+      "url": "/machine-learning/neural-networks/recurrent-neural-networks/hopfield-networks",
+      "fx": -210.78815402293037,
+      "fy": 330.7783842769089,
       "category": "mindmap"
     }
   ],
@@ -34,37 +34,64 @@
     {
       "text": "16: recurrent highway networks",
       "url": "https://arxiv.org/abs/1607.03474",
-      "fx": 316.896484375,
-      "fy": -89.36328125,
+      "fx": 318.03246963700883,
+      "fy": -112.34806563864629,
       "category": "paper",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "16: on multiplicative integration with recurrent neural networks",
       "url": "https://arxiv.org/abs/1606.06630",
-      "fx": 316.896484375,
-      "fy": -49.36328125,
+      "fx": 318.03246963700883,
+      "fy": -45.34806563864629,
       "category": "paper",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "RRN from scratch",
       "url": "https://github.com/pangolulu/rnn-from-scratch",
-      "fx": 316.896484375,
-      "fy": 12.63671875,
+      "fx": 318.03246963700883,
+      "fy": 46.65193436135371,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "1. a short TensorFlow tutorial",
       "url": "https://github.com/silicon-valley-data-science/RNN-Tutorial",
-      "fx": 249.95703125,
-      "fy": 81.90234375,
+      "fx": 157.17061558206933,
+      "fy": 102.56444820685783,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. attention and augmented recurrent neural networks  ️",
+      "url": "http://distill.pub/2016/augmented-rnns/",
+      "fx": 157.17061558206933,
+      "fy": 144.56444820685783,
+      "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. unreasonable effectiveness of recurrent neural networks   ️",
+      "url": "http://karpathy.github.io/2015/05/21/rnn-effectiveness/",
+      "fx": 157.17061558206933,
+      "fy": 211.56444820685783,
+      "category": "article",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. deep dive into recurrent neural nets  ️",
+      "url": "http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/",
+      "fx": 157.17061558206933,
+      "fy": 278.56444820685783,
+      "category": "article",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     }
   ],
@@ -73,24 +100,24 @@
       "source": "help",
       "target": "recurrent neural networks",
       "curve": {
-        "x": -55.083,
-        "y": -63.7305
+        "x": -53.651,
+        "y": -65.9881
       }
     },
     {
       "source": "recurrent neural networks",
       "target": "basics",
       "curve": {
-        "x": -2.63672,
-        "y": 123.863
+        "x": -52.53,
+        "y": 183.944
       }
     },
     {
       "source": "basics",
       "target": "Hopfield networks  ️",
       "curve": {
-        "x": -60.1197,
-        "y": 74.5914
+        "x": -72.4795,
+        "y": 70.107
       }
     }
   ]

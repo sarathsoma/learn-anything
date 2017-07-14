@@ -14,6 +14,13 @@
       "url": "",
       "fx": 249.45960679945028,
       "fy": -57.65617845696909
+    },
+    {
+      "text": "compact space  ️",
+      "url": "/mathematics/topology/general-topology/compact-space",
+      "fx": 120.70749370276849,
+      "fy": 90.01377518891672,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -43,6 +50,14 @@
       "curve": {
         "x": -4.55535,
         "y": 85.5918
+      }
+    },
+    {
+      "source": "basics",
+      "target": "compact space  ️",
+      "curve": {
+        "x": -41.3761,
+        "y": 73.835
       }
     }
   ]

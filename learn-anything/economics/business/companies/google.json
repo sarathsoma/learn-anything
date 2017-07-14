@@ -1,0 +1,217 @@
+{
+  "title": "learn anything - economics - business - companies - google",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "google",
+      "url": "http://www.wikiwand.com/en/Google",
+      "fx": 220.31640625,
+      "fy": -212.38671875,
+      "category": "wiki"
+    },
+    {
+      "text": "alternative",
+      "url": "",
+      "fx": -58.70885881360027,
+      "fy": -75.71787248312023
+    },
+    {
+      "text": "owned by",
+      "url": "",
+      "fx": 153.53745545117476,
+      "fy": -70.3421600278379
+    },
+    {
+      "text": "privacy issues",
+      "url": "",
+      "fx": 344.93454188978444,
+      "fy": -68.79130723610672
+    },
+    {
+      "text": "duckduckgo",
+      "url": "https://duckduckgo.com",
+      "fx": -198.46171874999993,
+      "fy": 28.85334821428569
+    },
+    {
+      "text": "startpage",
+      "url": "https://www.startpage.com/",
+      "fx": -352.728731638825,
+      "fy": 30.88861937163972
+    },
+    {
+      "text": "alphabet",
+      "url": "http://www.wikiwand.com/nl/Alphabet_Inc.",
+      "fx": 57.130283491952014,
+      "fy": 36.3952786581857,
+      "category": "wiki"
+    },
+    {
+      "text": "also owns",
+      "url": "",
+      "fx": -69.322265625,
+      "fy": 157.2705078125
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 427.2888823297176,
+      "fy": 182.5019866838487
+    },
+    {
+      "text": "nest labs",
+      "url": "http://www.wikiwand.com/en/Nest_Labs",
+      "fx": -409.48146206991794,
+      "fy": 322.10841318829887,
+      "category": "wiki"
+    },
+    {
+      "text": "calico",
+      "url": "http://www.wikiwand.com/en/Calico_(company)",
+      "fx": -232.1502214040487,
+      "fy": 322.65081690565773,
+      "category": "wiki"
+    },
+    {
+      "text": "deepmind",
+      "url": "http://www.wikiwand.com/en/DeepMind",
+      "fx": -85.77546242440121,
+      "fy": 323.7864768151012,
+      "category": "wiki"
+    },
+    {
+      "text": "youtube",
+      "url": "http://www.wikiwand.com/en/YouTube",
+      "fx": 108.57362652694474,
+      "fy": 323.82440183295637,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "how does google search collect info about you",
+      "url": "https://www.reddit.com/r/privacy/comments/6hbjq5/how_does_google_search_collect_info_about_you_if/",
+      "fx": 583.9345418897844,
+      "fy": -126.79130723610672,
+      "category": "reddit",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "privacy issues"
+    },
+    {
+      "text": "It is possible that all the information could be made available to the authorities - Eric Schmidt",
+      "url": "https://www.reddit.com/r/privacy/comments/6hzqj4/google_not_gchq_is_the_truly_chilling_spy_network/dj2x3zl/",
+      "fx": 583.9345418897844,
+      "fy": -59.79130723610672,
+      "category": "reddit",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "privacy issues"
+    },
+    {
+      "text": "google developers blog  ️",
+      "url": "https://developers.googleblog.com/",
+      "fx": 626.2888823297176,
+      "fy": 195.0019866838487,
+      "category": "blog",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "interesting"
+    }
+  ],
+  "connections": [
+    {
+      "source": "privacy issues",
+      "target": "google",
+      "curve": {
+        "x": -72.5591,
+        "y": -71.0477
+      }
+    },
+    {
+      "source": "google",
+      "target": "owned by",
+      "curve": {
+        "x": -33.6394,
+        "y": 70.2723
+      }
+    },
+    {
+      "source": "owned by",
+      "target": "alphabet",
+      "curve": {
+        "x": -43.4536,
+        "y": 54.1187
+      }
+    },
+    {
+      "source": "google",
+      "target": "alternative",
+      "curve": {
+        "x": -139.763,
+        "y": 67.5844
+      }
+    },
+    {
+      "source": "alphabet",
+      "target": "also owns",
+      "curve": {
+        "x": -79.2263,
+        "y": 59.6876
+      }
+    },
+    {
+      "source": "also owns",
+      "target": "calico",
+      "curve": {
+        "x": -72.414,
+        "y": 83.4402
+      }
+    },
+    {
+      "source": "also owns",
+      "target": "deepmind",
+      "curve": {
+        "x": 11.5234,
+        "y": 84.008
+      }
+    },
+    {
+      "source": "also owns",
+      "target": "youtube",
+      "curve": {
+        "x": 103.698,
+        "y": 84.0269
+      }
+    },
+    {
+      "source": "also owns",
+      "target": "nest labs",
+      "curve": {
+        "x": -175.522,
+        "y": 72.9226
+      }
+    },
+    {
+      "source": "alternative",
+      "target": "duckduckgo",
+      "curve": {
+        "x": -63.3764,
+        "y": 52.2856
+      }
+    },
+    {
+      "source": "alternative",
+      "target": "startpage",
+      "curve": {
+        "x": -172.712,
+        "y": 35.576
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "privacy issues",
+      "curve": {
+        "x": -31.1772,
+        "y": -125.647
+      }
+    }
+  ]
+}

@@ -5,26 +5,26 @@
     {
       "text": "functions",
       "url": "http://www.wikiwand.com/en/Function_(mathematics)",
-      "fx": -201.2109375,
-      "fy": -200.77155172413802,
+      "fx": -203.2559742647054,
+      "fy": -256.57731152805957,
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -182.13867949563803,
-      "fy": -80.54974531649583
+      "fy": -138.50011296355484
     },
     {
       "text": "periodic functions  ️",
-      "url": "https://my.mindnode.com/yNiAXfXK5s98kdStb8KyHLvszJBsMRi4gDdGzujy",
+      "url": "/mathematics/algebra/functions/periodic-functions",
       "fx": -17.576653587444184,
       "fy": 74.70626690511801,
       "category": "mindmap"
     },
     {
       "text": "transformations  ️",
-      "url": "https://my.mindnode.com/F6NBtCQmZAJRWTyf43qfqccpYsW8hqQ9j4UENE5y",
+      "url": "/mathematics/algebra/functions/transformations",
       "fx": -240.3987922668457,
       "fy": 74.97518157958984,
       "category": "mindmap"
@@ -38,24 +38,38 @@
     },
     {
       "text": "logistic functions  ️",
-      "url": "https://my.mindnode.com/wZZ43QEzhVEYAS8zfooBMs2j3uWM6wdyHKjGrsdq",
+      "url": "/mathematics/algebra/functions/logistic-functions",
       "fx": -1234.5147341008771,
       "fy": 75.53063322368428,
       "category": "mindmap"
     },
     {
       "text": "higher-order functions  ️",
-      "url": "https://my.mindnode.com/UuL19ypzQeAbQvL65j6HLgp6P6ff5ynEswsF1bWk",
+      "url": "/mathematics/algebra/functions/higher-order-functions",
       "fx": -532.6191329956055,
       "fy": 76.91680526733398,
       "category": "mindmap"
     },
     {
       "text": "inverse functions  ️",
-      "url": "https://my.mindnode.com/t465zbtkZkEyPpx24GWPxxhqum84rdSzzLUs5dAs",
+      "url": "/mathematics/algebra/functions/inverse-functions",
       "fx": -759.7624521072792,
       "fy": 77.1375119731407,
       "category": "mindmap"
+    },
+    {
+      "text": "nowhere continuous function",
+      "url": "http://www.wikiwand.com/en/Nowhere_continuous_function",
+      "fx": -1583.0081173464089,
+      "fy": 77.63346759547596,
+      "category": "wiki"
+    },
+    {
+      "text": "special functions",
+      "url": "http://www.wikiwand.com/en/Special_functions",
+      "fx": -1818.2290652879165,
+      "fy": 79.34997212085568,
+      "category": "wiki"
     }
   ],
   "subnodes": [
@@ -63,7 +77,7 @@
       "text": "1. functions  ️",
       "url": "http://frnsys.com/ai_notes/foundations/functions.html",
       "fx": -26.13867949563803,
-      "fy": -89.04974531649583,
+      "fy": -147.00011296355484,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -72,7 +86,7 @@
       "text": "1. what is a function?",
       "url": "https://www.youtube.com/watch?v=kvGsIo1TmsM",
       "fx": -26.13867949563803,
-      "fy": -49.04974531649583,
+      "fy": -107.00011296355484,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -83,8 +97,8 @@
       "source": "functions",
       "target": "basics",
       "curve": {
-        "x": -1.21387,
-        "y": 58.861
+        "x": -0.191352,
+        "y": 57.7887
       }
     },
     {
@@ -92,7 +106,7 @@
       "target": "periodic functions  ️",
       "curve": {
         "x": 105.281,
-        "y": 77.628
+        "y": 106.603
       }
     },
     {
@@ -100,7 +114,7 @@
       "target": "transformations  ️",
       "curve": {
         "x": -10.88,
-        "y": 77.7625
+        "y": 106.738
       }
     },
     {
@@ -108,7 +122,7 @@
       "target": "higher-order functions  ️",
       "curve": {
         "x": -140.241,
-        "y": 78.7333
+        "y": 107.708
       }
     },
     {
@@ -116,7 +130,7 @@
       "target": "inverse functions  ️",
       "curve": {
         "x": -296.065,
-        "y": 42.6728
+        "y": 71.648
       }
     },
     {
@@ -124,7 +138,7 @@
       "target": "sigmoid functions",
       "curve": {
         "x": -411.221,
-        "y": 38.6674
+        "y": 67.6426
       }
     },
     {
@@ -132,7 +146,23 @@
       "target": "logistic functions  ️",
       "curve": {
         "x": -642.403,
-        "y": 20.1271
+        "y": 49.1023
+      }
+    },
+    {
+      "source": "basics",
+      "target": "nowhere continuous function",
+      "curve": {
+        "x": -762.567,
+        "y": 27.0748
+      }
+    },
+    {
+      "source": "basics",
+      "target": "special functions",
+      "curve": {
+        "x": -1052.79,
+        "y": 59.0721
       }
     }
   ]

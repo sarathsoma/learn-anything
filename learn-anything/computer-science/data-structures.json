@@ -24,51 +24,51 @@
     },
     {
       "text": "disjoint sets  ️",
-      "url": "https://my.mindnode.com/bSM3gowBhs9pF49RtSsxaBc98hXH5KmJ7uTZxJFo",
-      "fx": -887.1788383152174,
-      "fy": -501.7973845108695,
-      "category": "mindmap"
-    },
-    {
-      "text": "arrays  ️",
-      "url": "https://my.mindnode.com/WeVj6q5ZQ7W8RcVnAFzX1tVSyzoScBY2eDJngXHA",
-      "fx": -905.8769351546116,
-      "fy": -386.3429312375182,
+      "url": "/computer-science/data-structures/disjoint-sets",
+      "fx": -685.7804008152174,
+      "fy": -470.6098845108695,
       "category": "mindmap"
     },
     {
       "text": "binary heaps  ️",
-      "url": "https://my.mindnode.com/zwPUHD2eFWEYLDqpYz3Ex24WKKNgopNyj9v2cuNy",
+      "url": "/computer-science/data-structures/binary-heaps",
       "fx": 504.68657483552397,
       "fy": -379.2857730263164,
       "category": "mindmap"
     },
     {
       "text": "heaps  ️",
-      "url": "https://my.mindnode.com/f8syN1QxAoDfJJ1SpZJQZtcwsLy6XnXpax5xZVkf",
+      "url": "/computer-science/data-structures/heaps",
       "fx": 283.20855614973425,
       "fy": -375.8983957219252,
       "category": "mindmap"
     },
     {
-      "text": "bloom filter",
-      "url": "http://www.wikiwand.com/en/Bloom_filter",
-      "fx": -979.808708639706,
-      "fy": -280.363166360294,
-      "category": "wiki"
+      "text": "arrays  ️",
+      "url": "/computer-science/data-structures/arrays",
+      "fx": -724.7324039046116,
+      "fy": -359.2804312375182,
+      "category": "mindmap"
     },
     {
       "text": "stack  ️",
-      "url": "https://my.mindnode.com/WyLMGpfxPRbFCpnpXDkuT9BQeCFHssdmEWLeQSfD",
+      "url": "/computer-science/data-structures/stack",
       "fx": 322.33470875873377,
       "fy": -276.4976379946751,
       "category": "mindmap"
     },
     {
       "text": "serialisation  ️",
-      "url": "https://my.mindnode.com/wqJZUS4hRZx9ApSm3gutDz86Po9XDtCMiydKwCJP",
-      "fx": -524.3088353913074,
-      "fy": -262.5840053041354,
+      "url": "/computer-science/data-structures/serialisation",
+      "fx": -539.2502416413074,
+      "fy": -259.1113490541354,
+      "category": "mindmap"
+    },
+    {
+      "text": "bloom filters  ️",
+      "url": "/computer-science/data-structures/bloom-filters",
+      "fx": -781.910271139706,
+      "fy": -249.17566636029397,
       "category": "mindmap"
     },
     {
@@ -79,15 +79,8 @@
       "category": "wiki"
     },
     {
-      "text": "self balancing binary search tree",
-      "url": "http://www.wikiwand.com/en/Self-balancing_binary_search_tree",
-      "fx": -906.2973758012841,
-      "fy": -180.6203926282053,
-      "category": "wiki"
-    },
-    {
       "text": "linked list  ️",
-      "url": "https://my.mindnode.com/hko7BypWr8wJmi2GRxBXqUcbdxGV9RRL8H4itJ91",
+      "url": "/computer-science/data-structures/linked-lists",
       "fx": 280.7795517988054,
       "fy": -165.11773950447207,
       "category": "mindmap"
@@ -102,7 +95,7 @@
     {
       "text": "hash tables  ️",
       "note": "a hash function is any function that can be used to map data of arbitrary size to data of fixed size  the values returned by a hash function are called hash values, hash codes, digests or simply hashes  one use is a data structure called a hash table, widely used in computer software for rapid data lookup",
-      "url": "https://my.mindnode.com/64QWJLf2vFoA5xJcP3BXvp3ak1VXkpWTJhPyqaev",
+      "url": "/computer-science/data-structures/hash-tables",
       "fx": -66.16053381363918,
       "fy": -63.87630990227785,
       "category": "mindmap"
@@ -117,44 +110,58 @@
     {
       "text": "log-structured merge-tree",
       "url": "http://www.wikiwand.com/en/Log-structured_merge-tree",
-      "fx": -555.3125,
-      "fy": 25.81001377105713,
+      "fx": -554.1418838500977,
+      "fy": 25.810012817382812,
       "category": "wiki"
     },
     {
       "text": "binary search trees  ️",
-      "url": "https://my.mindnode.com/1jDpHatgqThpeB3fAxKJPPsJSQuDFdypHkb6BpM3",
+      "url": "/computer-science/data-structures/binary-search-trees",
       "fx": -821.8800659179688,
       "fy": 27.9573917388916,
       "category": "mindmap"
     },
     {
       "text": "tries  ️",
-      "url": "https://my.mindnode.com/zpi84AvxkQKz7EX6z5efdSThmqBNGRvsC7CiDWEi",
+      "url": "/computer-science/data-structures/tries",
       "fx": -221.5940933227539,
       "fy": 28.557376861572266,
       "category": "mindmap"
     },
     {
+      "text": "Merkle trees  ️",
+      "url": "/computer-science/data-structures/merkle-trees",
+      "fx": -1025.8751508980035,
+      "fy": 30.059375396760515,
+      "category": "mindmap"
+    },
+    {
       "text": "priority queue  ️",
-      "url": "https://my.mindnode.com/hpbywTZs65syi1oMrqbsdSx8duZi9P7S5KywBc4o",
+      "url": "/computer-science/data-structures/priority-queue",
       "fx": 140.78483797898934,
       "fy": 83.76641857090294,
       "category": "mindmap"
     },
     {
       "text": "quadtrees  ️",
-      "url": "https://my.mindnode.com/TAamxXzxZbqPpbqEDjHqd8Fxa1Sqos1kzXMFAs7C",
+      "url": "/computer-science/data-structures/quadtree",
       "fx": -247.02221488965677,
       "fy": 149.5933428930009,
       "category": "mindmap"
     },
     {
       "text": "red-black tree  ️",
-      "url": "https://my.mindnode.com/igsGsunBxQ7opKiZmuU4zDobJZ8tFCn84vTD58Gq",
-      "fx": -799.6791930379746,
-      "fy": 165.8639240506326,
+      "url": "/computer-science/data-structures/red-black-trees",
+      "fx": -725.7885680379746,
+      "fy": 175.2467365506326,
       "category": "mindmap"
+    },
+    {
+      "text": "self balancing binary search tree",
+      "url": "http://www.wikiwand.com/en/Self-balancing_binary_search_tree",
+      "fx": -1080.875500801284,
+      "fy": 166.93429487179458,
+      "category": "wiki"
     }
   ],
   "subnodes": [
@@ -200,7 +207,7 @@
       "source": "trees",
       "target": "log-structured merge-tree",
       "curve": {
-        "x": -18.5779,
+        "x": -17.9926,
         "y": 65.094
       }
     },
@@ -248,24 +255,16 @@
       "source": "basics",
       "target": "serialisation  ️",
       "curve": {
-        "x": -247.909,
-        "y": 155.313
+        "x": -255.38,
+        "y": 157.049
       }
     },
     {
       "source": "basics",
-      "target": "self balancing binary search tree",
+      "target": "bloom filters  ️",
       "curve": {
-        "x": -492.724,
-        "y": 188.4
-      }
-    },
-    {
-      "source": "basics",
-      "target": "bloom filter",
-      "curve": {
-        "x": -530.038,
-        "y": 130.783
+        "x": -400.288,
+        "y": 179.607
       }
     },
     {
@@ -280,8 +279,8 @@
       "source": "basics",
       "target": "arrays  ️",
       "curve": {
-        "x": -458.444,
-        "y": 92.184
+        "x": -367.872,
+        "y": 105.715
       }
     },
     {
@@ -296,8 +295,8 @@
       "source": "binary search trees  ️",
       "target": "red-black tree  ️",
       "curve": {
-        "x": -7.39958,
-        "y": 67.7033
+        "x": 29.5457,
+        "y": 72.3947
       }
     },
     {
@@ -344,8 +343,8 @@
       "source": "basics",
       "target": "disjoint sets  ️",
       "curve": {
-        "x": -436.845,
-        "y": 34.4568
+        "x": -336.146,
+        "y": 50.0506
       }
     },
     {
@@ -362,6 +361,22 @@
       "curve": {
         "x": 119.489,
         "y": -2.44369
+      }
+    },
+    {
+      "source": "trees",
+      "target": "Merkle trees  ️",
+      "curve": {
+        "x": -376.161,
+        "y": 58.3677
+      }
+    },
+    {
+      "source": "binary search trees  ️",
+      "target": "self balancing binary search tree",
+      "curve": {
+        "x": -113.748,
+        "y": 76.7385
       }
     }
   ]

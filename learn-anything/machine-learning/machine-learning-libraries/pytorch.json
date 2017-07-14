@@ -11,70 +11,104 @@
     {
       "text": "help",
       "url": "",
-      "fx": -40.931919642857,
-      "fy": -287.26503311857886
+      "fx": -71.17346938775506,
+      "fy": -248.1447365624564
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -140.89065404236317,
-      "fy": -154.11459732055664
+      "fx": -272.8541425627717,
+      "fy": -22.2188702797402
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://github.com/pytorch/pytorch",
-      "fx": 41.07421875,
-      "fy": -361.94140625,
+      "fx": 47.07421875,
+      "fy": -360.94140625,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "pytorch"
     },
     {
       "text": "pytorch examples",
       "url": "https://github.com/jcjohnson/pytorch-examples",
-      "fx": 96.068080357143,
-      "fy": -315.76503311857886,
+      "fx": 69.82653061224494,
+      "fy": -296.1447365624564,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "pytorch forum",
       "url": "https://discuss.pytorch.org/",
-      "fx": 96.068080357143,
-      "fy": -275.76503311857886,
+      "fx": 69.82653061224494,
+      "fy": -254.1447365624564,
       "category": "",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "incredible pytorch",
       "url": "https://github.com/ritchieng/the-incredible-pytorch",
-      "fx": 96.068080357143,
-      "fy": -235.76503311857886,
+      "fx": 69.82653061224494,
+      "fy": -212.1447365624564,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "pytorch tutorials",
+      "url": "http://pytorch.org/tutorials/",
+      "fx": 69.82653061224494,
+      "fy": -170.1447365624564,
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "1. pytorch tutorial",
+      "url": "https://github.com/yunjey/pytorch-tutorial",
+      "fx": -83.8541425627717,
+      "fy": -103.7188702797402,
+      "category": "github",
+      "color": "rgba(255, 254, 60, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. pytorch tutorial for deep learning research",
       "url": "https://github.com/yunjey/pytorch-tutorial",
-      "fx": 41.10934595763683,
-      "fy": -173.61459732055664,
+      "fx": -83.8541425627717,
+      "fy": -61.7188702797402,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. build your neural network",
       "url": "https://github.com/MorvanZhou/PyTorch-Tutorial",
-      "fx": 41.10934595763683,
-      "fy": -111.61459732055664,
+      "fx": -83.8541425627717,
+      "fy": 5.281129720259798,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. gentle intro to pytorch  ️",
+      "url": "http://blog.gaurav.im/2017/04/24/a-gentle-intro-to-pytorch/",
+      "fx": -83.8541425627717,
+      "fy": 47.2811297202598,
+      "category": "article",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. deep learning in pytorch",
+      "url": "https://iamtrask.github.io/2017/01/15/pytorch-tutorial/",
+      "fx": -83.8541425627717,
+      "fy": 89.2811297202598,
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     }
   ],
@@ -83,16 +117,16 @@
       "source": "help",
       "target": "pytorch",
       "curve": {
-        "x": -34.997,
-        "y": -43.0882
+        "x": -19.8762,
+        "y": -62.6483
       }
     },
     {
       "source": "pytorch",
       "target": "basics",
       "curve": {
-        "x": -10.2324,
-        "y": 109.664
+        "x": -76.2141,
+        "y": 175.612
       }
     }
   ]

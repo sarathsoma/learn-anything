@@ -1,0 +1,69 @@
+{
+  "title": "learn anything - physics - matter - atoms - subatomic particles",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "subatomic particles",
+      "url": "http://www.wikiwand.com/en/Subatomic_particle",
+      "fx": 6.361206054687386,
+      "fy": -198.54272460937494,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 79.33409202755911,
+      "fy": -68.57523375984852
+    },
+    {
+      "text": "protons",
+      "url": "",
+      "fx": 144.44471202151306,
+      "fy": 46.75649719946898
+    },
+    {
+      "text": "electrons  ️",
+      "url": "/physics/matter/atoms/subatomic-particles/electrons",
+      "fx": -57.42891374723115,
+      "fy": 46.63070270207322,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=eD7hXLRqWWM",
+      "fx": 242.3340920275591,
+      "fy": -56.075233759848516,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "subatomic particles",
+      "target": "basics",
+      "curve": {
+        "x": -3.76356,
+        "y": 64.2337
+      }
+    },
+    {
+      "source": "basics",
+      "target": "electrons  ️",
+      "curve": {
+        "x": -53.8815,
+        "y": 58.353
+      }
+    },
+    {
+      "source": "basics",
+      "target": "protons",
+      "curve": {
+        "x": 35.3053,
+        "y": 57.6659
+      }
+    }
+  ]
+}

@@ -18,190 +18,235 @@
     {
       "text": "implementations",
       "url": "",
-      "fx": 128.995161620992,
-      "fy": 246.08656076781602
-    },
-    {
-      "text": "articles",
-      "url": "",
-      "fx": 524.4665772573444,
-      "fy": 384.27705112674937
+      "fx": 121.05937194824219,
+      "fy": 231.64734268188477
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -93.00265921659252,
-      "fy": 460.48738667768396
+      "fx": -193.65890921659252,
+      "fy": 532.077230427684
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 454.3246307373047,
+      "fy": 547.7583923339844
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 632.2267262616774,
-      "fy": 553.7173606957737
+      "fx": 489.65653228759766,
+      "fy": 865.9808044433594
     }
   ],
   "subnodes": [
     {
       "text": "",
       "url": "https://www.reddit.com/r/tensorflow/",
-      "fx": 149.38526526162786,
-      "fy": -147.75777396053562,
+      "fx": 159.38526526162786,
+      "fy": -148.75777396053562,
       "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "tensorflow"
     },
     {
       "text": "awesome",
       "url": "https://github.com/jtoy/awesome-tensorflow",
-      "fx": 149.38526526162786,
-      "fy": -107.75777396053562,
+      "fx": 159.38526526162786,
+      "fy": -106.75777396053562,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "tensorflow"
     },
     {
       "text": "recurrent neural networks - a short tensorflow tutorial",
       "url": "https://github.com/silicon-valley-data-science/RNN-Tutorial",
-      "fx": 204.13113291013087,
-      "fy": -29.769618724529437,
+      "fx": 208.13113291013087,
+      "fy": -34.76961872452944,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "bare bone examples of machine learning in TensorFlow",
       "url": "https://github.com/jostmey/NakedTensor",
-      "fx": 204.13113291013087,
+      "fx": 208.13113291013087,
       "fy": 32.23038127547056,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "tensorflow resources",
       "url": "https://github.com/skcript/tensorflow-resources",
-      "fx": 204.13113291013087,
-      "fy": 94.23038127547056,
+      "fx": 208.13113291013087,
+      "fy": 99.23038127547056,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "NakedTensor",
       "note": "bare bottom simplest example of machine learning in tensorflow",
       "url": "https://github.com/jostmey/NakedTensor",
-      "fx": 204.13113291013087,
-      "fy": 134.23038127547056,
+      "fx": 208.13113291013087,
+      "fy": 141.23038127547056,
       "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "help"
     },
     {
       "text": "DeepSearch",
       "url": "https://github.com/mozilla/DeepSpeech",
-      "fx": 375.995161620992,
-      "fy": 197.58656076781602,
+      "fx": 382.0593719482422,
+      "fy": 181.14734268188477,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "implementations"
     },
     {
       "text": "models built with TensorFlow",
       "url": "https://github.com/tensorflow/models",
-      "fx": 375.995161620992,
-      "fy": 237.58656076781602,
+      "fx": 382.0593719482422,
+      "fy": 223.14734268188477,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "implementations"
     },
     {
       "text": "ebgan",
       "url": "https://github.com/buriburisuri/ebgan",
-      "fx": 375.995161620992,
-      "fy": 277.586560767816,
+      "fx": 382.0593719482422,
+      "fy": 265.14734268188477,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "implementations"
     },
     {
       "text": "transformer",
       "url": "https://github.com/Kyubyong/transformer",
-      "fx": 375.995161620992,
-      "fy": 317.586560767816,
+      "fx": 382.0593719482422,
+      "fy": 307.14734268188477,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "implementations"
-    },
-    {
-      "text": "15: generative adversarial nets in tensorflow  ️",
-      "url": "http://blog.evjang.com/2016/06/generative-adversarial-nets-in.html",
-      "fx": 686.4665772573444,
-      "fy": 311.77705112674937,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "16: understanding and implementing deepmind's DRAW model  ️",
-      "url": "http://blog.evjang.com/2016/06/understanding-and-implementing.html",
-      "fx": 686.4665772573444,
-      "fy": 373.77705112674937,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "16: adversarial exploration policies for robust model learning  ️",
-      "url": "http://blog.evjang.com/2016/06/adversarial-exploration-policies-for.html",
-      "fx": 686.4665772573444,
-      "fy": 457.77705112674937,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "articles"
     },
     {
       "text": "1. TensorFlow world",
       "url": "https://github.com/astorfi/TensorFlow-World",
-      "fx": 88.99734078340748,
-      "fy": 392.98738667768396,
+      "fx": -4.658909216592519,
+      "fy": 425.57723042768396,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. TensorFlow: a primer  ️",
+      "url": "https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3",
+      "fx": -4.658909216592519,
+      "fy": 467.57723042768396,
+      "category": "article",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. get started with tensorflow",
       "url": "https://www.tensorflow.org/get_started/get_started",
-      "fx": 88.99734078340748,
-      "fy": 432.98738667768396,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": -4.658909216592519,
+      "fy": 509.57723042768396,
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. tensorflow examples for beginners",
       "url": "https://github.com/aymericdamien/TensorFlow-Examples",
-      "fx": 88.99734078340748,
-      "fy": 466.98738667768396,
+      "fx": -4.658909216592519,
+      "fy": 546.577230427684,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. Tensorflow and deep learning - without a PhD by Martin Görner",
       "url": "https://www.youtube.com/watch?v=vq2nnJ4g6N0",
-      "fx": 88.99734078340748,
-      "fy": 528.987386677684,
+      "fx": -4.658909216592519,
+      "fy": 613.577230427684,
       "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
+    },
+    {
+      "text": "how to turn text summarisation with TensorFlow  ️",
+      "url": "http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/",
+      "fx": 623.3246307373047,
+      "fy": 334.2583923339844,
+      "category": "article",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "15: generative adversarial nets in tensorflow  ️",
+      "url": "http://blog.evjang.com/2016/06/generative-adversarial-nets-in.html",
+      "fx": 623.3246307373047,
+      "fy": 401.2583923339844,
+      "category": "article",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "15: implementing a CNN for text classification in TensorFlow  ️",
+      "url": "http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/",
+      "fx": 623.3246307373047,
+      "fy": 468.2583923339844,
+      "category": "article",
+      "color": "rgba(169, 255, 0, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: understanding and implementing deepmind's DRAW model  ️",
+      "url": "http://blog.evjang.com/2016/06/understanding-and-implementing.html",
+      "fx": 623.3246307373047,
+      "fy": 535.2583923339844,
+      "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: adversarial exploration policies for robust model learning  ️",
+      "url": "http://blog.evjang.com/2016/06/adversarial-exploration-policies-for.html",
+      "fx": 623.3246307373047,
+      "fy": 627.2583923339844,
+      "category": "article",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: introduction to TensorFlow - CPU vs GPU  ️",
+      "url": "https://medium.com/@erikhallstrm/hello-world-tensorflow-649b15aed18c",
+      "fx": 623.3246307373047,
+      "fy": 719.2583923339844,
+      "category": "article",
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "articles"
+    },
+    {
+      "text": "16: RNNs in TensorFlow  ️",
+      "url": "http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/",
+      "fx": 623.3246307373047,
+      "fy": 786.2583923339844,
+      "category": "article",
+      "color": "rgba(255, 254, 60, 1.0)",
+      "parent": "articles"
     },
     {
       "text": "TensorBox",
       "url": "https://github.com/TensorBox/TensorBox",
-      "fx": 823.2267262616774,
-      "fy": 565.2173606957737,
+      "fx": 688.6565322875977,
+      "fy": 878.4808044433594,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "interesting"
     }
   ],
@@ -218,32 +263,32 @@
       "source": "tensorflow",
       "target": "basics",
       "curve": {
-        "x": -19.944,
-        "y": 301.121
+        "x": -70.2721,
+        "y": 336.916
       }
     },
     {
       "source": "implementations",
       "target": "help",
       "curve": {
-        "x": -81.7842,
-        "y": -93.8311
+        "x": -77.8163,
+        "y": -86.6115
       }
     },
     {
       "source": "articles",
       "target": "implementations",
       "curve": {
-        "x": -189.966,
-        "y": -39.003
+        "x": -158.863,
+        "y": -127.963
       }
     },
     {
       "source": "interesting",
       "target": "articles",
       "curve": {
-        "x": -61.1301,
-        "y": -84.7202
+        "x": -24.916,
+        "y": -159.111
       }
     }
   ]

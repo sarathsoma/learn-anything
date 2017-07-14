@@ -22,17 +22,23 @@
       "fy": -45.182718716458794
     },
     {
-      "text": "gradual typing  ️",
-      "url": "https://my.mindnode.com/fR9ym3VzCzEMNqMtCzSTNYKZ9pArhjw7pAeh97vE",
-      "fx": -41.2989742249016,
-      "fy": 124.14410063976379,
+      "text": "type classes  ️",
+      "url": "/computer-science/programming-language-theory/type-systems/type-classes",
+      "fx": -250.459008967125,
+      "fy": 130.45892278839437,
       "category": "mindmap"
     },
     {
-      "text": "type classes  ️",
-      "url": "https://my.mindnode.com/sbcvas9yTvpFEhD8YLFVzPTM1oCQQvXHN7CAqq7A",
-      "fx": -250.459008967125,
-      "fy": 130.45892278839437,
+      "text": "type checking",
+      "url": "http://wiki.c2.com/?TypeChecking",
+      "fx": -449.45149947372,
+      "fy": 133.101283444248
+    },
+    {
+      "text": "gradual typing  ️",
+      "url": "/computer-science/programming-language-theory/type-systems/gradual-typing",
+      "fx": -41.2989742249016,
+      "fy": 134.47982699111503,
       "category": "mindmap"
     }
   ],
@@ -87,7 +93,7 @@
       "target": "gradual typing  ️",
       "curve": {
         "x": 31.6065,
-        "y": 84.6634
+        "y": 89.8313
       }
     },
     {
@@ -96,6 +102,14 @@
       "curve": {
         "x": -86.5824,
         "y": -54.372
+      }
+    },
+    {
+      "source": "basics",
+      "target": "type checking",
+      "curve": {
+        "x": -180.73,
+        "y": 75.1238
       }
     }
   ]

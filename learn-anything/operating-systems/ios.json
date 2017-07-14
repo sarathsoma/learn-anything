@@ -36,21 +36,21 @@
     },
     {
       "text": "Xcode  ️",
-      "url": "https://my.mindnode.com/Lp7wtsS7quM7Asapu8JGRjZaGpbZ8iFLyKTBpi6s",
+      "url": "/software/tooling/ide/xcode",
       "fx": -269.76541702458337,
       "fy": 246.43422639838468,
       "category": "mindmap"
     },
     {
       "text": "iOS apps  ️",
-      "url": "https://my.mindnode.com/8QUh7V26pBoWjmMFeks2apAGsHqddsq9SsyDvpov",
+      "url": "/operating-systems/ios/apps",
       "fx": -431.9467635481443,
       "fy": 246.7141515017604,
       "category": "mindmap"
     },
     {
       "text": "swift  ️",
-      "url": "https://my.mindnode.com/vAJcWyzzTubpywgp8o367gPWvRUxi2y5r2sZMryb",
+      "url": "/programming/programming-languages/swift",
       "fx": -129.77712974319093,
       "fy": 247.16897702431083,
       "category": "mindmap"
@@ -81,7 +81,7 @@
     },
     {
       "text": "MVC  ️",
-      "url": "https://my.mindnode.com/KULXxvstqy6XDimhZ6qcpetycUzNYxrhynVNxw9M",
+      "url": "/programming/software-development/architectural-patterns/mvc",
       "fx": -116.78528579500028,
       "fy": 400.7167533681703,
       "category": "mindmap"
@@ -206,7 +206,7 @@
     },
     {
       "text": "RxSwift  ️",
-      "url": "https://my.mindnode.com/mQGnLus82LnEH4fNsYHMxGoCBpztahtLCZy6Ypsy",
+      "url": "/programming/programming-languages/swift/libraries/rxswift",
       "fx": 414.96746826171875,
       "fy": 1204.7947570800782,
       "category": "mindmap"
@@ -220,7 +220,7 @@
     },
     {
       "text": "JSON  ️",
-      "url": "https://my.mindnode.com/m1UpSRGpVqQAodsPqUCJHiffqG2PmBNQ8RJ9wx3L",
+      "url": "/computer-science/data-structures/serialisation/json",
       "fx": 558.9040998623911,
       "fy": 1284.893789202509,
       "category": "mindmap"
@@ -252,7 +252,7 @@
     },
     {
       "text": "swift package manager  ️",
-      "url": "https://my.mindnode.com/fmcqFKUXvppu5WGaS8yozBcgxNobZZpj5N8A4Gc4",
+      "url": "/programming/programming-languages/swift/swift-package-manager",
       "fx": -256.0150566101074,
       "fy": 1402.3766479492188,
       "category": "mindmap"
@@ -271,7 +271,7 @@
     },
     {
       "text": "CocoaPods  ️",
-      "url": "https://my.mindnode.com/mq7WhmAXq911vEt5J9uqP66gq9yBgvYqcrARxukq",
+      "url": "/programming/programming-languages/swift/cocoapods",
       "fx": -238.27830736074316,
       "fy": 1486.5281415782497,
       "category": "mindmap"
@@ -359,14 +359,14 @@
     },
     {
       "text": "Fastlane  ️",
-      "url": "https://my.mindnode.com/y1ozs2orpzUbx8x6wpdwYMrz6dxPrMzabaz3qmty",
+      "url": "/operating-systems/ios/fastlane",
       "fx": -249.67835115131425,
       "fy": 1938.653166118294,
       "category": "mindmap"
     },
     {
       "text": "CI  ️",
-      "url": "https://my.mindnode.com/Spim2n6dSkxHVpLwYZDWgbKzwwwKD9LEpTpJH3ru",
+      "url": "/programming/software-development/devops/continuous-integration",
       "fx": -27.7880859375,
       "fy": 1946.4375,
       "category": "mindmap"

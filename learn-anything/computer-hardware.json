@@ -12,21 +12,21 @@
     },
     {
       "text": "3d printing  ️",
-      "url": "https://my.mindnode.com/1qepKVwZ5z6HqpoBUr2ipQPbivrJjir3y3UPAGvP",
+      "url": "/computer-hardware/3d-printing",
       "fx": -121.95447294713858,
       "fy": -470.5617247146973,
       "category": "mindmap"
     },
     {
       "text": "computer  ️",
-      "url": "https://my.mindnode.com/pB9HWsxJd9fybGJtXLbiXnrMdzPhtF47yKTq3QMF",
+      "url": "/computer-hardware/computer",
       "fx": -344.3874806148905,
       "fy": -449.51149065617665,
       "category": "mindmap"
     },
     {
       "text": "virtualisation  ️",
-      "url": "https://my.mindnode.com/NkHFsqqdMPMavVrc2skzvPzzhtMkx3NfMkqWHzwp",
+      "url": "/computer-hardware/virtualisation",
       "fx": -152.20888157894728,
       "fy": -345.62239583333337,
       "category": "mindmap"
@@ -40,14 +40,14 @@
     },
     {
       "text": "arduino  ️",
-      "url": "https://my.mindnode.com/KRHuHfpmq5DzmpfFEgyvSyzQtk9t6oy7faNKbtiL",
+      "url": "/computer-hardware/arduino",
       "fx": -364.87393027497217,
       "fy": -233.15499614197574,
       "category": "mindmap"
     },
     {
       "text": "raspberry pi  ️",
-      "url": "https://my.mindnode.com/TWYxfqzhfcp2sZJUGpHnZqz4fY8YFAjiuv6JBhDQ",
+      "url": "/computer-hardware/raspberry-pi",
       "fx": -569.5471618727049,
       "fy": -226.41700180684268,
       "category": "mindmap"

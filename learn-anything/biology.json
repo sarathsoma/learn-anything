@@ -24,28 +24,28 @@
     },
     {
       "text": "botany  ️",
-      "url": "https://my.mindnode.com/6GJqwy8BryRRYfeV6LH3xTesC2s9q1sdK9hCzbaV",
+      "url": "/biology/botany",
       "fx": -1333.4270324707031,
       "fy": 247.0178985595703,
       "category": "mindmap"
     },
     {
       "text": "computational biology  ️",
-      "url": "https://my.mindnode.com/LsPM1pqb6RCqpoycbUmXssJp4Bw7wPa1gyVFDZF3",
+      "url": "/biology/computational-biology",
       "fx": -1629.4487609863281,
       "fy": 248.70201110839844,
       "category": "mindmap"
     },
     {
       "text": "genetics  ️",
-      "url": "https://my.mindnode.com/YsbzN9qSqh19C8xSu48PVMsDYik1obzQLb4qUNTN",
+      "url": "/biology/genetics",
       "fx": -185.25242805480957,
       "fy": 250.04077911376953,
       "category": "mindmap"
     },
     {
       "text": "physiology  ️",
-      "url": "https://my.mindnode.com/zymyd9774rLxxKUmz6VZAHxoCYRpmB36VTbx7sbs",
+      "url": "/biology/physiology",
       "fx": -1187.4134521484375,
       "fy": 250.06999969482422,
       "category": "mindmap"
@@ -53,91 +53,90 @@
     {
       "text": "abiogenesis  ️",
       "note": "how life came to be from just chemistry",
-      "url": "https://my.mindnode.com/SLXSGkt642jAz54xrVGEFLVtZmrrB7gzGPohtngF",
+      "url": "/biology/abiogenesis",
       "fx": -22.152135848999023,
       "fy": 251.27775192260742,
       "category": "mindmap"
     },
     {
       "text": "ecology  ️",
-      "url": "https://my.mindnode.com/opidGY4iHZYYPhsCVpGML7yWCezGB9VGVSKbt7dY",
+      "url": "/biology/ecology",
       "fx": -1003.4017791748047,
       "fy": 251.52851104736328,
       "category": "mindmap"
     },
     {
       "text": "bioinformatics  ️",
-      "url": "https://my.mindnode.com/syiq5vpE5n7gWTqmvja6v6ivhY7EY1AP61qpz2PE",
+      "url": "/biology/bioinformatics",
       "fx": -401.32696533203125,
       "fy": 252.87370681762695,
       "category": "mindmap"
     },
     {
       "text": "immunology  ️",
-      "url": "https://my.mindnode.com/vetKzxh2UDpzBr7qKPQvcytczfSYhBongQLsamYJ",
+      "url": "/biology/immunology",
       "fx": -1828.4837036132812,
       "fy": 253.22219848632812,
       "category": "mindmap"
     },
     {
       "text": "anatomy  ️",
-      "url": "https://my.mindnode.com/9uv1CLtwKkZZA4AV4q5zmyenvRpFQsryP6Z1iW2e",
+      "url": "/biology/anatomy",
       "fx": -847.4123382568359,
       "fy": 253.71381759643555,
       "category": "mindmap"
     },
     {
       "text": "astrobiology  ️",
-      "url": "https://my.mindnode.com/ixx3yEohqrgrFXUA9WXraC3pSZn42VFpxNbEvqqo",
+      "url": "/biology/astrobiology",
       "fx": -2026.5367126464844,
       "fy": 254.74437713623047,
       "category": "mindmap"
     },
     {
       "text": "human development  ️",
-      "url": "https://my.mindnode.com/ow1zPpszMHbs4RhmxaL49AjXiVVj5FznyKaLW7hy",
+      "url": "/biology/human-development",
       "fx": -684.3788909912109,
       "fy": 254.78025436401367,
       "category": "mindmap"
     },
     {
       "text": "pharmacology  ️",
-      "url": "https://my.mindnode.com/FiZCCism6MpCos4zEy19YcmHqMgp18aj1Fy67ErH",
+      "url": "/biology/pharmacology",
       "fx": -2246.6121826171875,
       "fy": 255.02124786376953,
       "category": "mindmap"
     },
     {
       "text": "organisms  ️",
-      "url": "https://my.mindnode.com/Vy5V4RcTyyz6uEmLsbznEzvszpkMPqq27Aaz5qjy",
       "fx": 201.9757423400879,
       "fy": 255.3724479675293,
       "category": "mindmap"
     },
     {
       "text": "endocrinology  ️",
-      "url": "https://my.mindnode.com/5jagg8gz2DLimDJMqWByG86uR3osV9TeGy7HyiGn",
+      "url": "/biology/endocrinology",
       "fx": -2464.7129821777344,
       "fy": 258.2453727722168,
       "category": "mindmap"
     },
     {
       "text": "microbiology  ️",
-      "url": "https://my.mindnode.com/yNKhxqP1Cog4gJ1WmpFewLTPL2nb5tTho5NZavps",
+      "url": "/biology/microbiology",
       "fx": -2668.8407592773438,
       "fy": 261.0657501220703,
       "category": "mindmap"
     },
     {
       "text": "zoology  ️",
-      "url": "https://my.mindnode.com/FHbcvFYwijDQyUysztxAezwHHyeySvyJYEgKRbwD",
+      "url": "/biology/zoology-",
       "fx": -2826.4675252203156,
       "fy": 261.29749463705946,
       "category": "mindmap"
     },
     {
       "text": "evolution  ️",
-      "url": "https://my.mindnode.com/vRcTBWAWQsQwUHvqMV9bNZbLDmXGxadnyobphBd9",
+      "url": "/biology/evolution",
       "fx": -22.207409175377165,
       "fy": 358.28421808832695,
       "category": "mindmap"

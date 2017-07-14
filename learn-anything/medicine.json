@@ -31,21 +31,21 @@
     },
     {
       "text": "diseases  ️",
-      "url": "https://my.mindnode.com/qSpAkmpgvtHK27TFhysj9svBh7fBaZKjuFztc1ms",
+      "url": "/medicine/diseases",
       "fx": -408.7612809627768,
       "fy": 100.35166447724646,
       "category": "mindmap"
     },
     {
       "text": "symptoms  ️",
-      "url": "https://my.mindnode.com/znEy9T3mvM7BNenAx6zZnbak7v5HuiLDFDCVpeSo",
+      "url": "/medicine/symptoms",
       "fx": -67.22350971638707,
       "fy": 102.15513392857179,
       "category": "mindmap"
     },
     {
       "text": "neurology  ️",
-      "url": "https://my.mindnode.com/958ZkZqKa9MmtuEVzLpvautN7jvF91K5RHsdEx2j",
+      "url": "/medicine/neurology",
       "fx": -751.7609546779792,
       "fy": 102.65311948622957,
       "category": "mindmap"
@@ -59,7 +59,7 @@
     },
     {
       "text": "specialties  ️",
-      "url": "https://my.mindnode.com/zv6SgpSpxyG8ZzXs7TpqV3Lzzms5yqa3pzC9CTnn",
+      "url": "/medicine/specialties",
       "fx": -243.7261498772906,
       "fy": 103.71622781742576,
       "category": "mindmap"

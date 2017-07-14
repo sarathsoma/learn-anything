@@ -1,0 +1,64 @@
+{
+  "title": "learn anything - mathematics - statistics - probability theory - random variables",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "random variables",
+      "url": "http://www.wikiwand.com/en/Random_variable",
+      "fx": -117.5859375,
+      "fy": -143.8671875,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -53.6886792452832,
+      "fy": 5.379127358490507
+    },
+    {
+      "text": "random matrices  ️",
+      "url": "/mathematics/statistics/probability-theory/random-variables/random-matrices",
+      "fx": -177.4833984375,
+      "fy": 150.126953125,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation  ️",
+      "url": "http://www.stat.yale.edu/Courses/1997-98/101/ranvar.htm",
+      "fx": 109.3113207547168,
+      "fy": -3.120872641509493,
+      "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction",
+      "url": "https://www.youtube.com/watch?v=IYdiKeQ9xEI",
+      "fx": 109.3113207547168,
+      "fy": 38.87912735849051,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "random variables",
+      "target": "basics",
+      "curve": {
+        "x": -2.30137,
+        "y": 73.8732
+      }
+    },
+    {
+      "source": "basics",
+      "target": "random matrices  ️",
+      "curve": {
+        "x": -42.6474,
+        "y": 72.3739
+      }
+    }
+  ]
+}

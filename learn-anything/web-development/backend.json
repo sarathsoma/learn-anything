@@ -11,42 +11,41 @@
     },
     {
       "text": "c#  ️",
-      "url": "https://my.mindnode.com/NM3CPb7URmFnPyUxpyybKyCSgiY7sZP8iwBxwvfj",
+      "url": "/programming/programming-languages/c-sharp",
       "fx": -1111.1970915514073,
       "fy": -873.7816524504269,
       "category": "mindmap"
     },
     {
       "text": "java  ️",
-      "url": "https://my.mindnode.com/XcFAZAvk82ipqdis1UW5wznzxBxuVbx5iHLwgLHP",
+      "url": "/programming/programming-languages/java",
       "fx": -1137.9885007022476,
       "fy": -792.7491221910112,
       "category": "mindmap"
     },
     {
       "text": "symfony  ️",
-      "url": "https://my.mindnode.com/oSMpRum83vmMvsowJtkPWzKbspZrdDAiLxb2Y4PJ",
+      "url": "/programming/programming-languages/php/symfony",
       "fx": -980.25390625,
       "fy": -770.25390625,
       "category": "mindmap"
     },
     {
       "text": "php  ️",
-      "url": "https://my.mindnode.com/PRPMKGkoCxUbGwDxRxfWCPspQppWEL4wcrf3LteY",
+      "url": "/programming/programming-languages/php",
       "fx": -1123.5374150706473,
       "fy": -692.1394810052024,
       "category": "mindmap"
     },
     {
       "text": "laravel  ️",
-      "url": "https://my.mindnode.com/9E22hgzUx7Wm8GPPEvQZEmxPqKaQpzMpe9jGLkKk",
       "fx": -959.9360365500816,
       "fy": -675.1213204799553,
       "category": "mindmap"
     },
     {
       "text": "go  ️",
-      "url": "https://my.mindnode.com/qpLq1TfqPWmu9sszrCxEM4QsWUH547TLNQkyfTyQ#38.8,-189.0,2",
+      "url": "/programming/programming-languages/go",
       "fx": -1748.7118469938616,
       "fy": -652.5840007675807,
       "category": "mindmap"
@@ -59,21 +58,21 @@
     },
     {
       "text": "ruby  ️",
-      "url": "https://my.mindnode.com/tjqqGCFLZbqp4sEDZqv7H6DB5Xwx7FUjhDdpBnit",
+      "url": "/programming/programming-languages/ruby",
       "fx": -1626.1175698412874,
       "fy": -589.4823099016896,
       "category": "mindmap"
     },
     {
       "text": "node.js  ️",
-      "url": "https://my.mindnode.com/66sFsUMNvxTztuXk4hHSKRByUXqnASaLTXMNrNkv",
+      "url": "/web-development/backend/nodejs",
       "fx": -1451.7429739620836,
       "fy": -569.4477472516611,
       "category": "mindmap"
     },
     {
       "text": "python  ️",
-      "url": "https://my.mindnode.com/cmzq9sEGAyyNyeZrNA7UyQa8JpsqHf9QzStwFqGT",
+      "url": "/programming/programming-languages/python",
       "fx": -1153.2974649101423,
       "fy": -560.70618556701,
       "category": "mindmap"
@@ -86,7 +85,7 @@
     },
     {
       "text": "ruby on rails  ️",
-      "url": "https://my.mindnode.com/Cyv3UUXjxZst5FjBnpkSdqn7XtqWmiZsJL3Hqqec",
+      "url": "/programming/programming-languages/ruby/ruby-on-rails",
       "fx": -1814.5085442818227,
       "fy": -486.5618869849413,
       "category": "mindmap"
@@ -100,7 +99,7 @@
     },
     {
       "text": "django  ️",
-      "url": "https://my.mindnode.com/K5WJhHspfaaezNNbNRZYxWGEoofFqnQVTa3ZcxEz",
+      "url": "/web-development/full-stack/django",
       "fx": -963.1403798117724,
       "fy": -442.20811936409063,
       "category": "mindmap"
@@ -121,7 +120,7 @@
     },
     {
       "text": "express  ️",
-      "url": "https://my.mindnode.com/zwXmrqAW4wDks9xzpPzumULC7RGuryQCesparXZU",
+      "url": "/web-development/javascript-libraries/express",
       "fx": -1525.8125875880737,
       "fy": -394.9790409541894,
       "category": "mindmap"

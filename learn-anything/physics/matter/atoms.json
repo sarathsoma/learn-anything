@@ -16,17 +16,31 @@
       "fy": -28.054054975509644
     },
     {
-      "text": "molecules  ️",
-      "url": "https://my.mindnode.com/6yCn8tFpc2suuZst1mVYTxEnpT636ntPfJKq4UD9",
-      "fx": 57.90625,
-      "fy": 103.9677734375,
+      "text": "chemical bonds  ️",
+      "url": "/physics/matter/atoms/chemical-bonds",
+      "fx": -570.1552124023438,
+      "fy": 117.81061172485352,
       "category": "mindmap"
     },
     {
-      "text": "chemical bonds  ️",
-      "url": "https://my.mindnode.com/WMVrpJTKbpbyw8wxpYiossxJbnzKkucW4jzsLqaR",
-      "fx": -175.13171042319755,
-      "fy": 111.29711990595604,
+      "text": "molecules  ️",
+      "url": "/physics/matter/atoms/molecules",
+      "fx": -333.03163146972656,
+      "fy": 119.56588745117188,
+      "category": "mindmap"
+    },
+    {
+      "text": "atomic nucleus  ️",
+      "url": "/physics/matter/atoms/atomic-nucleus",
+      "fx": 119.06434599156114,
+      "fy": 121.5158227848101,
+      "category": "mindmap"
+    },
+    {
+      "text": "subatomic particles  ️",
+      "url": "/physics/matter/atoms/subatomic-particles",
+      "fx": -152.93772411346436,
+      "fy": 121.81510925292969,
       "category": "mindmap"
     }
   ],
@@ -34,19 +48,19 @@
     {
       "text": "1. how small is an atom?",
       "url": "https://www.youtube.com/watch?v=_lNF3_30lUE",
-      "fx": 176.53930693864822,
+      "fx": 183.53930693864822,
       "fy": -36.554054975509644,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. what are atoms?",
       "url": "https://www.youtube.com/watch?v=SggCE0kCJOY",
-      "fx": 176.53930693864822,
-      "fy": 3.4459450244903564,
+      "fx": 183.53930693864822,
+      "fy": 5.4459450244903564,
       "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],
@@ -63,16 +77,32 @@
       "source": "basics",
       "target": "molecules  ️",
       "curve": {
-        "x": 27.1835,
-        "y": 66.0109
+        "x": -168.285,
+        "y": 73.8099
       }
     },
     {
       "source": "basics",
       "target": "chemical bonds  ️",
       "curve": {
-        "x": -76.3355,
-        "y": 69.6756
+        "x": -292.222,
+        "y": 57.3901
+      }
+    },
+    {
+      "source": "basics",
+      "target": "subatomic particles  ️",
+      "curve": {
+        "x": -54.4885,
+        "y": 74.9346
+      }
+    },
+    {
+      "source": "basics",
+      "target": "atomic nucleus  ️",
+      "curve": {
+        "x": 70.7625,
+        "y": 74.7849
       }
     }
   ]

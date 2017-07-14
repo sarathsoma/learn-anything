@@ -24,7 +24,7 @@
     },
     {
       "text": "drugs  ️",
-      "url": "https://my.mindnode.com/5HyyfoE5sufZR5RvN9isTCdaYByzxFVhLqpk2MXg#-125.3,-218.9,2",
+      "url": "/chemistry/drugs",
       "fx": -564.6911926269531,
       "fy": -2.83516788482666,
       "category": "mindmap"
@@ -32,21 +32,21 @@
     {
       "text": "molecular symmetry  ️",
       "note": "describes the symmetry present in molecules and the classification of molecules according to their symmetry  it is a fundamental concept in chemistry, as it can predict or explain many of a molecule's chemical properties, such as its dipole moment and its allowed spectroscopic transitions (based on selection rules such as the Laporte rule)  various frameworks for the study of molecular symmetry exist, group theory is the predominant one",
-      "url": "https://my.mindnode.com/PynYtrYix5pjppTuP8yF6kKpxK5nCAfmqmVp1EAC",
+      "url": "/chemistry/molecular-symmetry",
       "fx": -1391.9566345214844,
       "fy": -2.346555233001709,
       "category": "mindmap"
     },
     {
       "text": "biochemistry  ️",
-      "url": "https://my.mindnode.com/zi4L6xyTss5zyiBkw6RqAqUhzaBZgpXNQk2UNA8D",
+      "url": "/chemistry/biochemistry",
       "fx": -437.58287048339844,
       "fy": -1.3115801811218262,
       "category": "mindmap"
     },
     {
       "text": "electrochemistry  ️",
-      "url": "https://my.mindnode.com/vppJB6VLvdoBFR6phU6hbzCNsKyQLZTnjQGZ1wmT",
+      "url": "/chemistry/electrochemistry",
       "fx": -1615.0060230446927,
       "fy": -0.3536138268193554,
       "category": "mindmap"
@@ -54,7 +54,7 @@
     {
       "text": "quantum chemistry  ️",
       "note": "focuses on the application of quantum mechanics in physical models and experiments of chemical systems",
-      "url": "https://my.mindnode.com/9pPZDyHQf6tkHatDQZH7AGBJwehbyoZcmtApPHqV",
+      "url": "/chemistry/quantum-chemistry",
       "fx": -1108.8742980957031,
       "fy": -0.17800235748291016,
       "category": "mindmap"
@@ -62,42 +62,49 @@
     {
       "text": "chemical elements  ️",
       "note": " there are 118 elements that have been identified, of which 94 occur naturally on Earth with the remaining 24 being synthetic elements  there are 80 elements that have at least one stable isotope and 38 that have exclusively radioactive isotopes, which decay over time into other elements  chemical elements constitute all of the ordinary matter of the universe  however astronomical observations suggest that ordinary observable matter makes up only about 15% of the matter in the universe  the remainder is dark matter (composition of this is unknown, but it is not composed of chemical elements)",
-      "url": "https://my.mindnode.com/neASa3HWM7jNvb9H3kK1pmpKV7pGpQzT7CKdJ2sF",
+      "url": "/chemistry/chemical-elements",
       "fx": -833.7865142822266,
       "fy": -0.10661029815673828,
       "category": "mindmap"
     },
     {
       "text": "chemical reactions  ️",
-      "url": "https://my.mindnode.com/XsF1PBed5d3CcT6XNMWzriuu2WqAzL8yEJzPmZuZ",
-      "fx": -2112.292389187687,
-      "fy": 0.23501251854008842,
+      "url": "/chemistry/chemical-reactions",
+      "fx": -2108.0355834960938,
+      "fy": 0.23501253128051758,
+      "category": "mindmap"
+    },
+    {
+      "text": "analytical chemistry  ️",
+      "url": "/chemistry/analytical-chemistry",
+      "fx": -2369.300204918033,
+      "fy": 1.5416880122951397,
       "category": "mindmap"
     },
     {
       "text": "organic chemistry  ️",
-      "url": "https://my.mindnode.com/dhjpxEvxsiojxW3zpYLauuaPtunmybtWNfUjmy4b",
+      "url": "/chemistry/organic-chemistry",
       "fx": -247.4729118347168,
       "fy": 1.9662890434265137,
       "category": "mindmap"
     },
     {
       "text": "physical chemistry  ️",
-      "url": "https://my.mindnode.com/UqbdRKRL1x31dsQczVJd5smkj3k4SuvjuYUjRsCb",
-      "fx": -1866.7926718040346,
-      "fy": 2.118421236318568,
+      "url": "/chemistry/physical-chemistry",
+      "fx": -1864.9042358398438,
+      "fy": 2.1184191703796387,
       "category": "mindmap"
     },
     {
       "text": "inorganic chemistry  ️",
-      "url": "https://my.mindnode.com/UKxCXUdVxbXCYdDyny9xyqsjvzhssnHsJxLxQwNV",
+      "url": "/chemistry/inorganic-chemistry",
       "fx": -11.344337463378906,
       "fy": 5.38154935836792,
       "category": "mindmap"
     },
     {
       "text": "polymer chemistry  ️",
-      "url": "https://my.mindnode.com/drBjeW2VDGhqThiUJqZmAQUqNdxFXiZFqbQsV3pA",
+      "url": "/chemistry/polymer-chemistry",
       "fx": 239.80193328857422,
       "fy": 5.902863502502441,
       "category": "mindmap"
@@ -261,7 +268,7 @@
       "source": "basics",
       "target": "physical chemistry  ️",
       "curve": {
-        "x": -989.245,
+        "x": -988.301,
         "y": 42.5841
       }
     },
@@ -269,8 +276,16 @@
       "source": "basics",
       "target": "chemical reactions  ️",
       "curve": {
-        "x": -1071.54,
+        "x": -1069.41,
         "y": 4.31338
+      }
+    },
+    {
+      "source": "basics",
+      "target": "analytical chemistry  ️",
+      "curve": {
+        "x": -1437.66,
+        "y": 31.2449
       }
     }
   ]

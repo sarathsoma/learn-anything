@@ -14,6 +14,13 @@
       "url": "",
       "fx": 133.5,
       "fy": 30
+    },
+    {
+      "text": "Black-Scholes model  ️",
+      "url": "/economics/finance/financial-markets/black-scholes-model",
+      "fx": -72.44140625,
+      "fy": 162.8984375,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -34,6 +41,14 @@
       "curve": {
         "x": -1.46094,
         "y": 57.5215
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Black-Scholes model  ️",
+      "curve": {
+        "x": -69.4707,
+        "y": 66.4492
       }
     }
   ]

@@ -1,0 +1,55 @@
+{
+  "title": "learn anything - mathematics - logic - propositional logic",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "propositional logic",
+      "url": "http://www.wikiwand.com/en/Propositional_calculus",
+      "fx": 89.2421875,
+      "fy": -128.5625,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 155.14612989323837,
+      "fy": 21.386009786476905
+    },
+    {
+      "text": "De Morgan’s laws  ️",
+      "url": "/mathematics/logic/propositional-logic/demorgans-laws",
+      "fx": -13.3154296875,
+      "fy": 162.5,
+      "category": "mindmap"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. introduction",
+      "url": "https://www.youtube.com/watch?v=paRt4R71d8s",
+      "fx": 318.14612989323837,
+      "fy": 33.886009786476905,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "propositional logic",
+      "target": "basics",
+      "curve": {
+        "x": -3.54803,
+        "y": 74.2243
+      }
+    },
+    {
+      "source": "basics",
+      "target": "De Morgan’s laws  ️",
+      "curve": {
+        "x": -55.9808,
+        "y": 70.557
+      }
+    }
+  ]
+}
