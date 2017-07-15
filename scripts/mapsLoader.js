@@ -24,7 +24,7 @@ const clean = (obj) => {
 };
 
 // Load AWS configuration file.
-AWS.config.loadFromPath(`${__dirname}/AWSConfig.json`);
+AWS.config.loadFromPath(process.env.AWS_KEY_DYNAMO_UPLOAD);
 const docClient = new AWS.DynamoDB.DocumentClient();
 
 // Used for generating the sitemap.
@@ -42,6 +42,7 @@ const put = map => new Promise((resolve, reject) => (
       Item: clean(map),
     }, (err) => {
       if (err) {
+        console.log(map);
         reject();
       }
 
@@ -56,7 +57,7 @@ let chain = new Promise(resolve => resolve());
 
 
 console.log('Importing into DynamoDB...');
-walkDir('maps', (map) => {
+walkDir('.', (map) => {
   const parsedMap = Object.assign({}, map);
 
   // Set the map key for search. If there's a tag use that,
@@ -82,10 +83,12 @@ walkDir('maps', (map) => {
       parsedMap.title = 'learn-anything';
     }
 
-    chain = chain.then(() => put(parsedMap));
+    chain = chain
+      .then(() => put(parsedMap))
+      .catch((err) => { throw err; });
   }
 });
 
-writeFile(`client/sitemap.xml`, sitemap.toString(), () => (
-  console.log('Maps loaded and sitemap created.')
+writeFile(`${__dirname}/sitemap.xml`, sitemap.toString(), () => (
+  console.log('Sitemap created.')
 ));

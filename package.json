@@ -1,0 +1,27 @@
+{
+  "name": "learn-anything",
+  "version": "1.0.0",
+  "description": "Search Interactive Mind Maps to learn anything https://learn-anything.xyz",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Angelo Gazzola",
+      "email": "angelo@nglgzz.com",
+      "url": "https://github.com/nglgzz"
+    },
+    {
+      "name": "Nikita Voloboev",
+      "email": "nikita.voloboev@gmail.com",
+      "url": "https://github.com/nikitavoloboev"
+    }
+  ],
+  "repository": "nikitavoloboev/learn-anything",
+  "scripts": {
+    "upload": "node scripts/mapsLoader.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.85.0",
+    "fs-walk": "^0.0.1",
+    "sitemap": "^1.13.0"
+  }
+}
