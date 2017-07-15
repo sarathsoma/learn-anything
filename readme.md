@@ -25,7 +25,7 @@
   </div>
   
   
-The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn_anything) as well as [searched through](https://learn-anything.xyz). 🔎
+The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn-anything) as well as [searched through](https://learn-anything.xyz). 🔎
 
 There are **many mind maps inside** which show the **best step by step guides you can use to learn the subject in depth**. 
   
