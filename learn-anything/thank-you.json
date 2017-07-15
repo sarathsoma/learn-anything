@@ -1,0 +1,31 @@
+{
+  "title": "learn anything - thank you",
+  "nodes": [
+    {
+      "text": "Viktor Voropaev",
+      "url": "",
+      "fx": -48.25974895011598,
+      "fy": -71.07416479458897
+    },
+    {
+      "text": "Sergey Shekochikhin",
+      "url": "",
+      "fx": -358.48899015812776,
+      "fy": -60.957304632257745
+    },
+    {
+      "text": "Aimilos Nazlidis",
+      "url": "",
+      "fx": -300.72760451820875,
+      "fy": 50.107019054356044
+    },
+    {
+      "text": "Harsh Pareek",
+      "url": "",
+      "fx": -45.40501817833865,
+      "fy": 50.488405329100146
+    }
+  ],
+  "subnodes": [],
+  "connections": []
+}
