@@ -1,12 +1,12 @@
 {
-  "title": "learn anything - economics - mathematical finance",
+  "title": "learn anything - economics - quantitative finance",
   "tag": "",
   "nodes": [
     {
-      "text": "mathematical finance",
+      "text": "quantitative finance",
       "note": "",
       "url": "http://www.wikiwand.com/en/Mathematical_finance",
-      "fx": -128,
+      "fx": -144.5,
       "fy": -2,
       "category": "wiki"
     },
@@ -15,17 +15,23 @@
       "url": "",
       "fx": 69.11328124999989,
       "fy": 130.89423076921526
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -67.68195520429833,
+      "fy": 258.35573573972243
     }
   ],
   "subnodes": [
     {
       "text": "️",
       "url": "https://quant.stackexchange.com/",
-      "fx": 217,
+      "fx": 181.5,
       "fy": 12,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "mathematical finance"
+      "parent": "quantitative finance"
     },
     {
       "text": "quantitative finance reading list",
@@ -52,15 +58,32 @@
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
+    },
+    {
+      "text": "1. quantitative finance by Paul Wilmott",
+      "url": "https://www.youtube.com/watch?v=vZXCq2fn-Z0&amp;list=PL8DC1113ADB63358E",
+      "fx": 88.31804479570167,
+      "fy": 258.85573573972243,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
     }
   ],
   "connections": [
     {
       "source": "help",
-      "target": "mathematical finance",
+      "target": "quantitative finance",
       "curve": {
-        "x": -53.0566,
+        "x": -61.3066,
         "y": -65.1971
+      }
+    },
+    {
+      "source": "quantitative finance",
+      "target": "basics",
+      "curve": {
+        "x": -8.84098,
+        "y": 128.928
       }
     }
   ]

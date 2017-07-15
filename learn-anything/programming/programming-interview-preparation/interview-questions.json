@@ -51,10 +51,11 @@
       "category": "mindmap"
     },
     {
-      "text": "system design",
-      "url": "",
-      "fx": -286.34077962239587,
-      "fy": 657.542683919271
+      "text": "system design  ️",
+      "url": "/distributed-computing",
+      "fx": -300.34077962239587,
+      "fy": 657.542683919271,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -160,11 +161,11 @@
     {
       "text": "system design interview",
       "url": "https://github.com/checkcheckzz/system-design-interview",
-      "fx": -57.34077962239587,
-      "fy": 669.042683919271,
+      "fx": -43.34077962239587,
+      "fy": 671.542683919271,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "system design"
+      "parent": "system design  ️"
     }
   ],
   "connections": [
@@ -218,9 +219,9 @@
     },
     {
       "source": "scala  ️",
-      "target": "system design",
+      "target": "system design  ️",
       "curve": {
-        "x": -4.4161,
+        "x": -11.4161,
         "y": 68.2641
       }
     }

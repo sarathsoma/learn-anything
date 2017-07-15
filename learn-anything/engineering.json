@@ -13,8 +13,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 927.7216423502502,
-      "fy": -47.77104599672333
+      "fx": 893.2255486002502,
+      "fy": -71.53667099672333
     },
     {
       "text": "mechanical engineering  ️",
@@ -118,8 +118,15 @@
     {
       "text": "chemical engineering  ️",
       "url": "/engineering/chemical-engineering",
-      "fx": 1474.4524489182695,
-      "fy": 202.2187698559885,
+      "fx": 1472.9931030273438,
+      "fy": 202.21875762939453,
+      "category": "mindmap"
+    },
+    {
+      "text": "manufacturing engineering  ️",
+      "url": "/engineering/manufacturing-engineering",
+      "fx": 1739.1375487029,
+      "fy": 205.26468639031725,
       "category": "mindmap"
     }
   ],
@@ -136,8 +143,8 @@
     {
       "text": "empathy in engineering",
       "url": "https://github.com/KimberlyMunoz/empathy-in-engineering",
-      "fx": 1064.7216423502502,
-      "fy": -36.27104599672333,
+      "fx": 1030.2255486002502,
+      "fy": -60.03667099672333,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -204,7 +211,7 @@
       "source": "engineering",
       "target": "chemical engineering  ️",
       "curve": {
-        "x": 687.57,
+        "x": 686.84,
         "y": 145.388
       }
     },
@@ -220,8 +227,8 @@
       "source": "help",
       "target": "engineering",
       "curve": {
-        "x": -294.009,
-        "y": 10.8098
+        "x": -276.761,
+        "y": 22.6926
       }
     },
     {
@@ -270,6 +277,14 @@
       "curve": {
         "x": -1496.05,
         "y": 55.868
+      }
+    },
+    {
+      "source": "engineering",
+      "target": "manufacturing engineering  ️",
+      "curve": {
+        "x": 1008.77,
+        "y": 160.486
       }
     }
   ]

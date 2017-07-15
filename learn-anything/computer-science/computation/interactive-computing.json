@@ -18,9 +18,16 @@
     {
       "text": "Jupyter notebooks  ️",
       "url": "/computer-science/computation/interactive-computing/jupyter-notebooks",
-      "fx": -85.9844717141583,
-      "fy": 46.46382890481249,
+      "fx": -0.48922116349740463,
+      "fy": 59.8810232880723,
       "category": "mindmap"
+    },
+    {
+      "text": "visual programming languages",
+      "url": "http://www.wikiwand.com/en/Visual_programming_language",
+      "fx": -380.51171875,
+      "fy": 60.830078125,
+      "category": "wiki"
     }
   ],
   "subnodes": [
@@ -47,8 +54,16 @@
       "source": "interactive computing",
       "target": "Jupyter notebooks  ️",
       "curve": {
-        "x": -97.6641,
-        "y": 88.6108
+        "x": -54.9165,
+        "y": 95.3194
+      }
+    },
+    {
+      "source": "interactive computing",
+      "target": "visual programming languages",
+      "curve": {
+        "x": -207.928,
+        "y": 97.0439
       }
     }
   ]

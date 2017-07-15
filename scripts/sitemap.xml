@@ -463,7 +463,6 @@
 <url> <loc>https://learn-anything.xyz/economics/investing/rate-of-return/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/investing/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/macroeconomics/</loc> </url>
-<url> <loc>https://learn-anything.xyz/economics/mathematical-finance/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/microeconomics-/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/money/currency/foreign-exchange-market/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/money/currency/</loc> </url>
@@ -472,6 +471,7 @@
 <url> <loc>https://learn-anything.xyz/economics/personal-finance/financial-independence/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/personal-finance/passive-income/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/personal-finance/</loc> </url>
+<url> <loc>https://learn-anything.xyz/economics/quantitative-finance/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/trading/algorithmic-trading-/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/trading/stock-exchange/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/trading/</loc> </url>
@@ -504,6 +504,7 @@
 <url> <loc>https://learn-anything.xyz/engineering/electrical-engineering/electronics/power-electronics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/electrical-engineering/electronics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/electrical-engineering/</loc> </url>
+<url> <loc>https://learn-anything.xyz/engineering/manufacturing-engineering/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/mechanical-engineering/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/mechatronics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/robotics/</loc> </url>
@@ -538,6 +539,7 @@
 <url> <loc>https://learn-anything.xyz/games/video-games/factorio/</loc> </url>
 <url> <loc>https://learn-anything.xyz/games/video-games/hearthstone/</loc> </url>
 <url> <loc>https://learn-anything.xyz/games/video-games/league-of-legends/</loc> </url>
+<url> <loc>https://learn-anything.xyz/games/video-games/minecraft/</loc> </url>
 <url> <loc>https://learn-anything.xyz/games/video-games/</loc> </url>
 <url> <loc>https://learn-anything.xyz/games/web/</loc> </url>
 <url> <loc>https://learn-anything.xyz/games/</loc> </url>
@@ -866,6 +868,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/coordinate-systems/dimensions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/coordinate-systems/polar-coordinate-system/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/coordinate-systems/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/geometry/descriptive-geometry/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/differential-geometry/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/euclidean-space/hilbert-spaces/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/euclidean-space/solid-geometry/polyhedrons/</loc> </url>
@@ -926,6 +929,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/logic/proofs/induction/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/logic/proofs/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/logic/propositional-logic/demorgans-laws/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/logic/propositional-logic/propositions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/logic/propositional-logic/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/logic/truth-tables/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/logic/</loc> </url>
@@ -989,6 +993,12 @@
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/markov-chains/markov-chain-monte-carlo/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/markov-chains/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/random-matrices/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/ito-calculus/itos-lemma/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/ito-calculus/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/martingales/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/random-walk/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/stochastic-differential-equations/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/regression-analysis/linear-regression/generalised-linear-models/</loc> </url>
@@ -1020,6 +1030,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/topology/general-topology/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/topology/geometric-topology/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/topology/morse-theory/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/topology/topological-spaces/manifolds/cobordism/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/topology/topological-spaces/manifolds/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/topology/topological-spaces/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/topology/</loc> </url>
@@ -1325,6 +1336,7 @@
 <url> <loc>https://learn-anything.xyz/physics/optics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/orbital-mechanics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/beyond-the-standard-model/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/particle-physics/brownian-motion/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/higgs-boson/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/leptons/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/neutrino/neutrino-oscillations/</loc> </url>
@@ -1352,6 +1364,8 @@
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-field-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-gravity/loop-quantum-gravity/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-gravity/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/categorical-quantum-mechanics/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/quantum-teleportation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/schrodinger-equation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/uncertainty-principle/</loc> </url>
@@ -1632,6 +1646,7 @@
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/stars/stellar-evolution/supernova/</loc> </url>
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/stars/stellar-evolution/</loc> </url>
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/stars/</loc> </url>
+<url> <loc>https://learn-anything.xyz/space-science/astronomy/universe/big-bang/metric-expansion-of-space/</loc> </url>
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/universe/big-bang/</loc> </url>
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/universe/galaxies/andromeda/</loc> </url>
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/universe/galaxies/milky-way/solar-system/sun/</loc> </url>
@@ -1641,6 +1656,8 @@
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/universe/multiverse/</loc> </url>
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/universe/</loc> </url>
 <url> <loc>https://learn-anything.xyz/space-science/astronomy/</loc> </url>
+<url> <loc>https://learn-anything.xyz/space-science/physical-cosmology/cosmological-constant/</loc> </url>
+<url> <loc>https://learn-anything.xyz/space-science/physical-cosmology/</loc> </url>
 <url> <loc>https://learn-anything.xyz/space-science/</loc> </url>
 <url> <loc>https://learn-anything.xyz/systems-theory/cybernetics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/systems-theory/</loc> </url>

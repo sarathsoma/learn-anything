@@ -24,11 +24,25 @@
       "category": "wiki"
     },
     {
+      "text": "categorical quantum mechanics  ️",
+      "url": "/physics/quantum-mechanics/quantum-information/categorical-quantum-mechanics",
+      "fx": -724.9738311767578,
+      "fy": 87.95783615112305,
+      "category": "mindmap"
+    },
+    {
       "text": "quantum superposition",
       "url": "http://www.wikiwand.com/en/Quantum_superposition",
       "fx": -355.8108188290936,
       "fy": 88.74001186709006,
       "category": "wiki"
+    },
+    {
+      "text": "quantum teleportation  ️",
+      "url": "/physics/quantum-mechanics/quantum-information/quantum-teleportation",
+      "fx": -999.1123499441649,
+      "fy": 91.8598461055276,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -65,6 +79,22 @@
       "curve": {
         "x": -97.0536,
         "y": 68.7756
+      }
+    },
+    {
+      "source": "basics",
+      "target": "categorical quantum mechanics  ️",
+      "curve": {
+        "x": -286.456,
+        "y": 40.7433
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum teleportation  ️",
+      "curve": {
+        "x": -473.424,
+        "y": 12.256
       }
     }
   ]

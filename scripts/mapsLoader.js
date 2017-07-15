@@ -1,7 +1,7 @@
 const { writeFile } = require('fs');
 const sm = require('sitemap');
 const AWS = require('aws-sdk');
-const walkDir = require('./walkDir');
+const walkDir = require(`${__dirname}/walkDir`);
 
 // Removes all attributes with empty strings from an object.
 const clean = (obj) => {
@@ -24,7 +24,11 @@ const clean = (obj) => {
 };
 
 // Load AWS configuration file.
-AWS.config.loadFromPath(process.env.AWS_KEY_DYNAMO_UPLOAD);
+AWS.config.update({
+  region: 'us-west-1',
+  accessKeyId: process.env.DYNAMO_UPDATE_KEY_ID,
+  secretAccessKey: process.env.DYNAMO_UPDATE_SECRET_ACCESS_KEY,
+});
 const docClient = new AWS.DynamoDB.DocumentClient();
 
 // Used for generating the sitemap.

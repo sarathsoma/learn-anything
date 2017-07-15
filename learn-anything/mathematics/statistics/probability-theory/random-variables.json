@@ -18,8 +18,15 @@
     {
       "text": "random matrices  ️",
       "url": "/mathematics/statistics/probability-theory/random-variables/random-matrices",
-      "fx": -177.4833984375,
-      "fy": 150.126953125,
+      "fx": 43.44286346435547,
+      "fy": 144.48448181152344,
+      "category": "mindmap"
+    },
+    {
+      "text": "stochastic processes  ️",
+      "url": "/mathematics/statistics/probability-theory/random-variables/stochastic-processes",
+      "fx": -281.0020591085273,
+      "fy": 149.28997093023247,
       "category": "mindmap"
     }
   ],
@@ -56,8 +63,16 @@
       "source": "basics",
       "target": "random matrices  ️",
       "curve": {
-        "x": -42.6474,
-        "y": 72.3739
+        "x": 67.8157,
+        "y": 69.5527
+      }
+    },
+    {
+      "source": "basics",
+      "target": "stochastic processes  ️",
+      "curve": {
+        "x": -88.9521,
+        "y": 62.2958
       }
     }
   ]

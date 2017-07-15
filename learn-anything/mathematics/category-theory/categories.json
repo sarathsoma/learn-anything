@@ -18,23 +18,37 @@
     {
       "text": "enriched categories  ️",
       "url": "/mathematics/category-theory/categories/enriched-categories",
-      "fx": 20.77700915892774,
-      "fy": 135.34408055985557,
+      "fx": 21.338882446289062,
+      "fy": 135.34408569335938,
       "category": "mindmap"
+    },
+    {
+      "text": "monodical category",
+      "url": "http://www.wikiwand.com/en/Monoidal_category",
+      "fx": -655.1340103149414,
+      "fy": 137.07444763183594,
+      "category": "wiki"
     },
     {
       "text": "topos theory  ️",
       "url": "/mathematics/category-theory/categories/topos-theory",
-      "fx": -371.4727592468262,
+      "fx": -370.87922286987305,
       "fy": 137.4557876586914,
       "category": "mindmap"
     },
     {
       "text": "morphisms  ️",
       "url": "/mathematics/category-theory/categories/morphisms",
-      "fx": -168.3370761871338,
+      "fx": -167.7849006652832,
       "fy": 137.81269073486328,
       "category": "mindmap"
+    },
+    {
+      "text": "symmetric monoidal category",
+      "url": "http://www.wikiwand.com/en/Symmetric_monoidal_category",
+      "fx": -735.7154274425275,
+      "fy": 268.5646551724137,
+      "category": "wiki"
     }
   ],
   "subnodes": [
@@ -88,7 +102,7 @@
       "source": "basics",
       "target": "topos theory  ️",
       "curve": {
-        "x": -158.123,
+        "x": -157.826,
         "y": 89.1426
       }
     },
@@ -96,7 +110,7 @@
       "source": "basics",
       "target": "morphisms  ️",
       "curve": {
-        "x": -43.5549,
+        "x": -43.2788,
         "y": 89.321
       }
     },
@@ -104,8 +118,24 @@
       "source": "basics",
       "target": "enriched categories  ️",
       "curve": {
-        "x": 55.9619,
+        "x": 56.2428,
         "y": 94.7887
+      }
+    },
+    {
+      "source": "monodical category",
+      "target": "symmetric monoidal category",
+      "curve": {
+        "x": -44.7907,
+        "y": 72.2451
+      }
+    },
+    {
+      "source": "basics",
+      "target": "monodical category",
+      "curve": {
+        "x": -289.328,
+        "y": 65.3776
       }
     }
   ]

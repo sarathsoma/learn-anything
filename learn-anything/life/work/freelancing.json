@@ -12,8 +12,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": -16.8203125,
-      "fy": -18.59375
+      "fx": -28.03515625,
+      "fy": -7.421875
     },
     {
       "text": "articles",
@@ -26,10 +26,18 @@
     {
       "text": "the remote freelancer",
       "url": "https://github.com/engineerapart/TheRemoteFreelancer",
-      "fx": 120.1796875,
-      "fy": -7.09375,
+      "fx": 108.96484375,
+      "fy": -12.921875,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "upwork",
+      "url": "https://www.upwork.com/",
+      "fx": 108.96484375,
+      "fy": 27.078125,
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
@@ -47,16 +55,16 @@
       "source": "help",
       "target": "freelancing",
       "curve": {
-        "x": -40.334,
-        "y": -49.9004
+        "x": -34.7266,
+        "y": -55.4863
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -25.0332,
-        "y": -58.291
+        "x": -30.6406,
+        "y": -52.7051
       }
     }
   ]

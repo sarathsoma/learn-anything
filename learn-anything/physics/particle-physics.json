@@ -24,10 +24,17 @@
       "category": "mindmap"
     },
     {
+      "text": "Brownian motion  ️",
+      "url": "/physics/particle-physics/brownian-motion",
+      "fx": -1426.3695913461536,
+      "fy": 98.34194711541568,
+      "category": "mindmap"
+    },
+    {
       "text": "quasiparticles  ️",
       "url": "/physics/particle-physics/quasiparticles",
-      "fx": -1188.0388000697174,
-      "fy": 98.52158464317392,
+      "fx": -1181.2388000488281,
+      "fy": 98.5215950012207,
       "category": "mindmap"
     },
     {
@@ -156,8 +163,16 @@
       "source": "basics",
       "target": "quasiparticles  ️",
       "curve": {
-        "x": -777.595,
+        "x": -774.195,
         "y": 55.0384
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Brownian motion  ️",
+      "curve": {
+        "x": -908.148,
+        "y": 32.6059
       }
     }
   ]

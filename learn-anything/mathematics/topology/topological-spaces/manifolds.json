@@ -16,11 +16,11 @@
       "fy": 7.980277534985305
     },
     {
-      "text": "cobordism",
-      "url": "http://www.wikiwand.com/en/Cobordism",
-      "fx": 408.2185329861105,
-      "fy": 152.24978298611143,
-      "category": "wiki"
+      "text": "cobordism  ️",
+      "url": "/mathematics/topology/topological-spaces/manifolds/cobordism",
+      "fx": 391.9826369684115,
+      "fy": 147.75068176929733,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -54,10 +54,10 @@
     },
     {
       "source": "basics",
-      "target": "cobordism",
+      "target": "cobordism  ️",
       "curve": {
-        "x": -46.2969,
-        "y": 72.8848
+        "x": -54.4148,
+        "y": 70.6352
       }
     }
   ]

@@ -5,22 +5,22 @@
     {
       "text": "geometry",
       "url": "http://www.wikiwand.com/en/Geometry",
-      "fx": -9.143200709621851,
-      "fy": -591.6824439776714,
+      "fx": 18.13414304037815,
+      "fy": -584.5730689776714,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 146.34869815851266,
-      "fy": -450.82521173057916
+      "fx": 139.56744815851266,
+      "fy": -471.46193048057916
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -69.45561465683124,
-      "fy": -271.4041369463573
+      "fx": -34.393114656831244,
+      "fy": -278.3142931963573
     },
     {
       "text": "spheres  ️",
@@ -37,6 +37,13 @@
       "category": "mindmap"
     },
     {
+      "text": "descriptive geometry  ️",
+      "url": "/mathematics/geometry/descriptive-geometry",
+      "fx": 359.01000213623047,
+      "fy": -141.3447723388672,
+      "category": "mindmap"
+    },
+    {
       "text": "coordinate systems  ️",
       "url": "/mathematics/geometry/coordinate-systems",
       "fx": -732.5927071893223,
@@ -46,8 +53,8 @@
     {
       "text": "incidence geometry  ️",
       "url": "/mathematics/geometry/incidence-geometry",
-      "fx": 367.2072209509281,
-      "fy": -56.990252465402705,
+      "fx": 378.4572448730469,
+      "fy": -59.5342493057251,
       "category": "mindmap"
     },
     {
@@ -143,8 +150,8 @@
     {
       "text": "sine and cosine",
       "url": "http://setosa.io/ev/sine-and-cosine/",
-      "fx": 287.34869815851266,
-      "fy": -471.82521173057916,
+      "fx": 280.56744815851266,
+      "fy": -492.46193048057916,
       "category": "interactive",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
@@ -152,8 +159,8 @@
     {
       "text": "geometry, algebra, and intuition  ️",
       "url": "http://www.shapeoperator.com/2017/02/28/geometry-algebra-intuition/",
-      "fx": 287.34869815851266,
-      "fy": -429.82521173057916,
+      "fx": 280.56744815851266,
+      "fy": -450.46193048057916,
       "category": "article",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
@@ -161,8 +168,8 @@
     {
       "text": "1. high school geometry",
       "url": "https://www.khanacademy.org/math/geometry",
-      "fx": 119.54438534316876,
-      "fy": -292.4041369463573,
+      "fx": 154.60688534316876,
+      "fy": -299.3142931963573,
       "category": "video",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
@@ -170,8 +177,8 @@
     {
       "text": "1. geometry from euclid to knots",
       "url": "http://www.goodreads.com/book/show/8001419-geometry-from-euclid-to-knots",
-      "fx": 119.54438534316876,
-      "fy": -250.4041369463573,
+      "fx": 154.60688534316876,
+      "fy": -257.3142931963573,
       "category": "non-free book",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
@@ -182,144 +189,152 @@
       "source": "geometry",
       "target": "basics",
       "curve": {
-        "x": -44.4062,
-        "y": 158.889
+        "x": -40.5136,
+        "y": 151.879
       }
     },
     {
       "source": "help",
       "target": "geometry",
       "curve": {
-        "x": -58.746,
-        "y": -69.1785
+        "x": -41.7167,
+        "y": -55.3055
       }
     },
     {
       "source": "basics",
       "target": "algebraic geometry  ️",
       "curve": {
-        "x": 137.012,
-        "y": 291.401
+        "x": 119.481,
+        "y": 294.856
       }
     },
     {
       "source": "basics",
       "target": "differential geometry  ️",
       "curve": {
-        "x": 56.9791,
-        "y": 325.477
+        "x": 39.4479,
+        "y": 328.932
       }
     },
     {
       "source": "basics",
       "target": "pi  ️",
       "curve": {
-        "x": -155.709,
-        "y": 280.708
+        "x": -173.24,
+        "y": 284.163
       }
     },
     {
       "source": "basics",
       "target": "euclidean space  ️",
       "curve": {
-        "x": -261.407,
-        "y": 295.453
+        "x": -278.938,
+        "y": 298.908
       }
     },
     {
       "source": "basics",
       "target": "projective geometry  ️",
       "curve": {
-        "x": 251.669,
-        "y": 210.947
+        "x": 234.138,
+        "y": 214.402
       }
     },
     {
       "source": "basics",
       "target": "geometric algebra  ️",
       "curve": {
-        "x": -293.968,
-        "y": 248.728
+        "x": -311.499,
+        "y": 252.183
       }
     },
     {
       "source": "basics",
       "target": "fractals  ️",
       "curve": {
-        "x": 220.681,
-        "y": 249.428
+        "x": 203.15,
+        "y": 252.883
       }
     },
     {
       "source": "basics",
       "target": "trigonometry  ️",
       "curve": {
-        "x": -314.06,
-        "y": 195.558
+        "x": -331.591,
+        "y": 199.013
       }
     },
     {
       "source": "basics",
       "target": "tensors  ️",
       "curve": {
-        "x": -303.204,
-        "y": 151.061
+        "x": -320.735,
+        "y": 154.516
       }
     },
     {
       "source": "basics",
       "target": "computational geometry  ️",
       "curve": {
-        "x": -92.536,
-        "y": 345.75
+        "x": -110.067,
+        "y": 349.205
       }
     },
     {
       "source": "basics",
       "target": "information geometry  ️",
       "curve": {
-        "x": -34.6763,
-        "y": 395.164
+        "x": -97.5279,
+        "y": 450.498
       }
     },
     {
       "source": "basics",
       "target": "coordinate systems  ️",
       "curve": {
-        "x": -305.568,
-        "y": 102.054
+        "x": -323.099,
+        "y": 105.509
       }
     },
     {
       "source": "basics",
       "target": "polygons",
       "curve": {
-        "x": 242.152,
-        "y": 190.371
+        "x": 224.621,
+        "y": 193.826
       }
     },
     {
       "source": "basics",
       "target": "incidence geometry  ️",
       "curve": {
-        "x": 223.484,
-        "y": 144.57
+        "x": 211.578,
+        "y": 146.753
       }
     },
     {
       "source": "basics",
       "target": "polytypes  ️",
       "curve": {
-        "x": -301.171,
-        "y": 53.0297
+        "x": -318.702,
+        "y": 56.4848
       }
     },
     {
       "source": "basics",
       "target": "spheres  ️",
       "curve": {
-        "x": -322.154,
-        "y": 16.1209
+        "x": -339.685,
+        "y": 19.576
+      }
+    },
+    {
+      "source": "basics",
+      "target": "descriptive geometry  ️",
+      "curve": {
+        "x": 177.123,
+        "y": 102.676
       }
     }
   ]

@@ -29,17 +29,17 @@
       "fy": -54.38531559630792
     },
     {
-      "text": "articles",
-      "url": "",
-      "fx": 497.51560948746646,
-      "fy": 68.66423798554229
-    },
-    {
       "text": "launchd  ️",
       "url": "/operating-systems/unix/macos/launchd",
       "fx": 67.43094877151566,
       "fy": 66.39849679971769,
       "category": "mindmap"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 497.51560948746646,
+      "fy": 68.66423798554229
     },
     {
       "text": "automation  ️",
@@ -67,151 +67,151 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/MacOS/",
-      "fx": 71.75714673263792,
-      "fy": -657.4490714645588,
+      "fx": 83.75714673263792,
+      "fy": -659.4490714645588,
       "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "macOS"
     },
     {
       "text": "️",
       "url": "https://apple.stackexchange.com/",
-      "fx": 71.75714673263792,
+      "fx": 83.75714673263792,
       "fy": -617.4490714645588,
       "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "macOS"
     },
     {
       "text": "awesome",
       "url": "https://github.com/iCHAIT/awesome-macOS",
-      "fx": 71.75714673263792,
-      "fy": -577.4490714645588,
+      "fx": 83.75714673263792,
+      "fy": -575.4490714645588,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "macOS"
     },
     {
       "text": "reverse engineering resources",
       "url": "http://pewpewthespells.com/re.html",
-      "fx": 184.48898662156796,
-      "fy": -481.77551058631514,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 188.48898662156796,
+      "fy": -514.7755105863151,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "macOS shell scripts",
       "url": "https://github.com/liyanage/macosx-shell-scripts",
-      "fx": 184.48898662156796,
-      "fy": -447.77551058631514,
+      "fx": 188.48898662156796,
+      "fy": -477.77551058631514,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome macOS command line",
       "url": "https://github.com/herrbischoff/awesome-osx-command-line",
-      "fx": 184.48898662156796,
-      "fy": -407.77551058631514,
+      "fx": 188.48898662156796,
+      "fy": -435.77551058631514,
       "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "quick look plugins",
       "url": "https://github.com/sindresorhus/quick-look-plugins",
-      "fx": 184.48898662156796,
-      "fy": -367.77551058631514,
+      "fx": 188.48898662156796,
+      "fy": -368.77551058631514,
       "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "help"
     },
     {
       "text": "macOS security and privacy guide",
       "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
-      "fx": 184.48898662156796,
-      "fy": -327.77551058631514,
+      "fx": 188.48898662156796,
+      "fy": -326.77551058631514,
       "category": "github",
-      "color": "rgba(49, 187, 71, 1.0)",
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome mac",
       "url": "https://github.com/jaywcjlove/awesome-mac",
-      "fx": 184.48898662156796,
-      "fy": -265.77551058631514,
+      "fx": 188.48898662156796,
+      "fy": -259.77551058631514,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome OS X command line",
       "url": "https://github.com/herrbischoff/awesome-osx-command-line",
-      "fx": 184.48898662156796,
-      "fy": -225.77551058631514,
+      "fx": 188.48898662156796,
+      "fy": -217.77551058631514,
       "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },
     {
       "text": "tools for macOS",
       "url": "https://github.com/morgant/tools-osx",
-      "fx": 184.48898662156796,
-      "fy": -185.77551058631514,
+      "fx": 188.48898662156796,
+      "fy": -150.77551058631514,
       "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "awesome macOS screensavers",
       "url": "https://github.com/aharris88/awesome-macos-screensavers",
-      "fx": 483.0940057635398,
-      "fy": -50.99047548084354,
+      "fx": 491.0940057635398,
+      "fy": -62.49047548084354,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "interesting"
     },
     {
       "text": "1. brew package manager",
       "url": "https://brew.sh/",
-      "fx": -19.232879344070625,
-      "fy": -56.88531559630792,
-      "color": "rgba(36, 170, 255, 1.0)",
+      "fx": -12.232879344070625,
+      "fy": -57.88531559630792,
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. macOS internals",
       "url": "http://osxbook.com/",
-      "fx": -19.232879344070625,
-      "fy": -22.88531559630792,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": -12.232879344070625,
+      "fy": -20.88531559630792,
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
     {
       "text": "14: mac keyboard shortcuts  ️",
       "url": "http://mattgemmell.com/mac-keyboard-shortcuts/",
-      "fx": 659.5156094874665,
-      "fy": 18.164237985542286,
+      "fx": 666.5156094874665,
+      "fy": 14.164237985542286,
       "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "articles"
     },
     {
-      "text": "16: migrating from iOS to mac — part I: app anatomy  ️",
+      "text": "16: migrating from iOS to mac   —   part I: app anatomy  ️",
       "url": "http://martiancraft.com/blog/2016/05/ios-to-mac-1/",
-      "fx": 659.5156094874665,
-      "fy": 58.164237985542286,
+      "fx": 666.5156094874665,
+      "fy": 56.164237985542286,
       "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "articles"
     },
     {
       "text": "16: take control of your trackpad on macOS  ️",
       "url": "https://medium.com/@NikitaVoloboev/take-control-of-your-trackpad-on-macos-45c581f542e0",
-      "fx": 659.5156094874665,
-      "fy": 120.16423798554229,
+      "fx": 666.5156094874665,
+      "fy": 123.16423798554229,
       "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "articles"
     }
   ],

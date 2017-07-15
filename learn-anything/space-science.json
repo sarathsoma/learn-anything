@@ -20,8 +20,15 @@
       "text": "astronomy  ️",
       "note": "studies celestial objects and phenomena   applies mathematics, physics and chemistry, in effort to explain the origin of those objects and phenomena and their evolution  objects of interest include planets, moons, stars, galaxies and comets  while the phenomena include supernovae explosions, gamma ray bursts and cosmic microwave background radiation",
       "url": "/space-science/astronomy",
-      "fx": -189.02431381692554,
-      "fy": -1.351478187316502,
+      "fx": -93.94330088794231,
+      "fy": -1.177267074584961,
+      "category": "mindmap"
+    },
+    {
+      "text": "physical cosmology  ️",
+      "url": "/space-science/physical-cosmology",
+      "fx": -347.0732421875,
+      "fy": 1.1315104166666856,
       "category": "mindmap"
     }
   ],
@@ -50,8 +57,8 @@
       "source": "space science",
       "target": "astronomy  ️",
       "curve": {
-        "x": -5.56562,
-        "y": 103.781
+        "x": 41.9749,
+        "y": 103.868
       }
     },
     {
@@ -60,6 +67,14 @@
       "curve": {
         "x": -64.3836,
         "y": -50.3211
+      }
+    },
+    {
+      "source": "space science",
+      "target": "physical cosmology  ️",
+      "curve": {
+        "x": -77.8401,
+        "y": 103.773
       }
     }
   ]

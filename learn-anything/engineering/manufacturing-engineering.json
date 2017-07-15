@@ -1,0 +1,55 @@
+{
+  "title": "learn anything - engineering - manufacturing engineering",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "manufacturing engineering",
+      "url": "http://www.wikiwand.com/en/Manufacturing_engineering",
+      "fx": 15.83203125,
+      "fy": -121.9453125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 127.53125381469727,
+      "fy": 1.1099796295166016
+    },
+    {
+      "text": "manufacturing",
+      "url": "http://www.wikiwand.com/en/Manufacturing",
+      "fx": 0.48827362060546875,
+      "fy": 114.66274452209473,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. manufacturing engineering and technology",
+      "url": "http://www.engr.mun.ca/~hinch/9211/PARTS.pdf",
+      "fx": 290.53125381469727,
+      "fy": 1.1099796295166016,
+      "category": "free book",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "manufacturing engineering",
+      "target": "basics",
+      "curve": {
+        "x": 6.34961,
+        "y": 61.5276
+      }
+    },
+    {
+      "source": "basics",
+      "target": "manufacturing",
+      "curve": {
+        "x": -36.5215,
+        "y": 57.5264
+      }
+    }
+  ]
+}
