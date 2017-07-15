@@ -16,17 +16,24 @@
       "fy": -161.91015625
     },
     {
+      "text": "Maxwell stress tensor  ️",
+      "url": "/physics/electromagnetism/maxwell-stress-tensor",
+      "fx": -977.8691784406053,
+      "fy": 3.9004059556574475,
+      "category": "mindmap"
+    },
+    {
       "text": "electromagnetic field  ️",
       "url": "/physics/electromagnetism/electromagnetic-field",
-      "fx": -717.4709834196445,
-      "fy": 5.75994440601022,
+      "fx": -707.8109588623047,
+      "fy": 5.759945869445801,
       "category": "mindmap"
     },
     {
       "text": "electromagnetic radiation  ️",
       "url": "/physics/electromagnetism/electromagnetic-radiation",
-      "fx": -453.4914062499995,
-      "fy": 7.281640625000023,
+      "fx": -446.6848373413086,
+      "fy": 7.281640529632568,
       "category": "mindmap"
     },
     {
@@ -100,7 +107,7 @@
       "source": "basics",
       "target": "electromagnetic field  ️",
       "curve": {
-        "x": -336.556,
+        "x": -331.726,
         "y": 83.8351
       }
     },
@@ -108,7 +115,7 @@
       "source": "basics",
       "target": "electromagnetic radiation  ️",
       "curve": {
-        "x": -194.066,
+        "x": -190.663,
         "y": 84.5959
       }
     },
@@ -118,6 +125,14 @@
       "curve": {
         "x": 4.20979,
         "y": 85.9975
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Maxwell stress tensor  ️",
+      "curve": {
+        "x": -553.036,
+        "y": 46.46
       }
     }
   ]

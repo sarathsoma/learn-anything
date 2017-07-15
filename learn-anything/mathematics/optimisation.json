@@ -36,6 +36,13 @@
       "category": "mindmap"
     },
     {
+      "text": "metaheuristic",
+      "url": "http://www.wikiwand.com/en/Metaheuristic",
+      "fx": -799.2020323426574,
+      "fy": -56.386909965034874,
+      "category": "wiki"
+    },
+    {
       "text": "convex optimisation  ️",
       "url": "/mathematics/optimisation/convex-optimisation",
       "fx": 147.82704825700807,
@@ -116,6 +123,14 @@
       "curve": {
         "x": -285.243,
         "y": 63.3289
+      }
+    },
+    {
+      "source": "basics",
+      "target": "metaheuristic",
+      "curve": {
+        "x": -437.411,
+        "y": 59.3131
       }
     }
   ]

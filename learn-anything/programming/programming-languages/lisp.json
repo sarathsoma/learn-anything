@@ -25,8 +25,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -106.76870766227978,
-      "fy": 147.83569356411
+      "fx": -136.9612832992225,
+      "fy": 162.33609165328198
     }
   ],
   "subnodes": [
@@ -78,8 +78,8 @@
     {
       "text": "1. build your own lisp",
       "url": "http://www.buildyourownlisp.com/chapter1_introduction",
-      "fx": 75.23129233772022,
-      "fy": 119.33569356410999,
+      "fx": 45.03871670077751,
+      "fy": 113.83609165328198,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -87,8 +87,8 @@
     {
       "text": "1. lisp quickstart",
       "url": "http://cs.gmu.edu/~sean/lisp/LispTutorial.html",
-      "fx": 75.23129233772022,
-      "fy": 159.33569356411,
+      "fx": 45.03871670077751,
+      "fy": 153.83609165328198,
       "category": "free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -96,10 +96,19 @@
     {
       "text": "1. on lisp",
       "url": "http://ep.yimg.com/ty/cdn/paulgraham/onlisp.pdf",
-      "fx": 75.23129233772022,
-      "fy": 199.33569356411,
+      "fx": 45.03871670077751,
+      "fy": 193.83609165328198,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. lisp in small pieces",
+      "url": "https://www.goodreads.com/book/show/1168500.Lisp_in_Small_Pieces",
+      "fx": 45.03871670077751,
+      "fy": 233.83609165328198,
+      "category": "non-free book",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],
@@ -116,8 +125,8 @@
       "source": "lisp",
       "target": "basics",
       "curve": {
-        "x": -17.2177,
-        "y": 179.59
+        "x": -32.314,
+        "y": 186.84
       }
     },
     {

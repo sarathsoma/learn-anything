@@ -30,30 +30,30 @@
       "category": "mindmap"
     },
     {
-      "text": "bubble sort",
-      "url": "http://www.wikiwand.com/en/Bubble_sort",
-      "fx": -195.37969374852833,
+      "text": "bubble sort  ️",
+      "url": "/computer-science/algorithms/sorting/bubble-sort",
+      "fx": -194.37969374852833,
       "fy": 53.76211847212426,
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "selection sort  ️",
       "url": "/computer-science/algorithms/sorting/selection-sort",
-      "fx": -418.78046158257376,
+      "fx": -403.31561783257376,
       "fy": 55.212944380733916,
       "category": "mindmap"
     },
     {
       "text": "merge sort  ️",
       "url": "/computer-science/algorithms/sorting/merge-sort",
-      "fx": -611.2068639457258,
+      "fx": -595.7420201957258,
       "fy": 58.703246922143194,
       "category": "mindmap"
     },
     {
       "text": "topological sort  ️",
       "url": "/computer-science/algorithms/sorting/topological-sort",
-      "fx": -834.1545438218391,
+      "fx": -818.6897000718391,
       "fy": 62.99510596264372,
       "category": "mindmap"
     }
@@ -114,9 +114,9 @@
     },
     {
       "source": "basics",
-      "target": "bubble sort",
+      "target": "bubble sort  ️",
       "curve": {
-        "x": -55.7288,
+        "x": -55.2288,
         "y": 65.4701
       }
     },
@@ -124,7 +124,7 @@
       "source": "basics",
       "target": "selection sort  ️",
       "curve": {
-        "x": -160.136,
+        "x": -152.404,
         "y": 62.1195
       }
     },
@@ -132,7 +132,7 @@
       "source": "basics",
       "target": "merge sort  ️",
       "curve": {
-        "x": -325.933,
+        "x": -318.201,
         "y": 23.2222
       }
     },
@@ -140,7 +140,7 @@
       "source": "basics",
       "target": "topological sort  ️",
       "curve": {
-        "x": -420.03,
+        "x": -412.298,
         "y": 8.87569
       }
     }

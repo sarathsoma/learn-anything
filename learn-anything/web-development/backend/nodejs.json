@@ -55,17 +55,18 @@
       "category": "wiki"
     },
     {
+      "text": "npm  ️",
+      "url": "/programming/programming-languages/javascript/npm",
+      "fx": -466.9256867196982,
+      "fy": 147.7746498731866,
+      "category": "mindmap"
+    },
+    {
       "text": "yarn",
       "url": "https://github.com/yarnpkg/yarn",
       "fx": -342.4251445404676,
       "fy": 149.21328369965784,
       "category": "github"
-    },
-    {
-      "text": "npm",
-      "url": "https://www.npmjs.com/",
-      "fx": -450.8827179696982,
-      "fy": 153.8566811231866
     },
     {
       "text": "web frameworks",
@@ -238,7 +239,7 @@
       "text": "1. node school",
       "url": "https://nodeschool.io/",
       "fx": 5.715953113004275,
-      "fy": -102.7695460908268,
+      "fy": -122.7695460908268,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
@@ -246,15 +247,24 @@
       "text": "1. the node way",
       "url": "http://thenodeway.io/",
       "fx": 5.715953113004275,
-      "fy": -68.7695460908268,
+      "fy": -88.7695460908268,
       "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. practical node",
+      "url": "https://github.com/azat-co/practicalnode",
+      "fx": 5.715953113004275,
+      "fy": -54.76954609082679,
+      "category": "github",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. node: up and running",
       "url": "http://chimera.labs.oreilly.com/books/1234000001808/index.html",
       "fx": 5.715953113004275,
-      "fy": -34.76954609082679,
+      "fy": -14.769546090826793,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -296,10 +306,10 @@
     },
     {
       "source": "package manager",
-      "target": "npm",
+      "target": "npm  ️",
       "curve": {
-        "x": -29.8558,
-        "y": 52.1603
+        "x": -37.8773,
+        "y": 49.1193
       }
     },
     {
@@ -354,8 +364,8 @@
       "source": "basics",
       "target": "testing",
       "curve": {
-        "x": 179.253,
-        "y": 110.489
+        "x": 154.362,
+        "y": 118.657
       }
     },
     {

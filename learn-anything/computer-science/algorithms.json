@@ -74,6 +74,13 @@
       "category": "wiki"
     },
     {
+      "text": "domain reduction",
+      "url": "http://www.wikiwand.com/en/Domain_reduction_algorithm",
+      "fx": -1632.5159783291456,
+      "fy": 662.38404522613,
+      "category": "wiki"
+    },
+    {
       "text": "graphs  ️",
       "note": "a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects",
       "url": "/computer-science/algorithms/graph",
@@ -441,6 +448,14 @@
       "curve": {
         "x": -508.15,
         "y": 49.9561
+      }
+    },
+    {
+      "source": "algorithms on",
+      "target": "domain reduction",
+      "curve": {
+        "x": -740.064,
+        "y": -22.7053
       }
     }
   ]

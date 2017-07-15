@@ -6,13 +6,20 @@
       "text": "libraries",
       "url": "",
       "fx": 321.69907407405503,
-      "fy": 84.27922453708152
+      "fy": 30.154224537081518
     },
     {
       "text": "SwiftTask",
       "url": "https://github.com/ReactKit/SwiftTask",
       "fx": 307.70739153589193,
       "fy": 251.47200735117667,
+      "category": "github"
+    },
+    {
+      "text": "YapAnimator",
+      "url": "https://github.com/yapstudios/YapAnimator",
+      "fx": -487.68118690835195,
+      "fy": 252.5276124130853,
       "category": "github"
     },
     {
@@ -77,7 +84,7 @@
       "target": "vapor",
       "curve": {
         "x": 216.931,
-        "y": 85.8658
+        "y": 112.928
       }
     },
     {
@@ -85,7 +92,7 @@
       "target": "transition",
       "curve": {
         "x": -78.0721,
-        "y": 86.6427
+        "y": 113.705
       }
     },
     {
@@ -93,7 +100,7 @@
       "target": "SwiftTask",
       "curve": {
         "x": 4.50416,
-        "y": 84.8464
+        "y": 111.909
       }
     },
     {
@@ -101,7 +108,7 @@
       "target": "RxSwift  ️",
       "curve": {
         "x": 494.974,
-        "y": 49.7732
+        "y": 76.8357
       }
     },
     {
@@ -109,7 +116,7 @@
       "target": "perfect",
       "curve": {
         "x": 385.428,
-        "y": 77.0788
+        "y": 104.141
       }
     },
     {
@@ -117,7 +124,7 @@
       "target": "swift standard library",
       "curve": {
         "x": -310.585,
-        "y": 58.1445
+        "y": 85.207
       }
     },
     {
@@ -125,7 +132,7 @@
       "target": "hydra",
       "curve": {
         "x": 143.093,
-        "y": 85.9773
+        "y": 113.04
       }
     },
     {
@@ -133,7 +140,7 @@
       "target": "foundation",
       "curve": {
         "x": -164.089,
-        "y": 85.915
+        "y": 112.978
       }
     },
     {
@@ -141,7 +148,15 @@
       "target": "ReSwift",
       "curve": {
         "x": 79.6948,
-        "y": 85.7995
+        "y": 112.862
+      }
+    },
+    {
+      "source": "libraries",
+      "target": "YapAnimator",
+      "curve": {
+        "x": -418.257,
+        "y": 83.2883
       }
     }
   ]

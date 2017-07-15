@@ -79,6 +79,13 @@
       "category": "mindmap"
     },
     {
+      "text": "space  ️",
+      "url": "/physics/space",
+      "fx": -2896.7190628685516,
+      "fy": -132.01290011921833,
+      "category": "mindmap"
+    },
+    {
       "text": "continuum mechanics  ️",
       "url": "/physics/continuum-mechanics",
       "fx": -2334.9664306640625,
@@ -88,8 +95,8 @@
     {
       "text": "time  ️",
       "url": "/physics/time",
-      "fx": -2757.919737590926,
-      "fy": -128.6337836964915,
+      "fx": -2756.5746459960938,
+      "fy": -128.63378524780273,
       "category": "mindmap"
     },
     {
@@ -542,8 +549,16 @@
       "source": "basics",
       "target": "time  ️",
       "curve": {
-        "x": -1993.53,
+        "x": -1992.86,
         "y": 78.9266
+      }
+    },
+    {
+      "source": "basics",
+      "target": "space  ️",
+      "curve": {
+        "x": -2014.04,
+        "y": 48.6017
       }
     }
   ]

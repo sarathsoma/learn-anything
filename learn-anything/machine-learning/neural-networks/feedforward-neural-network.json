@@ -18,8 +18,15 @@
     {
       "text": "extreme learning machines  ️",
       "url": "/machine-learning/neural-networks/feedforward-neural-network/extreme-learning-machines",
-      "fx": -228.0383800014166,
-      "fy": 74.1390768536744,
+      "fx": -364.58304595947266,
+      "fy": 71.86862564086914,
+      "category": "mindmap"
+    },
+    {
+      "text": "universal approximation theory  ️",
+      "url": "/machine-learning/neural-networks/feedforward-neural-network/universal-approximation-theory",
+      "fx": -42.952994168660325,
+      "fy": 75.33300313995221,
       "category": "mindmap"
     }
   ],
@@ -47,8 +54,16 @@
       "source": "basics",
       "target": "extreme learning machines  ️",
       "curve": {
-        "x": -44.9268,
-        "y": 72.2375
+        "x": -113.199,
+        "y": 71.1023
+      }
+    },
+    {
+      "source": "basics",
+      "target": "universal approximation theory  ️",
+      "curve": {
+        "x": 55.8659,
+        "y": 72.8345
       }
     }
   ]

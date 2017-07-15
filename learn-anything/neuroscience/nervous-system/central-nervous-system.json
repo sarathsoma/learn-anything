@@ -16,11 +16,25 @@
       "fy": -7.169576252208003
     },
     {
+      "text": "sensory nerves",
+      "url": "http://www.wikiwand.com/en/Sensory_nerve",
+      "fx": -419.50977345629354,
+      "fy": 123.21196287757283,
+      "category": "wiki"
+    },
+    {
       "text": "brain  ️",
       "url": "/neuroscience/human-brain",
       "fx": 16.22579405737713,
       "fy": 125.06595799180332,
       "category": "mindmap"
+    },
+    {
+      "text": "motor nerves",
+      "url": "http://www.wikiwand.com/en/Motor_nerve",
+      "fx": -196.384147202574,
+      "fy": 127.24165024191967,
+      "category": "wiki"
     },
     {
       "text": "spinal cord  ️",
@@ -79,6 +93,22 @@
       "curve": {
         "x": 91.7676,
         "y": 67.8016
+      }
+    },
+    {
+      "source": "basics",
+      "target": "motor nerves",
+      "curve": {
+        "x": -190.208,
+        "y": 42.3932
+      }
+    },
+    {
+      "source": "basics",
+      "target": "sensory nerves",
+      "curve": {
+        "x": -303.073,
+        "y": 43.2131
       }
     }
   ]

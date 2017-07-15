@@ -16,17 +16,24 @@
       "fy": -46.46998090834194
     },
     {
-      "text": "Nash equilibrium  ️",
-      "url": "/mathematics/mathematical-models/game-theory/nash-equilibrium",
-      "fx": -307.1621347402596,
-      "fy": 58.58827110389609,
+      "text": "evolutionary game theory  ️",
+      "url": "/mathematics/mathematical-models/game-theory/evolutionary-game-theory",
+      "fx": -163.5689938279918,
+      "fy": 174.9413082058992,
       "category": "mindmap"
     },
     {
-      "text": "evolutionary game theory  ️",
-      "url": "/mathematics/mathematical-models/game-theory/evolutionary-game-theory",
-      "fx": -205.1002438279918,
-      "fy": 174.9413082058992,
+      "text": "rational choice theory  ️",
+      "url": "/mathematics/mathematical-models/game-theory/rational-choice-theory",
+      "fx": -667.3580182044848,
+      "fy": 176.69147623747347,
+      "category": "mindmap"
+    },
+    {
+      "text": "Nash equilibrium  ️",
+      "url": "/mathematics/mathematical-models/game-theory/nash-equilibrium",
+      "fx": -394.76896908985304,
+      "fy": 177.75112679495294,
       "category": "mindmap"
     }
   ],
@@ -99,7 +106,7 @@
       "source": "basics",
       "target": "evolutionary game theory  ️",
       "curve": {
-        "x": -48.6316,
+        "x": -27.866,
         "y": 110.706
       }
     },
@@ -107,8 +114,16 @@
       "source": "basics",
       "target": "Nash equilibrium  ️",
       "curve": {
-        "x": -118.663,
-        "y": 52.5291
+        "x": -162.466,
+        "y": 112.111
+      }
+    },
+    {
+      "source": "basics",
+      "target": "rational choice theory  ️",
+      "curve": {
+        "x": -346.731,
+        "y": 71.8028
       }
     }
   ]

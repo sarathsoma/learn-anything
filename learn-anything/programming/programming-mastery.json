@@ -24,8 +24,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -139.09210965384466,
-      "fy": 325.44032117415395
+      "fx": -160.30047417480273,
+      "fy": 353.0483862939144
     }
   ],
   "subnodes": [
@@ -59,8 +59,8 @@
     {
       "text": "1. clean code: a handbook of agile software craftsmanship",
       "url": "https://www.goodreads.com/book/show/3735293-clean-code",
-      "fx": 16.90789034615534,
-      "fy": 254.94032117415395,
+      "fx": -4.30047417480273,
+      "fy": 251.5483862939144,
       "category": "non-free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -68,17 +68,26 @@
     {
       "text": "1. study path for clean code",
       "url": "https://github.com/joebew42/study-path",
-      "fx": 16.90789034615534,
-      "fy": 316.94032117415395,
+      "fx": -4.30047417480273,
+      "fy": 313.5483862939144,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. how I became a better programmer  ️",
+      "url": "http://jlongster.com/How-I-Became-Better-Programmer",
+      "fx": -4.30047417480273,
+      "fy": 353.5483862939144,
+      "category": "article",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. the pragmatic programmer: from journeyman to master",
       "url": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer",
-      "fx": 16.90789034615534,
-      "fy": 356.94032117415395,
+      "fx": -4.30047417480273,
+      "fy": 415.5483862939144,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -86,8 +95,8 @@
     {
       "text": "2. code complete",
       "url": "https://www.goodreads.com/book/show/4845.Code_Complete",
-      "fx": 16.90789034615534,
-      "fy": 418.94032117415395,
+      "fx": -4.30047417480273,
+      "fy": 477.5483862939144,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -114,8 +123,8 @@
       "source": "programming mastery",
       "target": "basics",
       "curve": {
-        "x": -14.5684,
-        "y": 239.832
+        "x": -25.1726,
+        "y": 253.636
       }
     }
   ]

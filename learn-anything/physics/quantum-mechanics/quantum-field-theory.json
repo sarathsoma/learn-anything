@@ -55,6 +55,13 @@
       "fx": -831.5329864193152,
       "fy": 89.45070067015513,
       "category": "mindmap"
+    },
+    {
+      "text": "fields  ️",
+      "url": "/physics/quantum-mechanics/quantum-field-theory/fields",
+      "fx": -955.8631046006484,
+      "fy": 92.13650823023511,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -78,10 +85,19 @@
       "parent": "talks"
     },
     {
+      "text": "1. introduction",
+      "url": "https://www.youtube.com/watch?v=FBeALt3rxEA",
+      "fx": 10.06661295550282,
+      "fy": -152.47074533048686,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. overview of QFT",
       "url": "https://www.youtube.com/watch?v=ATcrrzJFtBY&amp;app=desktop",
       "fx": 10.06661295550282,
-      "fy": -132.47074533048686,
+      "fy": -112.47074533048686,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -90,7 +106,7 @@
       "text": "1. David Tong’s lectures on QFT",
       "url": "http://www.damtp.cam.ac.uk/user/tong/qft.html",
       "fx": 10.06661295550282,
-      "fy": -92.47074533048686,
+      "fy": -72.47074533048686,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -99,7 +115,7 @@
       "text": "1. particles, fields and the future of physics",
       "url": "https://www.youtube.com/watch?v=gEKSpZPByD0&amp;t=4472s",
       "fx": 10.06661295550282,
-      "fy": -52.470745330486864,
+      "fy": -32.470745330486864,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -160,6 +176,14 @@
       "curve": {
         "x": -370.316,
         "y": 58.6465
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fields  ️",
+      "curve": {
+        "x": -502.133,
+        "y": 36.245
       }
     }
   ]

@@ -18,8 +18,15 @@
     {
       "text": "electric charge  ️",
       "url": "/physics/electromagnetism/electromagnetic-field/electric-charge",
-      "fx": -161.515625,
-      "fy": 154.91796875,
+      "fx": -163.173083563536,
+      "fy": 155.47045493784526,
+      "category": "mindmap"
+    },
+    {
+      "text": "electromagnetic tensor  ️",
+      "url": "/physics/electromagnetism/electromagnetic-field/electromagnetic-tensor",
+      "fx": 48.61276928639802,
+      "fy": 157.84299896145967,
       "category": "mindmap"
     }
   ],
@@ -56,8 +63,16 @@
       "source": "basics",
       "target": "electric charge  ️",
       "curve": {
-        "x": -72.8867,
-        "y": 70.8105
+        "x": -73.7154,
+        "y": 71.0867
+      }
+    },
+    {
+      "source": "basics",
+      "target": "electromagnetic tensor  ️",
+      "curve": {
+        "x": 53.1775,
+        "y": 72.2731
       }
     }
   ]

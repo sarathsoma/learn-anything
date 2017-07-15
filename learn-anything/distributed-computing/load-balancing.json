@@ -12,25 +12,32 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -51,
-      "fy": 9.564503205128233
+      "fx": -51.51282051282067,
+      "fy": 16.71394230769232
+    },
+    {
+      "text": "nginx  ️",
+      "url": "/programming/software-development/devops/nginx",
+      "fx": -142.27335858585866,
+      "fy": 160.0471511994948,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
-      "text": "1. explanation  ️",
-      "url": "https://www.nginx.com/resources/glossary/load-balancing/",
-      "fx": 112,
-      "fy": -11.435496794871767,
+      "text": "1. scaling a web service: load balancing  ️",
+      "url": "https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/",
+      "fx": 111.48717948717933,
+      "fy": -16.78605769230768,
       "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
+      "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. http load balancing with nginx",
       "url": "https://www.youtube.com/watch?v=SpL_hJNUNEI",
-      "fx": 112,
-      "fy": 30.564503205128233,
+      "fx": 111.48717948717933,
+      "fy": 50.21394230769232,
       "category": "video",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
@@ -41,8 +48,16 @@
       "source": "load balancing",
       "target": "basics",
       "curve": {
-        "x": -0.945312,
-        "y": 81.5147
+        "x": -1.20172,
+        "y": 85.0894
+      }
+    },
+    {
+      "source": "basics",
+      "target": "nginx  ️",
+      "curve": {
+        "x": -48.3803,
+        "y": 71.6666
       }
     }
   ]

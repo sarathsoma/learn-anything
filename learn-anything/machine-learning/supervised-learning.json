@@ -16,17 +16,24 @@
       "fy": -50.44752038043475
     },
     {
+      "text": "boosting  ️",
+      "url": "/machine-learning/supervised-learning/boosting",
+      "fx": -423.07683181899915,
+      "fy": 84.46401021052804,
+      "category": "mindmap"
+    },
+    {
       "text": "support vector machines  ️",
       "url": "/machine-learning/supervised-learning/support-vector-machines",
-      "fx": -306.6866234221601,
-      "fy": 84.92846394345838,
+      "fx": -261.90824127197266,
+      "fy": 84.92847061157227,
       "category": "mindmap"
     },
     {
       "text": "perceptrons  ️",
       "url": "/machine-learning/supervised-learning/perceptrons",
-      "fx": -1.881611563804654,
-      "fy": 86.75621936686645,
+      "fx": 38.20709419250488,
+      "fy": 86.7562255859375,
       "category": "mindmap"
     }
   ],
@@ -54,7 +61,7 @@
       "source": "basics",
       "target": "support vector machines  ️",
       "curve": {
-        "x": -73.1871,
+        "x": -50.7979,
         "y": 67.688
       }
     },
@@ -62,8 +69,16 @@
       "source": "basics",
       "target": "perceptrons  ️",
       "curve": {
-        "x": 50.2154,
+        "x": 70.2598,
         "y": 68.6019
+      }
+    },
+    {
+      "source": "basics",
+      "target": "boosting  ️",
+      "curve": {
+        "x": -186.945,
+        "y": 48.3933
       }
     }
   ]

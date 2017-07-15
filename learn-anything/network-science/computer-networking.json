@@ -73,6 +73,13 @@
       "category": "mindmap"
     },
     {
+      "text": "network traffic  ️",
+      "url": "/network-science/computer-networking/network-traffic",
+      "fx": -1268.596578271734,
+      "fy": 197.1326893637763,
+      "category": "mindmap"
+    },
+    {
       "text": "routing  ️",
       "url": "/network-science/computer-networking/routing",
       "fx": -1048.606843171296,
@@ -224,6 +231,14 @@
       "curve": {
         "x": -888.761,
         "y": 34.3025
+      }
+    },
+    {
+      "source": "basics",
+      "target": "network traffic  ️",
+      "curve": {
+        "x": -975.995,
+        "y": 1.9122
       }
     }
   ]

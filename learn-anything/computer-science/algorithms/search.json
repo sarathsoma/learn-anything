@@ -25,8 +25,15 @@
     {
       "text": "A* search  ️",
       "url": "/computer-science/algorithms/search/a-star",
-      "fx": -1018.6633955059416,
-      "fy": 166.9675852124193,
+      "fx": -1013.5357055664062,
+      "fy": 166.96758270263672,
+      "category": "mindmap"
+    },
+    {
+      "text": "minimax search  ️",
+      "url": "/computer-science/algorithms/search/minimax-search",
+      "fx": -1247.6703798436158,
+      "fy": 167.62016771367018,
       "category": "mindmap"
     },
     {
@@ -146,8 +153,16 @@
       "source": "basics",
       "target": "A* search  ️",
       "curve": {
-        "x": -623.336,
+        "x": -620.772,
         "y": 11.8177
+      }
+    },
+    {
+      "source": "basics",
+      "target": "minimax search  ️",
+      "curve": {
+        "x": -736.929,
+        "y": -4.38594
       }
     }
   ]

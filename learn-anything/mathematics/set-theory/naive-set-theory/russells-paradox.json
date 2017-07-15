@@ -12,16 +12,25 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 89.23828125,
-      "fy": -184.77734375
+      "fx": 87.99958881578948,
+      "fy": -177.0881990131578
     }
   ],
   "subnodes": [
     {
+      "text": "1. explanation  ️",
+      "url": "https://ncatlab.org/nlab/show/Russell%27s+paradox",
+      "fx": 243.99958881578948,
+      "fy": -216.5881990131578,
+      "category": "article",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. Barber &amp; Russel paradoxes",
       "url": "https://www.youtube.com/watch?v=FK3kifY-geM",
-      "fx": 245.23828125,
-      "fy": -204.27734375,
+      "fx": 243.99958881578948,
+      "fy": -176.5881990131578,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -29,8 +38,8 @@
     {
       "text": "2. why is Russel’s paradox such a problem?",
       "url": "https://www.reddit.com/r/math/comments/3ucrz5/why_is_russels_paradox_such_a_problem/cxdrgza/",
-      "fx": 245.23828125,
-      "fy": -164.27734375,
+      "fx": 243.99958881578948,
+      "fy": -136.5881990131578,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -41,8 +50,8 @@
       "source": "Russell’s paradox",
       "target": "basics",
       "curve": {
-        "x": -5.48633,
-        "y": 64.5469
+        "x": -6.10568,
+        "y": 68.3914
       }
     }
   ]

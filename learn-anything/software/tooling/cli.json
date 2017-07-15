@@ -35,8 +35,8 @@
     {
       "text": "find new cli tools",
       "url": "",
-      "fx": 765.2541289770305,
-      "fy": 1000.2363687723623
+      "fx": 730.2931914770305,
+      "fy": 1007.0996500223623
     }
   ],
   "subnodes": [
@@ -466,12 +466,11 @@
       "parent": "useful"
     },
     {
-      "text": "tmux",
+      "text": "tmux  ️",
       "note": "terminal multiplexer",
-      "url": "https://github.com/tmux/tmux",
       "fx": 1177.1064453125,
       "fy": -73.75404357910156,
-      "category": "github",
+      "category": "mindmap",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "useful"
     },
@@ -751,8 +750,8 @@
     {
       "text": "awesome command line",
       "url": "https://github.com/herrbischoff/awesome-command-line-apps",
-      "fx": 1014.2541289770311,
-      "fy": 971.7363687723623,
+      "fx": 979.2931914770311,
+      "fy": 978.5996500223623,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "find new cli tools"
@@ -760,8 +759,8 @@
     {
       "text": "awesome cli apps",
       "url": "https://github.com/aharris88/awesome-cli-apps",
-      "fx": 1014.2541289770311,
-      "fy": 1011.7363687723623,
+      "fx": 979.2931914770311,
+      "fy": 1018.5996500223623,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "find new cli tools"
@@ -769,8 +768,8 @@
     {
       "text": "awesome shell",
       "url": "https://github.com/alebcay/awesome-shell",
-      "fx": 1014.2541289770311,
-      "fy": 1051.7363687723623,
+      "fx": 979.2931914770311,
+      "fy": 1058.5996500223623,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "find new cli tools"
@@ -781,8 +780,8 @@
       "source": "find new cli tools",
       "target": "core utils",
       "curve": {
-        "x": -90.5213,
-        "y": -384.934
+        "x": -73.0408,
+        "y": -388.366
       }
     }
   ]

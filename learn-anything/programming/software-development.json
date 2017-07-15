@@ -88,57 +88,64 @@
     {
       "text": "software specifications  ️",
       "url": "/programming/software-development/software-specifications",
-      "fx": -1708.869873046875,
+      "fx": -1704.7423706054688,
       "fy": -63.781861305236816,
       "category": "mindmap"
     },
     {
       "text": "code refactoring  ️",
       "url": "/programming/software-development/code-refactoring",
-      "fx": -1930.9967346191406,
+      "fx": -1926.8722839355469,
       "fy": -60.52766704559326,
       "category": "mindmap"
     },
     {
       "text": "debugging  ️",
       "url": "/programming/software-development/debugging",
-      "fx": -2103.0977172851562,
+      "fx": -2098.9784545898438,
       "fy": -60.466476917266846,
       "category": "mindmap"
     },
     {
       "text": "documentation  ️",
       "url": "/programming/software-development/documentation",
-      "fx": -2592.6410189519725,
-      "fy": -58.415099303221155,
+      "fx": -2582.1234741210938,
+      "fy": -58.41509962081909,
       "category": "mindmap"
     },
     {
       "text": "software design  ️",
       "url": "/programming/software-development/software-design",
-      "fx": -2810.4588448660716,
-      "fy": -56.56163758116861,
+      "fx": -2800.167236328125,
+      "fy": -56.56163835525513,
       "category": "mindmap"
     },
     {
       "text": "dependency injections  ️",
       "url": "/programming/software-development/dependency-injections",
-      "fx": -3306.7104893071146,
-      "fy": -56.4172536333507,
+      "fx": -3294.2149658203125,
+      "fy": -56.41725444793701,
       "category": "mindmap"
     },
     {
       "text": "system administration  ️",
       "url": "/programming/software-development/system-administration",
-      "fx": -2375.1570176037117,
-      "fy": -56.16931632096089,
+      "fx": -2371.0614318847656,
+      "fy": -56.169315814971924,
       "category": "mindmap"
     },
     {
       "text": "formal methods  ️",
       "url": "/programming/software-development/formal-methods",
-      "fx": -3027.3091607103734,
-      "fy": -55.22979695544893,
+      "fx": -3017.1962280273438,
+      "fy": -55.229796409606934,
+      "category": "mindmap"
+    },
+    {
+      "text": "programming style  ️",
+      "url": "/programming/software-development/programming-style",
+      "fx": -3539.4827394366657,
+      "fy": -54.00941631535056,
       "category": "mindmap"
     }
   ],
@@ -264,7 +271,7 @@
       "source": "basics",
       "target": "software specifications  ️",
       "curve": {
-        "x": -1107.3,
+        "x": -1105.24,
         "y": -38.8016
       }
     },
@@ -272,7 +279,7 @@
       "source": "basics",
       "target": "code refactoring  ️",
       "curve": {
-        "x": -1480.1,
+        "x": -1478.04,
         "y": -26.4714
       }
     },
@@ -280,7 +287,7 @@
       "source": "basics",
       "target": "debugging  ️",
       "curve": {
-        "x": -1669.72,
+        "x": -1667.66,
         "y": -26.5111
       }
     },
@@ -288,7 +295,7 @@
       "source": "basics",
       "target": "system administration  ️",
       "curve": {
-        "x": -1688.65,
+        "x": -1686.6,
         "y": -50.9786
       }
     },
@@ -296,7 +303,7 @@
       "source": "basics",
       "target": "documentation  ️",
       "curve": {
-        "x": -1881.37,
+        "x": -1876.11,
         "y": -78.1086
       }
     },
@@ -304,7 +311,7 @@
       "source": "basics",
       "target": "software design  ️",
       "curve": {
-        "x": -2104.38,
+        "x": -2099.23,
         "y": -85.4497
       }
     },
@@ -312,7 +319,7 @@
       "source": "basics",
       "target": "formal methods  ️",
       "curve": {
-        "x": -2328.72,
+        "x": -2323.66,
         "y": -87.9447
       }
     },
@@ -320,8 +327,16 @@
       "source": "basics",
       "target": "dependency injections  ️",
       "curve": {
-        "x": -2364.42,
+        "x": -2358.17,
         "y": -83.8339
+      }
+    },
+    {
+      "source": "basics",
+      "target": "programming style  ️",
+      "curve": {
+        "x": -2644.43,
+        "y": -136.076
       }
     }
   ]

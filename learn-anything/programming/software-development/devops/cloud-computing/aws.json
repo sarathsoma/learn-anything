@@ -5,15 +5,15 @@
     {
       "text": "aws",
       "url": "http://www.wikiwand.com/en/Amazon_Web_Services",
-      "fx": -46.6435546875,
-      "fy": -82.05224609375,
+      "fx": -36.03582763671875,
+      "fy": -139.72162000868062,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 34.67735625876696,
-      "fy": 45.82584807474427
+      "fx": 53.25072662009518,
+      "fy": 23.382553803911037
     },
     {
       "text": "basics",
@@ -33,9 +33,18 @@
   "subnodes": [
     {
       "text": "",
+      "url": "https://aws.amazon.com/",
+      "fx": 127.96417236328125,
+      "fy": -165.72162000868062,
+      "category": "",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "aws"
+    },
+    {
+      "text": "",
       "url": "https://www.reddit.com/r/aws/",
-      "fx": 117.3564453125,
-      "fy": -88.05224609375,
+      "fx": 127.96417236328125,
+      "fy": -125.72162000868062,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "aws"
@@ -43,8 +52,8 @@
     {
       "text": "awesome",
       "url": "https://github.com/donnemartin/awesome-aws",
-      "fx": 117.3564453125,
-      "fy": -48.05224609375,
+      "fx": 127.96417236328125,
+      "fy": -85.72162000868062,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "aws"
@@ -52,16 +61,16 @@
     {
       "text": "use of formal methods at amazon web services",
       "url": "http://glat.info/pdf/formal-methods-amazon-2014-11.pdf",
-      "fx": 171.67735625876696,
-      "fy": 9.325848074744272,
+      "fx": 190.25072662009518,
+      "fy": -13.117446196088963,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "local aws cloud stack",
       "url": "https://github.com/atlassian/localstack",
-      "fx": 171.67735625876696,
-      "fy": 65.32584807474427,
+      "fx": 190.25072662009518,
+      "fy": 42.88255380391104,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -69,8 +78,8 @@
     {
       "text": "aws security primer  ️",
       "url": "https://cloudonaut.io/aws-security-primer/#fnref:1",
-      "fx": 171.67735625876696,
-      "fy": 105.32584807474427,
+      "fx": 190.25072662009518,
+      "fy": 82.88255380391104,
       "category": "article",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -89,16 +98,16 @@
       "source": "help",
       "target": "aws",
       "curve": {
-        "x": -33.9104,
-        "y": -62.6891
+        "x": -37.8932,
+        "y": -80.3021
       }
     },
     {
       "source": "aws",
       "target": "basics",
       "curve": {
-        "x": -18.0345,
-        "y": 136.417
+        "x": -23.3384,
+        "y": 165.252
       }
     },
     {

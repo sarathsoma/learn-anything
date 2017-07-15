@@ -5,23 +5,44 @@
     {
       "text": "computer programs",
       "url": "http://www.wikiwand.com/en/Computer_program",
-      "fx": 181.83412682006326,
-      "fy": -146.409731044088,
+      "fx": 123.87025963256315,
+      "fy": -100.73346151283806,
       "category": "wiki"
     },
     {
       "text": "processes",
       "url": "http://www.wikiwand.com/en/Process_(computing)",
-      "fx": 86.78531858035058,
-      "fy": -14.315516500707872,
+      "fx": 30.312835629211236,
+      "fy": 38.0930121451255,
       "category": "wiki"
+    },
+    {
+      "text": "control flow  ️",
+      "url": "/computer-science/computation/computer-programs/control-flow",
+      "fx": 228.63323645747323,
+      "fy": 40.59910634205045,
+      "category": "mindmap"
+    },
+    {
+      "text": "subroutines  ️",
+      "url": "/computer-science/computation/computer-programs/subroutines",
+      "fx": 424.7928293561622,
+      "fy": 42.96953514746224,
+      "category": "mindmap"
     },
     {
       "text": "environment variables",
       "url": "http://www.wikiwand.com/en/Environment_variable",
-      "fx": -67.189453125,
-      "fy": 116.8017578125,
+      "fx": -117.0325520833336,
+      "fy": 169.21028645833337,
       "category": "wiki"
+    },
+    {
+      "text": "call stack  ️",
+      "url": "/computer-science/computation/computer-programs/call-stack",
+      "fx": 433.3121693121693,
+      "fy": 184.6453373015873,
+      "category": "mindmap"
     }
   ],
   "subnodes": [],
@@ -30,16 +51,40 @@
       "source": "computer programs",
       "target": "processes",
       "curve": {
-        "x": -75.5244,
-        "y": 65.2971
+        "x": -74.7787,
+        "y": 68.6632
       }
     },
     {
       "source": "processes",
       "target": "environment variables",
       "curve": {
-        "x": -49.4874,
+        "x": -46.1727,
         "y": 65.5586
+      }
+    },
+    {
+      "source": "computer programs",
+      "target": "control flow  ️",
+      "curve": {
+        "x": 23.8815,
+        "y": 69.9163
+      }
+    },
+    {
+      "source": "computer programs",
+      "target": "subroutines  ️",
+      "curve": {
+        "x": 122.461,
+        "y": 71.1015
+      }
+    },
+    {
+      "source": "subroutines  ️",
+      "target": "call stack  ️",
+      "curve": {
+        "x": -9.49033,
+        "y": 70.0879
       }
     }
   ]

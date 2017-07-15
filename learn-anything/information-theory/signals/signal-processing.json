@@ -5,58 +5,32 @@
     {
       "text": "signal processing",
       "url": "http://www.wikiwand.com/en/Signal_processing",
-      "fx": 112.08670823991042,
-      "fy": -290.5127522421525,
+      "fx": 104.21029143879753,
+      "fy": -269.1636764052973,
       "category": "wiki"
     },
     {
       "text": "basics",
-      "note": "",
       "url": "",
       "fx": 153.0954751043762,
-      "fy": -140.0202494394618
+      "fy": -142.3975687753993
     },
     {
-      "text": "data compression  ️",
-      "url": "/information-theory/signals/signal-processing/data-compression",
-      "fx": -58.46283149719238,
-      "fy": -12.16576099395752,
-      "category": "mindmap"
-    },
-    {
-      "text": "compressed sensing  ️",
-      "url": "/information-theory/signals/signal-processing/compressed-sensing",
-      "fx": 200.55048076923003,
-      "fy": -12.07612179487171,
+      "text": "digital signal processing  ️",
+      "url": "/information-theory/signals/signal-processing/digital-signal-processing",
+      "fx": -64.9562524202251,
+      "fy": -17.903338507591457,
       "category": "mindmap"
     }
   ],
   "subnodes": [
     {
-      "text": "",
-      "url": "https://www.reddit.com/r/DSP/",
-      "fx": 416.0867082399104,
-      "fy": -297.5127522421525,
-      "category": "reddit",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "signal processing"
-    },
-    {
-      "text": "️",
-      "url": "https://dsp.stackexchange.com/",
-      "fx": 416.0867082399104,
-      "fy": -255.5127522421525,
-      "category": "stack exchange",
+      "text": "1. introduction",
+      "url": "https://www.youtube.com/watch?v=YmSvQe2FDKs",
+      "fx": 316.0954751043762,
+      "fy": -129.8975687753993,
+      "category": "video",
       "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "signal processing"
-    },
-    {
-      "text": "1. seeing circles, sines and signals",
-      "url": "https://jackschaedler.github.io/circles-sines-signals/",
-      "fx": 342.0954751043762,
-      "fy": -127.5202494394618,
-      "category": "interactive",
-      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
   ],
@@ -65,24 +39,16 @@
       "source": "signal processing",
       "target": "basics",
       "curve": {
-        "x": -11.4956,
-        "y": 73.9962
+        "x": -7.55739,
+        "y": 62.133
       }
     },
     {
       "source": "basics",
-      "target": "data compression  ️",
+      "target": "digital signal processing  ️",
       "curve": {
-        "x": -86.0292,
-        "y": 63.9272
-      }
-    },
-    {
-      "source": "basics",
-      "target": "compressed sensing  ️",
-      "curve": {
-        "x": 53.4775,
-        "y": 63.9721
+        "x": -58.0259,
+        "y": 62.9971
       }
     }
   ]

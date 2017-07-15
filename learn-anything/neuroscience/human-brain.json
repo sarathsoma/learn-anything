@@ -6,65 +6,85 @@
       "text": "human brain",
       "note": "",
       "url": "http://www.wikiwand.com/en/Human_brain",
-      "fx": 35.135041173481795,
-      "fy": -400.4515623131875,
+      "fx": 73.3616036734818,
+      "fy": -540.1791453649894,
       "category": "wiki"
     },
     {
-      "text": "help",
+      "text": "interesting",
       "url": "",
-      "fx": 315.4664135846581,
-      "fy": -273.3016566919893
+      "fx": 248.51325225830078,
+      "fy": -398.8360824584961
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 36.04379507477779,
-      "fy": -159.13473776286412
+      "fx": 124.93442007477779,
+      "fy": -204.22067526286412
     },
     {
       "text": "neurolinguistics  ️",
       "url": "/neuroscience/human-brain/neurolinguistics",
-      "fx": -566.3596888251388,
-      "fy": 10.615073545212454,
+      "fx": -691.1331263251388,
+      "fy": 12.048667295212681,
+      "category": "mindmap"
+    },
+    {
+      "text": "parts of the brain",
+      "url": "",
+      "fx": 146.30815408549756,
+      "fy": 15.564935064957126
+    },
+    {
+      "text": "neurotransmitters  ️",
+      "note": "are endogenous chemicals that enable neurotransmission  they transmit signals across a chemical synapse, such as a neuromuscular junction, from one neuron (nerve cell) to another \"target\" neuron, muscle cell, or gland cell  they are released from synaptic vesicles in synapses into the synaptic cleft, where they are received by receptors on the target cells  many neurotransmitters are synthesized from simple and plentiful precursors such as amino acids, which are readily available from the diet and only require a small number of biosynthetic steps for conversion  their exact numbers are unknown, but more than 100 chemical messengers have been uniquely identified",
+      "url": "/neuroscience/human-brain/neurotransmitters",
+      "fx": -118.64389963118538,
+      "fy": 13.263759559906589,
       "category": "mindmap"
     },
     {
       "text": "memory  ️",
       "note": "is the faculty of the mind by which information is encoded, stored, and retrieved  it is vital to experiences and related to limbic systems, it is the retention of information over time for the purpose of influencing future action  if we could not remember past events, we could not learn or develop language, relationships, nor personal identity  it is understood as an informational processing system with explicit and implicit functioning that is made up of a sensory processor, short-term (or working) memory, and long-term memory",
       "url": "/neuroscience/human-brain/memory",
-      "fx": -177.9795915585774,
-      "fy": 12.013297093480674,
-      "category": "mindmap"
-    },
-    {
-      "text": "addiction  ️",
-      "note": "is a brain disorder characterised by compulsive engagement in rewarding stimuli, despite adverse consequences  despite the involvement of a number of psychosocial factors, a biological process – one which is induced by repeated exposure to an addictive stimulus – is the core pathology that drives the development and maintenance of an addiction  the two properties that characterise all addictive stimuli are that they are   reinforcing (i.e., they  increase the likelihood that a person will seek repeated exposure to them)   and intrinsically rewarding (i.e., perceived as being positive or desirable)",
-      "fx": -3.0101206320836127,
-      "fy": 12.613398564514,
+      "fx": -302.75302905857734,
+      "fy": 13.446890843480901,
       "category": "mindmap"
     },
     {
       "text": "sleep  ️",
       "note": "is a naturally recurring state of mind and body characterised by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings  it occurs in repeating periods, in which the body alternates between two highly distinct modes known as non-REM and REM sleep  REM stands for \"rapid eye movement\"  during sleep, most systems are in an anabolic state, helping to restore the immune, nervous, skeletal, and muscular systems",
       "url": "/neuroscience/human-brain/sleep",
-      "fx": -337.90937015496604,
-      "fy": 13.190985279153324,
+      "fx": -462.6828076549659,
+      "fy": 14.624579029153551,
       "category": "mindmap"
     },
     {
-      "text": "cerebral cortex  ️",
-      "url": "/neuroscience/human-brain/cerebral-cortex",
-      "fx": -780.212143605163,
-      "fy": 14.401603987907038,
+      "text": "brainstem  ️",
+      "url": "/neuroscience/human-brain/brainstem",
+      "fx": -52.18695020675659,
+      "fy": 147.92142486572266,
       "category": "mindmap"
     },
     {
-      "text": "neurotransmitters  ️",
-      "note": "are endogenous chemicals that enable neurotransmission  they transmit signals across a chemical synapse, such as a neuromuscular junction, from one neuron (nerve cell) to another \"target\" neuron, muscle cell, or gland cell  they are released from synaptic vesicles in synapses into the synaptic cleft, where they are received by receptors on the target cells  many neurotransmitters are synthesized from simple and plentiful precursors such as amino acids, which are readily available from the diet and only require a small number of biosynthetic steps for conversion  their exact numbers are unknown, but more than 100 chemical messengers have been uniquely identified",
-      "url": "/neuroscience/human-brain/neurotransmitters",
-      "fx": 198.60863117867348,
-      "fy": 14.76810595075142,
+      "text": "cerebellum  ️",
+      "url": "/neuroscience/human-brain/cerebellum",
+      "fx": 112.93637466430664,
+      "fy": 148.2214698791504,
+      "category": "mindmap"
+    },
+    {
+      "text": "thalamus  ️",
+      "url": "/neuroscience/human-brain/thalamus",
+      "fx": 287.029541015625,
+      "fy": 149.56830596923828,
+      "category": "mindmap"
+    },
+    {
+      "text": "cerebrum  ️",
+      "url": "/neuroscience/human-brain/cerebrum",
+      "fx": 444.0256653992301,
+      "fy": 151.4091017110269,
       "category": "mindmap"
     }
   ],
@@ -72,17 +92,26 @@
     {
       "text": "how the brain is computing the mind  ️",
       "url": "https://www.edge.org/conversation/ed_boyden-how-the-brain-is-computing-the-mind",
-      "fx": 452.4664135846581,
-      "fy": -272.8016566919893,
+      "fx": 439.5132522583008,
+      "fy": -398.3360824584961,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "parent": "interesting"
+    },
+    {
+      "text": "1. brain explained",
+      "url": "https://www.youtube.com/watch?v=kMKc8nfPATI",
+      "fx": 280.9344200747778,
+      "fy": -300.7206752628641,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
     },
     {
       "text": "1. getting to know your brain",
       "url": "https://www.youtube.com/watch?v=vHrmiy4W9C0",
-      "fx": 192.0437950747778,
-      "fy": -167.63473776286412,
+      "fx": 280.9344200747778,
+      "fy": -260.7206752628641,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -90,76 +119,126 @@
     {
       "text": "1. secrets of the human brain",
       "url": "https://www.youtube.com/watch?v=Y_KXX0dLjg8",
-      "fx": 192.0437950747778,
-      "fy": -127.63473776286412,
+      "fx": 280.9344200747778,
+      "fy": -220.72067526286412,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. brain structures and their functions",
+      "url": "http://serendip.brynmawr.edu/bb/kinser/Structure1.html",
+      "fx": 280.9344200747778,
+      "fy": -180.72067526286412,
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. you are two",
+      "url": "https://www.youtube.com/watch?v=wfYbgdo8e-8",
+      "fx": 280.9344200747778,
+      "fy": -124.72067526286412,
+      "category": "video",
+      "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. what are you",
+      "url": "https://www.youtube.com/watch?v=JQVmkDUkZT4",
+      "fx": 280.9344200747778,
+      "fy": -84.72067526286412,
+      "category": "video",
+      "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
     }
   ],
   "connections": [
     {
-      "source": "help",
+      "source": "interesting",
       "target": "human brain",
       "curve": {
-        "x": -107.916,
-        "y": -62.325
+        "x": -55.3262,
+        "y": -69.4216
       }
     },
     {
       "source": "human brain",
       "target": "basics",
       "curve": {
-        "x": -27.0456,
-        "y": 119.408
-      }
-    },
-    {
-      "source": "basics",
-      "target": "cerebral cortex  ️",
-      "curve": {
-        "x": -422.588,
-        "y": 52.6457
+        "x": -1.71357,
+        "y": 166.729
       }
     },
     {
       "source": "basics",
       "target": "neurolinguistics  ️",
       "curve": {
-        "x": -273.702,
-        "y": 86.1249
+        "x": -441.831,
+        "y": 94.7909
       }
     },
     {
       "source": "basics",
       "target": "sleep  ️",
       "curve": {
-        "x": -175.727,
-        "y": 87.4129
+        "x": -329.52,
+        "y": 94.7743
       }
     },
     {
       "source": "basics",
       "target": "memory  ️",
       "curve": {
-        "x": -89.2617,
-        "y": 86.824
-      }
-    },
-    {
-      "source": "basics",
-      "target": "addiction  ️",
-      "curve": {
-        "x": 0.473042,
-        "y": 87.1241
+        "x": -215.855,
+        "y": 105.916
       }
     },
     {
       "source": "basics",
       "target": "neurotransmitters  ️",
       "curve": {
-        "x": 120.032,
-        "y": 88.2014
+        "x": -113.61,
+        "y": 111.794
+      }
+    },
+    {
+      "source": "basics",
+      "target": "parts of the brain",
+      "curve": {
+        "x": 25.39,
+        "y": 112.979
+      }
+    },
+    {
+      "source": "parts of the brain",
+      "target": "brainstem  ️",
+      "curve": {
+        "x": -115.248,
+        "y": 66.1782
+      }
+    },
+    {
+      "source": "parts of the brain",
+      "target": "cerebellum  ️",
+      "curve": {
+        "x": -23.1859,
+        "y": 67.5783
+      }
+    },
+    {
+      "source": "parts of the brain",
+      "target": "thalamus  ️",
+      "curve": {
+        "x": 75.3489,
+        "y": 63.9458
+      }
+    },
+    {
+      "source": "parts of the brain",
+      "target": "cerebrum  ️",
+      "curve": {
+        "x": 170.429,
+        "y": 66.7324
       }
     }
   ]

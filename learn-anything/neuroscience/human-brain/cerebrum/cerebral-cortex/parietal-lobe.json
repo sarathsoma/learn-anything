@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - neuroscience - human brain - cerebrum - cerebral cortex - parietal lobe",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "parietal lobe",
+      "url": "http://www.wikiwand.com/en/Parietal_lobe",
+      "fx": 108.6328125,
+      "fy": -93.3203125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 145,
+      "fy": 63
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. anatomy and functions of the frontal lobe",
+      "url": "https://www.youtube.com/watch?v=VW2VScHV7b4",
+      "fx": 308,
+      "fy": 63,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "parietal lobe",
+      "target": "basics",
+      "curve": {
+        "x": -3.56641,
+        "y": 77.4102
+      }
+    }
+  ]
+}

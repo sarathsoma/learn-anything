@@ -11,29 +11,36 @@
     {
       "text": "vim  ️",
       "url": "/software/tooling/text-editors/vim",
-      "fx": 365.4708054572187,
-      "fy": -74.7244885498771,
+      "fx": 361.00409350069697,
+      "fy": -112.61794416581921,
       "category": "mindmap"
     },
     {
-      "text": "text editor  ️",
+      "text": "text editors  ️",
       "url": "/software/tooling/text-editors",
-      "fx": 115.00665749252119,
+      "fx": 110.50665749252119,
       "fy": -18.417506235217616,
       "category": "mindmap"
     },
     {
       "text": "vs code  ️",
       "url": "/software/tooling/text-editors/vs-code",
-      "fx": 339.26665352778446,
-      "fy": 24.428817562573556,
+      "fx": 355.7832975495236,
+      "fy": 4.257848359674938,
       "category": "mindmap"
     },
     {
       "text": "karabiner  ️",
       "url": "/software/tooling/productivity/karabiner",
-      "fx": 518.5775337169521,
-      "fy": 124.03462405889275,
+      "fx": 496.3701481834089,
+      "fy": 76.84661272181927,
+      "category": "mindmap"
+    },
+    {
+      "text": "alfred  ️",
+      "url": "/software/tooling/productivity/alfred",
+      "fx": 521.098406159894,
+      "fy": 169.54854462504397,
       "category": "mindmap"
     },
     {
@@ -51,37 +58,52 @@
       "category": "mindmap"
     },
     {
-      "text": "alfred  ️",
-      "url": "/software/tooling/productivity/alfred",
-      "fx": 499.97865853658436,
-      "fy": 246.69512195121956,
-      "category": "mindmap"
+      "text": "typinator",
+      "url": "http://www.ergonis.com/products/typinator/",
+      "fx": 506.9525241074505,
+      "fy": 261.34331233497755
     },
     {
       "text": "tmux  ️",
       "url": "/software/tooling/productivity/tmux",
-      "fx": 425.0533997252776,
-      "fy": 388.7707760989011,
+      "fx": 406.93307355009426,
+      "fy": 350.0457833041052,
       "category": "mindmap"
     },
     {
-      "text": "tooling",
-      "url": "",
-      "fx": 234.0171797899045,
-      "fy": 392.2694554498519
+      "text": "tooling  ️",
+      "url": "/software/tooling/cli",
+      "fx": 220.0171797899045,
+      "fy": 392.2694554498519,
+      "category": "mindmap"
+    },
+    {
+      "text": "fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "fx": 416.44893867525695,
+      "fy": 447.5632679510446,
+      "category": "github"
+    },
+    {
+      "text": "messaging  ️",
+      "url": "/software/tooling/messaging",
+      "fx": 194.06296830726,
+      "fy": 533.0361757383237,
+      "category": "mindmap"
+    },
+    {
+      "text": "telegram  ️",
+      "url": "/software/tooling/messaging/telegram",
+      "fx": 408.9721790890263,
+      "fy": 563.4881011198945,
+      "category": "mindmap"
     },
     {
       "text": "slack  ️",
       "url": "/software/tooling/messaging/slack",
-      "fx": 446.00138644750314,
-      "fy": 494.3305789766871,
+      "fx": 362.8803135100238,
+      "fy": 668.4351185154997,
       "category": "mindmap"
-    },
-    {
-      "text": "messaging",
-      "url": "",
-      "fx": 207.56296830726,
-      "fy": 533.0361757383237
     }
   ],
   "subnodes": [
@@ -97,26 +119,26 @@
   ],
   "connections": [
     {
-      "source": "text editor  ️",
+      "source": "text editors  ️",
       "target": "vim  ️",
       "curve": {
-        "x": 103.232,
-        "y": -29.4035
+        "x": 103.249,
+        "y": -48.3502
       }
     },
     {
-      "source": "text editor  ️",
+      "source": "text editors  ️",
       "target": "vs code  ️",
       "curve": {
-        "x": 100.13,
-        "y": 20.1732
+        "x": 110.638,
+        "y": 10.0877
       }
     },
     {
-      "source": "text editor  ️",
+      "source": "text editors  ️",
       "target": "macOS  ️",
       "curve": {
-        "x": 80.8328,
+        "x": 83.0828,
         "y": 97.7039
       }
     },
@@ -124,74 +146,98 @@
       "source": "macOS  ️",
       "target": "karabiner  ️",
       "curve": {
-        "x": 112.203,
-        "y": -27.7278
+        "x": 101.099,
+        "y": -51.3218
       }
     },
     {
       "source": "macOS  ️",
       "target": "alfred  ️",
       "curve": {
-        "x": 94.4032,
-        "y": 33.6024
+        "x": 104.963,
+        "y": -4.97089
       }
     },
     {
-      "source": "text editor  ️",
+      "source": "text editors  ️",
       "target": "linux  ️",
       "curve": {
-        "x": -11.4245,
+        "x": -9.1745,
         "y": 97.8861
       }
     },
     {
       "source": "linux  ️",
-      "target": "tooling",
+      "target": "tooling  ️",
       "curve": {
-        "x": 48.9298,
+        "x": 41.9298,
         "y": 104.957
       }
     },
     {
       "source": "macOS  ️",
-      "target": "tooling",
+      "target": "tooling  ️",
       "curve": {
-        "x": -43.0775,
+        "x": -50.0775,
         "y": 105.14
       }
     },
     {
-      "source": "tooling",
+      "source": "tooling  ️",
       "target": "tmux  ️",
       "curve": {
-        "x": 98.7681,
-        "y": -0.49934
+        "x": 96.7079,
+        "y": -19.8618
       }
     },
     {
-      "source": "tooling",
-      "target": "messaging",
+      "source": "tooling  ️",
+      "target": "messaging  ️",
       "curve": {
-        "x": -3.72711,
+        "x": -3.47711,
         "y": 70.3834
       }
     },
     {
-      "source": "messaging",
+      "source": "messaging  ️",
       "target": "slack  ️",
       "curve": {
-        "x": 113.469,
-        "y": -18.1028
+        "x": 78.6585,
+        "y": 68.9495
       }
     },
     {
       "source": "development environment",
-      "target": "text editor  ️",
+      "target": "text editors  ️",
       "curve": {
-        "x": -2.73227,
+        "x": -4.98227,
         "y": 115.756
       },
       "text": "choose"
+    },
+    {
+      "source": "tooling  ️",
+      "target": "fzf",
+      "curve": {
+        "x": 95.4659,
+        "y": 28.8969
+      }
+    },
+    {
+      "source": "messaging  ️",
+      "target": "telegram  ️",
+      "curve": {
+        "x": 109.705,
+        "y": 16.476
+      }
+    },
+    {
+      "source": "macOS  ️",
+      "target": "typinator",
+      "curve": {
+        "x": 97.8901,
+        "y": 39.6765
+      }
     }
   ]
 }

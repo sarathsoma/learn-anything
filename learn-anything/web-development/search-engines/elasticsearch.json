@@ -5,15 +5,9 @@
     {
       "text": "Elasticsearch",
       "url": "http://www.wikiwand.com/en/Elasticsearch",
-      "fx": -167.0084457397461,
-      "fy": -182.87575721740723,
+      "fx": -150.84303220591153,
+      "fy": -99.4171106008659,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": -25.91828002299758,
-      "fy": -83.27849293871475
     },
     {
       "text": "basics",
@@ -24,13 +18,13 @@
   ],
   "subnodes": [
     {
-      "text": "awesome Elasticsearch",
+      "text": "awesome",
       "url": "https://github.com/dzharii/awesome-elasticsearch",
-      "fx": 115.08171997700242,
-      "fy": -70.77849293871475,
+      "fx": 110.15696779408847,
+      "fy": -85.4171106008659,
       "category": "github",
       "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
+      "parent": "Elasticsearch"
     },
     {
       "text": "1. the complete guide to the  ELK  stack   ️",
@@ -62,19 +56,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "Elasticsearch",
-      "curve": {
-        "x": -43.2951,
-        "y": -48.5486
-      }
-    },
-    {
       "source": "Elasticsearch",
       "target": "basics",
       "curve": {
-        "x": -6.08092,
-        "y": 135.646
+        "x": -14.1636,
+        "y": 93.9167
       }
     }
   ]

@@ -13,8 +13,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 913.9412029878595,
-      "fy": -495.1781411347566
+      "fx": 923.6496633537135,
+      "fy": -501.4281411347567
     },
     {
       "text": "basics",
@@ -180,8 +180,8 @@
     {
       "text": "project based learning",
       "url": "https://github.com/tuvttran/project-based-learning",
-      "fx": 1050.9412029878595,
-      "fy": -659.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -682.9281411347567,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -190,32 +190,32 @@
       "text": "enlight",
       "note": "learn to code by building projects",
       "url": "https://enlight.ml/",
-      "fx": 1050.9412029878595,
-      "fy": -619.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -642.9281411347567,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "technical development guide",
       "url": "https://www.google.com/about/careers/students/guide-to-technical-development.html",
-      "fx": 1050.9412029878595,
-      "fy": -585.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -608.9281411347567,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
       "text": "programming competency matrix",
       "url": "http://sijinjoseph.com/programmer-competency-matrix/",
-      "fx": 1050.9412029878595,
-      "fy": -551.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -574.9281411347567,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "learn to program",
       "url": "https://github.com/karlhorky/learn-to-program",
-      "fx": 1050.9412029878595,
-      "fy": -517.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -540.9281411347567,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -223,8 +223,8 @@
     {
       "text": "coding interview university",
       "url": "https://github.com/jwasham/coding-interview-university",
-      "fx": 1050.9412029878595,
-      "fy": -477.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -500.92814113475674,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -232,8 +232,8 @@
     {
       "text": "engineering blogs",
       "url": "https://github.com/kilimchoi/engineering-blogs",
-      "fx": 1050.9412029878595,
-      "fy": -437.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -460.92814113475674,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -241,16 +241,16 @@
     {
       "text": "how to be a programmer: short and personal summary",
       "url": "https://web.archive.org/web/20150912025917/http://samizdat.mines.edu/howto/HowToBeAProgrammer.html",
-      "fx": 1050.9412029878595,
-      "fy": -397.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -420.92814113475674,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
     {
       "text": "design and development guides",
       "url": "https://github.com/NARKOZ/guides",
-      "fx": 1050.9412029878595,
-      "fy": -341.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -364.92814113475674,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -258,9 +258,17 @@
     {
       "text": "Google’s development guide",
       "url": "https://www.google.com/about/careers/students/guide-to-technical-development.html",
-      "fx": 1050.9412029878595,
-      "fy": -301.6781411347566,
+      "fx": 1060.6496633537135,
+      "fy": -324.92814113475674,
       "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "free programming books",
+      "url": "http://breue.com/free_programming_books",
+      "fx": 1060.6496633537135,
+      "fy": -290.92814113475674,
+      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
     {
@@ -476,16 +484,16 @@
       "source": "help",
       "target": "programming",
       "curve": {
-        "x": -205.764,
-        "y": -119.147
+        "x": -210.618,
+        "y": -116.022
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -359.966,
-        "y": -186.159
+        "x": -355.112,
+        "y": -189.284
       }
     },
     {

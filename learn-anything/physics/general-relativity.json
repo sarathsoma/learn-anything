@@ -23,10 +23,10 @@
       "fy": 201.64627389987925
     },
     {
-      "text": "equivalence principle  ️",
-      "url": "/physics/general-relativity/equivalence-principle",
-      "fx": -400.96744791666674,
-      "fy": 347.0646701388889,
+      "text": "Einstein field equations  ️",
+      "url": "/physics/general-relativity/einstein-field-equations",
+      "fx": -626.2394587320574,
+      "fy": 374.54822069377997,
       "category": "mindmap"
     },
     {
@@ -34,6 +34,13 @@
       "url": "/physics/general-relativity/spacetime",
       "fx": -71.25781250000011,
       "fy": 377.2527613146551,
+      "category": "mindmap"
+    },
+    {
+      "text": "equivalence principle  ️",
+      "url": "/physics/general-relativity/equivalence-principle",
+      "fx": -337.6210937500001,
+      "fy": 378.9157986111112,
       "category": "mindmap"
     }
   ],
@@ -112,8 +119,16 @@
       "source": "basics",
       "target": "equivalence principle  ️",
       "curve": {
-        "x": -111.813,
-        "y": 72.7092
+        "x": -80.1398,
+        "y": 88.6348
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Einstein field equations  ️",
+      "curve": {
+        "x": -212.699,
+        "y": 87.701
       }
     }
   ]

@@ -23,10 +23,17 @@
       "fy": 190.56444820685783
     },
     {
+      "text": "Boltzmann machines  ️",
+      "url": "/machine-learning/neural-networks/recurrent-neural-networks/boltzmann-machines",
+      "fx": -369.7164248662669,
+      "fy": 401.96897035581117,
+      "category": "mindmap"
+    },
+    {
       "text": "Hopfield networks  ️",
       "url": "/machine-learning/neural-networks/recurrent-neural-networks/hopfield-networks",
-      "fx": -210.78815402293037,
-      "fy": 330.7783842769089,
+      "fx": -83.775152198113,
+      "fy": 402.59921000683596,
       "category": "mindmap"
     }
   ],
@@ -116,8 +123,16 @@
       "source": "basics",
       "target": "Hopfield networks  ️",
       "curve": {
-        "x": -72.4795,
-        "y": 70.107
+        "x": -8.973,
+        "y": 106.017
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Boltzmann machines  ️",
+      "curve": {
+        "x": -142.444,
+        "y": 105.702
       }
     }
   ]

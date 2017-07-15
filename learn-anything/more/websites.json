@@ -6,48 +6,56 @@
       "text": "websites",
       "note": "",
       "url": "https://github.com/learn-anything/websites",
-      "fx": 20.131695942080796,
-      "fy": -173.88349212849067,
+      "fx": 47.172018996807765,
+      "fy": -179.36325073242188,
       "category": "github"
     },
     {
       "text": "find new websites",
       "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
-      "fx": -51.285759663816634,
-      "fy": 125.19100888534314,
+      "fx": -95.26409884861528,
+      "fy": 186.59585984815078,
       "category": "github"
     }
   ],
   "subnodes": [
     {
+      "text": "arxiv",
+      "url": "https://arxiv.org",
+      "fx": 291.17201899680776,
+      "fy": -424.3632507324219,
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "websites"
+    },
+    {
       "text": "reddit",
       "url": "https://www.reddit.com",
-      "fx": 264.1316959420808,
-      "fy": -381.8834921284907,
+      "fx": 291.17201899680776,
+      "fy": -387.3632507324219,
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "websites"
     },
     {
       "text": "quora",
       "url": "https://www.quora.com/",
-      "fx": 264.1316959420808,
-      "fy": -344.8834921284907,
+      "fx": 291.17201899680776,
+      "fy": -350.3632507324219,
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "websites"
     },
     {
       "text": "lobsters",
       "url": "https://lobste.rs/",
-      "fx": 264.1316959420808,
-      "fy": -307.8834921284907,
+      "fx": 291.17201899680776,
+      "fy": -313.3632507324219,
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "websites"
     },
     {
       "text": "github",
       "url": "https://github.com/",
-      "fx": 264.1316959420808,
-      "fy": -270.8834921284907,
+      "fx": 291.17201899680776,
+      "fy": -276.3632507324219,
       "category": "github",
       "color": "rgba(252, 177, 20, 1.0)",
       "parent": "websites"
@@ -55,8 +63,8 @@
     {
       "text": "trending",
       "url": "https://github.com/trending",
-      "fx": 422.1316959420808,
-      "fy": -270.8834921284907,
+      "fx": 449.17201899680776,
+      "fy": -276.3632507324219,
       "category": "github",
       "color": "rgba(252, 177, 20, 1.0)",
       "parent": "github"
@@ -64,80 +72,88 @@
     {
       "text": "pinboard",
       "url": "https://pinboard.in/popular/",
-      "fx": 264.1316959420808,
-      "fy": -228.88349212849067,
+      "fx": 291.17201899680776,
+      "fy": -234.36325073242188,
       "color": "rgba(255, 254, 60, 1.0)",
       "parent": "websites"
     },
     {
       "text": "wiki search",
       "url": "http://wikisearch.surge.sh/machine%20learning",
-      "fx": 264.1316959420808,
-      "fy": -191.88349212849067,
+      "fx": 291.17201899680776,
+      "fy": -197.36325073242188,
       "color": "rgba(169, 255, 0, 1.0)",
       "parent": "websites"
     },
     {
       "text": "find lectures",
       "url": "https://www.findlectures.com/",
-      "fx": 264.1316959420808,
-      "fy": -154.88349212849067,
+      "fx": 291.17201899680776,
+      "fy": -160.36325073242188,
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "websites"
     },
     {
       "text": "hacker news",
       "url": "http://hckrnews.com/",
-      "fx": 264.1316959420808,
-      "fy": -117.88349212849067,
+      "fx": 291.17201899680776,
+      "fy": -123.36325073242188,
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "websites"
+    },
+    {
+      "text": "scholarpedia",
+      "url": "http://www.scholarpedia.org/article/Main_Page",
+      "fx": 291.17201899680776,
+      "fy": -86.36325073242188,
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "websites"
     },
     {
       "text": "product hunt",
       "url": "https://www.producthunt.com/",
-      "fx": 264.1316959420808,
-      "fy": -80.88349212849067,
+      "fx": 291.17201899680776,
+      "fy": -49.363250732421875,
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "websites"
     },
     {
       "text": "the economist",
       "url": "https://www.economist.com/",
-      "fx": 264.1316959420808,
-      "fy": -43.88349212849067,
+      "fx": 291.17201899680776,
+      "fy": -12.363250732421875,
       "color": "rgba(169, 255, 0, 1.0)",
       "parent": "websites"
     },
     {
       "text": "freecodecamp",
       "url": "http://freecodecamp.com",
-      "fx": 264.1316959420808,
-      "fy": -6.883492128490673,
+      "fx": 291.17201899680776,
+      "fy": 24.636749267578125,
       "color": "rgba(252, 177, 20, 1.0)",
       "parent": "websites"
     },
     {
       "text": "quanta magazine",
       "url": "https://www.quantamagazine.org/",
-      "fx": 264.1316959420808,
-      "fy": 30.116507871509327,
+      "fx": 291.17201899680776,
+      "fy": 61.636749267578125,
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "websites"
     },
     {
       "text": "search awesome lists",
       "url": "https://ankitgyawali.github.io/awesome-interface/#/search",
-      "fx": 264.1316959420808,
-      "fy": 67.11650787150933,
+      "fx": 291.17201899680776,
+      "fy": 98.63674926757812,
       "color": "rgba(255, 254, 60, 1.0)",
       "parent": "websites"
     },
     {
       "text": "internet is beautiful",
       "url": "https://www.reddit.com/r/InternetIsBeautiful/",
-      "fx": 257.71424033618337,
-      "fy": 139.19100888534314,
+      "fx": 213.73590115138472,
+      "fy": 200.59585984815078,
       "category": "reddit",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "find new websites"
@@ -148,8 +164,8 @@
       "source": "find new websites",
       "target": "websites",
       "curve": {
-        "x": 29.2088,
-        "y": -149.538
+        "x": 64.7181,
+        "y": -182.98
       }
     }
   ]

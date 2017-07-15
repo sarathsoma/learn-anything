@@ -3,6 +3,13 @@
   "tag": "",
   "nodes": [
     {
+      "text": "quilt",
+      "url": "https://github.com/quiltdata/quilt",
+      "fx": 140.75,
+      "fy": -146,
+      "category": "github"
+    },
+    {
       "text": "python libraries",
       "note": "",
       "url": "https://pypi.python.org/pypi",
@@ -241,6 +248,14 @@
       "curve": {
         "x": -157.63,
         "y": 90.5282
+      }
+    },
+    {
+      "source": "science",
+      "target": "quilt",
+      "curve": {
+        "x": 91.5051,
+        "y": -59.2973
       }
     }
   ]

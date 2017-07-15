@@ -19,8 +19,8 @@
     {
       "text": "Big Bang theory  ️",
       "url": "/space-science/astronomy/universe/big-bang",
-      "fx": 84.32251183749656,
-      "fy": 20.99941916553263,
+      "fx": 87.19064331054688,
+      "fy": 20.999418258666992,
       "category": "mindmap"
     },
     {
@@ -29,6 +29,13 @@
       "url": "/space-science/astronomy/universe/galaxies",
       "fx": 314.0953938764245,
       "fy": 21.89698979888408,
+      "category": "mindmap"
+    },
+    {
+      "text": "multiverse  ️",
+      "url": "/space-science/astronomy/universe/multiverse",
+      "fx": -78.94969876308795,
+      "fy": 24.26087267661535,
       "category": "mindmap"
     }
   ],
@@ -64,8 +71,16 @@
       "source": "basics",
       "target": "Big Bang theory  ️",
       "curve": {
-        "x": -64.7102,
+        "x": -63.2761,
         "y": 71.7981
+      }
+    },
+    {
+      "source": "basics",
+      "target": "multiverse  ️",
+      "curve": {
+        "x": -185.172,
+        "y": 52.811
       }
     }
   ]

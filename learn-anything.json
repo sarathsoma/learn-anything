@@ -12,8 +12,8 @@
       "text": "security",
       "note": "is the degree of resistance to, or protection from harm",
       "url": "/security",
-      "fx": -200.81221799262903,
-      "fy": -949.4395637692999
+      "fx": -200.813720703125,
+      "fy": -950.4681549072266
     },
     {
       "text": "natural language processing",
@@ -46,14 +46,14 @@
       "text": "cryptocurrency",
       "note": "is a digital asset designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency",
       "url": "/cryptocurrency",
-      "fx": -410.59774888748234,
-      "fy": -886.3430403578337
+      "fx": -410.6012382507324,
+      "fy": -885.3183898925781
     },
     {
       "text": "agriculture",
       "url": "/agriculture",
-      "fx": -836.9086501892434,
-      "fy": -875.2626976860358
+      "fx": -836.9106750488281,
+      "fy": -876.7754516601562
     },
     {
       "text": "games",
@@ -93,8 +93,8 @@
     {
       "text": "cognitive science",
       "url": "/cognitive-science",
-      "fx": -898.1814422607422,
-      "fy": -813.1345672607422
+      "fx": -898.1863861083984,
+      "fy": -811.6257629394531
     },
     {
       "text": "biology",
@@ -107,8 +107,8 @@
       "text": "anthropology",
       "note": "is the study of various aspects of humans within past and present societies",
       "url": "/anthropology",
-      "fx": -1103.3188781738281,
-      "fy": -798.3986968994141
+      "fx": -1103.321792602539,
+      "fy": -799.4238433837891
     },
     {
       "text": "entrepreneurship",
@@ -156,8 +156,8 @@
       "text": "marketing",
       "note": "is the study and management of exchange relationships",
       "url": "/marketing",
-      "fx": -1118.8588757989532,
-      "fy": -735.2953339346213
+      "fx": -1118.8604431152344,
+      "fy": -734.2741546630859
     },
     {
       "text": "chemistry",
@@ -381,6 +381,12 @@
       "url": "/journalism",
       "fx": -1055.6675488234591,
       "fy": -441.39851961896784
+    },
+    {
+      "text": "systems theory",
+      "url": "/systems-theory",
+      "fx": 110.65617937029833,
+      "fy": -437.8065470502994
     }
   ],
   "subnodes": [],
@@ -525,8 +531,8 @@
       "source": "marketing",
       "target": "psychology",
       "curve": {
-        "x": 137.986,
-        "y": 11.0381
+        "x": 137.987,
+        "y": 10.5275
       }
     },
     {
@@ -541,8 +547,8 @@
       "source": "cryptocurrency",
       "target": "economics",
       "curve": {
-        "x": 50.55,
-        "y": 50.8871
+        "x": 50.5517,
+        "y": 50.3748
       }
     },
     {
@@ -557,8 +563,8 @@
       "source": "cryptocurrency",
       "target": "cryptography",
       "curve": {
-        "x": 122.274,
-        "y": 15.8082
+        "x": 122.276,
+        "y": 15.2959
       }
     },
     {
@@ -581,8 +587,8 @@
       "source": "security",
       "target": "cryptography",
       "curve": {
-        "x": 38.8808,
-        "y": 47.3566
+        "x": 38.8816,
+        "y": 47.8709
       }
     },
     {
@@ -653,8 +659,8 @@
       "source": "anthropology",
       "target": "psychology",
       "curve": {
-        "x": 121.966,
-        "y": 42.5902
+        "x": 121.967,
+        "y": 43.1028
       }
     },
     {
@@ -765,8 +771,8 @@
       "source": "infrastructure",
       "target": "engineering",
       "curve": {
-        "x": 47.8832,
-        "y": -80.7006
+        "x": 64.7953,
+        "y": -78.0814
       }
     },
     {
@@ -861,8 +867,8 @@
       "source": "cognitive science",
       "target": "psychology",
       "curve": {
-        "x": 18.1478,
-        "y": 49.9581
+        "x": 18.1503,
+        "y": 49.2037
       }
     },
     {
@@ -886,7 +892,7 @@
       "target": "anthropology",
       "curve": {
         "x": -125.74,
-        "y": 17.2216
+        "y": 17.4654
       }
     },
     {
@@ -895,6 +901,14 @@
       "curve": {
         "x": 12.3089,
         "y": -49.9288
+      }
+    },
+    {
+      "source": "control systems",
+      "target": "systems theory",
+      "curve": {
+        "x": -24.9915,
+        "y": 49.1518
       }
     }
   ]

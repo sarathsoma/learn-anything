@@ -12,8 +12,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -1.391372096994587,
-      "fy": 78.12754012978144
+      "fx": -7.880443135246082,
+      "fy": 71.4783768784153
     },
     {
       "text": "neutrino oscillations  ️",
@@ -27,8 +27,8 @@
     {
       "text": "1. what is a neutrino",
       "url": "https://www.youtube.com/watch?v=lAAmAbJvvJg",
-      "fx": 154.6086279030054,
-      "fy": 69.62754012978144,
+      "fx": 148.11955686475392,
+      "fy": 11.978376878415304,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -36,10 +36,28 @@
     {
       "text": "1. why neutrinos matter",
       "url": "https://www.youtube.com/watch?v=nkydJXigkRE",
-      "fx": 154.6086279030054,
-      "fy": 109.62754012978144,
+      "fx": 148.11955686475392,
+      "fy": 51.978376878415304,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. neutrinos: nature’s identity thieves",
+      "url": "https://www.youtube.com/watch?v=RGv-pcKRf6Q",
+      "fx": 148.11955686475392,
+      "fy": 91.9783768784153,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. neutrino nobel prize",
+      "url": "https://www.youtube.com/watch?v=XQHw7qQrpf0",
+      "fx": 148.11955686475392,
+      "fy": 153.9783768784153,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }
   ],
@@ -48,16 +66,16 @@
       "source": "neutrino",
       "target": "basics",
       "curve": {
-        "x": -2.00429,
-        "y": 63.3381
+        "x": -5.24883,
+        "y": 60.0135
       }
     },
     {
       "source": "basics",
       "target": "neutrino oscillations  ️",
       "curve": {
-        "x": -45.1467,
-        "y": 64.5151
+        "x": -41.9022,
+        "y": 67.8397
       }
     }
   ]

@@ -1,0 +1,55 @@
+{
+  "title": "learn anything - computer science - computation - computer programs - subroutines",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "subroutines",
+      "url": "http://www.wikiwand.com/en/Subroutine",
+      "fx": 183.90234375,
+      "fy": -177.5078125,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 221.28140699080723,
+      "fy": -45.669785450203904
+    },
+    {
+      "text": "tail call",
+      "url": "http://www.wikiwand.com/en/Tail_call",
+      "fx": 116.7556191510696,
+      "fy": 82.40512721423795,
+      "category": "wiki"
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. example of subroutine invocation in AVR assembly",
+      "url": "https://www.youtube.com/watch?v=5WenymqHm2M",
+      "fx": 384.2814069908072,
+      "fy": -45.669785450203904,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "subroutines",
+      "target": "basics",
+      "curve": {
+        "x": -2.06047,
+        "y": 65.169
+      }
+    },
+    {
+      "source": "basics",
+      "target": "tail call",
+      "curve": {
+        "x": -44.0129,
+        "y": 64.7875
+      }
+    }
+  ]
+}

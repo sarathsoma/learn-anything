@@ -6,28 +6,29 @@
       "text": "web crawlers",
       "note": "",
       "url": "http://www.wikiwand.com/en/Web_crawler",
-      "fx": -94.33984375,
-      "fy": -92.5703125,
+      "fx": -128.7338986280488,
+      "fy": -96.57755335365857,
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 66.64434070121956,
-      "fy": 19.53744283536588
     },
     {
       "text": "gain",
       "url": "https://github.com/gaojiuli/gain",
-      "fx": -215.86503988630102,
-      "fy": 57.58397327159372,
+      "fx": -227.41039049605695,
+      "fy": 78.13656473500839,
+      "category": "github"
+    },
+    {
+      "text": "sukhoi",
+      "url": "https://github.com/iogf/sukhoi",
+      "fx": 56.50770547945194,
+      "fy": 78.1528253424658,
       "category": "github"
     },
     {
       "text": "creeper",
       "url": "https://github.com/wspl/creeper",
-      "fx": -87.76337037435394,
-      "fy": 152.83375288800505,
+      "fx": -100.1014039109391,
+      "fy": 78.34632910751736,
       "category": "github"
     }
   ],
@@ -35,45 +36,45 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/scrapinghub/",
-      "fx": 178.66015625,
-      "fy": -78.5703125,
+      "fx": 144.2661013719512,
+      "fy": -102.57755335365857,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "web crawlers"
     },
     {
-      "text": "awesome crawler",
+      "text": "awesome",
       "url": "https://github.com/BruceDone/awesome-crawler",
-      "fx": 203.64434070121956,
-      "fy": 31.03744283536588,
+      "fx": 144.2661013719512,
+      "fy": -62.57755335365857,
       "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "web crawlers"
     }
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "web crawlers",
-      "curve": {
-        "x": -55.4921,
-        "y": -54.8038
-      }
-    },
-    {
       "source": "web crawlers",
       "target": "creeper",
       "curve": {
-        "x": -13.4618,
-        "y": 122.702
+        "x": -2.43379,
+        "y": 87.4619
       }
     },
     {
       "source": "web crawlers",
       "target": "gain",
       "curve": {
-        "x": -85.2626,
-        "y": 75.0771
+        "x": -73.8382,
+        "y": 87.357
+      }
+    },
+    {
+      "source": "web crawlers",
+      "target": "sukhoi",
+      "curve": {
+        "x": 70.8708,
+        "y": 87.3652
       }
     }
   ]

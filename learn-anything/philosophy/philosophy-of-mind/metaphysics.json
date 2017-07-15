@@ -14,6 +14,20 @@
       "url": "",
       "fx": -196.7578125,
       "fy": -128.5234375
+    },
+    {
+      "text": "ontology  ️",
+      "url": "/philosophy/philosophy-of-mind/metaphysics/ontology",
+      "fx": -355.9671401977539,
+      "fy": -6.905747890472412,
+      "category": "mindmap"
+    },
+    {
+      "text": "emergence  ️",
+      "url": "/philosophy/philosophy-of-mind/metaphysics/emergence",
+      "fx": -202.30371093749977,
+      "fy": -4.1689453125,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
@@ -52,6 +66,22 @@
       "curve": {
         "x": -3.93555,
         "y": 72.7051
+      }
+    },
+    {
+      "source": "basics",
+      "target": "ontology  ️",
+      "curve": {
+        "x": -74.6046,
+        "y": 60.8088
+      }
+    },
+    {
+      "source": "basics",
+      "target": "emergence  ️",
+      "curve": {
+        "x": 8.22705,
+        "y": 62.1772
       }
     }
   ]

@@ -5,32 +5,73 @@
     {
       "text": "categories",
       "url": "http://www.wikiwand.com/en/Category_(mathematics)",
-      "fx": -73.80078125,
-      "fy": -129.15625,
+      "fx": -89.30242598684208,
+      "fy": -159.52014802631578,
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -40.74363227739741,
-      "fy": -7.6680757705480005
+      "fx": -58.22724010148795,
+      "fy": -40.82926825995111
+    },
+    {
+      "text": "enriched categories  ️",
+      "url": "/mathematics/category-theory/categories/enriched-categories",
+      "fx": 20.77700915892774,
+      "fy": 135.34408055985557,
+      "category": "mindmap"
     },
     {
       "text": "topos theory  ️",
       "url": "/mathematics/category-theory/categories/topos-theory",
-      "fx": -181.26941094166568,
-      "fy": 118.51951688483575,
+      "fx": -371.4727592468262,
+      "fy": 137.4557876586914,
+      "category": "mindmap"
+    },
+    {
+      "text": "morphisms  ️",
+      "url": "/mathematics/category-theory/categories/morphisms",
+      "fx": -168.3370761871338,
+      "fy": 137.81269073486328,
       "category": "mindmap"
     }
   ],
   "subnodes": [
     {
+      "text": "1. introduction  ️",
+      "url": "https://ncatlab.org/nlab/show/category",
+      "fx": 104.77275989851205,
+      "fy": -91.3292682599511,
+      "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. explanation",
       "url": "https://www.youtube.com/watch?v=p54Hd7AmVFU",
-      "fx": 115.25636772260259,
-      "fy": 3.8319242294519995,
+      "fx": 104.77275989851205,
+      "fy": -49.32926825995111,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. objects  ️",
+      "url": "https://ncatlab.org/nlab/show/object",
+      "fx": 104.77275989851205,
+      "fy": -7.329268259951107,
+      "category": "article",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "2. cat  ️",
+      "url": "https://ncatlab.org/nlab/show/Cat",
+      "fx": 104.77275989851205,
+      "fy": 34.67073174004889,
+      "category": "article",
+      "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     }
   ],
@@ -39,16 +80,32 @@
       "source": "categories",
       "target": "basics",
       "curve": {
-        "x": 0.278574,
-        "y": 59.4941
+        "x": -0.712408,
+        "y": 58.0955
       }
     },
     {
       "source": "basics",
       "target": "topos theory  ️",
       "curve": {
-        "x": -71.7629,
-        "y": 63.0938
+        "x": -158.123,
+        "y": 89.1426
+      }
+    },
+    {
+      "source": "basics",
+      "target": "morphisms  ️",
+      "curve": {
+        "x": -43.5549,
+        "y": 89.321
+      }
+    },
+    {
+      "source": "basics",
+      "target": "enriched categories  ️",
+      "curve": {
+        "x": 55.9619,
+        "y": 94.7887
       }
     }
   ]

@@ -22,7 +22,7 @@
       "text": "goodreads",
       "url": "https://www.goodreads.com/",
       "fx": 99.43720536482158,
-      "fy": 49.04235967987859,
+      "fy": 32.04235967987859,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "find new books"
     },
@@ -30,8 +30,16 @@
       "text": "free programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "fx": 99.43720536482158,
-      "fy": 83.04235967987859,
+      "fy": 66.04235967987859,
       "category": "github",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "find new books"
+    },
+    {
+      "text": "free programming books 2",
+      "url": "http://breue.com/free_programming_books",
+      "fx": 99.43720536482158,
+      "fy": 106.04235967987859,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "find new books"
     },
@@ -39,7 +47,7 @@
       "text": "mind expanding books",
       "url": "https://github.com/hackerkid/Mind-Expanding-Books",
       "fx": 99.43720536482158,
-      "fy": 123.04235967987859,
+      "fy": 140.0423596798786,
       "category": "github",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "find new books"
@@ -48,7 +56,7 @@
       "text": "awesome fantasy",
       "url": "https://github.com/RichardLitt/awesome-fantasy",
       "fx": 99.43720536482158,
-      "fy": 163.0423596798786,
+      "fy": 180.0423596798786,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "find new books"
@@ -57,7 +65,7 @@
       "text": "awesome scifi",
       "url": "https://github.com/sindresorhus/awesome-scifi",
       "fx": 99.43720536482158,
-      "fy": 203.0423596798786,
+      "fy": 220.0423596798786,
       "category": "github",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "find new books"
@@ -66,7 +74,7 @@
       "text": "kooba",
       "url": "http://kooba.run/",
       "fx": 99.43720536482158,
-      "fy": 243.0423596798786,
+      "fy": 260.0423596798786,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "find new books"
     }

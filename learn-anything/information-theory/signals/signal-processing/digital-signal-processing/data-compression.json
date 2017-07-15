@@ -1,5 +1,5 @@
 {
-  "title": "learn anything - information theory - signals - signal processing - data compression",
+  "title": "learn anything - information theory - signals - signal processing - digital signal processing - data compression",
   "tag": "",
   "nodes": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "text": "JPEG  ️",
-      "url": "/information-theory/signals/signal-processing/data-compression/jpeg",
-      "fx": -296.4359056122447,
+      "url": "/information-theory/signals/signal-processing/digital-signal-processing/data-compression/jpeg",
+      "fx": -295.4359056122447,
       "fy": 262.1783322704083,
       "category": "mindmap"
     },
@@ -102,7 +102,7 @@
       "source": "lossy compression",
       "target": "JPEG  ️",
       "curve": {
-        "x": -40.9168,
+        "x": -40.4168,
         "y": 59.7917
       }
     },

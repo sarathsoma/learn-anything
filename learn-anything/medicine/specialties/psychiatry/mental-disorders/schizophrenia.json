@@ -18,8 +18,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 113.2890625,
-      "fy": 79.03125
+      "fx": 94.92909663865544,
+      "fy": 99.04339548319342
     }
   ],
   "subnodes": [
@@ -42,10 +42,19 @@
       "parent": "interesting"
     },
     {
+      "text": "1. schizophrenia explained",
+      "url": "https://www.youtube.com/watch?v=nEnklxGAmak",
+      "fx": 249.92909663865544,
+      "fy": 48.54339548319342,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. schizophrenia &amp; dissociative disorders",
       "url": "https://www.youtube.com/watch?v=uxktavpRdzU",
-      "fx": 269.2890625,
-      "fy": 48.53125,
+      "fx": 249.92909663865544,
+      "fy": 88.54339548319342,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -53,8 +62,8 @@
     {
       "text": "1. schizophrenia is more than just ‘hearing voices’",
       "url": "https://www.reddit.com/r/videos/comments/5929r9/anderson_cooper_tries_a_schizophrenia_simulator/d955td6/",
-      "fx": 269.2890625,
-      "fy": 110.53125,
+      "fx": 249.92909663865544,
+      "fy": 150.54339548319342,
       "category": "reddit",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -65,8 +74,8 @@
       "source": "schizophrenia",
       "target": "basics",
       "curve": {
-        "x": -2.91797,
-        "y": 120.334
+        "x": -12.098,
+        "y": 130.34
       }
     },
     {

@@ -3,6 +3,12 @@
   "tag": "",
   "nodes": [
     {
+      "text": "help",
+      "url": "",
+      "fx": 907.1105547374846,
+      "fy": -500.20698720745804
+    },
+    {
       "text": "languages",
       "url": "http://www.wikiwand.com/en/Language",
       "fx": 364.9820763910983,
@@ -10,10 +16,10 @@
       "category": "wiki"
     },
     {
-      "text": "help",
+      "text": "interesting",
       "url": "",
-      "fx": 937.2160234874846,
-      "fy": -470.06245595745804
+      "fx": 1115.501162406726,
+      "fy": -403.7106923812475
     },
     {
       "text": "russian  ️",
@@ -186,6 +192,23 @@
   ],
   "subnodes": [
     {
+      "text": "clozemaster",
+      "url": "https://www.clozemaster.com/",
+      "fx": 1044.1105547374846,
+      "fy": -505.70698720745804,
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "language learning resources",
+      "url": "https://www.reddit.com/r/languagelearning/comments/5grr6e/language_learning_resources_900_gb_and_much_more/",
+      "fx": 1044.1105547374846,
+      "fy": -471.70698720745804,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "",
       "url": "https://www.reddit.com/r/languagelearning/",
       "fx": 584.9820763910983,
@@ -195,21 +218,13 @@
       "parent": "languages"
     },
     {
-      "text": "clozemaster",
-      "url": "https://www.clozemaster.com/",
-      "fx": 1074.2160234874846,
-      "fy": -475.56245595745804,
+      "text": "language explained",
+      "url": "https://www.youtube.com/watch?v=SIOQgY1tqrU",
+      "fx": 1306.501162406726,
+      "fy": -392.2106923812475,
+      "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "language learning resources",
-      "url": "https://www.reddit.com/r/languagelearning/comments/5grr6e/language_learning_resources_900_gb_and_much_more/",
-      "fx": 1074.2160234874846,
-      "fy": -441.56245595745804,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "parent": "interesting"
     }
   ],
   "connections": [
@@ -345,8 +360,8 @@
       "source": "help",
       "target": "languages",
       "curve": {
-        "x": -275,
-        "y": 39.7384
+        "x": -259.947,
+        "y": 54.8107
       }
     },
     {
@@ -411,6 +426,14 @@
       "curve": {
         "x": -1076.18,
         "y": 85.2212
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -142.755,
+        "y": -40.7533
       }
     }
   ]

@@ -5,29 +5,36 @@
     {
       "text": "elementary particles",
       "url": "http://www.wikiwand.com/en/Elementary_particle",
-      "fx": 68.70703125,
+      "fx": 61.098418445121865,
       "fy": -55.42578125,
       "category": "wiki"
     },
     {
-      "text": "neutrino  ️",
+      "text": "neutrinos  ️",
       "url": "/physics/particle-physics/elementary-particles/neutrino",
-      "fx": 30.970703125,
-      "fy": 92.90451388888886,
+      "fx": 28.800891804245225,
+      "fy": 94.81157462002096,
       "category": "mindmap"
     },
     {
-      "text": "Higgs boson  ️",
-      "url": "/physics/particle-physics/elementary-particles/higgs-boson",
-      "fx": 202.9781411696623,
-      "fy": 93.66523905569176,
+      "text": "leptons  ️",
+      "url": "/physics/particle-physics/elementary-particles/leptons",
+      "fx": -115.38518622073792,
+      "fy": 95.7388505025126,
       "category": "mindmap"
     },
     {
       "text": "quarks  ️",
       "url": "/physics/particle-physics/elementary-particles/quarks",
-      "fx": 405.4752808743085,
+      "fx": 399.18290174694994,
       "fy": 96.28179465364798,
+      "category": "mindmap"
+    },
+    {
+      "text": "Higgs boson  ️",
+      "url": "/physics/particle-physics/elementary-particles/higgs-boson",
+      "fx": 192.71133692437922,
+      "fy": 96.49542773493704,
       "category": "mindmap"
     }
   ],
@@ -37,24 +44,32 @@
       "source": "elementary particles",
       "target": "Higgs boson  ️",
       "curve": {
-        "x": 50.8855,
-        "y": 74.5456
+        "x": 49.5564,
+        "y": 75.9607
       }
     },
     {
       "source": "elementary particles",
-      "target": "neutrino  ️",
+      "target": "neutrinos  ️",
       "curve": {
-        "x": -52.6182,
-        "y": 72.9151
+        "x": -49.8988,
+        "y": 73.8686
       }
     },
     {
       "source": "elementary particles",
       "target": "quarks  ️",
       "curve": {
-        "x": 166.06,
+        "x": 166.718,
         "y": 73.5556
+      }
+    },
+    {
+      "source": "elementary particles",
+      "target": "leptons  ️",
+      "curve": {
+        "x": -143.555,
+        "y": 64.1837
       }
     }
   ]

@@ -19,6 +19,15 @@
   ],
   "subnodes": [
     {
+      "text": "awesome",
+      "url": "https://github.com/steve-vincent/awesome-decentralized",
+      "fx": 176.5,
+      "fy": 12,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "peer to peer"
+    },
+    {
       "text": "state of peer-to-peer (p2p) communication across network address translators (NATs)",
       "url": "https://tools.ietf.org/html/rfc5128",
       "fx": 156.53850364239747,

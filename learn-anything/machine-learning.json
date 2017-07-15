@@ -39,8 +39,8 @@
     {
       "text": "supervised learning  ️",
       "url": "/machine-learning/supervised-learning",
-      "fx": -1684.212660185838,
-      "fy": -194.24692569785498,
+      "fx": -1682.6531372070312,
+      "fy": -194.2469253540039,
       "category": "mindmap"
     },
     {
@@ -61,8 +61,8 @@
     {
       "text": "hyperparameter optimisation  ️",
       "url": "/machine-learning/hyperparameter-optimisation",
-      "fx": -2022.3003998753636,
-      "fy": -191.97402324816585,
+      "fx": -2016.7643432617188,
+      "fy": -191.9740333557129,
       "category": "mindmap"
     },
     {
@@ -82,8 +82,15 @@
     {
       "text": "multi-task learning  ️",
       "url": "/machine-learning/multi-task-learning",
-      "fx": -2262.3690423545595,
-      "fy": -188.8460347877376,
+      "fx": -2256.8535766601562,
+      "fy": -188.84603881835938,
+      "category": "mindmap"
+    },
+    {
+      "text": "ensemble learning  ️",
+      "url": "/machine-learning/ensemble-learning",
+      "fx": -2496.951573573444,
+      "fy": -186.93288805997463,
       "category": "mindmap"
     },
     {
@@ -714,7 +721,7 @@
       "source": "basics",
       "target": "supervised learning  ️",
       "curve": {
-        "x": -1169.62,
+        "x": -1168.84,
         "y": 86.4309
       }
     },
@@ -722,7 +729,7 @@
       "source": "basics",
       "target": "hyperparameter optimisation  ️",
       "curve": {
-        "x": -1382.65,
+        "x": -1379.88,
         "y": 90.1686
       }
     },
@@ -730,8 +737,16 @@
       "source": "basics",
       "target": "multi-task learning  ️",
       "curve": {
-        "x": -1526.67,
+        "x": -1523.91,
         "y": 27.2578
+      }
+    },
+    {
+      "source": "basics",
+      "target": "ensemble learning  ️",
+      "curve": {
+        "x": -1851.94,
+        "y": 81.5895
       }
     }
   ]

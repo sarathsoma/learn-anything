@@ -124,22 +124,29 @@
     {
       "text": "money  ️",
       "url": "/economics/money",
-      "fx": -2774.37761682501,
-      "fy": -236.49041993482183,
+      "fx": -2767.9981079101562,
+      "fy": -236.49042129516602,
       "category": "mindmap"
     },
     {
       "text": "development economics  ️",
       "url": "/economics/development-economics",
-      "fx": -3098.816162109375,
+      "fx": -3093.1218872070312,
       "fy": -234.30681228637695,
       "category": "mindmap"
     },
     {
       "text": "inflation  ️",
       "url": "/economics/inflation",
-      "fx": -3250.9282499762517,
-      "fy": -230.03551136363706,
+      "fx": -3245.2147216796875,
+      "fy": -230.03551483154297,
+      "category": "mindmap"
+    },
+    {
+      "text": "economic models  ️",
+      "url": "/economics/economic-models",
+      "fx": -3502.2378961734157,
+      "fy": -228.4019015330192,
       "category": "mindmap"
     },
     {
@@ -371,7 +378,7 @@
       "source": "basics",
       "target": "money  ️",
       "curve": {
-        "x": -1997.61,
+        "x": -1994.42,
         "y": -45.3458
       }
     },
@@ -379,7 +386,7 @@
       "source": "basics",
       "target": "development economics  ️",
       "curve": {
-        "x": -1885.8,
+        "x": -1882.95,
         "y": -92.6409
       }
     },
@@ -387,8 +394,16 @@
       "source": "basics",
       "target": "inflation  ️",
       "curve": {
-        "x": -2311.88,
+        "x": -2309.02,
         "y": -47.5231
+      }
+    },
+    {
+      "source": "basics",
+      "target": "economic models  ️",
+      "curve": {
+        "x": -2446.96,
+        "y": -63.0463
       }
     }
   ]

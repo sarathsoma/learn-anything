@@ -1,0 +1,58 @@
+{
+  "title": "learn anything - physics - space",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "space",
+      "url": "http://www.wikiwand.com/en/Space",
+      "fx": 40.24192428588867,
+      "fy": -100.58897089958191,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 43.5537109375,
+      "fy": 32
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. what is space",
+      "url": "https://www.youtube.com/watch?v=5JMyOvf_z9k",
+      "fx": 206.5537109375,
+      "fy": 2.5,
+      "category": "video",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. what is something",
+      "url": "https://www.youtube.com/watch?v=X9otDixAtFw",
+      "fx": 206.5537109375,
+      "fy": 44.5,
+      "category": "video",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. empty space is not empty",
+      "url": "https://www.youtube.com/watch?v=J3xLuZNKhlY",
+      "fx": 206.5537109375,
+      "fy": 86.5,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "space",
+      "target": "basics",
+      "curve": {
+        "x": -5.5941,
+        "y": 65.5445
+      }
+    }
+  ]
+}

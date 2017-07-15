@@ -13,16 +13,23 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -12.194661458333371,
-      "fy": -75.11328125
+      "fx": -8.466167861059034,
+      "fy": -94.81680274906017
+    },
+    {
+      "text": "numerical integration  ️",
+      "url": "/mathematics/analysis/numerical-analysis/numerical-integration",
+      "fx": -172.71944020206763,
+      "fy": 33.603611078477456,
+      "category": "mindmap"
     }
   ],
   "subnodes": [
     {
       "text": "1. introduction by Stanford",
       "url": "https://www.youtube.com/watch?v=dkT8yuI2d50&amp;list=PLiblimOYZzCe-Db8QrClczmyhX0YC25n0",
-      "fx": 143.80533854166663,
-      "fy": -83.61328125,
+      "fx": 147.53383213894097,
+      "fy": -103.31680274906017,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -30,8 +37,8 @@
     {
       "text": "1. theoretical numerical analysis",
       "url": "http://www.springer.com/gp/book/9781441904577",
-      "fx": 143.80533854166663,
-      "fy": -43.61328125,
+      "fx": 147.53383213894097,
+      "fy": -63.31680274906017,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -42,8 +49,16 @@
       "source": "numerical analysis",
       "target": "basics",
       "curve": {
-        "x": -3.95475,
-        "y": 79.1348
+        "x": -2.0905,
+        "y": 69.283
+      }
+    },
+    {
+      "source": "basics",
+      "target": "numerical integration  ️",
+      "curve": {
+        "x": -49.6266,
+        "y": 64.2102
       }
     }
   ]

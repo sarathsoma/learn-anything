@@ -45,8 +45,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -265.97392902312504,
-      "fy": -138.15915093793626
+      "fx": -272.26433850588364,
+      "fy": -128.30933951552254
     },
     {
       "text": "talks",
@@ -231,10 +231,19 @@
       "parent": "articles"
     },
     {
+      "text": "1. deep learning made simple  ️",
+      "url": "https://blog.vivekpanyam.com/deep-learning-made-simple-part-1/",
+      "fx": -83.26433850588364,
+      "fy": -434.30933951552254,
+      "category": "article",
+      "color": "rgba(255, 254, 60, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "1. deep learning in a nutshell  ️",
       "url": "http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/",
-      "fx": -76.97392902312504,
-      "fy": -402.15915093793626,
+      "fx": -83.26433850588364,
+      "fy": -392.30933951552254,
       "category": "article",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
@@ -243,8 +252,8 @@
       "text": "1. deep learning",
       "note": "one of the best introductions to the field, assumes you have the mathematical background to follow it",
       "url": "http://www.deeplearningbook.org",
-      "fx": -76.97392902312504,
-      "fy": -360.15915093793626,
+      "fx": -83.26433850588364,
+      "fy": -350.30933951552254,
       "category": "free book",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
@@ -252,8 +261,8 @@
     {
       "text": "1. foundations for deep learning",
       "url": "https://github.com/pauli-space/foundations_for_deep_learning",
-      "fx": -76.97392902312504,
-      "fy": -318.15915093793626,
+      "fx": -83.26433850588364,
+      "fy": -308.30933951552254,
       "category": "github",
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
@@ -261,8 +270,8 @@
     {
       "text": "1. deep reinforcement learning",
       "url": "http://rll.berkeley.edu/deeprlcourse/",
-      "fx": -76.97392902312504,
-      "fy": -251.15915093793626,
+      "fx": -83.26433850588364,
+      "fy": -241.30933951552254,
       "category": "",
       "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
@@ -270,8 +279,8 @@
     {
       "text": "1. designing, visualising and understanding deep neural networks",
       "url": "https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks",
-      "fx": -76.97392902312504,
-      "fy": -184.15915093793626,
+      "fx": -83.26433850588364,
+      "fy": -174.30933951552254,
       "category": "",
       "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
@@ -279,8 +288,8 @@
     {
       "text": "1. practical deep learning for coders",
       "url": "http://course.fast.ai/",
-      "fx": -76.97392902312504,
-      "fy": -92.15915093793626,
+      "fx": -83.26433850588364,
+      "fy": -82.30933951552254,
       "category": "",
       "color": "rgba(169, 255, 0, 1.0)",
       "parent": "basics"
@@ -288,8 +297,8 @@
     {
       "text": "1. learn TensorFlow and deep learning, without a Ph.D",
       "url": "https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd",
-      "fx": -76.97392902312504,
-      "fy": -25.15915093793626,
+      "fx": -83.26433850588364,
+      "fy": -15.309339515522538,
       "category": "",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
@@ -297,8 +306,8 @@
     {
       "text": "1. creative applications of deep learning with tensorflow",
       "url": "https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info",
-      "fx": -76.97392902312504,
-      "fy": 41.84084906206374,
+      "fx": -83.26433850588364,
+      "fy": 51.69066048447746,
       "category": "",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
@@ -306,8 +315,8 @@
     {
       "text": "1. grokking deep learning",
       "url": "https://www.manning.com/books/grokking-deep-learning",
-      "fx": -76.97392902312504,
-      "fy": 108.84084906206374,
+      "fx": -83.26433850588364,
+      "fy": 118.69066048447746,
       "category": "non-free book",
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
@@ -315,10 +324,19 @@
     {
       "text": "1. tutorial on deep learning",
       "url": "http://ai.stanford.edu/~quocle/tutorial1.pdf",
-      "fx": -76.97392902312504,
-      "fy": 150.84084906206374,
+      "fx": -83.26433850588364,
+      "fy": 160.69066048447746,
       "category": "paper",
       "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. deep neural nets",
+      "url": "https://www.youtube.com/watch?v=VrMHA3yX_QI&amp;list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&amp;index=13",
+      "fx": -83.26433850588364,
+      "fy": 202.69066048447746,
+      "category": "video",
+      "color": "rgba(169, 255, 0, 1.0)",
       "parent": "basics"
     },
     {
@@ -354,8 +372,8 @@
       "source": "deep learning",
       "target": "basics",
       "curve": {
-        "x": -48.6313,
-        "y": 471.053
+        "x": -51.7765,
+        "y": 475.978
       }
     },
     {
@@ -410,8 +428,8 @@
       "source": "basics",
       "target": "transfer learning  ️",
       "curve": {
-        "x": -106.243,
-        "y": 135.501
+        "x": -103.098,
+        "y": 130.576
       }
     },
     {
