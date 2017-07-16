@@ -68,7 +68,7 @@
       "url": "https://0x00sec.org/",
       "fx": 183.39888580752086,
       "fy": -179.89650479504763,
-      "category": "",
+      "category": "chat",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -146,7 +146,7 @@
       "url": "https://github.com/RPISEC/MBE",
       "fx": 105.84430017605644,
       "fy": 310.1868948063384,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }

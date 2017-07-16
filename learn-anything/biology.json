@@ -193,7 +193,7 @@
       "url": "https://www.youtube.com/watch?v=NNnIGh9g6fA&amp;list=PL150326949691B199",
       "fx": 226.128189599483,
       "fy": 79.74204618863035,
-      "category": "",
+      "category": "course",
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },
@@ -202,7 +202,7 @@
       "url": "https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-5",
       "fx": 226.128189599483,
       "fy": 146.74204618863035,
-      "category": "",
+      "category": "course",
       "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },

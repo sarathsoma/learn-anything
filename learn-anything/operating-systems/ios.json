@@ -453,7 +453,7 @@
       "url": "https://designcode.io/iosdesign",
       "fx": 362.49068298339853,
       "fy": -396.08630142211916,
-      "category": "",
+      "category": "course",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
@@ -543,7 +543,7 @@
       "url": "https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120",
       "fx": 92.60461956521749,
       "fy": 59.08101222826082,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },

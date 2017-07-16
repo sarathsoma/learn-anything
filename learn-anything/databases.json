@@ -91,9 +91,18 @@
       "text": "1. databases from Stanford",
       "url": "https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about",
       "fx": 203.8905893445741,
-      "fy": -176.4086332104127,
-      "category": "",
+      "fy": -196.4086332104127,
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. gate lectures",
+      "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_Ic_9b4PcKmlae41cyxEefot",
+      "fx": 203.8905893445741,
+      "fy": -156.4086332104127,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],

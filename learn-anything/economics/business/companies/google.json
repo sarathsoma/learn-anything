@@ -24,7 +24,7 @@
     {
       "text": "privacy issues",
       "url": "",
-      "fx": 344.93454188978444,
+      "fx": 342.06344813978444,
       "fy": -68.79130723610672
     },
     {
@@ -55,8 +55,8 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 427.2888823297176,
-      "fy": 182.5019866838487
+      "fx": 427.4568510797176,
+      "fy": 192.6738616838487
     },
     {
       "text": "nest labs",
@@ -89,10 +89,28 @@
   ],
   "subnodes": [
     {
+      "text": "17: by 2030, you’ll be living in a world that’s run by google  ️",
+      "url": "https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/",
+      "fx": 581.0634481397844,
+      "fy": -206.29130723610672,
+      "category": "article",
+      "color": "rgba(83, 201, 255, 1.0)",
+      "parent": "privacy issues"
+    },
+    {
+      "text": "17: google changed a major privacy policy, and no one really noticed  ️",
+      "url": "http://www.slate.com/blogs/future_tense/2016/10/21/google_changed_a_major_privacy_policy_and_no_one_really_noticed.html",
+      "fx": 581.0634481397844,
+      "fy": -139.29130723610672,
+      "category": "article",
+      "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "privacy issues"
+    },
+    {
       "text": "how does google search collect info about you",
       "url": "https://www.reddit.com/r/privacy/comments/6hbjq5/how_does_google_search_collect_info_about_you_if/",
-      "fx": 583.9345418897844,
-      "fy": -126.79130723610672,
+      "fx": 581.0634481397844,
+      "fy": -47.29130723610672,
       "category": "reddit",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "privacy issues"
@@ -100,8 +118,8 @@
     {
       "text": "It is possible that all the information could be made available to the authorities - Eric Schmidt",
       "url": "https://www.reddit.com/r/privacy/comments/6hzqj4/google_not_gchq_is_the_truly_chilling_spy_network/dj2x3zl/",
-      "fx": 583.9345418897844,
-      "fy": -59.79130723610672,
+      "fx": 581.0634481397844,
+      "fy": 19.708692763893282,
       "category": "reddit",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "privacy issues"
@@ -109,8 +127,8 @@
     {
       "text": "google developers blog  ️",
       "url": "https://developers.googleblog.com/",
-      "fx": 626.2888823297176,
-      "fy": 195.0019866838487,
+      "fx": 626.4568510797176,
+      "fy": 205.1738616838487,
       "category": "blog",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "interesting"
@@ -121,7 +139,7 @@
       "source": "privacy issues",
       "target": "google",
       "curve": {
-        "x": -72.5591,
+        "x": -71.1236,
         "y": -71.0477
       }
     },
@@ -209,8 +227,8 @@
       "source": "interesting",
       "target": "privacy issues",
       "curve": {
-        "x": -31.1772,
-        "y": -125.647
+        "x": -32.6967,
+        "y": -130.733
       }
     }
   ]

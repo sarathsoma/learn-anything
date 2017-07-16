@@ -64,7 +64,7 @@
       "url": "https://university.mongodb.com/courses/M101P/about",
       "fx": 38.4453125,
       "fy": -16.09375,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }

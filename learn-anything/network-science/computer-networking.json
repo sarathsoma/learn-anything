@@ -5,22 +5,22 @@
     {
       "text": "computer networking",
       "url": "http://www.wikiwand.com/en/Computer_network",
-      "fx": 123.14740371704102,
-      "fy": -365.03221893310547,
+      "fx": 168.46380996704102,
+      "fy": -435.22753143310547,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 293.56687927246094,
-      "fy": -221.7576446533203
+      "fx": 368.11766052246094,
+      "fy": -287.0935821533203
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 202.97899044261248,
-      "fy": 5.20695960521698
+      "fx": 187.42039669261248,
+      "fy": -10.78913414478302
     },
     {
       "text": "software-defined networking  ️",
@@ -91,8 +91,8 @@
     {
       "text": "️",
       "url": "https://networkengineering.stackexchange.com/",
-      "fx": 443.147403717041,
-      "fy": -351.03221893310547,
+      "fx": 488.463809967041,
+      "fy": -421.22753143310547,
       "category": "stack exchange",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "computer networking"
@@ -100,8 +100,8 @@
     {
       "text": "awesome network analysis",
       "url": "https://github.com/briatte/awesome-network-analysis",
-      "fx": 430.56687927246094,
-      "fy": -282.7576446533203,
+      "fx": 505.11766052246094,
+      "fy": -348.0935821533203,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -109,8 +109,8 @@
     {
       "text": "collection of tools developed by other researchers in the Computer Science area to process network traces",
       "url": "https://github.com/caesar0301/awesome-pcaptools",
-      "fx": 430.56687927246094,
-      "fy": -242.7576446533203,
+      "fx": 505.11766052246094,
+      "fy": -308.0935821533203,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -118,8 +118,8 @@
     {
       "text": "what happens when",
       "url": "https://github.com/alex/what-happens-when",
-      "fx": 430.56687927246094,
-      "fy": -137.7576446533203,
+      "fx": 505.11766052246094,
+      "fy": -203.0935821533203,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -127,17 +127,26 @@
     {
       "text": "1. network protocols for anyone who knows a programming language  ️",
       "url": "https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147",
-      "fx": 384.9789904426125,
-      "fy": -67.29304039478302,
+      "fx": 369.4203966926125,
+      "fy": -114.28913414478302,
       "category": "article",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
     {
+      "text": "1. computer networking and solutions",
+      "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_If_GCGDEOYensUC5Ur-L9MR",
+      "fx": 369.4203966926125,
+      "fy": -30.28913414478302,
+      "category": "video",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
       "text": "2. beej's guide to network programming",
       "url": "http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html",
-      "fx": 384.9789904426125,
-      "fy": 16.70695960521698,
+      "fx": 369.4203966926125,
+      "fy": 31.71086585521698,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -145,8 +154,8 @@
     {
       "text": "2. an introduction to computer networks",
       "url": "http://intronetworks.cs.luc.edu/current/html/",
-      "fx": 384.9789904426125,
-      "fy": 78.21095740795135,
+      "fx": 369.4203966926125,
+      "fy": 93.71086585521698,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -157,88 +166,88 @@
       "source": "help",
       "target": "computer networking",
       "curve": {
-        "x": -39.4597,
-        "y": -70.3873
+        "x": -54.0769,
+        "y": -72.817
       }
     },
     {
       "source": "computer networking",
       "target": "basics",
       "curve": {
-        "x": 6.1658,
-        "y": 185.119
+        "x": -24.2717,
+        "y": 212.219
       }
     },
     {
       "source": "basics",
       "target": "protocols  ️",
       "curve": {
-        "x": -220.221,
-        "y": 90.1002
+        "x": -212.442,
+        "y": 98.0982
       }
     },
     {
       "source": "basics",
       "target": "software-defined networking  ️",
       "curve": {
-        "x": -87.0178,
-        "y": 90.336
+        "x": -79.2385,
+        "y": 98.334
       }
     },
     {
       "source": "basics",
       "target": "peer to peer  ️",
       "curve": {
-        "x": -357.967,
-        "y": 74.9877
+        "x": -350.188,
+        "y": 82.9857
       }
     },
     {
       "source": "basics",
       "target": "internet of things  ️",
       "curve": {
-        "x": 53.2081,
-        "y": 90.3823
+        "x": 60.9874,
+        "y": 98.3803
       }
     },
     {
       "source": "basics",
       "target": "internet  ️",
       "curve": {
-        "x": -482.571,
-        "y": 63.9714
+        "x": -474.792,
+        "y": 71.9694
       }
     },
     {
       "source": "basics",
       "target": "proxy server  ️",
       "curve": {
-        "x": -551.822,
-        "y": 23.2824
+        "x": -544.043,
+        "y": 31.2804
       }
     },
     {
       "source": "basics",
       "target": "emails  ️",
       "curve": {
-        "x": -751.549,
-        "y": 23.249
+        "x": -743.77,
+        "y": 31.247
       }
     },
     {
       "source": "basics",
       "target": "routing  ️",
       "curve": {
-        "x": -888.761,
-        "y": 34.3025
+        "x": -880.982,
+        "y": 42.3005
       }
     },
     {
       "source": "basics",
       "target": "network traffic  ️",
       "curve": {
-        "x": -975.995,
-        "y": 1.9122
+        "x": -968.216,
+        "y": 9.91025
       }
     }
   ]

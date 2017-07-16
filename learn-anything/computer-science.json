@@ -85,15 +85,22 @@
     {
       "text": "recursion  ️",
       "url": "/computer-science/recursion",
-      "fx": -740.930084745763,
-      "fy": -232.43365995762701,
+      "fx": -737.4726867675781,
+      "fy": -232.43364715576172,
       "category": "mindmap"
     },
     {
       "text": "program analysis  ️",
       "url": "/computer-science/program-analysis",
-      "fx": -973.2771819526623,
-      "fy": -231.1894415680474,
+      "fx": -966.6029052734375,
+      "fy": -231.18944549560547,
+      "category": "mindmap"
+    },
+    {
+      "text": "automata theory  ️",
+      "url": "/computer-science/automata-theory",
+      "fx": -1189.683948863636,
+      "fy": -228.35179924242425,
       "category": "mindmap"
     }
   ],
@@ -201,7 +208,7 @@
       "url": "https://cs50.harvard.edu/weeks",
       "fx": 861.7246768793616,
       "fy": -553.5472540266063,
-      "category": "",
+      "category": "course",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     },
@@ -238,7 +245,7 @@
       "url": "https://www.coursera.org/learn/build-a-computer",
       "fx": 861.7246768793616,
       "fy": -411.5472540266063,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
@@ -337,7 +344,7 @@
       "source": "basics",
       "target": "recursion  ️",
       "curve": {
-        "x": -971.039,
+        "x": -969.31,
         "y": 53.2795
       }
     },
@@ -345,8 +352,16 @@
       "source": "basics",
       "target": "program analysis  ️",
       "curve": {
-        "x": -1108.05,
+        "x": -1104.71,
         "y": 47.5073
+      }
+    },
+    {
+      "source": "basics",
+      "target": "automata theory  ️",
+      "curve": {
+        "x": -1179.14,
+        "y": -35.4875
       }
     }
   ]

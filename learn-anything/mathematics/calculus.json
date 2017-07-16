@@ -193,7 +193,7 @@
       "url": "https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/",
       "fx": 224.48682503314956,
       "fy": 143.90133116549305,
-      "category": "",
+      "category": "course",
       "color": "rgba(169, 255, 0, 1.0)",
       "parent": "basics"
     },
@@ -202,7 +202,7 @@
       "url": "https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/index.htm",
       "fx": 224.48682503314956,
       "fy": 185.90133116549305,
-      "category": "",
+      "category": "course",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }

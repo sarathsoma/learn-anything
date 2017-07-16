@@ -120,7 +120,7 @@
       "url": "https://www.udacity.com/course/introduction-to-virtual-reality--ud1012",
       "fx": 210.31734195520755,
       "fy": 156.1074585530293,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -129,7 +129,7 @@
       "url": "http://learn.vrdev.school/p/vive-developer-mini",
       "fx": 210.31734195520755,
       "fy": 196.1074585530293,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },

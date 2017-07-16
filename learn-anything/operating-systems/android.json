@@ -160,7 +160,7 @@
       "url": "https://www.udacity.com/course/android-development-for-beginners--ud837",
       "fx": 109.30522004372096,
       "fy": 281.0157697213127,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
@@ -169,7 +169,7 @@
       "url": "https://www.udacity.com/course/android-basics-multiscreen-apps--ud839",
       "fx": 109.30522004372096,
       "fy": 343.0157697213127,
-      "category": "",
+      "category": "course",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
     },
@@ -178,7 +178,7 @@
       "url": "https://www.udacity.com/course/developing-android-apps--ud853",
       "fx": 109.30522004372096,
       "fy": 405.0157697213127,
-      "category": "",
+      "category": "course",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
@@ -187,7 +187,7 @@
       "url": "https://www.udacity.com/course/advanced-android-app-development--ud855",
       "fx": 109.30522004372096,
       "fy": 467.0157697213127,
-      "category": "",
+      "category": "course",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     }

@@ -32,20 +32,21 @@
       "text": "invading privacy",
       "note": "If you don’t pay for the product, you are the product  Don’t confuse privacy with secrecy. I know what you do in the bathroom, but you still close the door. That’s because you want privacy, not secrecy.   it’s really pretty scary just how much data there exists on you and how it can possibly be used against you",
       "url": "",
-      "fx": -186.61729491454162,
-      "fy": -105.08010108396365
+      "fx": -197.63850027168428,
+      "fy": -107.8319147000351
     },
     {
-      "text": "google",
-      "url": "",
-      "fx": -37.843413294326524,
-      "fy": -9.569471423637992
+      "text": "google  ️",
+      "url": "/economics/business/companies/google",
+      "fx": -51.843413294326524,
+      "fy": -9.569471423637992,
+      "category": "mindmap"
     },
     {
       "text": "duckduckgo",
       "url": "https://duckduckgo.com/",
-      "fx": 336.2651320772818,
-      "fy": 103.5528694851323
+      "fx": 356.0161086397818,
+      "fy": 117.21079359227508
     },
     {
       "text": "facebook  ️",
@@ -228,21 +229,13 @@
       "parent": "basics"
     },
     {
-      "text": "17: by 2030, you’ll be living in a world that’s run by google  ️",
-      "url": "https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/",
-      "fx": 122.15658670567348,
-      "fy": -37.06947142363799,
-      "category": "article",
+      "text": "It is possible that all the information could be made available to the authorities - Eric Schmidt",
+      "url": "https://www.reddit.com/r/privacy/comments/6hzqj4/google_not_gchq_is_the_truly_chilling_spy_network/dj2x3zl/",
+      "fx": 137.15658670567348,
+      "fy": -17.569471423637992,
+      "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "google"
-    },
-    {
-      "text": "17: google changed a major privacy policy, and no one really noticed",
-      "url": "http://www.slate.com/blogs/future_tense/2016/10/21/google_changed_a_major_privacy_policy_and_no_one_really_noticed.html",
-      "fx": 122.15658670567348,
-      "fy": 24.930528576362008,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "google"
+      "parent": "google  ️"
     },
     {
       "text": "17: get your loved ones off Facebook  ️",
@@ -309,24 +302,24 @@
       "source": "invading privacy",
       "target": "facebook  ️",
       "curve": {
-        "x": 13.4132,
-        "y": 147.052
+        "x": 18.9238,
+        "y": 148.428
       }
     },
     {
       "source": "invading privacy",
-      "target": "google",
+      "target": "google  ️",
       "curve": {
-        "x": 48.1369,
-        "y": 47.7552
+        "x": 46.6475,
+        "y": 49.1311
       }
     },
     {
-      "source": "google",
+      "source": "google  ️",
       "target": "duckduckgo",
       "curve": {
-        "x": 110.822,
-        "y": 93.3407
+        "x": 127.697,
+        "y": 100.17
       },
       "text": "alternative"
     },
@@ -334,8 +327,8 @@
       "source": "invading privacy",
       "target": "microsoft",
       "curve": {
-        "x": -122.966,
-        "y": 302.702
+        "x": -117.455,
+        "y": 304.078
       }
     },
     {
@@ -351,8 +344,8 @@
       "source": "invading privacy",
       "target": "whatsapp",
       "curve": {
-        "x": -234.321,
-        "y": 372.4
+        "x": -228.81,
+        "y": 373.776
       }
     },
     {
@@ -377,8 +370,8 @@
       "source": "invading privacy",
       "target": "evernote",
       "curve": {
-        "x": -377.625,
-        "y": 492.694
+        "x": -372.114,
+        "y": 494.07
       }
     },
     {
@@ -411,8 +404,8 @@
       "source": "invading privacy",
       "target": "gmail",
       "curve": {
-        "x": -659.167,
-        "y": 780.827
+        "x": -653.656,
+        "y": 782.203
       }
     },
     {
@@ -437,8 +430,8 @@
       "source": "invading privacy",
       "target": "chrome browser",
       "curve": {
-        "x": -752.081,
-        "y": 893.057
+        "x": -746.57,
+        "y": 894.433
       }
     },
     {
@@ -481,8 +474,8 @@
       "source": "invading privacy",
       "target": "amazon",
       "curve": {
-        "x": -509.929,
-        "y": 614.062
+        "x": -504.418,
+        "y": 615.438
       }
     },
     {
@@ -515,8 +508,8 @@
       "source": "basics",
       "target": "invading privacy",
       "curve": {
-        "x": -53.7984,
-        "y": 106.371
+        "x": -59.309,
+        "y": 104.995
       }
     }
   ]

@@ -62,7 +62,7 @@
       "url": "https://www.dashingd3js.com/table-of-contents",
       "fx": 170.02734375,
       "fy": -268.59283924102783,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -123,7 +123,7 @@
       "url": "https://www.udacity.com/course/data-visualization-and-d3js--ud507",
       "fx": 71.33802137209136,
       "fy": 120.68139394846833,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },

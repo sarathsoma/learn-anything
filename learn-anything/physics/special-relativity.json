@@ -23,7 +23,7 @@
       "url": "http://www.worldscienceu.com/courses/university/space-time-and-einstein",
       "fx": 137.2776113013698,
       "fy": -296.2867615582192,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -33,7 +33,7 @@
       "url": "http://www.worldscienceu.com/courses/university/special-relativity",
       "fx": 137.2776113013698,
       "fy": -256.2867615582192,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }

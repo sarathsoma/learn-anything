@@ -47,7 +47,7 @@
       "url": "https://academy.datastax.com/resources/ds201-foundations-apache-cassandra",
       "fx": 112.51116206833046,
       "fy": -146.80177836729,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }

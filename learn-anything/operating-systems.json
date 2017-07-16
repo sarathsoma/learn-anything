@@ -158,7 +158,7 @@
       "note": "is centred around three conceptual pieces that are fundamental to operating systems: virtualisation, concurrency, and persistence",
       "url": "http://pages.cs.wisc.edu/~remzi/OSTEP/",
       "fx": 367.19402160312336,
-      "fy": -106.82579017172986,
+      "fy": -126.82579017172986,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -166,7 +166,7 @@
       "text": "1. computer science from bottom up",
       "url": "https://www.bottomupcs.com/",
       "fx": 367.19402160312336,
-      "fy": -50.825790171729864,
+      "fy": -70.82579017172986,
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
@@ -174,7 +174,7 @@
       "text": "1. brief introduction to operating systems",
       "url": "http://greenteapress.com/thinkos/",
       "fx": 367.19402160312336,
-      "fy": 5.174209828270136,
+      "fy": -14.825790171729864,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
@@ -182,7 +182,7 @@
       "text": "1. operating systems: from 0 to 1",
       "url": "https://tuhdo.github.io/os01/",
       "fx": 367.19402160312336,
-      "fy": 61.174209828270136,
+      "fy": 41.174209828270136,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
@@ -190,16 +190,25 @@
       "text": "1. baking pi – operating systems development",
       "url": "http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/",
       "fx": 367.19402160312336,
-      "fy": 95.17420982827014,
-      "category": "",
+      "fy": 75.17420982827014,
+      "category": "course",
       "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. gate lectures",
+      "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq",
+      "fx": 367.19402160312336,
+      "fy": 137.17420982827014,
+      "category": "video",
+      "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. the little book about OS development",
       "url": "https://littleosbook.github.io/",
       "fx": 367.19402160312336,
-      "fy": 157.17420982827014,
+      "fy": 177.17420982827014,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     }

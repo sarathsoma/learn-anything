@@ -31,7 +31,7 @@
       "url": "https://see.stanford.edu/Course/EE364A",
       "fx": 305.6819196428571,
       "fy": 27.579849837662323,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }

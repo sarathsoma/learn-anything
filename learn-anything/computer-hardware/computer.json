@@ -6,15 +6,15 @@
       "text": "computer",
       "note": "",
       "url": "http://www.wikiwand.com/en/Computer",
-      "fx": -49.71820561985351,
-      "fy": -143.28596442587144,
+      "fx": -25.069768119853507,
+      "fy": -184.26903734253807,
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -0.2031249999998863,
-      "fy": -30.445623672032468
+      "fx": 5.7018229166670835,
+      "fy": -42.46710804703247
     },
     {
       "text": "computer architectures  ️",
@@ -62,19 +62,28 @@
     {
       "text": "1. building a modern computer from first principles",
       "url": "http://www.nand2tetris.org/",
-      "fx": 155.7968750000001,
-      "fy": -60.94562367203247,
-      "category": "",
+      "fx": 161.70182291666708,
+      "fy": -92.96710804703247,
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. building an 8-bit breadboard computer",
       "url": "https://www.youtube.com/watch?v=HyznrdDSSGM&amp;list=PLowKtXNTBypGqImE405J2565dvjafglHU",
-      "fx": 155.7968750000001,
-      "fy": 1.0543763279675318,
+      "fx": 161.70182291666708,
+      "fy": -30.967108047032468,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. computer organisation",
+      "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IdI9QZ7bkrhMX2ZpNW0dZUo",
+      "fx": 161.70182291666708,
+      "fy": 31.032891952967532,
+      "category": "video",
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }
   ],
@@ -99,24 +108,24 @@
       "source": "computer",
       "target": "basics",
       "curve": {
-        "x": 3.75754,
-        "y": 55.1701
+        "x": -5.6142,
+        "y": 69.6509
       }
     },
     {
       "source": "basics",
       "target": "parts",
       "curve": {
-        "x": -42.8756,
-        "y": 80.0035
+        "x": -45.8281,
+        "y": 86.0142
       }
     },
     {
       "source": "basics",
       "target": "computer architectures  ️",
       "curve": {
-        "x": 41.0436,
-        "y": 75.8586
+        "x": 38.0911,
+        "y": 81.8693
       }
     },
     {

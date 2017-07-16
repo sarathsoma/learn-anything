@@ -129,6 +129,13 @@
       "category": "mindmap"
     },
     {
+      "text": "parse trees  ️",
+      "url": "/computer-science/data-structures/parse-trees",
+      "fx": -1227.9233530405404,
+      "fy": 28.73384712837833,
+      "category": "mindmap"
+    },
+    {
       "text": "Merkle trees  ️",
       "url": "/computer-science/data-structures/merkle-trees",
       "fx": -1025.8751508980035,
@@ -154,6 +161,13 @@
       "url": "/computer-science/data-structures/red-black-trees",
       "fx": -725.7885680379746,
       "fy": 175.2467365506326,
+      "category": "mindmap"
+    },
+    {
+      "text": "abstract syntax trees  ️",
+      "url": "/computer-science/data-structures/abstract-syntax-trees",
+      "fx": -1379.8800303706046,
+      "fy": 177.5875140604752,
       "category": "mindmap"
     },
     {
@@ -188,7 +202,7 @@
       "url": "https://www.youtube.com/watch?v=QMV45tHCYNI&amp;list=PL4BBB74C7D2A1049C",
       "fx": 172.50971221923828,
       "fy": -588.9015731811523,
-      "category": "",
+      "category": "course",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
@@ -377,6 +391,22 @@
       "curve": {
         "x": -113.748,
         "y": 76.7385
+      }
+    },
+    {
+      "source": "trees",
+      "target": "parse trees  ️",
+      "curve": {
+        "x": -475.509,
+        "y": 13.9348
+      }
+    },
+    {
+      "source": "parse trees  ️",
+      "target": "abstract syntax trees  ️",
+      "curve": {
+        "x": -44.4783,
+        "y": 75.1768
       }
     }
   ]

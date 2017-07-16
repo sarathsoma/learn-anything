@@ -204,7 +204,7 @@
       "url": "http://www.cs.cmu.edu/afs/cs/academic/class/15462-s12/www/",
       "fx": 97.15409797948053,
       "fy": 21.569864976611825,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
@@ -213,7 +213,7 @@
       "url": "https://classroom.udacity.com/courses/cs291",
       "fx": 97.15409797948053,
       "fy": 61.569864976611825,
-      "category": "",
+      "category": "course",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },

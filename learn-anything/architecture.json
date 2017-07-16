@@ -36,7 +36,7 @@
       "url": "https://itunes.apple.com/us/course/history-of-architecture-i/id570008367",
       "fx": 147.32576884920604,
       "fy": -111.65873015873035,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "history"
     },
@@ -54,7 +54,7 @@
       "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=finearts&amp;subcat=architecture&amp;spec=architecturaldesign",
       "fx": 50.333863258361816,
       "fy": 11.065505504608154,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },

@@ -16,11 +16,25 @@
       "fy": 18.89453125
     },
     {
+      "text": "regular language  ️",
+      "url": "/linguistics/formal-language/regular-language",
+      "fx": -326.32691604201045,
+      "fy": 151.71882617175584,
+      "category": "mindmap"
+    },
+    {
+      "text": "formal grammar  ️",
+      "url": "/linguistics/formal-language/formal-grammar",
+      "fx": -98.53630815927932,
+      "fy": 151.84080033037299,
+      "category": "mindmap"
+    },
+    {
       "text": "regular expressions  ️",
       "note": "are sequences of characters that define a search pattern  usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis",
       "url": "/linguistics/formal-language/regular-expressions",
-      "fx": -45.046875,
-      "fy": 170.5703125,
+      "fx": 125.39559936523438,
+      "fy": 153.46633529663086,
       "category": "mindmap"
     }
   ],
@@ -48,8 +62,24 @@
       "source": "basics",
       "target": "regular expressions  ️",
       "curve": {
-        "x": -47.7168,
-        "y": 77.0879
+        "x": 37.5044,
+        "y": 68.5359
+      }
+    },
+    {
+      "source": "basics",
+      "target": "formal grammar  ️",
+      "curve": {
+        "x": -95.9615,
+        "y": 66.4731
+      }
+    },
+    {
+      "source": "basics",
+      "target": "regular language  ️",
+      "curve": {
+        "x": -216.596,
+        "y": 43.5534
       }
     }
   ]

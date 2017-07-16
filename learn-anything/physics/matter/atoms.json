@@ -18,28 +18,35 @@
     {
       "text": "chemical bonds  ️",
       "url": "/physics/matter/atoms/chemical-bonds",
-      "fx": -570.1552124023438,
+      "fx": -565.6137390136719,
       "fy": 117.81061172485352,
+      "category": "mindmap"
+    },
+    {
+      "text": "atomic physics  ️",
+      "url": "/physics/matter/atoms/atomic-physics",
+      "fx": -792.6313775510203,
+      "fy": 118.80633503401384,
       "category": "mindmap"
     },
     {
       "text": "molecules  ️",
       "url": "/physics/matter/atoms/molecules",
-      "fx": -333.03163146972656,
+      "fx": -328.5253677368164,
       "fy": 119.56588745117188,
       "category": "mindmap"
     },
     {
       "text": "atomic nucleus  ️",
       "url": "/physics/matter/atoms/atomic-nucleus",
-      "fx": 119.06434599156114,
-      "fy": 121.5158227848101,
+      "fx": 123.69998168945312,
+      "fy": 121.51582717895508,
       "category": "mindmap"
     },
     {
       "text": "subatomic particles  ️",
       "url": "/physics/matter/atoms/subatomic-particles",
-      "fx": -152.93772411346436,
+      "fx": -148.42863869667053,
       "fy": 121.81510925292969,
       "category": "mindmap"
     }
@@ -77,7 +84,7 @@
       "source": "basics",
       "target": "molecules  ️",
       "curve": {
-        "x": -168.285,
+        "x": -166.032,
         "y": 73.8099
       }
     },
@@ -85,7 +92,7 @@
       "source": "basics",
       "target": "chemical bonds  ️",
       "curve": {
-        "x": -292.222,
+        "x": -289.951,
         "y": 57.3901
       }
     },
@@ -93,7 +100,7 @@
       "source": "basics",
       "target": "subatomic particles  ️",
       "curve": {
-        "x": -54.4885,
+        "x": -52.234,
         "y": 74.9346
       }
     },
@@ -101,8 +108,16 @@
       "source": "basics",
       "target": "atomic nucleus  ️",
       "curve": {
-        "x": 70.7625,
+        "x": 73.0803,
         "y": 74.7849
+      }
+    },
+    {
+      "source": "basics",
+      "target": "atomic physics  ️",
+      "curve": {
+        "x": -495.376,
+        "y": 37.645
       }
     }
   ]

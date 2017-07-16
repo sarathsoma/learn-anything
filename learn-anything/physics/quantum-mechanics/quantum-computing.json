@@ -32,7 +32,7 @@
       "url": "http://www.scottaaronson.com/democritus/default.html",
       "fx": 379.0034298780489,
       "fy": -88.27829649390242,
-      "category": "",
+      "category": "course",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
@@ -41,7 +41,7 @@
       "url": "https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/",
       "fx": 379.0034298780489,
       "fy": -26.278296493902417,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }

@@ -147,7 +147,7 @@
       "url": "http://mooc.fi/courses/2013/programming-part-1/",
       "fx": -32.07687153456334,
       "fy": 38.689551699336675,
-      "category": "",
+      "category": "course",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
@@ -156,7 +156,7 @@
       "url": "http://web.stanford.edu/class/cs106a/lectures.shtml",
       "fx": -32.07687153456334,
       "fy": 105.68955169933668,
-      "category": "",
+      "category": "course",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
@@ -165,7 +165,7 @@
       "url": "http://www.programmingbydoing.com/",
       "fx": -32.07687153456334,
       "fy": 172.68955169933668,
-      "category": "",
+      "category": "course",
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },

@@ -272,7 +272,7 @@
       "url": "http://rll.berkeley.edu/deeprlcourse/",
       "fx": -83.26433850588364,
       "fy": -241.30933951552254,
-      "category": "",
+      "category": "course",
       "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
@@ -281,7 +281,7 @@
       "url": "https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks",
       "fx": -83.26433850588364,
       "fy": -174.30933951552254,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     },
@@ -290,7 +290,7 @@
       "url": "http://course.fast.ai/",
       "fx": -83.26433850588364,
       "fy": -82.30933951552254,
-      "category": "",
+      "category": "course",
       "color": "rgba(169, 255, 0, 1.0)",
       "parent": "basics"
     },
@@ -299,7 +299,7 @@
       "url": "https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd",
       "fx": -83.26433850588364,
       "fy": -15.309339515522538,
-      "category": "",
+      "category": "course",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
@@ -308,7 +308,7 @@
       "url": "https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info",
       "fx": -83.26433850588364,
       "fy": 51.69066048447746,
-      "category": "",
+      "category": "course",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },

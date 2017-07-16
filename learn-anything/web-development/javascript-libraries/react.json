@@ -121,7 +121,7 @@
       "url": "https://www.reactiflux.com/",
       "fx": 166.5689044075882,
       "fy": -295.02438757175895,
-      "category": "",
+      "category": "chat",
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
@@ -208,7 +208,7 @@
       "url": "https://reacttraining.com/online/react-fundamentals",
       "fx": -130.24909210205078,
       "fy": 42.12460487145029,
-      "category": "",
+      "category": "course",
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },

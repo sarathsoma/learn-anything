@@ -64,7 +64,7 @@
       "url": "https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course",
       "fx": 38.34404238090701,
       "fy": -98.69116491925149,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -82,7 +82,7 @@
       "url": "https://angular-meteor.com/tutorials/whatsapp2/",
       "fx": 38.34404238090701,
       "fy": -2.6911649192514915,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     }

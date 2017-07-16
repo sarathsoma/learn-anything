@@ -328,7 +328,7 @@
       "url": "https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e",
       "fx": 152.57890123791185,
       "fy": -273.54345533582887,
-      "category": "",
+      "category": "course",
       "color": "rgba(252, 177, 20, 1.0)",
       "parent": "basics"
     },
@@ -337,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=pyX8kQ-JzHI&amp;list=PLQrxduI9Pds1fm91Dmn8x1lo-O_kpZGk8",
       "fx": 152.57890123791185,
       "fy": -206.54345533582887,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     },

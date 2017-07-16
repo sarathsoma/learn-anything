@@ -70,7 +70,7 @@
       "url": "https://www.coursera.org/learn/game-theory-1",
       "fx": 132.66295876457582,
       "fy": -3.969980908341938,
-      "category": "",
+      "category": "course",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     },
@@ -79,7 +79,7 @@
       "url": "http://www.game-theory-class.org/game-theory-I.html",
       "fx": 132.66295876457582,
       "fy": 36.03001909165806,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
@@ -88,7 +88,7 @@
       "url": "http://www.game-theory-class.org/game-theory-II.html",
       "fx": 132.66295876457582,
       "fy": 76.03001909165806,
-      "category": "",
+      "category": "course",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     }

@@ -28,6 +28,8 @@
 <url> <loc>https://learn-anything.xyz/art/filmmaking/visual-effects/</loc> </url>
 <url> <loc>https://learn-anything.xyz/art/filmmaking/</loc> </url>
 <url> <loc>https://learn-anything.xyz/art/generative-art/</loc> </url>
+<url> <loc>https://learn-anything.xyz/art/illustration/concept-art/</loc> </url>
+<url> <loc>https://learn-anything.xyz/art/illustration/</loc> </url>
 <url> <loc>https://learn-anything.xyz/art/literature/literary-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/art/literature/</loc> </url>
 <url> <loc>https://learn-anything.xyz/art/live-coding/</loc> </url>
@@ -267,6 +269,7 @@
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/sorting/topological-sort/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/sorting/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/</loc> </url>
+<url> <loc>https://learn-anything.xyz/computer-science/automata-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/compilers/bootstrapping/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/compilers/interpreter/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/compilers/just-in-time-compilation/</loc> </url>
@@ -298,6 +301,7 @@
 <url> <loc>https://learn-anything.xyz/computer-science/concurrency/process-calculus/pi-calculus/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/concurrency/process-calculus/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/concurrency/</loc> </url>
+<url> <loc>https://learn-anything.xyz/computer-science/data-structures/abstract-syntax-trees/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/arrays/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/binary-heaps/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/binary-search-trees/</loc> </url>
@@ -307,6 +311,7 @@
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/heaps/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/linked-lists/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/merkle-trees/</loc> </url>
+<url> <loc>https://learn-anything.xyz/computer-science/data-structures/parse-trees/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/priority-queue/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/quadtree/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/data-structures/red-black-trees/</loc> </url>
@@ -490,6 +495,7 @@
 <url> <loc>https://learn-anything.xyz/engineering/control-theory/stochastic-control/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/control-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/electrical-engineering/electronics/analog-electronics/</loc> </url>
+<url> <loc>https://learn-anything.xyz/engineering/electrical-engineering/electronics/digital-logic/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/electrical-engineering/electronics/electronic-circuits/embedded-systems/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/electrical-engineering/electronics/electronic-circuits/fpga/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/electrical-engineering/electronics/electronic-circuits/hardware-description-languages/verilog/</loc> </url>
@@ -663,7 +669,12 @@
 <url> <loc>https://learn-anything.xyz/linguistics/computational-linguistics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/corpus-linguistics/part-of-speech-tagging/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/corpus-linguistics/</loc> </url>
+<url> <loc>https://learn-anything.xyz/linguistics/formal-language/formal-grammar/context-free-grammar/pumping-lemma/</loc> </url>
+<url> <loc>https://learn-anything.xyz/linguistics/formal-language/formal-grammar/context-free-grammar/</loc> </url>
+<url> <loc>https://learn-anything.xyz/linguistics/formal-language/formal-grammar/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/formal-language/regular-expressions/</loc> </url>
+<url> <loc>https://learn-anything.xyz/linguistics/formal-language/regular-language/pumping-lemma/</loc> </url>
+<url> <loc>https://learn-anything.xyz/linguistics/formal-language/regular-language/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/formal-language/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/languages/arabic/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/languages/bulgarian/</loc> </url>
@@ -806,6 +817,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/measure-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/numerical-analysis/numerical-integration/monte-carlo-integration/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/numerical-analysis/numerical-integration/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/analysis/numerical-analysis/numerical-methods/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/numerical-analysis/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/real-analysis/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/space-filling-curve/</loc> </url>
@@ -840,6 +852,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/vector-calculus/vector-fields/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/vector-calculus/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/category-theory/categories/enriched-categories/profunctors/profunctor-optics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/categories/enriched-categories/profunctors/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/categories/enriched-categories/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/categories/morphisms/</loc> </url>
@@ -905,6 +918,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/matrices/matrix-multiplication/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/matrices/rank/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/matrices/singular-value-decomposition/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/matrices/transpose/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/matrices/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/norm/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/vectors/cross-product/</loc> </url>
@@ -959,8 +973,10 @@
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/numbers/square-roots/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/constrained-optimisation/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/optimisation/continuous-optimisation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/convex-optimisation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/gradient-descent/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/optimisation/linear-programming/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/loss-functions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/set-theory/banach-tarski-paradox/</loc> </url>
@@ -1307,6 +1323,7 @@
 <url> <loc>https://learn-anything.xyz/physics/general-relativity/spacetime/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/general-relativity/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/matter/atoms/atomic-nucleus/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/matter/atoms/atomic-physics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/matter/atoms/chemical-bonds/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/matter/atoms/molecules/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/matter/atoms/subatomic-particles/electrons/</loc> </url>
@@ -1367,6 +1384,7 @@
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/categorical-quantum-mechanics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/quantum-teleportation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-state/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/schrodinger-equation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/uncertainty-principle/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/wave-particle-duality/</loc> </url>

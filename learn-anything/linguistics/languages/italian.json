@@ -19,10 +19,19 @@
   ],
   "subnodes": [
     {
+      "text": "️",
+      "url": "https://italian.stackexchange.com/",
+      "fx": 147.609375,
+      "fy": -182.09765625,
+      "category": "stack exchange",
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "italian"
+    },
+    {
       "text": "",
       "url": "https://www.reddit.com/r/italianlearning/",
       "fx": 147.609375,
-      "fy": -162.09765625,
+      "fy": -142.09765625,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "italian"

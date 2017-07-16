@@ -101,7 +101,7 @@
       "url": "https://www.youtube.com/playlist?list=PL6397E4B26D00A269",
       "fx": 116.22241927151879,
       "fy": -134.42355575616068,
-      "category": "",
+      "category": "course",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
@@ -110,7 +110,7 @@
       "url": "http://web.stanford.edu/class/cs224n/",
       "fx": 116.22241927151879,
       "fy": -94.42355575616068,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -154,7 +154,7 @@
       "url": "https://github.com/oxford-cs-deepnlp-2017/lectures",
       "fx": 116.22241927151879,
       "fy": 131.57644424383932,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },

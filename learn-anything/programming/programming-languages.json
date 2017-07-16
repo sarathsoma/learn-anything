@@ -451,9 +451,9 @@
     },
     {
       "text": "racket  ️",
-      "url": "",
-      "fx": -1354.6944274902344,
-      "fy": -357.2989501953125,
+      "url": "/programming/programming-languages/racket",
+      "fx": -1361.2065802680117,
+      "fy": -356.37186686197924,
       "category": "mindmap"
     },
     {
@@ -900,8 +900,8 @@
       "source": "lisp  ️",
       "target": "racket  ️",
       "curve": {
-        "x": -32.3935,
-        "y": 54.4926
+        "x": -35.6496,
+        "y": 54.9561
       }
     },
     {

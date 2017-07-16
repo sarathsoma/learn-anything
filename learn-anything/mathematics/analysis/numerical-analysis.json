@@ -19,8 +19,15 @@
     {
       "text": "numerical integration  ️",
       "url": "/mathematics/analysis/numerical-analysis/numerical-integration",
-      "fx": -172.71944020206763,
-      "fy": 33.603611078477456,
+      "fx": -2.770833969116211,
+      "fy": 34.10866832733154,
+      "category": "mindmap"
+    },
+    {
+      "text": "numerical methods  ️",
+      "url": "/mathematics/analysis/numerical-analysis/numerical-methods",
+      "fx": -250.910521456619,
+      "fy": 35.49126620543507,
       "category": "mindmap"
     }
   ],
@@ -57,8 +64,16 @@
       "source": "basics",
       "target": "numerical integration  ️",
       "curve": {
-        "x": -49.6266,
-        "y": 64.2102
+        "x": 35.3477,
+        "y": 64.4627
+      }
+    },
+    {
+      "source": "basics",
+      "target": "numerical methods  ️",
+      "curve": {
+        "x": -92.4722,
+        "y": 65.154
       }
     }
   ]

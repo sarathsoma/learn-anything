@@ -31,8 +31,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -124.29954519388036,
-      "fy": 196.5752377177489
+      "fx": -123.96844605532658,
+      "fy": 180.70290389778404
     },
     {
       "text": "Schrodinger equation  ️",
@@ -65,8 +65,8 @@
     {
       "text": "wave-particle duality  ️",
       "url": "/physics/quantum-mechanics/wave-particle-duality",
-      "fx": -2644.443728570364,
-      "fy": 421.27521243291585,
+      "fx": -2641.004150390625,
+      "fy": 421.2751922607422,
       "category": "mindmap"
     },
     {
@@ -82,6 +82,13 @@
       "fx": -1065.587218036569,
       "fy": 410.2745390786607,
       "category": "wiki"
+    },
+    {
+      "text": "quantum state  ️",
+      "url": "/physics/quantum-mechanics/quantum-state",
+      "fx": -2847.1441340042375,
+      "fy": 424.10838188559296,
+      "category": "mindmap"
     },
     {
       "text": "quantum information  ️",
@@ -195,8 +202,8 @@
     {
       "text": "1. introduction",
       "url": "http://www.scottaaronson.com/democritus/lec9.html",
-      "fx": 57.70045480611964,
-      "fy": 112.0752377177489,
+      "fx": 58.03155394467342,
+      "fy": 65.20290389778404,
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
@@ -204,8 +211,8 @@
       "text": "1. visualisation of quantum physics",
       "note": "final section about momentum shows that increasing the mass scales the velocity function, so that its uncertainty becomes negligible once the the mass is high enough",
       "url": "https://www.youtube.com/watch?v=p7bzE1E5PMY",
-      "fx": 57.70045480611964,
-      "fy": 146.0752377177489,
+      "fx": 58.03155394467342,
+      "fy": 99.20290389778404,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -213,8 +220,8 @@
     {
       "text": "1. is this what quantum mechanics looks like?",
       "url": "https://www.youtube.com/watch?v=WIyTZDHuarQ",
-      "fx": 57.70045480611964,
-      "fy": 186.0752377177489,
+      "fx": 58.03155394467342,
+      "fy": 139.20290389778404,
       "category": "video",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -222,16 +229,25 @@
     {
       "text": "1. an intuitive explanation of quantum mechanics",
       "url": "http://lesswrong.com/lw/r6/an_intuitive_explanation_of_quantum_mechanics/",
-      "fx": 57.70045480611964,
-      "fy": 248.0752377177489,
+      "fx": 58.03155394467342,
+      "fy": 201.20290389778404,
       "color": "rgba(209, 21, 88, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to quantum mechanics",
+      "url": "https://www.youtube.com/watch?v=AufmV0P6mA0",
+      "fx": 58.03155394467342,
+      "fy": 257.20290389778404,
+      "category": "video",
+      "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. math vs physics",
       "url": "https://www.youtube.com/watch?v=m6rfpQXzXu0",
-      "fx": 57.70045480611964,
-      "fy": 304.0752377177489,
+      "fx": 58.03155394467342,
+      "fy": 319.20290389778404,
       "category": "video",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -242,8 +258,8 @@
       "source": "quantum mechanics",
       "target": "basics",
       "curve": {
-        "x": -34.3308,
-        "y": 257.402
+        "x": -34.1653,
+        "y": 249.466
       }
     },
     {
@@ -266,56 +282,56 @@
       "source": "basics",
       "target": "quantum computing  ️",
       "curve": {
-        "x": -160.378,
-        "y": 116.562
+        "x": -160.544,
+        "y": 124.498
       }
     },
     {
       "source": "basics",
       "target": "quantum field theory  ️",
       "curve": {
-        "x": -47.484,
-        "y": 116.862
+        "x": -47.6495,
+        "y": 124.798
       }
     },
     {
       "source": "basics",
       "target": "quantum suicide and immortality",
       "curve": {
-        "x": -524.725,
-        "y": 88.5383
+        "x": -524.891,
+        "y": 96.4745
       }
     },
     {
       "source": "basics",
       "target": "quantum entanglement  ️",
       "curve": {
-        "x": 109.998,
-        "y": 119.148
+        "x": 70.9064,
+        "y": 141.497
       }
     },
     {
       "source": "basics",
       "target": "quantum information  ️",
       "curve": {
-        "x": -370.204,
-        "y": 107.488
+        "x": -370.37,
+        "y": 115.424
       }
     },
     {
       "source": "basics",
       "target": "uncertainty principle  ️",
       "curve": {
-        "x": -813.347,
-        "y": 74.8899
+        "x": -813.513,
+        "y": 82.8261
       }
     },
     {
       "source": "basics",
       "target": "quantum gravity  ️",
       "curve": {
-        "x": -935.677,
-        "y": 33.6142
+        "x": -935.843,
+        "y": 41.5504
       }
     },
     {
@@ -330,32 +346,40 @@
       "source": "basics",
       "target": "Bell’s theorem  ️",
       "curve": {
-        "x": -1039.47,
-        "y": -4.6815
+        "x": -1039.64,
+        "y": 3.25467
       }
     },
     {
       "source": "basics",
       "target": "Schrodinger equation  ️",
       "curve": {
-        "x": -1183.28,
-        "y": -66.389
+        "x": -1183.45,
+        "y": -58.4528
       }
     },
     {
       "source": "basics",
       "target": "quantum eraser experiment  ️",
       "curve": {
-        "x": -1400.89,
-        "y": 10.6947
+        "x": -1401.06,
+        "y": 18.6309
       }
     },
     {
       "source": "basics",
       "target": "wave-particle duality  ️",
       "curve": {
-        "x": -1745.1,
-        "y": 6.844
+        "x": -1743.55,
+        "y": 14.7802
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quantum state  ️",
+      "curve": {
+        "x": -1880.54,
+        "y": -52.1254
       }
     }
   ]

@@ -22,6 +22,13 @@
       "fy": 36.49826635435278
     },
     {
+      "text": "transpose  ️",
+      "url": "/mathematics/linear-algebra/matrices/transpose",
+      "fx": -1120.0707994794052,
+      "fy": 167.62561051990645,
+      "category": "mindmap"
+    },
+    {
       "text": "matrix factorisation  ️",
       "url": "/mathematics/linear-algebra/matrices/matrix-factorisation",
       "fx": -150.62948894500732,
@@ -140,6 +147,14 @@
       "curve": {
         "x": -542.963,
         "y": 2.69227
+      }
+    },
+    {
+      "source": "basics",
+      "target": "transpose  ️",
+      "curve": {
+        "x": -757.142,
+        "y": -9.98531
       }
     }
   ]

@@ -506,7 +506,7 @@
       "url": "https://www.coursera.org/learn/machine-learning",
       "fx": 369.7748260498047,
       "fy": -718.1810302734375,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
@@ -524,7 +524,7 @@
       "url": "https://www.coursera.org/specializations/machine-learning",
       "fx": 369.7748260498047,
       "fy": -656.1810302734375,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
     },
@@ -533,7 +533,7 @@
       "url": "https://work.caltech.edu/telecourse.html",
       "fx": 369.7748260498047,
       "fy": -616.1810302734375,
-      "category": "",
+      "category": "course",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
     },
@@ -561,7 +561,7 @@
       "url": "https://www.coursera.org/learn/neural-networks",
       "fx": 369.7748260498047,
       "fy": -474.1810302734375,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -605,7 +605,7 @@
       "url": "http://ttic.uchicago.edu/%7Enati/Teaching/TTIC31120/2016/",
       "fx": 369.7748260498047,
       "fy": -236.1810302734375,
-      "category": "",
+      "category": "course",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     },

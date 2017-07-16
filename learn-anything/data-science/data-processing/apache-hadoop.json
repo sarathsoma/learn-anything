@@ -47,7 +47,7 @@
       "url": "http://learn.mapr.com/ess-105-apache-hadoop-essentials",
       "fx": 30.09765625,
       "fy": 39.9375,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }

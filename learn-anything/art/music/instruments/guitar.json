@@ -77,7 +77,7 @@
       "url": "https://www.justinguitar.com/en/BC-000-BeginnersCourse.php",
       "fx": 2605.9075185652264,
       "fy": -3697.811746501236,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -94,7 +94,7 @@
       "url": "https://www.justinguitar.com/en/IM-000-IntermediateMethod.php",
       "fx": 2605.9075185652264,
       "fy": -3623.811746501236,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }

@@ -80,7 +80,7 @@
       "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/video-lectures/",
       "fx": 141.5437916478802,
       "fy": -112.9193500395744,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
@@ -108,7 +108,7 @@
       "url": "https://www.youtube.com/watch?v=rtlJoXxlSFE&amp;list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j",
       "fx": 141.5437916478802,
       "fy": 29.080649960425603,
-      "category": "",
+      "category": "course",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     }

@@ -54,7 +54,7 @@
       "url": "https://learningswedish.se/courses/1",
       "fx": 102.59218750000002,
       "fy": 261.56718750000016,
-      "category": "",
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }

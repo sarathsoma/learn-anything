@@ -5,15 +5,15 @@
     {
       "text": "electronics",
       "url": "http://www.wikiwand.com/en/Electronics",
-      "fx": 94.07601610429447,
-      "fy": -579.4799415260736,
+      "fx": 104.08235056375383,
+      "fy": -556.0192151747224,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 263.6747286825557,
-      "fy": -461.06293976139307
+      "fx": 247.82168814201532,
+      "fy": -443.5650512478796
     },
     {
       "text": "basics",
@@ -22,10 +22,17 @@
       "fy": -345.8017630798306
     },
     {
+      "text": "digital logic  ️",
+      "url": "/engineering/electrical-engineering/electronics/digital-logic",
+      "fx": -262.1444627193007,
+      "fy": -213.74218750000352,
+      "category": "mindmap"
+    },
+    {
       "text": "network analysis",
       "url": "http://www.wikiwand.com/en/Network_analysis_(electrical_circuits)",
-      "fx": 236.39861452742764,
-      "fy": -231.54188251590136,
+      "fx": 191.21122936265772,
+      "fy": -202.343710248239,
       "category": "wiki"
     },
     {
@@ -36,17 +43,17 @@
       "category": "mindmap"
     },
     {
-      "text": "electronic components  ️",
-      "url": "/engineering/electrical-engineering/electronics/electronic-components",
-      "fx": -519.351276676829,
-      "fy": -69.25880153890802,
-      "category": "mindmap"
-    },
-    {
       "text": "electronic circuits  ️",
       "url": "/engineering/electrical-engineering/electronics/electronic-circuits",
       "fx": -222.42708333333326,
       "fy": -64.16796875,
+      "category": "mindmap"
+    },
+    {
+      "text": "electronic components  ️",
+      "url": "/engineering/electrical-engineering/electronics/electronic-components",
+      "fx": -517.5591988259517,
+      "fy": -59.575413381013334,
       "category": "mindmap"
     },
     {
@@ -66,7 +73,7 @@
     {
       "text": "power electronics  ️",
       "url": "/engineering/electrical-engineering/electronics/power-electronics",
-      "fx": 295.37678006328906,
+      "fx": 295.87678006328906,
       "fy": 92.2094541139628,
       "category": "mindmap"
     }
@@ -75,8 +82,8 @@
     {
       "text": "open electronics",
       "url": "https://github.com/intajay/open-electronics",
-      "fx": 400.6747286825557,
-      "fy": -449.56293976139307,
+      "fx": 384.8216881420153,
+      "fy": -432.0650512478796,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -96,8 +103,8 @@
       "source": "logic gates  ️",
       "target": "electronic components  ️",
       "curve": {
-        "x": -213.265,
-        "y": 65.7561
+        "x": -212.369,
+        "y": 70.5978
       }
     },
     {
@@ -120,16 +127,16 @@
       "source": "electronics",
       "target": "basics",
       "curve": {
-        "x": -10.1036,
-        "y": 115.589
+        "x": -15.1068,
+        "y": 103.859
       }
     },
     {
       "source": "help",
       "target": "electronics",
       "curve": {
-        "x": -63.0494,
-        "y": -57.9585
+        "x": -50.1197,
+        "y": -54.9771
       }
     },
     {
@@ -144,8 +151,8 @@
       "source": "basics",
       "target": "network analysis",
       "curve": {
-        "x": 94.5149,
-        "y": 58.3799
+        "x": 71.9212,
+        "y": 72.979
       }
     },
     {
@@ -160,8 +167,16 @@
       "source": "solid-state electronics",
       "target": "power electronics  ️",
       "curve": {
-        "x": -9.73739,
+        "x": -9.48739,
         "y": 73.3586
+      }
+    },
+    {
+      "source": "basics",
+      "target": "digital logic  ️",
+      "curve": {
+        "x": -198.301,
+        "y": 45.3746
       }
     }
   ]

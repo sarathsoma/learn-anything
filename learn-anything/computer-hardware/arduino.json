@@ -73,7 +73,7 @@
       "url": "https://forum.arduino.cc/",
       "fx": 192.7555441292899,
       "fy": -116.18772468418223,
-      "category": "",
+      "category": "chat",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
@@ -82,7 +82,7 @@
       "url": "https://www.coursera.org/learn/arduino-platform",
       "fx": 99.20926982538708,
       "fy": -18.335460847126683,
-      "category": "",
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },

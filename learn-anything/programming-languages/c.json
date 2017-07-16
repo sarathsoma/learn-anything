@@ -158,7 +158,7 @@
       "url": "https://www.youtube.com/playlist?list=PL6B940F08B9773B9F",
       "fx": 40.964981113146905,
       "fy": 352.1705995613447,
-      "category": "",
+      "category": "course",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },
@@ -168,7 +168,7 @@
       "url": "https://cs50.harvard.edu/weeks",
       "fx": 40.964981113146905,
       "fy": 394.1705995613447,
-      "category": "",
+      "category": "course",
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "basics"
     },

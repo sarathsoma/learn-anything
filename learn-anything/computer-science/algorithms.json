@@ -5,28 +5,28 @@
     {
       "text": "algorithms",
       "url": "http://www.wikiwand.com/en/Algorithm",
-      "fx": 54.541039423489565,
-      "fy": -354.7578449774012,
+      "fx": 140.4639638637882,
+      "fy": -419.8610399400877,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 380.9469246158776,
-      "fy": -107.002788950987
+      "fx": 408.14491901886254,
+      "fy": -180.72305480919601
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -19.01014407522598,
-      "fy": 236.58104534558868
+      "fx": -6.530549858807717,
+      "fy": 177.44799963663365
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 534.9619696501059,
-      "fy": 243.61997791760894
+      "fx": 604.1259155456282,
+      "fy": 199.01293500716122
     },
     {
       "text": "algorithm design  ️",
@@ -124,8 +124,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/algorithms/",
-      "fx": 275.54103942348956,
-      "fy": -360.7578449774012,
+      "fx": 361.4639638637882,
+      "fy": -425.8610399400877,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "algorithms"
@@ -133,8 +133,8 @@
     {
       "text": "awesome",
       "url": "https://github.com/tayllan/awesome-algorithms",
-      "fx": 275.54103942348956,
-      "fy": -320.7578449774012,
+      "fx": 361.4639638637882,
+      "fy": -385.8610399400877,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "algorithms"
@@ -142,8 +142,8 @@
     {
       "text": "list of algorithms",
       "url": "http://www.wikiwand.com/en/List_of_algorithms",
-      "fx": 517.9469246158776,
-      "fy": -314.502788950987,
+      "fx": 545.1449190188625,
+      "fy": -388.223054809196,
       "category": "wiki",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -151,8 +151,8 @@
     {
       "text": "algorithms in python",
       "url": "https://github.com/keon/algorithms",
-      "fx": 517.9469246158776,
-      "fy": -274.502788950987,
+      "fx": 545.1449190188625,
+      "fy": -348.223054809196,
       "category": "github",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -160,8 +160,8 @@
     {
       "text": "visualising algorithms",
       "url": "https://bost.ocks.org/mike/algorithms/",
-      "fx": 517.9469246158776,
-      "fy": -234.502788950987,
+      "fx": 545.1449190188625,
+      "fy": -308.223054809196,
       "category": "interactive",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -169,8 +169,8 @@
     {
       "text": "visualgo",
       "url": "https://visualgo.net/en",
-      "fx": 517.9469246158776,
-      "fy": -194.502788950987,
+      "fx": 545.1449190188625,
+      "fy": -268.223054809196,
       "category": "interactive",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -178,8 +178,8 @@
     {
       "text": "clever algorithms",
       "url": "https://github.com/jbrownlee/CleverAlgorithms",
-      "fx": 517.9469246158776,
-      "fy": -154.502788950987,
+      "fx": 545.1449190188625,
+      "fy": -228.22305480919601,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -187,24 +187,24 @@
     {
       "text": "lecture slides for algorithm design",
       "url": "http://www.cs.princeton.edu/%7Ewayne/kleinberg-tardos/",
-      "fx": 517.9469246158776,
-      "fy": -114.502788950987,
+      "fx": 545.1449190188625,
+      "fy": -188.22305480919601,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "ruby algorithms",
       "url": "https://rubyalgo.github.io/algorithms/",
-      "fx": 517.9469246158776,
-      "fy": -80.502788950987,
+      "fx": 545.1449190188625,
+      "fy": -154.22305480919601,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "AlgoWiki",
       "url": "http://eulercoder.me/AlgoWiki/",
-      "fx": 517.9469246158776,
-      "fy": -46.502788950987,
+      "fx": 545.1449190188625,
+      "fy": -120.22305480919601,
       "category": "github",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
@@ -212,8 +212,8 @@
     {
       "text": "algorithm visualisations",
       "url": "https://github.com/enjalot/algovis",
-      "fx": 517.9469246158776,
-      "fy": -6.5027889509869965,
+      "fx": 545.1449190188625,
+      "fy": -80.22305480919601,
       "category": "github",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
@@ -221,24 +221,24 @@
     {
       "text": "data structures and algorithms problems",
       "url": "http://www.techiedelight.com/list-of-problems/",
-      "fx": 517.9469246158776,
-      "fy": 33.497211049013,
+      "fx": 545.1449190188625,
+      "fy": -40.223054809196015,
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "help"
     },
     {
       "text": "algorithms by Jeff Erickson",
       "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/",
-      "fx": 517.9469246158776,
-      "fy": 89.497211049013,
+      "fx": 545.1449190188625,
+      "fy": 15.776945190803985,
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },
     {
       "text": "annotated algorithms in python",
       "url": "https://github.com/mdipierro/nlib",
-      "fx": 517.9469246158776,
-      "fy": 123.497211049013,
+      "fx": 545.1449190188625,
+      "fy": 49.776945190803985,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -246,46 +246,55 @@
     {
       "text": "1. algorithms",
       "url": "http://algs4.cs.princeton.edu/home/",
-      "fx": 162.98985592477402,
-      "fy": 117.08104534558868,
+      "fx": 175.46945014119228,
+      "fy": 37.947999636633654,
       "category": "free book",
       "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. 100 days of algoritms",
-      "url": "https://github.com/trending",
-      "fx": 162.98985592477402,
-      "fy": 157.08104534558868,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. algorithms: part I",
       "note": "a really great course by Stanford university that introduces you to different algorithms  how to prove them and reason about their efficiency",
       "url": "https://www.coursera.org/learn/algorithms-part1",
-      "fx": 162.98985592477402,
-      "fy": 197.08104534558868,
-      "category": "",
+      "fx": 175.46945014119228,
+      "fy": 77.94799963663365,
+      "category": "course",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. 100 days of algoritms",
+      "url": "https://github.com/trending",
+      "fx": 175.46945014119228,
+      "fy": 117.94799963663365,
+      "category": "github",
+      "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. gate lectures",
+      "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0",
+      "fx": 175.46945014119228,
+      "fy": 157.94799963663365,
+      "category": "video",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. algorithms: part II",
       "note": "continuation of the above course",
       "url": "https://www.coursera.org/learn/algorithms-part2",
-      "fx": 162.98985592477402,
-      "fy": 237.08104534558868,
-      "category": "",
+      "fx": 175.46945014119228,
+      "fy": 197.94799963663365,
+      "category": "course",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     },
     {
       "text": "2. algorithms notes  ️",
       "url": "http://frnsys.com/ai_notes/foundations/algorithms.html",
-      "fx": 162.98985592477402,
-      "fy": 277.0810453455887,
+      "fx": 175.46945014119228,
+      "fy": 237.94799963663365,
       "category": "article",
       "color": "rgba(49, 187, 71, 1.0)",
       "parent": "basics"
@@ -294,8 +303,8 @@
       "text": "3. introduction to algorithms",
       "note": "can be read alongside the above courses  is very thorough and details the specifics of all the algorithms you may find",
       "url": "http://ce.bonabu.ac.ir/uploads/30/CMS/user/file/115/EBook/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf",
-      "fx": 162.98985592477402,
-      "fy": 317.0810453455887,
+      "fx": 175.46945014119228,
+      "fy": 277.94799963663365,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -303,17 +312,17 @@
     {
       "text": "3. design and analysis of algorithms",
       "url": "http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms",
-      "fx": 162.98985592477402,
-      "fy": 357.0810453455887,
-      "category": "",
+      "fx": 175.46945014119228,
+      "fy": 317.94799963663365,
+      "category": "course",
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     },
     {
       "text": "colouring maps  ️",
       "url": "http://roadtolarissa.com/blog/2015/01/04/coloring-maps-with-d3/",
-      "fx": 696.9619696501059,
-      "fy": 235.11997791760894,
+      "fx": 766.1259155456282,
+      "fy": 190.51293500716122,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "articles"
@@ -321,8 +330,8 @@
     {
       "text": "shortest path in a maze   ️",
       "url": "https://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/",
-      "fx": 696.9619696501059,
-      "fy": 275.11997791760894,
+      "fx": 766.1259155456282,
+      "fy": 230.51293500716122,
       "category": "article",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "articles"
@@ -342,32 +351,32 @@
       "source": "algorithms",
       "target": "basics",
       "curve": {
-        "x": -53.0256,
-        "y": 294.419
+        "x": -89.7473,
+        "y": 297.404
       }
     },
     {
       "source": "help",
       "target": "algorithms",
       "curve": {
-        "x": -142.203,
-        "y": -122.628
+        "x": -112.841,
+        "y": -118.319
       }
     },
     {
       "source": "basics",
       "target": "analysis of algorithms",
       "curve": {
-        "x": -58.1803,
-        "y": 133.415
+        "x": -64.4201,
+        "y": 162.982
       }
     },
     {
       "source": "basics",
       "target": "algorithms on",
       "curve": {
-        "x": -221.434,
-        "y": 143.794
+        "x": -227.674,
+        "y": 173.361
       }
     },
     {
@@ -382,8 +391,8 @@
       "source": "basics",
       "target": "algorithm design  ️",
       "curve": {
-        "x": 82.2526,
-        "y": 131.084
+        "x": 76.0128,
+        "y": 160.651
       }
     },
     {
@@ -430,8 +439,8 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -136.817,
-        "y": -137.647
+        "x": -157.8,
+        "y": -152.204
       }
     },
     {

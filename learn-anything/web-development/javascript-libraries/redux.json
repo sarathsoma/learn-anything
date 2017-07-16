@@ -81,7 +81,7 @@
       "url": "https://egghead.io/courses/getting-started-with-redux",
       "fx": -14.411164883118659,
       "fy": 95.46091153858436,
-      "category": "",
+      "category": "course",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
@@ -116,7 +116,7 @@
       "url": "https://egghead.io/courses/building-react-applications-with-idiomatic-redux",
       "fx": -14.411164883118659,
       "fy": 258.46091153858436,
-      "category": "",
+      "category": "course",
       "color": "rgba(255, 254, 60, 1.0)",
       "parent": "basics"
     },

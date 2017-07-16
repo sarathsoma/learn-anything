@@ -18,8 +18,8 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 292.4331815326635,
-      "fy": -92.8039415829146
+      "fx": 287.1929394378018,
+      "fy": -91.99644405327047
     }
   ],
   "subnodes": [
@@ -35,10 +35,19 @@
     {
       "text": "1. what are quarks?",
       "url": "https://www.youtube.com/watch?v=LraNu_78sCw",
-      "fx": 448.4331815326635,
-      "fy": -81.3039415829146,
+      "fx": 443.1929394378018,
+      "fy": -100.49644405327047,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. is quark one-dimensional?",
+      "url": "https://www.reddit.com/r/askscience/comments/2tu7ow/is_a_quark_onedimensional/",
+      "fx": 443.1929394378018,
+      "fy": -60.496444053270466,
+      "category": "reddit",
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }
   ],
@@ -47,8 +56,8 @@
       "source": "quarks",
       "target": "basics",
       "curve": {
-        "x": -0.698917,
-        "y": 111.938
+        "x": -3.31904,
+        "y": 112.342
       }
     },
     {

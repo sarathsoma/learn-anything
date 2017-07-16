@@ -204,7 +204,7 @@
       "url": "https://invite.slack.golangbridge.org",
       "fx": 328.14388461142266,
       "fy": -420.4560701316726,
-      "category": "",
+      "category": "chat",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
     },

@@ -17,8 +17,7 @@
     },
     {
       "text": "prisoner’s dilemma  ️",
-      "url": "/mathematics/mathematical-models/game-theory/rational-choice-theory/prisoner’s-dilemma",
-      "fx": -219.57080078124386,
+      "fx": -218.57080078124386,
       "fy": -74.15144856770434,
       "category": "mindmap"
     }
@@ -47,7 +46,7 @@
       "source": "rational choice theory",
       "target": "prisoner’s dilemma  ️",
       "curve": {
-        "x": -94.4412,
+        "x": -93.9412,
         "y": 87.2681
       }
     }

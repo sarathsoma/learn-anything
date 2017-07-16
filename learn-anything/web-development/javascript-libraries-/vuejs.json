@@ -47,7 +47,7 @@
       "url": "https://forum.vuejs.org/",
       "fx": 142.14851058847012,
       "fy": -185.90065565365745,
-      "category": "",
+      "category": "chat",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
@@ -56,7 +56,7 @@
       "url": "https://vue-land.js.org/",
       "fx": 142.14851058847012,
       "fy": -145.90065565365745,
-      "category": "",
+      "category": "chat",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
     },
