@@ -1,0 +1,40 @@
+{
+  "title": "learn anything - physics - classical mechanics - waves - wave equation",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "wave equation",
+      "url": "http://www.wikiwand.com/en/Wave_equation",
+      "fx": 90.21875,
+      "fy": -144.33984375,
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 135.67124368686882,
+      "fy": -5.471354166666629
+    }
+  ],
+  "subnodes": [
+    {
+      "text": "1. explanation",
+      "url": "https://www.youtube.com/watch?v=9TQCKWWAVjM",
+      "fx": 298.6712436868688,
+      "fy": 7.028645833333371,
+      "category": "video",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "basics"
+    }
+  ],
+  "connections": [
+    {
+      "source": "wave equation",
+      "target": "basics",
+      "curve": {
+        "x": 2.72625,
+        "y": 69.4342
+      }
+    }
+  ]
+}

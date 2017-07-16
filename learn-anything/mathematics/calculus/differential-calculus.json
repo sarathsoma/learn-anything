@@ -5,9 +5,15 @@
     {
       "text": "differential calculus",
       "url": "http://www.wikiwand.com/en/Differential_calculus",
-      "fx": 383.31068862203983,
-      "fy": -190.83301005061116,
+      "fx": 400.21303237203983,
+      "fy": -312.64160380061116,
       "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 612.472834708122,
+      "fy": -177.5321621192893
     },
     {
       "text": "basics",
@@ -32,6 +38,15 @@
   ],
   "subnodes": [
     {
+      "text": "notation for differentiation",
+      "url": "http://www.wikiwand.com/en/Notation_for_differentiation",
+      "fx": 753.472834708122,
+      "fy": -165.0321621192893,
+      "category": "wiki",
+      "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "1. review of differential calculus theory",
       "url": "http://web.stanford.edu/class/cs224n/lecture_notes/cs224n-2017-review-differential-calculus.pdf",
       "fx": 616.9105793450882,
@@ -45,8 +60,8 @@
       "source": "differential calculus",
       "target": "basics",
       "curve": {
-        "x": -2.95005,
-        "y": 64.8474
+        "x": -11.4012,
+        "y": 125.752
       }
     },
     {
@@ -63,6 +78,14 @@
       "curve": {
         "x": 48.0367,
         "y": 65.3665
+      }
+    },
+    {
+      "source": "help",
+      "target": "differential calculus",
+      "curve": {
+        "x": -62.3799,
+        "y": -66.8047
       }
     }
   ]

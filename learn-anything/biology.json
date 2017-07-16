@@ -109,6 +109,7 @@
     },
     {
       "text": "organisms  ️",
+      "url": "/biology/organisms",
       "fx": 201.9757423400879,
       "fy": 255.3724479675293,
       "category": "mindmap"
@@ -325,8 +326,8 @@
       "source": "basics",
       "target": "organisms  ️",
       "curve": {
-        "x": 84.9238,
-        "y": 87.8152
+        "x": 72.6504,
+        "y": 93.6967
       }
     },
     {

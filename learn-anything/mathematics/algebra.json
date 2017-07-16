@@ -6,15 +6,15 @@
       "text": "algebra",
       "note": "",
       "url": "http://www.wikiwand.com/en/Algebra",
-      "fx": -102.93547952586209,
-      "fy": -520.1115301724138,
+      "fx": -98.14320011409723,
+      "fy": -539.7117139959432,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 81.81095123291016,
-      "fy": -394.1723518371582
+      "fx": 108.76867182114574,
+      "fy": -404.8203297783347
     },
     {
       "text": "elementary algebra",
@@ -27,8 +27,8 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 213.54968261718795,
-      "fy": -281.40146636962885
+      "fx": 227.8143884995411,
+      "fy": -255.84310239904056
     },
     {
       "text": "basics",
@@ -84,8 +84,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/Algebra/",
-      "fx": 117.06452047413791,
-      "fy": -506.11153017241384,
+      "fx": 120.85679988590277,
+      "fy": -525.7117139959432,
       "category": "reddit",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "algebra"
@@ -93,16 +93,32 @@
     {
       "text": "algebra rules",
       "url": "http://algebrarules.com/",
-      "fx": 218.81095123291016,
-      "fy": -379.6723518371582,
+      "fx": 245.76867182114574,
+      "fy": -435.3203297783347,
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "linear algebra notation",
+      "url": "https://en.wikibooks.org/wiki/Linear_Algebra/Notation",
+      "fx": 245.76867182114574,
+      "fy": -401.3203297783347,
+      "color": "rgba(36, 170, 255, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "basic symbols and algebra notations",
+      "url": "https://lagunita.stanford.edu/c4x/Engineering/QMSE-01/asset/Math_1_Basic_Symbols_and_Algebra_Notations.pdf",
+      "fx": 245.76867182114574,
+      "fy": -367.3203297783347,
+      "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "graphical algebra and fourier analysis",
       "url": "https://acko.net/files/gltalks/toolsforthought/#0",
-      "fx": 404.54968261718795,
-      "fy": -280.90146636962885,
+      "fx": 418.8143884995411,
+      "fy": -255.34310239904056,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "interesting"
@@ -131,24 +147,24 @@
       "source": "algebra",
       "target": "elementary algebra",
       "curve": {
-        "x": -34.8368,
-        "y": 99.6383
+        "x": -37.2329,
+        "y": 109.438
       }
     },
     {
       "source": "help",
       "target": "algebra",
       "curve": {
-        "x": -78.1232,
-        "y": -61.7196
+        "x": -89.2059,
+        "y": -66.1957
       }
     },
     {
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -79.3694,
-        "y": -56.3854
+        "x": -73.0229,
+        "y": -74.4886
       }
     },
     {

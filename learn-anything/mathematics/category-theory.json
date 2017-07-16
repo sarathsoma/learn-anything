@@ -6,14 +6,14 @@
       "text": "category theory",
       "url": "http://www.wikiwand.com/en/Category_theory",
       "fx": -112.59507208377681,
-      "fy": -235.88885702307243,
+      "fy": -283.36025769271527,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 67.20411392405072,
-      "fy": -140.29341376582278
+      "fy": -142.1558579622514
     },
     {
       "text": "articles",
@@ -55,9 +55,18 @@
       "text": "glossary of category theory",
       "url": "http://www.wikiwand.com/en/Glossary_of_category_theory",
       "fx": 208.20411392405072,
-      "fy": -127.79341376582278,
+      "fy": -163.1558579622514,
       "category": "wiki",
       "color": "rgba(104, 255, 109, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "category theory jargon cheat sheet",
+      "url": "https://gist.github.com/cb372/b1bad150e0c412fb7364",
+      "fx": 208.20411392405072,
+      "fy": -121.15585796225139,
+      "category": "github",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
@@ -165,7 +174,7 @@
       "target": "help",
       "curve": {
         "x": -30.2154,
-        "y": -52.5435
+        "y": -53.4747
       }
     },
     {
@@ -173,7 +182,7 @@
       "target": "basics",
       "curve": {
         "x": -31.123,
-        "y": 275.601
+        "y": 299.337
       }
     },
     {
@@ -181,7 +190,7 @@
       "target": "category theory",
       "curve": {
         "x": -57.1496,
-        "y": -46.5478
+        "y": -69.3523
       }
     },
     {

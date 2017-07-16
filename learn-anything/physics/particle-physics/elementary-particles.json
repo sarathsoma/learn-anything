@@ -19,8 +19,8 @@
     {
       "text": "leptons  ️",
       "url": "/physics/particle-physics/elementary-particles/leptons",
-      "fx": -115.38518622073792,
-      "fy": 95.7388505025126,
+      "fx": -113.95795249938965,
+      "fy": 95.73884582519531,
       "category": "mindmap"
     },
     {
@@ -35,6 +35,13 @@
       "url": "/physics/particle-physics/elementary-particles/higgs-boson",
       "fx": 192.71133692437922,
       "fy": 96.49542773493704,
+      "category": "mindmap"
+    },
+    {
+      "text": "photons  ️",
+      "url": "/physics/particle-physics/elementary-particles/photons",
+      "fx": -264.10110294117646,
+      "fy": 96.87584993674898,
       "category": "mindmap"
     }
   ],
@@ -68,8 +75,16 @@
       "source": "elementary particles",
       "target": "leptons  ️",
       "curve": {
-        "x": -143.555,
+        "x": -142.841,
         "y": 64.1837
+      }
+    },
+    {
+      "source": "elementary particles",
+      "target": "photons  ️",
+      "curve": {
+        "x": -234.164,
+        "y": 55.9627
       }
     }
   ]

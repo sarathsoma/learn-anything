@@ -123,6 +123,7 @@
 <url> <loc>https://learn-anything.xyz/biology/organisms/sex/reproductive-systems/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/organisms/sex/sexual-reproduction/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/organisms/sex/</loc> </url>
+<url> <loc>https://learn-anything.xyz/biology/organisms/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/pharmacology/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/physiology/homeostasis/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/physiology/</loc> </url>
@@ -947,6 +948,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/logic/propositional-logic/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/logic/truth-tables/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/logic/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/math-notation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/mathematical-models/game-theory/evolutionary-game-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/mathematical-models/game-theory/nash-equilibrium/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/mathematical-models/game-theory/rational-choice-theory/prisoners-dilemma/</loc> </url>
@@ -971,6 +973,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/numbers/ratios/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/numbers/real-numbers/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/numbers/square-roots/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/number-theory/numbers/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/constrained-optimisation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/continuous-optimisation/</loc> </url>
@@ -1269,6 +1272,7 @@
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/mechanical-waves/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/transverse-waves/polarisation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/transverse-waves/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/wave-equation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/computational-physics/monte-carlo-methods/kalman-filter/</loc> </url>
@@ -1358,6 +1362,7 @@
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/leptons/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/neutrino/neutrino-oscillations/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/neutrino/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/photons/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/quarks/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/particle-accelerators/large-hadron-collider/</loc> </url>
@@ -1521,6 +1526,7 @@
 <url> <loc>https://learn-anything.xyz/programming/programming-paradigms/generic-programming/</loc> </url>
 <url> <loc>https://learn-anything.xyz/programming/programming-paradigms/logic-programming/constraint-logic-programming/</loc> </url>
 <url> <loc>https://learn-anything.xyz/programming/programming-paradigms/logic-programming/</loc> </url>
+<url> <loc>https://learn-anything.xyz/programming/programming-paradigms/metaprogramming/</loc> </url>
 <url> <loc>https://learn-anything.xyz/programming/programming-paradigms/object-oriented/</loc> </url>
 <url> <loc>https://learn-anything.xyz/programming/programming-paradigms/reactive-programming/</loc> </url>
 <url> <loc>https://learn-anything.xyz/programming/programming-paradigms/stream-processing/apache-kafka/</loc> </url>

@@ -13,21 +13,28 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -8.466167861059034,
-      "fy": -94.81680274906017
+      "fx": -13.260385000234805,
+      "fy": -96.89879372844155
+    },
+    {
+      "text": "rate of convergence",
+      "url": "http://www.wikiwand.com/en/Rate_of_convergence",
+      "fx": -505.01788015463967,
+      "fy": 49.306137242269244,
+      "category": "wiki"
     },
     {
       "text": "numerical integration  ️",
       "url": "/mathematics/analysis/numerical-analysis/numerical-integration",
-      "fx": -2.770833969116211,
-      "fy": 34.10866832733154,
+      "fx": 10.367186864216933,
+      "fy": 49.60345999399817,
       "category": "mindmap"
     },
     {
       "text": "numerical methods  ️",
       "url": "/mathematics/analysis/numerical-analysis/numerical-methods",
-      "fx": -250.910521456619,
-      "fy": 35.49126620543507,
+      "fx": -242.71669705185707,
+      "fy": 50.48940608638736,
       "category": "mindmap"
     }
   ],
@@ -35,8 +42,8 @@
     {
       "text": "1. introduction by Stanford",
       "url": "https://www.youtube.com/watch?v=dkT8yuI2d50&amp;list=PLiblimOYZzCe-Db8QrClczmyhX0YC25n0",
-      "fx": 147.53383213894097,
-      "fy": -103.31680274906017,
+      "fx": 142.7396149997652,
+      "fy": -105.39879372844155,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -44,8 +51,8 @@
     {
       "text": "1. theoretical numerical analysis",
       "url": "http://www.springer.com/gp/book/9781441904577",
-      "fx": 147.53383213894097,
-      "fy": -63.31680274906017,
+      "fx": 142.7396149997652,
+      "fy": -65.39879372844155,
       "category": "non-free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
@@ -56,24 +63,32 @@
       "source": "numerical analysis",
       "target": "basics",
       "curve": {
-        "x": -2.0905,
-        "y": 69.283
+        "x": -4.48761,
+        "y": 68.242
       }
     },
     {
       "source": "basics",
       "target": "numerical integration  ️",
       "curve": {
-        "x": 35.3477,
-        "y": 64.4627
+        "x": 44.3138,
+        "y": 73.2511
       }
     },
     {
       "source": "basics",
       "target": "numerical methods  ️",
       "curve": {
-        "x": -92.4722,
-        "y": 65.154
+        "x": -85.9782,
+        "y": 73.6941
+      }
+    },
+    {
+      "source": "basics",
+      "target": "rate of convergence",
+      "curve": {
+        "x": -222.594,
+        "y": 57.5798
       }
     }
   ]

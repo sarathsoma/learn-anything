@@ -6,7 +6,7 @@
       "text": "mathematics",
       "url": "https://www.wikiwand.com/en/Mathematics",
       "fx": 771.1052692980331,
-      "fy": -1337.3359869458498,
+      "fy": -1349.613547709739,
       "category": "wiki"
     },
     {
@@ -36,6 +36,13 @@
       "url": "/mathematics/discrete",
       "fx": -472.2006738386225,
       "fy": -700.8802088553005,
+      "category": "mindmap"
+    },
+    {
+      "text": "math notation  ️",
+      "url": "/mathematics/math-notation",
+      "fx": -728.8042271670251,
+      "fy": -699.9164448777393,
       "category": "mindmap"
     },
     {
@@ -228,7 +235,7 @@
       "text": "",
       "url": "https://www.reddit.com/r/math/",
       "fx": 1029.1052692980331,
-      "fy": -1365.3359869458498,
+      "fy": -1377.613547709739,
       "category": "reddit",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "mathematics"
@@ -237,7 +244,7 @@
       "text": "️",
       "url": "https://math.stackexchange.com/",
       "fx": 1029.1052692980331,
-      "fy": -1323.3359869458498,
+      "fy": -1335.613547709739,
       "category": "stack exchange",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "mathematics"
@@ -246,7 +253,7 @@
       "text": "awesome",
       "url": "https://github.com/rossant/awesome-math",
       "fx": 1029.1052692980331,
-      "fy": -1281.3359869458498,
+      "fy": -1293.613547709739,
       "category": "github",
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "mathematics"
@@ -572,7 +579,7 @@
       "target": "basics",
       "curve": {
         "x": -4.52138,
-        "y": 88.6166
+        "y": 94.7554
       }
     },
     {
@@ -757,6 +764,14 @@
       "curve": {
         "x": -79.9518,
         "y": -170.143
+      }
+    },
+    {
+      "source": "basics",
+      "target": "math notation  ️",
+      "curve": {
+        "x": -813.478,
+        "y": 195.261
       }
     }
   ]

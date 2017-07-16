@@ -32,8 +32,8 @@
     {
       "text": "dataflow programming  ️",
       "url": "/programming/programming-paradigms/dataflow-programming",
-      "fx": -1351.1132721047288,
-      "fy": 172.42291451245012,
+      "fx": -1345.2794342041016,
+      "fy": 172.42292022705078,
       "category": "mindmap"
     },
     {
@@ -69,6 +69,13 @@
       "url": "/programming/programming-paradigms/reactive-programming",
       "fx": 608.6993103027344,
       "fy": 174.8662338256836,
+      "category": "mindmap"
+    },
+    {
+      "text": "metaprogramming  ️",
+      "url": "/programming/programming-paradigms/metaprogramming",
+      "fx": -1587.4136679292928,
+      "fy": 176.08049242423624,
       "category": "mindmap"
     },
     {
@@ -182,8 +189,16 @@
       "source": "basics",
       "target": "dataflow programming  ️",
       "curve": {
-        "x": -865.494,
-        "y": 53.0939
+        "x": -827.613,
+        "y": 141.642
+      }
+    },
+    {
+      "source": "basics",
+      "target": "metaprogramming  ️",
+      "curve": {
+        "x": -1055.11,
+        "y": 64.4256
       }
     }
   ]
