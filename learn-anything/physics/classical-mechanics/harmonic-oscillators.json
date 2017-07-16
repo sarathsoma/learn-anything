@@ -24,29 +24,30 @@
   ],
   "subnodes": [
     {
-      "text": "why is quantum field theory formulated in terms of harmonic oscillators?  ❓",
+      "text": "why is quantum field theory formulated in terms of harmonic oscillators?",
       "url": "https://www.quora.com/Why-is-quantum-field-theory-formulated-in-terms-of-harmonic-oscillators",
-      "fx": 698.0214878370781,
-      "fy": 47.44916396581834,
-      "color": "rgba(175, 54, 242, 1.0)",
+      "fx": 706.0214878370781,
+      "fy": 45.44916396581834,
+      "category": "quora",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "interesting"
     },
     {
       "text": "1. energy of simple harmonic oscillators",
       "url": "https://www.youtube.com/watch?v=nvc78QWnDH4",
-      "fx": 532.0016526935482,
-      "fy": 178.20747176739337,
+      "fx": 539.0016526935482,
+      "fy": 175.20747176739337,
       "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
+      "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     },
     {
       "text": "1. intuition about simple harmonic oscillators",
       "url": "https://www.youtube.com/watch?v=ZcZQsj6YAgU",
-      "fx": 532.0016526935482,
-      "fy": 240.20747176739337,
+      "fx": 539.0016526935482,
+      "fy": 242.20747176739337,
       "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
+      "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
   ],

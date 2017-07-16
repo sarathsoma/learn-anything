@@ -27,10 +27,11 @@
       "parent": "basics"
     },
     {
-      "text": "1. what is the mechanism behind OCR?  ❓",
+      "text": "1. what is the mechanism behind OCR?",
       "url": "https://www.quora.com/How-does-optical-character-recognition-OCR-work-for-scanning-images-or-texts-What-is-the-mechanism",
       "fx": 312.40625,
       "fy": 0.6378744452663341,
+      "category": "quora",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "basics"
     }

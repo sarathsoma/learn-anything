@@ -124,10 +124,11 @@
       "parent": "interesting"
     },
     {
-      "text": "why didn’t great painters of the past reach the level of realism achieved today by many artists?  ❓",
+      "text": "why didn’t great painters of the past reach the level of realism achieved today by many artists?",
       "url": "https://www.quora.com/Why-didn%E2%80%99t-great-painters-of-the-past-reach-the-level-of-realism-achieved-today-by-many-artists/answer/Tyler-Berry-25?srid=OKNi",
       "fx": 520.8846664428711,
       "fy": 28.707687377929688,
+      "category": "quora",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "interesting"
     },

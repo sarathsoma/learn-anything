@@ -33,10 +33,11 @@
       "parent": "applications"
     },
     {
-      "text": "1. explanation  ❓",
+      "text": "1. explanation",
       "url": "https://www.quora.com/How-does-the-Marching-cubes-algorithm-work",
       "fx": 256.0473534827761,
       "fy": -63.90623912540485,
+      "category": "quora",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     },

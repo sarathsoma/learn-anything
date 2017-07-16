@@ -27,10 +27,11 @@
       "parent": "football"
     },
     {
-      "text": "1. how can an adult learn to play football?  ❓",
+      "text": "1. how can an adult learn to play football?",
       "url": "https://www.quora.com/How-can-an-adult-learn-to-play-football",
       "fx": 109.26448170731726,
       "fy": 15.853658536606986,
+      "category": "quora",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     }

@@ -23,10 +23,11 @@
   ],
   "subnodes": [
     {
-      "text": "what is bayesian machine learning?  ❓",
+      "text": "what is bayesian machine learning?",
       "url": "https://www.quora.com/What-is-Bayesian-machine-learning",
       "fx": 198.46668043892532,
       "fy": -137.94038519519387,
+      "category": "quora",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },

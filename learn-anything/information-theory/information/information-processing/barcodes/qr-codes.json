@@ -33,10 +33,11 @@
       "parent": "interesting"
     },
     {
-      "text": "1. how QR codes work ❓",
+      "text": "1. how QR codes work",
       "url": "https://www.quora.com/How-do-QR-codes-work",
       "fx": 52.02601330096911,
       "fy": -32.58898390256445,
+      "category": "quora",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }

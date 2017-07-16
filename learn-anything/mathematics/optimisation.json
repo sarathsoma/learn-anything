@@ -73,10 +73,11 @@
   ],
   "subnodes": [
     {
-      "text": "resources to learn optimisation  ❓",
+      "text": "resources to learn optimisation",
       "url": "https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization",
       "fx": 215.28285319615497,
       "fy": -321.2988803508407,
+      "category": "quora",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
     },

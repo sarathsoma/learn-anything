@@ -18,10 +18,11 @@
   ],
   "subnodes": [
     {
-      "text": "1. what is bias in artificial neural network?  ❓",
+      "text": "1. what is bias in artificial neural network?",
       "url": "https://www.quora.com/What-is-bias-in-artificial-neural-network",
       "fx": 168.3359316008059,
       "fy": -125.66400744088736,
+      "category": "quora",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
     },

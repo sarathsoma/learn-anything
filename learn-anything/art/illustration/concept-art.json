@@ -45,10 +45,11 @@
       "parent": "basics"
     },
     {
-      "text": "1. how to get started with concept art?  ❓",
+      "text": "1. how to get started with concept art?",
       "url": "https://www.quora.com/How-do-I-start-with-concept-art",
       "fx": 259.91115083025977,
       "fy": -19.529808579329767,
+      "category": "quora",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }

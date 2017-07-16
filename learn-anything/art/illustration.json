@@ -25,10 +25,11 @@
   ],
   "subnodes": [
     {
-      "text": "1. what is the best way to learn how to illustrate?  ❓",
+      "text": "1. what is the best way to learn how to illustrate?",
       "url": "https://www.quora.com/What-is-the-best-way-to-learn-how-to-illustrate",
       "fx": 274.16341980871323,
       "fy": -46.108840575701095,
+      "category": "quora",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "basics"
     }
