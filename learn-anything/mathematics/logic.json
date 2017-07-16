@@ -18,8 +18,8 @@
     {
       "text": "talks",
       "url": "",
-      "fx": 439.07142857142844,
-      "fy": 44.85714285714289
+      "fx": 441.8111545988254,
+      "fy": 50.483748165362044
     },
     {
       "text": "basics",
@@ -143,7 +143,7 @@
       "text": "incredible proof machine",
       "url": "http://incredible.pm/",
       "fx": 212.74711570598538,
-      "fy": -142.85386029411757,
+      "fy": -162.85386029411757,
       "category": "interactive",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -152,7 +152,7 @@
       "text": "functional programming in coq, logic and more",
       "url": "http://www.cis.upenn.edu/~bcpierce/sf/current/toc.html",
       "fx": 212.74711570598538,
-      "fy": -102.85386029411757,
+      "fy": -122.85386029411757,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -161,16 +161,25 @@
       "text": "book of bad arguments",
       "url": "https://bookofbadarguments.com/",
       "fx": 212.74711570598538,
-      "fy": -40.85386029411757,
+      "fy": -60.85386029411757,
       "category": "free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
+      "text": "list of logic symbols",
+      "url": "http://www.wikiwand.com/en/List_of_logic_symbols",
+      "fx": 212.74711570598538,
+      "fy": -20.853860294117567,
+      "category": "wiki",
+      "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "13: logic, information and computation",
       "url": "https://www.youtube.com/watch?v=BczwMBsyODY",
-      "fx": 579.0714285714284,
-      "fy": 45.35714285714289,
+      "fx": 581.8111545988254,
+      "fy": 50.983748165362044,
       "category": "video",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "talks"
@@ -286,8 +295,8 @@
       "source": "talks",
       "target": "help",
       "curve": {
-        "x": -241.326,
-        "y": -27.7097
+        "x": -242.696,
+        "y": -30.523
       }
     },
     {

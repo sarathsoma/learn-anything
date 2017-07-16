@@ -5,15 +5,15 @@
     {
       "text": "calculus",
       "url": "http://www.wikiwand.com/en/Calculus",
-      "fx": 85.02110865964733,
-      "fy": -409.8151482099937,
+      "fx": 96.9509417341817,
+      "fy": -462.37726001123593,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 234.44040767542083,
-      "fy": -291.6896628898597
+      "fx": 235.8718905946755,
+      "fy": -312.926561181785
     },
     {
       "text": "basics",
@@ -78,8 +78,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/calculus/",
-      "fx": 297.0211086596473,
-      "fy": -395.8151482099937,
+      "fx": 308.9509417341817,
+      "fy": -448.37726001123593,
       "category": "reddit",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "calculus"
@@ -87,8 +87,8 @@
     {
       "text": "highlights of calculus",
       "url": "https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/highlights_of_calculus/",
-      "fx": 375.44040767542083,
-      "fy": -334.6896628898597,
+      "fx": 376.8718905946755,
+      "fy": -374.426561181785,
       "category": "video",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
@@ -96,25 +96,33 @@
     {
       "text": "too much calculus",
       "url": "http://www-math.mit.edu/~gs/papers/essay.pdf",
-      "fx": 375.44040767542083,
-      "fy": -292.6896628898597,
+      "fx": 376.8718905946755,
+      "fy": -332.426561181785,
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "calculus learning guide",
       "url": "https://betterexplained.com/guides/calculus/",
-      "fx": 375.44040767542083,
-      "fy": -255.68966288985968,
+      "fx": 376.8718905946755,
+      "fy": -295.426561181785,
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "calculus overview",
       "url": "http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html",
-      "fx": 375.44040767542083,
-      "fy": -218.68966288985968,
+      "fx": 376.8718905946755,
+      "fy": -258.426561181785,
       "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "calculus cheat sheet",
+      "url": "http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf",
+      "fx": 376.8718905946755,
+      "fy": -221.42656118178502,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
     },
     {
@@ -212,16 +220,16 @@
       "source": "calculus",
       "target": "basics",
       "curve": {
-        "x": -35.7672,
-        "y": 212.609
+        "x": -41.7321,
+        "y": 238.89
       }
     },
     {
       "source": "help",
       "target": "calculus",
       "curve": {
-        "x": -58.9596,
-        "y": -57.8128
+        "x": -53.7104,
+        "y": -73.4754
       }
     },
     {

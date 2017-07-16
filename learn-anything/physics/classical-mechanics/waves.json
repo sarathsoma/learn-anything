@@ -18,8 +18,15 @@
     {
       "text": "mechanical waves  ️",
       "url": "/physics/classical-mechanics/waves/mechanical-waves",
-      "fx": -315.1991958618164,
+      "fx": -314.02075958251953,
       "fy": 96.2425708770752,
+      "category": "mindmap"
+    },
+    {
+      "text": "wave equation  ️",
+      "url": "/physics/classical-mechanics/waves/wave-equation",
+      "fx": -537.1643343235468,
+      "fy": 96.86958618100857,
       "category": "mindmap"
     },
     {
@@ -70,7 +77,7 @@
       "source": "basics",
       "target": "mechanical waves  ️",
       "curve": {
-        "x": -115.53,
+        "x": -114.941,
         "y": 82.8086
       }
     },
@@ -88,6 +95,14 @@
       "curve": {
         "x": 109.434,
         "y": 84.7261
+      }
+    },
+    {
+      "source": "basics",
+      "target": "wave equation  ️",
+      "curve": {
+        "x": -251.262,
+        "y": 68.8854
       }
     }
   ]

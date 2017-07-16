@@ -12,8 +12,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 104.79077759377685,
-      "fy": -173.47627817115887
+      "fx": 62.2349740223483,
+      "fy": -185.2932424568731
     },
     {
       "text": "basics",
@@ -34,10 +34,18 @@
     {
       "text": "notes on graph analysis  ️",
       "url": "http://frnsys.com/ai_notes/scratch/graph%20analysis.html",
-      "fx": 241.79077759377685,
-      "fy": -161.97627817115887,
+      "fx": 199.2349740223483,
+      "fy": -201.7932424568731,
       "category": "article",
       "color": "rgba(175, 54, 242, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "basic graph theory definitions and notation",
+      "url": "https://webdocs.cs.ualberta.ca/~stewart/c672/Definitions.pdf",
+      "fx": 199.2349740223483,
+      "fy": -161.7932424568731,
+      "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
     },
     {
@@ -90,8 +98,8 @@
       "source": "help",
       "target": "graph theory",
       "curve": {
-        "x": -59.0826,
-        "y": -57.5518
+        "x": -37.8047,
+        "y": -51.6433
       }
     },
     {

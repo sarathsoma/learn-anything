@@ -31,8 +31,8 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 103.40393698240166,
-      "fy": 266.286838444617
+      "fx": 47.27893698240166,
+      "fy": 247.611057194617
     },
     {
       "text": "polymorphism  ️",
@@ -100,8 +100,8 @@
     {
       "text": "1. where to start learning type theory  ️",
       "url": "http://purelytheoretical.com/sywtltt.html",
-      "fx": 285.40393698240166,
-      "fy": 195.786838444617,
+      "fx": 229.27893698240166,
+      "fy": 157.111057194617,
       "category": "article",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "basics"
@@ -109,8 +109,8 @@
     {
       "text": "1. proofs and types",
       "url": "http://www.paultaylor.eu/stable/prot.pdf",
-      "fx": 285.40393698240166,
-      "fy": 257.786838444617,
+      "fx": 229.27893698240166,
+      "fy": 219.111057194617,
       "category": "free book",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "basics"
@@ -118,8 +118,8 @@
     {
       "text": "1. type theory and functional programming",
       "url": "https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/",
-      "fx": 285.40393698240166,
-      "fy": 297.786838444617,
+      "fx": 229.27893698240166,
+      "fy": 259.111057194617,
       "category": "non-free book",
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "basics"
@@ -127,10 +127,19 @@
     {
       "text": "1. propositions as types",
       "url": "http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf",
-      "fx": 285.40393698240166,
-      "fy": 359.786838444617,
+      "fx": 229.27893698240166,
+      "fy": 321.111057194617,
       "category": "paper",
       "color": "rgba(34, 205, 224, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "1. introduction to type theory",
+      "url": "http://www.cs.ru.nl/~herman/PUBS/IntroTT-improved.pdf",
+      "fx": 229.27893698240166,
+      "fy": 361.111057194617,
+      "category": "paper",
+      "color": "rgba(209, 21, 88, 1.0)",
       "parent": "basics"
     }
   ],
@@ -139,8 +148,8 @@
       "source": "type theory",
       "target": "basics",
       "curve": {
-        "x": -4.32537,
-        "y": 204.754
+        "x": -32.3879,
+        "y": 195.416
       }
     },
     {
@@ -163,8 +172,8 @@
       "source": "basics",
       "target": "intuitionistic type theory",
       "curve": {
-        "x": 12.4907,
-        "y": 89.2447
+        "x": 40.5532,
+        "y": 98.5826
       }
     },
     {
@@ -195,16 +204,16 @@
       "source": "basics",
       "target": "algebraic data types  ️",
       "curve": {
-        "x": -135.445,
-        "y": 87.4129
+        "x": -107.382,
+        "y": 96.7508
       }
     },
     {
       "source": "basics",
       "target": "polymorphism  ️",
       "curve": {
-        "x": -293.426,
-        "y": 54.7355
+        "x": -265.363,
+        "y": 64.0734
       }
     }
   ]

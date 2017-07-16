@@ -12,8 +12,8 @@
     {
       "text": "help",
       "url": "",
-      "fx": 233.15336425990813,
-      "fy": -442.8065856910144
+      "fx": 241.518127190943,
+      "fy": -434.15087448411776
     },
     {
       "text": "interesting",
@@ -147,10 +147,19 @@
       "parent": "statistics"
     },
     {
+      "text": "notation in probability and statistics",
+      "url": "http://www.wikiwand.com/en/Notation_in_probability_and_statistics",
+      "fx": 378.518127190943,
+      "fy": -527.6508744841178,
+      "category": "wiki",
+      "color": "rgba(49, 187, 71, 1.0)",
+      "parent": "help"
+    },
+    {
       "text": "probability and statistics cookbook",
       "url": "https://github.com/mavam/stat-cookbook",
-      "fx": 370.15336425990813,
-      "fy": -527.3065856910143,
+      "fx": 378.518127190943,
+      "fy": -487.6508744841178,
       "category": "github",
       "color": "rgba(175, 54, 242, 1.0)",
       "parent": "help"
@@ -158,8 +167,8 @@
     {
       "text": "advanced probability",
       "url": "http://www.math.ku.dk/noter/filer/vidsand12.pdf",
-      "fx": 370.15336425990813,
-      "fy": -465.3065856910144,
+      "fx": 378.518127190943,
+      "fy": -447.6508744841178,
       "category": "free book",
       "color": "rgba(36, 170, 255, 1.0)",
       "parent": "help"
@@ -167,16 +176,16 @@
     {
       "text": "probability, mathematical statistics, stochastic processes",
       "url": "http://www.math.uah.edu/stat/index.html",
-      "fx": 370.15336425990813,
-      "fy": -425.3065856910144,
+      "fx": 378.518127190943,
+      "fy": -407.6508744841178,
       "color": "rgba(255, 189, 10, 1.0)",
       "parent": "help"
     },
     {
       "text": "conditional probability",
       "url": "http://setosa.io/ev/conditional-probability/",
-      "fx": 370.15336425990813,
-      "fy": -369.3065856910144,
+      "fx": 378.518127190943,
+      "fy": -351.6508744841178,
       "category": "interactive",
       "color": "rgba(34, 205, 224, 1.0)",
       "parent": "help"
@@ -184,8 +193,8 @@
     {
       "text": "cheat sheet",
       "url": "http://www.datasciencecentral.com/profiles/blogs/a-cheat-sheet-on-probability",
-      "fx": 370.15336425990813,
-      "fy": -329.3065856910144,
+      "fx": 378.518127190943,
+      "fy": -311.6508744841178,
       "color": "rgba(209, 21, 88, 1.0)",
       "parent": "help"
     },
@@ -304,8 +313,8 @@
       "source": "help",
       "target": "statistics",
       "curve": {
-        "x": -66.0545,
-        "y": -89.4417
+        "x": -70.2369,
+        "y": -93.7696
       }
     },
     {
@@ -360,8 +369,8 @@
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -187.811,
-        "y": -85.7946
+        "x": -183.629,
+        "y": -81.4667
       }
     },
     {

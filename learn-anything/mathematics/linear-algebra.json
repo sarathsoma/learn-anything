@@ -5,15 +5,15 @@
     {
       "text": "linear algebra",
       "url": "http://www.wikiwand.com/en/Linear_algebra",
-      "fx": 89.16831090328446,
-      "fy": -546.473207212778,
+      "fx": 64.27681784772858,
+      "fy": -613.4247046086114,
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 282.0773999985606,
-      "fy": -398.842803045181
+      "fx": 263.97572899161605,
+      "fy": -450.283232732681
     },
     {
       "text": "basics",
@@ -55,8 +55,8 @@
     {
       "text": "",
       "url": "https://www.reddit.com/r/LearningLinearAlgebra/",
-      "fx": 350.16831090328446,
-      "fy": -532.473207212778,
+      "fx": 325.2768178477286,
+      "fy": -599.4247046086114,
       "category": "reddit",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "linear algebra"
@@ -64,8 +64,8 @@
     {
       "text": "interactive 2D matrix",
       "url": "http://ncase.me/matrix/",
-      "fx": 423.0773999985606,
-      "fy": -466.842803045181,
+      "fx": 404.97572899161605,
+      "fy": -549.2832327326811,
       "category": "interactive",
       "color": "rgba(104, 255, 109, 1.0)",
       "parent": "help"
@@ -73,25 +73,33 @@
     {
       "text": "applications of linear algebra",
       "url": "http://aix1.uottawa.ca/%7Ejkhoury/app.htm",
-      "fx": 423.0773999985606,
-      "fy": -424.842803045181,
+      "fx": 404.97572899161605,
+      "fy": -507.2832327326809,
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "help"
     },
     {
       "text": "linear algebra for machine learning",
       "url": "http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/LinearAlgebra.pdf",
-      "fx": 423.0773999985606,
-      "fy": -387.842803045181,
+      "fx": 404.97572899161605,
+      "fy": -470.2832327326809,
       "color": "rgba(83, 201, 255, 1.0)",
       "parent": "help"
     },
     {
       "text": "linear algebra cheat sheet for deep learning",
       "url": "https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c",
-      "fx": 423.0773999985606,
-      "fy": -325.842803045181,
+      "fx": 404.97572899161605,
+      "fy": -408.2832327326809,
       "color": "rgba(252, 177, 20, 1.0)",
+      "parent": "help"
+    },
+    {
+      "text": "linear algebra review and reference",
+      "url": "http://cs229.stanford.edu/section/cs229-linalg.pdf",
+      "fx": 404.97572899161605,
+      "fy": -346.2832327326809,
+      "color": "rgba(255, 254, 60, 1.0)",
       "parent": "help"
     },
     {
@@ -200,16 +208,16 @@
       "source": "help",
       "target": "linear algebra",
       "curve": {
-        "x": -68.7046,
-        "y": -72.5653
+        "x": -72.0995,
+        "y": -80.3208
       }
     },
     {
       "source": "linear algebra",
       "target": "basics",
       "curve": {
-        "x": -76.6496,
-        "y": 286.401
+        "x": -64.2039,
+        "y": 319.877
       }
     },
     {
