@@ -38,6 +38,7 @@
     },
     {
       "text": "wavelength  ️",
+      "url": "/physics/classical-mechanics/waves-/wavelength",
       "fx": -1462.9410427393216,
       "fy": 82.25204400269297,
       "nodes": [],
@@ -45,6 +46,7 @@
     },
     {
       "text": "frequency  ️",
+      "url": "/physics/classical-mechanics/waves/frequency",
       "fx": -1271.8298645019531,
       "fy": 86.21925354003906,
       "nodes": [],
@@ -60,6 +62,7 @@
     },
     {
       "text": "total internal reflection  ️",
+      "url": "/physics/classical-mechanics/waves/total-internal-reflection",
       "fx": -839.5845642089844,
       "fy": 91.47192001342773,
       "nodes": [],

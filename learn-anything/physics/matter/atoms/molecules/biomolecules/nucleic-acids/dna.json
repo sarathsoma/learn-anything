@@ -1,12 +1,12 @@
 {
-  "title": "learn anything - biology - genetics - dna",
+  "title": "learn anything - physics - matter - atoms - molecules - biomolecules - nucleic acids - dna",
   "tag": "DNA",
   "nodes": [
     {
       "text": "DNA",
       "url": "http://www.wikiwand.com/en/DNA",
-      "fx": -171.50816602038208,
-      "fy": -278.22784413656905,
+      "fx": -167.09968387752485,
+      "fy": -274.5950316365691,
       "nodes": [],
       "category": "wiki"
     },
@@ -58,25 +58,25 @@
     },
     {
       "text": "DNA replication  ️",
-      "url": "/biology/genetics/dna/dna-replication",
-      "fx": -446.4132270781081,
+      "url": "/physics/matter/atoms/molecules/biomolecules/nucleic-acids/dna/dna-replication",
+      "fx": -445.4132270781081,
       "fy": 2.3016199352580884,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "genomes  ️",
-      "url": "/biology/genetics/dna/genomes",
-      "fx": -228.75217340225504,
+      "url": "/physics/matter/atoms/molecules/biomolecules/nucleic-acids/dna/genomes",
+      "fx": -226.75217340225504,
       "fy": 3.831159931077366,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "DNA repair  ️",
-      "url": "/biology/genetics/dna/dna-repair",
-      "fx": -64.98302923678602,
-      "fy": 7.680058869432173,
+      "url": "/physics/matter/atoms/molecules/biomolecules/nucleic-acids/dna/dna-repair",
+      "fx": -66.84017209392869,
+      "fy": 4.822916012289397,
       "nodes": [],
       "category": "mindmap"
     }
@@ -86,15 +86,15 @@
       "source": "DNA",
       "target": "basics",
       "curve": {
-        "x": -9.52807,
-        "y": 60.2165
+        "x": -11.7323,
+        "y": 58.4001
       }
     },
     {
       "source": "basics",
       "target": "genomes  ️",
       "curve": {
-        "x": -22.3439,
+        "x": -21.3439,
         "y": 79.563
       }
     },
@@ -102,16 +102,16 @@
       "source": "basics",
       "target": "DNA replication  ️",
       "curve": {
-        "x": -117.174,
-        "y": 78.7982
+        "x": -131.653,
+        "y": 67.6145
       }
     },
     {
       "source": "basics",
       "target": "DNA repair  ️",
       "curve": {
-        "x": 63.0406,
-        "y": 81.4875
+        "x": 62.112,
+        "y": 80.0589
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "title": "learn anything - biology - genetics - dna - genomes",
+  "title": "learn anything - physics - matter - atoms - molecules - biomolecules - nucleic acids - dna - genomes",
   "tag": "",
   "nodes": [
     {
@@ -29,8 +29,8 @@
     },
     {
       "text": "genomics  ️",
-      "url": "/biology/genetics/dna/genomes/genomics",
-      "fx": 103.46916118421063,
+      "url": "/physics/matter/atoms/molecules/biomolecules/nucleic-acids/dna/genomes/genomics",
+      "fx": 104.46916118421063,
       "fy": 79.0716145832883,
       "nodes": [],
       "category": "mindmap"
@@ -49,7 +49,7 @@
       "source": "basics",
       "target": "genomics  ️",
       "curve": {
-        "x": -48.6212,
+        "x": -48.1212,
         "y": 62.6177
       }
     }

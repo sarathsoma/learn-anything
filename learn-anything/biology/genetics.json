@@ -24,6 +24,7 @@
     {
       "text": "DNA  ️",
       "note": "short for deoxyribonucleic acid, is the molecule that contains the genetic code of organisms, includes animals, plants, protists, archaea and bacteria, DNA is in each cell in the organism and tells cells what proteins to make",
+      "url": "/physics/matter/atoms/molecules/biomolecules/nucleic-acids/dna",
       "fx": -159.44615260586886,
       "fy": -176.25894762007198,
       "nodes": [],
@@ -31,6 +32,7 @@
     },
     {
       "text": "RNA  ️",
+      "url": "/physics/matter/atoms/molecules/biomolecules/nucleic-acids/rna",
       "fx": -297.27762108006027,
       "fy": -174.30173427911234,
       "nodes": [],
@@ -38,6 +40,7 @@
     },
     {
       "text": "genetic engineering  ️",
+      "url": "/biology/genetics/genetic-engineering",
       "fx": -0.21607708980343432,
       "fy": -174.12709061205993,
       "nodes": [],

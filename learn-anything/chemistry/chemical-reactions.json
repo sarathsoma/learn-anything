@@ -26,6 +26,14 @@
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "catalysis  ️",
+      "url": "/chemistry/chemical-reactions/catalysis",
+      "fx": 79.65843361801069,
+      "fy": 2.989227484447156,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -35,6 +43,14 @@
       "curve": {
         "x": 1.39453,
         "y": 65.168
+      }
+    },
+    {
+      "source": "basics",
+      "target": "catalysis  ️",
+      "curve": {
+        "x": -49.829,
+        "y": 62.2348
       }
     }
   ]

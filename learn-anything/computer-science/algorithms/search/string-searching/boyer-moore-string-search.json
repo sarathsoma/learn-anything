@@ -1,11 +1,11 @@
 {
-  "title": "learn anything - computer science - algorithms - search - string searching - boyer–moore string search",
-  "tag": "Boyer–Moore string search algorithm",
+  "title": "learn anything - computer science - algorithms - search - string searching - boyer-moore string search",
+  "tag": "Boyer-Moore string search algorithm",
   "nodes": [
     {
-      "text": "Boyer–Moore string search algorithm",
+      "text": "Boyer-Moore string search algorithm",
       "url": "http://www.wikiwand.com/en/Boyer%E2%80%93Moore_string_search_algorithm",
-      "fx": 57.21875,
+      "fx": 59.71875,
       "fy": -109.125,
       "nodes": [],
       "category": "wiki"
@@ -30,10 +30,10 @@
   ],
   "connections": [
     {
-      "source": "Boyer–Moore string search algorithm",
+      "source": "Boyer-Moore string search algorithm",
       "target": "basics",
       "curve": {
-        "x": -5.10938,
+        "x": -6.35938,
         "y": 67.5625
       }
     }
