@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Coroutine",
       "fx": 237.64453125,
       "fy": -188.1640625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 259.5078125,
-      "fy": -43.125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation  ️",
-      "url": "https://stackoverflow.com/a/553745/3067664",
-      "fx": 422.5078125,
-      "fy": -30.625,
-      "category": "stack exchange",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -43.125,
+      "nodes": [
+        {
+          "text": "1. explanation  ️",
+          "url": "https://stackoverflow.com/a/553745/3067664",
+          "fx": 422.5078125,
+          "fy": -30.625,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

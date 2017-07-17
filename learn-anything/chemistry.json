@@ -5,28 +5,107 @@
     {
       "text": "chemistry",
       "url": "http://www.wikiwand.com/en/Chemistry",
-      "fx": -157.57739910705982,
-      "fy": -534.9495655956164,
+      "fx": -120.17505535705982,
+      "fy": -596.5237843456164,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/chemistry/",
+          "fx": 93.82494464294018,
+          "fy": -602.5237843456164,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://chemistry.stackexchange.com/",
+          "fx": 93.82494464294018,
+          "fy": -562.5237843456164,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": -5.7714502616006484,
-      "fy": -422.93179367843675
+      "fx": 27.50589348839935,
+      "fy": -496.21304367843675,
+      "nodes": [
+        {
+          "text": "chemguide",
+          "url": "http://www.chemguide.co.uk/",
+          "fx": 164.50589348839935,
+          "fy": -481.71304367843675,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -168.88044874074762,
-      "fy": -276.37785331912136
+      "fx": -106.22029249074762,
+      "fy": -340.54972831912136,
+      "nodes": [
+        {
+          "text": "1. the map of chemistry",
+          "note": "this will give you an overview of how vast the field is and will spark your interest",
+          "url": "https://www.youtube.com/watch?v=P3RXtoYCW4M",
+          "fx": 75.77970750925238,
+          "fy": -409.04972831912136,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "2. AP chemistry essentials",
+          "url": "https://www.youtube.com/playlist?list=PLllVwaZQkS2op2kDuFifhStNsS49LAxkZ",
+          "fx": 75.77970750925238,
+          "fy": -369.04972831912136,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "2. crash course chemistry",
+          "url": "https://www.youtube.com/watch?v=FSyAehMdpyI&amp;list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr",
+          "fx": 75.77970750925238,
+          "fy": -329.04972831912136,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "2. khan academy chemistry",
+          "url": "https://www.khanacademy.org/science/chemistry",
+          "fx": 75.77970750925238,
+          "fy": -289.04972831912136,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "2. general chemistry",
+          "url": "https://www.goodreads.com/book/show/1081360.General_Chemistry",
+          "fx": 75.77970750925238,
+          "fy": -249.04972831912136,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "drugs  ️",
       "url": "/chemistry/drugs",
       "fx": -564.6911926269531,
       "fy": -2.83516788482666,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +114,7 @@
       "url": "/chemistry/molecular-symmetry",
       "fx": -1391.9566345214844,
       "fy": -2.346555233001709,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +122,7 @@
       "url": "/chemistry/biochemistry",
       "fx": -437.58287048339844,
       "fy": -1.3115801811218262,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +130,7 @@
       "url": "/chemistry/electrochemistry",
       "fx": -1615.0060230446927,
       "fy": -0.3536138268193554,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -57,6 +139,7 @@
       "url": "/chemistry/quantum-chemistry",
       "fx": -1108.8742980957031,
       "fy": -0.17800235748291016,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -65,6 +148,7 @@
       "url": "/chemistry/chemical-elements",
       "fx": -833.7865142822266,
       "fy": -0.10661029815673828,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -72,6 +156,7 @@
       "url": "/chemistry/chemical-reactions",
       "fx": -2108.0355834960938,
       "fy": 0.23501253128051758,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -79,6 +164,7 @@
       "url": "/chemistry/analytical-chemistry",
       "fx": -2369.300204918033,
       "fy": 1.5416880122951397,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -86,6 +172,7 @@
       "url": "/chemistry/organic-chemistry",
       "fx": -247.4729118347168,
       "fy": 1.9662890434265137,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -93,6 +180,7 @@
       "url": "/chemistry/physical-chemistry",
       "fx": -1864.9042358398438,
       "fy": 2.1184191703796387,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -100,6 +188,7 @@
       "url": "/chemistry/inorganic-chemistry",
       "fx": -11.344337463378906,
       "fy": 5.38154935836792,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -107,72 +196,8 @@
       "url": "/chemistry/polymer-chemistry",
       "fx": 239.80193328857422,
       "fy": 5.902863502502441,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/chemistry/",
-      "fx": 56.42260089294018,
-      "fy": -540.9495655956164,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "chemistry"
-    },
-    {
-      "text": "️",
-      "url": "https://chemistry.stackexchange.com/",
-      "fx": 56.42260089294018,
-      "fy": -500.9495655956164,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "chemistry"
-    },
-    {
-      "text": "chemguide",
-      "url": "http://www.chemguide.co.uk/",
-      "fx": 131.22854973839935,
-      "fy": -408.43179367843675,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. the map of chemistry",
-      "note": "this will give you an overview of how vast the field is and will spark your interest",
-      "url": "https://www.youtube.com/watch?v=P3RXtoYCW4M",
-      "fx": 13.119551259252376,
-      "fy": -324.87785331912136,
-      "category": "video",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. crash course chemistry",
-      "url": "https://www.youtube.com/watch?v=FSyAehMdpyI&amp;list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr",
-      "fx": 13.119551259252376,
-      "fy": -284.87785331912136,
-      "category": "video",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. khan academy chemistry",
-      "url": "https://www.khanacademy.org/science/chemistry",
-      "fx": 13.119551259252376,
-      "fy": -244.87785331912136,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. general chemistry",
-      "url": "https://www.goodreads.com/book/show/1081360.General_Chemistry",
-      "fx": 13.119551259252376,
-      "fy": -204.87785331912136,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [
@@ -180,112 +205,112 @@
       "source": "chemistry",
       "target": "basics",
       "curve": {
-        "x": -13.6515,
-        "y": 129.286
+        "x": -1.02259,
+        "y": 127.987
       }
     },
     {
       "source": "basics",
       "target": "drugs  ️",
       "curve": {
-        "x": -242.148,
-        "y": 131.561
+        "x": -273.478,
+        "y": 163.647
       }
     },
     {
       "source": "basics",
       "target": "biochemistry  ️",
       "curve": {
-        "x": -120.102,
-        "y": 137.533
+        "x": -151.432,
+        "y": 169.619
       }
     },
     {
       "source": "help",
       "target": "chemistry",
       "curve": {
-        "x": -63.653,
-        "y": -56.0089
+        "x": -61.5905,
+        "y": -50.1554
       }
     },
     {
       "source": "basics",
       "target": "organic chemistry  ️",
       "curve": {
-        "x": -6.54625,
-        "y": 140.422
+        "x": -37.8763,
+        "y": 172.508
       }
     },
     {
       "source": "basics",
       "target": "inorganic chemistry  ️",
       "curve": {
-        "x": 115.268,
-        "y": 142.13
+        "x": 83.9379,
+        "y": 174.216
       }
     },
     {
       "source": "basics",
       "target": "polymer chemistry  ️",
       "curve": {
-        "x": 212.897,
-        "y": 161.74
+        "x": 181.567,
+        "y": 193.826
       }
     },
     {
       "source": "basics",
       "target": "chemical elements  ️",
       "curve": {
-        "x": -360.291,
-        "y": 134.095
+        "x": -391.621,
+        "y": 166.181
       }
     },
     {
       "source": "basics",
       "target": "quantum chemistry  ️",
       "curve": {
-        "x": -447.497,
-        "y": 138.1
+        "x": -478.827,
+        "y": 170.186
       }
     },
     {
       "source": "basics",
       "target": "molecular symmetry  ️",
       "curve": {
-        "x": -682.52,
-        "y": 124.199
+        "x": -713.85,
+        "y": 156.285
       }
     },
     {
       "source": "basics",
       "target": "electrochemistry  ️",
       "curve": {
-        "x": -840.507,
-        "y": 75.3037
+        "x": -871.837,
+        "y": 107.39
       }
     },
     {
       "source": "basics",
       "target": "physical chemistry  ️",
       "curve": {
-        "x": -988.301,
-        "y": 42.5841
+        "x": -1019.63,
+        "y": 74.67
       }
     },
     {
       "source": "basics",
       "target": "chemical reactions  ️",
       "curve": {
-        "x": -1069.41,
-        "y": 4.31338
+        "x": -1100.74,
+        "y": 36.3993
       }
     },
     {
       "source": "basics",
       "target": "analytical chemistry  ️",
       "curve": {
-        "x": -1437.66,
-        "y": 31.2449
+        "x": -1468.99,
+        "y": 63.3308
       }
     }
   ]

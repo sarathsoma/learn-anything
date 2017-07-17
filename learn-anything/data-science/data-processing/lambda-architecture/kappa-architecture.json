@@ -6,23 +6,24 @@
       "text": "kappa architecture",
       "url": "",
       "fx": 247.97265625,
-      "fy": -74.31640625
+      "fy": -74.31640625,
+      "nodes": []
     },
     {
       "text": "basics",
       "url": "",
       "fx": 299.8655213270148,
-      "fy": 69.8450088862798
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction",
-      "url": "http://milinda.pathirage.org/kappa-architecture.com/",
-      "fx": 462.8655213270148,
-      "fy": 84.8450088862798,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 69.8450088862798,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "http://milinda.pathirage.org/kappa-architecture.com/",
+          "fx": 462.8655213270148,
+          "fy": 84.8450088862798,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

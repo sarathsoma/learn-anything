@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Climate",
       "fx": 234.56316817434208,
       "fy": -152.87890625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 248.43950452302624,
-      "fy": -32.69515830592661
+      "fy": -32.69515830592661,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=fCDaVOlR150",
+          "fx": 403.43950452302624,
+          "fy": -21.19515830592661,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "Global warming  ️",
       "url": "/earth-science/atmospheric-sciences/atmosphere/weather/climate/global-warming",
       "fx": 118.3018007105943,
       "fy": 109.28815406976759,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=fCDaVOlR150",
-      "fx": 403.43950452302624,
-      "fy": -21.19515830592661,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

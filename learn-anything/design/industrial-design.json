@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Industrial_design",
       "fx": -140.91264204545462,
       "fy": -203.37073863636368,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "http://www.wikiwand.com/en/Prototype",
       "fx": -24.7109375,
       "fy": -82.79296875,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -22,10 +24,10 @@
       "url": "http://www.wikiwand.com/en/3D_modeling",
       "fx": -222.88280868530273,
       "fy": -80.82031345367432,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "industrial design",

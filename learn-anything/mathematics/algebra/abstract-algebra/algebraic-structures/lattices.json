@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Lattice_(order)",
       "fx": 0.70703125,
       "fy": -133.10546875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 16.5,
-      "fy": -5
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=qPtGlrb_sXg",
-      "fx": 172.5,
-      "fy": 6.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -5,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=qPtGlrb_sXg",
+          "fx": 172.5,
+          "fy": 6.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

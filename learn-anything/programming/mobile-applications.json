@@ -7,25 +7,29 @@
       "url": "http://www.wikiwand.com/en/Mobile_application_development",
       "fx": -87.40234375,
       "fy": -139.3322849025974,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "operating systems",
       "url": "",
       "fx": -152.85653409091128,
-      "fy": -22.151887175324987
+      "fy": -22.151887175324987,
+      "nodes": []
     },
     {
       "text": "frameworks",
       "url": "",
       "fx": 95.18671780396721,
-      "fy": -19.821350956281833
+      "fy": -19.821350956281833,
+      "nodes": []
     },
     {
       "text": "iOS  ️",
       "url": "/operating-systems/ios",
       "fx": -219.45210159289377,
       "fy": 86.69641214841386,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,6 +37,7 @@
       "url": "/operating-systems/android",
       "fx": -88.53779376017587,
       "fy": 87.67019802564164,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +45,7 @@
       "url": "/web-development/javascript-libraries/react-native",
       "fx": 69.32244176752556,
       "fy": 89.99866640947192,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,6 +53,7 @@
       "url": "/web-development/javascript-libraries/nativescript",
       "fx": 411.4540221291868,
       "fy": 93.79343600478006,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -54,6 +61,7 @@
       "url": "/programming/mobile-applications/xamarin",
       "fx": 250.96300377833745,
       "fy": 95.41573520151127,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -61,10 +69,10 @@
       "url": "/software/tooling/ide/xcode",
       "fx": -336.219427910053,
       "fy": 196.42329695767194,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "operating systems",

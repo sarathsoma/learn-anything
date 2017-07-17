@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Hydrogen_bond",
       "fx": -45.81640625,
       "fy": -145.85546875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 11.375,
-      "fy": 4
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. hydrogen bonding and common mistakes",
-      "url": "https://www.youtube.com/watch?v=PyC5r2mB4d4",
-      "fx": 167.375,
-      "fy": 4.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 4,
+      "nodes": [
+        {
+          "text": "1. hydrogen bonding and common mistakes",
+          "url": "https://www.youtube.com/watch?v=PyC5r2mB4d4",
+          "fx": 167.375,
+          "fy": 4.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

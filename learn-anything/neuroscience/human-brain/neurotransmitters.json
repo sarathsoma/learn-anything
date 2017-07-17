@@ -7,13 +7,25 @@
       "url": "http://www.wikiwand.com/en/Neurotransmitter",
       "fx": 211.9860725402832,
       "fy": -162.41985321044922,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 282.1015625,
-      "fy": -25.41015625
+      "fy": -25.41015625,
+      "nodes": [
+        {
+          "text": "1. the chemical mind",
+          "url": "https://www.youtube.com/watch?v=W4N-7AlzK7s",
+          "fx": 438.1015625,
+          "fy": -13.91015625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "dopamine",
@@ -21,6 +33,7 @@
       "url": "http://www.wikiwand.com/en/Dopamine",
       "fx": 106.92193515586177,
       "fy": 81.7737279299132,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -29,18 +42,8 @@
       "url": "http://www.wikiwand.com/en/Serotonin",
       "fx": 315.3733253479004,
       "fy": 85.54739379882812,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. the chemical mind",
-      "url": "https://www.youtube.com/watch?v=W4N-7AlzK7s",
-      "fx": 438.1015625,
-      "fy": -13.91015625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Reductionism",
       "fx": 200.69020871350358,
       "fy": -204.65217267335765,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 234.36496350364996,
-      "fy": -56.47445255478095
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. chaos and reductionism",
-      "url": "https://www.youtube.com/watch?v=_njf8jwEGRo",
-      "fx": 397.36496350364996,
-      "fy": -43.97445255478095,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -56.47445255478095,
+      "nodes": [
+        {
+          "text": "1. chaos and reductionism",
+          "url": "https://www.youtube.com/watch?v=_njf8jwEGRo",
+          "fx": 397.36496350364996,
+          "fy": -43.97445255478095,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,26 +7,168 @@
       "url": "http://www.wikiwand.com/en/Natural_language_processing",
       "fx": -84.88757338836854,
       "fy": -430.6922773509955,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/keon/awesome-nlp",
+          "fx": 296.11242661163146,
+          "fy": -416.6922773509955,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 164.80258943025535,
-      "fy": -294.2343583270738
+      "fy": -294.2343583270738,
+      "nodes": [
+        {
+          "text": "practical natural language processing done in ruby",
+          "url": "https://github.com/arbox/nlp-with-ruby",
+          "fx": 301.80258943025535,
+          "fy": -330.7343583270738,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "speech language processing",
+          "url": "https://github.com/edobashira/speech-language-processing",
+          "fx": 301.80258943025535,
+          "fy": -268.7343583270738,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "deep learning for NLP",
+          "url": "https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf",
+          "fx": 301.80258943025535,
+          "fy": -228.73435832707378,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -65.77758072848121,
-      "fy": 29.07644424383932
+      "fy": 29.07644424383932,
+      "nodes": [
+        {
+          "text": "1. notes on NLP  ️",
+          "url": "http://frnsys.com/ai_notes/machine_learning/natural_language_processing.html",
+          "fx": 116.22241927151879,
+          "fy": -174.42355575616068,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. introduction to NLP",
+          "url": "https://www.youtube.com/playlist?list=PL6397E4B26D00A269",
+          "fx": 116.22241927151879,
+          "fy": -134.42355575616068,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. natural language processing with deep learning by stanford",
+          "url": "http://web.stanford.edu/class/cs224n/",
+          "fx": 116.22241927151879,
+          "fy": -94.42355575616068,
+          "nodes": [
+            {
+              "text": "course notes",
+              "url": "https://github.com/stanfordnlp/cs224n-winter17-notes",
+              "fx": 478.2224192715188,
+              "fy": -80.42355575616068,
+              "nodes": [],
+              "color": "rgba(175, 54, 242, 1.0)"
+            }
+          ],
+          "category": "course",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. deep learning applied to NLP",
+          "url": "https://arxiv.org/pdf/1703.03091.pdf",
+          "fx": 116.22241927151879,
+          "fy": -32.42355575616068,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "1. deep learning, NLP and representations  ️",
+          "url": "http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/",
+          "fx": 116.22241927151879,
+          "fy": 7.576444243839319,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. understanding convolutional neural networks for NLP  ️",
+          "url": "http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/",
+          "fx": 116.22241927151879,
+          "fy": 69.57644424383932,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "2. oxford deep nlp",
+          "url": "https://github.com/oxford-cs-deepnlp-2017/lectures",
+          "fx": 116.22241927151879,
+          "fy": 131.57644424383932,
+          "nodes": [
+            {
+              "text": "solutions",
+              "url": "https://github.com/mleue/oxford-deep-nlp-2017-solutions",
+              "fx": 363.2224192715188,
+              "fy": 131.57644424383932,
+              "nodes": [],
+              "category": "github",
+              "color": "rgba(36, 170, 255, 1.0)"
+            }
+          ],
+          "category": "course",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. deep learning for NLP with pytorch  ️",
+          "url": "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html",
+          "fx": 116.22241927151879,
+          "fy": 171.57644424383932,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "2. embed, encode, attend, predict: new deep learning NLP model  ️",
+          "url": "https://explosion.ai/blog/deep-learning-formula-nlp",
+          "fx": 116.22241927151879,
+          "fy": 233.57644424383932,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "sentiment analysis  ️",
       "url": "/natural-language-processing/sentiment-analysis",
       "fx": -222.04811248883118,
       "fy": 274.93848232393077,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +176,7 @@
       "url": "/natural-language-processing/automatic-summarisation",
       "fx": -767.3984058086688,
       "fy": 277.662841796875,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +184,7 @@
       "url": "/natural-language-processing/text-classification",
       "fx": -457.753949200217,
       "fy": 278.1309405363312,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,142 +192,8 @@
       "url": "/natural-language-processing/word-vectors",
       "fx": -960.5420673076923,
       "fy": 278.62890625,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/keon/awesome-nlp",
-      "fx": 296.11242661163146,
-      "fy": -416.6922773509955,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "natural language processing"
-    },
-    {
-      "text": "practical natural language processing done in ruby",
-      "url": "https://github.com/arbox/nlp-with-ruby",
-      "fx": 301.80258943025535,
-      "fy": -330.7343583270738,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "speech language processing",
-      "url": "https://github.com/edobashira/speech-language-processing",
-      "fx": 301.80258943025535,
-      "fy": -268.7343583270738,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "deep learning for NLP",
-      "url": "https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf",
-      "fx": 301.80258943025535,
-      "fy": -228.73435832707378,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. notes on NLP  ️",
-      "url": "http://frnsys.com/ai_notes/machine_learning/natural_language_processing.html",
-      "fx": 116.22241927151879,
-      "fy": -174.42355575616068,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to NLP",
-      "url": "https://www.youtube.com/playlist?list=PL6397E4B26D00A269",
-      "fx": 116.22241927151879,
-      "fy": -134.42355575616068,
-      "category": "course",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. natural language processing with deep learning by stanford",
-      "url": "http://web.stanford.edu/class/cs224n/",
-      "fx": 116.22241927151879,
-      "fy": -94.42355575616068,
-      "category": "course",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "course notes",
-      "url": "https://github.com/stanfordnlp/cs224n-winter17-notes",
-      "fx": 478.2224192715188,
-      "fy": -80.42355575616068,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "1. natural language processing with deep learning by stanford"
-    },
-    {
-      "text": "1. deep learning applied to NLP",
-      "url": "https://arxiv.org/pdf/1703.03091.pdf",
-      "fx": 116.22241927151879,
-      "fy": -32.42355575616068,
-      "category": "paper",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. deep learning, NLP and representations  ️",
-      "url": "http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/",
-      "fx": 116.22241927151879,
-      "fy": 7.576444243839319,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. understanding convolutional neural networks for NLP  ️",
-      "url": "http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/",
-      "fx": 116.22241927151879,
-      "fy": 69.57644424383932,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. oxford deep nlp",
-      "url": "https://github.com/oxford-cs-deepnlp-2017/lectures",
-      "fx": 116.22241927151879,
-      "fy": 131.57644424383932,
-      "category": "course",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "solutions",
-      "url": "https://github.com/mleue/oxford-deep-nlp-2017-solutions",
-      "fx": 363.2224192715188,
-      "fy": 131.57644424383932,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "2. oxford deep nlp"
-    },
-    {
-      "text": "2. deep learning for NLP with pytorch  ️",
-      "url": "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html",
-      "fx": 116.22241927151879,
-      "fy": 171.57644424383932,
-      "category": "article",
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. embed, encode, attend, predict: new deep learning NLP model  ️",
-      "url": "https://explosion.ai/blog/deep-learning-formula-nlp",
-      "fx": 116.22241927151879,
-      "fy": 233.57644424383932,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

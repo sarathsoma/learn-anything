@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Steganography",
       "fx": 110.7766399211713,
       "fy": -205.67018581081072,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 158.62213740458014,
-      "fy": -64.77099236643141
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. secrets hidden in images",
-      "url": "https://www.youtube.com/watch?v=TWEXCYQKyDc",
-      "fx": 314.62213740458014,
-      "fy": -53.270992366431415,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -64.77099236643141,
+      "nodes": [
+        {
+          "text": "1. secrets hidden in images",
+          "url": "https://www.youtube.com/watch?v=TWEXCYQKyDc",
+          "fx": 314.62213740458014,
+          "fy": -53.270992366431415,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

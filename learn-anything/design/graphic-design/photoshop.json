@@ -7,40 +7,43 @@
       "url": "http://www.wikiwand.com/en/Adobe_Photoshop",
       "fx": -86.8203125,
       "fy": -216.2421875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 53.917519479990005,
-      "fy": -80.0004334449768
+      "fy": -80.0004334449768,
+      "nodes": [
+        {
+          "text": "PH learn",
+          "url": "https://www.youtube.com/user/PhlearnLLC/videos",
+          "fx": 190.91751947999,
+          "fy": -68.5004334449768,
+          "nodes": [],
+          "category": "youtube",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -76.58205239474773,
-      "fy": 32.538883209228516
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "PH learn",
-      "url": "https://www.youtube.com/user/PhlearnLLC/videos",
-      "fx": 190.91751947999,
-      "fy": -68.5004334449768,
-      "category": "youtube",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. get started with photoshop",
-      "url": "https://www.youtube.com/watch?v=yqKHo1Q7OMc",
-      "fx": 105.41794760525227,
-      "fy": 44.038883209228516,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 32.538883209228516,
+      "nodes": [
+        {
+          "text": "1. get started with photoshop",
+          "url": "https://www.youtube.com/watch?v=yqKHo1Q7OMc",
+          "fx": 105.41794760525227,
+          "fy": 44.038883209228516,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

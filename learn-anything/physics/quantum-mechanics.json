@@ -7,38 +7,180 @@
       "url": "http://www.wikiwand.com/en/Quantum_mechanics",
       "fx": -125.13791270012155,
       "fy": -318.2266122334779,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/quantum/",
+          "fx": 185.86208729987845,
+          "fy": -304.2266122334779,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 124.87941756629311,
-      "fy": -186.79568705736193
+      "fy": -186.79568705736193,
+      "nodes": [
+        {
+          "text": "kindergarten quantum mechanics lecture notes",
+          "url": "http://www.cs.ox.ac.uk/bob.coecke/VaxjoProc.pdf",
+          "fx": 261.8794175662931,
+          "fy": -239.29568705736193,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "lecture notes on quantum mechanics",
+          "url": "http://www.colorado.edu/physics/phys7270/phys7270_fa16/lecnotes.html",
+          "fx": 261.8794175662931,
+          "fy": -183.29568705736193,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "lecture notes on quantum field theory at Cambridge",
+          "url": "http://www.damtp.cam.ac.uk/user/tong/qft.html",
+          "fx": 261.8794175662931,
+          "fy": -127.29568705736193,
+          "nodes": [
+            {
+              "text": "videos",
+              "url": "http://www.damtp.cam.ac.uk/user/tong/qftvids.html",
+              "fx": 583.8794175662931,
+              "fy": -116.29568705736193,
+              "nodes": [],
+              "color": "rgba(255, 189, 10, 1.0)"
+            }
+          ],
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 332.14803099020946,
-      "fy": -10.899058187109858
+      "fy": -10.899058187109858,
+      "nodes": [
+        {
+          "text": "13: how quantum field theory becomes “effective”  ️",
+          "url": "http://www.preposterousuniverse.com/blog/2013/06/20/how-quantum-field-theory-becomes-effective/",
+          "fx": 494.14803099020946,
+          "fy": -61.39905818710986,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "16: space emerging from quantum mechanics  ️",
+          "url": "http://www.preposterousuniverse.com/blog/2016/07/18/space-emerging-from-quantum-mechanics/",
+          "fx": 494.14803099020946,
+          "fy": 0.6009418128901416,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "16: quantum suicide  ️",
+          "url": "https://thoughtexperiments.net/quantum-suicide/",
+          "fx": 494.14803099020946,
+          "fy": 62.60094181289014,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 513.1286783049163,
-      "fy": 180.42875368779573
+      "fy": 180.42875368779573,
+      "nodes": [
+        {
+          "text": "what would a very simple quantum program look like?   ️",
+          "url": "https://cstheory.stackexchange.com/questions/9381/what-would-a-very-simple-quantum-program-look-like",
+          "fx": 704.1286783049163,
+          "fy": 180.92875368779573,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -123.96844605532658,
-      "fy": 180.70290389778404
+      "fy": 180.70290389778404,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "http://www.scottaaronson.com/democritus/lec9.html",
+          "fx": 58.03155394467342,
+          "fy": 65.20290389778404,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. visualisation of quantum physics",
+          "note": "final section about momentum shows that increasing the mass scales the velocity function, so that its uncertainty becomes negligible once the the mass is high enough",
+          "url": "https://www.youtube.com/watch?v=p7bzE1E5PMY",
+          "fx": 58.03155394467342,
+          "fy": 99.20290389778404,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. is this what quantum mechanics looks like?",
+          "url": "https://www.youtube.com/watch?v=WIyTZDHuarQ",
+          "fx": 58.03155394467342,
+          "fy": 139.20290389778404,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. an intuitive explanation of quantum mechanics",
+          "url": "http://lesswrong.com/lw/r6/an_intuitive_explanation_of_quantum_mechanics/",
+          "fx": 58.03155394467342,
+          "fy": 201.20290389778404,
+          "nodes": [],
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "1. introduction to quantum mechanics",
+          "url": "https://www.youtube.com/watch?v=AufmV0P6mA0",
+          "fx": 58.03155394467342,
+          "fy": 257.20290389778404,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "1. math vs physics",
+          "url": "https://www.youtube.com/watch?v=m6rfpQXzXu0",
+          "fx": 58.03155394467342,
+          "fy": 319.20290389778404,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "Schrodinger equation  ️",
       "url": "/physics/quantum-mechanics/schrodinger-equation",
       "fx": -2047.1533061594207,
       "fy": 418.3202192561813,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -46,6 +188,7 @@
       "url": "/physics/quantum-mechanics/uncertainty-principle",
       "fx": -1345.203789893615,
       "fy": 418.875486625034,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -53,6 +196,7 @@
       "url": "/physics/quantum-mechanics/bells-theorem",
       "fx": -1776.2602161348452,
       "fy": 419.17314274569276,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -60,6 +204,7 @@
       "url": "/physics/quantum-mechanics/quantum-eraser-experiment",
       "fx": -2375.2106372337635,
       "fy": 419.2693072123393,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -67,6 +212,7 @@
       "url": "/physics/quantum-mechanics/wave-particle-duality",
       "fx": -2641.004150390625,
       "fy": 421.2751922607422,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -74,6 +220,7 @@
       "url": "/physics/quantum-mechanics/quantum-gravity",
       "fx": -1571.714727722773,
       "fy": 421.40702351485186,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -81,6 +228,7 @@
       "url": "http://www.wikiwand.com/en/Quantum_suicide_and_immortality",
       "fx": -1065.587218036569,
       "fy": 410.2745390786607,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -88,6 +236,7 @@
       "url": "/physics/quantum-mechanics/quantum-state",
       "fx": -2847.1441340042375,
       "fy": 424.10838188559296,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -95,6 +244,7 @@
       "url": "/physics/quantum-mechanics/quantum-information",
       "fx": -801.0602982442308,
       "fy": 426.9973390168666,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -103,6 +253,7 @@
       "url": "/physics/quantum-mechanics/quantum-computing",
       "fx": -522.0552255433371,
       "fy": 427.19825194804446,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -111,6 +262,7 @@
       "url": "/physics/quantum-mechanics/quantum-field-theory",
       "fx": -225.06361462777136,
       "fy": 427.80017176418426,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -118,139 +270,8 @@
       "url": "/physics/quantum-mechanics/quantum-entanglement",
       "fx": 70.22394147220984,
       "fy": 429.26751587373565,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/quantum/",
-      "fx": 185.86208729987845,
-      "fy": -304.2266122334779,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "quantum mechanics"
-    },
-    {
-      "text": "kindergarten quantum mechanics lecture notes",
-      "url": "http://www.cs.ox.ac.uk/bob.coecke/VaxjoProc.pdf",
-      "fx": 261.8794175662931,
-      "fy": -239.29568705736193,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "lecture notes on quantum mechanics",
-      "url": "http://www.colorado.edu/physics/phys7270/phys7270_fa16/lecnotes.html",
-      "fx": 261.8794175662931,
-      "fy": -183.29568705736193,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "lecture notes on quantum field theory at Cambridge",
-      "url": "http://www.damtp.cam.ac.uk/user/tong/qft.html",
-      "fx": 261.8794175662931,
-      "fy": -127.29568705736193,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "videos",
-      "url": "http://www.damtp.cam.ac.uk/user/tong/qftvids.html",
-      "fx": 583.8794175662931,
-      "fy": -116.29568705736193,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "lecture notes on quantum field theory at Cambridge"
-    },
-    {
-      "text": "13: how quantum field theory becomes “effective”  ️",
-      "url": "http://www.preposterousuniverse.com/blog/2013/06/20/how-quantum-field-theory-becomes-effective/",
-      "fx": 494.14803099020946,
-      "fy": -61.39905818710986,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "16: space emerging from quantum mechanics  ️",
-      "url": "http://www.preposterousuniverse.com/blog/2016/07/18/space-emerging-from-quantum-mechanics/",
-      "fx": 494.14803099020946,
-      "fy": 0.6009418128901416,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "16: quantum suicide  ️",
-      "url": "https://thoughtexperiments.net/quantum-suicide/",
-      "fx": 494.14803099020946,
-      "fy": 62.60094181289014,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "what would a very simple quantum program look like?   ️",
-      "url": "https://cstheory.stackexchange.com/questions/9381/what-would-a-very-simple-quantum-program-look-like",
-      "fx": 704.1286783049163,
-      "fy": 180.92875368779573,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. introduction",
-      "url": "http://www.scottaaronson.com/democritus/lec9.html",
-      "fx": 58.03155394467342,
-      "fy": 65.20290389778404,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. visualisation of quantum physics",
-      "note": "final section about momentum shows that increasing the mass scales the velocity function, so that its uncertainty becomes negligible once the the mass is high enough",
-      "url": "https://www.youtube.com/watch?v=p7bzE1E5PMY",
-      "fx": 58.03155394467342,
-      "fy": 99.20290389778404,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. is this what quantum mechanics looks like?",
-      "url": "https://www.youtube.com/watch?v=WIyTZDHuarQ",
-      "fx": 58.03155394467342,
-      "fy": 139.20290389778404,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. an intuitive explanation of quantum mechanics",
-      "url": "http://lesswrong.com/lw/r6/an_intuitive_explanation_of_quantum_mechanics/",
-      "fx": 58.03155394467342,
-      "fy": 201.20290389778404,
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to quantum mechanics",
-      "url": "https://www.youtube.com/watch?v=AufmV0P6mA0",
-      "fx": 58.03155394467342,
-      "fy": 257.20290389778404,
-      "category": "video",
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. math vs physics",
-      "url": "https://www.youtube.com/watch?v=m6rfpQXzXu0",
-      "fx": 58.03155394467342,
-      "fy": 319.20290389778404,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

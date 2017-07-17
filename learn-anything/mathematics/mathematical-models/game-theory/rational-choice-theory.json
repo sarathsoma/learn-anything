@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Rational_choice_theory",
       "fx": -43.18828124999993,
       "fy": -248.68694661458335,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 180.5649916899563,
-      "fy": -124.25632913067415
+      "fy": -124.25632913067415,
+      "nodes": [
+        {
+          "text": "an essay on crimes and punishment",
+          "url": "http://files.libertyfund.org/files/2193/Beccaria_1476_EBk_v6.0.pdf",
+          "fx": 379.5649916899563,
+          "fy": -124.25632913067415,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "prisoner’s dilemma  ️",
       "url": "/mathematics/mathematical-models/game-theory/rational-choice-theory/prisoners-dilemma",
       "fx": -218.57080078124386,
       "fy": -74.15144856770434,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "an essay on crimes and punishment",
-      "url": "http://files.libertyfund.org/files/2193/Beccaria_1476_EBk_v6.0.pdf",
-      "fx": 379.5649916899563,
-      "fy": -124.25632913067415,
-      "category": "free book",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
     }
   ],
   "connections": [

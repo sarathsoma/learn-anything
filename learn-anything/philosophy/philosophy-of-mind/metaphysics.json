@@ -7,19 +7,51 @@
       "url": "http://www.wikiwand.com/en/Metaphysics",
       "fx": -231.38671875,
       "fy": -276.43359375,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Metaphysics/",
+          "fx": 9.61328125,
+          "fy": -262.43359375,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -196.7578125,
-      "fy": -128.5234375
+      "fy": -128.5234375,
+      "nodes": [
+        {
+          "text": "1. introduction to metaphysics",
+          "url": "https://www.youtube.com/watch?v=qKq0Afmsj-U",
+          "fx": -40.7578125,
+          "fy": -148.0234375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. Alan Watts - an introduction to metaphysics",
+          "url": "https://www.youtube.com/watch?v=ksUYxdX8PRg",
+          "fx": -40.7578125,
+          "fy": -108.0234375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "ontology  ️",
       "url": "/philosophy/philosophy-of-mind/metaphysics/ontology",
       "fx": -355.9671401977539,
       "fy": -6.905747890472412,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,36 +59,8 @@
       "url": "/philosophy/philosophy-of-mind/metaphysics/emergence",
       "fx": -202.30371093749977,
       "fy": -4.1689453125,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Metaphysics/",
-      "fx": 9.61328125,
-      "fy": -262.43359375,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "metaphysics"
-    },
-    {
-      "text": "1. introduction to metaphysics",
-      "url": "https://www.youtube.com/watch?v=qKq0Afmsj-U",
-      "fx": -40.7578125,
-      "fy": -148.0234375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. Alan Watts - an introduction to metaphysics",
-      "url": "https://www.youtube.com/watch?v=ksUYxdX8PRg",
-      "fx": -40.7578125,
-      "fy": -108.0234375,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

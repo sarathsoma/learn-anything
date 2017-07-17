@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Convenience_sampling",
       "fx": 216.5,
       "fy": -208.34375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basis",
       "url": "",
       "fx": 313.54406474820144,
-      "fy": -17.2351056654677
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=MJjq0NILrnk",
-      "fx": 464.54406474820144,
-      "fy": -4.7351056654676995,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basis"
+      "fy": -17.2351056654677,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=MJjq0NILrnk",
+          "fx": 464.54406474820144,
+          "fy": -4.7351056654676995,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

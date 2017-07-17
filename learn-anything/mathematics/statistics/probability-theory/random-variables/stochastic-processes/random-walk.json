@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Random_walk",
       "fx": 124.98251353790624,
       "fy": -290.3852662454874,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 162.54512635379058,
-      "fy": -157.88447653429893
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=stgYW6M5o4k",
-      "fx": 325.5451263537906,
-      "fy": -145.38447653429893,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -157.88447653429893,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=stgYW6M5o4k",
+          "fx": 325.5451263537906,
+          "fy": -145.38447653429893,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

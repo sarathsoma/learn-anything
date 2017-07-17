@@ -7,39 +7,42 @@
       "url": "http://www.wikiwand.com/en/Network_traffic",
       "fx": 81.1015625,
       "fy": -179.99609375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "tools",
       "url": "",
       "fx": 233.59313201904297,
-      "fy": -63.82299613952637
+      "fy": -63.82299613952637,
+      "nodes": [
+        {
+          "text": "net glimpse",
+          "url": "https://github.com/kristian-lange/net-glimpse",
+          "fx": 379.59313201904297,
+          "fy": -51.32299613952637,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 126.16036987304688,
-      "fy": 44.88465690612793
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "net glimpse",
-      "url": "https://github.com/kristian-lange/net-glimpse",
-      "fx": 379.59313201904297,
-      "fy": -51.32299613952637,
-      "category": "github",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "1. understand routed network traffic flows",
-      "url": "https://www.youtube.com/watch?v=y6wZ2-4YKQk",
-      "fx": 289.1603698730469,
       "fy": 44.88465690612793,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. understand routed network traffic flows",
+          "url": "https://www.youtube.com/watch?v=y6wZ2-4YKQk",
+          "fx": 289.1603698730469,
+          "fy": 44.88465690612793,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

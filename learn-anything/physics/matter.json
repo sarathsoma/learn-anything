@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Matter",
       "fx": -109.48828125,
       "fy": -153.328125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -101.51953029632568,
-      "fy": 0.14901256561279297
+      "fy": 0.14901256561279297,
+      "nodes": [
+        {
+          "text": "1. what is matter?",
+          "url": "https://www.youtube.com/watch?v=Fxeb3Pc4PA4",
+          "fx": 54.480469703674316,
+          "fy": 11.649012565612793,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "state of matter  ️",
       "url": "/physics/matter/state-of-matter",
       "fx": -142.87867823540694,
       "fy": 129.29662298387098,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/physics/matter/atoms",
       "fx": -285.1120031682028,
       "fy": 129.66276041664958,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +48,7 @@
       "url": "/physics/matter/nanotechnology",
       "fx": 67.43134382328071,
       "fy": 132.38388741660162,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +56,7 @@
       "url": "/physics/matter/dark-matter",
       "fx": -464.50248239416453,
       "fy": 134.06503333861656,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +64,7 @@
       "url": "/physics/matter/matter-waves",
       "fx": -675.0310387778005,
       "fy": 135.2684912786267,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +72,7 @@
       "url": "/physics/matter/crystallography",
       "fx": -1037.495844043724,
       "fy": 139.40199992210626,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,18 +80,8 @@
       "url": "/physics/matter/phases",
       "fx": -822.8400692296192,
       "fy": 139.52137051569525,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what is matter?",
-      "url": "https://www.youtube.com/watch?v=Fxeb3Pc4PA4",
-      "fx": 54.480469703674316,
-      "fy": 11.649012565612793,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

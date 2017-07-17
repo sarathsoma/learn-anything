@@ -8,19 +8,50 @@
       "url": "http://www.wikiwand.com/en/Rendering_(computer_graphics)",
       "fx": -66.24609375,
       "fy": -285.58877840909093,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 58.58442679558004,
-      "fy": -168.3983943370166
+      "fy": -168.3983943370166,
+      "nodes": [
+        {
+          "text": "outdoors lighting  ️",
+          "url": "http://www.iquilezles.org/www/articles/outdoorslighting/outdoorslighting.htm",
+          "fx": 195.58442679558004,
+          "fy": -176.8983943370166,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "sampling  ️",
+          "url": "https://renderman.pixar.com/resources/RenderMan_20/risSampling.html",
+          "fx": 195.58442679558004,
+          "fy": -136.8983943370166,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "tools",
       "url": "",
       "fx": 146.13449026827232,
-      "fy": -57.706234451612204
+      "fy": -57.706234451612204,
+      "nodes": [
+        {
+          "text": "madVR video renderer",
+          "url": "http://www.madvr.com/",
+          "fx": 288.1344902682723,
+          "fy": -43.206234451612204,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "ray tracing  ️",
@@ -28,6 +59,7 @@
       "url": "/computer-graphics/rendering/ray-tracing",
       "fx": -90.01733220205756,
       "fy": 44.62429484069264,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +67,7 @@
       "url": "/computer-graphics/rendering/path-tracing",
       "fx": -455.24198150634766,
       "fy": 46.66810131072998,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +75,7 @@
       "url": "/computer-graphics/rendering/ray-casting",
       "fx": -270.1161595394742,
       "fy": 47.82113486842104,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,50 +83,25 @@
       "url": "/computer-graphics/rendering/foveated-rendering",
       "fx": -707.3719329833984,
       "fy": 51.45722961425781,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 219.8985721982731,
-      "fy": 59.32819234913768
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "outdoors lighting  ️",
-      "url": "http://www.iquilezles.org/www/articles/outdoorslighting/outdoorslighting.htm",
-      "fx": 195.58442679558004,
-      "fy": -176.8983943370166,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "sampling  ️",
-      "url": "https://renderman.pixar.com/resources/RenderMan_20/risSampling.html",
-      "fx": 195.58442679558004,
-      "fy": -136.8983943370166,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "madVR video renderer",
-      "url": "http://www.madvr.com/",
-      "fx": 288.1344902682723,
-      "fy": -43.206234451612204,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "realistic terrain in 130 lines  ️",
-      "url": "http://www.playfuljs.com/realistic-terrain-in-130-lines/",
-      "fx": 410.8985721982731,
-      "fy": 70.82819234913768,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "fy": 59.32819234913768,
+      "nodes": [
+        {
+          "text": "realistic terrain in 130 lines  ️",
+          "url": "http://www.playfuljs.com/realistic-terrain-in-130-lines/",
+          "fx": 410.8985721982731,
+          "fy": 70.82819234913768,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Dermatology",
       "fx": 430.8187584005376,
       "fy": -290.37268985215053,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,10 +16,10 @@
       "url": "/medicine/specialties/dermatology/skin-care",
       "fx": 435.0387535095215,
       "fy": -142.43015575408936,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "dermatology",

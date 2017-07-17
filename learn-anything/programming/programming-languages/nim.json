@@ -6,113 +6,119 @@
       "text": "nim",
       "url": "https://nim-lang.org/",
       "fx": -9.665648205445677,
-      "fy": -195.550510519802
+      "fy": -195.550510519802,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/nim/",
+          "fx": 121.33435179455432,
+          "fy": -224.050510519802,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://github.com/nim-lang/Nim",
+          "fx": 121.33435179455432,
+          "fy": -184.050510519802,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "trending",
+          "url": "https://github.com/trending/nim",
+          "fx": 121.33435179455432,
+          "fy": -144.050510519802,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "help",
       "url": "",
       "fx": 55.870852749198434,
-      "fy": -58.94310123850801
+      "fy": -58.94310123850801,
+      "nodes": [
+        {
+          "text": "awesome nim",
+          "url": "https://github.com/VPashkov/awesome-nim",
+          "fx": 192.87085274919843,
+          "fy": -64.443101238508,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "rosetta code",
+          "url": "http://rosettacode.org/wiki/Category:Nim",
+          "fx": 192.87085274919843,
+          "fy": -24.443101238508007,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "blogs",
       "url": "",
       "fx": 109.59434093869027,
-      "fy": 40.69266463004794
+      "fy": 40.69266463004794,
+      "nodes": [
+        {
+          "text": "HookRace  ️",
+          "url": "https://hookrace.net/blog/nim/",
+          "fx": 257.59434093869027,
+          "fy": 52.19266463004794,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -124.55873365370576,
-      "fy": 178.28226665088914
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/nim/",
-      "fx": 121.33435179455432,
-      "fy": -224.050510519802,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "nim"
-    },
-    {
-      "text": "",
-      "url": "https://github.com/nim-lang/Nim",
-      "fx": 121.33435179455432,
-      "fy": -184.050510519802,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "nim"
-    },
-    {
-      "text": "trending",
-      "url": "https://github.com/trending/nim",
-      "fx": 121.33435179455432,
-      "fy": -144.050510519802,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "nim"
-    },
-    {
-      "text": "awesome nim",
-      "url": "https://github.com/VPashkov/awesome-nim",
-      "fx": 192.87085274919843,
-      "fy": -64.443101238508,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "rosetta code",
-      "url": "http://rosettacode.org/wiki/Category:Nim",
-      "fx": 192.87085274919843,
-      "fy": -24.443101238508007,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "HookRace  ️",
-      "url": "https://hookrace.net/blog/nim/",
-      "fx": 257.59434093869027,
-      "fy": 52.19266463004794,
-      "category": "blog",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "blogs"
-    },
-    {
-      "text": "1. nim by example",
-      "url": "http://nim-by-example.github.io/",
-      "fx": 57.44126634629424,
-      "fy": 141.78226665088914,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. nim tutorial",
-      "url": "https://nim-lang.org/docs/tut1.html",
-      "fx": 57.44126634629424,
-      "fy": 175.78226665088914,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. nim manual",
-      "url": "https://nim-lang.org/docs/manual.html",
-      "fx": 57.44126634629424,
-      "fy": 209.78226665088914,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. learn nim in Y minutes",
-      "url": "https://learnxinyminutes.com/docs/nim/",
-      "fx": 57.44126634629424,
-      "fy": 243.78226665088914,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
+      "fy": 178.28226665088914,
+      "nodes": [
+        {
+          "text": "1. nim by example",
+          "url": "http://nim-by-example.github.io/",
+          "fx": 57.44126634629424,
+          "fy": 141.78226665088914,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. nim tutorial",
+          "url": "https://nim-lang.org/docs/tut1.html",
+          "fx": 57.44126634629424,
+          "fy": 175.78226665088914,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. nim manual",
+          "url": "https://nim-lang.org/docs/manual.html",
+          "fx": 57.44126634629424,
+          "fy": 209.78226665088914,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. learn nim in Y minutes",
+          "url": "https://learnxinyminutes.com/docs/nim/",
+          "fx": 57.44126634629424,
+          "fy": 243.78226665088914,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

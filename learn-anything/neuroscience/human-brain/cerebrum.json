@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Cerebrum",
       "fx": 327.2535990168541,
       "fy": -283.77883602528095,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/neuroscience/human-brain/cerebrum/cerebral-cortex",
       "fx": 21.76629638671875,
       "fy": -114.76949691772461,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,6 +23,7 @@
       "url": "http://www.wikiwand.com/en/Corpus_callosum",
       "fx": 260.35328537855696,
       "fy": -109.62542079522353,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,10 +31,10 @@
       "url": "http://www.wikiwand.com/en/Basal_ganglia",
       "fx": 512.8960674157304,
       "fy": -106.37930126404495,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "cerebrum",

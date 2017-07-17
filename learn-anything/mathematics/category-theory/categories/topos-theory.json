@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Topos",
       "fx": 107.9375,
       "fy": -87.140625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 142.45812359052843,
-      "fy": 39.41261275773195
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. sheaves in geometry and logic",
-      "url": "http://www.goodreads.com/book/show/710232.Sheaves_in_Geometry_and_Logic",
-      "fx": 298.45812359052843,
-      "fy": 50.91261275773195,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 39.41261275773195,
+      "nodes": [
+        {
+          "text": "1. sheaves in geometry and logic",
+          "url": "http://www.goodreads.com/book/show/710232.Sheaves_in_Geometry_and_Logic",
+          "fx": 298.45812359052843,
+          "fy": 50.91261275773195,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

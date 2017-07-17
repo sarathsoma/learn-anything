@@ -7,26 +7,94 @@
       "url": "http://www.wikiwand.com/en/Programming_language_theory",
       "fx": -25.692987096284583,
       "fy": -1135.9334622652664,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 204.2092635514514,
-      "fy": -1001.6028101911044
+      "fy": -1001.6028101911044,
+      "nodes": [
+        {
+          "text": "(how to write a (lisp) interpreter (in python))  ️",
+          "url": "http://norvig.com/lispy.html",
+          "fx": 341.2092635514514,
+          "fy": -1021.1028101911044,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "let’s build a simple interpreter  ️",
+          "url": "https://ruslanspivak.com/lsbasi-part1/",
+          "fx": 341.2092635514514,
+          "fy": -959.1028101911044,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 79.98803768725816,
-      "fy": -800.7280960990726
+      "fy": -800.7280960990726,
+      "nodes": [
+        {
+          "text": "1. programming language theory list",
+          "url": "http://steshaw.org/plt/",
+          "fx": 261.98803768725816,
+          "fy": -888.2280960990726,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. types and programming languages",
+          "url": "https://www.cis.upenn.edu/%7Ebcpierce/tapl/",
+          "fx": 261.98803768725816,
+          "fy": -854.2280960990726,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. practical foundations for programming languages",
+          "url": "http://www.cs.cmu.edu/%7Erwh/pfpl.html",
+          "fx": 261.98803768725816,
+          "fy": -792.2280960990726,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. programming languages",
+          "url": "http://www.seas.harvard.edu/courses/cs152/2016sp/",
+          "fx": 261.98803768725816,
+          "fy": -730.2280960990726,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "2. concrete semantics",
+          "url": "http://concrete-semantics.org/",
+          "fx": 261.98803768725816,
+          "fy": -690.2280960990726,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "closures  ️",
       "url": "/computer-science/programming-language-theory/closures",
       "fx": -309.0340673322464,
       "fy": -670.9774901581784,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +102,7 @@
       "url": "/computer-science/programming-language-theory/session-types",
       "fx": 151.16490765171375,
       "fy": -582.2928759894461,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +110,7 @@
       "url": "/computer-science/programming-language-theory/evaluation-strategies",
       "fx": -428.9995597466659,
       "fy": -523.6946419047815,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +118,7 @@
       "url": "/computer-science/programming-language-theory/type-systems",
       "fx": -116.89297793065043,
       "fy": -497.2360053434495,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,71 +127,8 @@
       "url": "http://www.wikiwand.com/en/Formal_language",
       "fx": 9.536012143968719,
       "fy": -391.3802797187509,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "(how to write a (lisp) interpreter (in python))  ️",
-      "url": "http://norvig.com/lispy.html",
-      "fx": 341.2092635514514,
-      "fy": -1021.1028101911044,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "let’s build a simple interpreter  ️",
-      "url": "https://ruslanspivak.com/lsbasi-part1/",
-      "fx": 341.2092635514514,
-      "fy": -959.1028101911044,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. programming language theory list",
-      "url": "http://steshaw.org/plt/",
-      "fx": 261.98803768725816,
-      "fy": -888.2280960990726,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. types and programming languages",
-      "url": "https://www.cis.upenn.edu/%7Ebcpierce/tapl/",
-      "fx": 261.98803768725816,
-      "fy": -854.2280960990726,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. practical foundations for programming languages",
-      "url": "http://www.cs.cmu.edu/%7Erwh/pfpl.html",
-      "fx": 261.98803768725816,
-      "fy": -792.2280960990726,
-      "category": "non-free book",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. programming languages",
-      "url": "http://www.seas.harvard.edu/courses/cs152/2016sp/",
-      "fx": 261.98803768725816,
-      "fy": -730.2280960990726,
-      "category": "course",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. concrete semantics",
-      "url": "http://concrete-semantics.org/",
-      "fx": 261.98803768725816,
-      "fy": -690.2280960990726,
-      "category": "free book",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

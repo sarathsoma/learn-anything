@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Stimulant",
       "fx": -156.18477746212125,
       "fy": -327.3904277146464,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -129.91963452459345,
-      "fy": -216.70994673397695
+      "fy": -216.70994673397695,
+      "nodes": [
+        {
+          "text": "1. your brain on coffee",
+          "url": "https://www.youtube.com/watch?v=4YOwEqGykDM",
+          "fx": 26.080365475406552,
+          "fy": -205.20994673397695,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "caffeine",
       "url": "https://psychonautwiki.org/wiki/Caffeine",
       "fx": -79.3395669463257,
       "fy": -95.07903787939858,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -27,18 +40,8 @@
       "url": "/chemistry/drugs/stimulants/amphetamines",
       "fx": -306.3633303717859,
       "fy": -93.80544155521659,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. your brain on coffee",
-      "url": "https://www.youtube.com/watch?v=4YOwEqGykDM",
-      "fx": 26.080365475406552,
-      "fy": -205.20994673397695,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Incidence_geometry",
       "fx": 303.71978968631186,
       "fy": -154.48335016634977,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "http://www.wikiwand.com/en/Incidence_structure",
       "fx": 109.9514615019009,
       "fy": 3.6310598859510037,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -21,10 +23,10 @@
       "url": "/mathematics/geometry/incidence-geometry/linear-spaces",
       "fx": -24.8720703125,
       "fy": 139.513671875,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "incidence geometry",

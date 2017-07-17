@@ -7,32 +7,147 @@
       "url": "http://www.wikiwand.com/en/Philosophy",
       "fx": -52.11511009522064,
       "fy": -565.44624375205,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/philosophy/",
+          "fx": 172.88488990477936,
+          "fy": -571.44624375205,
+          "nodes": [
+            {
+              "text": "wiki",
+              "url": "https://www.reddit.com/r/philosophy/wiki/introduction",
+              "fx": 282.88488990477936,
+              "fy": -571.44624375205,
+              "nodes": [],
+              "category": "reddit",
+              "color": "rgba(175, 54, 242, 1.0)"
+            }
+          ],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://philosophy.stackexchange.com/",
+          "fx": 172.88488990477936,
+          "fy": -531.44624375205,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 128.98489904332632,
-      "fy": -437.26137034281766
+      "fy": -437.26137034281766,
+      "nodes": [
+        {
+          "text": "stanford encyclopedia of philosophy",
+          "url": "https://plato.stanford.edu/",
+          "fx": 265.9848990433263,
+          "fy": -495.76137034281766,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "internet encyclopaedia of philosophy",
+          "url": "http://www.iep.utm.edu/home/about/",
+          "fx": 265.9848990433263,
+          "fy": -439.76137034281766,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "history of philosophy",
+          "url": "http://www.philosophypages.com/hy/",
+          "fx": 265.9848990433263,
+          "fy": -383.76137034281766,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "philosophy resources",
+          "url": "http://www.philosimply.com/",
+          "fx": 265.9848990433263,
+          "fy": -349.76137034281766,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 536.7615704692034,
-      "fy": -306.63353156990456
+      "fy": -306.63353156990456,
+      "nodes": [
+        {
+          "text": "Friedrich Nietzsche’s life and philosophy",
+          "url": "https://www.youtube.com/watch?v=r1J7OoErWvs&amp;feature=youtu.be",
+          "fx": 727.7615704692034,
+          "fy": -306.13353156990456,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -5.2876478165738945,
-      "fy": -187.22693932093148
+      "fy": -187.22693932093148,
+      "nodes": [
+        {
+          "text": "1. the map of philosophy",
+          "url": "https://www.youtube.com/watch?v=YxBShJU_CKs",
+          "fx": 176.7123521834261,
+          "fy": -235.72693932093148,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. crash course philosophy",
+          "url": "https://www.youtube.com/watch?v=1A_CAkYt3GY&amp;list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR",
+          "fx": 176.7123521834261,
+          "fy": -195.72693932093148,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. Godel, Escher, Bach",
+          "note": "whilst not directly related to philosophy it is a great book",
+          "url": "https://www.goodreads.com/book/show/24113.G_del_Escher_Bach",
+          "fx": 176.7123521834261,
+          "fy": -155.72693932093148,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. where to start with philosophy",
+          "url": "https://www.reddit.com/r/AskPhilosophyFAQ/comments/4ifqi3/im_interested_in_philosophy_where_should_i_start/?st=is9qez62&amp;sh=5f7bb919",
+          "fx": 176.7123521834261,
+          "fy": -115.72693932093148,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "naturalism",
       "url": "http://www.wikiwand.com/en/Naturalism_(philosophy)",
       "fx": -16.82136834152334,
       "fy": 11.212106220121541,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -40,6 +155,7 @@
       "url": "/philosophy/ethics",
       "fx": -157.22985030019436,
       "fy": 11.43343074812276,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +164,7 @@
       "url": "/philosophy/epistemology",
       "fx": -384.36791229248036,
       "fy": 11.617190996805903,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +172,7 @@
       "url": "/philosophy/philosophy-of-mind",
       "fx": 154.14447012766982,
       "fy": 11.692635144120914,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,6 +180,7 @@
       "url": "/philosophy/spirituality",
       "fx": -556.7084191305597,
       "fy": 12.556472778320312,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -69,6 +188,7 @@
       "url": "/philosophy/western-philosophy",
       "fx": -813.7084045410156,
       "fy": 13.583770751953125,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -76,6 +196,7 @@
       "url": "/philosophy/philosophy-of-science",
       "fx": -1092.789001027741,
       "fy": 17.410356464309757,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -83,6 +204,7 @@
       "url": "/philosophy/reasoning",
       "fx": -1257.7415466308594,
       "fy": 18.88097858428955,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -90,6 +212,7 @@
       "url": "/philosophy/ideas",
       "fx": -1380.8821511243386,
       "fy": 19.858796296296646,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -97,114 +220,8 @@
       "url": "/philosophy/decision-theory",
       "fx": -1593.8032111220477,
       "fy": 21.444820374013602,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/philosophy/",
-      "fx": 172.88488990477936,
-      "fy": -571.44624375205,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "philosophy"
-    },
-    {
-      "text": "wiki",
-      "url": "https://www.reddit.com/r/philosophy/wiki/introduction",
-      "fx": 282.88488990477936,
-      "fy": -571.44624375205,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": ""
-    },
-    {
-      "text": "️",
-      "url": "https://philosophy.stackexchange.com/",
-      "fx": 172.88488990477936,
-      "fy": -531.44624375205,
-      "category": "stack exchange",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "philosophy"
-    },
-    {
-      "text": "stanford encyclopedia of philosophy",
-      "url": "https://plato.stanford.edu/",
-      "fx": 265.9848990433263,
-      "fy": -495.76137034281766,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "internet encyclopaedia of philosophy",
-      "url": "http://www.iep.utm.edu/home/about/",
-      "fx": 265.9848990433263,
-      "fy": -439.76137034281766,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "history of philosophy",
-      "url": "http://www.philosophypages.com/hy/",
-      "fx": 265.9848990433263,
-      "fy": -383.76137034281766,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "philosophy resources",
-      "url": "http://www.philosimply.com/",
-      "fx": 265.9848990433263,
-      "fy": -349.76137034281766,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "Friedrich Nietzsche’s life and philosophy",
-      "url": "https://www.youtube.com/watch?v=r1J7OoErWvs&amp;feature=youtu.be",
-      "fx": 727.7615704692034,
-      "fy": -306.13353156990456,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. the map of philosophy",
-      "url": "https://www.youtube.com/watch?v=YxBShJU_CKs",
-      "fx": 176.7123521834261,
-      "fy": -235.72693932093148,
-      "category": "video",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. crash course philosophy",
-      "url": "https://www.youtube.com/watch?v=1A_CAkYt3GY&amp;list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR",
-      "fx": 176.7123521834261,
-      "fy": -195.72693932093148,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. Godel, Escher, Bach",
-      "note": "whilst not directly related to philosophy it is a great book",
-      "url": "https://www.goodreads.com/book/show/24113.G_del_Escher_Bach",
-      "fx": 176.7123521834261,
-      "fy": -155.72693932093148,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. where to start with philosophy",
-      "url": "https://www.reddit.com/r/AskPhilosophyFAQ/comments/4ifqi3/im_interested_in_philosophy_where_should_i_start/?st=is9qez62&amp;sh=5f7bb919",
-      "fx": 176.7123521834261,
-      "fy": -115.72693932093148,
-      "category": "reddit",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -7,6 +7,26 @@
       "url": "http://www.wikiwand.com/en/Neo4j",
       "fx": 89.17359639830511,
       "fy": -244.33269332627117,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Neo4j/",
+          "fx": 269.1735963983051,
+          "fy": -250.33269332627117,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/neueda/awesome-neo4j",
+          "fx": 269.1735963983051,
+          "fy": -210.33269332627117,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,35 +34,17 @@
       "note": "",
       "url": "",
       "fx": 70.23172669491464,
-      "fy": -91.04131355934663
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Neo4j/",
-      "fx": 269.1735963983051,
-      "fy": -250.33269332627117,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "Neo4j"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/neueda/awesome-neo4j",
-      "fx": 269.1735963983051,
-      "fy": -210.33269332627117,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "Neo4j"
-    },
-    {
-      "text": "1. get started",
-      "url": "https://neo4j.com/developer/get-started/",
-      "fx": 252.23172669491464,
-      "fy": -76.54131355934663,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -91.04131355934663,
+      "nodes": [
+        {
+          "text": "1. get started",
+          "url": "https://neo4j.com/developer/get-started/",
+          "fx": 252.23172669491464,
+          "fy": -76.54131355934663,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

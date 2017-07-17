@@ -7,46 +7,50 @@
       "url": "http://www.wikiwand.com/en/Time",
       "fx": -54.19656647813747,
       "fy": -417.4199168753027,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 49.385560264669834,
-      "fy": -304.3094445872954
+      "fy": -304.3094445872954,
+      "nodes": [
+        {
+          "text": "are space and time an illusion?",
+          "url": "https://www.youtube.com/watch?v=YycAzdtUIko",
+          "fx": 248.38556026466983,
+          "fy": -291.8094445872954,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -52.81813257932663,
-      "fy": -210.8039636471001
+      "fy": -210.8039636471001,
+      "nodes": [
+        {
+          "text": "1. relativity and time dilation",
+          "url": "https://www.youtube.com/watch?v=aZrjMmMBa_8",
+          "fx": 110.18186742067337,
+          "fy": -198.3039636471001,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "time travel  ️",
       "url": "/physics/time/time-travel",
       "fx": -236.54178271973524,
       "fy": -94.32318048871508,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "are space and time an illusion?",
-      "url": "https://www.youtube.com/watch?v=YycAzdtUIko",
-      "fx": 248.38556026466983,
-      "fy": -291.8094445872954,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. relativity and time dilation",
-      "url": "https://www.youtube.com/watch?v=aZrjMmMBa_8",
-      "fx": 110.18186742067337,
-      "fy": -198.3039636471001,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

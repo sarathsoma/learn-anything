@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Quantum_information",
       "fx": -148.1640625,
       "fy": -168.4453125,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,13 +15,25 @@
       "note": "",
       "url": "",
       "fx": -85.20356898055911,
-      "fy": -46.311238160518485
+      "fy": -46.311238160518485,
+      "nodes": [
+        {
+          "text": "1. introduction to quantum information",
+          "url": "https://www.youtube.com/watch?v=Q4xBlSi_fOs",
+          "fx": 96.79643101944089,
+          "fy": -45.811238160518485,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "no-communication theorem",
       "url": "http://www.wikiwand.com/en/No-go_theorem",
       "fx": -58.91745873946161,
       "fy": 87.79805224454856,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,6 +41,7 @@
       "url": "/physics/quantum-mechanics/quantum-information/categorical-quantum-mechanics",
       "fx": -724.9738311767578,
       "fy": 87.95783615112305,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +49,7 @@
       "url": "http://www.wikiwand.com/en/Quantum_superposition",
       "fx": -355.8108188290936,
       "fy": 88.74001186709006,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -42,18 +57,8 @@
       "url": "/physics/quantum-mechanics/quantum-information/quantum-teleportation",
       "fx": -999.1123499441649,
       "fy": 91.8598461055276,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to quantum information",
-      "url": "https://www.youtube.com/watch?v=Q4xBlSi_fOs",
-      "fx": 96.79643101944089,
-      "fy": -45.811238160518485,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

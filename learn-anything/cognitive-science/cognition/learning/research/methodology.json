@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Methodology",
       "fx": 197.80078125,
       "fy": -275.71875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 238.2019082991809,
-      "fy": -122.29821977466173
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. intro to research methodology",
-      "url": "https://www.youtube.com/watch?v=1LGuNn9Q0bI",
-      "fx": 401.2019082991809,
       "fy": -122.29821977466173,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. intro to research methodology",
+          "url": "https://www.youtube.com/watch?v=1LGuNn9Q0bI",
+          "fx": 401.2019082991809,
+          "fy": -122.29821977466173,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

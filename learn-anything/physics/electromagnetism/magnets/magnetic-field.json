@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Magnetic_field",
       "fx": -105.5078125,
       "fy": -244.609375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -60.83203125,
-      "fy": -110.8515625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=OQ6m_w0TS_A",
-      "fx": 95.16796875,
-      "fy": -99.3515625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -110.8515625,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=OQ6m_w0TS_A",
+          "fx": 95.16796875,
+          "fy": -99.3515625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

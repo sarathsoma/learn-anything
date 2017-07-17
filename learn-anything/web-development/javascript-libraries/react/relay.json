@@ -7,32 +7,34 @@
       "url": "https://github.com/facebook/relay",
       "fx": -29.33708953857422,
       "fy": -186.0897159576416,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/expede/awesome-relay",
+          "fx": 139.66291046142578,
+          "fy": -172.0897159576416,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "github"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -19.726825654506683,
-      "fy": -48.0222909450531
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/expede/awesome-relay",
-      "fx": 139.66291046142578,
-      "fy": -172.0897159576416,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "relay"
-    },
-    {
-      "text": "1. getting started",
-      "url": "https://facebook.github.io/relay/docs/getting-started.html",
-      "fx": 136.27317434549332,
-      "fy": -33.5222909450531,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -48.0222909450531,
+      "nodes": [
+        {
+          "text": "1. getting started",
+          "url": "https://facebook.github.io/relay/docs/getting-started.html",
+          "fx": 136.27317434549332,
+          "fy": -33.5222909450531,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

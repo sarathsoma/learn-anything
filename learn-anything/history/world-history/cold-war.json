@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Cold_War",
       "fx": -86.2890625,
       "fy": -373.82421875,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,27 +15,27 @@
       "note": "",
       "url": "",
       "fx": -71.5859375,
-      "fy": -237.79296875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. cold war in 9 minutes",
-      "url": "https://www.youtube.com/watch?v=wVqziNV7dGY",
-      "fx": 110.4140625,
-      "fy": -246.29296875,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. origins of the cold war",
-      "url": "https://www.khanacademy.org/humanities/ap-us-history/period-8/apush-postwar-era/v/origins-of-the-cold-war",
-      "fx": 110.4140625,
-      "fy": -206.29296875,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": -237.79296875,
+      "nodes": [
+        {
+          "text": "1. cold war in 9 minutes",
+          "url": "https://www.youtube.com/watch?v=wVqziNV7dGY",
+          "fx": 110.4140625,
+          "fy": -246.29296875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. origins of the cold war",
+          "url": "https://www.khanacademy.org/humanities/ap-us-history/period-8/apush-postwar-era/v/origins-of-the-cold-war",
+          "fx": 110.4140625,
+          "fy": -206.29296875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

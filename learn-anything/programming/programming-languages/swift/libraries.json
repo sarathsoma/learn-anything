@@ -6,13 +6,15 @@
       "text": "libraries",
       "url": "",
       "fx": 321.69907407405503,
-      "fy": 30.154224537081518
+      "fy": 30.154224537081518,
+      "nodes": []
     },
     {
       "text": "SwiftTask",
       "url": "https://github.com/ReactKit/SwiftTask",
       "fx": 307.70739153589193,
       "fy": 251.47200735117667,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -20,19 +22,22 @@
       "url": "https://github.com/yapstudios/YapAnimator",
       "fx": -487.68118690835195,
       "fy": 252.5276124130853,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "ReSwift",
       "url": "http://reswift.github.io/ReSwift/master/",
       "fx": 480.5886227991118,
-      "fy": 255.87816496194432
+      "fy": 255.87816496194432,
+      "nodes": []
     },
     {
       "text": "vapor",
       "url": "https://github.com/vapor/vapor",
       "fx": 750.0612931523485,
       "fy": 253.51086229722978,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -40,19 +45,22 @@
       "url": "https://github.com/apple/swift-corelibs-foundation",
       "fx": -34.47825766739879,
       "fy": 253.6091734386905,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "swift standard library",
       "url": "https://developer.apple.com/reference/swift",
       "fx": -282.10319075832354,
-      "fy": 256.1696832948186
+      "fy": 256.1696832948186,
+      "nodes": []
     },
     {
       "text": "hydra",
       "url": "https://github.com/malcommac/Hydra",
       "fx": 602.3847247451872,
       "fy": 253.7337256382516,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -60,6 +68,7 @@
       "url": "https://github.com/PerfectlySoft/Perfect",
       "fx": 889.7427739990424,
       "fy": 254.87428825803408,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -67,6 +76,7 @@
       "url": "https://github.com/Touchwonders/Transition",
       "fx": 144.55488444132357,
       "fy": 255.06460054457762,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -74,10 +84,10 @@
       "url": "/programming/programming-languages/swift/libraries/rxswift",
       "fx": 1042.0760859593943,
       "fy": 257.0833496234386,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "libraries",

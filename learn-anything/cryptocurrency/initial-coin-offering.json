@@ -7,24 +7,35 @@
       "url": "http://www.wikiwand.com/en/Initial_coin_offering",
       "fx": 29.09375,
       "fy": -130.546875,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/holographicio/awesome-token-sale",
+          "fx": 333.09375,
+          "fy": -116.546875,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 96.3828125,
-      "fy": 0.72265625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. thoughts on tokens  ️",
-      "url": "https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe",
-      "fx": 259.3828125,
-      "fy": 13.22265625,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 0.72265625,
+      "nodes": [
+        {
+          "text": "1. thoughts on tokens  ️",
+          "url": "https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe",
+          "fx": 259.3828125,
+          "fy": 13.22265625,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

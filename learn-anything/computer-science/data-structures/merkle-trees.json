@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Merkle_tree",
       "fx": 138.93359375,
       "fy": -248.69921875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 168.79296875,
-      "fy": -84.609375
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation  ️",
-      "url": "https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3",
-      "fx": 331.79296875,
-      "fy": -72.109375,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -84.609375,
+      "nodes": [
+        {
+          "text": "1. explanation  ️",
+          "url": "https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3",
+          "fx": 331.79296875,
+          "fy": -72.109375,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

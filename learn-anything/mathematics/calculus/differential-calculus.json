@@ -7,25 +7,48 @@
       "url": "http://www.wikiwand.com/en/Differential_calculus",
       "fx": 400.21303237203983,
       "fy": -312.64160380061116,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 612.472834708122,
-      "fy": -177.5321621192893
+      "fy": -177.5321621192893,
+      "nodes": [
+        {
+          "text": "notation for differentiation",
+          "url": "http://www.wikiwand.com/en/Notation_for_differentiation",
+          "fx": 753.472834708122,
+          "fy": -165.0321621192893,
+          "nodes": [],
+          "category": "wiki",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 453.9105793450882,
-      "fy": -59.6381353635046
+      "fy": -59.6381353635046,
+      "nodes": [
+        {
+          "text": "1. review of differential calculus theory",
+          "url": "http://web.stanford.edu/class/cs224n/lecture_notes/cs224n-2017-review-differential-calculus.pdf",
+          "fx": 616.9105793450882,
+          "fy": -57.1381353635046,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "derivatives  ️",
       "url": "/mathematics/calculus/differential-calculus/derivatives",
       "fx": 292.62580855262456,
       "fy": 68.9532647260371,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,26 +56,8 @@
       "url": "/mathematics/calculus/differential-calculus/limits-of-a-function",
       "fx": 476.9839781082885,
       "fy": 69.59494067513378,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "notation for differentiation",
-      "url": "http://www.wikiwand.com/en/Notation_for_differentiation",
-      "fx": 753.472834708122,
-      "fy": -165.0321621192893,
-      "category": "wiki",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. review of differential calculus theory",
-      "url": "http://web.stanford.edu/class/cs224n/lecture_notes/cs224n-2017-review-differential-calculus.pdf",
-      "fx": 616.9105793450882,
-      "fy": -57.1381353635046,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

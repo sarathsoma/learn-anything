@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Energy",
       "fx": -17.01953125,
       "fy": -183.703125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 1.5689868927001953,
-      "fy": -48.19976234436035
+      "fy": -48.19976234436035,
+      "nodes": [
+        {
+          "text": "1. what is energy",
+          "url": "https://www.youtube.com/watch?v=CW0_S5YpYVo",
+          "fx": 157.5689868927002,
+          "fy": -36.69976234436035,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "conservation of energy  ️",
       "url": "/physics/energy/conservation-of-energy",
       "fx": 86.38194932864451,
       "fy": 100.59687100383627,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/physics/energy/dark-energy",
       "fx": -113.32361917038008,
       "fy": 101.01471515098302,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +48,7 @@
       "url": "/physics/energy/potential-energy",
       "fx": -534.0221362421285,
       "fy": 104.58916967795085,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,18 +56,8 @@
       "url": "/physics/energy/kinetic-energy",
       "fx": -315.17929252356464,
       "fy": 104.59457981566948,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what is energy",
-      "url": "https://www.youtube.com/watch?v=CW0_S5YpYVo",
-      "fx": 157.5689868927002,
-      "fy": -36.69976234436035,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

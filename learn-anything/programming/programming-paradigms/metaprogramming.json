@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Metaprogramming",
       "fx": 85.7421875,
       "fy": -117.61328125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 255.52738001613477,
-      "fy": 16.401104293239996
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "16: introduction to metaprogramming in nim  ️",
-      "url": "https://hookrace.net/blog/introduction-to-metaprogramming-in-nim/",
-      "fx": 453.52738001613477,
       "fy": 16.401104293239996,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
+      "nodes": [
+        {
+          "text": "16: introduction to metaprogramming in nim  ️",
+          "url": "https://hookrace.net/blog/introduction-to-metaprogramming-in-nim/",
+          "fx": 453.52738001613477,
+          "fy": 16.401104293239996,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

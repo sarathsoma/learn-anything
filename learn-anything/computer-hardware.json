@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Computer_hardware",
       "fx": -353.81840018888147,
       "fy": -577.1030791295608,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/computer-hardware/3d-printing",
       "fx": -121.95447294713858,
       "fy": -470.5617247146973,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,6 +24,7 @@
       "url": "/computer-hardware/computer",
       "fx": -344.3874806148905,
       "fy": -449.51149065617665,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +32,7 @@
       "url": "/computer-hardware/virtualisation",
       "fx": -152.20888157894728,
       "fy": -345.62239583333337,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,6 +40,7 @@
       "url": "http://www.wikiwand.com/en/Single-board_computer",
       "fx": -502.35898482868765,
       "fy": -344.55022321428567,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -43,6 +48,7 @@
       "url": "/computer-hardware/arduino",
       "fx": -364.87393027497217,
       "fy": -233.15499614197574,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -50,10 +56,10 @@
       "url": "/computer-hardware/raspberry-pi",
       "fx": -569.5471618727049,
       "fy": -226.41700180684268,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "computer hardware",

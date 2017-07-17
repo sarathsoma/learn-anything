@@ -7,40 +7,43 @@
       "url": "http://www.wikiwand.com/en/Pharmacology",
       "fx": 85.21875,
       "fy": -142.3984375,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/pharmacology/",
+          "fx": 341.21875,
+          "fy": -128.3984375,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 131.96231842041016,
-      "fy": -23.212740898132324
+      "fy": -23.212740898132324,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://www.youtube.com/watch?v=myuHFQwNA-c&amp;list=PL1EgXcwbZIeUZHYHJb4elROAOTy_QJ5ik",
+          "fx": 287.96231842041016,
+          "fy": -11.712740898132324,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "drugs  ️",
       "url": "/chemistry/drugs",
       "fx": 27.39453125,
       "fy": 97.8515625,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/pharmacology/",
-      "fx": 341.21875,
-      "fy": -128.3984375,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "pharmacology"
-    },
-    {
-      "text": "1. introduction",
-      "url": "https://www.youtube.com/watch?v=myuHFQwNA-c&amp;list=PL1EgXcwbZIeUZHYHJb4elROAOTy_QJ5ik",
-      "fx": 287.96231842041016,
-      "fy": -11.712740898132324,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

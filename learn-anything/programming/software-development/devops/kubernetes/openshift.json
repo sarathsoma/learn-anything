@@ -7,56 +7,60 @@
       "url": "http://www.wikiwand.com/en/OpenShift",
       "fx": 66.8828125,
       "fy": -401.53125,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/openshift/",
+          "fx": 276.8828125,
+          "fy": -407.53125,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://github.com/openshift/origin",
+          "fx": 276.8828125,
+          "fy": -367.53125,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "tools",
       "url": "",
       "fx": 235.4122488318975,
-      "fy": -304.71080002712847
+      "fy": -304.71080002712847,
+      "nodes": [
+        {
+          "text": "open shift ansible",
+          "url": "https://github.com/openshift/openshift-ansible",
+          "fx": 377.4122488318975,
+          "fy": -293.21080002712847,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 86.85919952392578,
-      "fy": -210.7611312866211
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/openshift/",
-      "fx": 276.8828125,
-      "fy": -407.53125,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "openshift"
-    },
-    {
-      "text": "",
-      "url": "https://github.com/openshift/origin",
-      "fx": 276.8828125,
-      "fy": -367.53125,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "openshift"
-    },
-    {
-      "text": "open shift ansible",
-      "url": "https://github.com/openshift/openshift-ansible",
-      "fx": 377.4122488318975,
-      "fy": -293.21080002712847,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "1. getting started",
-      "url": "https://docs.openshift.org/latest/getting_started/index.html",
-      "fx": 242.85919952392578,
-      "fy": -196.2611312866211,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -210.7611312866211,
+      "nodes": [
+        {
+          "text": "1. getting started",
+          "url": "https://docs.openshift.org/latest/getting_started/index.html",
+          "fx": 242.85919952392578,
+          "fy": -196.2611312866211,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

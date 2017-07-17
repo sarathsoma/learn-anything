@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Freedom_of_speech",
       "fx": -37.25781372375786,
       "fy": -130.72470474243164,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 27.62890625,
-      "fy": -5.4854865074157715
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=Zeeq0qaEaLw",
-      "fx": 183.62890625,
-      "fy": 6.0145134925842285,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -5.4854865074157715,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=Zeeq0qaEaLw",
+          "fx": 183.62890625,
+          "fy": 6.0145134925842285,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

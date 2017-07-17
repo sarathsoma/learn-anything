@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Simple_random_sample",
       "fx": 52.390625,
       "fy": -123.546875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 147,
-      "fy": 34
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=yx5KZi5QArQ&amp;t=11s",
-      "fx": 310,
-      "fy": 46.5,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 34,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=yx5KZi5QArQ&amp;t=11s",
+          "fx": 310,
+          "fy": 46.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

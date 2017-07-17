@@ -7,48 +7,51 @@
       "url": "http://www.wikiwand.com/en/Marching_cubes",
       "fx": 42.15060177364876,
       "fy": -307.7622466216216,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "applications",
       "url": "",
       "fx": 231.12077702702686,
-      "fy": -172.09079391891885
+      "fy": -172.09079391891885,
+      "nodes": [
+        {
+          "text": "building terrain",
+          "url": "https://gfycat.com/gifs/detail/MindlessIllegalCoati",
+          "fx": 448.12077702702686,
+          "fy": -159.59079391891885,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 93.04735348277609,
-      "fy": -42.90623912540485
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "building terrain",
-      "url": "https://gfycat.com/gifs/detail/MindlessIllegalCoati",
-      "fx": 448.12077702702686,
-      "fy": -159.59079391891885,
-      "category": "image",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "applications"
-    },
-    {
-      "text": "1. explanation",
-      "url": "https://www.quora.com/How-does-the-Marching-cubes-algorithm-work",
-      "fx": 256.0473534827761,
-      "fy": -63.90623912540485,
-      "category": "quora",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. visualisation of the algorithm on 2 connected voxels",
-      "url": "https://www.youtube.com/watch?v=LfttaAepYJ8",
-      "fx": 256.0473534827761,
-      "fy": -21.906239125404852,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -42.90623912540485,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.quora.com/How-does-the-Marching-cubes-algorithm-work",
+          "fx": 256.0473534827761,
+          "fy": -63.90623912540485,
+          "nodes": [],
+          "category": "quora",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. visualisation of the algorithm on 2 connected voxels",
+          "url": "https://www.youtube.com/watch?v=LfttaAepYJ8",
+          "fx": 256.0473534827761,
+          "fy": -21.906239125404852,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

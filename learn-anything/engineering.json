@@ -8,19 +8,51 @@
       "url": "http://www.wikiwand.com/en/Engineering",
       "fx": 278.0591612347001,
       "fy": -88.55880184507521,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/AskEngineers/",
+          "fx": 536.0591612347001,
+          "fy": -74.55880184507521,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 893.2255486002502,
-      "fy": -71.53667099672333
+      "fy": -71.53667099672333,
+      "nodes": [
+        {
+          "text": "empathy in engineering",
+          "url": "https://github.com/KimberlyMunoz/empathy-in-engineering",
+          "fx": 1030.2255486002502,
+          "fy": -80.03667099672333,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "engineer guy",
+          "url": "https://www.youtube.com/user/engineerguyvideo/featured",
+          "fx": 1030.2255486002502,
+          "fy": -40.03667099672333,
+          "nodes": [],
+          "category": "youtube",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "mechanical engineering  ️",
       "url": "/engineering/mechanical-engineering",
       "fx": 53.58392333984375,
       "fy": 192.07770919799805,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +60,7 @@
       "url": "/engineering/computer-engineering",
       "fx": -1611.6077161538958,
       "fy": 192.78640391189361,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +68,7 @@
       "url": "/engineering/aerospace-engineering",
       "fx": 342.19132232666016,
       "fy": 193.01269149780273,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,6 +77,7 @@
       "url": "/engineering/robotics",
       "fx": -355.61792755126953,
       "fy": 194.88153076171852,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -50,6 +85,7 @@
       "url": "http://www.wikiwand.com/en/Domain_engineering",
       "fx": -1323.0885739063156,
       "fy": 194.9191585379864,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -57,6 +93,7 @@
       "url": "/engineering/bionics",
       "fx": -1992.6344675268097,
       "fy": 195.72375055407764,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -64,6 +101,7 @@
       "url": "/engineering/mechatronics",
       "fx": -853.0446428571427,
       "fy": 195.95758928571428,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -71,6 +109,7 @@
       "url": "/engineering/civil-engineering",
       "fx": -165.49814701080322,
       "fy": 198.0479850769043,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -78,6 +117,7 @@
       "url": "/engineering/audio-engineering",
       "fx": -1851.8366955500153,
       "fy": 198.22155789907197,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -85,6 +125,7 @@
       "url": "http://www.wikiwand.com/en/Biomedical_engineering",
       "fx": 632.7463942307695,
       "fy": 198.2922676282053,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -92,6 +133,7 @@
       "url": "/engineering/electrical-engineering",
       "fx": -640.5023205981502,
       "fy": 198.60651974403055,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -99,6 +141,7 @@
       "url": "/engineering/control-theory",
       "fx": -1053.284182250657,
       "fy": 199.40223097114142,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -106,6 +149,7 @@
       "url": "http://www.wikiwand.com/en/Computer_engineering",
       "fx": 930.7167583594382,
       "fy": 199.96365081138617,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -113,6 +157,7 @@
       "url": "http://www.wikiwand.com/en/Industrial_engineering",
       "fx": 1204.2606154221758,
       "fy": 202.08609468509007,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -120,6 +165,7 @@
       "url": "/engineering/chemical-engineering",
       "fx": 1472.9931030273438,
       "fy": 202.21875762939453,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -127,27 +173,8 @@
       "url": "/engineering/manufacturing-engineering",
       "fx": 1739.1375487029,
       "fy": 205.26468639031725,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/AskEngineers/",
-      "fx": 536.0591612347001,
-      "fy": -74.55880184507521,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "engineering"
-    },
-    {
-      "text": "empathy in engineering",
-      "url": "https://github.com/KimberlyMunoz/empathy-in-engineering",
-      "fx": 1030.2255486002502,
-      "fy": -60.03667099672333,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
     }
   ],
   "connections": [

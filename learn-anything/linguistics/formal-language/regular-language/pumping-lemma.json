@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Pumping_lemma_for_regular_languages",
       "fx": 63.89409722222251,
       "fy": -236.61663510101062,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 154.05078124999977,
-      "fy": -59.328480113585556
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=g4e2RElzCSQ",
-      "fx": 317.0507812499998,
-      "fy": -46.828480113585556,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -59.328480113585556,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=g4e2RElzCSQ",
+          "fx": 317.0507812499998,
+          "fy": -46.828480113585556,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

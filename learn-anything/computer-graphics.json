@@ -7,26 +7,150 @@
       "url": "http://www.wikiwand.com/en/Computer_graphics",
       "fx": -110.90234375,
       "fy": -377.54947916666663,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/computergraphics/",
+          "fx": 187.09765625,
+          "fy": -403.54947916666663,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://computergraphics.stackexchange.com/",
+          "fx": 187.09765625,
+          "fy": -363.54947916666663,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/ericjang/awesome-graphics",
+          "fx": 187.09765625,
+          "fy": -323.54947916666663,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 80.26525010002933,
-      "fy": -259.4812427096897
+      "fy": -259.4812427096897,
+      "nodes": [
+        {
+          "text": "graphics courses  ️",
+          "url": "http://imsky.co/links/graphics-courses",
+          "fx": 217.26525010002933,
+          "fy": -247.9812427096897,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -84.84590202051947,
-      "fy": -3.930135023388175
+      "fy": -3.930135023388175,
+      "nodes": [
+        {
+          "text": "1. a universe of triangles",
+          "url": "https://www.youtube.com/watch?v=KdyvizaygyY",
+          "fx": 97.15409797948053,
+          "fy": -182.43013502338817,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. learn computer graphics from scratch",
+          "url": "https://www.scratchapixel.com/",
+          "fx": 97.15409797948053,
+          "fy": -142.43013502338817,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "1. learning modern 3d graphics programming",
+          "url": "http://opengl.datenwolf.net/gltut/html/index.html",
+          "fx": 97.15409797948053,
+          "fy": -80.43013502338817,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. computational geometry",
+          "note": "- can be used to supplement reading of the above book",
+          "url": "http://wykobi.com/tutorial.html",
+          "fx": 97.15409797948053,
+          "fy": -18.430135023388175,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. computer graphics",
+          "url": "http://www.cs.cmu.edu/afs/cs/academic/class/15462-s12/www/",
+          "fx": 97.15409797948053,
+          "fy": 21.569864976611825,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. interactive 3D graphics",
+          "url": "https://classroom.udacity.com/courses/cs291",
+          "fx": 97.15409797948053,
+          "fy": 61.569864976611825,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. a trip through the graphics pipeline 2011",
+          "url": "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/",
+          "fx": 97.15409797948053,
+          "fy": 101.56986497661183,
+          "nodes": [],
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "1. triangles to pixels",
+          "url": "https://www.youtube.com/watch?v=aweqeMxDnu4",
+          "fx": 97.15409797948053,
+          "fy": 157.56986497661183,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. the visibility problem",
+          "url": "https://www.youtube.com/watch?v=OODzTMcGDD0",
+          "fx": 97.15409797948053,
+          "fy": 197.56986497661183,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "digital images  ️",
       "url": "/computer-graphics/digital-images",
       "fx": -876.4138329653817,
       "fy": 263.9408209081637,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +158,7 @@
       "url": "http://www.wikiwand.com/en/Application_programming_interface",
       "fx": -660.5761018640853,
       "fy": 264.4749195622462,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -41,6 +166,7 @@
       "url": "/computer-graphics/bezier-curves",
       "fx": -284.3838039285995,
       "fy": 265.0241406010646,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +174,7 @@
       "url": "/computer-graphics/3d-modelling",
       "fx": -89.2539621240951,
       "fy": 265.2975781010646,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,6 +183,7 @@
       "url": "/computer-graphics/rendering",
       "fx": -470.4896684534408,
       "fy": 266.70401883592785,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,6 +191,7 @@
       "url": "/computer-graphics/digital-video",
       "fx": -1070.0990510828353,
       "fy": 267.6895077275294,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -70,6 +199,7 @@
       "url": "/computer-graphics/volume-rendering",
       "fx": -1301.2250276453353,
       "fy": 267.7938015507716,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -77,6 +207,7 @@
       "url": "/computer-graphics/polygon-mesh",
       "fx": -1504.3148713953353,
       "fy": 269.10582852831067,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -84,6 +215,7 @@
       "url": "/computer-graphics/shaders",
       "fx": -1655.3709564758517,
       "fy": 269.16482398928804,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -91,6 +223,7 @@
       "url": "/computer-graphics/computer-graphics-lighting",
       "fx": -1974.2505908613446,
       "fy": 270.0863433441559,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -99,6 +232,7 @@
       "url": "/computer-graphics/metal",
       "fx": -890.2193031856173,
       "fy": 371.4622275184604,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -107,6 +241,7 @@
       "url": "/computer-graphics/vulkan",
       "fx": -739.1016755945541,
       "fy": 373.7010510014552,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -115,6 +250,7 @@
       "url": "/computer-graphics/opengl",
       "fx": -430.99159657632913,
       "fy": 374.23334614427006,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -122,126 +258,8 @@
       "url": "/computer-graphics/webgl",
       "fx": -571.816738053864,
       "fy": 374.4201595829984,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/computergraphics/",
-      "fx": 187.09765625,
-      "fy": -403.54947916666663,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "computer graphics"
-    },
-    {
-      "text": "️",
-      "url": "https://computergraphics.stackexchange.com/",
-      "fx": 187.09765625,
-      "fy": -363.54947916666663,
-      "category": "stack exchange",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "computer graphics"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/ericjang/awesome-graphics",
-      "fx": 187.09765625,
-      "fy": -323.54947916666663,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "computer graphics"
-    },
-    {
-      "text": "graphics courses  ️",
-      "url": "http://imsky.co/links/graphics-courses",
-      "fx": 217.26525010002933,
-      "fy": -247.9812427096897,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. a universe of triangles",
-      "url": "https://www.youtube.com/watch?v=KdyvizaygyY",
-      "fx": 97.15409797948053,
-      "fy": -182.43013502338817,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. learn computer graphics from scratch",
-      "url": "https://www.scratchapixel.com/",
-      "fx": 97.15409797948053,
-      "fy": -142.43013502338817,
-      "category": "free book",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. learning modern 3d graphics programming",
-      "url": "http://opengl.datenwolf.net/gltut/html/index.html",
-      "fx": 97.15409797948053,
-      "fy": -80.43013502338817,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. computational geometry",
-      "note": "- can be used to supplement reading of the above book",
-      "url": "http://wykobi.com/tutorial.html",
-      "fx": 97.15409797948053,
-      "fy": -18.430135023388175,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. computer graphics",
-      "url": "http://www.cs.cmu.edu/afs/cs/academic/class/15462-s12/www/",
-      "fx": 97.15409797948053,
-      "fy": 21.569864976611825,
-      "category": "course",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. interactive 3D graphics",
-      "url": "https://classroom.udacity.com/courses/cs291",
-      "fx": 97.15409797948053,
-      "fy": 61.569864976611825,
-      "category": "course",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. a trip through the graphics pipeline 2011",
-      "url": "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/",
-      "fx": 97.15409797948053,
-      "fy": 101.56986497661183,
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. triangles to pixels",
-      "url": "https://www.youtube.com/watch?v=aweqeMxDnu4",
-      "fx": 97.15409797948053,
-      "fy": 157.56986497661183,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. the visibility problem",
-      "url": "https://www.youtube.com/watch?v=OODzTMcGDD0",
-      "fx": 97.15409797948053,
-      "fy": 197.56986497661183,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

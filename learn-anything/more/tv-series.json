@@ -7,23 +7,24 @@
       "url": "https://github.com/learn-anything/tv-series",
       "fx": -151.4277484116045,
       "fy": -135.11598338895635,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "find new series",
       "url": "",
       "fx": -165.3645327669916,
-      "fy": -3.9759557038817093
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "Trakt",
-      "url": "https://trakt.tv/shows/trending",
-      "fx": 66.6354672330084,
-      "fy": 10.52404429611829,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "find new series"
+      "fy": -3.9759557038817093,
+      "nodes": [
+        {
+          "text": "Trakt",
+          "url": "https://trakt.tv/shows/trending",
+          "fx": 66.6354672330084,
+          "fy": 10.52404429611829,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

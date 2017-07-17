@@ -7,65 +7,69 @@
       "url": "http://www.wikiwand.com/en/Internet",
       "fx": -61.37759387351764,
       "fy": -178.82806324110672,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 82.07962779973252,
-      "fy": -79.09323534260756
+      "fy": -79.09323534260756,
+      "nodes": [
+        {
+          "text": "the shape of the internet is changing  ️",
+          "url": "http://carlos.bueno.org/2013/03/internet-shape.html",
+          "fx": 244.07962779973252,
+          "fy": -78.59323534260756,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -79.91193181818187,
-      "fy": 90.87748064883596
+      "fy": 90.87748064883596,
+      "nodes": [
+        {
+          "text": "1. how the internet works  ️",
+          "url": "https://thesquareplanet.com/blog/how-the-internet-works/",
+          "fx": 102.08806818181813,
+          "fy": 40.377480648835956,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. the internet: packets, routing and reliability",
+          "url": "https://www.youtube.com/watch?v=AYdF7b3nMto",
+          "fx": 102.08806818181813,
+          "fy": 80.37748064883596,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. how the internet works for developers",
+          "url": "https://www.youtube.com/watch?v=e4S8zfLdLgQ",
+          "fx": 102.08806818181813,
+          "fy": 142.37748064883596,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "net neutrality  ️",
       "url": "/network-science/computer-networking/internet/net-neutrality",
       "fx": -226.1872571243531,
       "fy": 253.0103626943021,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "the shape of the internet is changing  ️",
-      "url": "http://carlos.bueno.org/2013/03/internet-shape.html",
-      "fx": 244.07962779973252,
-      "fy": -78.59323534260756,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. how the internet works  ️",
-      "url": "https://thesquareplanet.com/blog/how-the-internet-works/",
-      "fx": 102.08806818181813,
-      "fy": 40.377480648835956,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. the internet: packets, routing and reliability",
-      "url": "https://www.youtube.com/watch?v=AYdF7b3nMto",
-      "fx": 102.08806818181813,
-      "fy": 80.37748064883596,
-      "category": "video",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. how the internet works for developers",
-      "url": "https://www.youtube.com/watch?v=e4S8zfLdLgQ",
-      "fx": 102.08806818181813,
-      "fy": 142.37748064883596,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

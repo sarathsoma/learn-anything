@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Reason",
       "fx": 82.80810106981983,
       "fy": -30.302153716216253,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/philosophy/reasoning/critical-thinking",
       "fx": -66.51801801801543,
       "fy": 105.42342342346979,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "reasoning",

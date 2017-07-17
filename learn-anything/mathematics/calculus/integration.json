@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Integral",
       "fx": 64.88629153584486,
       "fy": -41.069662480376564,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 94.93515897212535,
-      "fy": 88.68265461671115
+      "fy": 88.68265461671115,
+      "nodes": [
+        {
+          "text": "1. integration and the fundamental theorem of calculus",
+          "url": "https://www.youtube.com/watch?v=rfG8ce4nNh0",
+          "fx": 250.93515897212535,
+          "fy": 89.18265461671115,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "Lebesgue integration  ️",
       "url": "/mathematics/calculus/integration/lebesgue-integration",
       "fx": 166.0836966323718,
       "fy": 253.86025829479905,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/mathematics/calculus/integration/multiple-integrals",
       "fx": -323.742374420166,
       "fy": 254.09181213378906,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,12 +48,14 @@
       "url": "http://www.wikiwand.com/en/Integral_transform",
       "fx": -93.10693979263306,
       "fy": 254.32902908325195,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "Laplace transform  ️",
       "fx": 442.1620278857321,
       "fy": 256.0906014082463,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,18 +63,8 @@
       "url": "/mathematics/calculus/integration/line-integrals",
       "fx": -510.8860898526076,
       "fy": 260.0254570578231,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. integration and the fundamental theorem of calculus",
-      "url": "https://www.youtube.com/watch?v=rfG8ce4nNh0",
-      "fx": 250.93515897212535,
-      "fy": 89.18265461671115,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

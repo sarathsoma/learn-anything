@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Transformation_matrix",
       "fx": 49.609375,
       "fy": -75.0625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 143,
-      "fy": 54
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. the true power of the matrix",
-      "url": "https://www.youtube.com/watch?v=vQ60rFwh2ig",
-      "fx": 299,
-      "fy": 65.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 54,
+      "nodes": [
+        {
+          "text": "1. the true power of the matrix",
+          "url": "https://www.youtube.com/watch?v=vQ60rFwh2ig",
+          "fx": 299,
+          "fy": 65.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

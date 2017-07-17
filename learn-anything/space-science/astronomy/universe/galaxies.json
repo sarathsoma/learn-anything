@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Galaxy",
       "fx": -23.43227274956064,
       "fy": -18.539584109291013,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -16,6 +17,7 @@
       "url": "/space-science/astronomy/universe/galaxies/andromeda",
       "fx": -209.2637830761994,
       "fy": 103.64661291129534,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -24,10 +26,10 @@
       "url": "/space-science/astronomy/universe/galaxies/milky-way",
       "fx": 36.56541007387921,
       "fy": 107.34033152487433,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "galaxies",

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/End-to-end_encryption",
       "fx": 63.55078125,
       "fy": -106.52734375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 143.5,
-      "fy": 30
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=jkV1KEJGKRA",
-      "fx": 299.5,
-      "fy": 41.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 30,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=jkV1KEJGKRA",
+          "fx": 299.5,
+          "fy": 41.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

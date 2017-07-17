@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Renewable_energy",
       "fx": 33.71484375,
       "fy": -108.8203125,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,13 +15,25 @@
       "note": "if you think this can be improved in any way ",
       "url": "",
       "fx": 81.41503307211474,
-      "fy": -2.390947640450804
+      "fy": -2.390947640450804,
+      "nodes": [
+        {
+          "text": "1. sustainable energy - without the hot air",
+          "url": "http://www.withouthotair.com/c1/page_2.shtml",
+          "fx": 263.41503307211474,
+          "fy": -1.890947640450804,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "solar energy  ️",
       "url": "/environmental-science/renewable-energy/solar-energy",
       "fx": -487.48188266188004,
       "fy": 203.44088015337786,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +41,7 @@
       "url": "http://www.wikiwand.com/en/Wind_power",
       "fx": -297.35297641188004,
       "fy": 205.49068484087786,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -35,6 +49,7 @@
       "url": "http://www.wikiwand.com/en/Tidal_power",
       "fx": -112.40364301269278,
       "fy": 207.02731289285452,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -42,6 +57,7 @@
       "url": "http://www.wikiwand.com/en/Geothermal_energy",
       "fx": 71.13257714072893,
       "fy": 208.67697235965295,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -49,6 +65,7 @@
       "url": "http://www.wikiwand.com/en/Biofuel",
       "fx": 314.5572408732761,
       "fy": 212.3943217732509,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -56,6 +73,7 @@
       "url": "/environmental-science/renewable-energy/nuclear-power",
       "fx": 604.0161719056327,
       "fy": 214.38716847255262,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,18 +81,8 @@
       "url": "http://www.wikiwand.com/en/Biomass",
       "fx": 448.6543935832374,
       "fy": 214.59629378100237,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. sustainable energy - without the hot air",
-      "url": "http://www.withouthotair.com/c1/page_2.shtml",
-      "fx": 263.41503307211474,
-      "fy": -1.890947640450804,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

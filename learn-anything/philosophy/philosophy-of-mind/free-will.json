@@ -8,32 +8,33 @@
       "url": "http://www.wikiwand.com/en/Free_will",
       "fx": 120.734375,
       "fy": -121.34765625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 147.04296875,
-      "fy": 28
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. lecture on free will",
-      "url": "http://www.scottaaronson.com/democritus/lec18.html",
-      "fx": 310.04296875,
-      "fy": 22,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. Sam Harris on free will",
-      "url": "https://www.youtube.com/watch?v=pCofmZlC72g",
-      "fx": 310.04296875,
-      "fy": 59,
-      "category": "video",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
+      "fy": 28,
+      "nodes": [
+        {
+          "text": "1. lecture on free will",
+          "url": "http://www.scottaaronson.com/democritus/lec18.html",
+          "fx": 310.04296875,
+          "fy": 22,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. Sam Harris on free will",
+          "url": "https://www.youtube.com/watch?v=pCofmZlC72g",
+          "fx": 310.04296875,
+          "fy": 59,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

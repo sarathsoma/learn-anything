@@ -7,6 +7,17 @@
       "url": "https://github.com/emberjs/ember.js/",
       "fx": 84.9865274234694,
       "fy": -185.21882971938777,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/nmec/awesome-ember",
+          "fx": 287.9865274234694,
+          "fy": -171.21882971938777,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "github"
     },
     {
@@ -14,34 +25,25 @@
       "note": "",
       "url": "",
       "fx": 80.16159119897964,
-      "fy": -39.541852678571445
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/nmec/awesome-ember",
-      "fx": 287.9865274234694,
-      "fy": -171.21882971938777,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "ember.js"
-    },
-    {
-      "text": "1. getting started",
-      "url": "https://guides.emberjs.com/v2.13.0/getting-started/core-concepts/",
-      "fx": 262.16159119897964,
-      "fy": -42.041852678571445,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. ember 2 tutorial",
-      "url": "http://yoember.com/",
-      "fx": 262.16159119897964,
-      "fy": -8.041852678571445,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": -39.541852678571445,
+      "nodes": [
+        {
+          "text": "1. getting started",
+          "url": "https://guides.emberjs.com/v2.13.0/getting-started/core-concepts/",
+          "fx": 262.16159119897964,
+          "fy": -42.041852678571445,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. ember 2 tutorial",
+          "url": "http://yoember.com/",
+          "fx": 262.16159119897964,
+          "fy": -8.041852678571445,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

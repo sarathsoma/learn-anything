@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Cobordism",
       "fx": 122.35546875,
       "fy": -86.75390625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 147.5,
-      "fy": 49
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to cobordism",
-      "url": "https://math.berkeley.edu/~hutching/teach/215b-2004/vitocruz.pdf",
-      "fx": 310.5,
-      "fy": 61.5,
-      "category": "free book",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 49,
+      "nodes": [
+        {
+          "text": "1. introduction to cobordism",
+          "url": "https://math.berkeley.edu/~hutching/teach/215b-2004/vitocruz.pdf",
+          "fx": 310.5,
+          "fy": 61.5,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

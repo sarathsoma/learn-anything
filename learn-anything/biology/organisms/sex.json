@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Sex",
       "fx": 363.9824776940933,
       "fy": 212.77181996862174,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "http://www.wikiwand.com/en/Reproduction",
       "fx": 202.754010825916,
       "fy": 322.88259438451774,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -21,6 +23,7 @@
       "url": "/biology/organisms/sex/sexual-reproduction",
       "fx": -5.793466567993164,
       "fy": 434.4981155395508,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,10 +31,10 @@
       "url": "/biology/organisms/sex/reproductive-systems",
       "fx": 251.78297305764443,
       "fy": 436.2998756657269,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "sex",

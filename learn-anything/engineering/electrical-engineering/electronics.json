@@ -7,25 +7,49 @@
       "url": "http://www.wikiwand.com/en/Electronics",
       "fx": 104.08235056375383,
       "fy": -556.0192151747224,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 247.82168814201532,
-      "fy": -443.5650512478796
+      "fy": -443.5650512478796,
+      "nodes": [
+        {
+          "text": "open electronics",
+          "url": "https://github.com/intajay/open-electronics",
+          "fx": 384.8216881420153,
+          "fy": -432.0650512478796,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 107.86883933387344,
-      "fy": -345.8017630798306
+      "fy": -345.8017630798306,
+      "nodes": [
+        {
+          "text": "1. beginner electronics",
+          "url": "https://www.youtube.com/watch?v=r-X9coYTOV4&amp;list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs",
+          "fx": 263.86883933387344,
+          "fy": -334.3017630798306,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "digital logic  ️",
       "url": "/engineering/electrical-engineering/electronics/digital-logic",
       "fx": -262.1444627193007,
       "fy": -213.74218750000352,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,6 +57,7 @@
       "url": "http://www.wikiwand.com/en/Network_analysis_(electrical_circuits)",
       "fx": 191.21122936265772,
       "fy": -202.343710248239,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -40,6 +65,7 @@
       "url": "/engineering/electrical-engineering/electronics/logic-gates",
       "fx": -23.822261682968474,
       "fy": -198.2709136901296,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,6 +73,7 @@
       "url": "/engineering/electrical-engineering/electronics/electronic-circuits",
       "fx": -222.42708333333326,
       "fy": -64.16796875,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -54,6 +81,7 @@
       "url": "/engineering/electrical-engineering/electronics/electronic-components",
       "fx": -517.5591988259517,
       "fy": -59.575413381013334,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -61,6 +89,7 @@
       "url": "/engineering/electrical-engineering/electronics/analog-electronics",
       "fx": 22.200057983398438,
       "fy": -59.07197046279907,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -68,6 +97,7 @@
       "url": "http://www.wikiwand.com/en/Solid-state_electronics",
       "fx": 281.8515625,
       "fy": -57.007812500000114,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -75,27 +105,8 @@
       "url": "/engineering/electrical-engineering/electronics/power-electronics",
       "fx": 295.87678006328906,
       "fy": 92.2094541139628,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "open electronics",
-      "url": "https://github.com/intajay/open-electronics",
-      "fx": 384.8216881420153,
-      "fy": -432.0650512478796,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. beginner electronics",
-      "url": "https://www.youtube.com/watch?v=r-X9coYTOV4&amp;list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs",
-      "fx": 263.86883933387344,
-      "fy": -334.3017630798306,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

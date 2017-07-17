@@ -7,39 +7,42 @@
       "url": "http://www.wikiwand.com/en/Headless_browser",
       "fx": -121.32421875,
       "fy": -191.65625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 50.609375,
-      "fy": -95.3515625
+      "fy": -95.3515625,
+      "nodes": [
+        {
+          "text": "list of all headless web browsers",
+          "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
+          "fx": 187.609375,
+          "fy": -83.8515625,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -55.5859375,
-      "fy": 2.12890625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "list of all headless web browsers",
-      "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
-      "fx": 187.609375,
-      "fy": -83.8515625,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. what are headless browsers",
-      "url": "https://www.youtube.com/watch?v=udkiQSpXKw4",
-      "fx": 100.4140625,
-      "fy": 13.62890625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 2.12890625,
+      "nodes": [
+        {
+          "text": "1. what are headless browsers",
+          "url": "https://www.youtube.com/watch?v=udkiQSpXKw4",
+          "fx": 100.4140625,
+          "fy": 13.62890625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

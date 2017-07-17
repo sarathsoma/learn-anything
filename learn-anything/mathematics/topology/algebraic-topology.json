@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Algebraic_topology",
       "fx": -69.0546875,
       "fy": -302.171875,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,34 +15,35 @@
       "note": "",
       "url": "",
       "fx": -13.021252858492176,
-      "fy": -173.8079806800106
+      "fy": -173.8079806800106,
+      "nodes": [
+        {
+          "text": "1. introduction to algebraic topology",
+          "url": "https://www.youtube.com/watch?v=kdpbfOzkJzI",
+          "fx": 168.97874714150782,
+          "fy": -193.3079806800106,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. algebraic topology",
+          "url": "http://www.maths.ed.ac.uk/~aar/papers/diecktop.pdf",
+          "fx": 168.97874714150782,
+          "fy": -131.3079806800106,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "homology  ️",
       "url": "/mathematics/topology/algebraic-topology/homology",
       "fx": -166.22967935852762,
       "fy": -58.03336145295225,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to algebraic topology",
-      "url": "https://www.youtube.com/watch?v=kdpbfOzkJzI",
-      "fx": 168.97874714150782,
-      "fy": -193.3079806800106,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. algebraic topology",
-      "url": "http://www.maths.ed.ac.uk/~aar/papers/diecktop.pdf",
-      "fx": 168.97874714150782,
-      "fy": -131.3079806800106,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

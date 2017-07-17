@@ -7,30 +7,32 @@
       "url": "http://www.wikiwand.com/en/Context-free_grammar",
       "fx": 60.62109375,
       "fy": -110.83984375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 141,
-      "fy": 32.40625
+      "fy": 32.40625,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://people.cs.clemson.edu/~goddard/texts/theoryOfComputation/6a.pdf",
+          "fx": 304,
+          "fy": 47.40625,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "pumping lemma for context-free languages  ️",
       "url": "/linguistics/formal-language/formal-grammar/context-free-grammar/pumping-lemma",
       "fx": -138.38805561830281,
       "fy": 156.35635422815824,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://people.cs.clemson.edu/~goddard/texts/theoryOfComputation/6a.pdf",
-      "fx": 304,
-      "fy": 47.40625,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -6,38 +6,41 @@
       "text": "CSS Grid layout",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
       "fx": 116.33203125,
-      "fy": -76.98828125
+      "fy": -76.98828125,
+      "nodes": []
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 256.32686966240044,
-      "fy": 32.01962104474836
+      "fy": 32.01962104474836,
+      "nodes": [
+        {
+          "text": "17: CSS grid layout - Rachel Andrew",
+          "url": "https://www.youtube.com/watch?v=N5Lt1SLqBmQ",
+          "fx": 447.32686966240044,
+          "fy": 32.51962104474836,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 149.5288760492408,
-      "fy": 134.73943170812169
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "17: CSS grid layout - Rachel Andrew",
-      "url": "https://www.youtube.com/watch?v=N5Lt1SLqBmQ",
-      "fx": 447.32686966240044,
-      "fy": 32.51962104474836,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. basic concepts of grid layout",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout",
-      "fx": 305.5288760492408,
-      "fy": 149.23943170812169,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 134.73943170812169,
+      "nodes": [
+        {
+          "text": "1. basic concepts of grid layout",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout",
+          "fx": 305.5288760492408,
+          "fy": 149.23943170812169,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

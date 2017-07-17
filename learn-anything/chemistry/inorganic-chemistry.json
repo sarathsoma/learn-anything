@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Inorganic_chemistry",
       "fx": 61.23046875,
       "fy": -119.2578125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 127.5,
-      "fy": 24
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction",
-      "url": "https://www.youtube.com/watch?v=OUj4j6td1es",
-      "fx": 283.5,
-      "fy": 35.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 24,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://www.youtube.com/watch?v=OUj4j6td1es",
+          "fx": 283.5,
+          "fy": 35.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

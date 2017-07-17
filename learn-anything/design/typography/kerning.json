@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Kerning",
       "fx": 136.15234375,
       "fy": -141.08203125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 146.53917100694457,
-      "fy": -10.935546875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. kerning and kerning pairs",
-      "url": "https://www.youtube.com/watch?v=xHeP9bCJMR4",
-      "fx": 302.53917100694457,
-      "fy": 0.564453125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -10.935546875,
+      "nodes": [
+        {
+          "text": "1. kerning and kerning pairs",
+          "url": "https://www.youtube.com/watch?v=xHeP9bCJMR4",
+          "fx": 302.53917100694457,
+          "fy": 0.564453125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

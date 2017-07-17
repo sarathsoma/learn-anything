@@ -8,37 +8,107 @@
       "url": "http://www.wikiwand.com/en/Art",
       "fx": 138.95442915791625,
       "fy": -792.0465732114337,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 149.23116572891263,
-      "fy": -679.5735312753447
+      "fy": -679.5735312753447,
+      "nodes": [
+        {
+          "text": "1. the gap",
+          "url": "https://vimeo.com/85040589",
+          "fx": 312.23116572891263,
+          "fy": -667.0735312753447,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "help",
       "url": "",
       "fx": 600.8253343088973,
-      "fy": -594.2407772516275
+      "fy": -594.2407772516275,
+      "nodes": [
+        {
+          "text": "art station",
+          "url": "https://www.artstation.com/#",
+          "fx": 741.8253343088973,
+          "fy": -616.2407772516275,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "wiki art",
+          "url": "https://www.wikiart.org/",
+          "fx": 741.8253343088973,
+          "fy": -579.2407772516275,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "art encyclopedia",
+          "url": "http://www.visual-arts-cork.com/",
+          "fx": 741.8253343088973,
+          "fy": -542.2407772516275,
+          "nodes": [],
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 795.0377808460207,
-      "fy": -466.18271118501264
+      "fy": -466.18271118501264,
+      "nodes": [
+        {
+          "text": "art album",
+          "url": "http://imgur.com/a/3m5wf",
+          "fx": 994.0377808460207,
+          "fy": -474.68271118501264,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "when pixels collide  ️",
+          "url": "http://sudoscript.com/reddit-place/",
+          "fx": 994.0377808460207,
+          "fy": -432.68271118501264,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 1201.4383763205647,
-      "fy": -302.08319064713214
+      "fy": -302.08319064713214,
+      "nodes": [
+        {
+          "text": "17: utopia  ️",
+          "url": "https://eev.ee/blog/2017/03/08/utopia/",
+          "fx": 1370.4383763205647,
+          "fy": -289.58319064713214,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "photography  ️",
       "url": "/art/photography",
       "fx": -648.8918304443359,
       "fy": -239.32973861694336,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -46,6 +116,7 @@
       "url": "/art/filmmaking",
       "fx": -446.60801696777344,
       "fy": -238.43372344970703,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -53,6 +124,7 @@
       "url": "/art/writing",
       "fx": -256.49507904052734,
       "fy": -237.86754608154297,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -60,6 +132,7 @@
       "url": "/art/digital-art",
       "fx": -815.9437103271484,
       "fy": -237.53801345825195,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -67,6 +140,7 @@
       "url": "/art/comics",
       "fx": -966.9600524902344,
       "fy": -235.61687469482422,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -74,6 +148,7 @@
       "url": "/art/music",
       "fx": -115.36093711853027,
       "fy": -234.04550552368164,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -81,6 +156,7 @@
       "url": "/art/animation",
       "fx": 256.9086456298828,
       "fy": -233.07411193847656,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -88,6 +164,7 @@
       "url": "/art/video-editing",
       "fx": -1171.712387084961,
       "fy": -232.655029296875,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -95,6 +172,7 @@
       "url": "/art/martial-arts",
       "fx": -1358.4591979980469,
       "fy": -231.98545455932617,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -102,6 +180,7 @@
       "url": "/art/drawing",
       "fx": 430.04579162597656,
       "fy": -230.8778190612793,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -109,6 +188,7 @@
       "url": "/art/public-speaking",
       "fx": 22.771141052246094,
       "fy": -230.69368362426758,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -116,6 +196,7 @@
       "url": "/art/world-building",
       "fx": -1573.0101928710938,
       "fy": -230.06977081298828,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -123,6 +204,7 @@
       "url": "/art/creative-coding",
       "fx": 586.1879577636719,
       "fy": -229.43180084228516,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -130,6 +212,7 @@
       "url": "/art/dancing",
       "fx": 1028.4786224365234,
       "fy": -228.8036346435547,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -137,6 +220,7 @@
       "url": "/art/generative-art",
       "fx": 816.3312225341797,
       "fy": -228.69213104248047,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -144,6 +228,7 @@
       "url": "/art/anime",
       "fx": -1710.9869384765625,
       "fy": -224.99452590942383,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -151,6 +236,7 @@
       "url": "/art/comedy",
       "fx": -2051.954315185547,
       "fy": -223.40023040771484,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -158,6 +244,7 @@
       "url": "/art/fashion",
       "fx": -2200.9495239257812,
       "fy": -221.87196731567383,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -165,6 +252,7 @@
       "url": "/art/origami",
       "fx": -2534.8958740234375,
       "fy": -221.85405731201172,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -172,6 +260,7 @@
       "url": "/art/live-coding",
       "fx": -2384.9239807128906,
       "fy": -221.2015724182129,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -179,6 +268,7 @@
       "url": "/art/calligraphy",
       "fx": -1892.9918212890625,
       "fy": -220.50045013427734,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -186,6 +276,7 @@
       "url": "/art/illustration",
       "fx": -2708.8546406970063,
       "fy": -220.30753168202523,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -193,6 +284,7 @@
       "url": "/art/acting",
       "fx": -434.4033445850308,
       "fy": -133.08349492201478,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -200,6 +292,7 @@
       "url": "/art/literature",
       "fx": -289.55113983154297,
       "fy": -130.96983909606934,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -207,69 +300,8 @@
       "url": "/art/singing",
       "fx": -129.40118312835693,
       "fy": -130.86599349975586,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. the gap",
-      "url": "https://vimeo.com/85040589",
-      "fx": 312.23116572891263,
-      "fy": -667.0735312753447,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "art station",
-      "url": "https://www.artstation.com/#",
-      "fx": 741.8253343088973,
-      "fy": -616.2407772516275,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "wiki art",
-      "url": "https://www.wikiart.org/",
-      "fx": 741.8253343088973,
-      "fy": -579.2407772516275,
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "art encyclopedia",
-      "url": "http://www.visual-arts-cork.com/",
-      "fx": 741.8253343088973,
-      "fy": -542.2407772516275,
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "art album",
-      "url": "http://imgur.com/a/3m5wf",
-      "fx": 994.0377808460207,
-      "fy": -474.68271118501264,
-      "category": "image",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "when pixels collide  ️",
-      "url": "http://sudoscript.com/reddit-place/",
-      "fx": 994.0377808460207,
-      "fy": -432.68271118501264,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "17: utopia  ️",
-      "url": "https://eev.ee/blog/2017/03/08/utopia/",
-      "fx": 1370.4383763205647,
-      "fy": -289.58319064713214,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "articles"
     }
   ],
   "connections": [

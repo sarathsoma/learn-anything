@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Standard_deviation",
       "fx": 187.1251370614035,
       "fy": -189.83004385964915,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 244.56140350877183,
-      "fy": -43.54385964913763
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=09kiX3p5Vek",
-      "fx": 407.56140350877183,
-      "fy": -31.04385964913763,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -43.54385964913763,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=09kiX3p5Vek",
+          "fx": 407.56140350877183,
+          "fy": -31.04385964913763,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

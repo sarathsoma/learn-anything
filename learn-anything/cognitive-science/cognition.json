@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Cognition",
       "fx": 95.0662416757242,
       "fy": -405.9932808524906,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/cognitive-science/cognition/motivation",
       "fx": 214.46017590408815,
       "fy": -262.74125260283887,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,6 +24,7 @@
       "url": "/cognitive-science/cognition/learning",
       "fx": -111.08920721914262,
       "fy": -262.5822095520641,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +32,7 @@
       "url": "/cognitive-science/cognition/rationality",
       "fx": 43.025125284488354,
       "fy": -261.45027696211565,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,6 +40,7 @@
       "url": "/cognitive-science/cognition/emotions",
       "fx": 384.4253692626953,
       "fy": -260.92856216430664,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,10 +48,10 @@
       "url": "/cognitive-science/cognition/cognitive-biases",
       "fx": 543.56640625,
       "fy": -258.5625,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "cognition",

@@ -7,26 +7,77 @@
       "url": "http://www.wikiwand.com/en/Front-end_web_development",
       "fx": 884.6311843611129,
       "fy": -856.5069812654648,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Frontend/",
+          "fx": 1092.631184361113,
+          "fy": -862.5069812654648,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+          "fx": 1092.631184361113,
+          "fy": -822.5069812654648,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 1020.7021083980283,
-      "fy": -749.0126309523258
+      "fy": -749.0126309523258,
+      "nodes": [
+        {
+          "text": "front end resources",
+          "url": "https://enboard.co/frontend/",
+          "fx": 1157.7021083980283,
+          "fy": -754.5126309523258,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "spell book of modern webdev",
+          "url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
+          "fx": 1157.7021083980283,
+          "fy": -720.5126309523258,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 882.0657909901661,
-      "fy": -638.9887802593275
+      "fy": -638.9887802593275,
+      "nodes": [
+        {
+          "text": "1. front end guide",
+          "url": "https://github.com/grab/front-end-guide",
+          "fx": 1064.065790990166,
+          "fy": -627.4887802593275,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "CSS3  ️",
       "url": "/web-development/front-end/css/css3",
       "fx": 1233.8989984766658,
       "fy": -538.9596662961184,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +85,7 @@
       "url": "/web-development/front-end/css",
       "fx": 1008.5141112840424,
       "fy": -520.4629022587292,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +93,7 @@
       "url": "/web-development/front-end/html",
       "fx": 758.2533247259648,
       "fy": -516.1235539723475,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +101,7 @@
       "url": "/web-development/front-end/css/styled-components",
       "fx": 1184.3525403491956,
       "fy": -454.050451869241,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +109,7 @@
       "url": "/web-development/front-end/html/html5",
       "fx": 553.2780385376011,
       "fy": -430.0901885704927,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,70 +117,81 @@
       "url": "/programming/programming-languages/javascript",
       "fx": 855.1500246161656,
       "fy": -407.9767984554468,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "task runners",
       "url": "",
       "fx": 851.8730040330151,
-      "fy": -278.55973082322333
+      "fy": -278.55973082322333,
+      "nodes": []
     },
     {
       "text": "module loader/bundler",
       "url": "https://webpack.github.io/docs/loaders.html",
       "fx": 1506.4654408188394,
-      "fy": -277.29630225147747
+      "fy": -277.29630225147747,
+      "nodes": []
     },
     {
       "text": "typescript  ️",
       "url": "/programming/programming-languages/typescript",
       "fx": 1774.586342901256,
       "fy": -279.57401276300857,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "package manager",
       "url": "",
       "fx": 1091.3895566239314,
-      "fy": -274.7620805730954
+      "fy": -274.7620805730954,
+      "nodes": []
     },
     {
       "text": "web components  ️",
       "url": "/web-development/front-end/web-components",
       "fx": 1951.2365350773566,
       "fy": -276.2686178893614,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "testing",
       "url": "",
       "fx": 1322.5755831781155,
-      "fy": -271.87416598400984
+      "fy": -271.87416598400984,
+      "nodes": []
     },
     {
       "text": "frameworks",
       "url": "",
       "fx": 499.6912802419355,
-      "fy": -268.77784778225805
+      "fy": -268.77784778225805,
+      "nodes": []
     },
     {
       "text": "ES6  ️",
       "url": "/programming/programming-languages/javascript/es6",
       "fx": 676.3379698253816,
       "fy": -271.1411999437146,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "npm scripts",
       "url": "https://docs.npmjs.com/misc/scripts",
       "fx": 696.017826625279,
-      "fy": -178.44756507873535
+      "fy": -178.44756507873535,
+      "nodes": []
     },
     {
       "text": "gulp",
       "url": "https://github.com/gulpjs/gulp",
       "fx": 977.5085359949644,
       "fy": -179.36328315734863,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -133,6 +199,7 @@
       "url": "/web-development/javascript-libraries/grunt",
       "fx": 853.6662190755208,
       "fy": -178.54452514648438,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -140,6 +207,7 @@
       "url": "/programming/programming-languages/javascript/npm",
       "fx": 1093.4459838867188,
       "fy": -173.01318550109863,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -147,45 +215,52 @@
       "url": "https://github.com/yarnpkg/yarn",
       "fx": 1209.3128509521484,
       "fy": -172.92107963562012,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "mocha",
       "url": "https://mochajs.org/",
       "fx": 1429.1328735351562,
-      "fy": -162.78445625305176
+      "fy": -162.78445625305176,
+      "nodes": []
     },
     {
       "text": "webpack  ️",
       "url": "/web-development/javascript-libraries/webpack",
       "fx": 1653.1185913085938,
       "fy": -165.07349395751953,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "jasmine",
       "url": "https://jasmine.github.io/",
       "fx": 1538.10400390625,
-      "fy": -162.1407356262207
+      "fy": -162.1407356262207,
+      "nodes": []
     },
     {
       "text": "jest  ️",
       "url": "/web-development/javascript-libraries/jest",
       "fx": 1323.2052001953125,
       "fy": -164.19062995910645,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "requireJS / AMD",
       "url": "http://requirejs.org/",
       "fx": 1811.2091674804688,
-      "fy": -160.7352294921875
+      "fy": -160.7352294921875,
+      "nodes": []
     },
     {
       "text": "preact  ️",
       "url": "/web-development/javascript-libraries/preact",
       "fx": 417.57733154296875,
       "fy": -125.48646450042736,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -193,6 +268,7 @@
       "url": "https://github.com/infernojs/inferno",
       "fx": 552.3495635986328,
       "fy": -124.41577911376953,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -200,6 +276,7 @@
       "url": "/web-development/javascript-libraries-/vuejs",
       "fx": 291.0352554321289,
       "fy": -123.46325874328613,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -207,6 +284,7 @@
       "url": "/web-development/javascript-libraries/react",
       "fx": 169.35914611816406,
       "fy": -123.40617322921764,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -214,6 +292,7 @@
       "url": "/web-development/javascript-libraries/angularjs",
       "fx": 21.589630126953125,
       "fy": -122.06597995758068,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -221,6 +300,7 @@
       "url": "/web-development/javascript-libraries/emberjs",
       "fx": -136.16109371185303,
       "fy": -119.04307746887207,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -228,6 +308,7 @@
       "url": "/programming/software-development/architectural-patterns/flux",
       "fx": 122.79539113230817,
       "fy": -11.370446935874838,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -235,53 +316,8 @@
       "url": "/web-development/javascript-libraries/redux",
       "fx": 236.55369825485855,
       "fy": -10.768922483764868,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Frontend/",
-      "fx": 1092.631184361113,
-      "fy": -862.5069812654648,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "front end"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
-      "fx": 1092.631184361113,
-      "fy": -822.5069812654648,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "front end"
-    },
-    {
-      "text": "front end resources",
-      "url": "https://enboard.co/frontend/",
-      "fx": 1157.7021083980283,
-      "fy": -754.5126309523258,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "spell book of modern webdev",
-      "url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
-      "fx": 1157.7021083980283,
-      "fy": -720.5126309523258,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. front end guide",
-      "url": "https://github.com/grab/front-end-guide",
-      "fx": 1064.065790990166,
-      "fy": -627.4887802593275,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

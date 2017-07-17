@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Subatomic_particle",
       "fx": 6.361206054687386,
       "fy": -198.54272460937494,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 79.33409202755911,
-      "fy": -68.57523375984852
+      "fy": -68.57523375984852,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=eD7hXLRqWWM",
+          "fx": 242.3340920275591,
+          "fy": -56.075233759848516,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "electrons  ️",
       "url": "/physics/matter/atoms/subatomic-particles/electrons",
       "fx": -129.30576505054864,
       "fy": 46.63070270207322,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/physics/matter/atoms/subatomic-particles/protons",
       "fx": 48.42637252807617,
       "fy": 49.33706283569336,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,18 +48,8 @@
       "url": "/physics/matter/atoms/subatomic-particles/neutrons",
       "fx": 202.56624248086598,
       "fy": 50.252075358488355,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=eD7hXLRqWWM",
-      "fx": 242.3340920275591,
-      "fy": -56.075233759848516,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

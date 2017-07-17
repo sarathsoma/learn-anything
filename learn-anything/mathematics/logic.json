@@ -7,32 +7,104 @@
       "url": "http://www.wikiwand.com/en/Logic",
       "fx": -76.20558187217193,
       "fy": -248.30478651318435,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/logic/",
+          "fx": 92.79441812782807,
+          "fy": -234.30478651318435,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 75.74711570598538,
-      "fy": -103.35386029411757
+      "fy": -103.35386029411757,
+      "nodes": [
+        {
+          "text": "incredible proof machine",
+          "url": "http://incredible.pm/",
+          "fx": 212.74711570598538,
+          "fy": -162.85386029411757,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "functional programming in coq, logic and more",
+          "url": "http://www.cis.upenn.edu/~bcpierce/sf/current/toc.html",
+          "fx": 212.74711570598538,
+          "fy": -122.85386029411757,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "book of bad arguments",
+          "url": "https://bookofbadarguments.com/",
+          "fx": 212.74711570598538,
+          "fy": -60.85386029411757,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "list of logic symbols",
+          "url": "http://www.wikiwand.com/en/List_of_logic_symbols",
+          "fx": 212.74711570598538,
+          "fy": -20.853860294117567,
+          "nodes": [],
+          "category": "wiki",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "talks",
       "url": "",
       "fx": 441.8111545988254,
-      "fy": 50.483748165362044
+      "fy": 50.483748165362044,
+      "nodes": [
+        {
+          "text": "13: logic, information and computation",
+          "url": "https://www.youtube.com/watch?v=BczwMBsyODY",
+          "fx": 581.8111545988254,
+          "fy": 50.983748165362044,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -85.8359375,
-      "fy": 90.5058730332168
+      "fy": 90.5058730332168,
+      "nodes": [
+        {
+          "text": "1. logic matters",
+          "url": "http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf",
+          "fx": 95.1640625,
+          "fy": 102.0058730332168,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "polish notation  ️",
       "url": "/mathematics/logic/polish-notation",
       "fx": -994.3027038574219,
       "fy": 213.78331756591797,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +112,7 @@
       "url": "http://www.wikiwand.com/en/Automated_reasoning",
       "fx": -614.6059385907018,
       "fy": 214.474343341686,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -47,6 +120,7 @@
       "url": "http://www.wikiwand.com/en/Formal_system",
       "fx": -1206.4331359863281,
       "fy": 216.46710968017578,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -54,6 +128,7 @@
       "url": "/mathematics/logic/proofs",
       "fx": -754.4810202245044,
       "fy": 216.83558138791864,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -61,6 +136,7 @@
       "url": "/mathematics/logic/propositional-logic",
       "fx": -1445.5201844110677,
       "fy": 217.98346404261633,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -68,6 +144,7 @@
       "url": "/mathematics/logic/truth-tables",
       "fx": -320.25841346153834,
       "fy": 219.52274750712252,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -75,6 +152,7 @@
       "url": "http://www.wikiwand.com/en/Substructural_logic",
       "fx": 194.76439761411075,
       "fy": 226.3848319194468,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -82,6 +160,7 @@
       "url": "/mathematics/logic/peano-axioms",
       "fx": -39.54851631531983,
       "fy": 226.95262669432032,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -89,6 +168,7 @@
       "url": "/mathematics/logic/proof-theory",
       "fx": -877.4581983148621,
       "fy": 321.9542549635659,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -96,6 +176,7 @@
       "url": "/mathematics/logic/linear-logic",
       "fx": 409.33714313229507,
       "fy": 333.1046627739071,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -103,6 +184,7 @@
       "url": "/mathematics/logic/automated-theorem-proving",
       "fx": -646.5482238736976,
       "fy": 348.168212106037,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -111,6 +193,7 @@
       "url": "/mathematics/logic/combinatory-logic",
       "fx": -304.4384558433503,
       "fy": 351.78128315063225,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -118,6 +201,7 @@
       "url": "http://www.wikiwand.com/en/Tarski%27s_undefinability_theorem",
       "fx": -1395.4671962111731,
       "fy": 352.4191674251899,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -126,72 +210,8 @@
       "url": "/mathematics/logic/godels-incompleteness-theorem",
       "fx": 48.356246361365265,
       "fy": 372.74590037419284,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/logic/",
-      "fx": 92.79441812782807,
-      "fy": -234.30478651318435,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "logic"
-    },
-    {
-      "text": "incredible proof machine",
-      "url": "http://incredible.pm/",
-      "fx": 212.74711570598538,
-      "fy": -162.85386029411757,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "functional programming in coq, logic and more",
-      "url": "http://www.cis.upenn.edu/~bcpierce/sf/current/toc.html",
-      "fx": 212.74711570598538,
-      "fy": -122.85386029411757,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "book of bad arguments",
-      "url": "https://bookofbadarguments.com/",
-      "fx": 212.74711570598538,
-      "fy": -60.85386029411757,
-      "category": "free book",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "list of logic symbols",
-      "url": "http://www.wikiwand.com/en/List_of_logic_symbols",
-      "fx": 212.74711570598538,
-      "fy": -20.853860294117567,
-      "category": "wiki",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "13: logic, information and computation",
-      "url": "https://www.youtube.com/watch?v=BczwMBsyODY",
-      "fx": 581.8111545988254,
-      "fy": 50.983748165362044,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "talks"
-    },
-    {
-      "text": "1. logic matters",
-      "url": "http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf",
-      "fx": 95.1640625,
-      "fy": 102.0058730332168,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

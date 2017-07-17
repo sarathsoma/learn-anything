@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/List_of_musical_instruments",
       "fx": 377.15625,
       "fy": -190.67727726063828,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/art/music/instruments/synthesiser",
       "fx": 81.26929284037556,
       "fy": -98.84301643192487,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,6 +23,7 @@
       "url": "/art/music/instruments/harmonica",
       "fx": 732.3398437499998,
       "fy": -95.28255208333337,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/art/music/instruments/drums",
       "fx": 183.1015625,
       "fy": -24.46484375,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +39,7 @@
       "url": "/art/music/instruments/guitar",
       "fx": 681.2120025645966,
       "fy": -7.0773807604422245,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +47,7 @@
       "url": "/art/music/instruments/piano",
       "fx": 433.7177334415819,
       "fy": 29.413647176664654,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +55,7 @@
       "url": "/art/music/instruments/ukulele",
       "fx": 261.9905946017909,
       "fy": 50.76624929573461,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,10 +63,10 @@
       "url": "/art/music/instruments/saxophone",
       "fx": 591.5111620279234,
       "fy": 68.55952806819414,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "musical instruments",

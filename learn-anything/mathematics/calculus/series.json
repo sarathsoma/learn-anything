@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Series_(mathematics)",
       "fx": -17.03125,
       "fy": -177.8515625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -9.175837253584291,
-      "fy": -36.602626568100334
+      "fy": -36.602626568100334,
+      "nodes": [
+        {
+          "text": "1. sequence and series tutorial",
+          "url": "https://www.youtube.com/watch?v=Kxh7yJC9Jr0&amp;list=PL9F4EF58B2CA7F1C9",
+          "fx": 146.8241627464157,
+          "fy": -25.102626568100334,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "geometric series  ️",
       "url": "/mathematics/calculus/series/geometric-series",
       "fx": -336.81025314331055,
       "fy": 88.40503311157227,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/mathematics/calculus/series/taylor-series",
       "fx": -112.72350692749023,
       "fy": 88.58586883544922,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +48,7 @@
       "url": "/mathematics/calculus/series/wavelet-transform",
       "fx": 73.38637924194336,
       "fy": 90.31449890136719,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +56,7 @@
       "url": "/mathematics/calculus/series/ramanujan-summation",
       "fx": -619.8408832282983,
       "fy": 90.8402558940387,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +64,7 @@
       "url": "/mathematics/calculus/series/dirichlet-series",
       "fx": -1016.750947684463,
       "fy": 92.88776674593498,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,18 +72,8 @@
       "url": "/mathematics/calculus/series/power-series",
       "fx": -810.6112060546875,
       "fy": 93.4163818359375,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. sequence and series tutorial",
-      "url": "https://www.youtube.com/watch?v=Kxh7yJC9Jr0&amp;list=PL9F4EF58B2CA7F1C9",
-      "fx": 146.8241627464157,
-      "fy": -25.102626568100334,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

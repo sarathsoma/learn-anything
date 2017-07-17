@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Finance",
       "fx": 93.26768422100622,
       "fy": -64.80444724450297,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/economics/finance/financial-markets",
       "fx": -279.38691329956055,
       "fy": 110.53068161010742,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,6 +23,7 @@
       "url": "/economics/finance/technical-analysis",
       "fx": -37.26051712036133,
       "fy": 112.34018325805664,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/economics/finance/forward-contracts",
       "fx": 213.8391571044922,
       "fy": 113.71540069580078,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,10 +39,10 @@
       "url": "/economics/finance/financial-services",
       "fx": 465.89791358692537,
       "fy": 118.30343018022546,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "finance",

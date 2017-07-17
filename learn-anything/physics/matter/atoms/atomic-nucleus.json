@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Atomic_nucleus",
       "fx": 78.8828125,
       "fy": -108.10546875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 131,
-      "fy": 34
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=FSyAehMdpyI",
-      "fx": 294,
-      "fy": 46.5,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 34,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=FSyAehMdpyI",
+          "fx": 294,
+          "fy": 46.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -5,8 +5,9 @@
     {
       "text": "DNA",
       "url": "http://www.wikiwand.com/en/DNA",
-      "fx": -178.0965140687092,
-      "fy": -251.88897331872516,
+      "fx": -171.50816602038208,
+      "fy": -278.22784413656905,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,13 +15,53 @@
       "note": "",
       "url": "",
       "fx": -183.564304530272,
-      "fy": -140.90124288637048
+      "fy": -155.29483024696526,
+      "nodes": [
+        {
+          "text": "1. 6-letter DNA",
+          "note": "DNA = fundamental code containing just 4 nucleic acid bases  1. adenine 2. thymine 3. guanine 4. cytosine",
+          "url": "https://www.youtube.com/watch?v=Xp9HEp4cYzM",
+          "fx": -1.564304530272011,
+          "fy": -203.79483024696526,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. the structure of DNA",
+          "url": "https://www.youtube.com/watch?v=o_-6JXLYS-k",
+          "fx": -1.564304530272011,
+          "fy": -163.79483024696526,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. DNA structure in detail",
+          "url": "https://www.youtube.com/watch?v=8XIZPVU5YBI",
+          "fx": -1.564304530272011,
+          "fy": -123.79483024696526,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. DNA structure and replication",
+          "url": "https://www.youtube.com/watch?annotation_id=annotation_714738&amp;feature=iv&amp;src_vid=H8WJ2KENlK0&amp;v=8kK2zwjRV0M",
+          "fx": -1.564304530272011,
+          "fy": -83.79483024696526,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "DNA replication  ️",
       "url": "/biology/genetics/dna/dna-replication",
       "fx": -446.4132270781081,
       "fy": 2.3016199352580884,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +69,7 @@
       "url": "/biology/genetics/dna/genomes",
       "fx": -228.75217340225504,
       "fy": 3.831159931077366,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,37 +77,8 @@
       "url": "/biology/genetics/dna/dna-repair",
       "fx": -64.98302923678602,
       "fy": 7.680058869432173,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. 6-letter DNA",
-      "note": "DNA = fundamental code containing just 4 nucleic acid bases  1. adenine 2. thymine 3. guanine 4. cytosine",
-      "url": "https://www.youtube.com/watch?v=Xp9HEp4cYzM",
-      "fx": -1.564304530272011,
-      "fy": -169.40124288637048,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. the structure of DNA",
-      "url": "https://www.youtube.com/watch?v=o_-6JXLYS-k",
-      "fx": -1.564304530272011,
-      "fy": -129.40124288637048,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. DNA structure in detail",
-      "url": "https://www.youtube.com/watch?v=8XIZPVU5YBI",
-      "fx": -1.564304530272011,
-      "fy": -89.40124288637048,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [
@@ -73,8 +86,8 @@
       "source": "DNA",
       "target": "basics",
       "curve": {
-        "x": -6.2339,
-        "y": 54.2439
+        "x": -9.52807,
+        "y": 60.2165
       }
     },
     {
@@ -82,7 +95,7 @@
       "target": "genomes  ️",
       "curve": {
         "x": -22.3439,
-        "y": 72.3662
+        "y": 79.563
       }
     },
     {
@@ -90,7 +103,7 @@
       "target": "DNA replication  ️",
       "curve": {
         "x": -117.174,
-        "y": 71.6014
+        "y": 78.7982
       }
     },
     {
@@ -98,7 +111,7 @@
       "target": "DNA repair  ️",
       "curve": {
         "x": 63.0406,
-        "y": 74.2907
+        "y": 81.4875
       }
     }
   ]

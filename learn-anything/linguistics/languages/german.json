@@ -7,6 +7,26 @@
       "url": "http://www.wikiwand.com/en/German_language",
       "fx": 40.76171875,
       "fy": -182.98046875,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/German/",
+          "fx": 325.76171875,
+          "fy": -188.98046875,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://german.stackexchange.com/",
+          "fx": 325.76171875,
+          "fy": -148.98046875,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,44 +34,26 @@
       "note": "",
       "url": "",
       "fx": 94.95445736434112,
-      "fy": -53.03200702519388
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/German/",
-      "fx": 325.76171875,
-      "fy": -188.98046875,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "german language"
-    },
-    {
-      "text": "️",
-      "url": "https://german.stackexchange.com/",
-      "fx": 325.76171875,
-      "fy": -148.98046875,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "german language"
-    },
-    {
-      "text": "1. duolingo",
-      "url": "https://www.duolingo.com/course/de/en/Learn-German-Online",
-      "fx": 276.9544573643411,
-      "fy": -58.53200702519388,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. complete german",
-      "url": "http://www.languagetransfer.org/complete-german",
-      "fx": 276.9544573643411,
-      "fy": -24.532007025193877,
-      "category": "course",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": -53.03200702519388,
+      "nodes": [
+        {
+          "text": "1. duolingo",
+          "url": "https://www.duolingo.com/course/de/en/Learn-German-Online",
+          "fx": 276.9544573643411,
+          "fy": -58.53200702519388,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. complete german",
+          "url": "http://www.languagetransfer.org/complete-german",
+          "fx": 276.9544573643411,
+          "fy": -24.532007025193877,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

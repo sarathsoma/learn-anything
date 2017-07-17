@@ -7,152 +7,163 @@
       "url": "http://www.wikiwand.com/en/LaTeX",
       "fx": -133.80477873974417,
       "fy": -322.6113257337834,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/LaTeX/",
+          "fx": 48.195221260255835,
+          "fy": -348.6113257337834,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://tex.stackexchange.com/",
+          "fx": 48.195221260255835,
+          "fy": -308.6113257337834,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/egeerardyn/awesome-LaTeX",
+          "fx": 48.195221260255835,
+          "fy": -268.6113257337834,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": -17.63632869720459,
-      "fy": -148.3899811816816
+      "fy": -148.3899811816816,
+      "nodes": [
+        {
+          "text": "the comprehensive LaTeX symbol list",
+          "url": "http://mirrors.rit.edu/CTAN/info/symbols/comprehensive/symbols-a4.pdf",
+          "fx": 119.36367130279541,
+          "fy": -195.8899811816816,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "detexify",
+          "note": "draw symbols and get respective latex code and package",
+          "url": "http://detexify.kirelabs.org/classify.html",
+          "fx": 119.36367130279541,
+          "fy": -139.8899811816816,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "overleaf",
+          "note": "collaborative writing and publishing",
+          "url": "https://www.overleaf.com/",
+          "fx": 119.36367130279541,
+          "fy": -105.8899811816816,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "latex wikibook",
+          "url": "https://en.wikibooks.org/wiki/LaTeX",
+          "fx": 119.36367130279541,
+          "fy": -71.8899811816816,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "inspiration",
       "url": "",
       "fx": 97.15741652104953,
-      "fy": 24.383965459403953
+      "fy": 24.383965459403953,
+      "nodes": [
+        {
+          "text": "showcase  of beautiful typography done in TeX",
+          "url": "http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends",
+          "fx": 287.1574165210495,
+          "fy": 27.883965459403953,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -158.55988726450983,
-      "fy": 143.26881361687174
+      "fy": 143.26881361687174,
+      "nodes": [
+        {
+          "text": "1. simple gude to latex",
+          "url": "https://www.latex-tutorial.com/tutorials/",
+          "fx": 23.440112735490175,
+          "fy": 123.76881361687174,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. begin latex in minutes",
+          "url": "https://github.com/VoLuong/Begin-Latex-in-minutes",
+          "fx": 23.440112735490175,
+          "fy": 157.76881361687174,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. learn latex in 30 minutes",
+          "url": "https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes",
+          "fx": 23.440112735490175,
+          "fy": 191.76881361687174,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "packages",
       "url": "",
       "fx": -211.0523208662264,
-      "fy": 252.988785914603
+      "fy": 252.988785914603,
+      "nodes": []
     },
     {
       "text": "booktabs",
       "url": "https://www.ctan.org/pkg/booktabs?lang=en",
       "fx": -431.93107834303305,
-      "fy": 311.760221788452
+      "fy": 311.760221788452,
+      "nodes": []
     },
     {
       "text": "microtype",
       "url": "https://www.ctan.org/pkg/microtype?lang=en",
       "fx": -106.8952256723635,
-      "fy": 337.8456775466831
+      "fy": 337.8456775466831,
+      "nodes": []
     },
     {
       "text": "cleverref",
       "note": "make references easier and consistent",
       "url": "https://www.ctan.org/pkg/cleveref?lang=en",
       "fx": -255.02017059767172,
-      "fy": 391.6324512283237
+      "fy": 391.6324512283237,
+      "nodes": []
     },
     {
       "text": "todonotes",
       "url": "https://www.ctan.org/pkg/todonotes?lang=en",
       "fx": -413.68853607618735,
-      "fy": 418.07780187529636
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/LaTeX/",
-      "fx": 48.195221260255835,
-      "fy": -348.6113257337834,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "LaTeX"
-    },
-    {
-      "text": "️",
-      "url": "https://tex.stackexchange.com/",
-      "fx": 48.195221260255835,
-      "fy": -308.6113257337834,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "LaTeX"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/egeerardyn/awesome-LaTeX",
-      "fx": 48.195221260255835,
-      "fy": -268.6113257337834,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "LaTeX"
-    },
-    {
-      "text": "the comprehensive LaTeX symbol list",
-      "url": "http://mirrors.rit.edu/CTAN/info/symbols/comprehensive/symbols-a4.pdf",
-      "fx": 119.36367130279541,
-      "fy": -195.8899811816816,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "detexify",
-      "note": "draw symbols and get respective latex code and package",
-      "url": "http://detexify.kirelabs.org/classify.html",
-      "fx": 119.36367130279541,
-      "fy": -139.8899811816816,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "overleaf",
-      "note": "collaborative writing and publishing",
-      "url": "https://www.overleaf.com/",
-      "fx": 119.36367130279541,
-      "fy": -105.8899811816816,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "latex wikibook",
-      "url": "https://en.wikibooks.org/wiki/LaTeX",
-      "fx": 119.36367130279541,
-      "fy": -71.8899811816816,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "showcase  of beautiful typography done in TeX",
-      "url": "http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends",
-      "fx": 287.1574165210495,
-      "fy": 27.883965459403953,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "inspiration"
-    },
-    {
-      "text": "1. simple gude to latex",
-      "url": "https://www.latex-tutorial.com/tutorials/",
-      "fx": 23.440112735490175,
-      "fy": 123.76881361687174,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. begin latex in minutes",
-      "url": "https://github.com/VoLuong/Begin-Latex-in-minutes",
-      "fx": 23.440112735490175,
-      "fy": 157.76881361687174,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. learn latex in 30 minutes",
-      "url": "https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes",
-      "fx": 23.440112735490175,
-      "fy": 191.76881361687174,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": 418.07780187529636,
+      "nodes": []
     }
   ],
   "connections": [

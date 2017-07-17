@@ -7,19 +7,102 @@
       "url": "http://www.wikiwand.com/en/Programming_language",
       "fx": -66.47516822814941,
       "fy": -1416.4293051245008,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 200.89765294392873,
-      "fy": -1198.773491753472
+      "fy": -1198.773491753472,
+      "nodes": [
+        {
+          "text": "most popular languages on github",
+          "url": "http://githut.info/",
+          "fx": 337.89765294392873,
+          "fy": -1337.273491753472,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "endangered languages",
+          "url": "https://github.com/RichardLitt/endangered-languages",
+          "fx": 337.89765294392873,
+          "fy": -1303.273491753472,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "esoteric programming languages",
+          "url": "https://github.com/angrykoala/awesome-esolangs",
+          "fx": 337.89765294392873,
+          "fy": -1237.273491753472,
+          "nodes": [
+            {
+              "text": "escher",
+              "url": "https://github.com/gocircuit/escher",
+              "fx": 679.8976529439287,
+              "fy": -1263.273491753472,
+              "nodes": [],
+              "category": "github",
+              "color": "rgba(34, 205, 224, 1.0)"
+            },
+            {
+              "text": "oblivion",
+              "url": "http://obliv.me/",
+              "fx": 679.8976529439287,
+              "fy": -1223.273491753472,
+              "nodes": [],
+              "color": "rgba(34, 205, 224, 1.0)"
+            },
+            {
+              "text": "dale",
+              "url": "https://github.com/tomhrr/dale",
+              "fx": 679.8976529439287,
+              "fy": -1189.273491753472,
+              "nodes": [],
+              "category": "github",
+              "color": "rgba(34, 205, 224, 1.0)"
+            }
+          ],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "learn X in Y minutes",
+          "note": "quick reference guide for checking syntax etc for a bunch of different languages",
+          "url": "https://learnxinyminutes.com/",
+          "fx": 337.89765294392873,
+          "fy": -1149.273491753472,
+          "nodes": [],
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "programming languages influence network",
+          "url": "https://exploringdata.github.io/vis/programming-languages-influence-network/",
+          "fx": 337.89765294392873,
+          "fy": -1115.273491753472,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "the programming languages beacon",
+          "url": "http://www.lextrait.com/Vincent/implementations.html",
+          "fx": 337.89765294392873,
+          "fy": -1053.273491753472,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "paradigms  ️",
       "url": "/programming/programming-paradigms",
       "fx": -3.512118601759312,
       "fy": -954.9104284943431,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +110,7 @@
       "url": "http://www.wikiwand.com/en/Programming_paradigm#/Multi-paradigm",
       "fx": -375.0379047559778,
       "fy": -636.9069551506266,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -34,6 +118,7 @@
       "url": "http://www.wikiwand.com/en/Structured_programming",
       "fx": 3165.398648648649,
       "fy": -608.3164766328832,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -41,6 +126,7 @@
       "url": "http://www.wikiwand.com/en/Stack-oriented_programming_language",
       "fx": 2707.336542719354,
       "fy": -606.4720156886304,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -48,6 +134,7 @@
       "url": "http://www.wikiwand.com/en/Scripting_language",
       "fx": 2523.355411022141,
       "fy": -605.3268229166787,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -55,6 +142,7 @@
       "url": "/programming/programming-paradigms/functional-programming",
       "fx": 809.6598320544631,
       "fy": -603.8411650321852,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,6 +150,7 @@
       "url": "/programming/programming-paradigms/logic-programming",
       "fx": 2237.0260951753053,
       "fy": -601.9981979610167,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -69,6 +158,7 @@
       "url": "http://www.wikiwand.com/en/Object-based_language",
       "fx": 2937.781834892524,
       "fy": -601.2296958556161,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -76,6 +166,7 @@
       "url": "/programming/programming-paradigms/object-oriented",
       "fx": 1524.5800843292004,
       "fy": -597.0049953861964,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -84,6 +175,7 @@
       "url": "/programming/programming-languages/objective-c",
       "fx": 1974.9147128401128,
       "fy": -485.7837677001953,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -92,6 +184,7 @@
       "url": "/programming/programming-languages/scala",
       "fx": 839.9881744384766,
       "fy": -484.9552001953125,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -100,6 +193,7 @@
       "url": "/programming/programming-languages/smalltalk",
       "fx": 1795.8252295627026,
       "fy": -484.90588274572656,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -108,6 +202,7 @@
       "url": "/programming/programming-languages/php",
       "fx": 2172.9971103010503,
       "fy": -484.6382141113281,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -116,6 +211,7 @@
       "url": "/programming/programming-languages/erlang",
       "fx": 522.7909545898438,
       "fy": -484.0111389160156,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -124,6 +220,7 @@
       "url": "/programming/programming-languages/processing",
       "fx": 1593.5452880859375,
       "fy": -481.6809310913086,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -132,6 +229,7 @@
       "url": "/programming/programming-languages/clojure",
       "fx": 679.8660888671875,
       "fy": -481.40135192871094,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -140,6 +238,7 @@
       "url": "/programming/programming-languages/elixir",
       "fx": 381.6532669067383,
       "fy": -480.58470153808594,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -148,6 +247,7 @@
       "url": "/programming/programming-languages/haskell",
       "fx": 988.1120300292969,
       "fy": -479.7981872558594,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -156,6 +256,7 @@
       "url": "/programming/programming-languages/swift",
       "fx": 101.78646087646484,
       "fy": -479.516357421875,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -164,6 +265,7 @@
       "url": "/programming/programming-languages/rust",
       "fx": 244.88877868652344,
       "fy": -479.42930603027344,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -172,6 +274,7 @@
       "url": "/programming/programming-languages/go",
       "fx": -23.302322387695312,
       "fy": -477.6321258544922,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -179,6 +282,7 @@
       "url": "/programming/programming-languages/prolog",
       "fx": 2316.1546252725548,
       "fy": -476.3185218627866,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -186,6 +290,7 @@
       "url": "/programming/programming-languages/agda",
       "fx": 1285.3913269042969,
       "fy": -476.23487854003906,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -194,6 +299,7 @@
       "url": "/programming/programming-languages/elm",
       "fx": 1151.2477416992188,
       "fy": -476.1424102783203,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -202,6 +308,7 @@
       "url": "/programming/programming-languages/javascript",
       "fx": -210.29660415649414,
       "fy": -474.9492492675781,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -210,6 +317,7 @@
       "url": "/programming/programming-languages/groovy",
       "fx": 1405.6140952276828,
       "fy": -474.7750236344773,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -217,6 +325,7 @@
       "url": "/programming/programming-languages/visual-basic",
       "fx": 2958.941716269842,
       "fy": -474.254154265873,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -224,6 +333,7 @@
       "url": "/programming/programming-languages/brainfuck",
       "fx": 3183.6587357955805,
       "fy": -474.2244318181861,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -231,6 +341,7 @@
       "url": "/programming/programming-languages/forth",
       "fx": 2755.5654196805544,
       "fy": -473.79166666666583,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -238,6 +349,7 @@
       "url": "/programming/programming-languages/pascal",
       "fx": 3353.382007312727,
       "fy": -473.71831756745314,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -246,6 +358,7 @@
       "url": "/programming-languages/c--",
       "fx": -904.8773498535156,
       "fy": -473.6368408203125,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -254,6 +367,7 @@
       "url": "/programming-languages/c",
       "fx": -1017.7328796386719,
       "fy": -471.73582458496094,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -262,6 +376,7 @@
       "url": "/programming/programming-languages/kotlin",
       "fx": -358.7239532470703,
       "fy": -471.593994140625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -270,6 +385,7 @@
       "url": "/programming/programming-languages/ruby",
       "fx": -1158.6369934082031,
       "fy": -470.62498474121094,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -278,6 +394,7 @@
       "url": "/programming/programming-languages/applescript",
       "fx": 2515.9581088361992,
       "fy": -470.4658453525641,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -286,6 +403,7 @@
       "url": "/programming/programming-languages/python",
       "fx": -660.6194000244141,
       "fy": -467.91204833984375,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -294,6 +412,7 @@
       "url": "/programming/programming-languages/r",
       "fx": -767.8636169433594,
       "fy": -467.61305236816406,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -302,6 +421,7 @@
       "url": "/programming/programming-languages/lisp",
       "fx": -1289.9074401855469,
       "fy": -466.28416442871094,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -310,6 +430,7 @@
       "url": "/programming/programming-languages/java",
       "fx": -496.5584487915039,
       "fy": -465.74461364746094,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -317,6 +438,7 @@
       "url": "/programming/programming-languages/nim",
       "fx": -1397.9539489746094,
       "fy": -465.1115264892578,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -325,6 +447,7 @@
       "url": "/programming/programming-languages/julia",
       "fx": -1532.9818115234375,
       "fy": -464.97755432128906,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -333,6 +456,7 @@
       "url": "/programming/programming-languages/perl",
       "fx": -1668.110595703125,
       "fy": -462.49998474121094,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -340,6 +464,7 @@
       "url": "/programming/programming-languages/matlab",
       "fx": -1805.2400512695312,
       "fy": -459.372314453125,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -348,6 +473,7 @@
       "url": "/programming/programming-languages/lua",
       "fx": -2242.473175048828,
       "fy": -458.8884582519531,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -356,6 +482,7 @@
       "url": "/programming/programming-languages/c-sharp",
       "fx": -1928.8876037597656,
       "fy": -458.38873291015625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -364,6 +491,7 @@
       "url": "/programming/programming-languages/assembly",
       "fx": -2115.417999267578,
       "fy": -457.90625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -372,6 +500,7 @@
       "url": "/programming/programming-languages/dart",
       "fx": -2380.5488891601562,
       "fy": -457.33335876464844,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -380,6 +509,7 @@
       "url": "/programming/programming-languages/ocaml",
       "fx": -2544.6455078125,
       "fy": -456.25608825683594,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -388,6 +518,7 @@
       "url": "/programming/programming-languages/crystal",
       "fx": -2951.5242919921875,
       "fy": -455.47560119628906,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -396,6 +527,7 @@
       "url": "/programming/programming-languages/d",
       "fx": -2791.849365234375,
       "fy": -453.6266174316406,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -403,6 +535,7 @@
       "url": "/programming/programming-languages/sql",
       "fx": -3073.090542074022,
       "fy": -453.2031904678771,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -410,6 +543,7 @@
       "url": "/programming/programming-languages/fortran",
       "fx": -2678.7464599609375,
       "fy": -452.69712829589844,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -417,6 +551,7 @@
       "url": "/programming/programming-languages/f-sharp",
       "fx": -3172.8813806988105,
       "fy": -448.49566164871715,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -424,6 +559,7 @@
       "url": "/programming/programming-languages/frege",
       "fx": 920.0952443741226,
       "fy": -377.21864011954744,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -432,6 +568,7 @@
       "url": "/programming/programming-languages/typescript",
       "fx": -279.3278377784917,
       "fy": -375.461739509097,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -440,6 +577,7 @@
       "url": "/programming/programming-languages/coq",
       "fx": 1072.8157742580688,
       "fy": -372.2366747894923,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -447,6 +585,7 @@
       "url": "/programming/programming-languages/solidity",
       "fx": 1532.361694868995,
       "fy": -368.12343067685606,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -454,6 +593,7 @@
       "url": "/programming/programming-languages/racket",
       "fx": -1361.2065802680117,
       "fy": -356.37186686197924,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -461,6 +601,7 @@
       "url": "/programming/programming-languages/scheme",
       "fx": -1220.9019410438095,
       "fy": -355.1891913659799,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -468,6 +609,7 @@
       "url": "/programming/programming-languages/purescript",
       "fx": 597.4701740674327,
       "fy": -340.4003947647309,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -476,87 +618,8 @@
       "url": "/programming/programming-languages/idris",
       "fx": 801.8128390842012,
       "fy": -306.6431342230903,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "most popular languages on github",
-      "url": "http://githut.info/",
-      "fx": 337.89765294392873,
-      "fy": -1337.273491753472,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "endangered languages",
-      "url": "https://github.com/RichardLitt/endangered-languages",
-      "fx": 337.89765294392873,
-      "fy": -1303.273491753472,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "esoteric programming languages",
-      "url": "https://github.com/angrykoala/awesome-esolangs",
-      "fx": 337.89765294392873,
-      "fy": -1237.273491753472,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "escher",
-      "url": "https://github.com/gocircuit/escher",
-      "fx": 679.8976529439287,
-      "fy": -1263.273491753472,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "esoteric programming languages"
-    },
-    {
-      "text": "oblivion",
-      "url": "http://obliv.me/",
-      "fx": 679.8976529439287,
-      "fy": -1223.273491753472,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "esoteric programming languages"
-    },
-    {
-      "text": "dale",
-      "url": "https://github.com/tomhrr/dale",
-      "fx": 679.8976529439287,
-      "fy": -1189.273491753472,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "esoteric programming languages"
-    },
-    {
-      "text": "learn X in Y minutes",
-      "note": "quick reference guide for checking syntax etc for a bunch of different languages",
-      "url": "https://learnxinyminutes.com/",
-      "fx": 337.89765294392873,
-      "fy": -1149.273491753472,
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "programming languages influence network",
-      "url": "https://exploringdata.github.io/vis/programming-languages-influence-network/",
-      "fx": 337.89765294392873,
-      "fy": -1115.273491753472,
-      "category": "interactive",
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "the programming languages beacon",
-      "url": "http://www.lextrait.com/Vincent/implementations.html",
-      "fx": 337.89765294392873,
-      "fy": -1053.273491753472,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
     }
   ],
   "connections": [

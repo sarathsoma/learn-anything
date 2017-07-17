@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Regular_language",
       "fx": 177.37123842592587,
       "fy": -270.3178530092593,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/linguistics/formal-language/regular-language/pumping-lemma",
       "fx": -85.84794016290982,
       "fy": -111.47162611389672,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "regular language",

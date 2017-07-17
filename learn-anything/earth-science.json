@@ -8,6 +8,17 @@
       "url": "http://www.wikiwand.com/en/Earth_science",
       "fx": -281.4799268424856,
       "fy": -177.81554822976898,
+      "nodes": [
+        {
+          "text": "️",
+          "url": "https://earthscience.stackexchange.com/",
+          "fx": -7.479926842485611,
+          "fy": -163.81554822976898,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -15,6 +26,7 @@
       "url": "/earth-science/geology",
       "fx": -371.19443190028903,
       "fy": -44.28436596820825,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,18 +34,8 @@
       "url": "/earth-science/atmospheric-sciences",
       "fx": -205.84662356321837,
       "fy": -37.94169061307542,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "️",
-      "url": "https://earthscience.stackexchange.com/",
-      "fx": -7.479926842485611,
-      "fy": -163.81554822976898,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "earth science"
     }
   ],
   "connections": [

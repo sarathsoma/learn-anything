@@ -6,13 +6,15 @@
       "text": "application generators",
       "url": "",
       "fx": 177.59387765522865,
-      "fy": -292.9077052696078
+      "fy": -292.9077052696078,
+      "nodes": []
     },
     {
       "text": "JHipster  ️",
       "url": "/software/tooling/application-generators/jhipster",
       "fx": 95.47265624999989,
       "fy": -137.1121068218955,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -20,10 +22,10 @@
       "url": "/software/tooling/application-generators/yeoman",
       "fx": 297.9169381840437,
       "fy": -135.18997515841028,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "application generators",

@@ -7,39 +7,42 @@
       "url": "http://www.wikiwand.com/en/Domain-driven_design",
       "fx": 172.9921875,
       "fy": -157.0703125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 356.61951929209397,
-      "fy": -45.056576406597344
+      "fy": -45.056576406597344,
+      "nodes": [
+        {
+          "text": "7 learnings from running a domain-driven design project  ️",
+          "url": "https://codeaddiction.net/articles/45/7-learnings-from-running-a-domain-driven-design-project",
+          "fx": 518.619519292094,
+          "fy": -44.556576406597344,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 250.41572854079607,
-      "fy": 52.884550651994005
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "7 learnings from running a domain-driven design project  ️",
-      "url": "https://codeaddiction.net/articles/45/7-learnings-from-running-a-domain-driven-design-project",
-      "fx": 518.619519292094,
-      "fy": -44.556576406597344,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. introduction  ️",
-      "url": "http://insights.workshop14.io/2015/07/14/domain-driven-design-introduction.html",
-      "fx": 406.41572854079607,
-      "fy": 64.384550651994,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 52.884550651994005,
+      "nodes": [
+        {
+          "text": "1. introduction  ️",
+          "url": "http://insights.workshop14.io/2015/07/14/domain-driven-design-introduction.html",
+          "fx": 406.41572854079607,
+          "fy": 64.384550651994,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

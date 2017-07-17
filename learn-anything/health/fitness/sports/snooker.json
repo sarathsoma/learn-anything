@@ -7,33 +7,35 @@
       "url": "http://www.wikiwand.com/en/Snooker",
       "fx": 58.55056381225586,
       "fy": -136.10784435272217,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/snooker/",
+          "fx": 258.55056381225586,
+          "fy": -122.10784435272217,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 75.55365953947376,
-      "fy": 35.57833059210532
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/snooker/",
-      "fx": 258.55056381225586,
-      "fy": -122.10784435272217,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "snooker"
-    },
-    {
-      "text": "1. rules of snooker",
-      "url": "https://www.youtube.com/watch?v=CjSWUTkupQo",
-      "fx": 231.55365953947376,
-      "fy": 47.07833059210532,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 35.57833059210532,
+      "nodes": [
+        {
+          "text": "1. rules of snooker",
+          "url": "https://www.youtube.com/watch?v=CjSWUTkupQo",
+          "fx": 231.55365953947376,
+          "fy": 47.07833059210532,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

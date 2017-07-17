@@ -7,6 +7,17 @@
       "url": "http://www.wikiwand.com/en/Juggling",
       "fx": -103.36833639705878,
       "fy": -194.67731311274508,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/juggling/",
+          "fx": 93.63166360294122,
+          "fy": -180.67731311274508,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,27 +25,18 @@
       "note": "",
       "url": "",
       "fx": -83.30154718137248,
-      "fy": -47.256969975490165
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/juggling/",
-      "fx": 93.63166360294122,
-      "fy": -180.67731311274508,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "juggling"
-    },
-    {
-      "text": "1. how to juggle 3 balls",
-      "url": "https://www.youtube.com/watch?v=_xye0tHas_s",
-      "fx": 98.69845281862752,
-      "fy": -35.756969975490165,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -47.256969975490165,
+      "nodes": [
+        {
+          "text": "1. how to juggle 3 balls",
+          "url": "https://www.youtube.com/watch?v=_xye0tHas_s",
+          "fx": 98.69845281862752,
+          "fy": -35.756969975490165,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

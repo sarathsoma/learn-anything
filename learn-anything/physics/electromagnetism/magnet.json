@@ -7,55 +7,59 @@
       "url": "http://www.wikiwand.com/en/Magnet",
       "fx": -6.000351905822754,
       "fy": -37.30001175403595,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 123.40750915750914,
-      "fy": 65.41632326007601
+      "fy": 65.41632326007601,
+      "nodes": [
+        {
+          "text": "magnets are cool",
+          "url": "http://i.imgur.com/KehYXiy.gifv",
+          "fx": 314.40750915750914,
+          "fy": 56.91632326007601,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "magnets at work",
+          "url": "http://i.imgur.com/MKoDK.gif",
+          "fx": 314.40750915750914,
+          "fy": 96.91632326007601,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 11.647736378205082,
-      "fy": 167.64032451923094
+      "fy": 167.64032451923094,
+      "nodes": [
+        {
+          "text": "1. how do magnets work?",
+          "url": "https://www.youtube.com/watch?v=hFAOXdXZ5TM",
+          "fx": 167.64773637820508,
+          "fy": 179.14032451923094,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "magnetic field  ️",
       "url": "/physics/electromagnetism/magnets/magnetic-field",
       "fx": -120.66095753205207,
       "fy": 316.8676883012764,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "magnets are cool",
-      "url": "http://i.imgur.com/KehYXiy.gifv",
-      "fx": 314.40750915750914,
-      "fy": 56.91632326007601,
-      "category": "image",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "magnets at work",
-      "url": "http://i.imgur.com/MKoDK.gif",
-      "fx": 314.40750915750914,
-      "fy": 96.91632326007601,
-      "category": "image",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. how do magnets work?",
-      "url": "https://www.youtube.com/watch?v=hFAOXdXZ5TM",
-      "fx": 167.64773637820508,
-      "fy": 179.14032451923094,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

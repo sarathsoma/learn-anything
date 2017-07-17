@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Geometric_algebra",
       "fx": 81.16015625,
       "fy": -131.04296875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 147,
-      "fy": 34
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. geometric algebra in 2D",
-      "url": "https://www.youtube.com/watch?v=PNlgMPzj-7Q",
-      "fx": 310,
-      "fy": 46.5,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 34,
+      "nodes": [
+        {
+          "text": "1. geometric algebra in 2D",
+          "url": "https://www.youtube.com/watch?v=PNlgMPzj-7Q",
+          "fx": 310,
+          "fy": 46.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

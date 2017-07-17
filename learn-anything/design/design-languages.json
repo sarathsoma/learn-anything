@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Design_language",
       "fx": -247.1633447643685,
       "fy": -357.94343615061047,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "http://www.wikiwand.com/en/Flat_design",
       "fx": -215.4000466489067,
       "fy": -231.39052477610215,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -22,16 +24,17 @@
       "url": "/design/design-languages/material-design",
       "fx": -37.85518926165287,
       "fy": -228.92968307258474,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "fluent design",
       "url": "http://fluent.microsoft.com/",
       "fx": -440.17827188745724,
-      "fy": -188.5873395157148
+      "fy": -188.5873395157148,
+      "nodes": []
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "design language",

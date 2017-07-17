@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/DNA_digital_data_storage",
       "fx": -50.42578125,
       "fy": -217.21484375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 31.4453125,
-      "fy": -89.1484375
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. DNA hard drives",
-      "url": "https://www.youtube.com/watch?v=tBvd7OSDGgQ",
-      "fx": 187.4453125,
-      "fy": -77.6484375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -89.1484375,
+      "nodes": [
+        {
+          "text": "1. DNA hard drives",
+          "url": "https://www.youtube.com/watch?v=tBvd7OSDGgQ",
+          "fx": 187.4453125,
+          "fy": -77.6484375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Plasma_(physics)",
       "fx": -37.85546875,
       "fy": -170.41796875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -24.87109375,
-      "fy": -32.859375
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. plasma, the most common phase of matter in the universe",
-      "url": "https://www.youtube.com/watch?v=AVEGJZxglIg",
-      "fx": 131.12890625,
-      "fy": -32.359375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -32.859375,
+      "nodes": [
+        {
+          "text": "1. plasma, the most common phase of matter in the universe",
+          "url": "https://www.youtube.com/watch?v=AVEGJZxglIg",
+          "fx": 131.12890625,
+          "fy": -32.359375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,48 +7,51 @@
       "url": "https://github.com/twbs/bootstrap",
       "fx": -92.81673622131348,
       "fy": -149.21233558654785,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "help",
       "url": "",
       "fx": 9.863281726837158,
-      "fy": -54.0543999671936
+      "fy": -54.0543999671936,
+      "nodes": [
+        {
+          "text": "awesome bootstrap",
+          "url": "https://github.com/therebelrobot/awesome-bootstrap",
+          "fx": 146.86328172683716,
+          "fy": -73.5543999671936,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome bootstrap checkboxes &amp; radios",
+          "url": "https://github.com/flatlogic/awesome-bootstrap-checkbox",
+          "fx": 146.86328172683716,
+          "fy": -33.5543999671936,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -72.78909349441528,
-      "fy": 40.48286533355713
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome bootstrap",
-      "url": "https://github.com/therebelrobot/awesome-bootstrap",
-      "fx": 146.86328172683716,
-      "fy": -73.5543999671936,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome bootstrap checkboxes &amp; radios",
-      "url": "https://github.com/flatlogic/awesome-bootstrap-checkbox",
-      "fx": 146.86328172683716,
-      "fy": -33.5543999671936,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. get started",
-      "url": "http://getbootstrap.com/getting-started/",
-      "fx": 109.21090650558472,
-      "fy": 54.98286533355713,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 40.48286533355713,
+      "nodes": [
+        {
+          "text": "1. get started",
+          "url": "http://getbootstrap.com/getting-started/",
+          "fx": 109.21090650558472,
+          "fy": 54.98286533355713,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

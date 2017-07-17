@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Particle_physics",
       "fx": -52.126863237287125,
       "fy": -221.8334369972104,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,13 +15,43 @@
       "note": "",
       "url": "",
       "fx": -12.176764400353136,
-      "fy": -83.14113453975858
+      "fy": -83.14113453975858,
+      "nodes": [
+        {
+          "text": "1. crash course in particle physics",
+          "url": "https://www.youtube.com/watch?v=HVxBdMxgVX0",
+          "fx": 176.82323559964686,
+          "fy": -150.14113453975858,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. introduction to elementary particles",
+          "url": "http://www.goodreads.com/book/show/488853.Introduction_to_Elementary_Particles",
+          "fx": 176.82323559964686,
+          "fy": -83.14113453975858,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. how to discover weird new particles",
+          "url": "https://www.youtube.com/watch?v=KbsnY--LFh0",
+          "fx": 176.82323559964686,
+          "fy": -16.141134539758582,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "supersymmetry  ️",
       "url": "/physics/particle-physics/supersymmetry",
       "fx": -962.0565276222472,
       "fy": 97.96919617861158,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +59,7 @@
       "url": "/physics/particle-physics/brownian-motion",
       "fx": -1426.3695913461536,
       "fy": 98.34194711541568,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +67,7 @@
       "url": "/physics/particle-physics/quasiparticles",
       "fx": -1181.2388000488281,
       "fy": 98.5215950012207,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +75,7 @@
       "url": "/physics/particle-physics/particle-accelerators",
       "fx": -730.9941101074219,
       "fy": 99.01403427124023,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +83,7 @@
       "url": "/physics/particle-physics/standard-model",
       "fx": -452.915771484375,
       "fy": 101.32453918457031,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,6 +91,7 @@
       "url": "/physics/particle-physics/string-theory",
       "fx": -218.81639099121094,
       "fy": 102.6576042175293,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,6 +99,7 @@
       "url": "/physics/particle-physics/elementary-particles",
       "fx": -18.68971061706543,
       "fy": 103.92341613769531,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -70,36 +107,8 @@
       "url": "/physics/particle-physics/beyond-the-standard-model",
       "fx": -606.388878939828,
       "fy": 248.50080587392574,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. crash course in particle physics",
-      "url": "https://www.youtube.com/watch?v=HVxBdMxgVX0",
-      "fx": 176.82323559964686,
-      "fy": -150.14113453975858,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to elementary particles",
-      "url": "http://www.goodreads.com/book/show/488853.Introduction_to_Elementary_Particles",
-      "fx": 176.82323559964686,
-      "fy": -83.14113453975858,
-      "category": "non-free book",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. how to discover weird new particles",
-      "url": "https://www.youtube.com/watch?v=KbsnY--LFh0",
-      "fx": 176.82323559964686,
-      "fy": -16.141134539758582,
-      "category": "video",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

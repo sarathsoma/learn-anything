@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Space-filling_curve",
       "fx": -113.00017547607422,
       "fy": -159.57805633544922,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -47.50002908706665,
-      "fy": -26.036665439605713
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. fractal charm: space filling curves",
-      "url": "https://www.youtube.com/watch?v=RU0wScIj36o",
-      "fx": 108.49997091293335,
-      "fy": -25.536665439605713,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -26.036665439605713,
+      "nodes": [
+        {
+          "text": "1. fractal charm: space filling curves",
+          "url": "https://www.youtube.com/watch?v=RU0wScIj36o",
+          "fx": 108.49997091293335,
+          "fy": -25.536665439605713,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

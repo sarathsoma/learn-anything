@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Mathematical_analysis",
       "fx": -76.60012115641712,
       "fy": -361.76913435828874,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,7 +15,36 @@
       "note": "",
       "url": "",
       "fx": -58.591911764705856,
-      "fy": -182.52299883021385
+      "fy": -182.52299883021385,
+      "nodes": [
+        {
+          "text": "1. principles of mathematical analysis",
+          "url": "http://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis",
+          "fx": 123.40808823529414,
+          "fy": -233.02299883021385,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. visual complex analysis",
+          "url": "https://www.goodreads.com/book/show/149800.Visual_Complex_Analysis",
+          "fx": 123.40808823529414,
+          "fy": -171.02299883021385,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. introductory functional analysis with applications",
+          "url": "http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications",
+          "fx": 123.40808823529414,
+          "fy": -131.02299883021385,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "real analysis  ️",
@@ -22,6 +52,7 @@
       "url": "/mathematics/analysis/real-analysis",
       "fx": -523.6487067086357,
       "fy": -69.2495438711984,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -30,6 +61,7 @@
       "url": "/mathematics/analysis/fourier-analysis",
       "fx": -530.1339142568977,
       "fy": 11.322760022402463,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -37,6 +69,7 @@
       "url": "/mathematics/analysis/harmonic-analysis",
       "fx": -526.4985383100279,
       "fy": 99.87646778959243,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -44,6 +77,7 @@
       "url": "/mathematics/analysis/space-filling-curve",
       "fx": 370.77933396635876,
       "fy": 119.40237483609144,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -52,6 +86,7 @@
       "url": "/mathematics/analysis/functional-analysis",
       "fx": -421.0980529785155,
       "fy": 187.38346099853504,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -60,6 +95,7 @@
       "url": "/mathematics/analysis/complex-analysis",
       "fx": 155.11611938476562,
       "fy": 193.90668106079102,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -67,6 +103,7 @@
       "url": "/mathematics/analysis/measure-theory",
       "fx": -242.57920360565186,
       "fy": 265.88926696777344,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -75,36 +112,8 @@
       "url": "/mathematics/analysis/numerical-analysis",
       "fx": -21.43908905044873,
       "fy": 270.834491824314,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. principles of mathematical analysis",
-      "url": "http://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis",
-      "fx": 123.40808823529414,
-      "fy": -233.02299883021385,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. visual complex analysis",
-      "url": "https://www.goodreads.com/book/show/149800.Visual_Complex_Analysis",
-      "fx": 123.40808823529414,
-      "fy": -171.02299883021385,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. introductory functional analysis with applications",
-      "url": "http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications",
-      "fx": 123.40808823529414,
-      "fy": -131.02299883021385,
-      "category": "non-free book",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

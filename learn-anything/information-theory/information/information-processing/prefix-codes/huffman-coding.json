@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Huffman_coding",
       "fx": 148.0016693376068,
       "fy": -152.32598824786328,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 196.25761217948707,
-      "fy": -15.981971153846132
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. upside down trees",
-      "url": "https://www.youtube.com/watch?v=umTbivyJoiI",
-      "fx": 352.25761217948707,
-      "fy": -4.481971153846132,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -15.981971153846132,
+      "nodes": [
+        {
+          "text": "1. upside down trees",
+          "url": "https://www.youtube.com/watch?v=umTbivyJoiI",
+          "fx": 352.25761217948707,
+          "fy": -4.481971153846132,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/F-distribution",
       "fx": -79.421875,
       "fy": -136.73828125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -46.899604885057556,
-      "fy": -1.2007902298850581
+      "fy": -1.2007902298850581,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=S8VzUYJjBmw",
+          "fx": 109.10039511494244,
+          "fy": 10.299209770114942,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "one-way analysis of variance  ️",
       "url": "/mathematics/statistics/probability-theory/distributions/f-distribution/one-way-analysis-of-variance",
       "fx": -264.1474609375,
       "fy": 138.1767578125,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=S8VzUYJjBmw",
-      "fx": 109.10039511494244,
-      "fy": 10.299209770114942,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Sphere",
       "fx": 85.53929227941171,
       "fy": -81.64485777863777,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 188.88034539473688,
-      "fy": 31.522615131579016
+      "fy": 31.522615131579016,
+      "nodes": [
+        {
+          "text": "how to turn a sphere inside out",
+          "url": "https://www.youtube.com/watch?v=R_w4HYXuo9M&amp;feature=related",
+          "fx": 387.8803453947369,
+          "fy": 44.022615131579016,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "3-spheres  ️",
       "url": "/mathematics/geometry/spheres/3-spheres",
       "fx": -66.67647058823343,
       "fy": 68.30882352937817,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "how to turn a sphere inside out",
-      "url": "https://www.youtube.com/watch?v=R_w4HYXuo9M&amp;feature=related",
-      "fx": 387.8803453947369,
-      "fy": 44.022615131579016,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
     }
   ],
   "connections": [

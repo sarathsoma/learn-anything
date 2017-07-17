@@ -7,81 +7,87 @@
       "url": "http://www.wikiwand.com/en/Generative_art",
       "fx": 53.1796875,
       "fy": -463.37890625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 144.62110900878906,
-      "fy": -350.26808166503906
+      "fy": -350.26808166503906,
+      "nodes": [
+        {
+          "text": "awesome generative art",
+          "url": "https://github.com/kosmos/awesome-generative-art",
+          "fx": 281.62110900878906,
+          "fy": -358.76808166503906,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "the coding train",
+          "url": "https://www.youtube.com/user/shiffman/videos",
+          "fx": 281.62110900878906,
+          "fy": -318.76808166503906,
+          "nodes": [],
+          "category": "youtube",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "inspiration",
       "url": "",
       "fx": 228.4692015895953,
-      "fy": -227.41790101156067
+      "fy": -227.41790101156067,
+      "nodes": [
+        {
+          "text": "holger lippman",
+          "url": "http://holgerlippmann.tumblr.com/",
+          "fx": 418.4692015895953,
+          "fy": -246.91790101156067,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "wow great",
+          "url": "http://wowgreat.tumblr.com/",
+          "fx": 418.4692015895953,
+          "fy": -212.91790101156067,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "context free art",
+          "url": "https://www.contextfreeart.org/gallery/index.php",
+          "fx": 418.4692015895953,
+          "fy": -178.91790101156067,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "software",
       "url": "",
       "fx": -55.18063583815024,
-      "fy": -202.75431268063573
+      "fy": -202.75431268063573,
+      "nodes": []
     },
     {
       "text": "node box 3",
       "url": "https://www.nodebox.net/node/",
       "fx": -102.50486243990872,
-      "fy": -90.93012141179167
+      "fy": -90.93012141179167,
+      "nodes": []
     },
     {
       "text": "context free",
       "url": "https://www.contextfreeart.org/",
       "fx": 55.63326451562341,
-      "fy": -90.68628496838744
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome generative art",
-      "url": "https://github.com/kosmos/awesome-generative-art",
-      "fx": 281.62110900878906,
-      "fy": -358.76808166503906,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "the coding train",
-      "url": "https://www.youtube.com/user/shiffman/videos",
-      "fx": 281.62110900878906,
-      "fy": -318.76808166503906,
-      "category": "youtube",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "holger lippman",
-      "url": "http://holgerlippmann.tumblr.com/",
-      "fx": 418.4692015895953,
-      "fy": -246.91790101156067,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "inspiration"
-    },
-    {
-      "text": "wow great",
-      "url": "http://wowgreat.tumblr.com/",
-      "fx": 418.4692015895953,
-      "fy": -212.91790101156067,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "inspiration"
-    },
-    {
-      "text": "context free art",
-      "url": "https://www.contextfreeart.org/gallery/index.php",
-      "fx": 418.4692015895953,
-      "fy": -178.91790101156067,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "inspiration"
+      "fy": -90.68628496838744,
+      "nodes": []
     }
   ],
   "connections": [

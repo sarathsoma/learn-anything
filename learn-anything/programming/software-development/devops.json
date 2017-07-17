@@ -8,25 +8,86 @@
       "url": "http://www.wikiwand.com/en/DevOps",
       "fx": 108.16937779924365,
       "fy": -953.4550374208178,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/devops/",
+          "fx": 334.16937779924365,
+          "fy": -959.4550374208178,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://devops.stackexchange.com/",
+          "fx": 334.16937779924365,
+          "fy": -919.4550374208179,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 264.22813418066767,
-      "fy": -843.4806916990968
+      "fy": -843.4806916990968,
+      "nodes": [
+        {
+          "text": "awesome DevOps",
+          "url": "https://github.com/AcalephStorage/awesome-devops",
+          "fx": 401.22813418066767,
+          "fy": -851.9806916990968,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "DevOps wiki",
+          "url": "https://github.com/Leo-G/DevopsWiki",
+          "fx": 401.22813418066767,
+          "fy": -811.9806916990968,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 135.93259739530276,
-      "fy": -723.4780432659647
+      "fy": -723.4780432659647,
+      "nodes": [
+        {
+          "text": "1. what is DevOps?",
+          "url": "https://www.youtube.com/watch?v=_I94-tJlovg",
+          "fx": 291.93259739530276,
+          "fy": -742.9780432659647,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. the practice of system and network administration",
+          "url": "http://almus.net/docs/System_and_Network_Administration/The_Practice_of_System_and_Network_Administration(2007).pdf",
+          "fx": 291.93259739530276,
+          "fy": -702.9780432659647,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "automation",
       "url": "http://www.wikiwand.com/en/Automation",
       "fx": -303.54640966748434,
       "fy": -549.8324766613189,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -34,6 +95,7 @@
       "url": "/programming/software-development/devops/cloud-computing",
       "fx": 536.108051120938,
       "fy": -509.8821885664386,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +103,7 @@
       "url": "/programming/software-development/devops/continuous-integration",
       "fx": 240.48871149360116,
       "fy": -509.8281487551602,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,31 +111,36 @@
       "url": "/programming/software-development/devops/docker",
       "fx": 477.66309686622003,
       "fy": -430.74175196001465,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "CF engine",
       "url": "https://cfengine.com/",
       "fx": -1041.698647191969,
-      "fy": -424.7350158691406
+      "fy": -424.7350158691406,
+      "nodes": []
     },
     {
       "text": "aws cloud formation",
       "url": "https://aws.amazon.com/cloudformation/",
       "fx": -192.146317224654,
-      "fy": -424.3453996819019
+      "fy": -424.3453996819019,
+      "nodes": []
     },
     {
       "text": "salt stack",
       "url": "https://saltstack.com/",
       "fx": -494.1369492631443,
-      "fy": -422.57726197015677
+      "fy": -422.57726197015677,
+      "nodes": []
     },
     {
       "text": "chef  ️",
       "url": "/programming/software-development/devops/chef",
       "fx": -904.4762852555614,
       "fy": -424.97635042869445,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -80,6 +148,7 @@
       "url": "/programming/software-development/devops/terraform",
       "fx": -351.2921162636692,
       "fy": -424.6134490870096,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -87,6 +156,7 @@
       "url": "/programming/software-development/devops/puppet",
       "fx": -781.8198751634831,
       "fy": -423.68340973627005,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -94,6 +164,7 @@
       "url": "/programming/software-development/devops/ansible",
       "fx": -632.2639383819878,
       "fy": -422.44905314042603,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -101,19 +172,22 @@
       "url": "http://www.wikiwand.com/en/Operating-system-level_virtualization",
       "fx": 248.12366441595827,
       "fy": -377.50739879276705,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "graphite",
       "url": "https://graphiteapp.org/",
       "fx": -186.97924423217773,
-      "fy": -348.1155848503114
+      "fy": -348.1155848503114,
+      "nodes": []
     },
     {
       "text": "LXC",
       "url": "http://www.wikiwand.com/en/LXC",
       "fx": 484.86490375345215,
       "fy": -344.36241538133754,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -121,6 +195,7 @@
       "url": "http://www.wikiwand.com/en/Zabbix",
       "fx": -344.48682022094727,
       "fy": -326.9920921325685,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -128,6 +203,7 @@
       "url": "https://github.com/rkt/rkt",
       "fx": 457.2841129351116,
       "fy": -255.2279677248406,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -135,19 +211,22 @@
       "url": "https://github.com/prometheus/prometheus",
       "fx": -429.90523529052734,
       "fy": -250.7241497039796,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "monitoring and alterting",
       "url": "",
       "fx": -201.86647860544804,
-      "fy": -243.21273520488967
+      "fy": -243.21273520488967,
+      "nodes": []
     },
     {
       "text": "nginx  ️",
       "url": "/programming/software-development/devops/nginx",
       "fx": 514.5602481613762,
       "fy": -172.23074248878572,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -155,38 +234,44 @@
       "url": "http://www.wikiwand.com/en/Web_server",
       "fx": 255.82867191649188,
       "fy": -170.78013495396874,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "PagerDuty",
       "url": "https://www.pagerduty.com/",
       "fx": -373.9516906738281,
-      "fy": -167.8288459777832
+      "fy": -167.8288459777832,
+      "nodes": []
     },
     {
       "text": "nagios",
       "url": "https://www.nagios.org/",
       "fx": -137.5615234375,
-      "fy": -117.41922187805187
+      "fy": -117.41922187805187,
+      "nodes": []
     },
     {
       "text": "IIS",
       "url": "http://www.wikiwand.com/en/Internet_Information_Services",
       "fx": 522.4673753957306,
       "fy": -99.69535669987295,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "AppDynamics",
       "url": "https://www.appdynamics.com/",
       "fx": -328.91258239746094,
-      "fy": -83.37292861938488
+      "fy": -83.37292861938488,
+      "nodes": []
     },
     {
       "text": "caddy",
       "url": "http://www.wikiwand.com/en/Caddy_(web_server)",
       "fx": 484.56272410067527,
       "fy": -18.85509680108055,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -194,19 +279,22 @@
       "url": "/programming/software-development/devops/kubernetes",
       "fx": -361.0986942000659,
       "fy": -0.45778951121292266,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "container orchestration",
       "url": "",
       "fx": -137.50172025347524,
-      "fy": 38.33142148043157
+      "fy": 38.33142148043157,
+      "nodes": []
     },
     {
       "text": "tomcat",
       "url": "http://www.wikiwand.com/en/Apache_Tomcat",
       "fx": 437.2599384006578,
       "fy": 57.958001066018255,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -214,19 +302,22 @@
       "url": "http://www.wikiwand.com/en/Apache_HTTP_Server",
       "fx": 288.5500594517712,
       "fy": 61.29718372350635,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "mesosphere",
       "url": "https://mesosphere.com/",
       "fx": -366.1938834359373,
-      "fy": 84.02942746554959
+      "fy": 84.02942746554959,
+      "nodes": []
     },
     {
       "text": "nomad",
       "url": "https://github.com/hashicorp/nomad",
       "fx": -11.826598467891927,
       "fy": 139.1495819091797,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -234,19 +325,22 @@
       "url": "http://www.wikiwand.com/en/Apache_Mesos",
       "fx": -363.29370305309544,
       "fy": 176.32811580292196,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "terminal",
       "url": "",
       "fx": 194.88953847989205,
-      "fy": 206.8905762997806
+      "fy": 206.8905762997806,
+      "nodes": []
     },
     {
       "text": "docker swarm  ️",
       "url": "/programming/software-development/devops/docker/docker-swarm",
       "fx": -204.2766966715044,
       "fy": 215.0369568534661,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -254,6 +348,7 @@
       "url": "/software/tooling/cli",
       "fx": 353.81960201263405,
       "fy": 224.1126449317269,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -261,6 +356,7 @@
       "url": "/operating-systems/unix/shells/bash",
       "fx": 101.09724840865465,
       "fy": 312.16027416034376,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -268,63 +364,8 @@
       "url": "/software/tooling/text-editors/vim",
       "fx": 270.9837844755232,
       "fy": 325.59777965193416,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/devops/",
-      "fx": 334.16937779924365,
-      "fy": -959.4550374208178,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "DevOps"
-    },
-    {
-      "text": "️",
-      "url": "https://devops.stackexchange.com/",
-      "fx": 334.16937779924365,
-      "fy": -919.4550374208179,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "DevOps"
-    },
-    {
-      "text": "awesome DevOps",
-      "url": "https://github.com/AcalephStorage/awesome-devops",
-      "fx": 401.22813418066767,
-      "fy": -851.9806916990968,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "DevOps wiki",
-      "url": "https://github.com/Leo-G/DevopsWiki",
-      "fx": 401.22813418066767,
-      "fy": -811.9806916990968,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. what is DevOps?",
-      "url": "https://www.youtube.com/watch?v=_I94-tJlovg",
-      "fx": 291.93259739530276,
-      "fy": -742.9780432659647,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. the practice of system and network administration",
-      "url": "http://almus.net/docs/System_and_Network_Administration/The_Practice_of_System_and_Network_Administration(2007).pdf",
-      "fx": 291.93259739530276,
-      "fy": -702.9780432659647,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

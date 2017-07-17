@@ -6,50 +6,52 @@
       "text": "jenkins",
       "url": "https://jenkins.io/",
       "fx": 179.26524697580646,
-      "fy": -213.72177419354836
+      "fy": -213.72177419354836,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/jenkinsci/",
+          "fx": 346.26524697580646,
+          "fy": -243.22177419354836,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "fx": 346.26524697580646,
+          "fy": -201.22177419354836,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/sahilsk/awesome-jenkins",
+          "fx": 346.26524697580646,
+          "fy": -159.22177419354836,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 178.69666708669354,
-      "fy": -50.67408014112897
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/jenkinsci/",
-      "fx": 346.26524697580646,
-      "fy": -243.22177419354836,
-      "category": "reddit",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "jenkins"
-    },
-    {
-      "text": "",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "fx": 346.26524697580646,
-      "fy": -201.22177419354836,
-      "category": "github",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "jenkins"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/sahilsk/awesome-jenkins",
-      "fx": 346.26524697580646,
-      "fy": -159.22177419354836,
-      "category": "github",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "jenkins"
-    },
-    {
-      "text": "1. guided tour",
-      "url": "https://jenkins.io/doc/",
-      "fx": 341.69666708669354,
-      "fy": -35.67408014112897,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -50.67408014112897,
+      "nodes": [
+        {
+          "text": "1. guided tour",
+          "url": "https://jenkins.io/doc/",
+          "fx": 341.69666708669354,
+          "fy": -35.67408014112897,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

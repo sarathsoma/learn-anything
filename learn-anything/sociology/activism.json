@@ -8,39 +8,42 @@
       "url": "http://www.wikiwand.com/en/Activism",
       "fx": -95.16796875,
       "fy": -420.71875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 15.212673611111086,
-      "fy": -303.2117800245097
+      "fy": -303.2117800245097,
+      "nodes": [
+        {
+          "text": "tools for activism",
+          "url": "https://github.com/drewrwilson/toolsforactivism",
+          "fx": 156.2126736111111,
+          "fy": -290.7117800245097,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 71.74357264002663,
-      "fy": -180.8452198126256
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "tools for activism",
-      "url": "https://github.com/drewrwilson/toolsforactivism",
-      "fx": 156.2126736111111,
-      "fy": -290.7117800245097,
-      "category": "github",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "NoamChomsky - becoming a political activist",
-      "url": "https://www.youtube.com/watch?v=ikCgqzekFqM",
-      "fx": 270.7435726400266,
       "fy": -180.8452198126256,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
+      "nodes": [
+        {
+          "text": "NoamChomsky - becoming a political activist",
+          "url": "https://www.youtube.com/watch?v=ikCgqzekFqM",
+          "fx": 270.7435726400266,
+          "fy": -180.8452198126256,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

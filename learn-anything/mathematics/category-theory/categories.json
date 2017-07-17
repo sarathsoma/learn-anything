@@ -7,19 +7,59 @@
       "url": "http://www.wikiwand.com/en/Category_(mathematics)",
       "fx": -89.30242598684208,
       "fy": -159.52014802631578,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -58.22724010148795,
-      "fy": -40.82926825995111
+      "fy": -40.82926825995111,
+      "nodes": [
+        {
+          "text": "1. introduction  ️",
+          "url": "https://ncatlab.org/nlab/show/category",
+          "fx": 104.77275989851205,
+          "fy": -91.3292682599511,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=p54Hd7AmVFU",
+          "fx": 104.77275989851205,
+          "fy": -49.32926825995111,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "2. objects  ️",
+          "url": "https://ncatlab.org/nlab/show/object",
+          "fx": 104.77275989851205,
+          "fy": -7.329268259951107,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "2. cat  ️",
+          "url": "https://ncatlab.org/nlab/show/Cat",
+          "fx": 104.77275989851205,
+          "fy": 34.67073174004889,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(252, 177, 20, 1.0)"
+        }
+      ]
     },
     {
       "text": "enriched categories  ️",
       "url": "/mathematics/category-theory/categories/enriched-categories",
       "fx": 21.338882446289062,
       "fy": 135.34408569335938,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +67,7 @@
       "url": "http://www.wikiwand.com/en/Monoidal_category",
       "fx": -655.1340103149414,
       "fy": 137.07444763183594,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -34,6 +75,7 @@
       "url": "/mathematics/category-theory/categories/topos-theory",
       "fx": -370.87922286987305,
       "fy": 137.4557876586914,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +83,7 @@
       "url": "/mathematics/category-theory/categories/morphisms",
       "fx": -167.7849006652832,
       "fy": 137.81269073486328,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,45 +91,8 @@
       "url": "http://www.wikiwand.com/en/Symmetric_monoidal_category",
       "fx": -735.7154274425275,
       "fy": 268.5646551724137,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction  ️",
-      "url": "https://ncatlab.org/nlab/show/category",
-      "fx": 104.77275989851205,
-      "fy": -91.3292682599511,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=p54Hd7AmVFU",
-      "fx": 104.77275989851205,
-      "fy": -49.32926825995111,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. objects  ️",
-      "url": "https://ncatlab.org/nlab/show/object",
-      "fx": 104.77275989851205,
-      "fy": -7.329268259951107,
-      "category": "article",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. cat  ️",
-      "url": "https://ncatlab.org/nlab/show/Cat",
-      "fx": 104.77275989851205,
-      "fy": 34.67073174004889,
-      "category": "article",
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

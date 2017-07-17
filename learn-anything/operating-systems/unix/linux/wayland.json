@@ -7,33 +7,35 @@
       "url": "http://www.wikiwand.com/en/Wayland_(display_server_protocol)",
       "fx": 0.062424659729003906,
       "fy": -53.58907425403595,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/wayland/",
+          "fx": 204.062424659729,
+          "fy": -39.58907425403595,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 23.17578125,
-      "fy": 86.20703125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/wayland/",
-      "fx": 204.062424659729,
-      "fy": -39.58907425403595,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "Wayland"
-    },
-    {
-      "text": "1. an introduction to Wayland  ️",
-      "url": "https://drewdevault.com/2017/06/10/Introduction-to-Wayland.html",
-      "fx": 179.17578125,
-      "fy": 97.70703125,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 86.20703125,
+      "nodes": [
+        {
+          "text": "1. an introduction to Wayland  ️",
+          "url": "https://drewdevault.com/2017/06/10/Introduction-to-Wayland.html",
+          "fx": 179.17578125,
+          "fy": 97.70703125,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Political_science",
       "fx": 156.60575810185196,
       "fy": -403.15837191358014,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 203.54325810185196,
-      "fy": -281.19743441358014
+      "fy": -281.19743441358014,
+      "nodes": [
+        {
+          "text": "1. political science 101",
+          "url": "https://www.youtube.com/watch?v=lrk4oY7UxpQ&amp;list=PL4sGpBHlQIiuf7FXUuANaRFbhEjpExywP",
+          "fx": 366.54325810185196,
+          "fy": -268.69743441358014,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "decentralisation  ️",
       "url": "/law/politics/political-science/decentralisation",
       "fx": 268.9572482638887,
       "fy": -123.3203125,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "http://www.wikiwand.com/en/Ideology",
       "fx": 36.390625,
       "fy": -76.6640625,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -34,6 +48,7 @@
       "url": "http://www.wikiwand.com/en/Liberalism",
       "fx": -387.70699310302734,
       "fy": 53.42015266418457,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -41,6 +56,7 @@
       "url": "http://www.wikiwand.com/en/Anarchism",
       "fx": -218.6273136138916,
       "fy": 54.00369644165039,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -48,6 +64,7 @@
       "url": "/economics/economic-systems/socialism",
       "fx": 117.56698989868164,
       "fy": 54.01394844055176,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +72,7 @@
       "url": "http://www.wikiwand.com/en/Conservatism",
       "fx": 287.6786193847656,
       "fy": 55.00638961791992,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -62,6 +80,7 @@
       "url": "/law/politics/political-science/libertarianism",
       "fx": -594.5887222290039,
       "fy": 55.64226531982422,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -69,6 +88,7 @@
       "url": "/law/politics/political-science/fascism",
       "fx": -37.538381576538086,
       "fy": 55.64255714416504,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -76,6 +96,7 @@
       "url": "/law/politics/political-science/marxism",
       "fx": 498.81410217285156,
       "fy": 59.31138038635254,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -83,18 +104,8 @@
       "url": "http://www.wikiwand.com/en/Communism",
       "fx": 92.61184899610362,
       "fy": 175.1796634802206,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. political science 101",
-      "url": "https://www.youtube.com/watch?v=lrk4oY7UxpQ&amp;list=PL4sGpBHlQIiuf7FXUuANaRFbhEjpExywP",
-      "fx": 366.54325810185196,
-      "fy": -268.69743441358014,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

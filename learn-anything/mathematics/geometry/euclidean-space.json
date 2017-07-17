@@ -8,19 +8,32 @@
       "url": "http://www.wikiwand.com/en/Euclidean_space",
       "fx": 81.5625,
       "fy": -121.05859375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 147,
-      "fy": 30.95703125
+      "fy": 30.95703125,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=Dm_d_nUTfmU",
+          "fx": 310,
+          "fy": 43.45703125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "two-dimensional space",
       "url": "http://www.wikiwand.com/en/Two-dimensional_space",
       "fx": -366.66871584699123,
       "fy": 171.18451161201637,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,6 +41,7 @@
       "url": "/mathematics/geometry/euclidean-space/solid-geometry",
       "fx": -39.06144332885742,
       "fy": 173.17867279052734,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +49,7 @@
       "url": "/mathematics/geometry/euclidean-space/hilbert-spaces",
       "fx": 190.90225601479983,
       "fy": 176.10500567083142,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,18 +57,8 @@
       "url": "http://www.wikiwand.com/en/Incidence_structure",
       "fx": -532.4179687499998,
       "fy": 340.78079044118465,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=Dm_d_nUTfmU",
-      "fx": 310,
-      "fy": 43.45703125,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

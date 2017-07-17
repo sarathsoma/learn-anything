@@ -7,33 +7,35 @@
       "url": "http://www.wikiwand.com/en/Marxism",
       "fx": 505.79975558659225,
       "fy": -319.05239612430177,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Marxism/",
+          "fx": 709.7997555865923,
+          "fy": -305.05239612430177,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 526.6340782122904,
-      "fy": -189.24022346369372
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Marxism/",
-      "fx": 709.7997555865923,
-      "fy": -305.05239612430177,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "marxism"
-    },
-    {
-      "text": "1. what is marxism?",
-      "url": "https://www.youtube.com/watch?v=Vz3eOb6Yl1s",
-      "fx": 682.6340782122904,
-      "fy": -177.74022346369372,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -189.24022346369372,
+      "nodes": [
+        {
+          "text": "1. what is marxism?",
+          "url": "https://www.youtube.com/watch?v=Vz3eOb6Yl1s",
+          "fx": 682.6340782122904,
+          "fy": -177.74022346369372,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

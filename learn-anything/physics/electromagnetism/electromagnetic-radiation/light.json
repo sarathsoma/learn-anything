@@ -7,25 +7,58 @@
       "url": "http://www.wikiwand.com/en/Light",
       "fx": 10.602991992864645,
       "fy": -246.89251326481764,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "ask",
       "url": "",
       "fx": 154.45014647661833,
-      "fy": -132.88506443726737
+      "fy": -132.88506443726737,
+      "nodes": [
+        {
+          "text": "askscience",
+          "url": "https://www.reddit.com/r/askscience/search?q=light&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
+          "fx": 284.45014647661833,
+          "fy": -141.38506443726737,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "stack   ️",
+          "url": "https://physics.stackexchange.com/search?tab=newest&amp;q=light",
+          "fx": 284.45014647661833,
+          "fy": -101.38506443726737,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -7.418573156486673,
-      "fy": -20.428791044652655
+      "fy": -20.428791044652655,
+      "nodes": [
+        {
+          "text": "1. what is light?",
+          "url": "https://www.youtube.com/watch?v=IXxZRZxafEQ",
+          "fx": 148.58142684351333,
+          "fy": -8.928791044652655,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "speed of light  ️",
       "url": "/physics/electromagnetism/electromagnetic-radiation/light/speed-of-light",
       "fx": 31.92877435065168,
       "fy": 108.09841720777854,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,36 +66,8 @@
       "url": "/physics/electromagnetism/electromagnetic-radiation/light/light-field",
       "fx": -144.4777729759669,
       "fy": 108.59707818908066,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "askscience",
-      "url": "https://www.reddit.com/r/askscience/search?q=light&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
-      "fx": 284.45014647661833,
-      "fy": -141.38506443726737,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "ask"
-    },
-    {
-      "text": "stack   ️",
-      "url": "https://physics.stackexchange.com/search?tab=newest&amp;q=light",
-      "fx": 284.45014647661833,
-      "fy": -101.38506443726737,
-      "category": "stack exchange",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "ask"
-    },
-    {
-      "text": "1. what is light?",
-      "url": "https://www.youtube.com/watch?v=IXxZRZxafEQ",
-      "fx": 148.58142684351333,
-      "fy": -8.928791044652655,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

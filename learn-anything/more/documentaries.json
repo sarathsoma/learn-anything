@@ -7,39 +7,40 @@
       "url": "https://github.com/learn-anything/documentaries",
       "fx": 70.62890625,
       "fy": -205.328125,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "find new documentaries",
       "url": "",
       "fx": 37.61754261363626,
-      "fy": -49.045782342657446
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "documentary heaven",
-      "url": "http://documentaryheaven.com/",
-      "fx": 351.61754261363626,
-      "fy": -68.54578234265745,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "find new documentaries"
-    },
-    {
-      "text": "top documentary films",
-      "url": "http://topdocumentaryfilms.com/",
-      "fx": 351.61754261363626,
-      "fy": -34.545782342657446,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "find new documentaries"
-    },
-    {
-      "text": "documentary storm",
-      "url": "https://documentarystorm.com/",
-      "fx": 351.61754261363626,
-      "fy": -0.5457823426574464,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "find new documentaries"
+      "fy": -49.045782342657446,
+      "nodes": [
+        {
+          "text": "documentary heaven",
+          "url": "http://documentaryheaven.com/",
+          "fx": 351.61754261363626,
+          "fy": -68.54578234265745,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "top documentary films",
+          "url": "http://topdocumentaryfilms.com/",
+          "fx": 351.61754261363626,
+          "fy": -34.545782342657446,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "documentary storm",
+          "url": "https://documentarystorm.com/",
+          "fx": 351.61754261363626,
+          "fy": -0.5457823426574464,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

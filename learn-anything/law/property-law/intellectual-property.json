@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Intellectual_property",
       "fx": 49.806549072265625,
       "fy": -197.01171851158142,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 116.00666382908821,
-      "fy": -63.21093702316284
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to intellectual property",
-      "url": "https://www.youtube.com/watch?v=RQOJgEA5e1k",
-      "fx": 272.0066638290882,
-      "fy": -62.71093702316284,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -63.21093702316284,
+      "nodes": [
+        {
+          "text": "1. introduction to intellectual property",
+          "url": "https://www.youtube.com/watch?v=RQOJgEA5e1k",
+          "fx": 272.0066638290882,
+          "fy": -62.71093702316284,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

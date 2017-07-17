@@ -7,44 +7,163 @@
       "url": "http://www.wikiwand.com/en/Design",
       "fx": 117.45306322252134,
       "fy": -442.54464751542196,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Design/",
+          "fx": 304.45306322252134,
+          "fy": -428.54464751542196,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 288.47629556133825,
-      "fy": -320.9859587071255
+      "fy": -320.9859587071255,
+      "nodes": [
+        {
+          "text": "awesome design",
+          "url": "https://github.com/gztchan/awesome-design",
+          "fx": 425.47629556133825,
+          "fy": -363.4859587071255,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "maker book",
+          "note": "hand-picked directory of the best free resources for creatives",
+          "url": "http://makerbook.net/",
+          "fx": 425.47629556133825,
+          "fy": -323.4859587071255,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "designer mill",
+          "url": "https://www.designermill.com/",
+          "fx": 425.47629556133825,
+          "fy": -289.4859587071255,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "awesome design systems",
+          "url": "https://github.com/alexpate/awesome-design-systems",
+          "fx": 425.47629556133825,
+          "fy": -255.48595870712552,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 435.90085090755747,
-      "fy": -167.0749498321087
+      "fy": -167.0749498321087,
+      "nodes": [
+        {
+          "text": "evolving the google identity  ️",
+          "url": "https://design.google.com/articles/evolving-the-google-identity/",
+          "fx": 597.9008509075575,
+          "fy": -175.5749498321087,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "17: how to not suck as designer  ️",
+          "url": "https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037",
+          "fx": 597.9008509075575,
+          "fy": -135.5749498321087,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "tools",
       "url": "",
       "fx": 602.8081359863281,
-      "fy": -66.75928497314453
+      "fy": -66.75928497314453,
+      "nodes": [
+        {
+          "text": "the noun project",
+          "url": "https://thenounproject.com/",
+          "fx": 744.8081359863281,
+          "fy": -69.25928497314453,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "logo book",
+          "note": "really beautiful logo collection",
+          "url": "http://www.logobook.com/",
+          "fx": 744.8081359863281,
+          "fy": -35.25928497314453,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 95.79573939396778,
-      "fy": -18.57283968453885
+      "fy": -18.57283968453885,
+      "nodes": [
+        {
+          "text": "1. design fundamentals  ️",
+          "url": "https://medium.freecodecamp.com/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda",
+          "fx": 277.7957393939678,
+          "fy": -27.07283968453885,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. design of everyday things",
+          "url": "https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things",
+          "fx": 277.7957393939678,
+          "fy": 12.927160315461151,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "inspiration",
       "url": "",
       "fx": 728.4398065476189,
-      "fy": 34.83779761904782
+      "fy": 34.83779761904782,
+      "nodes": [
+        {
+          "text": "nova pattern",
+          "note": "well designed patterns",
+          "url": "https://www.novapattern.com/",
+          "fx": 918.4398065476189,
+          "fy": 49.33779761904782,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "graphic design  ️",
       "url": "/design/graphic-design",
       "fx": -250.03433713784545,
       "fy": 213.469729015849,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -52,6 +171,7 @@
       "url": "/design/industrial-design",
       "fx": -35.78807067871094,
       "fy": 214.07632446289062,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -59,12 +179,14 @@
       "url": "/design/typography",
       "fx": 185.31173706054688,
       "fy": 215.822359085083,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "typesetting  ️",
       "fx": 362.43650817871094,
       "fy": 216.51368713378906,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -72,6 +194,7 @@
       "url": "/design/design-languages",
       "fx": -492.8705973129991,
       "fy": 216.92391748366038,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -80,6 +203,7 @@
       "url": "/design/human-computer-interaction",
       "fx": 546.7687182741115,
       "fy": 218.83772208125094,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -87,6 +211,7 @@
       "url": "/design/colour-theory",
       "fx": -697.04296875,
       "fy": 221.52734375,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -94,6 +219,7 @@
       "url": "/design/design-thinking",
       "fx": -913.3571220842399,
       "fy": 225.78196383248735,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -101,6 +227,7 @@
       "url": "/design/computer-aided-design",
       "fx": -1203.479251672107,
       "fy": 229.64137904825918,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -108,6 +235,7 @@
       "url": "/design/interior-design",
       "fx": -1425.1676717836258,
       "fy": 231.11851242690057,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -115,115 +243,8 @@
       "url": "/design/interaction-design",
       "fx": -1660.8359711613784,
       "fy": 234.92028985507227,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Design/",
-      "fx": 304.45306322252134,
-      "fy": -428.54464751542196,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "design"
-    },
-    {
-      "text": "awesome design",
-      "url": "https://github.com/gztchan/awesome-design",
-      "fx": 425.47629556133825,
-      "fy": -363.4859587071255,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "maker book",
-      "note": "hand-picked directory of the best free resources for creatives",
-      "url": "http://makerbook.net/",
-      "fx": 425.47629556133825,
-      "fy": -323.4859587071255,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "designer mill",
-      "url": "https://www.designermill.com/",
-      "fx": 425.47629556133825,
-      "fy": -289.4859587071255,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome design systems",
-      "url": "https://github.com/alexpate/awesome-design-systems",
-      "fx": 425.47629556133825,
-      "fy": -255.48595870712552,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "evolving the google identity  ️",
-      "url": "https://design.google.com/articles/evolving-the-google-identity/",
-      "fx": 597.9008509075575,
-      "fy": -175.5749498321087,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: how to not suck as designer  ️",
-      "url": "https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037",
-      "fx": 597.9008509075575,
-      "fy": -135.5749498321087,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "the noun project",
-      "url": "https://thenounproject.com/",
-      "fx": 744.8081359863281,
-      "fy": -69.25928497314453,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "logo book",
-      "note": "really beautiful logo collection",
-      "url": "http://www.logobook.com/",
-      "fx": 744.8081359863281,
-      "fy": -35.25928497314453,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "1. design fundamentals  ️",
-      "url": "https://medium.freecodecamp.com/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda",
-      "fx": 277.7957393939678,
-      "fy": -27.07283968453885,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. design of everyday things",
-      "url": "https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things",
-      "fx": 277.7957393939678,
-      "fy": 12.927160315461151,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "nova pattern",
-      "note": "well designed patterns",
-      "url": "https://www.novapattern.com/",
-      "fx": 918.4398065476189,
-      "fy": 49.33779761904782,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "inspiration"
     }
   ],
   "connections": [

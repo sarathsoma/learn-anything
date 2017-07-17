@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Formal_language",
       "fx": 78.96484375,
       "fy": -118.97265625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 136.38671875,
-      "fy": 18.89453125
+      "fy": 18.89453125,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=7MBpk4gJRkk",
+          "fx": 292.38671875,
+          "fy": 30.39453125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "regular language  ️",
       "url": "/linguistics/formal-language/regular-language",
       "fx": -326.32691604201045,
       "fy": 151.71882617175584,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/linguistics/formal-language/formal-grammar",
       "fx": -98.53630815927932,
       "fy": 151.84080033037299,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,18 +49,8 @@
       "url": "/linguistics/formal-language/regular-expressions",
       "fx": 125.39559936523438,
       "fy": 153.46633529663086,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=7MBpk4gJRkk",
-      "fx": 292.38671875,
-      "fy": 30.39453125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

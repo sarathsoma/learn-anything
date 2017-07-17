@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Multithreading_(computer_architecture)",
       "fx": -97.18359375,
       "fy": -144.23828125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 66.19684975438838,
-      "fy": -27.491379141807556
+      "fy": -27.491379141807556,
+      "nodes": [
+        {
+          "text": "14: mutlithreading: common pitfalls  ️",
+          "url": "http://austingwalters.com/multithreading-common-pitfalls/",
+          "fx": 235.19684975438838,
+          "fy": -27.491379141807556,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "race conditions  ️",
       "url": "/computer-hardware/computer/computer-architecture/multithreading/race-conditions",
       "fx": -234.62479112474182,
       "fy": 8.46812454745077,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "14: mutlithreading: common pitfalls  ️",
-      "url": "http://austingwalters.com/multithreading-common-pitfalls/",
-      "fx": 235.19684975438838,
-      "fy": -27.491379141807556,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "articles"
     }
   ],
   "connections": [

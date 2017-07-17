@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Cantor_set",
       "fx": -75.62890625,
       "fy": -149.91796874999994,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -51,
-      "fy": -2
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=SgiYkiXPibk",
-      "fx": 112,
-      "fy": 10.5,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=SgiYkiXPibk",
+          "fx": 112,
+          "fy": 10.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

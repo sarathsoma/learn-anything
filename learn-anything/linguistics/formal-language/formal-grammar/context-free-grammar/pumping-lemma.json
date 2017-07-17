@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Pumping_lemma_for_context-free_languages",
       "fx": 46.318882761437976,
       "fy": -119.02131842320256,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 141,
-      "fy": 63
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=4B7mdjbAlEw&amp;feature=youtu.be",
-      "fx": 304,
-      "fy": 75.5,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 63,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=4B7mdjbAlEw&amp;feature=youtu.be",
+          "fx": 304,
+          "fy": 75.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

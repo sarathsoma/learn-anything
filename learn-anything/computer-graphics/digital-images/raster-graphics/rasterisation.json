@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Rasterisation",
       "fx": 97.97265625,
       "fy": -99.90234375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 134,
-      "fy": 49
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. rasterisation: the big picture",
-      "url": "https://www.youtube.com/watch?v=MOpzrIBoIEE",
-      "fx": 297,
-      "fy": 61.5,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 49,
+      "nodes": [
+        {
+          "text": "1. rasterisation: the big picture",
+          "url": "https://www.youtube.com/watch?v=MOpzrIBoIEE",
+          "fx": 297,
+          "fy": 61.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

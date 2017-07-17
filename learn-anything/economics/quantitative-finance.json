@@ -8,65 +8,69 @@
       "url": "http://www.wikiwand.com/en/Mathematical_finance",
       "fx": -144.5,
       "fy": -2,
+      "nodes": [
+        {
+          "text": "️",
+          "url": "https://quant.stackexchange.com/",
+          "fx": 181.5,
+          "fy": 12,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 69.11328124999989,
-      "fy": 130.89423076921526
+      "fy": 130.89423076921526,
+      "nodes": [
+        {
+          "text": "quantitative finance reading list",
+          "url": "https://www.quantstart.com/articles/Quantitative-Finance-Reading-List#general-quant-finance-reading",
+          "fx": 206.1132812499999,
+          "fy": 105.39423076921526,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "wilmott forum",
+          "url": "https://forum.wilmott.com/",
+          "fx": 206.1132812499999,
+          "fy": 139.39423076921526,
+          "nodes": [],
+          "category": "chat",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "math finance cheat sheet",
+          "url": "https://github.com/daleroberts/math-finance-cheat-sheet",
+          "fx": 206.1132812499999,
+          "fy": 179.39423076921526,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -67.68195520429833,
-      "fy": 258.35573573972243
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "️",
-      "url": "https://quant.stackexchange.com/",
-      "fx": 181.5,
-      "fy": 12,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "quantitative finance"
-    },
-    {
-      "text": "quantitative finance reading list",
-      "url": "https://www.quantstart.com/articles/Quantitative-Finance-Reading-List#general-quant-finance-reading",
-      "fx": 206.1132812499999,
-      "fy": 105.39423076921526,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "wilmott forum",
-      "url": "https://forum.wilmott.com/",
-      "fx": 206.1132812499999,
-      "fy": 139.39423076921526,
-      "category": "chat",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "math finance cheat sheet",
-      "url": "https://github.com/daleroberts/math-finance-cheat-sheet",
-      "fx": 206.1132812499999,
-      "fy": 179.39423076921526,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. quantitative finance by Paul Wilmott",
-      "url": "https://www.youtube.com/watch?v=vZXCq2fn-Z0&amp;list=PL8DC1113ADB63358E",
-      "fx": 88.31804479570167,
-      "fy": 258.85573573972243,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 258.35573573972243,
+      "nodes": [
+        {
+          "text": "1. quantitative finance by Paul Wilmott",
+          "url": "https://www.youtube.com/watch?v=vZXCq2fn-Z0&amp;list=PL8DC1113ADB63358E",
+          "fx": 88.31804479570167,
+          "fy": 258.85573573972243,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -8,24 +8,25 @@
       "url": "http://www.wikiwand.com/en/DNA_computing",
       "fx": -241.36328125,
       "fy": -185.72265625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": -123.4921875,
-      "fy": -33.58203125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "15: future computing: DNA hard drives",
-      "url": "https://www.youtube.com/watch?v=tBvd7OSDGgQ",
-      "fx": 67.5078125,
-      "fy": -33.08203125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "fy": -33.58203125,
+      "nodes": [
+        {
+          "text": "15: future computing: DNA hard drives",
+          "url": "https://www.youtube.com/watch?v=tBvd7OSDGgQ",
+          "fx": 67.5078125,
+          "fy": -33.08203125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

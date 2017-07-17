@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Abstract_syntax_tree",
       "fx": 39.390625,
       "fy": -235.4375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 115.70987084870842,
-      "fy": -55.10608856087953
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=OEZBkiRHKf0",
-      "fx": 278.7098708487084,
-      "fy": -42.60608856087953,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -55.10608856087953,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=OEZBkiRHKf0",
+          "fx": 278.7098708487084,
+          "fy": -42.60608856087953,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

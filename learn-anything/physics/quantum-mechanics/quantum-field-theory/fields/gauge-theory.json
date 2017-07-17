@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Gauge_theory",
       "fx": 202.828125,
       "fy": -131.1875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 237.6381555316092,
-      "fy": 25.10695043103459
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to Gauge theory, symmetry &amp; Higgs",
-      "url": "https://www.youtube.com/watch?v=v6bgABUyT3c",
-      "fx": 400.6381555316092,
       "fy": 25.10695043103459,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. introduction to Gauge theory, symmetry &amp; Higgs",
+          "url": "https://www.youtube.com/watch?v=v6bgABUyT3c",
+          "fx": 400.6381555316092,
+          "fy": 25.10695043103459,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

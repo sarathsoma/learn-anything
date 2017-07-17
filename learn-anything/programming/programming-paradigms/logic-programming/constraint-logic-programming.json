@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Constraint_logic_programming",
       "fx": -83.12109375,
       "fy": -186.50390625,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,18 +15,18 @@
       "note": "",
       "url": "",
       "fx": 10.37109375,
-      "fy": -48.21484375
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to constraint logic programming",
-      "url": "https://www.youtube.com/watch?v=84amHOgCEe8",
-      "fx": 192.37109375,
-      "fy": -47.71484375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -48.21484375,
+      "nodes": [
+        {
+          "text": "1. introduction to constraint logic programming",
+          "url": "https://www.youtube.com/watch?v=84amHOgCEe8",
+          "fx": 192.37109375,
+          "fy": -47.71484375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

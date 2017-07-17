@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Authentication",
       "fx": 103.43808049535608,
       "fy": -214.05184549148598,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/security/authentication/passwords",
       "fx": 14.10526315789491,
       "fy": -90.87166215163597,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "authentication",

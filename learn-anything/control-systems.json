@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Control_system",
       "fx": -141.3094512195122,
       "fy": -246.82431402439028,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/control-systems/automation",
       "fx": -207.75752667682946,
       "fy": -96.12036331300817,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,10 +24,10 @@
       "url": "http://www.wikiwand.com/en/Industrial_control_system",
       "fx": -24.03206712372446,
       "fy": -95.04984454719391,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "control systems",

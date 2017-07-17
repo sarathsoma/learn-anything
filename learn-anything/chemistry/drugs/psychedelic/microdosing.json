@@ -8,33 +8,35 @@
       "url": "https://psychonautwiki.org/wiki/Dosage#Microdose",
       "fx": -102.62890625,
       "fy": -149.5,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/microdosing/",
+          "fx": 161.37109375,
+          "fy": -135.5,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -46.5,
-      "fy": -7.125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/microdosing/",
-      "fx": 161.37109375,
-      "fy": -135.5,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "microdosing"
-    },
-    {
-      "text": "1. what is microdosing",
-      "url": "https://www.reddit.com/r/microdosing/wiki/index",
-      "fx": 109.5,
-      "fy": 4.375,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -7.125,
+      "nodes": [
+        {
+          "text": "1. what is microdosing",
+          "url": "https://www.reddit.com/r/microdosing/wiki/index",
+          "fx": 109.5,
+          "fy": 4.375,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

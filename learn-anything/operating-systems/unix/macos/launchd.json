@@ -6,39 +6,42 @@
       "text": "launchd",
       "url": "http://www.launchd.info",
       "fx": 91.65625,
-      "fy": -146.56640625
+      "fy": -146.56640625,
+      "nodes": []
     },
     {
       "text": "articles",
       "url": "",
       "fx": 211.83295036764707,
-      "fy": -42.688955269607845
+      "fy": -42.688955269607845,
+      "nodes": [
+        {
+          "text": "12: schedule jobs using launchd  ️",
+          "url": "https://nathangrigg.com/2012/07/schedule-jobs-using-launchd",
+          "fx": 373.8329503676471,
+          "fy": -31.188955269607845,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 86.66075601077625,
-      "fy": 50.106128435067376
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "12: schedule jobs using launchd  ️",
-      "url": "https://nathangrigg.com/2012/07/schedule-jobs-using-launchd",
-      "fx": 373.8329503676471,
-      "fy": -31.188955269607845,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. launchd overview",
-      "url": "https://www.youtube.com/watch?v=Ci9hh-LUdss",
-      "fx": 242.66075601077625,
-      "fy": 61.606128435067376,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 50.106128435067376,
+      "nodes": [
+        {
+          "text": "1. launchd overview",
+          "url": "https://www.youtube.com/watch?v=Ci9hh-LUdss",
+          "fx": 242.66075601077625,
+          "fy": 61.606128435067376,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

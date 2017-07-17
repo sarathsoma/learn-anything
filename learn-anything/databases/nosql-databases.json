@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/NoSQL",
       "fx": 0.1073165546704331,
       "fy": -200.7493816886511,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/databases/nosql-databases/mongodb",
       "fx": -162.7247570782173,
       "fy": -49.275160549132806,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,6 +24,7 @@
       "url": "/databases/nosql-databases/cassandra",
       "fx": 19.742781521847974,
       "fy": -47.83928339141545,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +32,7 @@
       "url": "/databases/nosql-databases/redis",
       "fx": -281.83635032467726,
       "fy": -47.780194995849115,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,6 +40,7 @@
       "url": "/databases/nosql-databases/newsql",
       "fx": 199.51634216308594,
       "fy": -45.72853946685791,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,10 +48,10 @@
       "url": "/databases/nosql-databases/realm",
       "fx": 356.6612870065792,
       "fy": -42.70867598684208,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "noSQL databases",

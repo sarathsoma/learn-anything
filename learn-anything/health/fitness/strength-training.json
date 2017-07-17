@@ -8,19 +8,32 @@
       "url": "http://www.wikiwand.com/en/Strength_training",
       "fx": -8.8145161290322,
       "fy": -246.08203125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 171.34727822580635,
-      "fy": -112.45614919354853
+      "fy": -112.45614919354853,
+      "nodes": [
+        {
+          "text": "12 tips of StrongLifts",
+          "url": "https://www.reddit.com/r/Fitness/comments/25fwnd/my_top_12_tips_for_stronglifts/",
+          "fx": 308.34727822580635,
+          "fy": -100.95614919354853,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "lean gains  ️",
       "url": "/health/fitness/strength-training/lean-gains",
       "fx": -195.78591904881858,
       "fy": -108.33008037518255,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,18 +41,8 @@
       "url": "/health/fitness/strength-training/bodyweight-exercises",
       "fx": -69.53159615301308,
       "fy": 6.2342088760866545,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "12 tips of StrongLifts",
-      "url": "https://www.reddit.com/r/Fitness/comments/25fwnd/my_top_12_tips_for_stronglifts/",
-      "fx": 308.34727822580635,
-      "fy": -100.95614919354853,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
     }
   ],
   "connections": [

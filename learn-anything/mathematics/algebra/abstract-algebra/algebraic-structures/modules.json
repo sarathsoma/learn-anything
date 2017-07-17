@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Module_(mathematics)",
       "fx": 38.5390625,
       "fy": -91.65625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 59.625,
-      "fy": 42.68359375
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what is a module?",
-      "url": "https://www.youtube.com/watch?v=IvukAijXgLE",
-      "fx": 215.625,
-      "fy": 54.18359375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 42.68359375,
+      "nodes": [
+        {
+          "text": "1. what is a module?",
+          "url": "https://www.youtube.com/watch?v=IvukAijXgLE",
+          "fx": 215.625,
+          "fy": 54.18359375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

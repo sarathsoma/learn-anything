@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Computer_graphics_lighting",
       "fx": 35.61718750000023,
       "fy": -140.90625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 136.796875,
-      "fy": -10.671875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. lights and shadows in graphics",
-      "url": "https://www.youtube.com/watch?v=LUjXAoP5GG0",
-      "fx": 292.796875,
-      "fy": 0.828125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -10.671875,
+      "nodes": [
+        {
+          "text": "1. lights and shadows in graphics",
+          "url": "https://www.youtube.com/watch?v=LUjXAoP5GG0",
+          "fx": 292.796875,
+          "fy": 0.828125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

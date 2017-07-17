@@ -7,39 +7,42 @@
       "url": "http://www.wikiwand.com/en/QR_code",
       "fx": -133.6875,
       "fy": -303.97265625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 2.062984173114387,
-      "fy": -173.946698665619
+      "fy": -173.946698665619,
+      "nodes": [
+        {
+          "text": "15: all of wikipedia in one QR code",
+          "url": "https://www.youtube.com/watch?v=kH9S9jTfUIU",
+          "fx": 201.0629841731144,
+          "fy": -173.946698665619,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -110.97398669903089,
-      "fy": -45.08898390256445
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "15: all of wikipedia in one QR code",
-      "url": "https://www.youtube.com/watch?v=kH9S9jTfUIU",
-      "fx": 201.0629841731144,
-      "fy": -173.946698665619,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. how QR codes work",
-      "url": "https://www.quora.com/How-do-QR-codes-work",
-      "fx": 52.02601330096911,
-      "fy": -32.58898390256445,
-      "category": "quora",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -45.08898390256445,
+      "nodes": [
+        {
+          "text": "1. how QR codes work",
+          "url": "https://www.quora.com/How-do-QR-codes-work",
+          "fx": 52.02601330096911,
+          "fy": -32.58898390256445,
+          "nodes": [],
+          "category": "quora",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

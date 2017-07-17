@@ -7,6 +7,17 @@
       "url": "http://www.wikiwand.com/en/Drum_kit",
       "fx": -61,
       "fy": -208.375,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/drums/",
+          "fx": 124,
+          "fy": -194.375,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,27 +25,18 @@
       "note": "",
       "url": "",
       "fx": -51.74556587837833,
-      "fy": -74.56292229729422
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/drums/",
-      "fx": 124,
-      "fy": -194.375,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "drums"
-    },
-    {
-      "text": "1. the holy of dum programming  ️",
-      "url": "http://www.alandmoore.com/blog/the-theory-of-drum-programming/",
-      "fx": 130.25443412162167,
-      "fy": -63.06292229729422,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -74.56292229729422,
+      "nodes": [
+        {
+          "text": "1. the holy of dum programming  ️",
+          "url": "http://www.alandmoore.com/blog/the-theory-of-drum-programming/",
+          "fx": 130.25443412162167,
+          "fy": -63.06292229729422,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

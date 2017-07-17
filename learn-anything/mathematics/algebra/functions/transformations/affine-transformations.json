@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Affine_transformation",
       "fx": -184.14453125,
       "fy": -176.59765625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -108.0703125,
-      "fy": -44.3984375
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. linear and affine transformations",
-      "url": "https://www.youtube.com/watch?v=4I2S5Xhf24o&amp;list=PLaIjqgElJIp6kKEZp4mrRZ8k8eAI2n7dR",
-      "fx": 47.9296875,
-      "fy": -32.8984375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -44.3984375,
+      "nodes": [
+        {
+          "text": "1. linear and affine transformations",
+          "url": "https://www.youtube.com/watch?v=4I2S5Xhf24o&amp;list=PLaIjqgElJIp6kKEZp4mrRZ8k8eAI2n7dR",
+          "fx": 47.9296875,
+          "fy": -32.8984375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

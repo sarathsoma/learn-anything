@@ -7,6 +7,27 @@
       "url": "http://www.wikiwand.com/en/Accounting",
       "fx": -131.32352028145692,
       "fy": 10.548789321191975,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Accounting/",
+          "fx": 95.67647971854308,
+          "fy": 24.548789321191975,
+          "nodes": [
+            {
+              "text": "wiki",
+              "url": "https://www.reddit.com/r/Accounting/wiki/index",
+              "fx": 205.67647971854308,
+              "fy": 24.548789321191975,
+              "nodes": [],
+              "category": "reddit",
+              "color": "rgba(175, 54, 242, 1.0)"
+            }
+          ],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,51 +35,34 @@
       "note": "",
       "url": "",
       "fx": -116.5603070888211,
-      "fy": 161.28900843890273
+      "fy": 161.28900843890273,
+      "nodes": [
+        {
+          "text": "1. what is accounting?",
+          "url": "https://www.youtube.com/watch?v=sCH7u1xHsX0",
+          "fx": 65.4396929111789,
+          "fy": 155.78900843890273,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. accounting basics",
+          "url": "https://www.accountingcoach.com/accounting-basics/outline",
+          "fx": 65.4396929111789,
+          "fy": 195.78900843890273,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "financial accounting  ️",
       "url": "/economics/accounting/financial-accounting",
       "fx": -298.95223963964725,
       "fy": 291.5002045778991,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Accounting/",
-      "fx": 95.67647971854308,
-      "fy": 24.548789321191975,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "accounting"
-    },
-    {
-      "text": "wiki",
-      "url": "https://www.reddit.com/r/Accounting/wiki/index",
-      "fx": 205.67647971854308,
-      "fy": 24.548789321191975,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": ""
-    },
-    {
-      "text": "1. what is accounting?",
-      "url": "https://www.youtube.com/watch?v=sCH7u1xHsX0",
-      "fx": 65.4396929111789,
-      "fy": 155.78900843890273,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. accounting basics",
-      "url": "https://www.accountingcoach.com/accounting-basics/outline",
-      "fx": 65.4396929111789,
-      "fy": 195.78900843890273,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

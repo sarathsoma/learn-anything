@@ -8,105 +8,122 @@
       "url": "http://www.wikiwand.com/en/List_of_JavaScript_libraries",
       "fx": 1012.5023571281024,
       "fy": -420.5820561831139,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "decentralised apps",
       "url": "",
       "fx": 3105.5696059084466,
-      "fy": -203.3349609374999
+      "fy": -203.3349609374999,
+      "nodes": []
     },
     {
       "text": "task runner",
       "url": "",
       "fx": 3355.1279053987364,
-      "fy": -200.78142991676543
+      "fy": -200.78142991676543,
+      "nodes": []
     },
     {
       "text": "linters",
       "url": "",
       "fx": 2965.018041072405,
-      "fy": -199.5584632941099
+      "fy": -199.5584632941099,
+      "nodes": []
     },
     {
       "text": "template engines",
       "url": "http://www.wikiwand.com/en/Template_processor",
       "fx": 3519.46160635675,
       "fy": -200.94668959224248,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "motion graphics",
       "url": "",
       "fx": -682.0075757575759,
-      "fy": -197.38778409090918
+      "fy": -197.38778409090918,
+      "nodes": []
     },
     {
       "text": "server",
       "url": "",
       "fx": 3776.26657388665,
-      "fy": -196.94901315789497
+      "fy": -196.94901315789497,
+      "nodes": []
     },
     {
       "text": "front end",
       "url": "",
       "fx": -195.74901167168764,
-      "fy": -192.9031438253004
+      "fy": -192.9031438253004,
+      "nodes": []
     },
     {
       "text": "testing",
       "url": "",
       "fx": 2816.9606046628733,
-      "fy": -192.81376589544675
+      "fy": -192.81376589544675,
+      "nodes": []
     },
     {
       "text": "module bundling",
       "url": "https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306",
       "fx": 87.36599731445312,
-      "fy": -190.5022850036621
+      "fy": -190.5022850036621,
+      "nodes": []
     },
     {
       "text": "GUI applications",
       "url": "http://www.wikiwand.com/en/Graphical_user_interface",
       "fx": 321.2147171792799,
       "fy": -186.11978714358082,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "native mobile apps",
       "url": "",
       "fx": 560.0020062891729,
-      "fy": -181.36571063768184
+      "fy": -181.36571063768184,
+      "nodes": []
     },
     {
       "text": "help",
       "url": "",
       "fx": 2113.804984562795,
-      "fy": -180.52547641609834
+      "fy": -180.52547641609834,
+      "nodes": []
     },
     {
       "text": "full stack",
       "url": "",
       "fx": 795.2142998417748,
-      "fy": -178.2922765031646
+      "fy": -178.2922765031646,
+      "nodes": []
     },
     {
       "text": "state container",
       "url": "https://hashnode.com/post/how-do-you-explain-the-term-predictable-state-container-in-simple-words-ciizdac5300wege53dogz8aqk/answer/ciizmyxy300yaeb53599h31al",
       "fx": 942.129630135666,
-      "fy": -175.72959008463755
+      "fy": -175.72959008463755,
+      "nodes": []
     },
     {
       "text": "text editors",
       "url": "",
       "fx": 2612.6592055667224,
-      "fy": -175.29752065155583
+      "fy": -175.29752065155583,
+      "nodes": []
     },
     {
       "text": "single page apps",
       "url": "http://www.wikiwand.com/en/Single-page_application",
       "fx": 1317.39219224924,
       "fy": -177.30161236702133,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -114,6 +131,7 @@
       "url": "http://www.wikiwand.com/en/Visualization_(graphics)",
       "fx": 1131.4124898263713,
       "fy": -176.0244082338579,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -121,19 +139,22 @@
       "url": "/computer-science/compilers",
       "fx": 1554.8082516339869,
       "fy": -175.42698120915043,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "3D",
       "url": "",
       "fx": 1783.0619725063948,
-      "fy": -169.68034686700776
+      "fy": -169.68034686700776,
+      "nodes": []
     },
     {
       "text": "mojs  ️",
       "url": "/web-development/javascript-libraries/mojs",
       "fx": -835.5243055555555,
       "fy": -82.46238425925924,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -141,6 +162,7 @@
       "url": "/web-development/javascript-libraries/express",
       "fx": 3883.946539256199,
       "fy": -69.07683367768607,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -148,6 +170,7 @@
       "url": "https://github.com/pugjs/pug",
       "fx": 3760.9134918136124,
       "fy": -68.5175928841312,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -155,6 +178,7 @@
       "url": "https://github.com/wycats/handlebars.js/",
       "fx": 3544.6362953383714,
       "fy": -67.97621899079888,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -162,6 +186,7 @@
       "url": "/web-development/javascript-libraries/grunt",
       "fx": 3401.6288452148438,
       "fy": -64.69680690765381,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -169,6 +194,7 @@
       "url": "/web-development/javascript-libraries/react",
       "fx": -196.28927395948722,
       "fy": -57.77299476737414,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -176,6 +202,7 @@
       "url": "/web-development/javascript-libraries-/vuejs",
       "fx": -342.48361639729285,
       "fy": -56.40737368494365,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -183,6 +210,7 @@
       "url": "/web-development/javascript-libraries/jquery",
       "fx": -45.51377277097845,
       "fy": -56.288185119628906,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -190,6 +218,7 @@
       "url": "/web-development/javascript-libraries/angular-2",
       "fx": 1390.3834634355799,
       "fy": -56.03223555894931,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -197,6 +226,7 @@
       "url": "/web-development/javascript-libraries/emberjs",
       "fx": -507.2401677117383,
       "fy": -55.60482956439387,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -204,6 +234,7 @@
       "url": "/web-development/javascript-libraries/preact",
       "fx": -648.1077665308364,
       "fy": -54.25887593202708,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -211,6 +242,7 @@
       "url": "/web-development/javascript-libraries/webpack",
       "fx": 110.34071240475873,
       "fy": -52.21617360026647,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -218,6 +250,7 @@
       "url": "/web-development/javascript-libraries/electron",
       "fx": 338.68330228252853,
       "fy": -46.584980867346815,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -225,6 +258,7 @@
       "url": "/web-development/javascript-libraries/meteor",
       "fx": 793.2709400226477,
       "fy": -43.613456236261754,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -232,6 +266,7 @@
       "url": "/web-development/javascript-libraries/redux",
       "fx": 965.596135173528,
       "fy": -40.33714832763269,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -239,6 +274,7 @@
       "url": "/web-development/javascript-libraries/d3js",
       "fx": 1163.7368449312694,
       "fy": -40.196091065292194,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -246,6 +282,7 @@
       "url": "/web-development/javascript-libraries/react-native",
       "fx": 606.4037322998047,
       "fy": -38.73738622665405,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -253,6 +290,7 @@
       "url": "/web-development/javascript-libraries/rxjs",
       "fx": 2316.7359924316406,
       "fy": -37.040196895599365,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -260,6 +298,7 @@
       "url": "/web-development/javascript-libraries/threejs",
       "fx": 1738.616646493363,
       "fy": -36.2358026649747,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -267,6 +306,7 @@
       "url": "https://github.com/WhitestormJS/whitestorm.js",
       "fx": 1892.4074701078612,
       "fy": -35.13807516641941,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -274,6 +314,7 @@
       "url": "/web-development/javascript-libraries/babel",
       "fx": 1570.5375357070643,
       "fy": -35.037709581500735,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -281,6 +322,7 @@
       "url": "https://github.com/facebook/immutable-js",
       "fx": 2127.6153618050307,
       "fy": -34.027322615346634,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -288,6 +330,7 @@
       "url": "/web-development/javascript-libraries/cyclejs",
       "fx": 2449.968530158116,
       "fy": -32.98514625465816,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -295,6 +338,7 @@
       "url": "/web-development/javascript-libraries/draftjs",
       "fx": 2614.218806283532,
       "fy": -27.32232264327422,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -302,6 +346,7 @@
       "url": "/web-development/javascript-libraries/eslint",
       "fx": 2967.712890624999,
       "fy": -26.369406960227252,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -309,6 +354,7 @@
       "url": "https://github.com/iurimatias/embark-framework",
       "fx": 3123.5332484332203,
       "fy": -26.358452271451597,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -316,6 +362,7 @@
       "url": "/web-development/javascript-libraries/jest",
       "fx": 2814.7613875538345,
       "fy": -25.85170032949361,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -323,6 +370,7 @@
       "url": "/web-development/javascript-libraries/angularjs",
       "fx": 1320.347046903099,
       "fy": 40.78473478125636,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -330,6 +378,7 @@
       "url": "/web-development/javascript-libraries/nativescript",
       "fx": 572.1220703125,
       "fy": 73.072265625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -337,10 +386,10 @@
       "url": "https://github.com/caolan/async",
       "fx": 2100.1514121519176,
       "fy": 95.76503050041356,
+      "nodes": [],
       "category": "github"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "front end",

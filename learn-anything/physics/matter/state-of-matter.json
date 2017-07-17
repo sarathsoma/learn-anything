@@ -7,25 +7,39 @@
       "url": "http://www.wikiwand.com/en/State_of_matter",
       "fx": -168.309214638899,
       "fy": -145.2406125165195,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -116.88156702898527,
-      "fy": -32.20584239130426
+      "fy": -32.20584239130426,
+      "nodes": [
+        {
+          "text": "1. states of matter",
+          "url": "https://www.youtube.com/watch?v=KCL8zqjXbME",
+          "fx": 39.11843297101473,
+          "fy": -20.70584239130426,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "four fundamental states",
       "url": "",
       "fx": -259.08203125,
-      "fy": 90.2265625
+      "fy": 90.2265625,
+      "nodes": []
     },
     {
       "text": "solid",
       "url": "http://www.wikiwand.com/en/Solid",
       "fx": -368.0678589436402,
       "fy": 198.44608195585545,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -33,6 +47,7 @@
       "url": "http://www.wikiwand.com/en/Liquid",
       "fx": -234.07612207013642,
       "fy": 207.62953136263297,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -40,6 +55,7 @@
       "url": "http://www.wikiwand.com/en/Gas",
       "fx": -83.53084415584419,
       "fy": 207.98948241778385,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -47,18 +63,8 @@
       "url": "/physics/matter/state-of-matter/plasma",
       "fx": 43.66061181761802,
       "fy": 209.70373323123442,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. states of matter",
-      "url": "https://www.youtube.com/watch?v=KCL8zqjXbME",
-      "fx": 39.11843297101473,
-      "fy": -20.70584239130426,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

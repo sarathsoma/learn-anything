@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Backpropagation_through_time",
       "fx": 12.96875,
       "fy": -320.87890625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 134.53726896887179,
-      "fy": -138.5527115758755
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction  ️",
-      "url": "http://machinelearningmastery.com/gentle-introduction-backpropagation-time/",
-      "fx": 290.5372689688718,
-      "fy": -127.05271157587549,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -138.5527115758755,
+      "nodes": [
+        {
+          "text": "1. introduction  ️",
+          "url": "http://machinelearningmastery.com/gentle-introduction-backpropagation-time/",
+          "fx": 290.5372689688718,
+          "fy": -127.05271157587549,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,26 +7,79 @@
       "url": "http://www.wikiwand.com/en/Physical_fitness",
       "fx": -103.53025748340019,
       "fy": -364.8392002107276,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Fitness/",
+          "fx": 160.4697425165998,
+          "fy": -370.8392002107276,
+          "nodes": [
+            {
+              "text": "wiki",
+              "url": "https://www.reddit.com/r/Fitness/wiki/index",
+              "fx": 270.4697425165998,
+              "fy": -370.8392002107276,
+              "nodes": [],
+              "category": "reddit",
+              "color": "rgba(175, 54, 242, 1.0)"
+            }
+          ],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://fitness.stackexchange.com/",
+          "fx": 160.4697425165998,
+          "fy": -330.8392002107276,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 67.03023877863075,
-      "fy": -232.4307201643462
+      "fy": -232.4307201643462,
+      "nodes": [
+        {
+          "text": "interactive muscle wiki",
+          "url": "https://musclewiki.org/",
+          "fx": 204.03023877863075,
+          "fy": -220.9307201643462,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "if you think this can be improved in any way please say",
       "url": "",
       "fx": -64.74134159088135,
-      "fy": -81.95309638977051
+      "fy": -81.95309638977051,
+      "nodes": [
+        {
+          "text": "1. starting strength: basic barbell training",
+          "url": "https://www.goodreads.com/book/show/2098799.Starting_Strength",
+          "fx": 117.25865840911865,
+          "fy": -81.45309638977051,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "strength training  ️",
       "url": "/health/fitness/strength-training",
       "fx": 50.49295365666762,
       "fy": 41.072707578359996,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +87,7 @@
       "url": "/health/fitness/yoga",
       "fx": -210.45834139922135,
       "fy": 42.13875071048483,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,54 +95,8 @@
       "url": "/health/fitness/sports",
       "fx": -91.31585788726807,
       "fy": 42.27516746520996,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Fitness/",
-      "fx": 160.4697425165998,
-      "fy": -370.8392002107276,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "physical fitness"
-    },
-    {
-      "text": "wiki",
-      "url": "https://www.reddit.com/r/Fitness/wiki/index",
-      "fx": 270.4697425165998,
-      "fy": -370.8392002107276,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": ""
-    },
-    {
-      "text": "️",
-      "url": "https://fitness.stackexchange.com/",
-      "fx": 160.4697425165998,
-      "fy": -330.8392002107276,
-      "category": "stack exchange",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "physical fitness"
-    },
-    {
-      "text": "interactive muscle wiki",
-      "url": "https://musclewiki.org/",
-      "fx": 204.03023877863075,
-      "fy": -220.9307201643462,
-      "category": "interactive",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. starting strength: basic barbell training",
-      "url": "https://www.goodreads.com/book/show/2098799.Starting_Strength",
-      "fx": 117.25865840911865,
-      "fy": -81.45309638977051,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

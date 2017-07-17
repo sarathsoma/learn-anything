@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Unruh_effect",
       "fx": 88.02561950683594,
       "fy": -70.53837633132935,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 124.58342742919922,
-      "fy": 65.69586372375488
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=Ka1fme974ng",
-      "fx": 280.5834274291992,
-      "fy": 77.19586372375488,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 65.69586372375488,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=Ka1fme974ng",
+          "fx": 280.5834274291992,
+          "fy": 77.19586372375488,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

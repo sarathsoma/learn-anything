@@ -8,20 +8,22 @@
       "url": "http://www.wikiwand.com/en/Chemical_element",
       "fx": -79.078125,
       "fy": -181.375,
+      "nodes": [],
       "category": "wiki"
+    },
+    {
+      "text": "aluminium  ️",
+      "fx": -485.1334689170044,
+      "fy": -53.14643170288912,
+      "nodes": [],
+      "category": "mindmap"
     },
     {
       "text": "periodic table  ️",
       "url": "/chemistry/chemical-elements/periodic-table",
       "fx": 48.78155517578125,
       "fy": -51.5562047958374,
-      "category": "mindmap"
-    },
-    {
-      "text": "atomic number  ️",
-      "url": "/chemistry/chemical-elements/atomic-number",
-      "fx": 538.4345508784204,
-      "fy": -51.098705690298516,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +31,15 @@
       "url": "/chemistry/chemical-elements/standard-atomic-weight",
       "fx": 245.9059600830078,
       "fy": -50.67609691619873,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "atomic number  ️",
+      "url": "/chemistry/chemical-elements/atomic-number",
+      "fx": 538.4345508784204,
+      "fy": -40.936446074913874,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,6 +47,7 @@
       "url": "http://www.wikiwand.com/en/Metalloid",
       "fx": -283.58193108974376,
       "fy": -17.507962740384585,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -43,14 +55,16 @@
       "url": "http://www.wikiwand.com/en/Boron",
       "fx": -456.5354202840185,
       "fy": 37.79082992401544,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "hydrogen  ️",
       "note": "hydrogen is the lightest element on the periodic table",
       "url": "/chemistry/chemical-elements/hydrogen",
-      "fx": -42.85393994147171,
-      "fy": 78.60935978840575,
+      "fx": -103.8515360953179,
+      "fy": 68.98496074994432,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -58,6 +72,7 @@
       "url": "http://www.wikiwand.com/en/Arsenic",
       "fx": -410.2002494013317,
       "fy": 123.32247594098703,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -65,10 +80,10 @@
       "url": "http://www.wikiwand.com/en/Germanium",
       "fx": -300.266777712155,
       "fy": 196.00733503176366,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "chemical elements",
@@ -106,8 +121,8 @@
       "source": "chemical elements",
       "target": "hydrogen  ️",
       "curve": {
-        "x": -2.63791,
-        "y": 129.992
+        "x": -53.0556,
+        "y": 125.18
       }
     },
     {
@@ -123,7 +138,7 @@
       "target": "atomic number  ️",
       "curve": {
         "x": 335.243,
-        "y": 35.5714
+        "y": 40.6525
       }
     },
     {
@@ -132,6 +147,14 @@
       "curve": {
         "x": 45.9298,
         "y": 64.9094
+      }
+    },
+    {
+      "source": "chemical elements",
+      "target": "aluminium  ️",
+      "curve": {
+        "x": -279.744,
+        "y": 38.7425
       }
     }
   ]

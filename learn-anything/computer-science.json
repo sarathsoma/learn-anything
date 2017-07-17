@@ -7,26 +7,188 @@
       "url": "http://www.wikiwand.com/en/Computer_science",
       "fx": 610.5205331566151,
       "fy": -1120.0399433379514,
+      "nodes": [
+        {
+          "text": "️",
+          "url": "https://cs.stackexchange.com/",
+          "fx": 899.5205331566151,
+          "fy": -1166.0399433379514,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/compsci/",
+          "fx": 899.5205331566151,
+          "fy": -1126.0399433379514,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "ask cs",
+          "url": "https://www.reddit.com/r/AskComputerScience/",
+          "fx": 899.5205331566151,
+          "fy": -1086.0399433379514,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/open-source-society/computer-science",
+          "fx": 899.5205331566151,
+          "fy": -1046.0399433379514,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 831.7559051513672,
-      "fy": -881.245361328125
+      "fy": -881.245361328125,
+      "nodes": [
+        {
+          "text": "cs student resources",
+          "url": "http://www.computersciencestudent.com/",
+          "fx": 968.7559051513672,
+          "fy": -931.745361328125,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "cs concept map",
+          "url": "https://fkcd.ca/b7d.svg",
+          "fx": 968.7559051513672,
+          "fy": -897.745361328125,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "notes to cs freshmen from the future",
+          "url": "https://github.com/nushackers/notes-to-cs-freshmen-from-the-future",
+          "fx": 968.7559051513672,
+          "fy": -863.745361328125,
+          "nodes": [],
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "papers we love",
+          "url": "https://github.com/papers-we-love/papers-we-love",
+          "fx": 968.7559051513672,
+          "fy": -807.745361328125,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(49, 187, 71, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 919.0687844047186,
-      "fy": -696.247783156851
+      "fy": -696.247783156851,
+      "nodes": [
+        {
+          "text": "what every cs major should know  ️",
+          "url": "http://matt.might.net/articles/what-cs-majors-should-know/",
+          "fx": 1081.0687844047186,
+          "fy": -726.747783156851,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "17: teach yourself computer science  ️",
+          "url": "https://teachyourselfcs.com/",
+          "fx": 1081.0687844047186,
+          "fy": -664.747783156851,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 679.7246768793616,
-      "fy": -475.0472540266063
+      "fy": -475.0472540266063,
+      "nodes": [
+        {
+          "text": "1. code: hidden language",
+          "note": "goes over what a computer actually is and what it is made of, starting from the beginning",
+          "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
+          "fx": 861.7246768793616,
+          "fy": -593.5472540266063,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. CS50 from Harvard",
+          "note": "first 6 lectures are done in C, the rest are in python",
+          "url": "https://cs50.harvard.edu/weeks",
+          "fx": 861.7246768793616,
+          "fy": -553.5472540266063,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "2. structure and interpretation of computer programs",
+          "url": "http://sarabander.github.io/sicp/html/index.xhtml",
+          "fx": 861.7246768793616,
+          "fy": -513.5472540266063,
+          "nodes": [
+            {
+              "text": "SICP guide",
+              "url": "https://github.com/zv/SICP-guile",
+              "fx": 1198.7246768793616,
+              "fy": -502.5472540266063,
+              "nodes": [],
+              "category": "github",
+              "color": "rgba(36, 170, 255, 1.0)"
+            }
+          ],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. crash course computer science",
+          "url": "https://www.youtube.com/watch?v=tpIctyqH29Q&amp;list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
+          "fx": 861.7246768793616,
+          "fy": -451.5472540266063,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "3. build a computer from first principles",
+          "note": "will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer",
+          "url": "https://www.coursera.org/learn/build-a-computer",
+          "fx": 861.7246768793616,
+          "fy": -411.5472540266063,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "3. mathematics for computer science",
+          "note": "goes over the mathematical foundation that you need to do research in this field",
+          "url": "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
+          "fx": 861.7246768793616,
+          "fy": -349.5472540266063,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "algorithms  ️",
@@ -34,6 +196,7 @@
       "url": "/computer-science/algorithms",
       "fx": 140.81180426139383,
       "fy": -238.313236705044,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +205,7 @@
       "url": "/computer-science/compilers",
       "fx": 351.78001418057045,
       "fy": -238.01228051436567,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +213,7 @@
       "url": "/computer-science/programming-language-theory",
       "fx": 797.8155822753906,
       "fy": -236.89764785766602,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -57,6 +222,7 @@
       "url": "/computer-science/data-structures",
       "fx": -105.10284015379466,
       "fy": -235.44336700439453,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -64,6 +230,7 @@
       "url": "/computer-science/virtual-machines",
       "fx": -350.49400795305667,
       "fy": -234.8864814073529,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -72,6 +239,7 @@
       "url": "/computer-science/computation",
       "fx": 568.0502079441524,
       "fy": -234.0604268416771,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -80,6 +248,7 @@
       "url": "/computer-science/concurrency",
       "fx": -565.6000219580799,
       "fy": -233.11078847544468,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -87,6 +256,7 @@
       "url": "/computer-science/recursion",
       "fx": -737.4726867675781,
       "fy": -232.43364715576172,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -94,6 +264,7 @@
       "url": "/computer-science/program-analysis",
       "fx": -966.6029052734375,
       "fy": -231.18944549560547,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -101,162 +272,8 @@
       "url": "/computer-science/automata-theory",
       "fx": -1189.683948863636,
       "fy": -228.35179924242425,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "️",
-      "url": "https://cs.stackexchange.com/",
-      "fx": 899.5205331566151,
-      "fy": -1166.0399433379514,
-      "category": "stack exchange",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "computer science"
-    },
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/compsci/",
-      "fx": 899.5205331566151,
-      "fy": -1126.0399433379514,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "computer science"
-    },
-    {
-      "text": "ask cs",
-      "url": "https://www.reddit.com/r/AskComputerScience/",
-      "fx": 899.5205331566151,
-      "fy": -1086.0399433379514,
-      "category": "reddit",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "computer science"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/open-source-society/computer-science",
-      "fx": 899.5205331566151,
-      "fy": -1046.0399433379514,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "computer science"
-    },
-    {
-      "text": "cs student resources",
-      "url": "http://www.computersciencestudent.com/",
-      "fx": 968.7559051513672,
-      "fy": -931.745361328125,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "cs concept map",
-      "url": "https://fkcd.ca/b7d.svg",
-      "fx": 968.7559051513672,
-      "fy": -897.745361328125,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "notes to cs freshmen from the future",
-      "url": "https://github.com/nushackers/notes-to-cs-freshmen-from-the-future",
-      "fx": 968.7559051513672,
-      "fy": -863.745361328125,
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "papers we love",
-      "url": "https://github.com/papers-we-love/papers-we-love",
-      "fx": 968.7559051513672,
-      "fy": -807.745361328125,
-      "category": "github",
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "what every cs major should know  ️",
-      "url": "http://matt.might.net/articles/what-cs-majors-should-know/",
-      "fx": 1081.0687844047186,
-      "fy": -726.747783156851,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: teach yourself computer science  ️",
-      "url": "https://teachyourselfcs.com/",
-      "fx": 1081.0687844047186,
-      "fy": -664.747783156851,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. code: hidden language",
-      "note": "goes over what a computer actually is and what it is made of, starting from the beginning",
-      "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
-      "fx": 861.7246768793616,
-      "fy": -593.5472540266063,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. CS50 from Harvard",
-      "note": "first 6 lectures are done in C, the rest are in python",
-      "url": "https://cs50.harvard.edu/weeks",
-      "fx": 861.7246768793616,
-      "fy": -553.5472540266063,
-      "category": "course",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. structure and interpretation of computer programs",
-      "url": "http://sarabander.github.io/sicp/html/index.xhtml",
-      "fx": 861.7246768793616,
-      "fy": -513.5472540266063,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "SICP guide",
-      "url": "https://github.com/zv/SICP-guile",
-      "fx": 1198.7246768793616,
-      "fy": -502.5472540266063,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "2. structure and interpretation of computer programs"
-    },
-    {
-      "text": "2. crash course computer science",
-      "url": "https://www.youtube.com/watch?v=tpIctyqH29Q&amp;list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
-      "fx": 861.7246768793616,
-      "fy": -451.5472540266063,
-      "category": "video",
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "3. build a computer from first principles",
-      "note": "will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer",
-      "url": "https://www.coursera.org/learn/build-a-computer",
-      "fx": 861.7246768793616,
-      "fy": -411.5472540266063,
-      "category": "course",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "3. mathematics for computer science",
-      "note": "goes over the mathematical foundation that you need to do research in this field",
-      "url": "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
-      "fx": 861.7246768793616,
-      "fy": -349.5472540266063,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

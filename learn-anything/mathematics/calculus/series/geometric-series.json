@@ -7,37 +7,40 @@
       "url": "http://www.wikiwand.com/en/Geometric_series",
       "fx": 29.851564407348633,
       "fy": -151.85860550403595,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 88.42873597756409,
-      "fy": -32.755809294871824
+      "fy": -32.755809294871824,
+      "nodes": [
+        {
+          "text": "1. geometric series and the test for divergence",
+          "url": "https://www.youtube.com/watch?v=xjmy5hkZccY",
+          "fx": 244.4287359775641,
+          "fy": -32.255809294871824,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "convergenet geometric series",
       "url": "",
       "fx": -141.7847323233051,
-      "fy": 69.53324969631552
+      "fy": 69.53324969631552,
+      "nodes": []
     },
     {
       "text": "Cantor set  ️",
       "url": "/mathematics/calculus/series/geometric-series/cantor-set",
       "fx": -191.58580512259107,
       "fy": 181.59632450135376,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. geometric series and the test for divergence",
-      "url": "https://www.youtube.com/watch?v=xjmy5hkZccY",
-      "fx": 244.4287359775641,
-      "fy": -32.255809294871824,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

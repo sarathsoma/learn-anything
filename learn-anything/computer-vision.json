@@ -7,32 +7,132 @@
       "url": "http://www.wikiwand.com/en/Computer_vision",
       "fx": -71.93072614813843,
       "fy": -466.8853343431684,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/computervision/",
+          "fx": 199.06927385186157,
+          "fy": -472.8853343431684,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+          "fx": 199.06927385186157,
+          "fy": -432.8853343431684,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 80.78064903846155,
-      "fy": -273.9603365384615
+      "fy": -273.9603365384615,
+      "nodes": [
+        {
+          "text": "awesome deep vision",
+          "url": "https://github.com/kjw0612/awesome-deep-vision",
+          "fx": 217.78064903846155,
+          "fy": -344.4603365384615,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "datasets, transforms and models specific to computer vision",
+          "url": "https://github.com/pytorch/vision",
+          "fx": 217.78064903846155,
+          "fy": -304.4603365384615,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "tracking js",
+          "note": "- modern approach for Computer Vision on the web",
+          "url": "https://github.com/eduardolundgren/tracking.js",
+          "fx": 217.78064903846155,
+          "fy": -242.4603365384615,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "vision, learning and graphics papers on cats",
+          "url": "https://github.com/junyanz/CatPapers",
+          "fx": 217.78064903846155,
+          "fy": -202.4603365384615,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 101.45875259485672,
-      "fy": -94.51509341483109
+      "fy": -94.51509341483109,
+      "nodes": [
+        {
+          "text": "17: have we forgotten about geometry in computer vision?  ️",
+          "url": "http://alexgkendall.com/computer_vision/have_we_forgotten_about_geometry_in_computer_vision/",
+          "fx": 263.4587525948567,
+          "fy": -94.01509341483109,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -73.04084869633346,
-      "fy": 37.57282051037521
+      "fy": 37.57282051037521,
+      "nodes": [
+        {
+          "text": "1. cs231",
+          "url": "https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA",
+          "fx": 108.95915130366654,
+          "fy": 18.07282051037521,
+          "nodes": [
+            {
+              "text": "course notes",
+              "url": "http://cs231n.github.io/",
+              "fx": 276.95915130366654,
+              "fy": 21.07282051037521,
+              "nodes": [],
+              "color": "rgba(175, 54, 242, 1.0)"
+            }
+          ],
+          "category": "course",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. computer vision: algorithms and applications",
+          "url": "http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf",
+          "fx": 108.95915130366654,
+          "fy": 58.07282051037521,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "OpenCV  ️",
       "url": "/computer-vision/opencv",
       "fx": -86.77255020361724,
       "fy": 196.3644583100628,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +140,7 @@
       "url": "/computer-vision/augmented-reality",
       "fx": -342.85706313775484,
       "fy": 196.59220875850383,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,6 +148,7 @@
       "url": "/computer-vision/facial-recognition",
       "fx": 82.74309876042173,
       "fy": 197.25914956644408,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -54,99 +156,8 @@
       "url": "/computer-vision/optical-character-recognition",
       "fx": -687.1627983229696,
       "fy": 197.72616508695717,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/computervision/",
-      "fx": 199.06927385186157,
-      "fy": -472.8853343431684,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "computer vision"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/jbhuang0604/awesome-computer-vision",
-      "fx": 199.06927385186157,
-      "fy": -432.8853343431684,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "computer vision"
-    },
-    {
-      "text": "awesome deep vision",
-      "url": "https://github.com/kjw0612/awesome-deep-vision",
-      "fx": 217.78064903846155,
-      "fy": -344.4603365384615,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "datasets, transforms and models specific to computer vision",
-      "url": "https://github.com/pytorch/vision",
-      "fx": 217.78064903846155,
-      "fy": -304.4603365384615,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "tracking js",
-      "note": "- modern approach for Computer Vision on the web",
-      "url": "https://github.com/eduardolundgren/tracking.js",
-      "fx": 217.78064903846155,
-      "fy": -242.4603365384615,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "vision, learning and graphics papers on cats",
-      "url": "https://github.com/junyanz/CatPapers",
-      "fx": 217.78064903846155,
-      "fy": -202.4603365384615,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "17: have we forgotten about geometry in computer vision?  ️",
-      "url": "http://alexgkendall.com/computer_vision/have_we_forgotten_about_geometry_in_computer_vision/",
-      "fx": 263.4587525948567,
-      "fy": -94.01509341483109,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. cs231",
-      "url": "https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA",
-      "fx": 108.95915130366654,
-      "fy": 18.07282051037521,
-      "category": "course",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "course notes",
-      "url": "http://cs231n.github.io/",
-      "fx": 276.95915130366654,
-      "fy": 21.07282051037521,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "1. cs231"
-    },
-    {
-      "text": "1. computer vision: algorithms and applications",
-      "url": "http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf",
-      "fx": 108.95915130366654,
-      "fy": 58.07282051037521,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

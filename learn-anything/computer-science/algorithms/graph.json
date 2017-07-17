@@ -7,19 +7,40 @@
       "url": "http://www.wikiwand.com/en/Graph_traversal",
       "fx": -105.3828125,
       "fy": -172.54296875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -39.11479205267017,
-      "fy": -38.79842640289087
+      "fy": -38.79842640289087,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "http://www-users.cs.umn.edu/~karypis/parbook/Lectures/AG/chap10_slides.pdf",
+          "fx": 116.88520794732983,
+          "fy": -44.29842640289087,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. introduction to graphs",
+          "url": "https://www.youtube.com/watch?v=gXgEDyodOJU",
+          "fx": 116.88520794732983,
+          "fy": -10.298426402890868,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "Dijkstras algorithm  ️",
       "url": "/computer-science/algorithms/graph/dijkstras",
       "fx": -70.91974639892578,
       "fy": 96.26941299438477,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +48,7 @@
       "url": "/computer-science/algorithms/graph/prim",
       "fx": -304.06033869535145,
       "fy": 98.83743733439712,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,26 +56,8 @@
       "url": "/computer-science/algorithms/graph/kruskal",
       "fx": -575.7517907745587,
       "fy": 99.7626206968933,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "http://www-users.cs.umn.edu/~karypis/parbook/Lectures/AG/chap10_slides.pdf",
-      "fx": 116.88520794732983,
-      "fy": -44.29842640289087,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to graphs",
-      "url": "https://www.youtube.com/watch?v=gXgEDyodOJU",
-      "fx": 116.88520794732983,
-      "fy": -10.298426402890868,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

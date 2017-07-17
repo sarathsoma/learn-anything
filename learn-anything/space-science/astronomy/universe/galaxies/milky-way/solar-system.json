@@ -8,6 +8,7 @@
       "url": "/space-science/astronomy/universe/galaxies/milky-way/solar-system/sun",
       "fx": 145.27948738495172,
       "fy": -307.9339187502493,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -16,6 +17,7 @@
       "url": "http://www.wikiwand.com/en/Solar_System",
       "fx": -334.039314516129,
       "fy": -227.62462197580646,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -23,6 +25,7 @@
       "url": "http://www.wikiwand.com/en/Mercury_(planet)",
       "fx": 146.34537808511584,
       "fy": -217.23046915047007,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -30,6 +33,7 @@
       "url": "http://www.wikiwand.com/en/Venus",
       "fx": 151.5289942360647,
       "fy": -120.27010183915809,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -37,6 +41,17 @@
       "url": "http://www.wikiwand.com/en/Earth",
       "fx": 152.98020184424615,
       "fy": -38.17068688378197,
+      "nodes": [
+        {
+          "text": "5 major extinctions of our planet",
+          "url": "http://i.imgur.com/Do1IJqQ.gifv",
+          "fx": 325.98020184424615,
+          "fy": -24.17068688378197,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -44,6 +59,7 @@
       "url": "http://www.wikiwand.com/en/Mars",
       "fx": 149.83615856409222,
       "fy": 41.53704191086081,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -51,6 +67,7 @@
       "url": "http://www.wikiwand.com/en/Jupiter",
       "fx": 153.88585752998245,
       "fy": 122.94346941106028,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -58,6 +75,7 @@
       "url": "http://www.wikiwand.com/en/Saturn",
       "fx": 148.27902996924615,
       "fy": 214.28594576927924,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -65,6 +83,7 @@
       "url": "http://www.wikiwand.com/en/Uranus",
       "fx": 145.07395184424615,
       "fy": 301.04571139427924,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -72,18 +91,8 @@
       "url": "http://www.wikiwand.com/en/Neptune",
       "fx": 144.79660809424615,
       "fy": 389.43633639427924,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "5 major extinctions of our planet",
-      "url": "http://i.imgur.com/Do1IJqQ.gifv",
-      "fx": 325.98020184424615,
-      "fy": -24.17068688378197,
-      "category": "image",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "earth"
     }
   ],
   "connections": [

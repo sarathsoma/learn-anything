@@ -7,32 +7,139 @@
       "url": "http://www.wikiwand.com/en/Virtual_reality",
       "fx": 34.405583079268354,
       "fy": -327.1688756210477,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/virtualreality/",
+          "fx": 271.40558307926835,
+          "fy": -333.1688756210477,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/Vytek/VR-Awesome",
+          "fx": 271.40558307926835,
+          "fy": -293.1688756210477,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 170.3588579531356,
-      "fy": -156.7291393868399
+      "fy": -156.7291393868399,
+      "nodes": [
+        {
+          "text": "how to build your first multi-user virtual reality experience (on the web)",
+          "url": "https://github.com/haydenjameslee/networked-aframe/blob/master/docs/Tutorial:%20Create%20your%20first%20Networked-Aframe%20experience.md",
+          "fx": 307.3588579531356,
+          "fy": -224.2291393868399,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "the UX of VR",
+          "url": "http://www.uxofvr.com/",
+          "fx": 307.3588579531356,
+          "fy": -140.2291393868399,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "fuseman youtube channel",
+          "url": "https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ/videos",
+          "fx": 307.3588579531356,
+          "fy": -106.2291393868399,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "17: how to get into VR  ️",
+          "url": "https://blog.ycombinator.com/how-to-get-into-vr/",
+          "fx": 307.3588579531356,
+          "fy": -66.2291393868399,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 186.00321462850093,
-      "fy": 22.4977557588104
+      "fy": 22.4977557588104,
+      "nodes": [
+        {
+          "text": "shared reality: vive + hololenses",
+          "url": "https://www.youtube.com/watch?v=XPYb2IsZL68&amp;feature=youtu.be",
+          "fx": 377.0032146285009,
+          "fy": 13.9977557588104,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "catching a real ball in virtual reality",
+          "url": "https://www.youtube.com/watch?v=Qxu_y8ABajQ&amp;feature=youtu.be",
+          "fx": 377.0032146285009,
+          "fy": 53.9977557588104,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 28.317341955207553,
-      "fy": 184.6074585530293
+      "fy": 184.6074585530293,
+      "nodes": [
+        {
+          "text": "1. introduction to virtual reality",
+          "url": "https://www.udacity.com/course/introduction-to-virtual-reality--ud1012",
+          "fx": 210.31734195520755,
+          "fy": 156.1074585530293,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. vive developer mini course",
+          "url": "http://learn.vrdev.school/p/vive-developer-mini",
+          "fx": 210.31734195520755,
+          "fy": 196.1074585530293,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. John Carmack tech talk",
+          "url": "https://www.youtube.com/watch?v=lHLpKzUxjGk",
+          "fx": 210.31734195520755,
+          "fy": 236.1074585530293,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "unity  ️",
       "url": "/game-development/game-engines/unity",
       "fx": 64.28599559583768,
       "fy": 323.180085708276,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,107 +147,8 @@
       "url": "/virtual-reality/aframe",
       "fx": -96.09833969530212,
       "fy": 324.9092393005904,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/virtualreality/",
-      "fx": 271.40558307926835,
-      "fy": -333.1688756210477,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "virtual reality"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/Vytek/VR-Awesome",
-      "fx": 271.40558307926835,
-      "fy": -293.1688756210477,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "virtual reality"
-    },
-    {
-      "text": "how to build your first multi-user virtual reality experience (on the web)",
-      "url": "https://github.com/haydenjameslee/networked-aframe/blob/master/docs/Tutorial:%20Create%20your%20first%20Networked-Aframe%20experience.md",
-      "fx": 307.3588579531356,
-      "fy": -224.2291393868399,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "the UX of VR",
-      "url": "http://www.uxofvr.com/",
-      "fx": 307.3588579531356,
-      "fy": -140.2291393868399,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "fuseman youtube channel",
-      "url": "https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ/videos",
-      "fx": 307.3588579531356,
-      "fy": -106.2291393868399,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "17: how to get into VR  ️",
-      "url": "https://blog.ycombinator.com/how-to-get-into-vr/",
-      "fx": 307.3588579531356,
-      "fy": -66.2291393868399,
-      "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "shared reality: vive + hololenses",
-      "url": "https://www.youtube.com/watch?v=XPYb2IsZL68&amp;feature=youtu.be",
-      "fx": 377.0032146285009,
-      "fy": 13.9977557588104,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "catching a real ball in virtual reality",
-      "url": "https://www.youtube.com/watch?v=Qxu_y8ABajQ&amp;feature=youtu.be",
-      "fx": 377.0032146285009,
-      "fy": 53.9977557588104,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. introduction to virtual reality",
-      "url": "https://www.udacity.com/course/introduction-to-virtual-reality--ud1012",
-      "fx": 210.31734195520755,
-      "fy": 156.1074585530293,
-      "category": "course",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. vive developer mini course",
-      "url": "http://learn.vrdev.school/p/vive-developer-mini",
-      "fx": 210.31734195520755,
-      "fy": 196.1074585530293,
-      "category": "course",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. John Carmack tech talk",
-      "url": "https://www.youtube.com/watch?v=lHLpKzUxjGk",
-      "fx": 210.31734195520755,
-      "fy": 236.1074585530293,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

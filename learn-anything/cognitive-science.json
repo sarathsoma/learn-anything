@@ -7,74 +7,79 @@
       "url": "http://www.wikiwand.com/en/Cognitive_science",
       "fx": -86.34644043693936,
       "fy": -239.68110373081305,
+      "nodes": [
+        {
+          "text": "️",
+          "url": "https://cogsci.stackexchange.com/",
+          "fx": 195.65355956306064,
+          "fy": -245.68110373081305,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/cogsci/",
+          "fx": 195.65355956306064,
+          "fy": -205.68110373081305,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 90.9559237162274,
-      "fy": -134.9887250264486
+      "fy": -134.9887250264486,
+      "nodes": [
+        {
+          "text": "recommended reading",
+          "url": "https://www.reddit.com/r/cogsci/wiki/readinglist",
+          "fx": 227.9559237162274,
+          "fy": -123.4887250264486,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -62.70454788208019,
-      "fy": -31.600087419152146
+      "fy": -31.600087419152146,
+      "nodes": [
+        {
+          "text": "1. what is cognitive science?",
+          "url": "https://www.youtube.com/watch?v=tEuGpc16fB8",
+          "fx": 119.29545211791981,
+          "fy": -40.100087419152146,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. thinking fast and slow",
+          "url": "http://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+          "fx": 119.29545211791981,
+          "fy": -0.10008741915214614,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "cognition  ️",
       "url": "/cognitive-science/cognition",
       "fx": -132.45703861899403,
       "fy": 96.3523067717856,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "️",
-      "url": "https://cogsci.stackexchange.com/",
-      "fx": 195.65355956306064,
-      "fy": -245.68110373081305,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "cognitive science"
-    },
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/cogsci/",
-      "fx": 195.65355956306064,
-      "fy": -205.68110373081305,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "cognitive science"
-    },
-    {
-      "text": "recommended reading",
-      "url": "https://www.reddit.com/r/cogsci/wiki/readinglist",
-      "fx": 227.9559237162274,
-      "fy": -123.4887250264486,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. what is cognitive science?",
-      "url": "https://www.youtube.com/watch?v=tEuGpc16fB8",
-      "fx": 119.29545211791981,
-      "fy": -40.100087419152146,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. thinking fast and slow",
-      "url": "http://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
-      "fx": 119.29545211791981,
-      "fy": -0.10008741915214614,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

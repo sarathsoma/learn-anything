@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Algebraic_structure",
       "fx": 95.05664298555735,
       "fy": -172.60325171470873,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups",
       "fx": 170.85161479090027,
       "fy": -31.178353483292483,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,6 +23,7 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/monoids",
       "fx": -1.5018601190474783,
       "fy": -31.140625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/rings",
       "fx": 329.0989317602042,
       "fy": -27.971859056122412,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +39,7 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/modules",
       "fx": -164.17250951776646,
       "fy": -27.670843908629422,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,10 +47,10 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/lattices",
       "fx": 458.7098879646835,
       "fy": -25.85674116674005,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "algebraic structures",

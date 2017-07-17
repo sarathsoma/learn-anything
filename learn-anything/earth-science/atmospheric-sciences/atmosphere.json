@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Atmosphere",
       "fx": -82.1640625,
       "fy": -165.7421875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -47.1953125,
-      "fy": -19.984375
+      "fy": -19.984375,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=6LkmD6B2ncs",
+          "fx": 108.8046875,
+          "fy": -8.484375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "atmosphere of Earth",
       "url": "http://www.wikiwand.com/en/Atmosphere_of_Earth",
       "fx": -290.71484375,
       "fy": 104.6484375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -27,18 +40,8 @@
       "url": "/earth-science/atmospheric-sciences/atmosphere/weather",
       "fx": 20.05946828358276,
       "fy": 107.38805970149252,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=6LkmD6B2ncs",
-      "fx": 108.8046875,
-      "fy": -8.484375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Number",
       "fx": 265.1009077344622,
       "fy": -154.62445504324774,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "http://www.wikiwand.com/en/Negative_number",
       "fx": 85.62247848510742,
       "fy": 12.207145690917969,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -21,6 +23,7 @@
       "url": "http://www.wikiwand.com/en/Rational_number",
       "fx": 341.7723846435547,
       "fy": 12.207145690917969,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/mathematics/number-theory/numbers/prime-numbers",
       "fx": -610.3188801994681,
       "fy": 12.667132931104845,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +39,7 @@
       "url": "/mathematics/number-theory/numbers/real-numbers",
       "fx": -122.46074356604402,
       "fy": 13.00535137684085,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +47,7 @@
       "url": "/mathematics/number-theory/numbers/complex-numbers",
       "fx": -382.1828269958496,
       "fy": 13.65966796875,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +55,7 @@
       "url": "/mathematics/number-theory/numbers/square-roots",
       "fx": 1128.7453791804637,
       "fy": 16.389680621407194,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,6 +63,7 @@
       "url": "/mathematics/number-theory/numbers/infinity",
       "fx": 853.0375366210938,
       "fy": 16.6440486907959,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,6 +71,7 @@
       "url": "http://www.wikiwand.com/en/Irrational_number",
       "fx": 593.1342075892858,
       "fy": 16.88211495535711,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -70,10 +79,10 @@
       "url": "/mathematics/number-theory/numbers/ratios",
       "fx": 997.6014099121094,
       "fy": 17.299132347106934,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "numbers",

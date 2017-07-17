@@ -7,19 +7,41 @@
       "url": "http://www.wikiwand.com/en/Metabolism",
       "fx": 19.94711538461536,
       "fy": -500.03465544871796,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 49.73067778010045,
-      "fy": -359.827846293233
+      "fy": -359.827846293233,
+      "nodes": [
+        {
+          "text": "1. metabolism &amp; nutrition: part I",
+          "url": "https://www.youtube.com/watch?v=fR3NxCR9z2U",
+          "fx": 205.73067778010045,
+          "fy": -368.327846293233,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. metabolism &amp; nutrition: part II",
+          "url": "https://www.youtube.com/watch?v=kb146Y1igTQ",
+          "fx": 205.73067778010045,
+          "fy": -328.327846293233,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "fermentation  ️",
       "url": "/biology/organisms/cells/metabolism/fermentation",
       "fx": -108.40441942214966,
       "fy": -238.2243194580078,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,27 +49,8 @@
       "url": "/biology/organisms/cells/metabolism/cellular-respiration",
       "fx": 79.73558272946843,
       "fy": -234.455615942029,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. metabolism &amp; nutrition: part I",
-      "url": "https://www.youtube.com/watch?v=fR3NxCR9z2U",
-      "fx": 205.73067778010045,
-      "fy": -368.327846293233,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. metabolism &amp; nutrition: part II",
-      "url": "https://www.youtube.com/watch?v=kb146Y1igTQ",
-      "fx": 205.73067778010045,
-      "fy": -328.327846293233,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

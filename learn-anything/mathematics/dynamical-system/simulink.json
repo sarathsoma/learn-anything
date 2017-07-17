@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Simulink",
       "fx": 40.02734375,
       "fy": -78.16796875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 66.57421875,
-      "fy": 45.78515625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to Simulink",
-      "url": "https://www.youtube.com/watch?v=pFICO_syIIs",
-      "fx": 222.57421875,
-      "fy": 57.28515625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 45.78515625,
+      "nodes": [
+        {
+          "text": "1. introduction to Simulink",
+          "url": "https://www.youtube.com/watch?v=pFICO_syIIs",
+          "fx": 222.57421875,
+          "fy": 57.28515625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Work_(physics)",
       "fx": -40.37946319580078,
       "fy": -141.69134902954102,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -40.55452433228493,
-      "fy": -15.679234504699707
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. work, energy and power",
-      "url": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
-      "fx": 115.44547566771507,
-      "fy": -4.179234504699707,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -15.679234504699707,
+      "nodes": [
+        {
+          "text": "1. work, energy and power",
+          "url": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
+          "fx": 115.44547566771507,
+          "fy": -4.179234504699707,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

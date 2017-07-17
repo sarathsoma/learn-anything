@@ -8,25 +8,148 @@
       "url": "https://psychonautwiki.org/w/index.php/Psychedelic",
       "fx": 99.6534970238099,
       "fy": -376.15617960988357,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Psychedelics/",
+          "fx": 416.6534970238099,
+          "fy": -382.15617960988357,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "rational psychonaut",
+          "url": "https://www.reddit.com/r/RationalPsychonaut/",
+          "fx": 416.6534970238099,
+          "fy": -342.15617960988357,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 431.37145863666206,
-      "fy": -180.40767921377176
+      "fy": -180.40767921377176,
+      "nodes": [
+        {
+          "text": "psychoactive substance index",
+          "url": "https://psychonautwiki.org/wiki/Psychoactive_substance_index",
+          "fx": 568.371458636662,
+          "fy": -245.90767921377176,
+          "nodes": [],
+          "category": "wiki",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "psychedelic drug research",
+          "url": "https://www.reddit.com/r/ShrugLifeSyndicate/comments/69p6qo/old_human_trial_of_lsd/",
+          "fx": 568.371458636662,
+          "fy": -205.90767921377176,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "16: psychedelics",
+          "url": "http://pharmrev.aspetjournals.org/content/68/2/264.long",
+          "fx": 568.371458636662,
+          "fy": -165.90767921377176,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "big list of hallucinogens",
+          "url": "https://www.reddit.com/r/researchchemicals/comments/616ed2/the_great_big_list_of_every_hallucinogen_that_has/",
+          "fx": 568.371458636662,
+          "fy": -125.90767921377176,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "psychonaut wiki",
+          "url": "https://psychonautwiki.org/wiki/Main_Page",
+          "fx": 568.371458636662,
+          "fy": -85.90767921377176,
+          "nodes": [],
+          "color": "rgba(49, 187, 71, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 594.4220204174153,
-      "fy": 36.76174507611165
+      "fx": 615.7163616336315,
+      "fy": 36.76174507611165,
+      "nodes": [
+        {
+          "text": "psychedelic information theory",
+          "url": "http://psychedelic-information-theory.com/toc.php",
+          "fx": 806.7163616336315,
+          "fy": -84.73825492388835,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "17: Roland Griffiths, Ph.D. on psilocybin, psychedelic therapies &amp; mystical experiences",
+          "url": "https://www.youtube.com/watch?v=rkBq33KWFmY",
+          "fx": 806.7163616336315,
+          "fy": -44.73825492388835,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "psychedelic symmetrical texture repetition",
+          "url": "https://www.youtube.com/watch?v=El7kyjyz6qY",
+          "fx": 806.7163616336315,
+          "fy": 39.26174507611165,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "psychedelic replications",
+          "url": "http://imgur.com/a/ep7CH",
+          "fx": 806.7163616336315,
+          "fy": 101.26174507611165,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "psychedelic art",
+          "url": "http://imgur.com/a/9yOpt",
+          "fx": 806.7163616336315,
+          "fy": 141.26174507611165,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "trippy art",
+          "url": "http://imgur.com/a/auarM",
+          "fx": 806.7163616336315,
+          "fy": 181.26174507611165,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(49, 187, 71, 1.0)"
+        }
+      ]
     },
     {
       "text": "salvia divinorum",
       "url": "https://psychonautwiki.org/wiki/Salvia_divinorum_(botany)",
       "fx": -974.899605365908,
       "fy": 111.68632864793233,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -35,6 +158,7 @@
       "url": "https://psychonautwiki.org/w/index.php/Lysergamide",
       "fx": -283.1192063328076,
       "fy": 112.16969209558806,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -43,6 +167,7 @@
       "url": "https://psychonautwiki.org/wiki/Entactogen",
       "fx": -528.9345449525052,
       "fy": 113.90408011603824,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -50,6 +175,7 @@
       "url": "https://psychonautwiki.org/wiki/Cannabinoid",
       "fx": -742.8076700498575,
       "fy": 115.06754196544966,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -58,6 +184,7 @@
       "url": "https://psychonautwiki.org/w/index.php/Tryptamine",
       "fx": 94.2199643253025,
       "fy": 121.29171476680165,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -65,19 +192,15 @@
       "url": "https://psychonautwiki.org/wiki/Phenethylamine",
       "fx": 403.7857373794732,
       "fy": 121.67312040606839,
+      "nodes": [],
       "category": "wiki"
-    },
-    {
-      "text": "experiences",
-      "url": "",
-      "fx": 709.8422408155698,
-      "fy": 227.80324135262356
     },
     {
       "text": "psilocin  ️",
       "url": "/chemistry/drugs/psychedelic/psilocin",
       "fx": -53.04474386592892,
       "fy": 230.11750799569643,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -85,6 +208,7 @@
       "url": "/chemistry/drugs/psychedelic/lsd",
       "fx": -243.37632238519507,
       "fy": 237.6608301755366,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -92,6 +216,7 @@
       "url": "/chemistry/drugs/psychedelic/salvia",
       "fx": -1008.1162109375,
       "fy": 237.8505859375,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -99,6 +224,7 @@
       "url": "/chemistry/drugs/psychedelic/mescaline",
       "fx": 516.2122751342738,
       "fy": 250.80111124784662,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -106,6 +232,7 @@
       "url": "/chemistry/drugs/psychedelic/mdma",
       "fx": -496.44757116763617,
       "fy": 253.35191786856336,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -113,6 +240,7 @@
       "url": "/chemistry/drugs/psychedelic/cannabis",
       "fx": -725.3833296879558,
       "fy": 257.33169291338584,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -120,13 +248,32 @@
       "url": "/chemistry/drugs/psychedelic/ibogaine",
       "fx": 261.4408133576637,
       "fy": 260.2656303245809,
+      "nodes": [],
       "category": "mindmap"
+    },
+    {
+      "text": "experiences",
+      "url": "",
+      "fx": 764.63179599575,
+      "fy": 289.16303864992096,
+      "nodes": [
+        {
+          "text": "doors of perception",
+          "url": "http://psychedelicfrontier.com/wp-content/uploads/2013/05/The-Doors-Of-Perception-Aldous-Huxley.pdf",
+          "fx": 971.63179599575,
+          "fy": 300.66303864992096,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "DMT  ️",
       "url": "/chemistry/drugs/psychedelic/dmt",
       "fx": 106.24750883870445,
       "fy": 293.9206850584742,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -135,6 +282,7 @@
       "url": "/chemistry/drugs/psychedelic/microdosing",
       "fx": -189.30831720262324,
       "fy": 355.12848898980724,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -142,6 +290,7 @@
       "url": "/chemistry/drugs/psychedelic/ayahuasca",
       "fx": 198.2679802917628,
       "fy": 430.73139227064394,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -149,116 +298,8 @@
       "url": "https://psychonautwiki.org/wiki/5-MeO-DMT",
       "fx": -6.769504729166329,
       "fy": 430.9010838397031,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Psychedelics/",
-      "fx": 416.6534970238099,
-      "fy": -382.15617960988357,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "psychedelic drugs"
-    },
-    {
-      "text": "rational psychonaut",
-      "url": "https://www.reddit.com/r/RationalPsychonaut/",
-      "fx": 416.6534970238099,
-      "fy": -342.15617960988357,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "psychedelic drugs"
-    },
-    {
-      "text": "psychoactive substance index",
-      "url": "https://psychonautwiki.org/wiki/Psychoactive_substance_index",
-      "fx": 568.371458636662,
-      "fy": -265.90767921377176,
-      "category": "wiki",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "psychedelic drug research",
-      "url": "https://www.reddit.com/r/ShrugLifeSyndicate/comments/69p6qo/old_human_trial_of_lsd/",
-      "fx": 568.371458636662,
-      "fy": -225.90767921377176,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "psychedelic replications",
-      "url": "http://imgur.com/a/ep7CH",
-      "fx": 568.371458636662,
-      "fy": -185.90767921377176,
-      "category": "image",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "16: psychedelics",
-      "url": "http://pharmrev.aspetjournals.org/content/68/2/264.long",
-      "fx": 568.371458636662,
-      "fy": -145.90767921377176,
-      "category": "paper",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "big list of hallucinogens",
-      "url": "https://www.reddit.com/r/researchchemicals/comments/616ed2/the_great_big_list_of_every_hallucinogen_that_has/",
-      "fx": 568.371458636662,
-      "fy": -105.90767921377176,
-      "category": "reddit",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "psychonaut wiki",
-      "url": "https://psychonautwiki.org/wiki/Main_Page",
-      "fx": 568.371458636662,
-      "fy": -65.90767921377176,
-      "color": "rgba(49, 187, 71, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "psychedelic information theory",
-      "url": "http://psychedelic-information-theory.com/toc.php",
-      "fx": 785.4220204174153,
-      "fy": -24.73825492388835,
-      "category": "free book",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "17: Roland Griffiths, Ph.D. on psilocybin, psychedelic therapies &amp; mystical experiences",
-      "url": "https://www.youtube.com/watch?v=rkBq33KWFmY",
-      "fx": 785.4220204174153,
-      "fy": 15.261745076111652,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "psychedelic symmetrical texture repetition",
-      "url": "https://www.youtube.com/watch?v=El7kyjyz6qY",
-      "fx": 785.4220204174153,
-      "fy": 99.26174507611165,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "doors of perception",
-      "url": "http://psychedelicfrontier.com/wp-content/uploads/2013/05/The-Doors-Of-Perception-Aldous-Huxley.pdf",
-      "fx": 916.8422408155698,
-      "fy": 239.30324135262356,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "experiences"
     }
   ],
   "connections": [
@@ -330,7 +371,7 @@
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -135.536,
+        "x": -146.183,
         "y": -108.585
       }
     },
@@ -370,8 +411,8 @@
       "source": "experiences",
       "target": "interesting",
       "curve": {
-        "x": -61.7101,
-        "y": -95.5208
+        "x": -98.8899,
+        "y": -122.558
       }
     },
     {

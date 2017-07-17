@@ -8,19 +8,32 @@
       "url": "http://www.wikiwand.com/en/Static_web_page",
       "fx": -73.32960904316224,
       "fy": -319.24666122195987,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/aharris88/awesome-static-website-services",
+          "fx": 233.67039095683776,
+          "fy": -305.24666122195987,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "static website generators",
       "url": "",
       "fx": -148.23706218540258,
-      "fy": -195.2939453125
+      "fy": -195.2939453125,
+      "nodes": []
     },
     {
       "text": "hugo  ️",
       "url": "/web-development/static-site-generators/hugo",
       "fx": -324.7534361489285,
       "fy": -75.11292244060382,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +41,7 @@
       "url": "https://github.com/jaspervdj/hakyll",
       "fx": -42.70765644187543,
       "fy": -74.7349714106632,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -35,6 +49,7 @@
       "url": "/web-development/static-site-generators/jekyll",
       "fx": -173.88148206602602,
       "fy": -74.32266507998429,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,18 +58,8 @@
       "url": "https://github.com/MoOx/phenomic",
       "fx": 93.2132316468244,
       "fy": -72.91331845238119,
+      "nodes": [],
       "category": "github"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/aharris88/awesome-static-website-services",
-      "fx": 233.67039095683776,
-      "fy": -305.24666122195987,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "static web pages"
     }
   ],
   "connections": [

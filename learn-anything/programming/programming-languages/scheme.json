@@ -7,6 +7,26 @@
       "url": "http://www.wikiwand.com/en/Scheme_(programming_language)",
       "fx": -49.390923112630844,
       "fy": -187.93881607055664,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/scheme/",
+          "fx": 149.60907688736916,
+          "fy": -193.93881607055664,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "trending",
+          "url": "https://github.com/trending/scheme",
+          "fx": 149.60907688736916,
+          "fy": -153.93881607055664,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,43 +34,26 @@
       "note": "",
       "url": "",
       "fx": -41.69140625,
-      "fy": -50.453125
+      "fy": -50.453125,
+      "nodes": [
+        {
+          "text": "1. the little schemer",
+          "url": "http://www.goodreads.com/book/show/548914.The_Little_Schemer",
+          "fx": 140.30859375,
+          "fy": -38.953125,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "Chez scheme",
       "url": "https://github.com/cisco/ChezScheme",
       "fx": -144.51970511869422,
       "fy": 72.75714020770226,
+      "nodes": [],
       "category": "github"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/scheme/",
-      "fx": 149.60907688736916,
-      "fy": -193.93881607055664,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "scheme"
-    },
-    {
-      "text": "trending",
-      "url": "https://github.com/trending/scheme",
-      "fx": 149.60907688736916,
-      "fy": -153.93881607055664,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "scheme"
-    },
-    {
-      "text": "1. the little schemer",
-      "url": "http://www.goodreads.com/book/show/548914.The_Little_Schemer",
-      "fx": 140.30859375,
-      "fy": -38.953125,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

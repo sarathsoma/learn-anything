@@ -8,32 +8,85 @@
       "url": "http://www.wikiwand.com/en/Computing",
       "fx": -8.61115991979591,
       "fy": -980.8858093973616,
+      "nodes": [
+        {
+          "text": "️",
+          "url": "https://scicomp.stackexchange.com/",
+          "fx": 258.3888400802041,
+          "fy": -966.8858093973616,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 44.0551010280617,
-      "fy": -821.0465349503804
+      "fy": -821.0465349503804,
+      "nodes": [
+        {
+          "text": "1. what is computation?",
+          "url": "https://www.youtube.com/watch?v=ytpJdnlu9ug",
+          "fx": 200.0551010280617,
+          "fy": -871.5465349503804,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. introduction to the theory of computation by Sipser",
+          "url": "https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation",
+          "fx": 200.0551010280617,
+          "fy": -831.5465349503804,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. introduction to theory of computation",
+          "url": "http://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf",
+          "fx": 200.0551010280617,
+          "fy": -769.5465349503804,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "computer programs  ️",
       "url": "/computer-science/computation/computer-programs",
       "fx": -531.611381190809,
       "fy": -688.9413207382393,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 356.08091624711074,
-      "fy": -642.6365966046081
+      "fy": -642.6365966046081,
+      "nodes": [
+        {
+          "text": "mechanical calculator",
+          "url": "http://www.snotr.com/video/1002/Mechanical_calculator",
+          "fx": 547.0809162471107,
+          "fy": -631.1365966046081,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "finite-state machine  ️",
       "url": "/computer-science/computation/finite-state-machine",
       "fx": -527.051565174372,
       "fy": -602.2867525139083,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +94,7 @@
       "url": "/computer-science/computation/interactive-computing",
       "fx": 403.85047615310395,
       "fy": -500.5348720117074,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +102,7 @@
       "url": "http://www.wikiwand.com/en/Computational_science",
       "fx": -501.9174927005404,
       "fy": -479.139956347089,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -55,6 +110,7 @@
       "url": "/computer-science/computation/theory-of-computation",
       "fx": 322.128577793236,
       "fy": -386.5094442235945,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,6 +118,7 @@
       "url": "/computer-science/computation/evolutionary-computation",
       "fx": -420.03465302343,
       "fy": -379.7496888082069,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -70,6 +127,7 @@
       "url": "/computer-science/computation/dna-computing",
       "fx": 200.33770970021112,
       "fy": -306.9808179117503,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -77,6 +135,7 @@
       "url": "http://www.wikiwand.com/en/Symbolic_computation",
       "fx": -283.2279920076071,
       "fy": -285.4116403680098,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -85,6 +144,7 @@
       "url": "http://www.wikiwand.com/en/Bandwidth_(computing)",
       "fx": -99.20033502030537,
       "fy": -193.60380497129734,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -92,6 +152,7 @@
       "url": "/computer-science/computation/computer-simulations",
       "fx": 114.08168337127631,
       "fy": -189.3059383360345,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -99,54 +160,8 @@
       "url": "http://www.wikiwand.com/en/Computer_algebra_system",
       "fx": -465.5949541823313,
       "fy": -162.9416412124059,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "️",
-      "url": "https://scicomp.stackexchange.com/",
-      "fx": 258.3888400802041,
-      "fy": -966.8858093973616,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "computation"
-    },
-    {
-      "text": "1. what is computation?",
-      "url": "https://www.youtube.com/watch?v=ytpJdnlu9ug",
-      "fx": 200.0551010280617,
-      "fy": -871.5465349503804,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to the theory of computation by Sipser",
-      "url": "https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation",
-      "fx": 200.0551010280617,
-      "fy": -831.5465349503804,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to theory of computation",
-      "url": "http://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf",
-      "fx": 200.0551010280617,
-      "fy": -769.5465349503804,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "mechanical calculator",
-      "url": "http://www.snotr.com/video/1002/Mechanical_calculator",
-      "fx": 547.0809162471107,
-      "fy": -631.1365966046081,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
     }
   ],
   "connections": [

@@ -8,78 +8,85 @@
       "url": "http://www.wikiwand.com/en/Application_programming_interface",
       "fx": -70.6640625,
       "fy": -240.9296875,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/TonnyL/Awesome_APIs",
+          "fx": 284.3359375,
+          "fy": -214.4296875,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 112.84332815783796,
-      "fy": -81.51842212501867
+      "fy": -81.51842212501867,
+      "nodes": [
+        {
+          "text": "awesome RESTful apis",
+          "url": "https://github.com/Kikobeats/awesome-api",
+          "fx": 249.84332815783796,
+          "fy": -90.01842212501867,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "API security checklist",
+          "url": "https://github.com/shieldfy/API-Security-Checklist",
+          "fx": 249.84332815783796,
+          "fy": -50.018422125018674,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "REST  ️",
       "url": "/programming/api/rest",
       "fx": -204.5934115303071,
       "fy": -35.51726737445841,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 213.58295822143555,
-      "fy": 42.73417568206787
+      "fy": 42.73417568206787,
+      "nodes": [
+        {
+          "text": "17: pragmatic API versioning  ️",
+          "url": "https://fly.io/articles/pragmatic-api-versioning/",
+          "fx": 375.58295822143555,
+          "fy": 54.23417568206787,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 294.5,
-      "fy": 169.5
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/TonnyL/Awesome_APIs",
-      "fx": 284.3359375,
-      "fy": -214.4296875,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "application programming interface"
-    },
-    {
-      "text": "awesome RESTful apis",
-      "url": "https://github.com/Kikobeats/awesome-api",
-      "fx": 249.84332815783796,
-      "fy": -90.01842212501867,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "API security checklist",
-      "url": "https://github.com/shieldfy/API-Security-Checklist",
-      "fx": 249.84332815783796,
-      "fy": -50.018422125018674,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "17: pragmatic API versioning  ️",
-      "url": "https://fly.io/articles/pragmatic-api-versioning/",
-      "fx": 375.58295822143555,
-      "fy": 54.23417568206787,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "collective list of APIs",
-      "url": "http://apilist.fun",
-      "fx": 485.5,
-      "fy": 184,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "fy": 169.5,
+      "nodes": [
+        {
+          "text": "collective list of APIs",
+          "url": "http://apilist.fun",
+          "fx": 485.5,
+          "fy": 184,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

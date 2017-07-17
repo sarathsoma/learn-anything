@@ -7,62 +7,119 @@
       "url": "http://www.wikiwand.com/en/Google",
       "fx": 220.31640625,
       "fy": -212.38671875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "alternative",
       "url": "",
       "fx": -58.70885881360027,
-      "fy": -75.71787248312023
+      "fy": -75.71787248312023,
+      "nodes": []
     },
     {
       "text": "owned by",
       "url": "",
       "fx": 153.53745545117476,
-      "fy": -70.3421600278379
+      "fy": -70.3421600278379,
+      "nodes": []
     },
     {
       "text": "privacy issues",
       "url": "",
       "fx": 342.06344813978444,
-      "fy": -68.79130723610672
+      "fy": -68.79130723610672,
+      "nodes": [
+        {
+          "text": "17: by 2030, you’ll be living in a world that’s run by google  ️",
+          "url": "https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/",
+          "fx": 581.0634481397844,
+          "fy": -206.29130723610672,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "17: google changed a major privacy policy, and no one really noticed  ️",
+          "url": "http://www.slate.com/blogs/future_tense/2016/10/21/google_changed_a_major_privacy_policy_and_no_one_really_noticed.html",
+          "fx": 581.0634481397844,
+          "fy": -139.29130723610672,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "how does google search collect info about you",
+          "url": "https://www.reddit.com/r/privacy/comments/6hbjq5/how_does_google_search_collect_info_about_you_if/",
+          "fx": 581.0634481397844,
+          "fy": -47.29130723610672,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "It is possible that all the information could be made available to the authorities - Eric Schmidt",
+          "url": "https://www.reddit.com/r/privacy/comments/6hzqj4/google_not_gchq_is_the_truly_chilling_spy_network/dj2x3zl/",
+          "fx": 581.0634481397844,
+          "fy": 19.708692763893282,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     },
     {
       "text": "duckduckgo",
       "url": "https://duckduckgo.com",
       "fx": -198.46171874999993,
-      "fy": 28.85334821428569
+      "fy": 28.85334821428569,
+      "nodes": []
     },
     {
       "text": "startpage",
       "url": "https://www.startpage.com/",
       "fx": -352.728731638825,
-      "fy": 30.88861937163972
+      "fy": 30.88861937163972,
+      "nodes": []
     },
     {
       "text": "alphabet",
       "url": "http://www.wikiwand.com/nl/Alphabet_Inc.",
       "fx": 57.130283491952014,
       "fy": 36.3952786581857,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "also owns",
       "url": "",
       "fx": -69.322265625,
-      "fy": 157.2705078125
+      "fy": 157.2705078125,
+      "nodes": []
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 427.4568510797176,
-      "fy": 192.6738616838487
+      "fy": 192.6738616838487,
+      "nodes": [
+        {
+          "text": "google developers blog  ️",
+          "url": "https://developers.googleblog.com/",
+          "fx": 626.4568510797176,
+          "fy": 205.1738616838487,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "nest labs",
       "url": "http://www.wikiwand.com/en/Nest_Labs",
       "fx": -409.48146206991794,
       "fy": 322.10841318829887,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -70,6 +127,7 @@
       "url": "http://www.wikiwand.com/en/Calico_(company)",
       "fx": -232.1502214040487,
       "fy": 322.65081690565773,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -77,6 +135,7 @@
       "url": "http://www.wikiwand.com/en/DeepMind",
       "fx": -85.77546242440121,
       "fy": 323.7864768151012,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -84,54 +143,8 @@
       "url": "http://www.wikiwand.com/en/YouTube",
       "fx": 108.57362652694474,
       "fy": 323.82440183295637,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "17: by 2030, you’ll be living in a world that’s run by google  ️",
-      "url": "https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/",
-      "fx": 581.0634481397844,
-      "fy": -206.29130723610672,
-      "category": "article",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "privacy issues"
-    },
-    {
-      "text": "17: google changed a major privacy policy, and no one really noticed  ️",
-      "url": "http://www.slate.com/blogs/future_tense/2016/10/21/google_changed_a_major_privacy_policy_and_no_one_really_noticed.html",
-      "fx": 581.0634481397844,
-      "fy": -139.29130723610672,
-      "category": "article",
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "privacy issues"
-    },
-    {
-      "text": "how does google search collect info about you",
-      "url": "https://www.reddit.com/r/privacy/comments/6hbjq5/how_does_google_search_collect_info_about_you_if/",
-      "fx": 581.0634481397844,
-      "fy": -47.29130723610672,
-      "category": "reddit",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "privacy issues"
-    },
-    {
-      "text": "It is possible that all the information could be made available to the authorities - Eric Schmidt",
-      "url": "https://www.reddit.com/r/privacy/comments/6hzqj4/google_not_gchq_is_the_truly_chilling_spy_network/dj2x3zl/",
-      "fx": 581.0634481397844,
-      "fy": 19.708692763893282,
-      "category": "reddit",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "privacy issues"
-    },
-    {
-      "text": "google developers blog  ️",
-      "url": "https://developers.googleblog.com/",
-      "fx": 626.4568510797176,
-      "fy": 205.1738616838487,
-      "category": "blog",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
     }
   ],
   "connections": [

@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Statistical_model",
       "fx": -259.2108515133647,
       "fy": -39.028326454402475,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/mathematics/statistics/statistical-model/probabilistic-graphical-models",
       "fx": -271.1274424356127,
       "fy": 155.7792668821951,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,6 +23,7 @@
       "url": "/mathematics/statistics/statistical-model/model-selection",
       "fx": 81.46866607666016,
       "fy": 156.0712776184082,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/mathematics/statistics/statistical-model/probabilistic-programming",
       "fx": -1136.6849453829225,
       "fy": 157.16772590256483,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +39,7 @@
       "url": "/mathematics/statistics/statistical-model/maximum-likelihood-estimation",
       "fx": -1499.7680431547617,
       "fy": 157.88913690476193,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +47,7 @@
       "url": "/mathematics/statistics/statistical-model/conditional-random-fields",
       "fx": -815.4329427083331,
       "fy": 158.76106770833167,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +55,7 @@
       "url": "/mathematics/statistics/statistical-model/gaussian-process",
       "fx": -514.2885513305664,
       "fy": 158.96113967895508,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,10 +63,10 @@
       "url": "/mathematics/statistics/statistical-model/gaussian-mixture-model",
       "fx": 320.94949674954387,
       "fy": 159.1982421875,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "statistical models",

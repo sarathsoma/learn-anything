@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Stellar_evolution",
       "fx": 52.5078125,
       "fy": -117.1171875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 103.4609375,
-      "fy": 18.8515625
+      "fy": 18.8515625,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=hbF_ELJ0Ues",
+          "fx": 259.4609375,
+          "fy": 30.3515625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "massive star",
       "url": "http://www.wikiwand.com/en/List_of_most_massive_stars",
       "fx": -35.35256109022578,
       "fy": 142.11145050125305,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -27,6 +40,7 @@
       "url": "http://www.wikiwand.com/en/Red_supergiant_star",
       "fx": -48.66901629072731,
       "fy": 261.20606203007617,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -34,6 +48,7 @@
       "url": "/space-science/astronomy/stars/stellar-evolution/supernova",
       "fx": -30.81766183035711,
       "fy": 371.833984375,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,18 +56,8 @@
       "url": "/physics/general-relativity/spacetime/black-holes",
       "fx": -23.4873046875,
       "fy": 489.3779296875,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=hbF_ELJ0Ues",
-      "fx": 259.4609375,
-      "fy": 30.3515625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Boyer%E2%80%93Moore_string_search_algorithm",
       "fx": 57.21875,
       "fy": -109.125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 142.5,
-      "fy": 41
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=4Xyhb72LCX4",
-      "fx": 298.5,
-      "fy": 52.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 41,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=4Xyhb72LCX4",
+          "fx": 298.5,
+          "fy": 52.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

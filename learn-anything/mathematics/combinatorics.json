@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Combinatorics",
       "fx": -133.90234375,
       "fy": -159.2109375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,27 +15,27 @@
       "note": "",
       "url": "",
       "fx": -114.71484375,
-      "fy": -25.8828125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. gate lectures",
-      "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IeCndN2NGgj147ByWNSg1I1",
-      "fx": 67.28515625,
-      "fy": -34.3828125,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. a walk through combinatorics",
-      "url": "https://www.goodreads.com/book/show/2335396.A_Walk_Through_Combinatorics",
-      "fx": 67.28515625,
-      "fy": 5.6171875,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -25.8828125,
+      "nodes": [
+        {
+          "text": "1. gate lectures",
+          "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IeCndN2NGgj147ByWNSg1I1",
+          "fx": 67.28515625,
+          "fy": -34.3828125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. a walk through combinatorics",
+          "url": "https://www.goodreads.com/book/show/2335396.A_Walk_Through_Combinatorics",
+          "fx": 67.28515625,
+          "fy": 5.6171875,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

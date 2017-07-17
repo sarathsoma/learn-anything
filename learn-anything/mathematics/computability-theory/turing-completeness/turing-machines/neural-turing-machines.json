@@ -7,39 +7,42 @@
       "url": "http://www.wikiwand.com/en/Neural_Turing_machine",
       "fx": 23.239182692307736,
       "fy": -119.9308894230769,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "implementation",
       "url": "",
       "fx": 255.01847254672907,
-      "fy": 6.657053154205585
+      "fy": 6.657053154205585,
+      "nodes": [
+        {
+          "text": "in Tensorflow",
+          "url": "https://github.com/carpedm20/NTM-tensorflow",
+          "fx": 492.0184725467291,
+          "fy": 18.157053154205585,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 109.47601957524398,
-      "fy": 102.45777168702
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "in Tensorflow",
-      "url": "https://github.com/carpedm20/NTM-tensorflow",
-      "fx": 492.0184725467291,
-      "fy": 18.157053154205585,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "implementation"
-    },
-    {
-      "text": "1. introductory paper",
-      "url": "https://arxiv.org/abs/1410.5401",
-      "fx": 265.476019575244,
-      "fy": 113.95777168702,
-      "category": "paper",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 102.45777168702,
+      "nodes": [
+        {
+          "text": "1. introductory paper",
+          "url": "https://arxiv.org/abs/1410.5401",
+          "fx": 265.476019575244,
+          "fy": 113.95777168702,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

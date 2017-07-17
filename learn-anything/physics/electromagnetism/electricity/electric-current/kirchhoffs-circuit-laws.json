@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Kirchhoff%27s_circuit_laws",
       "fx": 57.8046875,
       "fy": -100.48046875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 143,
-      "fy": 49
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. how to solve a Kirchhoff’s rules problem",
-      "url": "https://www.youtube.com/watch?v=Z2QDXjG2ynU",
-      "fx": 306,
       "fy": 49,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. how to solve a Kirchhoff’s rules problem",
+          "url": "https://www.youtube.com/watch?v=Z2QDXjG2ynU",
+          "fx": 306,
+          "fy": 49,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Life",
       "fx": -41.12136361535988,
       "fy": -183.1013239924411,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "http://www.wikiwand.com/en/Lifestyle_(sociology)",
       "fx": -191.9701123354772,
       "fy": -36.092332014598526,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -22,6 +24,7 @@
       "url": "/life/work",
       "fx": -42.250609772545886,
       "fy": -32.10624037470137,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +32,7 @@
       "url": "/life/relationships",
       "fx": 87.8964614868164,
       "fy": -30.255517601966858,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,6 +40,7 @@
       "url": "/life/productivity",
       "fx": 276.0366097037763,
       "fy": -28.267943719949017,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,6 +48,7 @@
       "url": "/life/meaning-of-life",
       "fx": 457.3396444361226,
       "fy": -25.955228365384414,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -50,6 +56,7 @@
       "url": "/life/social-skills",
       "fx": 664.9381737724291,
       "fy": -21.65448189073595,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -57,6 +64,7 @@
       "url": "/life/quantified-self",
       "fx": -428.0243252840909,
       "fy": 59.320223721590935,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -64,6 +72,7 @@
       "url": "/life/hobbies",
       "fx": -91.78627762326789,
       "fy": 91.81255489113096,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -71,10 +80,10 @@
       "url": "/life/travelling",
       "fx": -218.92376764628477,
       "fy": 202.22659516393685,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "life",

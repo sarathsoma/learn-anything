@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Propositional_calculus",
       "fx": 89.2421875,
       "fy": -128.5625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 155.14612989323837,
-      "fy": 21.386009786476905
+      "fy": 21.386009786476905,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://www.youtube.com/watch?v=paRt4R71d8s",
+          "fx": 318.14612989323837,
+          "fy": 33.886009786476905,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "propositions  ️",
       "url": "/mathematics/logic/propositional-logic/propositions",
       "fx": -49.89909863367285,
       "fy": 154.80999095584582,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,18 +40,8 @@
       "url": "/mathematics/logic/propositional-logic/demorgans-laws",
       "fx": 150.23704147338867,
       "fy": 155.59057235717773,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction",
-      "url": "https://www.youtube.com/watch?v=paRt4R71d8s",
-      "fx": 318.14612989323837,
-      "fy": 33.886009786476905,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

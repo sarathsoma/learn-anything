@@ -6,47 +6,50 @@
       "text": "javascript for automation",
       "url": "",
       "fx": 45.417911529541016,
-      "fy": -167.58726501464844
+      "fy": -167.58726501464844,
+      "nodes": []
     },
     {
       "text": "help",
       "url": "",
       "fx": 236.53255393288362,
-      "fy": -61.032202501927486
+      "fy": -61.032202501927486,
+      "nodes": [
+        {
+          "text": "jxa cookbook",
+          "url": "https://github.com/dtinth/JXA-Cookbook",
+          "fx": 373.5325539328836,
+          "fy": -69.53220250192749,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "es6 features in jxa",
+          "url": "https://github.com/dtinth/JXA-Cookbook/wiki/ES6-Features-in-JXA",
+          "fx": 373.5325539328836,
+          "fy": -29.532202501927486,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 124.69378933236601,
-      "fy": 36.4300160683876
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "jxa cookbook",
-      "url": "https://github.com/dtinth/JXA-Cookbook",
-      "fx": 373.5325539328836,
-      "fy": -69.53220250192749,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "es6 features in jxa",
-      "url": "https://github.com/dtinth/JXA-Cookbook/wiki/ES6-Features-in-JXA",
-      "fx": 373.5325539328836,
-      "fy": -29.532202501927486,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. intro to jxa",
-      "url": "https://developer.apple.com/library/content/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html",
-      "fx": 280.693789332366,
-      "fy": 50.9300160683876,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 36.4300160683876,
+      "nodes": [
+        {
+          "text": "1. intro to jxa",
+          "url": "https://developer.apple.com/library/content/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html",
+          "fx": 280.693789332366,
+          "fy": 50.9300160683876,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

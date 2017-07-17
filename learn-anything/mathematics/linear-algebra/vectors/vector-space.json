@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Vector_space",
       "fx": -141.683789552005,
       "fy": -232.76564458020056,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -94.95182291666663,
-      "fy": -107.40234375
+      "fy": -107.40234375,
+      "nodes": [
+        {
+          "text": "1. what is a vector space",
+          "url": "https://www.youtube.com/watch?v=ozwodzD5bJM",
+          "fx": 68.04817708333337,
+          "fy": -94.90234375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "dual spaces  ️",
       "url": "/mathematics/linear-algebra/vectors/vector-space/dual-spaces",
       "fx": -540.6800245795076,
       "fy": 66.14959061662057,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/mathematics/linear-algebra/vectors/vector-space/inner-product-space",
       "fx": 233.2963638305664,
       "fy": 66.16462516784668,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +48,7 @@
       "url": "/mathematics/linear-algebra/vectors/vector-space/normed-vector-space",
       "fx": -333.8984813904407,
       "fy": 67.78021125936328,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,18 +56,8 @@
       "url": "/mathematics/linear-algebra/vectors/vector-space/vector-space-model",
       "fx": -42.831631660461426,
       "fy": 67.8249340057373,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what is a vector space",
-      "url": "https://www.youtube.com/watch?v=ozwodzD5bJM",
-      "fx": 68.04817708333337,
-      "fy": -94.90234375,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

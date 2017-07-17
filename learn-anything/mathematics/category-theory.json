@@ -7,32 +7,148 @@
       "url": "http://www.wikiwand.com/en/Category_theory",
       "fx": -112.59507208377681,
       "fy": -283.36025769271527,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 67.20411392405072,
-      "fy": -142.1558579622514
+      "fy": -142.1558579622514,
+      "nodes": [
+        {
+          "text": "glossary of category theory",
+          "url": "http://www.wikiwand.com/en/Glossary_of_category_theory",
+          "fx": 208.20411392405072,
+          "fy": -163.1558579622514,
+          "nodes": [],
+          "category": "wiki",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "category theory jargon cheat sheet",
+          "url": "https://gist.github.com/cb372/b1bad150e0c412fb7364",
+          "fx": 208.20411392405072,
+          "fy": -121.15585796225139,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 115.13493347167969,
-      "fy": -35.206512331962585
+      "fy": -35.206512331962585,
+      "nodes": [
+        {
+          "text": "category theory, syntactically  ️",
+          "url": "http://www.hedonisticlearning.com/posts/category-theory-syntactically.html",
+          "fx": 284.1349334716797,
+          "fy": -22.706512331962585,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -118.84126155129786,
-      "fy": 317.8111430201037
+      "fy": 317.8111430201037,
+      "nodes": [
+        {
+          "text": "1. category theory in context",
+          "url": "http://www.math.jhu.edu/~eriehl/context.pdf",
+          "fx": 70.15873844870214,
+          "fy": 74.81114302010371,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. basic category theory",
+          "url": "https://arxiv.org/pdf/1612.09375.pdf",
+          "fx": 70.15873844870214,
+          "fy": 116.81114302010371,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. category theory explained by nLab  ️",
+          "url": "https://ncatlab.org/nlab/show/category+theory",
+          "fx": 70.15873844870214,
+          "fy": 158.8111430201037,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "1. category theory for scientists",
+          "url": "https://arxiv.org/abs/1302.6946",
+          "fx": 70.15873844870214,
+          "fy": 225.8111430201037,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "2. conceptual mathematics: a first introduction to categories",
+          "url": "http://www.goodreads.com/book/show/1511125.Conceptual_Mathematics",
+          "fx": 70.15873844870214,
+          "fy": 292.8111430201037,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "2. category theory for programmers",
+          "url": "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
+          "fx": 70.15873844870214,
+          "fy": 384.8111430201037,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "2. category theory lectures",
+          "url": "https://www.youtube.com/watch?v=I8LbkfSSR58&amp;list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_",
+          "fx": 70.15873844870214,
+          "fy": 451.8111430201037,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "2. category theory by Tom Lagatta",
+          "url": "https://www.youtube.com/watch?v=o6L6XeNdd_k&amp;feature=youtu.be",
+          "fx": 70.15873844870214,
+          "fy": 493.8111430201037,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "2. the categorical abstract machine",
+          "url": "http://www.sciencedirect.com/science/article/pii/0167642387900207",
+          "fx": 70.15873844870214,
+          "fy": 560.8111430201037,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "categories  ️",
       "url": "/mathematics/category-theory/categories",
       "fx": -404.0309427195582,
       "fy": 594.4227644821694,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +156,7 @@
       "url": "/mathematics/category-theory/natural-transformations",
       "fx": -713.7150648817496,
       "fy": 596.193617829781,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,117 +164,8 @@
       "url": "/mathematics/category-theory/functors",
       "fx": -215.41871862515734,
       "fy": 597.1895369007567,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "glossary of category theory",
-      "url": "http://www.wikiwand.com/en/Glossary_of_category_theory",
-      "fx": 208.20411392405072,
-      "fy": -163.1558579622514,
-      "category": "wiki",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "category theory jargon cheat sheet",
-      "url": "https://gist.github.com/cb372/b1bad150e0c412fb7364",
-      "fx": 208.20411392405072,
-      "fy": -121.15585796225139,
-      "category": "github",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "category theory, syntactically  ️",
-      "url": "http://www.hedonisticlearning.com/posts/category-theory-syntactically.html",
-      "fx": 284.1349334716797,
-      "fy": -22.706512331962585,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. category theory in context",
-      "url": "http://www.math.jhu.edu/~eriehl/context.pdf",
-      "fx": 70.15873844870214,
-      "fy": 74.81114302010371,
-      "category": "free book",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. basic category theory",
-      "url": "https://arxiv.org/pdf/1612.09375.pdf",
-      "fx": 70.15873844870214,
-      "fy": 116.81114302010371,
-      "category": "free book",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. category theory explained by nLab  ️",
-      "url": "https://ncatlab.org/nlab/show/category+theory",
-      "fx": 70.15873844870214,
-      "fy": 158.8111430201037,
-      "category": "article",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. category theory for scientists",
-      "url": "https://arxiv.org/abs/1302.6946",
-      "fx": 70.15873844870214,
-      "fy": 225.8111430201037,
-      "category": "paper",
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. conceptual mathematics: a first introduction to categories",
-      "url": "http://www.goodreads.com/book/show/1511125.Conceptual_Mathematics",
-      "fx": 70.15873844870214,
-      "fy": 292.8111430201037,
-      "category": "non-free book",
-      "color": "rgba(255, 254, 60, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. category theory for programmers",
-      "url": "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
-      "fx": 70.15873844870214,
-      "fy": 384.8111430201037,
-      "category": "free book",
-      "color": "rgba(169, 255, 0, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. category theory lectures",
-      "url": "https://www.youtube.com/watch?v=I8LbkfSSR58&amp;list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_",
-      "fx": 70.15873844870214,
-      "fy": 451.8111430201037,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. category theory by Tom Lagatta",
-      "url": "https://www.youtube.com/watch?v=o6L6XeNdd_k&amp;feature=youtu.be",
-      "fx": 70.15873844870214,
-      "fy": 493.8111430201037,
-      "category": "video",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. the categorical abstract machine",
-      "url": "http://www.sciencedirect.com/science/article/pii/0167642387900207",
-      "fx": 70.15873844870214,
-      "fy": 560.8111430201037,
-      "category": "paper",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

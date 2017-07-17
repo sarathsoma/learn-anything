@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Electromagnetic_tensor",
       "fx": -88.26371729651157,
       "fy": -237.561167635659,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -3.5490196078442295,
-      "fy": -75.72549019612677
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. EM field tensor and canonical transformations",
-      "url": "https://www.youtube.com/watch?v=VYaHGPtFf2U",
-      "fx": 159.45098039215577,
       "fy": -75.72549019612677,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. EM field tensor and canonical transformations",
+          "url": "https://www.youtube.com/watch?v=VYaHGPtFf2U",
+          "fx": 159.45098039215577,
+          "fy": -75.72549019612677,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

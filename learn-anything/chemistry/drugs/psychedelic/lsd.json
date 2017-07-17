@@ -7,99 +7,105 @@
       "url": "https://psychonautwiki.org/w/index.php/LSD",
       "fx": 73.69280550373128,
       "fy": -457.7468516791045,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/LSD/",
+          "fx": 239.69280550373128,
+          "fy": -443.7468516791045,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 179.4150641773109,
-      "fy": -343.4029850746269
+      "fy": -343.4029850746269,
+      "nodes": [
+        {
+          "text": "interview with Stanislav Grof",
+          "url": "https://www.youtube.com/watch?v=5ig3eU_oDS0&amp;feature=youtu.be",
+          "fx": 370.4150641773109,
+          "fy": -382.9029850746269,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "structure of LSD and its receptor explains its potency  ️",
+          "url": "https://www.eurekalert.org/pub_releases/2017-01/cp-sol011917.php",
+          "fx": 370.4150641773109,
+          "fy": -342.9029850746269,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "trippy art",
+          "url": "http://imgur.com/a/auarM",
+          "fx": 370.4150641773109,
+          "fy": -280.9029850746269,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "papers",
       "url": "",
       "fx": 450.17820929231254,
-      "fy": -203.42200610768992
+      "fy": -203.42200610768992,
+      "nodes": [
+        {
+          "text": "16: crystal structure of an LSD-bound human serotonin receptor",
+          "url": "http://www.cell.com/cell/fulltext/S0092-8674%2816%2931749-4",
+          "fx": 611.1782092923125,
+          "fy": -213.92200610768992,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 59.4832807052685,
-      "fy": -72.44201077838727
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/LSD/",
-      "fx": 239.69280550373128,
-      "fy": -443.7468516791045,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "LSD"
-    },
-    {
-      "text": "interview with Stanislav Grof",
-      "url": "https://www.youtube.com/watch?v=5ig3eU_oDS0&amp;feature=youtu.be",
-      "fx": 370.4150641773109,
-      "fy": -382.9029850746269,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "structure of LSD and its receptor explains its potency  ️",
-      "url": "https://www.eurekalert.org/pub_releases/2017-01/cp-sol011917.php",
-      "fx": 370.4150641773109,
-      "fy": -342.9029850746269,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "trippy art",
-      "url": "http://imgur.com/a/auarM",
-      "fx": 370.4150641773109,
-      "fy": -280.9029850746269,
-      "category": "image",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "16: crystal structure of an LSD-bound human serotonin receptor",
-      "url": "http://www.cell.com/cell/fulltext/S0092-8674%2816%2931749-4",
-      "fx": 611.1782092923125,
-      "fy": -213.92200610768992,
-      "category": "paper",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "papers"
-    },
-    {
-      "text": "1. your brain on LSD",
-      "url": "https://www.youtube.com/watch?v=wG5JyorwYPo&amp;t=141s",
-      "fx": 215.4832807052685,
-      "fy": -122.94201077838727,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. the first modern images of a human brain on LSD",
-      "url": "https://www.youtube.com/watch?v=kvalFfavNpU",
-      "fx": 215.4832807052685,
-      "fy": -82.94201077838727,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. Alan Watts - the use of LSD and psilocybin",
-      "url": "https://www.youtube.com/watch?v=4l90LMpSJM4",
-      "fx": 215.4832807052685,
-      "fy": -20.94201077838727,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
+      "fy": -72.44201077838727,
+      "nodes": [
+        {
+          "text": "1. your brain on LSD",
+          "url": "https://www.youtube.com/watch?v=wG5JyorwYPo&amp;t=141s",
+          "fx": 215.4832807052685,
+          "fy": -122.94201077838727,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. the first modern images of a human brain on LSD",
+          "url": "https://www.youtube.com/watch?v=kvalFfavNpU",
+          "fx": 215.4832807052685,
+          "fy": -82.94201077838727,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. Alan Watts - the use of LSD and psilocybin",
+          "url": "https://www.youtube.com/watch?v=4l90LMpSJM4",
+          "fx": 215.4832807052685,
+          "fy": -20.94201077838727,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

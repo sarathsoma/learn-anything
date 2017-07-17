@@ -7,57 +7,60 @@
       "url": "http://www.wikiwand.com/en/Monad_(functional_programming)",
       "fx": -144.41015625,
       "fy": -386.6875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": -3.862290955851904,
-      "fy": -247.83425423617155
+      "fy": -247.83425423617155,
+      "nodes": [
+        {
+          "text": "17: escaping hell with monads  ️",
+          "url": "https://philipnilsson.github.io/Badness10k/posts/2017-05-07-escaping-hell-with-monads.html",
+          "fx": 158.1377090441481,
+          "fy": -236.33425423617155,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -129.74608513406372,
-      "fy": -79.96852490867116
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "17: escaping hell with monads  ️",
-      "url": "https://philipnilsson.github.io/Badness10k/posts/2017-05-07-escaping-hell-with-monads.html",
-      "fx": 158.1377090441481,
-      "fy": -236.33425423617155,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. monads for functional programming",
-      "url": "http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf",
-      "fx": 52.25391486593628,
-      "fy": -138.46852490867116,
-      "category": "paper",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. you could have invented monads! (and maybe you already have.)  ️",
-      "url": "http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html",
-      "fx": 52.25391486593628,
-      "fy": -76.46852490867116,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. understanding monads",
-      "url": "https://en.wikibooks.org/wiki/Haskell/Understanding_monads",
-      "fx": 52.25391486593628,
-      "fy": 7.5314750913288435,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": -79.96852490867116,
+      "nodes": [
+        {
+          "text": "1. monads for functional programming",
+          "url": "http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf",
+          "fx": 52.25391486593628,
+          "fy": -138.46852490867116,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. you could have invented monads! (and maybe you already have.)  ️",
+          "url": "http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html",
+          "fx": 52.25391486593628,
+          "fy": -76.46852490867116,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. understanding monads",
+          "url": "https://en.wikibooks.org/wiki/Haskell/Understanding_monads",
+          "fx": 52.25391486593628,
+          "fy": 7.5314750913288435,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

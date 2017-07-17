@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Voltage",
       "fx": -56.16796875,
       "fy": -133.58203125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -46.5,
-      "fy": -2
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. what is voltage",
+          "url": "https://www.youtube.com/watch?v=TBt-kxYfync",
+          "fx": 109.5,
+          "fy": 9.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "electromotive force  ️",
       "url": "/physics/electromagnetism/electricity/electric-current/voltage/electromotive-force",
       "fx": -124.2191124355669,
       "fy": 138.1728817654639,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what is voltage",
-      "url": "https://www.youtube.com/watch?v=TBt-kxYfync",
-      "fx": 109.5,
-      "fy": 9.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

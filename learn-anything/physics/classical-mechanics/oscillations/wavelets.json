@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Wavelet",
       "fx": 117.3671875,
       "fy": -106.25390625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 131,
-      "fy": 23.7890625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction",
-      "url": "https://www.youtube.com/watch?v=ZnmvUCtUAEE",
-      "fx": 294,
-      "fy": 36.2890625,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 23.7890625,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://www.youtube.com/watch?v=ZnmvUCtUAEE",
+          "fx": 294,
+          "fy": 36.2890625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

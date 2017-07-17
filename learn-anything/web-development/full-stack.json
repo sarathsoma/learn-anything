@@ -7,26 +7,30 @@
       "note": "",
       "url": "",
       "fx": 207.67645571043136,
-      "fy": -308.9338185701439
+      "fy": -308.9338185701439,
+      "nodes": []
     },
     {
       "text": "MEAN",
       "url": "http://www.wikiwand.com/en/MEAN_(software_bundle)",
       "fx": -167.5567970070224,
       "fy": -145.2424089518592,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "MERN",
       "url": "http://mern.io",
       "fx": 435.5194159167552,
-      "fy": -134.88547833760583
+      "fy": -134.88547833760583,
+      "nodes": []
     },
     {
       "text": "meteor  ️",
       "url": "/web-development/javascript-libraries/meteor",
       "fx": 620.096997893256,
       "fy": -134.4946014747237,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +38,7 @@
       "url": "/programming/programming-languages/ruby/ruby-on-rails",
       "fx": 941.4442246835447,
       "fy": -132.30201740506322,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +46,7 @@
       "url": "/web-development/full-stack/django",
       "fx": 782.6184017354767,
       "fy": -131.2012061403509,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +54,7 @@
       "url": "/databases/nosql-databases/mongodb",
       "fx": -445.38124380866384,
       "fy": -0.32697343826293945,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +62,7 @@
       "url": "/web-development/javascript-libraries/react",
       "fx": 515.6072733918004,
       "fy": -0.007835343567535347,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,6 +70,7 @@
       "url": "/web-development/javascript-libraries/express",
       "fx": 362.9117736816406,
       "fy": 0.23488450050354004,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -69,6 +78,7 @@
       "url": "/web-development/javascript-libraries/angular-2",
       "fx": -122.30296478631249,
       "fy": 1.311465984632946,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -76,6 +86,7 @@
       "url": "/web-development/backend/nodejs",
       "fx": 36.791053771972656,
       "fy": 1.3744995508263855,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -83,6 +94,7 @@
       "url": "/web-development/javascript-libraries/express",
       "fx": -276.23726654052734,
       "fy": 1.3982019424438477,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -90,6 +102,7 @@
       "url": "/databases/nosql-databases/mongodb",
       "fx": 187.6456048976513,
       "fy": 1.446774488304186,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -97,10 +110,10 @@
       "url": "/web-development/backend/nodejs",
       "fx": 661.8004614400531,
       "fy": 5.60896381578948,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "MEAN",

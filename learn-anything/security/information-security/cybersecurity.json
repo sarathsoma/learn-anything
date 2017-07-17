@@ -7,39 +7,91 @@
       "url": "http://www.wikiwand.com/en/Computer_security",
       "fx": 47.62109375,
       "fy": -444.4618419027094,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/cybersecurity/",
+          "fx": 294.62109375,
+          "fy": -450.4618419027094,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/Annsec/awesome-cybersecurity",
+          "fx": 294.62109375,
+          "fy": -410.4618419027094,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 190.23539391346844,
-      "fy": -329.9561031363679
+      "fy": -329.9561031363679,
+      "nodes": [
+        {
+          "text": "basic advice on computer security",
+          "url": "https://github.com/kristovatlas/how-to-security",
+          "fx": 327.23539391346844,
+          "fy": -318.4561031363679,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 73.581298828125,
-      "fy": -244.66389973958343
+      "fy": -244.66389973958343,
+      "nodes": [
+        {
+          "text": "1. cybersecurity 101",
+          "url": "https://www.youtube.com/watch?v=sdpxddDzXfE",
+          "fx": 255.581298828125,
+          "fy": -233.16389973958343,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "social engineering  ️",
+      "fx": -408.46312391283345,
+      "fy": -168.54121871376134,
+      "nodes": [],
+      "category": "mindmap"
     },
     {
       "text": "exploits",
       "url": "http://www.wikiwand.com/en/Exploit_(computer_security)",
       "fx": 219.80494115259717,
       "fy": -124.98528814935491,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "threats",
       "url": "",
-      "fx": -152.60206966186615,
-      "fy": -115.7797626034922
+      "fx": -149.55730438232422,
+      "fy": -115.77976608276367,
+      "nodes": []
     },
     {
       "text": "fuzz testing  ️",
       "url": "/security/information-security/cybersecurity/fuzz-testing",
       "fx": 1.626905955156417,
       "fy": -93.5224826235443,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,13 +99,15 @@
       "url": "http://www.wikiwand.com/en/Cyberattack",
       "fx": -361.895291786863,
       "fy": -21.30596473134915,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "buffer overflow  ️",
       "url": "/security/information-security/cybersecurity/buffer-overflow",
-      "fx": 273.3186659192827,
-      "fy": -18.565512892376773,
+      "fx": 340.8906393444795,
+      "fy": -15.14523730182566,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,6 +116,7 @@
       "url": "/security/information-security/cybersecurity/malware",
       "fx": -97.14820530501731,
       "fy": 0.5112206090732343,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -69,6 +124,7 @@
       "url": "/security/information-security/cybersecurity/man-in-the-middle-attack",
       "fx": -685.9921875000111,
       "fy": 97.83984374996373,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -76,45 +132,8 @@
       "url": "/security/information-security/cybersecurity/ddos",
       "fx": -356.5230829834625,
       "fy": 110.35168392952346,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/cybersecurity/",
-      "fx": 294.62109375,
-      "fy": -450.4618419027094,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "cybersecurity"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/Annsec/awesome-cybersecurity",
-      "fx": 294.62109375,
-      "fy": -410.4618419027094,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "cybersecurity"
-    },
-    {
-      "text": "basic advice on computer security",
-      "url": "https://github.com/kristovatlas/how-to-security",
-      "fx": 327.23539391346844,
-      "fy": -318.4561031363679,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. cybersecurity 101",
-      "url": "https://www.youtube.com/watch?v=sdpxddDzXfE",
-      "fx": 255.581298828125,
-      "fy": -233.16389973958343,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [
@@ -122,7 +141,7 @@
       "source": "threats",
       "target": "malware  ️",
       "curve": {
-        "x": 31.2269,
+        "x": 29.7045,
         "y": 58.1456
       }
     },
@@ -146,7 +165,7 @@
       "source": "basics",
       "target": "threats",
       "curve": {
-        "x": -112.092,
+        "x": -110.57,
         "y": 64.4421
       }
     },
@@ -154,7 +173,7 @@
       "source": "threats",
       "target": "cyberattacks",
       "curve": {
-        "x": -91.1466,
+        "x": -92.669,
         "y": 47.2369
       }
     },
@@ -194,8 +213,16 @@
       "source": "exploits",
       "target": "buffer overflow  ️",
       "curve": {
-        "x": 35.5069,
-        "y": 51.9599
+        "x": 69.2929,
+        "y": 53.67
+      }
+    },
+    {
+      "source": "basics",
+      "target": "social engineering  ️",
+      "curve": {
+        "x": -221.922,
+        "y": 32.217
       }
     }
   ]

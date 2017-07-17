@@ -7,19 +7,22 @@
       "url": "http://www.wikiwand.com/en/Version_control",
       "fx": -266.1008811773256,
       "fy": -221.88640079941854,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "options",
       "url": "",
       "fx": -332.6205635070801,
-      "fy": -75.11106872558594
+      "fy": -75.11106872558594,
+      "nodes": []
     },
     {
       "text": "software versioning  ️",
       "url": "/programming/version-control/software-versioning",
       "fx": -200.8829154400246,
       "fy": -74.99255952380958,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +30,7 @@
       "url": "/programming/version-control/git",
       "fx": -552.0103171020917,
       "fy": 32.688321355100186,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +38,7 @@
       "url": "http://www.wikiwand.com/en/Mercurial",
       "fx": -441.25152587890625,
       "fy": 35.939059257507324,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -41,10 +46,10 @@
       "url": "http://www.wikiwand.com/en/Apache_Subversion",
       "fx": -273.1016159057617,
       "fy": 37.87339687347412,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "version control",

@@ -6,32 +6,34 @@
       "text": "composer",
       "url": "https://getcomposer.org/",
       "fx": 128.9414062500001,
-      "fy": -58.98828125
+      "fy": -58.98828125,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/jakoch/awesome-composer",
+          "fx": 318.9414062500001,
+          "fy": -47.48828125,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 145.5,
-      "fy": 79.54296875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/jakoch/awesome-composer",
-      "fx": 318.9414062500001,
-      "fy": -47.48828125,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "composer"
-    },
-    {
-      "text": "1. getting started",
-      "url": "https://getcomposer.org/doc/00-intro.md",
-      "fx": 301.5,
-      "fy": 94.04296875,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 79.54296875,
+      "nodes": [
+        {
+          "text": "1. getting started",
+          "url": "https://getcomposer.org/doc/00-intro.md",
+          "fx": 301.5,
+          "fy": 94.04296875,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

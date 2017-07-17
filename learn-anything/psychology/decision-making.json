@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Decision-making",
       "fx": -112.9921875,
       "fy": -328.30859375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,13 +15,34 @@
       "note": "",
       "url": "",
       "fx": -58.05677406832342,
-      "fy": -196.03988742236032
+      "fy": -196.03988742236032,
+      "nodes": [
+        {
+          "text": "1. thinking, fast and slow",
+          "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+          "fx": 123.94322593167658,
+          "fy": -215.53988742236032,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. effective problem-solving and decision making",
+          "url": "https://www.coursera.org/learn/problem-solving",
+          "fx": 123.94322593167658,
+          "fy": -175.53988742236032,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "consensus decision-making",
       "url": "http://www.wikiwand.com/en/Consensus_decision-making",
       "fx": -372.4427051958829,
       "fy": -77.52082802197941,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,6 +50,7 @@
       "url": "/psychology/decision-making/leadership",
       "fx": 68.943359375,
       "fy": -56.8291015625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,27 +58,8 @@
       "url": "/psychology/decision-making/problem-solving",
       "fx": -132.97408570046525,
       "fy": 44.056399080517735,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. thinking, fast and slow",
-      "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
-      "fx": 123.94322593167658,
-      "fy": -215.53988742236032,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. effective problem-solving and decision making",
-      "url": "https://www.coursera.org/learn/problem-solving",
-      "fx": 123.94322593167658,
-      "fy": -175.53988742236032,
-      "category": "course",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

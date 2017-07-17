@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Computer-aided_design",
       "fx": -264.9367609797297,
       "fy": -175.72589386261248,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,10 +16,10 @@
       "url": "/design/computer-aided-design/autocad",
       "fx": -237.84874718468507,
       "fy": -37.32186092345995,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "computer-aided design",

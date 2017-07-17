@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Friendship",
       "fx": 2.2801159274195015,
       "fy": -70.93623991935488,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 102.02671370967732,
-      "fy": 60.29939516128263
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "the purpose of friendship",
-      "url": "https://www.youtube.com/watch?v=aGedUxTAfBk",
-      "fx": 293.0267137096773,
-      "fy": 71.79939516128263,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "fy": 60.29939516128263,
+      "nodes": [
+        {
+          "text": "the purpose of friendship",
+          "url": "https://www.youtube.com/watch?v=aGedUxTAfBk",
+          "fx": 293.0267137096773,
+          "fy": 71.79939516128263,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

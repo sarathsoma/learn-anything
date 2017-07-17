@@ -7,19 +7,59 @@
       "url": "http://www.wikiwand.com/en/Euclidean_vector",
       "fx": 66.88095643785255,
       "fy": -153.5462947421604,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 124.43608749263831,
-      "fy": -10.162031077851964
+      "fy": -10.162031077851964,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "http://natureofcode.com/book/chapter-1-vectors/",
+          "fx": 280.4360874926383,
+          "fy": -58.662031077851964,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. what are vectors?",
+          "url": "https://www.youtube.com/watch?v=ml4NSzCQobk",
+          "fx": 280.4360874926383,
+          "fy": -18.662031077851964,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. intro to vectors",
+          "url": "http://immersivemath.com/ila/ch02_vectors/ch02.html",
+          "fx": 280.4360874926383,
+          "fy": 21.337968922148036,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. vectors - the math of intelligence",
+          "url": "https://www.youtube.com/watch?v=s0Q3CojqRfM",
+          "fx": 280.4360874926383,
+          "fy": 61.337968922148036,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "dot product  ️",
       "url": "/mathematics/linear-algebra/vectors/dot-product",
       "fx": -42.66049642539281,
       "fy": 149.92129039760596,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +67,7 @@
       "url": "/mathematics/linear-algebra/vectors/vector-space",
       "fx": 151.19780685240949,
       "fy": 152.9462305752752,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +75,7 @@
       "url": "/mathematics/linear-algebra/norm",
       "fx": -445.28721618652344,
       "fy": 153.75390625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +83,7 @@
       "url": "/mathematics/linear-algebra/vectors/cross-product",
       "fx": -247.77734375,
       "fy": 154.6875,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +91,7 @@
       "url": "http://www.wikiwand.com/en/Orthonormality",
       "fx": -653.4606568113771,
       "fy": 155.76758982035938,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -55,45 +99,8 @@
       "url": "/mathematics/linear-algebra/vectors/orthonormal-basis",
       "fx": -769.65625,
       "fy": 275.79296875,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "http://natureofcode.com/book/chapter-1-vectors/",
-      "fx": 280.4360874926383,
-      "fy": -58.662031077851964,
-      "category": "interactive",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. what are vectors?",
-      "url": "https://www.youtube.com/watch?v=ml4NSzCQobk",
-      "fx": 280.4360874926383,
-      "fy": -18.662031077851964,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. intro to vectors",
-      "url": "http://immersivemath.com/ila/ch02_vectors/ch02.html",
-      "fx": 280.4360874926383,
-      "fy": 21.337968922148036,
-      "category": "interactive",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. vectors - the math of intelligence",
-      "url": "https://www.youtube.com/watch?v=s0Q3CojqRfM",
-      "fx": 280.4360874926383,
-      "fy": 61.337968922148036,
-      "category": "video",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -7,33 +7,34 @@
       "url": "http://www.wikiwand.com/en/Numerical_method",
       "fx": 73.69140625,
       "fy": -86.37109375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 147.79012784090912,
-      "fy": 68.10564207927496
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. numerical vs analytical methods",
-      "url": "https://www.youtube.com/watch?v=KjBCjVAobVs",
-      "fx": 310.7901278409091,
-      "fy": 34.60564207927496,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to numerical methods",
-      "url": "https://www.math.ust.hk/~machas/numerical-methods.pdf",
-      "fx": 310.7901278409091,
-      "fy": 101.60564207927496,
-      "category": "free book",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
+      "fy": 68.10564207927496,
+      "nodes": [
+        {
+          "text": "1. numerical vs analytical methods",
+          "url": "https://www.youtube.com/watch?v=KjBCjVAobVs",
+          "fx": 310.7901278409091,
+          "fy": 34.60564207927496,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. introduction to numerical methods",
+          "url": "https://www.math.ust.hk/~machas/numerical-methods.pdf",
+          "fx": 310.7901278409091,
+          "fy": 101.60564207927496,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -8,25 +8,111 @@
       "url": "http://www.wikiwand.com/en/Drug",
       "fx": -307.8574857666234,
       "fy": -989.4407188482672,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Drugs/",
+          "fx": -102.85748576662343,
+          "fy": -995.4407188482672,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "drug nerds",
+          "url": "https://www.reddit.com/r/DrugNerds/",
+          "fx": -102.85748576662343,
+          "fy": -955.4407188482672,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": -160.27601336050725,
-      "fy": -863.9727083929253
+      "fy": -863.9727083929253,
+      "nodes": [
+        {
+          "text": "erowid",
+          "url": "https://www.erowid.org/splash.php",
+          "fx": -23.27601336050725,
+          "fy": -866.4727083929253,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "psychonaut wiki",
+          "url": "https://psychonautwiki.org/wiki/Main_Page",
+          "fx": -23.27601336050725,
+          "fy": -832.4727083929253,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 2.301349128166976,
-      "fy": -765.9570421395231
+      "fy": -765.9570421395231,
+      "nodes": [
+        {
+          "text": "Bill Hicks - positive drug story",
+          "url": "https://www.youtube.com/watch?v=VnwFmaLiKl4",
+          "fx": 193.30134912816698,
+          "fy": -754.4570421395231,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -303.4699468988081,
-      "fy": -606.6251399985274
+      "fy": -606.6251399985274,
+      "nodes": [
+        {
+          "text": "1. why the war on drugs is a huge failure",
+          "url": "https://www.youtube.com/watch?v=wJUXLqNHCaI",
+          "fx": -147.46994689880808,
+          "fy": -674.1251399985274,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. drugged: the science and culture behind psychotropic drugs",
+          "url": "http://www.goodreads.com/book/show/17847528-drugged",
+          "fx": -147.46994689880808,
+          "fy": -612.1251399985274,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. drugs and the brain",
+          "url": "https://www.coursera.org/learn/drugs-and-brain",
+          "fx": -147.46994689880808,
+          "fy": -556.1251399985274,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "2. overview of all drugs",
+          "url": "https://www.reddit.com/r/Drugs/wiki/drugs",
+          "fx": -147.46994689880808,
+          "fy": -516.1251399985274,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "psychedelic drugs  ️",
@@ -34,6 +120,7 @@
       "url": "/chemistry/drugs/psychedelic",
       "fx": -214.17542157313335,
       "fy": -390.69754859618683,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +128,7 @@
       "url": "/chemistry/drugs/stimulants",
       "fx": -406.7233935101233,
       "fy": -387.02884523608145,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +137,7 @@
       "url": "/chemistry/drugs/nootropics",
       "fx": -633.339148974125,
       "fy": -384.86690305356746,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,87 +145,8 @@
       "url": "/chemistry/drugs/antibiotics",
       "fx": -811.7073076175055,
       "fy": -384.3443129708435,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Drugs/",
-      "fx": -102.85748576662343,
-      "fy": -995.4407188482672,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "drugs"
-    },
-    {
-      "text": "drug nerds",
-      "url": "https://www.reddit.com/r/DrugNerds/",
-      "fx": -102.85748576662343,
-      "fy": -955.4407188482672,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "drugs"
-    },
-    {
-      "text": "erowid",
-      "url": "https://www.erowid.org/splash.php",
-      "fx": -23.27601336050725,
-      "fy": -866.4727083929253,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "psychonaut wiki",
-      "url": "https://psychonautwiki.org/wiki/Main_Page",
-      "fx": -23.27601336050725,
-      "fy": -832.4727083929253,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "Bill Hicks - positive drug story",
-      "url": "https://www.youtube.com/watch?v=VnwFmaLiKl4",
-      "fx": 193.30134912816698,
-      "fy": -754.4570421395231,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. why the war on drugs is a huge failure",
-      "url": "https://www.youtube.com/watch?v=wJUXLqNHCaI",
-      "fx": -147.46994689880808,
-      "fy": -674.1251399985274,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. drugged: the science and culture behind psychotropic drugs",
-      "url": "http://www.goodreads.com/book/show/17847528-drugged",
-      "fx": -147.46994689880808,
-      "fy": -612.1251399985274,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. drugs and the brain",
-      "url": "https://www.coursera.org/learn/drugs-and-brain",
-      "fx": -147.46994689880808,
-      "fy": -556.1251399985274,
-      "category": "course",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. overview of all drugs",
-      "url": "https://www.reddit.com/r/Drugs/wiki/drugs",
-      "fx": -147.46994689880808,
-      "fy": -516.1251399985274,
-      "category": "reddit",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

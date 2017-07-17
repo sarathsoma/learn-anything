@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Virtualization",
       "fx": -68.67455150462968,
       "fy": -160.44654224537044,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -29.202112268518363,
-      "fy": -30.052662037037067
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. an introduction to virtualisation  ️",
-      "url": "http://www.kernelthread.com/publications/virtualization/",
-      "fx": 126.79788773148164,
-      "fy": -18.552662037037067,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -30.052662037037067,
+      "nodes": [
+        {
+          "text": "1. an introduction to virtualisation  ️",
+          "url": "http://www.kernelthread.com/publications/virtualization/",
+          "fx": 126.79788773148164,
+          "fy": -18.552662037037067,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

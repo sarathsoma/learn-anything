@@ -7,38 +7,119 @@
       "url": "http://www.wikiwand.com/en/Type_theory",
       "fx": 76.0546875,
       "fy": -145.72265625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 248.92194065868046,
-      "fy": -57.34085010908001
+      "fy": -57.34085010908001,
+      "nodes": [
+        {
+          "text": "homotopy type theory: univalent foundations of mathematics",
+          "url": "http://perimeterinstitute.ca/personal/tfritz/2014/hott.html",
+          "fx": 385.92194065868046,
+          "fy": -53.84085010908001,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 335.80009230193446,
-      "fy": 44.73074296773956
+      "fy": 44.73074296773956,
+      "nodes": [
+        {
+          "text": "12: type safety in five easy lemmas  ️",
+          "url": "http://siek.blogspot.nl/2012/08/type-safety-in-five-easy-lemmas.html",
+          "fx": 497.80009230193446,
+          "fy": 45.23074296773956,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "talks",
       "url": "",
       "fx": 620.5038343282561,
-      "fy": 140.41161716052954
+      "fy": 140.41161716052954,
+      "nodes": [
+        {
+          "text": "16: truth about types",
+          "url": "https://www.youtube.com/watch?v=dgrucfgv2Tw",
+          "fx": 760.5038343282561,
+          "fy": 151.91161716052954,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 47.27893698240166,
-      "fy": 247.611057194617
+      "fy": 247.611057194617,
+      "nodes": [
+        {
+          "text": "1. where to start learning type theory  ️",
+          "url": "http://purelytheoretical.com/sywtltt.html",
+          "fx": 229.27893698240166,
+          "fy": 157.111057194617,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. proofs and types",
+          "url": "http://www.paultaylor.eu/stable/prot.pdf",
+          "fx": 229.27893698240166,
+          "fy": 219.111057194617,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. type theory and functional programming",
+          "url": "https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/",
+          "fx": 229.27893698240166,
+          "fy": 259.111057194617,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. propositions as types",
+          "url": "http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf",
+          "fx": 229.27893698240166,
+          "fy": 321.111057194617,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. introduction to type theory",
+          "url": "http://www.cs.ru.nl/~herman/PUBS/IntroTT-improved.pdf",
+          "fx": 229.27893698240166,
+          "fy": 361.111057194617,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ]
     },
     {
       "text": "polymorphism  ️",
       "url": "/mathematics/type-theory/polymorphism",
       "fx": -419.9552735201776,
       "fy": 440.39064704741065,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -46,6 +127,7 @@
       "url": "/mathematics/type-theory/algebraic-data-types",
       "fx": -216.98556341832983,
       "fy": 441.1125891313719,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -53,6 +135,7 @@
       "url": "http://www.wikiwand.com/en/Intuitionistic_type_theory",
       "fx": 49.88557463201778,
       "fy": 442.2762843223785,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -60,6 +143,7 @@
       "url": "/mathematics/type-theory/homotopy-type-theory",
       "fx": -104.29886896793948,
       "fy": 553.244509542734,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -67,80 +151,8 @@
       "url": "/mathematics/type-theory/dependent-type-theory",
       "fx": 179.28145968801834,
       "fy": 554.7874462246291,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "homotopy type theory: univalent foundations of mathematics",
-      "url": "http://perimeterinstitute.ca/personal/tfritz/2014/hott.html",
-      "fx": 385.92194065868046,
-      "fy": -53.84085010908001,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "12: type safety in five easy lemmas  ️",
-      "url": "http://siek.blogspot.nl/2012/08/type-safety-in-five-easy-lemmas.html",
-      "fx": 497.80009230193446,
-      "fy": 45.23074296773956,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "16: truth about types",
-      "url": "https://www.youtube.com/watch?v=dgrucfgv2Tw",
-      "fx": 760.5038343282561,
-      "fy": 151.91161716052954,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "talks"
-    },
-    {
-      "text": "1. where to start learning type theory  ️",
-      "url": "http://purelytheoretical.com/sywtltt.html",
-      "fx": 229.27893698240166,
-      "fy": 157.111057194617,
-      "category": "article",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. proofs and types",
-      "url": "http://www.paultaylor.eu/stable/prot.pdf",
-      "fx": 229.27893698240166,
-      "fy": 219.111057194617,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. type theory and functional programming",
-      "url": "https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/",
-      "fx": 229.27893698240166,
-      "fy": 259.111057194617,
-      "category": "non-free book",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. propositions as types",
-      "url": "http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf",
-      "fx": 229.27893698240166,
-      "fy": 321.111057194617,
-      "category": "paper",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to type theory",
-      "url": "http://www.cs.ru.nl/~herman/PUBS/IntroTT-improved.pdf",
-      "fx": 229.27893698240166,
-      "fy": 361.111057194617,
-      "category": "paper",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

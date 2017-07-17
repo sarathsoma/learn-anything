@@ -7,6 +7,17 @@
       "url": "http://www.wikiwand.com/en/Graphics_processing_unit",
       "fx": -31.22998598737263,
       "fy": -81.8076899513718,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/graphicscard/",
+          "fx": 139.77001401262737,
+          "fy": -67.8076899513718,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,7 +25,18 @@
       "note": "",
       "url": "",
       "fx": -40.658501848377796,
-      "fy": 52.44430536540807
+      "fy": 52.44430536540807,
+      "nodes": [
+        {
+          "text": "1. what is a GPU",
+          "url": "https://www.youtube.com/watch?v=0_TN845dxUU",
+          "fx": 141.3414981516222,
+          "fy": 63.94430536540807,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "CUDA  ️",
@@ -22,6 +44,7 @@
       "url": "/computer-hardware/computer/gpu/cuda",
       "fx": 20.633384327935687,
       "fy": 171.19776482671853,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,27 +52,8 @@
       "url": "/computer-hardware/computer/gpu/opencl",
       "fx": -172.28014539863005,
       "fy": 191.28849560105834,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/graphicscard/",
-      "fx": 139.77001401262737,
-      "fy": -67.8076899513718,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "GPU"
-    },
-    {
-      "text": "1. what is a GPU",
-      "url": "https://www.youtube.com/watch?v=0_TN845dxUU",
-      "fx": 141.3414981516222,
-      "fy": 63.94430536540807,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

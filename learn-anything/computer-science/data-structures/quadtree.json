@@ -7,39 +7,42 @@
       "url": "http://www.wikiwand.com/en/Quadtree",
       "fx": -156.21484375,
       "fy": -282.953125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": -6.412629570976037,
-      "fy": -181.3098235994962
+      "fy": -181.3098235994962,
+      "nodes": [
+        {
+          "text": "computer art based on quadtrees",
+          "url": "https://github.com/fogleman/Quads",
+          "fx": 184.58737042902396,
+          "fy": -169.8098235994962,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -137.18878321256034,
-      "fy": -65.54398777173913
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "computer art based on quadtrees",
-      "url": "https://github.com/fogleman/Quads",
-      "fx": 184.58737042902396,
-      "fy": -169.8098235994962,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. interactive explanation",
-      "url": "http://jimkang.com/quadtreevis/",
-      "fx": 18.811216787439662,
-      "fy": -54.043987771739125,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -65.54398777173913,
+      "nodes": [
+        {
+          "text": "1. interactive explanation",
+          "url": "http://jimkang.com/quadtreevis/",
+          "fx": 18.811216787439662,
+          "fy": -54.043987771739125,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

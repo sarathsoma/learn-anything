@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Universal_composability",
       "fx": 42.11328125,
       "fy": -317.94921875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 132.140625,
-      "fy": -137.89453125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. universally compassable security: a new paradigm for cryptographic protocols",
-      "url": "https://eprint.iacr.org/2000/067.pdf",
-      "fx": 295.140625,
-      "fy": -150.39453125,
-      "category": "paper",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -137.89453125,
+      "nodes": [
+        {
+          "text": "1. universally compassable security: a new paradigm for cryptographic protocols",
+          "url": "https://eprint.iacr.org/2000/067.pdf",
+          "fx": 295.140625,
+          "fy": -150.39453125,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

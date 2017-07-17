@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Navier%E2%80%93Stokes_equations",
       "fx": 70.21484375,
       "fy": -93.55859375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 158.75390625,
-      "fy": 44
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. applying the Navier-Stokes equations",
-      "url": "https://www.youtube.com/watch?v=xLQNqwPUuN4",
-      "fx": 314.75390625,
-      "fy": 44.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 44,
+      "nodes": [
+        {
+          "text": "1. applying the Navier-Stokes equations",
+          "url": "https://www.youtube.com/watch?v=xLQNqwPUuN4",
+          "fx": 314.75390625,
+          "fy": 44.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

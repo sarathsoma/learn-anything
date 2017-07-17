@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Knowledge_representation_and_reasoning",
       "fx": 240.1953125,
       "fy": -224.8359375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/artificial-intelligence/knowledge-representation-and-reasoning/description-logic",
       "fx": 191.04296875,
       "fy": -66.94140625,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "knowledge representation and reasoning",

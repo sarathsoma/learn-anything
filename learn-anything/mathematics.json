@@ -7,6 +7,35 @@
       "url": "https://www.wikiwand.com/en/Mathematics",
       "fx": 771.1052692980331,
       "fy": -1349.613547709739,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/math/",
+          "fx": 1029.1052692980331,
+          "fy": -1377.613547709739,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://math.stackexchange.com/",
+          "fx": 1029.1052692980331,
+          "fy": -1335.613547709739,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/rossant/awesome-math",
+          "fx": 1029.1052692980331,
+          "fy": -1293.613547709739,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,13 +43,202 @@
       "note": "",
       "url": "",
       "fx": 793.0625296907479,
-      "fy": -1157.6028725760323
+      "fy": -1157.6028725760323,
+      "nodes": [
+        {
+          "text": "1. map of mathematics",
+          "note": "this will give you an overview of how vast the field is and will spark your interest",
+          "url": "https://www.youtube.com/watch?v=OmJ-4B-mS-Y",
+          "fx": 982.0625296907479,
+          "fy": -1220.6028725760323,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. what does it feel to invent math?",
+          "url": "https://www.youtube.com/watch?v=XFDM1ip5HdU",
+          "fx": 982.0625296907479,
+          "fy": -1178.6028725760323,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "2. khan academy math",
+          "note": "cover everything, fast forward videos as that may save time, just make sure to not lose on comprehension and rewatch or google phrases and parts that you don’t understand  do the exercises, they are very important",
+          "url": "https://www.khanacademy.org/math",
+          "fx": 982.0625296907479,
+          "fy": -1111.6028725760323,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "2. how to read mathematics  ️",
+          "url": "http://web.stonehill.edu/compsci/History_Math/math-read.htm",
+          "fx": 982.0625296907479,
+          "fy": -1069.6028725760323,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(252, 177, 20, 1.0)"
+        }
+      ]
     },
     {
       "text": "help",
       "url": "",
       "fx": 1342.4547424316406,
-      "fy": -992.4034729003906
+      "fy": -992.4034729003906,
+      "nodes": [
+        {
+          "text": "napkin project",
+          "url": "http://web.evanchen.cc/napkin.html",
+          "fx": 1483.4547424316406,
+          "fy": -1358.4034729003906,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "undergraduate mathematics bibliography",
+          "note": "annotated bibliography of books that may be useful to undergraduates in pure mathematics",
+          "url": "https://github.com/ystael/chicago-ug-math-bib",
+          "fx": 1483.4547424316406,
+          "fy": -1321.4034729003906,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "how to become a pure mathematician",
+          "url": "http://hbpms.blogspot.nl/",
+          "fx": 1483.4547424316406,
+          "fy": -1254.4034729003906,
+          "nodes": [],
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "better explained",
+          "url": "https://betterexplained.com/",
+          "fx": 1483.4547424316406,
+          "fy": -1192.4034729003906,
+          "nodes": [],
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "world of mathematics",
+          "url": "http://world.mathigon.org/",
+          "fx": 1483.4547424316406,
+          "fy": -1155.4034729003906,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "math insight",
+          "url": "http://mathinsight.org/",
+          "fx": 1483.4547424316406,
+          "fy": -1113.4034729003906,
+          "nodes": [],
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "audio/video courses and lectures on math  ️",
+          "url": "http://www.infocobuild.com/education/audio-video-courses/mathematics/mathematics.html",
+          "fx": 1483.4547424316406,
+          "fy": -1076.4034729003906,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "free and open-source textbooks  ️",
+          "url": "https://dcernst.github.io/resources/free-and-open-source-textbooks/",
+          "fx": 1483.4547424316406,
+          "fy": -1009.4034729003906,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "explained visually",
+          "url": "http://setosa.io/ev/",
+          "fx": 1483.4547424316406,
+          "fy": -942.4034729003906,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "math concepts map",
+          "url": "https://fkcd.ca/bHd.svg",
+          "fx": 1483.4547424316406,
+          "fy": -900.4034729003906,
+          "nodes": [],
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "map of the Tricki",
+          "note": "quick solutions to problems",
+          "url": "http://www.tricki.org/tricki/map",
+          "fx": 1483.4547424316406,
+          "fy": -863.4034729003906,
+          "nodes": [],
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "for potential PhD students  ️",
+          "url": "http://math.stanford.edu/%7Evakil/potentialstudents.html",
+          "fx": 1483.4547424316406,
+          "fy": -826.4034729003906,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "math with python",
+          "url": "https://github.com/calebmadrigal/math-with-python",
+          "fx": 1483.4547424316406,
+          "fy": -784.4034729003906,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "online mathematics text books",
+          "url": "http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html",
+          "fx": 1483.4547424316406,
+          "fy": -742.4034729003906,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "geometric representation of math",
+          "url": "http://nada.kth.se/%7Eaxelhu/mapthematics.pdf",
+          "fx": 1483.4547424316406,
+          "fy": -705.4034729003906,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "Fermat’s library",
+          "url": "http://fermatslibrary.com/",
+          "fx": 1483.4547424316406,
+          "fy": -638.4034729003906,
+          "nodes": [],
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "tips on reading mathematics",
+          "url": "https://www.reddit.com/r/math/comments/51bs9t/tips_on_reading_mathematics/",
+          "fx": 1483.4547424316406,
+          "fy": -601.4034729003906,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(255, 254, 60, 1.0)"
+        }
+      ]
     },
     {
       "text": "algebra  ️",
@@ -28,6 +246,7 @@
       "url": "/mathematics/algebra",
       "fx": 7.4333900529810535,
       "fy": -701.3892412953594,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,6 +255,7 @@
       "url": "/mathematics/discrete",
       "fx": -472.2006738386225,
       "fy": -700.8802088553005,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,6 +263,7 @@
       "url": "/mathematics/math-notation",
       "fx": -728.8042271670251,
       "fy": -699.9164448777393,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -50,6 +271,7 @@
       "url": "/mathematics/mathematical-models",
       "fx": -284.84398022651624,
       "fy": -699.850020432754,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -58,6 +280,7 @@
       "url": "/mathematics/analysis",
       "fx": 710.1894518520633,
       "fy": -698.7951128687005,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -66,6 +289,7 @@
       "url": "/mathematics/statistics",
       "fx": 925.4689220510893,
       "fy": -694.3582902770688,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -73,6 +297,7 @@
       "url": "/mathematics/dynamical-system",
       "fx": 194.78552455783165,
       "fy": -691.0262915129151,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -81,6 +306,7 @@
       "url": "/mathematics/logic",
       "fx": 464.0134407089936,
       "fy": -690.7349536344542,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -89,6 +315,7 @@
       "url": "/mathematics/geometry",
       "fx": 1132.4214818200398,
       "fy": -688.2347308018408,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -97,6 +324,7 @@
       "url": "/mathematics/graph-theory",
       "fx": -509.4862060546875,
       "fy": -608.3034133911133,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -105,6 +333,7 @@
       "url": "/mathematics/combinatorics",
       "fx": -753.6360626220703,
       "fy": -604.5443344116211,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -112,6 +341,7 @@
       "url": "/mathematics/type-theory",
       "fx": 284.3824691772461,
       "fy": -598.522834777832,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -120,6 +350,7 @@
       "url": "/mathematics/category-theory",
       "fx": -209.8684196472168,
       "fy": -596.7182159423828,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -128,6 +359,7 @@
       "url": "/mathematics/linear-algebra",
       "fx": 49.263938903808594,
       "fy": -596.1403274536133,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -135,6 +367,7 @@
       "url": "/mathematics/optimisation",
       "fx": 944.3952604375748,
       "fy": -591.4730675521163,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -143,6 +376,7 @@
       "url": "/mathematics/set-theory",
       "fx": 473.5049819946289,
       "fy": -589.5644760131836,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -151,6 +385,7 @@
       "url": "/mathematics/calculus",
       "fx": 677.3332907229048,
       "fy": -584.4835300481726,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -159,6 +394,7 @@
       "url": "/mathematics/topology",
       "fx": 1161.0161437988281,
       "fy": -576.822265625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -166,6 +402,7 @@
       "url": "/mathematics/computability-theory",
       "fx": 521.7273712158203,
       "fy": -518.3064880371094,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -173,19 +410,40 @@
       "url": "/mathematics/model-theory",
       "fx": 295.03612354877805,
       "fy": -510.33278659917653,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "tools",
       "url": "",
       "fx": 1453.1666259765625,
-      "fy": -507.17493438720703
+      "fy": -507.17493438720703,
+      "nodes": [
+        {
+          "text": "wolfram alpha",
+          "url": "https://www.wolframalpha.com/",
+          "fx": 1599.1666259765625,
+          "fy": -513.174934387207,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "math live playground",
+          "url": "https://mathlive.io/sprint14/index.html",
+          "fx": 1599.1666259765625,
+          "fy": -471.17493438720703,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     },
     {
       "text": "number theory  ️",
       "url": "/mathematics/number-theory",
       "fx": -46.26789449139517,
       "fy": -506.8174197806453,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -193,6 +451,7 @@
       "url": "/mathematics/ergodic-theory",
       "fx": 886.6244842768078,
       "fy": -488.68555936421694,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -200,6 +459,7 @@
       "url": "/mathematics/knot-theory",
       "fx": 1133.0492410138213,
       "fy": -466.3836433569845,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -208,6 +468,7 @@
       "url": "/mathematics/lambda-calculus",
       "fx": 488.32311248779297,
       "fy": -414.95033264160156,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -215,322 +476,105 @@
       "url": "/mathematics/chaos-theory",
       "fx": 754.4729614257812,
       "fy": -405.7981872558594,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 1612.8286743164062,
-      "fy": -233.26678466796875
+      "fy": -233.26678466796875,
+      "nodes": [
+        {
+          "text": "there’s more to mathematics than rigour and proofs  ️",
+          "url": "https://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/",
+          "fx": 1781.8286743164062,
+          "fy": -434.26678466796875,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "does one have to be a genius to do maths?  ️",
+          "url": "https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/",
+          "fx": 1781.8286743164062,
+          "fy": -367.26678466796875,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "16: toward an exploratory medium for mathematics  ️",
+          "url": "http://cognitivemedium.com/emm/emm.html",
+          "fx": 1781.8286743164062,
+          "fy": -300.26678466796875,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "how to play mathematics  ️",
+          "url": "https://aeon.co/essays/theres-more-maths-in-slugs-and-corals-than-we-can-think-of",
+          "fx": 1781.8286743164062,
+          "fy": -233.26678466796875,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "the unreasonable effectiveness of mathematics in the natural sciences  ️",
+          "url": "",
+          "fx": 1781.8286743164062,
+          "fy": -191.26678466796875,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "the reasonable ineffectiveness of mathematics  ️",
+          "url": "https://pdfs.semanticscholar.org/462d/7b6b1ee8243b6aa8897be3cf306239fb43c6.pdf",
+          "fx": 1781.8286743164062,
+          "fy": -99.26678466796875,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "John Conway: genius behind the numbers  ️",
+          "url": "https://www.52-insights.com/john-conway-genius-behind-the-numbers/",
+          "fx": 1781.8286743164062,
+          "fy": -32.26678466796875,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 1725.2167053222656,
-      "fy": 113.19177985191345
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/math/",
-      "fx": 1029.1052692980331,
-      "fy": -1377.613547709739,
-      "category": "reddit",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "mathematics"
-    },
-    {
-      "text": "️",
-      "url": "https://math.stackexchange.com/",
-      "fx": 1029.1052692980331,
-      "fy": -1335.613547709739,
-      "category": "stack exchange",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "mathematics"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/rossant/awesome-math",
-      "fx": 1029.1052692980331,
-      "fy": -1293.613547709739,
-      "category": "github",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "mathematics"
-    },
-    {
-      "text": "1. map of mathematics",
-      "note": "this will give you an overview of how vast the field is and will spark your interest",
-      "url": "https://www.youtube.com/watch?v=OmJ-4B-mS-Y",
-      "fx": 982.0625296907479,
-      "fy": -1220.6028725760323,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. what does it feel to invent math?",
-      "url": "https://www.youtube.com/watch?v=XFDM1ip5HdU",
-      "fx": 982.0625296907479,
-      "fy": -1178.6028725760323,
-      "category": "video",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. khan academy math",
-      "note": "cover everything, fast forward videos as that may save time, just make sure to not lose on comprehension and rewatch or google phrases and parts that you don’t understand  do the exercises, they are very important",
-      "url": "https://www.khanacademy.org/math",
-      "fx": 982.0625296907479,
-      "fy": -1111.6028725760323,
-      "category": "video",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. how to read mathematics  ️",
-      "url": "http://web.stonehill.edu/compsci/History_Math/math-read.htm",
-      "fx": 982.0625296907479,
-      "fy": -1069.6028725760323,
-      "category": "article",
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "napkin project",
-      "url": "http://web.evanchen.cc/napkin.html",
-      "fx": 1483.4547424316406,
-      "fy": -1358.4034729003906,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "undergraduate mathematics bibliography",
-      "note": "annotated bibliography of books that may be useful to undergraduates in pure mathematics",
-      "url": "https://github.com/ystael/chicago-ug-math-bib",
-      "fx": 1483.4547424316406,
-      "fy": -1321.4034729003906,
-      "category": "github",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "how to become a pure mathematician",
-      "url": "http://hbpms.blogspot.nl/",
-      "fx": 1483.4547424316406,
-      "fy": -1254.4034729003906,
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "better explained",
-      "url": "https://betterexplained.com/",
-      "fx": 1483.4547424316406,
-      "fy": -1192.4034729003906,
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "world of mathematics",
-      "url": "http://world.mathigon.org/",
-      "fx": 1483.4547424316406,
-      "fy": -1155.4034729003906,
-      "category": "interactive",
-      "color": "rgba(255, 254, 60, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "math insight",
-      "url": "http://mathinsight.org/",
-      "fx": 1483.4547424316406,
-      "fy": -1113.4034729003906,
-      "color": "rgba(169, 255, 0, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "audio/video courses and lectures on math  ️",
-      "url": "http://www.infocobuild.com/education/audio-video-courses/mathematics/mathematics.html",
-      "fx": 1483.4547424316406,
-      "fy": -1076.4034729003906,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "free and open-source textbooks  ️",
-      "url": "https://dcernst.github.io/resources/free-and-open-source-textbooks/",
-      "fx": 1483.4547424316406,
-      "fy": -1009.4034729003906,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "explained visually",
-      "url": "http://setosa.io/ev/",
-      "fx": 1483.4547424316406,
-      "fy": -942.4034729003906,
-      "category": "interactive",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "math concepts map",
-      "url": "https://fkcd.ca/bHd.svg",
-      "fx": 1483.4547424316406,
-      "fy": -900.4034729003906,
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "map of the Tricki",
-      "note": "quick solutions to problems",
-      "url": "http://www.tricki.org/tricki/map",
-      "fx": 1483.4547424316406,
-      "fy": -863.4034729003906,
-      "color": "rgba(255, 254, 60, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "for potential PhD students  ️",
-      "url": "http://math.stanford.edu/%7Evakil/potentialstudents.html",
-      "fx": 1483.4547424316406,
-      "fy": -826.4034729003906,
-      "category": "article",
-      "color": "rgba(169, 255, 0, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "math with python",
-      "url": "https://github.com/calebmadrigal/math-with-python",
-      "fx": 1483.4547424316406,
-      "fy": -784.4034729003906,
-      "category": "github",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "online mathematics text books",
-      "url": "http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html",
-      "fx": 1483.4547424316406,
-      "fy": -742.4034729003906,
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "geometric representation of math",
-      "url": "http://nada.kth.se/%7Eaxelhu/mapthematics.pdf",
-      "fx": 1483.4547424316406,
-      "fy": -705.4034729003906,
-      "category": "image",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "Fermat’s library",
-      "url": "http://fermatslibrary.com/",
-      "fx": 1483.4547424316406,
-      "fy": -638.4034729003906,
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "tips on reading mathematics",
-      "url": "https://www.reddit.com/r/math/comments/51bs9t/tips_on_reading_mathematics/",
-      "fx": 1483.4547424316406,
-      "fy": -601.4034729003906,
-      "category": "reddit",
-      "color": "rgba(255, 254, 60, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "wolfram alpha",
-      "url": "https://www.wolframalpha.com/",
-      "fx": 1599.1666259765625,
-      "fy": -513.174934387207,
-      "category": "interactive",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "math live playground",
-      "url": "https://mathlive.io/sprint14/index.html",
-      "fx": 1599.1666259765625,
-      "fy": -471.17493438720703,
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "there’s more to mathematics than rigour and proofs  ️",
-      "url": "https://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/",
-      "fx": 1781.8286743164062,
-      "fy": -434.26678466796875,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "does one have to be a genius to do maths?  ️",
-      "url": "https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/",
-      "fx": 1781.8286743164062,
-      "fy": -367.26678466796875,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "16: toward an exploratory medium for mathematics  ️",
-      "url": "http://cognitivemedium.com/emm/emm.html",
-      "fx": 1781.8286743164062,
-      "fy": -300.26678466796875,
-      "category": "article",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "how to play mathematics  ️",
-      "url": "https://aeon.co/essays/theres-more-maths-in-slugs-and-corals-than-we-can-think-of",
-      "fx": 1781.8286743164062,
-      "fy": -233.26678466796875,
-      "category": "article",
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "the unreasonable effectiveness of mathematics in the natural sciences  ️",
-      "url": "",
-      "fx": 1781.8286743164062,
-      "fy": -191.26678466796875,
-      "category": "article",
-      "color": "rgba(255, 254, 60, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "the reasonable ineffectiveness of mathematics  ️",
-      "url": "https://pdfs.semanticscholar.org/462d/7b6b1ee8243b6aa8897be3cf306239fb43c6.pdf",
-      "fx": 1781.8286743164062,
-      "fy": -99.26678466796875,
-      "category": "article",
-      "color": "rgba(169, 255, 0, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "John Conway: genius behind the numbers  ️",
-      "url": "https://www.52-insights.com/john-conway-genius-behind-the-numbers/",
-      "fx": 1781.8286743164062,
-      "fy": -32.26678466796875,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "math album",
-      "url": "http://imgur.com/a/hmK2C",
-      "fx": 1924.2167053222656,
-      "fy": 125.69177985191345,
-      "category": "image",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
+      "fy": 113.19177985191345,
+      "nodes": [
+        {
+          "text": "math album",
+          "url": "http://imgur.com/a/hmK2C",
+          "fx": 1924.2167053222656,
+          "fy": 104.69177985191345,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "geometric math",
+          "url": "http://imgur.com/a/7ThWP",
+          "fx": 1924.2167053222656,
+          "fy": 146.69177985191345,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

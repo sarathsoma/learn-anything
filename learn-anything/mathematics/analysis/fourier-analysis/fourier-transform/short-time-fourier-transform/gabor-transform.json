@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Gabor_transform",
       "fx": 168.7261225469282,
       "fy": -207.0628866254266,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 231.31058020477792,
-      "fy": -57.80546075080781
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=xtFqBYY48FQ",
-      "fx": 394.3105802047779,
-      "fy": -45.30546075080781,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -57.80546075080781,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=xtFqBYY48FQ",
+          "fx": 394.3105802047779,
+          "fy": -45.30546075080781,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

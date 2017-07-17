@@ -7,32 +7,95 @@
       "url": "http://www.wikiwand.com/en/Graphic_design",
       "fx": -56.51754032258066,
       "fy": -378.74082661290316,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/graphic_design/",
+          "fx": 202.48245967741934,
+          "fy": -384.74082661290316,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://graphicdesign.stackexchange.com/",
+          "fx": 202.48245967741934,
+          "fy": -344.7408266129032,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 131.57580348423562,
-      "fy": -266.36627987452914
+      "fy": -266.36627987452914,
+      "nodes": [
+        {
+          "text": "17: 10 basic principles of visual design  ️",
+          "url": "https://blog.prototypr.io/10-basic-principles-of-visual-design-55b86b9f7241",
+          "fx": 293.5758034842356,
+          "fy": -265.86627987452914,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 435.55149405343195,
-      "fy": -166.08596365792403
+      "fy": -166.08596365792403,
+      "nodes": [
+        {
+          "text": "vector icon speed runs",
+          "url": "https://imgur.com/a/4scqU",
+          "fx": 626.551494053432,
+          "fy": -154.58596365792403,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -33.61958360671997,
-      "fy": -49.98576545715332
+      "fy": -49.98576545715332,
+      "nodes": [
+        {
+          "text": "1. beginners guide to graphic design",
+          "url": "https://www.youtube.com/watch?v=WONZVnlam6U&amp;list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn",
+          "fx": 148.38041639328003,
+          "fy": -69.48576545715332,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. elements of typographic style",
+          "url": "https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style",
+          "fx": 148.38041639328003,
+          "fy": -7.48576545715332,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "photoshop  ️",
       "url": "/design/graphic-design/photoshop",
       "fx": -160.2972472685925,
       "fy": 159.18196473234673,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +103,7 @@
       "url": "/design/graphic-design/sketch",
       "fx": 26.942776892090137,
       "fy": 159.73367585155245,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,63 +111,8 @@
       "url": "/design/graphic-design/adobe-illustrator",
       "fx": -387.23923365724386,
       "fy": 161.69959143109543,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/graphic_design/",
-      "fx": 202.48245967741934,
-      "fy": -384.74082661290316,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "graphic design"
-    },
-    {
-      "text": "️",
-      "url": "https://graphicdesign.stackexchange.com/",
-      "fx": 202.48245967741934,
-      "fy": -344.7408266129032,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "graphic design"
-    },
-    {
-      "text": "17: 10 basic principles of visual design  ️",
-      "url": "https://blog.prototypr.io/10-basic-principles-of-visual-design-55b86b9f7241",
-      "fx": 293.5758034842356,
-      "fy": -265.86627987452914,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "vector icon speed runs",
-      "url": "https://imgur.com/a/4scqU",
-      "fx": 626.551494053432,
-      "fy": -154.58596365792403,
-      "category": "image",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. beginners guide to graphic design",
-      "url": "https://www.youtube.com/watch?v=WONZVnlam6U&amp;list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn",
-      "fx": 148.38041639328003,
-      "fy": -69.48576545715332,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. elements of typographic style",
-      "url": "https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style",
-      "fx": 148.38041639328003,
-      "fy": -7.48576545715332,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

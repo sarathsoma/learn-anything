@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Model_selection",
       "fx": -107.2109375,
       "fy": -326.578125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -52.3984375,
-      "fy": -200.07421875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. notes on model selection  ️",
-      "url": "http://frnsys.com/ai_notes/machine_learning/model_selection.html",
-      "fx": 103.6015625,
-      "fy": -188.57421875,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -200.07421875,
+      "nodes": [
+        {
+          "text": "1. notes on model selection  ️",
+          "url": "http://frnsys.com/ai_notes/machine_learning/model_selection.html",
+          "fx": 103.6015625,
+          "fy": -188.57421875,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

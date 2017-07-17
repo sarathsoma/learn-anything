@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Random_matrix",
       "fx": -17.91015625,
       "fy": -301.1328125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 16.525345622118948,
-      "fy": -131.86074308754417
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. Terence Tao on random matrices",
-      "url": "https://www.youtube.com/watch?v=tihxQGGrMcc",
-      "fx": 179.52534562211895,
       "fy": -131.86074308754417,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. Terence Tao on random matrices",
+          "url": "https://www.youtube.com/watch?v=tihxQGGrMcc",
+          "fx": 179.52534562211895,
+          "fy": -131.86074308754417,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

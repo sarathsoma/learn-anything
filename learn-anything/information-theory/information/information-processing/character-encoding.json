@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Character_encoding",
       "fx": -111.3822577213034,
       "fy": -304.81228133566935,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,25 +15,26 @@
       "note": "",
       "url": "",
       "fx": -54.329485340551855,
-      "fy": -173.18686173178935
+      "fy": -173.18686173178935,
+      "nodes": [
+        {
+          "text": "1. what every programmer absolutely, positively needs to know about encodings and character sets to work with text  ️",
+          "url": "http://kunststube.net/encoding/",
+          "fx": 127.67051465944814,
+          "fy": -194.18686173178935,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "unicode  ️",
       "url": "/information-theory/information/information-processing/character-encoding/unicode",
       "fx": -132.9777041047372,
       "fy": -57.52752468935398,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what every programmer absolutely, positively needs to know about encodings and character sets to work with text  ️",
-      "url": "http://kunststube.net/encoding/",
-      "fx": 127.67051465944814,
-      "fy": -194.18686173178935,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

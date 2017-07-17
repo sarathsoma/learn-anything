@@ -7,64 +7,121 @@
       "url": "http://www.wikiwand.com/en/PHP",
       "fx": -147.0060992324561,
       "fy": -340.2259457236842,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/PHP/",
+          "fx": 15.993900767543892,
+          "fy": -386.2259457236842,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://github.com/php/php-src",
+          "fx": 15.993900767543892,
+          "fy": -346.2259457236842,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "trending",
+          "url": "https://github.com/trending/php",
+          "fx": 15.993900767543892,
+          "fy": -306.2259457236842,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/ziadoz/awesome-php",
+          "fx": 15.993900767543892,
+          "fy": -266.2259457236842,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -144.89453125,
-      "fy": -170.1604187252965
+      "fy": -170.1604187252965,
+      "nodes": [
+        {
+          "text": "1. php the right way",
+          "url": "http://www.phptherightway.com/",
+          "fx": 11.10546875,
+          "fy": -158.6604187252965,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "dependency management",
       "url": "",
       "fx": -554.6671602347934,
-      "fy": -113.13047469032949
+      "fy": -113.13047469032949,
+      "nodes": []
     },
     {
       "text": "XHProf",
       "url": "https://github.com/phacility/xhprof",
       "fx": 232.9493554656832,
       "fy": -91.45254042160582,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "debugger",
       "url": "",
       "fx": 47.91501116359166,
-      "fy": -70.03566649060713
+      "fy": -70.03566649060713,
+      "nodes": []
     },
     {
       "text": "xDebug",
       "url": "https://github.com/xdebug/xdebug",
       "fx": 224.25687542632602,
       "fy": -10.571721527444652,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "web frameworks",
       "url": "",
       "fx": -95.4433484570734,
-      "fy": 9.155673903197567
+      "fy": 9.155673903197567,
+      "nodes": []
     },
     {
       "text": "composer  ️",
       "url": "/programming/programming-languages/php-/composer",
       "fx": -664.1871484917406,
       "fy": 7.753653592107867,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "testing",
       "url": "",
       "fx": -230.0008599746168,
-      "fy": 23.129497528075945
+      "fy": 23.129497528075945,
+      "nodes": []
     },
     {
       "text": "symfony  ️",
       "url": "/programming/programming-languages/php/symfony",
       "fx": 42.12694918611351,
       "fy": 103.5341546474358,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -72,6 +129,7 @@
       "url": "https://github.com/sebastianbergmann/phpunit",
       "fx": -356.1341080402011,
       "fy": 132.64910489952263,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -79,54 +137,8 @@
       "url": "/web-development/backend/laravel",
       "fx": -126.14517116546631,
       "fy": 150.19017791748047,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/PHP/",
-      "fx": 15.993900767543892,
-      "fy": -386.2259457236842,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "php"
-    },
-    {
-      "text": "",
-      "url": "https://github.com/php/php-src",
-      "fx": 15.993900767543892,
-      "fy": -346.2259457236842,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "php"
-    },
-    {
-      "text": "trending",
-      "url": "https://github.com/trending/php",
-      "fx": 15.993900767543892,
-      "fy": -306.2259457236842,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "php"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/ziadoz/awesome-php",
-      "fx": 15.993900767543892,
-      "fy": -266.2259457236842,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "php"
-    },
-    {
-      "text": "1. php the right way",
-      "url": "http://www.phptherightway.com/",
-      "fx": 11.10546875,
-      "fy": -158.6604187252965,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

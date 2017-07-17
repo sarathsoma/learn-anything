@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Evolutionary_psychology",
       "fx": -98.23489379882812,
       "fy": -145.74173974990845,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -13.93359375,
-      "fy": -6.0859375
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to human behavioural biology",
-      "url": "https://www.youtube.com/watch?v=NNnIGh9g6fA&amp;feature=youtu.be&amp;list=PLMwddpZ_3nkAWijQlBnkwnr9wfcuderVe",
-      "fx": 142.06640625,
-      "fy": -5.5859375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -6.0859375,
+      "nodes": [
+        {
+          "text": "1. introduction to human behavioural biology",
+          "url": "https://www.youtube.com/watch?v=NNnIGh9g6fA&amp;feature=youtu.be&amp;list=PLMwddpZ_3nkAWijQlBnkwnr9wfcuderVe",
+          "fx": 142.06640625,
+          "fy": -5.5859375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

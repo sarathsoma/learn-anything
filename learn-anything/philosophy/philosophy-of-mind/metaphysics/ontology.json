@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Ontology",
       "fx": 11.800377155172328,
       "fy": -228.3549299568965,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 31.862068965520166,
-      "fy": -97.89655172419504
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=FN2zwqE_Qo0",
-      "fx": 194.86206896552017,
-      "fy": -85.39655172419504,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -97.89655172419504,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=FN2zwqE_Qo0",
+          "fx": 194.86206896552017,
+          "fy": -85.39655172419504,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

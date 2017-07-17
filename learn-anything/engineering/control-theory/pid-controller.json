@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/PID_controller",
       "fx": -10.824604988098145,
       "fy": -111.8241753578186,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 31.56640625,
-      "fy": 18.95703125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. brief introduction",
-      "url": "https://www.youtube.com/watch?v=UR0hOmjaHp0",
-      "fx": 187.56640625,
-      "fy": 30.45703125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 18.95703125,
+      "nodes": [
+        {
+          "text": "1. brief introduction",
+          "url": "https://www.youtube.com/watch?v=UR0hOmjaHp0",
+          "fx": 187.56640625,
+          "fy": 30.45703125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

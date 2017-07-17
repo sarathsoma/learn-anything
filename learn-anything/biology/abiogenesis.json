@@ -8,33 +8,34 @@
       "url": "http://www.wikiwand.com/en/Abiogenesis",
       "fx": -76.41015625,
       "fy": -288.91796875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "videos",
       "url": "",
       "fx": 10.410305669398895,
-      "fy": -133.3968365778689
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "14: what is life? is death real?",
-      "url": "https://www.youtube.com/watch?v=QOCaacO8wus",
-      "fx": 167.4103056693989,
-      "fy": -141.8968365778689,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "videos"
-    },
-    {
-      "text": "we are dead stars",
-      "url": "https://vimeo.com/95180201",
-      "fx": 167.4103056693989,
-      "fy": -101.8968365778689,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "videos"
+      "fy": -133.3968365778689,
+      "nodes": [
+        {
+          "text": "14: what is life? is death real?",
+          "url": "https://www.youtube.com/watch?v=QOCaacO8wus",
+          "fx": 167.4103056693989,
+          "fy": -141.8968365778689,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "we are dead stars",
+          "url": "https://vimeo.com/95180201",
+          "fx": 167.4103056693989,
+          "fy": -101.8968365778689,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

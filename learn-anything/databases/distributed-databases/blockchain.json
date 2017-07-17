@@ -7,116 +7,121 @@
       "url": "http://www.wikiwand.com/en/Blockchain",
       "fx": 259.81334686279297,
       "fy": 2.132725238800049,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/BlockChain/",
+          "fx": 484.81334686279297,
+          "fy": -3.867274761199951,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/Xel/Blockchain-stuff",
+          "fx": 484.81334686279297,
+          "fy": 36.13272523880005,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 406.1988229799898,
-      "fy": 129.19586262031402
+      "fy": 129.19586262031402,
+      "nodes": [
+        {
+          "text": "awesome non financial blockchain",
+          "url": "https://github.com/machinomy/awesome-non-financial-blockchain",
+          "fx": 597.1988229799898,
+          "fy": 140.69586262031402,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "if you think this can be improved in any way ",
       "url": "",
       "fx": 212.31549899609263,
-      "fy": 387.15068294421576
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/BlockChain/",
-      "fx": 484.81334686279297,
-      "fy": -3.867274761199951,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "blockchain"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/Xel/Blockchain-stuff",
-      "fx": 484.81334686279297,
-      "fy": 36.13272523880005,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "blockchain"
-    },
-    {
-      "text": "awesome non financial blockchain",
-      "url": "https://github.com/machinomy/awesome-non-financial-blockchain",
-      "fx": 597.1988229799898,
-      "fy": 140.69586262031402,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. beginner’s guide to blockchain technology",
-      "url": "http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/",
-      "fx": 394.31549899609263,
-      "fy": 279.65068294421576,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. minimum viable blockchain  ️",
-      "url": "https://www.igvita.com/2014/05/05/minimum-viable-block-chain/",
-      "fx": 394.31549899609263,
-      "fy": 335.65068294421576,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. the blockchain explained to web developers",
-      "url": "",
-      "fx": 394.31549899609263,
-      "fy": 398.65068294421576,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "part 1: the theory",
-      "url": "https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html",
-      "fx": 752.3154989960926,
-      "fy": 375.65068294421576,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "1. the blockchain explained to web developers"
-    },
-    {
-      "text": "part 2: in practice",
-      "url": "https://marmelab.com/blog/2016/05/20/blockchain-for-web-developers-in-practice.html",
-      "fx": 752.3154989960926,
-      "fy": 409.65068294421576,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "1. the blockchain explained to web developers"
-    },
-    {
-      "text": "part 3: the truth",
-      "url": "https://marmelab.com/blog/2016/06/14/blockchain-for-web-developers-the-truth.html",
-      "fx": 752.3154989960926,
-      "fy": 443.65068294421576,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "1. the blockchain explained to web developers"
-    },
-    {
-      "text": "1. blockchain in 200 lines of code  ️",
-      "url": "https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54",
-      "fx": 394.31549899609263,
-      "fy": 477.65068294421576,
-      "category": "article",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. blockchain demo",
-      "url": "https://anders.com/blockchain/",
-      "fx": 394.31549899609263,
-      "fy": 517.6506829442158,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 387.15068294421576,
+      "nodes": [
+        {
+          "text": "1. beginner’s guide to blockchain technology",
+          "url": "http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/",
+          "fx": 394.31549899609263,
+          "fy": 279.65068294421576,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. minimum viable blockchain  ️",
+          "url": "https://www.igvita.com/2014/05/05/minimum-viable-block-chain/",
+          "fx": 394.31549899609263,
+          "fy": 335.65068294421576,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. the blockchain explained to web developers",
+          "url": "",
+          "fx": 394.31549899609263,
+          "fy": 398.65068294421576,
+          "nodes": [
+            {
+              "text": "part 1: the theory",
+              "url": "https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html",
+              "fx": 752.3154989960926,
+              "fy": 375.65068294421576,
+              "nodes": [],
+              "color": "rgba(34, 205, 224, 1.0)"
+            },
+            {
+              "text": "part 2: in practice",
+              "url": "https://marmelab.com/blog/2016/05/20/blockchain-for-web-developers-in-practice.html",
+              "fx": 752.3154989960926,
+              "fy": 409.65068294421576,
+              "nodes": [],
+              "color": "rgba(34, 205, 224, 1.0)"
+            },
+            {
+              "text": "part 3: the truth",
+              "url": "https://marmelab.com/blog/2016/06/14/blockchain-for-web-developers-the-truth.html",
+              "fx": 752.3154989960926,
+              "fy": 443.65068294421576,
+              "nodes": [],
+              "color": "rgba(34, 205, 224, 1.0)"
+            }
+          ],
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. blockchain in 200 lines of code  ️",
+          "url": "https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54",
+          "fx": 394.31549899609263,
+          "fy": 477.65068294421576,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "2. blockchain demo",
+          "url": "https://anders.com/blockchain/",
+          "fx": 394.31549899609263,
+          "fy": 517.6506829442158,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

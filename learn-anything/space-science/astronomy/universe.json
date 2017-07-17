@@ -8,19 +8,41 @@
       "url": "http://www.wikiwand.com/en/Universe",
       "fx": 204.84921566205537,
       "fy": -239.43330039525685,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 240.24283596837972,
-      "fy": -122.59683794468765
+      "fy": -122.59683794468765,
+      "nodes": [
+        {
+          "text": "1. what is the universe?",
+          "url": "https://www.youtube.com/watch?v=nrTsvn9usVQ",
+          "fx": 396.2428359683797,
+          "fy": -142.09683794468765,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. misconceptions about the universe",
+          "url": "https://www.youtube.com/watch?v=XBr4GkRnY04",
+          "fx": 396.2428359683797,
+          "fy": -102.09683794468765,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "Big Bang theory  ️",
       "url": "/space-science/astronomy/universe/big-bang",
       "fx": 113.64808654785156,
       "fy": 20.999418258666992,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +51,7 @@
       "url": "/space-science/astronomy/universe/galaxies",
       "fx": 334.7705764770508,
       "fy": 21.896987915039062,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,27 +59,8 @@
       "url": "/space-science/astronomy/universe/multiverse",
       "fx": -52.445067405700684,
       "fy": 24.26087474822998,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what is the universe?",
-      "url": "https://www.youtube.com/watch?v=nrTsvn9usVQ",
-      "fx": 396.2428359683797,
-      "fy": -142.09683794468765,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. misconceptions about the universe",
-      "url": "https://www.youtube.com/watch?v=XBr4GkRnY04",
-      "fx": 396.2428359683797,
-      "fy": -102.09683794468765,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

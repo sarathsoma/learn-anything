@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Organism",
       "fx": 36.83707422203497,
       "fy": -208.1579649390244,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/biology/organisms/cells",
       "fx": 177.55186080932617,
       "fy": -43.82627725601196,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,6 +23,7 @@
       "url": "/biology/organisms/plants",
       "fx": 20.199249267578125,
       "fy": -42.10320711135864,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/biology/organisms/sex",
       "fx": 300.67798614501953,
       "fy": -41.58113479614258,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,10 +39,10 @@
       "url": "/biology/organisms/immune-system",
       "fx": -215.9258041381836,
       "fy": -40.000998973846436,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "organisms",

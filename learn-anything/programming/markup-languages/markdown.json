@@ -7,38 +7,41 @@
       "url": "http://www.wikiwand.com/en/Markdown",
       "fx": -154.109375,
       "fy": -114.69140625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": -31.053522478070136,
-      "fy": -11.15666118421052
+      "fy": -11.15666118421052,
+      "nodes": [
+        {
+          "text": "awesome markdown",
+          "url": "https://github.com/BubuAnabelas/awesome-markdown",
+          "fx": 105.94647752192986,
+          "fy": 0.34333881578947967,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -126.24561403508937,
-      "fy": 88.33689692981136
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome markdown",
-      "url": "https://github.com/BubuAnabelas/awesome-markdown",
-      "fx": 105.94647752192986,
-      "fy": 0.34333881578947967,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. syntax",
-      "url": "https://daringfireball.net/projects/markdown/syntax",
-      "fx": 29.754385964910625,
-      "fy": 102.83689692981136,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 88.33689692981136,
+      "nodes": [
+        {
+          "text": "1. syntax",
+          "url": "https://daringfireball.net/projects/markdown/syntax",
+          "fx": 29.754385964910625,
+          "fy": 102.83689692981136,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

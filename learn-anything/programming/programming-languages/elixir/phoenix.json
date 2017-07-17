@@ -7,38 +7,41 @@
       "url": "https://github.com/phoenixframework/phoenix",
       "fx": -0.2960092189699708,
       "fy": -178.12964222043058,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "help",
       "url": "",
       "fx": 118.39389577022814,
-      "fy": -77.7580068721328
+      "fy": -77.7580068721328,
+      "nodes": [
+        {
+          "text": "awesome phoenix",
+          "url": "https://github.com/droptheplot/awesome-phoenix",
+          "fx": 255.39389577022814,
+          "fy": -66.2580068721328,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 11.44691857626276,
-      "fy": 9.110864328783691
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome phoenix",
-      "url": "https://github.com/droptheplot/awesome-phoenix",
-      "fx": 255.39389577022814,
-      "fy": -66.2580068721328,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. introduction",
-      "url": "http://www.phoenixframework.org/docs/overview",
-      "fx": 167.44691857626276,
-      "fy": 23.61086432878369,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 9.110864328783691,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "http://www.phoenixframework.org/docs/overview",
+          "fx": 167.44691857626276,
+          "fy": 23.61086432878369,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

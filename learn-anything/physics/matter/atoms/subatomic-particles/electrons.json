@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Electron",
       "fx": -33,
       "fy": -375.9765625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -16.62109375,
-      "fy": -222.8515625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=rcKilE9CdaA",
-      "fx": 146.37890625,
-      "fy": -210.3515625,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -222.8515625,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=rcKilE9CdaA",
+          "fx": 146.37890625,
+          "fy": -210.3515625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Real_number",
       "fx": 107.32421875,
       "fy": -107.078125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 141.0859375,
-      "fy": 38.9140625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. square roots and real numbers",
-      "url": "https://www.youtube.com/watch?v=BpBh8gvMifs",
-      "fx": 304.0859375,
       "fy": 38.9140625,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. square roots and real numbers",
+          "url": "https://www.youtube.com/watch?v=BpBh8gvMifs",
+          "fx": 304.0859375,
+          "fy": 38.9140625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

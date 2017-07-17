@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Digital_image",
       "fx": 439.28116569244605,
       "fy": -225.7081040736131,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/computer-graphics/digital-images/image-processing",
       "fx": 178.04105777877703,
       "fy": -93.21543390287775,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,6 +24,7 @@
       "url": "/computer-graphics/digital-images/vector-graphics",
       "fx": 415.52983330664983,
       "fy": -92.04461253199588,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,10 +32,10 @@
       "url": "/computer-graphics/digital-images/raster-graphics",
       "fx": 660.1320567094397,
       "fy": -88.62755296187254,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "digital images",

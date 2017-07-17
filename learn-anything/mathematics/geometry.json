@@ -7,26 +7,68 @@
       "url": "http://www.wikiwand.com/en/Geometry",
       "fx": 18.13414304037815,
       "fy": -584.5730689776714,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 139.56744815851266,
-      "fy": -471.46193048057916
+      "fy": -471.46193048057916,
+      "nodes": [
+        {
+          "text": "sine and cosine",
+          "url": "http://setosa.io/ev/sine-and-cosine/",
+          "fx": 280.56744815851266,
+          "fy": -492.46193048057916,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "geometry, algebra, and intuition  ️",
+          "url": "http://www.shapeoperator.com/2017/02/28/geometry-algebra-intuition/",
+          "fx": 280.56744815851266,
+          "fy": -450.46193048057916,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -34.393114656831244,
-      "fy": -278.3142931963573
+      "fy": -278.3142931963573,
+      "nodes": [
+        {
+          "text": "1. high school geometry",
+          "url": "https://www.khanacademy.org/math/geometry",
+          "fx": 154.60688534316876,
+          "fy": -299.3142931963573,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. geometry from euclid to knots",
+          "url": "http://www.goodreads.com/book/show/8001419-geometry-from-euclid-to-knots",
+          "fx": 154.60688534316876,
+          "fy": -257.3142931963573,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "spheres  ️",
       "url": "/mathematics/geometry/spheres",
       "fx": -708.7629571920618,
       "fy": -239.16242989493912,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +76,7 @@
       "url": "/mathematics/geometry/polytypes",
       "fx": -674.2987441927985,
       "fy": -165.34474811265954,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +84,7 @@
       "url": "/mathematics/geometry/descriptive-geometry",
       "fx": 359.01000213623047,
       "fy": -141.3447723388672,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +92,7 @@
       "url": "/mathematics/geometry/coordinate-systems",
       "fx": -732.5927071893223,
       "fy": -67.29600643110473,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +100,7 @@
       "url": "/mathematics/geometry/incidence-geometry",
       "fx": 378.4572448730469,
       "fy": -59.5342493057251,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,6 +108,7 @@
       "url": "http://www.wikiwand.com/en/Polygon",
       "fx": 431.5435169956013,
       "fy": 24.52350603070181,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -69,6 +116,7 @@
       "url": "/mathematics/geometry/tensors",
       "fx": -667.3659469094591,
       "fy": 30.71854415830188,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -77,6 +125,7 @@
       "url": "/mathematics/geometry/projective-geometry",
       "fx": 375.9967795736578,
       "fy": 109.4653984146911,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -84,6 +133,7 @@
       "url": "/mathematics/geometry/trigonometry",
       "fx": -712.577814419037,
       "fy": 119.71199360152713,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -92,6 +142,7 @@
       "url": "/mathematics/geometry/fractals",
       "fx": 361.6785724524293,
       "fy": 215.6650069265654,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -99,6 +150,7 @@
       "url": "/mathematics/geometry/geometric-algebra",
       "fx": -711.3938789373121,
       "fy": 223.55020044634995,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -107,6 +159,7 @@
       "url": "/mathematics/geometry/pi",
       "fx": -336.73519365326695,
       "fy": 301.1085888518006,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -114,6 +167,7 @@
       "url": "/mathematics/geometry/algebraic-geometry",
       "fx": 132.56500244140625,
       "fy": 308.89892578125,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -122,6 +176,7 @@
       "url": "/mathematics/geometry/euclidean-space",
       "fx": -638.2699589448816,
       "fy": 317.0005432898257,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -129,6 +184,7 @@
       "url": "/mathematics/geometry/differential-geometry",
       "fx": -31.998178482055664,
       "fy": 377.0487976074219,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -136,6 +192,7 @@
       "url": "/mathematics/geometry/computational-geometry",
       "fx": -391.08203125,
       "fy": 407.6640625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -143,45 +200,8 @@
       "url": "/mathematics/geometry/information-geometry",
       "fx": -146.34262255942258,
       "fy": 510.51200392614385,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "sine and cosine",
-      "url": "http://setosa.io/ev/sine-and-cosine/",
-      "fx": 280.56744815851266,
-      "fy": -492.46193048057916,
-      "category": "interactive",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "geometry, algebra, and intuition  ️",
-      "url": "http://www.shapeoperator.com/2017/02/28/geometry-algebra-intuition/",
-      "fx": 280.56744815851266,
-      "fy": -450.46193048057916,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. high school geometry",
-      "url": "https://www.khanacademy.org/math/geometry",
-      "fx": 154.60688534316876,
-      "fy": -299.3142931963573,
-      "category": "video",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. geometry from euclid to knots",
-      "url": "http://www.goodreads.com/book/show/8001419-geometry-from-euclid-to-knots",
-      "fx": 154.60688534316876,
-      "fy": -257.3142931963573,
-      "category": "non-free book",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

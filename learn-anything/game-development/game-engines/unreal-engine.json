@@ -8,42 +8,44 @@
       "url": "http://www.wikiwand.com/en/Unreal_Engine",
       "fx": -107.29296875,
       "fy": -203.37899762426906,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/unrealengine/",
+          "fx": 166.70703125,
+          "fy": -189.37899762426906,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 23.136330409356674,
-      "fy": -94.53865131578948
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/unrealengine/",
-      "fx": 166.70703125,
-      "fy": -189.37899762426906,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "unreal engine"
-    },
-    {
-      "text": "unreal engine",
-      "url": "https://www.youtube.com/user/UnrealDevelopmentKit/videos",
-      "fx": 160.13633040935667,
-      "fy": -103.03865131578948,
-      "category": "youtube",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "tesla dev",
-      "url": "https://www.youtube.com/user/TeslaUE4/videos",
-      "fx": 160.13633040935667,
-      "fy": -63.03865131578948,
-      "category": "youtube",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
+      "fy": -94.53865131578948,
+      "nodes": [
+        {
+          "text": "unreal engine",
+          "url": "https://www.youtube.com/user/UnrealDevelopmentKit/videos",
+          "fx": 160.13633040935667,
+          "fy": -103.03865131578948,
+          "nodes": [],
+          "category": "youtube",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "tesla dev",
+          "url": "https://www.youtube.com/user/TeslaUE4/videos",
+          "fx": 160.13633040935667,
+          "fy": -63.03865131578948,
+          "nodes": [],
+          "category": "youtube",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

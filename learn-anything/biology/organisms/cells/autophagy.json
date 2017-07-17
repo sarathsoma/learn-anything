@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Autophagy",
       "fx": 89.45703125,
       "fy": -91.2109375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 112.5,
-      "fy": 30.95703125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=Hqs1WzTwBEU",
-      "fx": 268.5,
-      "fy": 42.45703125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 30.95703125,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=Hqs1WzTwBEU",
+          "fx": 268.5,
+          "fy": 42.45703125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

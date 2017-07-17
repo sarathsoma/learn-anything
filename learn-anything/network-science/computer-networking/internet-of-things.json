@@ -8,55 +8,59 @@
       "url": "http://www.wikiwand.com/en/Internet_of_things",
       "fx": -171.95887201010476,
       "fy": -465.58892726333886,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/IOT/",
+          "fx": 132.04112798989524,
+          "fy": -471.58892726333886,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/HQarroum/awesome-iot",
+          "fx": 132.04112798989524,
+          "fy": -431.58892726333886,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": -5.227798327031792,
-      "fy": -331.93184409549485
+      "fy": -331.93184409549485,
+      "nodes": [
+        {
+          "text": "awesome IOT hybrid",
+          "url": "https://github.com/weblancaster/awesome-IoT-hybrid",
+          "fx": 131.7722016729682,
+          "fy": -320.43184409549485,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "communities",
       "url": "",
       "fx": -267.44184104993144,
-      "fy": -330.47179105141436
+      "fy": -330.47179105141436,
+      "nodes": []
     },
     {
       "text": "the things network  ️",
       "url": "/network-science/computer-networking/internet-of-things/the-things-network",
       "fx": -420.7949066612947,
       "fy": -198.40498063328744,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/IOT/",
-      "fx": 132.04112798989524,
-      "fy": -471.58892726333886,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "internet of things"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/HQarroum/awesome-iot",
-      "fx": 132.04112798989524,
-      "fy": -431.58892726333886,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "internet of things"
-    },
-    {
-      "text": "awesome IOT hybrid",
-      "url": "https://github.com/weblancaster/awesome-IoT-hybrid",
-      "fx": 131.7722016729682,
-      "fy": -320.43184409549485,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
     }
   ],
   "connections": [

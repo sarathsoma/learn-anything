@@ -7,32 +7,85 @@
       "url": "http://www.wikiwand.com/en/Fractal",
       "fx": 0.9295387268066406,
       "fy": -35.643333435058594,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/fractals/",
+          "fx": 191.92953872680664,
+          "fy": -21.643333435058594,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 108.4765625,
-      "fy": 80.52343749999989
+      "fy": 80.52343749999989,
+      "nodes": [
+        {
+          "text": "17: hitchhiker's guide to the mandelbrot set  ️",
+          "url": "https://morr.cc/mandelbrot/",
+          "fx": 245.4765625,
+          "fy": 81.02343749999989,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 146.15625,
-      "fy": 211.8007812499999
+      "fy": 211.8007812499999,
+      "nodes": [
+        {
+          "text": "how to fold a julia fractal",
+          "url": "https://acko.net/blog/how-to-fold-a-julia-fractal/",
+          "fx": 337.15625,
+          "fy": 223.3007812499999,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -21.027832031251194,
-      "fy": 326.17431640626467
+      "fy": 326.17431640626467,
+      "nodes": [
+        {
+          "text": "1. fractals are typically not self-similar",
+          "url": "https://www.youtube.com/watch?v=gB9n2gHsHN4&amp;t=945s",
+          "fx": 160.9721679687488,
+          "fy": 309.67431640626467,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. fractals explained",
+          "url": "http://natureofcode.com/book/chapter-8-fractals/",
+          "fx": 160.9721679687488,
+          "fy": 371.67431640626467,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "Hilbert curve  ️",
       "url": "/mathematics/geometry/fractals/hilbert-curve",
       "fx": -200.5823163334628,
       "fy": 450.0560583268633,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,53 +93,8 @@
       "url": "/mathematics/geometry/fractals/fractal-analysis",
       "fx": -9.495592948717785,
       "fy": 451.63461538461536,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/fractals/",
-      "fx": 191.92953872680664,
-      "fy": -21.643333435058594,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "fractals"
-    },
-    {
-      "text": "17: hitchhiker's guide to the mandelbrot set  ️",
-      "url": "https://morr.cc/mandelbrot/",
-      "fx": 245.4765625,
-      "fy": 81.02343749999989,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "how to fold a julia fractal",
-      "url": "https://acko.net/blog/how-to-fold-a-julia-fractal/",
-      "fx": 337.15625,
-      "fy": 223.3007812499999,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. fractals are typically not self-similar",
-      "url": "https://www.youtube.com/watch?v=gB9n2gHsHN4&amp;t=945s",
-      "fx": 160.9721679687488,
-      "fy": 309.67431640626467,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. fractals explained",
-      "url": "http://natureofcode.com/book/chapter-8-fractals/",
-      "fx": 160.9721679687488,
-      "fy": 371.67431640626467,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

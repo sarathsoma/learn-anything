@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Epistemology",
       "fx": -93.6601647734642,
       "fy": -145.54193496704102,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,13 +15,25 @@
       "note": "",
       "url": "",
       "fx": -59.176721146573755,
-      "fy": -18.463487924794492
+      "fy": -18.463487924794492,
+      "nodes": [
+        {
+          "text": "1. epistemology: an anthology",
+          "url": "http://www.goodreads.com/book/show/752489.Epistemology",
+          "fx": 122.82327885342625,
+          "fy": -6.963487924794492,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "naturalised epistemology",
       "url": "http://www.wikiwand.com/en/Naturalized_epistemology",
       "fx": 44.43903814968144,
       "fy": 135.7600359007837,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,18 +41,8 @@
       "url": "/philosophy/epistemology/knowledge",
       "fx": -170.65763683431885,
       "fy": 136.6054918639054,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. epistemology: an anthology",
-      "url": "http://www.goodreads.com/book/show/752489.Epistemology",
-      "fx": 122.82327885342625,
-      "fy": -6.963487924794492,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

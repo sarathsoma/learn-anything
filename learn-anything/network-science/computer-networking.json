@@ -7,26 +7,105 @@
       "url": "http://www.wikiwand.com/en/Computer_network",
       "fx": 168.46380996704102,
       "fy": -435.22753143310547,
+      "nodes": [
+        {
+          "text": "️",
+          "url": "https://networkengineering.stackexchange.com/",
+          "fx": 488.463809967041,
+          "fy": -421.22753143310547,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 368.11766052246094,
-      "fy": -287.0935821533203
+      "fy": -287.0935821533203,
+      "nodes": [
+        {
+          "text": "awesome network analysis",
+          "url": "https://github.com/briatte/awesome-network-analysis",
+          "fx": 505.11766052246094,
+          "fy": -348.0935821533203,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "collection of tools developed by other researchers in the Computer Science area to process network traces",
+          "url": "https://github.com/caesar0301/awesome-pcaptools",
+          "fx": 505.11766052246094,
+          "fy": -308.0935821533203,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "what happens when",
+          "url": "https://github.com/alex/what-happens-when",
+          "fx": 505.11766052246094,
+          "fy": -203.0935821533203,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 187.42039669261248,
-      "fy": -10.78913414478302
+      "fy": -10.78913414478302,
+      "nodes": [
+        {
+          "text": "1. network protocols for anyone who knows a programming language  ️",
+          "url": "https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147",
+          "fx": 369.4203966926125,
+          "fy": -114.28913414478302,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. computer networking and solutions",
+          "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_If_GCGDEOYensUC5Ur-L9MR",
+          "fx": 369.4203966926125,
+          "fy": -30.28913414478302,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "2. beej's guide to network programming",
+          "url": "http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html",
+          "fx": 369.4203966926125,
+          "fy": 31.71086585521698,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. an introduction to computer networks",
+          "url": "http://intronetworks.cs.luc.edu/current/html/",
+          "fx": 369.4203966926125,
+          "fy": 93.71086585521698,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "software-defined networking  ️",
       "url": "/network-science/computer-networking/software-defined-networking",
       "fx": -85.05657427651545,
       "fy": 183.37897872924805,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +113,7 @@
       "url": "/network-science/computer-networking/protocols",
       "fx": -250.96206665039062,
       "fy": 185.40719604492188,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +122,7 @@
       "url": "/network-science/computer-networking/internet-of-things",
       "fx": 249.89517161885237,
       "fy": 185.97150358606575,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +130,7 @@
       "url": "/network-science/computer-networking/peer-to-peer",
       "fx": -436.33768463134766,
       "fy": 187.53400421142578,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,6 +138,7 @@
       "url": "/network-science/computer-networking/internet",
       "fx": -579.4438934326172,
       "fy": 190.57941055297852,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,6 +146,7 @@
       "url": "/network-science/computer-networking/proxy-server",
       "fx": -765.5084206448187,
       "fy": 193.38123196066567,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -70,6 +154,7 @@
       "url": "/network-science/computer-networking/emails",
       "fx": -904.7203801945179,
       "fy": 195.1871960654288,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -77,6 +162,7 @@
       "url": "/network-science/computer-networking/network-traffic",
       "fx": -1268.596578271734,
       "fy": 197.1326893637763,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -84,81 +170,8 @@
       "url": "/network-science/computer-networking/routing",
       "fx": -1048.606843171296,
       "fy": 197.74397369123926,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "️",
-      "url": "https://networkengineering.stackexchange.com/",
-      "fx": 488.463809967041,
-      "fy": -421.22753143310547,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "computer networking"
-    },
-    {
-      "text": "awesome network analysis",
-      "url": "https://github.com/briatte/awesome-network-analysis",
-      "fx": 505.11766052246094,
-      "fy": -348.0935821533203,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "collection of tools developed by other researchers in the Computer Science area to process network traces",
-      "url": "https://github.com/caesar0301/awesome-pcaptools",
-      "fx": 505.11766052246094,
-      "fy": -308.0935821533203,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "what happens when",
-      "url": "https://github.com/alex/what-happens-when",
-      "fx": 505.11766052246094,
-      "fy": -203.0935821533203,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. network protocols for anyone who knows a programming language  ️",
-      "url": "https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147",
-      "fx": 369.4203966926125,
-      "fy": -114.28913414478302,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. computer networking and solutions",
-      "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_If_GCGDEOYensUC5Ur-L9MR",
-      "fx": 369.4203966926125,
-      "fy": -30.28913414478302,
-      "category": "video",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. beej's guide to network programming",
-      "url": "http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html",
-      "fx": 369.4203966926125,
-      "fy": 31.71086585521698,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. an introduction to computer networks",
-      "url": "http://intronetworks.cs.luc.edu/current/html/",
-      "fx": 369.4203966926125,
-      "fy": 93.71086585521698,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

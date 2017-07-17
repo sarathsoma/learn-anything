@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Conditional_random_field",
       "fx": -135.21484375,
       "fy": -227.3515625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -40.5,
-      "fy": -63.45703125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. conditional random fields - motivation",
-      "url": "https://www.youtube.com/watch?v=GF3iSJkgPbA",
-      "fx": 115.5,
-      "fy": -62.95703125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -63.45703125,
+      "nodes": [
+        {
+          "text": "1. conditional random fields - motivation",
+          "url": "https://www.youtube.com/watch?v=GF3iSJkgPbA",
+          "fx": 115.5,
+          "fy": -62.95703125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

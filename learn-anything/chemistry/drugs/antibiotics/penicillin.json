@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Penicillin",
       "fx": -31.2109375,
       "fy": -205.9140625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -15.33203125,
-      "fy": -82.80078125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=JZt1MiygQHY",
-      "fx": 140.66796875,
-      "fy": -71.30078125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -82.80078125,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=JZt1MiygQHY",
+          "fx": 140.66796875,
+          "fy": -71.30078125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

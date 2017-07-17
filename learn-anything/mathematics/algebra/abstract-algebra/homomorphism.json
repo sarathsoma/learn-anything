@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Homomorphism",
       "fx": -61.19140625,
       "fy": -116.46875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -4.09375,
-      "fy": 4
+      "fy": 4,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=cYzp5IWqCsg",
+          "fx": 151.90625,
+          "fy": 15.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "isomorphism  ️",
       "url": "/mathematics/algebra/abstract-algebra/homomorphism/isomorphism",
       "fx": -137.20301418439692,
       "fy": 116.25759086881715,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=cYzp5IWqCsg",
-      "fx": 151.90625,
-      "fy": 15.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

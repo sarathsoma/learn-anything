@@ -7,7 +7,8 @@
       "note": "",
       "url": "",
       "fx": -336.79796448948116,
-      "fy": -445.4390968869979
+      "fy": -445.4390968869979,
+      "nodes": []
     },
     {
       "text": "pytorch  ️",
@@ -15,6 +16,7 @@
       "url": "/machine-learning/machine-learning-libraries/pytorch",
       "fx": -44.51439666748047,
       "fy": -243.2207908630371,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,6 +24,7 @@
       "url": "/machine-learning/machine-learning-libraries/torch",
       "fx": 124.58058166503906,
       "fy": -242.64648818969727,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +32,7 @@
       "url": "/machine-learning/machine-learning-libraries/scikit-learn",
       "fx": 246.69708251953125,
       "fy": -241.13748931884766,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,13 +40,15 @@
       "note": "open source neural networks written in C and CUDA",
       "url": "https://pjreddie.com/darknet/",
       "fx": -565.6351318359375,
-      "fy": -238.583740234375
+      "fy": -238.583740234375,
+      "nodes": []
     },
     {
       "text": "tensorflow  ️",
       "url": "/machine-learning/machine-learning-libraries/tensorflow",
       "fx": -213.57716369628906,
       "fy": -240.63387298583984,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -51,6 +57,7 @@
       "url": "/machine-learning/machine-learning-libraries/caffe",
       "fx": -710.3664148326699,
       "fy": -240.26694963743893,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -59,19 +66,22 @@
       "url": "https://github.com/zsdonghao/tensorlayer",
       "fx": -424.6153869628906,
       "fy": -239.23067474365234,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "mlpack",
       "url": "http://www.mlpack.org/",
       "fx": -827.5364990234375,
-      "fy": -236.58655548095703
+      "fy": -236.58655548095703,
+      "nodes": []
     },
     {
       "text": "nnabla  ️",
       "url": "/machine-learning/machine-learning-libraries/nnabla",
       "fx": 431.02264664837367,
       "fy": -238.78145082793884,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -79,6 +89,7 @@
       "url": "https://github.com/Theano/Theano",
       "fx": -965.6764491074666,
       "fy": -237.2734510365642,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -86,6 +97,7 @@
       "url": "/machine-learning/machine-learning-libraries/mxnet",
       "fx": -1271.7506205546772,
       "fy": -234.65124032419618,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -93,6 +105,7 @@
       "url": "https://github.com/pybrain/pybrain",
       "fx": -1126.4156646728516,
       "fy": -233.58444595336914,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -100,6 +113,7 @@
       "url": "/machine-learning/machine-learning-libraries/keras",
       "fx": -281.8561435669892,
       "fy": -135.22972034483928,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -108,10 +122,10 @@
       "url": "https://github.com/blei-lab/edward",
       "fx": -144.6504186602873,
       "fy": -134.06696695574152,
+      "nodes": [],
       "category": "github"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "machine learning libraries",

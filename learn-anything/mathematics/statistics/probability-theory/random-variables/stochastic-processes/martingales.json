@@ -7,33 +7,34 @@
       "url": "http://www.wikiwand.com/en/Martingale_(probability_theory)",
       "fx": 195.51934196035234,
       "fy": -198.3120697962555,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 230.73127753303845,
-      "fy": -44.84140969163309
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=GwVjWQykCDw",
-      "fx": 393.73127753303845,
-      "fy": -65.84140969163309,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. why the Martingale betting system doesn’t work",
-      "url": "https://www.youtube.com/watch?v=Ry3B9hJbBfk",
-      "fx": 393.73127753303845,
-      "fy": -23.84140969163309,
-      "category": "video",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
+      "fy": -44.84140969163309,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=GwVjWQykCDw",
+          "fx": 393.73127753303845,
+          "fy": -65.84140969163309,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. why the Martingale betting system doesn’t work",
+          "url": "https://www.youtube.com/watch?v=Ry3B9hJbBfk",
+          "fx": 393.73127753303845,
+          "fy": -23.84140969163309,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

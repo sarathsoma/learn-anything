@@ -7,26 +7,91 @@
       "url": "http://www.wikiwand.com/en/Probability_theory",
       "fx": -112.50800241449315,
       "fy": -464.9973892188564,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 64.96382996686862,
-      "fy": -325.16313832709153
+      "fy": -325.16313832709153,
+      "nodes": [
+        {
+          "text": "probability theory review for machine learning",
+          "url": "https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf",
+          "fx": 201.96382996686862,
+          "fy": -366.66313832709153,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "probability theory overview",
+          "url": "http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/Probability-Theory.pdf",
+          "fx": 201.96382996686862,
+          "fy": -310.66313832709153,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "probability theory for machine learning",
+          "url": "http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial1.pdf",
+          "fx": 201.96382996686862,
+          "fy": -276.66313832709153,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -67.00595254420102,
-      "fy": -121.64361241383693
+      "fy": -121.64361241383693,
+      "nodes": [
+        {
+          "text": "1. Grinstead and Snell’s introduction to probability",
+          "url": "https://www.math.dartmouth.edu//~prob/prob/prob.pdf",
+          "fx": 114.99404745579898,
+          "fy": -178.14361241383693,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. probability notes  ️",
+          "url": "http://frnsys.com/ai_notes/foundations/probability.html",
+          "fx": 114.99404745579898,
+          "fy": -116.14361241383693,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. probability: theory and examples",
+          "url": "http://www.goodreads.com/book/show/9632300-probability",
+          "fx": 114.99404745579898,
+          "fy": -76.14361241383693,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. review of probability theory",
+          "url": "http://cs229.stanford.edu/section/cs229-prob.pdf",
+          "fx": 114.99404745579898,
+          "fy": -36.143612413836934,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "probability distributions  ️",
       "url": "/mathematics/statistics/probability-theory/distributions",
       "fx": -242.517070660405,
       "fy": 79.18478810639533,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +99,7 @@
       "url": "http://www.wikiwand.com/en/Prediction_market",
       "fx": -485.732203609409,
       "fy": 79.96989906272495,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -42,6 +108,7 @@
       "url": "/mathematics/statistics/probability-theory/markov-chains",
       "fx": 51.847304043704526,
       "fy": 80.81032321877683,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +116,7 @@
       "url": "/mathematics/statistics/probability-theory/conditional-probability",
       "fx": -756.2307586669922,
       "fy": 82.46343231201172,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,6 +124,7 @@
       "url": "/mathematics/statistics/probability-theory/expected-value",
       "fx": -968.3375946969668,
       "fy": 87.93832859841825,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,68 +132,8 @@
       "url": "/mathematics/statistics/probability-theory/random-variables",
       "fx": -1202.2441151638952,
       "fy": 91.15647361491597,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "probability theory review for machine learning",
-      "url": "https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf",
-      "fx": 201.96382996686862,
-      "fy": -366.66313832709153,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "probability theory overview",
-      "url": "http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/Probability-Theory.pdf",
-      "fx": 201.96382996686862,
-      "fy": -310.66313832709153,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "probability theory for machine learning",
-      "url": "http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial1.pdf",
-      "fx": 201.96382996686862,
-      "fy": -276.66313832709153,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. Grinstead and Snell’s introduction to probability",
-      "url": "https://www.math.dartmouth.edu//~prob/prob/prob.pdf",
-      "fx": 114.99404745579898,
-      "fy": -178.14361241383693,
-      "category": "free book",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. probability notes  ️",
-      "url": "http://frnsys.com/ai_notes/foundations/probability.html",
-      "fx": 114.99404745579898,
-      "fy": -116.14361241383693,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. probability: theory and examples",
-      "url": "http://www.goodreads.com/book/show/9632300-probability",
-      "fx": 114.99404745579898,
-      "fy": -76.14361241383693,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. review of probability theory",
-      "url": "http://cs229.stanford.edu/section/cs229-prob.pdf",
-      "fx": 114.99404745579898,
-      "fy": -36.143612413836934,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

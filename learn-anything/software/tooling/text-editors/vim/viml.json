@@ -6,39 +6,42 @@
       "text": "viml",
       "url": "",
       "fx": -15.17118566176498,
-      "fy": -204.50758272058818
+      "fy": -204.50758272058818,
+      "nodes": []
     },
     {
       "text": "help",
       "url": "",
       "fx": 62.4260110294133,
-      "fy": -107.77516084558943
+      "fy": -107.77516084558943,
+      "nodes": [
+        {
+          "text": "awesome viml",
+          "url": "https://github.com/uhub/awesome-viml",
+          "fx": 199.4260110294133,
+          "fy": -96.27516084558943,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -47.5,
-      "fy": -2
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome viml",
-      "url": "https://github.com/uhub/awesome-viml",
-      "fx": 199.4260110294133,
-      "fy": -96.27516084558943,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. learn vimscript the hard way",
-      "url": "http://learnvimscriptthehardway.stevelosh.com/",
-      "fx": 108.5,
-      "fy": 9.5,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. learn vimscript the hard way",
+          "url": "http://learnvimscriptthehardway.stevelosh.com/",
+          "fx": 108.5,
+          "fy": 9.5,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

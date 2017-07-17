@@ -7,6 +7,35 @@
       "url": "http://www.wikiwand.com/en/Database",
       "fx": 6.899553903385595,
       "fy": -334.15454859621235,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Database/",
+          "fx": 227.8995539033856,
+          "fy": -360.15454859621235,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://dba.stackexchange.com/",
+          "fx": 227.8995539033856,
+          "fy": -320.15454859621235,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/numetriclabz/awesome-db",
+          "fx": 227.8995539033856,
+          "fy": -280.15454859621235,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,13 +43,34 @@
       "note": "",
       "url": "",
       "fx": 21.890589344574096,
-      "fy": -187.9086332104127
+      "fy": -187.9086332104127,
+      "nodes": [
+        {
+          "text": "1. databases from Stanford",
+          "url": "https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about",
+          "fx": 203.8905893445741,
+          "fy": -196.4086332104127,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. gate lectures",
+          "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_Ic_9b4PcKmlae41cyxEefot",
+          "fx": 203.8905893445741,
+          "fy": -156.4086332104127,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "distributed databases  ️",
       "url": "/databases/distributed-databases",
       "fx": -692.8006359405884,
       "fy": 41.511917284780566,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +78,7 @@
       "url": "/databases/relational-databases",
       "fx": -404.2229881286621,
       "fy": 42.566781997680664,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +86,7 @@
       "url": "/databases/nosql-databases",
       "fx": -146.53618621826172,
       "fy": 42.56679153442383,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +94,7 @@
       "url": "/databases/time-series-databases",
       "fx": -969.2688419117649,
       "fy": 43.272649684873954,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +102,7 @@
       "url": "http://www.wikiwand.com/en/Database_caching",
       "fx": 92.73653017241418,
       "fy": 44.745100350215694,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -56,54 +110,8 @@
       "url": "/databases/graph-databases",
       "fx": 337.3810663926288,
       "fy": 45.590967695758195,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Database/",
-      "fx": 227.8995539033856,
-      "fy": -360.15454859621235,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "databases"
-    },
-    {
-      "text": "️",
-      "url": "https://dba.stackexchange.com/",
-      "fx": 227.8995539033856,
-      "fy": -320.15454859621235,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "databases"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/numetriclabz/awesome-db",
-      "fx": 227.8995539033856,
-      "fy": -280.15454859621235,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "databases"
-    },
-    {
-      "text": "1. databases from Stanford",
-      "url": "https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about",
-      "fx": 203.8905893445741,
-      "fy": -196.4086332104127,
-      "category": "course",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. gate lectures",
-      "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_Ic_9b4PcKmlae41cyxEefot",
-      "fx": 203.8905893445741,
-      "fy": -156.4086332104127,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

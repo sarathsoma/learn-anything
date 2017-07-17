@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Economic_model",
       "fx": -26.88671875,
       "fy": -289.3984375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 34.84790254658242,
-      "fy": -142.3223201275328
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. economic models &amp; theories",
-      "url": "https://www.youtube.com/watch?v=lYHy2XLa4u0",
-      "fx": 197.84790254658242,
-      "fy": -129.8223201275328,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -142.3223201275328,
+      "nodes": [
+        {
+          "text": "1. economic models &amp; theories",
+          "url": "https://www.youtube.com/watch?v=lYHy2XLa4u0",
+          "fx": 197.84790254658242,
+          "fy": -129.8223201275328,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,6 +7,26 @@
       "url": "http://www.wikiwand.com/en/Law",
       "fx": -25.510291113210883,
       "fy": -383.572610431581,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/law/",
+          "fx": 132.48970888678912,
+          "fy": -389.572610431581,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://law.stackexchange.com/",
+          "fx": 132.48970888678912,
+          "fy": -349.572610431581,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,13 +34,25 @@
       "note": "",
       "url": "",
       "fx": -46.03177257529751,
-      "fy": -226.76604306023444
+      "fy": -226.76604306023444,
+      "nodes": [
+        {
+          "text": "1. the curmudgeon's guide to practicing law",
+          "url": "https://www.goodreads.com/book/show/343604.The_Curmudgeon_s_Guide_to_Practicing_Law",
+          "fx": 135.9682274247025,
+          "fy": -226.26604306023444,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "licensing",
       "url": "http://www.wikiwand.com/en/Brand_licensing",
       "fx": -166.13717022613037,
       "fy": -132.44982726130684,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,6 +60,7 @@
       "url": "/law/rights",
       "fx": -449.7513620359007,
       "fy": -129.82683965189273,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +68,7 @@
       "url": "/law/property-law",
       "fx": -642.3700534986431,
       "fy": -127.89266304347814,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,6 +76,7 @@
       "url": "http://www.wikiwand.com/en/Piracy",
       "fx": 140.6142578125,
       "fy": -81.2412109375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -49,6 +84,7 @@
       "url": "/law/governance",
       "fx": 282.45348569772796,
       "fy": -77.94498701079033,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -56,6 +92,7 @@
       "url": "/law/politics",
       "fx": -7.411951764785954,
       "fy": -62.99975210765069,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,6 +100,7 @@
       "url": "http://www.wikiwand.com/en/Criminal_law",
       "fx": -389.95686803041696,
       "fy": -57.190211849464106,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -70,6 +108,7 @@
       "url": "/law/software-licenses",
       "fx": -198.6162109375,
       "fy": 23.421936308856516,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -78,36 +117,8 @@
       "url": "http://www.wikiwand.com/en/Digital_Millennium_Copyright_Act",
       "fx": 139.6532835996236,
       "fy": 31.46555842731857,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/law/",
-      "fx": 132.48970888678912,
-      "fy": -389.572610431581,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "law"
-    },
-    {
-      "text": "️",
-      "url": "https://law.stackexchange.com/",
-      "fx": 132.48970888678912,
-      "fy": -349.572610431581,
-      "category": "stack exchange",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "law"
-    },
-    {
-      "text": "1. the curmudgeon's guide to practicing law",
-      "url": "https://www.goodreads.com/book/show/343604.The_Curmudgeon_s_Guide_to_Practicing_Law",
-      "fx": 135.9682274247025,
-      "fy": -226.26604306023444,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

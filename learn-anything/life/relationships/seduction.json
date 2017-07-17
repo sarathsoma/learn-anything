@@ -7,6 +7,17 @@
       "url": "http://www.wikiwand.com/en/Seduction",
       "fx": -75.375,
       "fy": -154.93359375,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/seduction/",
+          "fx": 140.625,
+          "fy": -140.93359375,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,36 +25,27 @@
       "note": "",
       "url": "",
       "fx": -59.68149038461547,
-      "fy": 2.0072115384614335
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/seduction/",
-      "fx": 140.625,
-      "fy": -140.93359375,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "seduction"
-    },
-    {
-      "text": "1. models: attract women through honesty",
-      "url": "http://www.goodreads.com/book/show/12633800-models",
-      "fx": 122.31850961538453,
-      "fy": -28.492788461538566,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. 3 pillars of seductive success - James Marshall",
-      "url": "https://www.youtube.com/watch?v=33rsHCWgISI",
-      "fx": 122.31850961538453,
-      "fy": 33.50721153846143,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": 2.0072115384614335,
+      "nodes": [
+        {
+          "text": "1. models: attract women through honesty",
+          "url": "http://www.goodreads.com/book/show/12633800-models",
+          "fx": 122.31850961538453,
+          "fy": -28.492788461538566,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. 3 pillars of seductive success - James Marshall",
+          "url": "https://www.youtube.com/watch?v=33rsHCWgISI",
+          "fx": 122.31850961538453,
+          "fy": 33.50721153846143,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

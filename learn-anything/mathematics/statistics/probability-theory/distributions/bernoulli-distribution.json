@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Bernoulli_distribution",
       "fx": -213.14453125,
       "fy": -207.1328125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -139.09375,
-      "fy": -54.95703125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to Bernoulli distribution",
-      "url": "https://www.youtube.com/watch?v=bT1p5tJwn_0",
-      "fx": 16.90625,
-      "fy": -54.45703125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -54.95703125,
+      "nodes": [
+        {
+          "text": "1. introduction to Bernoulli distribution",
+          "url": "https://www.youtube.com/watch?v=bT1p5tJwn_0",
+          "fx": 16.90625,
+          "fy": -54.45703125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Amphibian",
       "fx": 91.5703125,
       "fy": -193.25,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 127.91796875,
-      "fy": -47.73046875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. the evolution of amphibians",
-      "url": "https://www.youtube.com/watch?v=AkqK2jdbduQ",
-      "fx": 290.91796875,
-      "fy": -35.23046875,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -47.73046875,
+      "nodes": [
+        {
+          "text": "1. the evolution of amphibians",
+          "url": "https://www.youtube.com/watch?v=AkqK2jdbduQ",
+          "fx": 290.91796875,
+          "fy": -35.23046875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

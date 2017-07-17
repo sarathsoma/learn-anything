@@ -6,47 +6,50 @@
       "text": "sequence to sequence learning",
       "url": "",
       "fx": -125.24129630698542,
-      "fy": -319.5614506455719
+      "fy": -319.5614506455719,
+      "nodes": []
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 95.90071038997064,
-      "fy": -159.93886462882602
+      "fy": -159.93886462882602,
+      "nodes": [
+        {
+          "text": "16: attention and memory in deep learning and NLP  ️",
+          "url": "http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/",
+          "fx": 294.90071038997064,
+          "fy": -159.93886462882602,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -60.214395491803316,
-      "fy": -18.12890625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "16: attention and memory in deep learning and NLP  ️",
-      "url": "http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/",
-      "fx": 294.90071038997064,
-      "fy": -159.93886462882602,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. sequence to sequence learning with neural networks",
-      "url": "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf",
-      "fx": 102.78560450819668,
-      "fy": -49.12890625,
-      "category": "paper",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. sequence to sequence models with TensorFlow",
-      "url": "https://www.tensorflow.org/tutorials/seq2seq",
-      "fx": 102.78560450819668,
-      "fy": 17.87109375,
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
+      "fy": -18.12890625,
+      "nodes": [
+        {
+          "text": "1. sequence to sequence learning with neural networks",
+          "url": "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf",
+          "fx": 102.78560450819668,
+          "fy": -49.12890625,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. sequence to sequence models with TensorFlow",
+          "url": "https://www.tensorflow.org/tutorials/seq2seq",
+          "fx": 102.78560450819668,
+          "fy": 17.87109375,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

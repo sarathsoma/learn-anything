@@ -8,6 +8,17 @@
       "url": "http://www.wikiwand.com/en/Geography",
       "fx": -144.83091517857133,
       "fy": -350.5669157608695,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/geography/",
+          "fx": 105.16908482142867,
+          "fy": -336.5669157608695,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -15,6 +26,7 @@
       "url": "http://www.wikiwand.com/en/Physical_geography",
       "fx": -320.2269515991211,
       "fy": -189.79055786132812,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -22,6 +34,7 @@
       "url": "http://www.wikiwand.com/en/Human_geography",
       "fx": -70.09276008605957,
       "fy": -187.04922103881836,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -29,6 +42,7 @@
       "url": "http://www.wikiwand.com/en/Political_geography",
       "fx": -579.3998107910156,
       "fy": -186.81006240844727,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -36,6 +50,7 @@
       "url": "/geography/cartography",
       "fx": 180.54756433823513,
       "fy": -186.5,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,6 +58,7 @@
       "url": "http://www.wikiwand.com/en/Language_geography",
       "fx": 374.640814898052,
       "fy": -186.23737125644493,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -50,18 +66,8 @@
       "url": "/geography/countries",
       "fx": -536.6562700680847,
       "fy": -83.15381171421609,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/geography/",
-      "fx": 105.16908482142867,
-      "fy": -336.5669157608695,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "geography"
     }
   ],
   "connections": [

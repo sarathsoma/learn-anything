@@ -6,63 +6,69 @@
       "text": "terraform",
       "url": "https://www.terraform.io/",
       "fx": 4.797591743119142,
-      "fy": 35.952408256880744
+      "fy": 35.952408256880744,
+      "nodes": [
+        {
+          "text": "source",
+          "url": "https://github.com/hashicorp/terraform",
+          "fx": 185.79759174311914,
+          "fy": 47.452408256880744,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "help",
       "url": "",
       "fx": 124.68334288990991,
-      "fy": 143.90137614675558
+      "fy": 143.90137614675558,
+      "nodes": [
+        {
+          "text": "awesome terraform",
+          "url": "https://github.com/shuaibiyy/awesome-terraform",
+          "fx": 261.6833428899099,
+          "fy": 155.40137614675558,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 253.8708221925134,
-      "fy": 232.39154411764702
+      "fy": 232.39154411764702,
+      "nodes": [
+        {
+          "text": "17: terraform gotchas and how we work around them  ️",
+          "url": "https://heap.engineering/terraform-gotchas/",
+          "fx": 415.8708221925134,
+          "fy": 232.89154411764702,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 6.360378440367185,
-      "fy": 331.2809633027222
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "source",
-      "url": "https://github.com/hashicorp/terraform",
-      "fx": 185.79759174311914,
-      "fy": 47.452408256880744,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "terraform"
-    },
-    {
-      "text": "awesome terraform",
-      "url": "https://github.com/shuaibiyy/awesome-terraform",
-      "fx": 261.6833428899099,
-      "fy": 155.40137614675558,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "17: terraform gotchas and how we work around them  ️",
-      "url": "https://heap.engineering/terraform-gotchas/",
-      "fx": 415.8708221925134,
-      "fy": 232.89154411764702,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. intro to terraform",
-      "url": "https://www.terraform.io/intro/index.html",
-      "fx": 188.36037844036719,
-      "fy": 345.7809633027222,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 331.2809633027222,
+      "nodes": [
+        {
+          "text": "1. intro to terraform",
+          "url": "https://www.terraform.io/intro/index.html",
+          "fx": 188.36037844036719,
+          "fy": 345.7809633027222,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

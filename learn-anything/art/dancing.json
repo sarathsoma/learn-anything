@@ -8,19 +8,32 @@
       "url": "http://www.wikiwand.com/en/Dance",
       "fx": -72.16796875,
       "fy": -274.05500315656576,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 49.41293420918919,
-      "fy": -168.8235291907859
+      "fy": -168.8235291907859,
+      "nodes": [
+        {
+          "text": "at intersection of dance and technology",
+          "url": "https://gfycat.com/MixedFrankAlaskankleekai",
+          "fx": 240.4129342091892,
+          "fy": -168.3235291907859,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "list of dances",
       "url": "http://www.wikiwand.com/en/List_of_dances",
       "fx": -218.2801452020201,
       "fy": -92.10389046717171,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,18 +41,8 @@
       "url": "http://www.wikiwand.com/en/Salsa_(dance)",
       "fx": -240.18434343434353,
       "fy": 30.73682133838514,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "at intersection of dance and technology",
-      "url": "https://gfycat.com/MixedFrankAlaskankleekai",
-      "fx": 240.4129342091892,
-      "fy": -168.3235291907859,
-      "category": "image",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
     }
   ],
   "connections": [

@@ -8,24 +8,25 @@
       "url": "https://github.com/learn-anything/blogs",
       "fx": 2.162703804347757,
       "fy": 1.770040760869506,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "find new blogs",
       "url": "",
       "fx": -14.239130434782624,
-      "fy": 137.95652173916358
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome engineering blogs",
-      "url": "https://github.com/kilimchoi/engineering-blogs",
-      "fx": 215.76086956521738,
-      "fy": 149.45652173916358,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "find new blogs"
+      "fy": 137.95652173916358,
+      "nodes": [
+        {
+          "text": "awesome engineering blogs",
+          "url": "https://github.com/kilimchoi/engineering-blogs",
+          "fx": 215.76086956521738,
+          "fy": 149.45652173916358,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

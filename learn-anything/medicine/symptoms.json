@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Symptom",
       "fx": -121.609375,
       "fy": -339.23046875,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/medicine/symptoms/pain",
       "fx": -156.45759828629048,
       "fy": -194.49017137104528,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "symptoms",

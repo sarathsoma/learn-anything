@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Thalamus",
       "fx": 174.63706767983354,
       "fy": -171.2322323938659,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "http://www.wikiwand.com/en/Hypothalamus",
       "fx": -123.95352664301424,
       "fy": -16.18065518916211,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -21,6 +23,7 @@
       "url": "http://www.wikiwand.com/en/Posterior_pituitary",
       "fx": 102.72381897993637,
       "fy": -16.01363921404908,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/neuroscience/human-brain/thalamus/limbic-system",
       "fx": 367.8722426470591,
       "fy": -13.194393382349233,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,10 +39,10 @@
       "url": "/biology/physiology/homeostasis",
       "fx": -251.06341604367515,
       "fy": 134.05968270460357,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "thalamus",

@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Electricity",
       "fx": -74.625,
       "fy": -172.72265625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -50.4208733974358,
-      "fy": -56.71935096153845
+      "fy": -56.71935096153845,
+      "nodes": [
+        {
+          "text": "1. electric charge",
+          "url": "https://www.youtube.com/watch?v=TFlVWf8JX4A",
+          "fx": 105.5791266025642,
+          "fy": -45.21935096153845,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "electric current  ️",
       "url": "/physics/electromagnetism/electricity/electric-current",
       "fx": -178.09096498842587,
       "fy": 71.1400101273149,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "http://www.wikiwand.com/en/Electrical_energy",
       "fx": 43.11293717616559,
       "fy": 72.74093264248705,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -34,6 +48,7 @@
       "url": "http://www.wikiwand.com/en/Electrochemical_cell",
       "fx": 20.295688291139186,
       "fy": 191.91317246835445,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -41,6 +56,7 @@
       "url": "/engineering/electrical-engineering/electronics",
       "fx": -170.12022569444412,
       "fy": 198.84273726850745,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,18 +64,8 @@
       "url": "/physics/electromagnetism/electricity/batteries",
       "fx": 74.41535400411419,
       "fy": 316.76056862213363,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. electric charge",
-      "url": "https://www.youtube.com/watch?v=TFlVWf8JX4A",
-      "fx": 105.5791266025642,
-      "fy": -45.21935096153845,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

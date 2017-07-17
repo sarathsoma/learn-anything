@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Kernel_(image_processing)",
       "fx": 23.38190460205078,
       "fy": -135.12874031066895,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 66.0546875,
-      "fy": 6.6171875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. kernels explained visually",
-      "url": "http://setosa.io/ev/image-kernels/",
-      "fx": 222.0546875,
-      "fy": 18.1171875,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 6.6171875,
+      "nodes": [
+        {
+          "text": "1. kernels explained visually",
+          "url": "http://setosa.io/ev/image-kernels/",
+          "fx": 222.0546875,
+          "fy": 18.1171875,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

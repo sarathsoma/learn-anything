@@ -7,23 +7,25 @@
       "url": "http://www.wikiwand.com/en/Linear_regression",
       "fx": -85.47265625,
       "fy": -155.2890625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -34.45703125,
-      "fy": -19.640625
+      "fy": -19.640625,
+      "nodes": []
     },
     {
       "text": "generalised linear models  ️",
       "url": "/mathematics/statistics/regression-analysis/linear-regression/generalised-linear-models",
       "fx": -230.17578125,
       "fy": 103.375,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "linear regression",

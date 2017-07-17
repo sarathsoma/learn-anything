@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Content_management_system",
       "fx": -178.62539720535267,
       "fy": -68.07176971435541,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/web-development/content-management-systems/wordpress",
       "fx": -235.40882189520198,
       "fy": 67.32406651287641,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,6 +24,7 @@
       "url": "/web-development/content-management-systems/drupal",
       "fx": -46.083896061788096,
       "fy": 67.65042213450192,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +32,7 @@
       "url": "http://www.wikiwand.com/en/Joomla",
       "fx": 98.85180660976789,
       "fy": 68.47518457320871,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -36,10 +40,10 @@
       "url": "http://www.wikiwand.com/en/TYPO3",
       "fx": 253.83689454199475,
       "fy": 69.15486434264017,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "content management system",

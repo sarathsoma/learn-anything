@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Bionics",
       "fx": 77.98828125,
       "fy": -209.140625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 126.2734375,
-      "fy": -78.08203125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "15: can prosthetics outperform real limbs?",
-      "url": "https://www.youtube.com/watch?v=a2z8CE2vomY",
-      "fx": 317.2734375,
-      "fy": -77.58203125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "fy": -78.08203125,
+      "nodes": [
+        {
+          "text": "15: can prosthetics outperform real limbs?",
+          "url": "https://www.youtube.com/watch?v=a2z8CE2vomY",
+          "fx": 317.2734375,
+          "fy": -77.58203125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

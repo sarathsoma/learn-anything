@@ -7,6 +7,17 @@
       "url": "http://www.wikiwand.com/en/Urban_planning",
       "fx": 197.7890625,
       "fy": -220.125,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/urbanplanning/",
+          "fx": 459.7890625,
+          "fy": -206.125,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,27 +25,18 @@
       "note": "",
       "url": "",
       "fx": 245.48462677001953,
-      "fy": -75.00295400619507
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/urbanplanning/",
-      "fx": 459.7890625,
-      "fy": -206.125,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "urban planning"
-    },
-    {
-      "text": "1. the city in history: its origins, its transformations, and its prospects",
-      "url": "https://www.goodreads.com/book/show/544053.The_City_in_History?from_search=true",
-      "fx": 427.48462677001953,
-      "fy": -85.50295400619507,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -75.00295400619507,
+      "nodes": [
+        {
+          "text": "1. the city in history: its origins, its transformations, and its prospects",
+          "url": "https://www.goodreads.com/book/show/544053.The_City_in_History?from_search=true",
+          "fx": 427.48462677001953,
+          "fy": -85.50295400619507,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

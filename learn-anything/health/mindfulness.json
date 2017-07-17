@@ -7,25 +7,77 @@
       "url": "http://www.wikiwand.com/en/Mindfulness",
       "fx": 201.6950385635779,
       "fy": -669.7998704601424,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Mindfulness/",
+          "fx": 436.6950385635779,
+          "fy": -655.7998704601424,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 362.66602714448345,
-      "fy": -562.3323385709482
+      "fy": -562.3323385709482,
+      "nodes": [
+        {
+          "text": "16: what it means to live a conscious life  ️",
+          "url": "https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077",
+          "fx": 524.6660271444835,
+          "fy": -561.8323385709482,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 217.60584318084148,
-      "fy": -413.60345576752104
+      "fy": -413.60345576752104,
+      "nodes": [
+        {
+          "text": "1. mindfulness in plain english",
+          "url": "http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf",
+          "fx": 373.6058431808415,
+          "fy": -453.10345576752104,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. the book by Alan Watts",
+          "url": "http://www.freespiritualebooks.com/uploads/5/0/5/8/50589505/the-book-on-the-taboo-against-knowing-who-you-are-by-alan-watts.pdf",
+          "fx": 373.6058431808415,
+          "fy": -413.10345576752104,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. Alan Watts explains what awakening means",
+          "url": "https://www.youtube.com/watch?v=7SfZZlpfaN0",
+          "fx": 373.6058431808415,
+          "fy": -373.10345576752104,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "zen  ️",
       "url": "/health/mindfulness/zen",
       "fx": -386.4062805175781,
       "fy": -241.1925163269043,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,6 +85,7 @@
       "url": "/health/mindfulness/awareness",
       "fx": -558.5459756443643,
       "fy": -240.47816506410254,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +93,7 @@
       "url": "/health/mindfulness/minimalism",
       "fx": -260.1389691891111,
       "fy": -240.0419167154568,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,6 +101,7 @@
       "url": "/health/mindfulness/discipline",
       "fx": 115.67623197115358,
       "fy": -236.091796875,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -54,6 +109,7 @@
       "url": "/health/mindfulness/meditation",
       "fx": -66.78343874619623,
       "fy": -234.98120056353594,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -61,60 +117,15 @@
       "url": "/health/mindfulness/habits",
       "fx": 279.6644113672696,
       "fy": -234.05904557460417,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "buddhism  ️",
       "fx": -423.0101994063348,
       "fy": -126.27058161149245,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Mindfulness/",
-      "fx": 436.6950385635779,
-      "fy": -655.7998704601424,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "mindfulness"
-    },
-    {
-      "text": "16: what it means to live a conscious life  ️",
-      "url": "https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077",
-      "fx": 524.6660271444835,
-      "fy": -561.8323385709482,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. mindfulness in plain english",
-      "url": "http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf",
-      "fx": 373.6058431808415,
-      "fy": -453.10345576752104,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. the book by Alan Watts",
-      "url": "http://www.freespiritualebooks.com/uploads/5/0/5/8/50589505/the-book-on-the-taboo-against-knowing-who-you-are-by-alan-watts.pdf",
-      "fx": 373.6058431808415,
-      "fy": -413.10345576752104,
-      "category": "free book",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. Alan Watts explains what awakening means",
-      "url": "https://www.youtube.com/watch?v=7SfZZlpfaN0",
-      "fx": 373.6058431808415,
-      "fy": -373.10345576752104,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

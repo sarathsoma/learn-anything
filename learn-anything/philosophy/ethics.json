@@ -8,6 +8,17 @@
       "url": "http://www.wikiwand.com/en/Ethics",
       "fx": 117.43343987938022,
       "fy": -273.26431079827034,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Ethics/",
+          "fx": 324.4334398793802,
+          "fy": -259.26431079827034,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -16,18 +27,8 @@
       "url": "/philosophy/ethics/veganism",
       "fx": 80.27734375,
       "fy": -138.99506578947376,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Ethics/",
-      "fx": 324.4334398793802,
-      "fy": -259.26431079827034,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "ethics"
     }
   ],
   "connections": [

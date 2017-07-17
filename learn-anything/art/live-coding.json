@@ -7,38 +7,41 @@
       "url": "http://www.wikiwand.com/en/Live_coding",
       "fx": 53.37890625,
       "fy": -94.23046875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 189.91337839762366,
-      "fy": 14.596035639445006
+      "fy": 14.596035639445006,
+      "nodes": [
+        {
+          "text": "awesome live coding",
+          "url": "https://github.com/lvm/awesome-livecoding",
+          "fx": 326.91337839762366,
+          "fy": 26.096035639445006,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 73.25678777694725,
-      "fy": 101.7176303863526
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome live coding",
-      "url": "https://github.com/lvm/awesome-livecoding",
-      "fx": 326.91337839762366,
-      "fy": 26.096035639445006,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. what is live coding",
-      "url": "https://toplap.org/about/",
-      "fx": 229.25678777694725,
-      "fy": 116.2176303863526,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 101.7176303863526,
+      "nodes": [
+        {
+          "text": "1. what is live coding",
+          "url": "https://toplap.org/about/",
+          "fx": 229.25678777694725,
+          "fy": 116.2176303863526,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

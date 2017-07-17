@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Stack_trace",
       "fx": -36.9453125,
       "fy": -352.953125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -1.9140625,
-      "fy": -208.2265625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation  ️",
-      "url": "https://stackoverflow.com/a/33123156/3067664",
-      "fx": 161.0859375,
-      "fy": -195.7265625,
-      "category": "stack exchange",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -208.2265625,
+      "nodes": [
+        {
+          "text": "1. explanation  ️",
+          "url": "https://stackoverflow.com/a/33123156/3067664",
+          "fx": 161.0859375,
+          "fy": -195.7265625,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

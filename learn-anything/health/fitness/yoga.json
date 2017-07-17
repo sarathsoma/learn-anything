@@ -8,55 +8,59 @@
       "url": "http://www.wikiwand.com/en/Yoga",
       "fx": -55.22413793103442,
       "fy": -2,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/yoga/",
+          "fx": 141.77586206896558,
+          "fy": 12,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 70.1450365817908,
-      "fy": 105.20783428230675
+      "fy": 105.20783428230675,
+      "nodes": [
+        {
+          "text": "do yoga with me",
+          "url": "https://www.doyogawithme.com/",
+          "fx": 207.1450365817908,
+          "fy": 99.70783428230675,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "yoga with Adriene",
+          "url": "https://www.youtube.com/user/yogawithadriene/videos",
+          "fx": 207.1450365817908,
+          "fy": 133.70783428230675,
+          "nodes": [],
+          "category": "youtube",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -29.566564078282795,
-      "fy": 194.20245422979804
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/yoga/",
-      "fx": 141.77586206896558,
-      "fy": 12,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "yoga"
-    },
-    {
-      "text": "do yoga with me",
-      "url": "https://www.doyogawithme.com/",
-      "fx": 207.1450365817908,
-      "fy": 99.70783428230675,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "yoga with Adriene",
-      "url": "https://www.youtube.com/user/yogawithadriene/videos",
-      "fx": 207.1450365817908,
-      "fy": 133.70783428230675,
-      "category": "youtube",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. learning yoga",
-      "url": "http://www.learningyoga.com/",
-      "fx": 126.4334359217172,
-      "fy": 208.70245422979804,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 194.20245422979804,
+      "nodes": [
+        {
+          "text": "1. learning yoga",
+          "url": "http://www.learningyoga.com/",
+          "fx": 126.4334359217172,
+          "fy": 208.70245422979804,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

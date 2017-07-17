@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Poisson_distribution",
       "fx": -116.97265625,
       "fy": -126.3515625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -46.5,
-      "fy": -2
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction",
-      "url": "https://www.youtube.com/watch?v=8px7xuk_7OU",
-      "fx": 109.5,
-      "fy": 9.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://www.youtube.com/watch?v=8px7xuk_7OU",
+          "fx": 109.5,
+          "fy": 9.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

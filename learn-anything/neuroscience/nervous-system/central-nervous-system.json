@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Nervous_system",
       "fx": 99.36396789550781,
       "fy": -141.35448145866394,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 184.9965501673081,
-      "fy": -7.169576252208003
+      "fy": -7.169576252208003,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=q8NtmDrb_qo",
+          "fx": 340.9965501673081,
+          "fy": 4.330423747791997,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "sensory nerves",
       "url": "http://www.wikiwand.com/en/Sensory_nerve",
       "fx": -419.50977345629354,
       "fy": 123.21196287757283,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/neuroscience/human-brain",
       "fx": 16.22579405737713,
       "fy": 125.06595799180332,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +48,7 @@
       "url": "http://www.wikiwand.com/en/Motor_nerve",
       "fx": -196.384147202574,
       "fy": 127.24165024191967,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -41,6 +56,7 @@
       "url": "/neuroscience/nervous-system/central-nervous-system/spinal-cord",
       "fx": 158.47789001464844,
       "fy": 128.34631538391113,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,18 +64,8 @@
       "url": "/neuroscience/nervous-system/central-nervous-system/visual-system",
       "fx": 337.0317146726086,
       "fy": 128.4335801132396,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=q8NtmDrb_qo",
-      "fx": 340.9965501673081,
-      "fy": 4.330423747791997,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

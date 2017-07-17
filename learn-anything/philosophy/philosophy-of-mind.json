@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Philosophy_of_mind",
       "fx": -6.41015625,
       "fy": -234.6875,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,7 +15,27 @@
       "note": "",
       "url": "",
       "fx": 62.99609375,
-      "fy": -107.5703125
+      "fy": -107.5703125,
+      "nodes": [
+        {
+          "text": "1. matter and consciousness: a contemporary introduction to the philosophy of mind",
+          "url": "http://www.goodreads.com/book/show/357298.Matter_and_Consciousness",
+          "fx": 244.99609375,
+          "fy": -138.0703125,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. mind: a brief introduction",
+          "url": "http://www.goodreads.com/book/show/51905.Mind",
+          "fx": 244.99609375,
+          "fy": -54.0703125,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "free will  ️",
@@ -22,6 +43,7 @@
       "url": "/philosophy/philosophy-of-mind/free-will",
       "fx": -390.0000521267723,
       "fy": -29.04243988045556,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +51,7 @@
       "url": "/philosophy/philosophy-of-mind/consciousness",
       "fx": -476.9396494801081,
       "fy": 68.81292890416984,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,6 +59,7 @@
       "url": "/philosophy/philosophy-of-mind/solipsism",
       "fx": 315.59189151982514,
       "fy": 69.98609581497658,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,6 +67,7 @@
       "url": "http://www.wikiwand.com/en/Functionalism_(philosophy_of_mind)",
       "fx": 162.53408758341936,
       "fy": 161.69713153758937,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -50,6 +75,7 @@
       "url": "http://www.wikiwand.com/en/Dualism",
       "fx": -38.39649949679813,
       "fy": 177.07081465630694,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -57,6 +83,7 @@
       "url": "/philosophy/philosophy-of-mind/metaphysics",
       "fx": -287.87329472580984,
       "fy": 187.89017152133056,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -64,6 +91,7 @@
       "url": "http://www.wikiwand.com/en/Qualia",
       "fx": -432.2287564212328,
       "fy": 191.52407962328755,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -71,6 +99,7 @@
       "url": "/philosophy/philosophy-of-mind/physicalism",
       "fx": 47.392570377267816,
       "fy": 254.10681163225433,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -78,27 +107,8 @@
       "url": "/philosophy/philosophy-of-mind/phenomenology",
       "fx": -128.77296840252063,
       "fy": 366.63823607765016,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. matter and consciousness: a contemporary introduction to the philosophy of mind",
-      "url": "http://www.goodreads.com/book/show/357298.Matter_and_Consciousness",
-      "fx": 244.99609375,
-      "fy": -138.0703125,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. mind: a brief introduction",
-      "url": "http://www.goodreads.com/book/show/51905.Mind",
-      "fx": 244.99609375,
-      "fy": -54.0703125,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

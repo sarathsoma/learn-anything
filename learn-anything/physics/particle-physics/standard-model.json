@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Standard_Model",
       "fx": 248.26953125000006,
       "fy": -225.38671875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 302.3881635274,
-      "fy": -70.12601669519398
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=XYcw8nV_GTs",
-      "fx": 465.3881635274,
-      "fy": -57.62601669519398,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -70.12601669519398,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=XYcw8nV_GTs",
+          "fx": 465.3881635274,
+          "fy": -57.62601669519398,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

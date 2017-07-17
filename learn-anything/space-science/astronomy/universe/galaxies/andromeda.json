@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Andromeda_Galaxy",
       "fx": -153.1870877826633,
       "fy": -271.3534272927136,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -88.69140625,
-      "fy": -122.06640625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. gigapixels of andromeda",
-      "url": "https://www.youtube.com/watch?v=udAL48P5NJU",
-      "fx": 67.30859375,
-      "fy": -110.56640625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -122.06640625,
+      "nodes": [
+        {
+          "text": "1. gigapixels of andromeda",
+          "url": "https://www.youtube.com/watch?v=udAL48P5NJU",
+          "fx": 67.30859375,
+          "fy": -110.56640625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

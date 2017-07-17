@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Ring_(mathematics)",
       "fx": -75.85968208312988,
       "fy": -25.91719925403595,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -69.54296875,
-      "fy": 113.1328125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. definition of a ring",
-      "url": "https://www.youtube.com/watch?v=6RC70C9FNXI",
-      "fx": 86.45703125,
-      "fy": 124.6328125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 113.1328125,
+      "nodes": [
+        {
+          "text": "1. definition of a ring",
+          "url": "https://www.youtube.com/watch?v=6RC70C9FNXI",
+          "fx": 86.45703125,
+          "fy": 124.6328125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

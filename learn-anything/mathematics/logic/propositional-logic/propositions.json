@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Proposition",
       "fx": -87.4765625,
       "fy": -147.92578125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -51,
-      "fy": -2
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=0s_VgdpswV8",
-      "fx": 112,
-      "fy": 10.5,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=0s_VgdpswV8",
+          "fx": 112,
+          "fy": 10.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

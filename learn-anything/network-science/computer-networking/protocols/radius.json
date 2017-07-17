@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/RADIUS",
       "fx": -131.84765625,
       "fy": -216.19140625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -33.1789445935583,
-      "fy": -23.673768213190215
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. overview and details of the protocol",
-      "url": "http://www.tml.tkk.fi/Studies/T-110.551/2003/papers/12.pdf",
-      "fx": 122.8210554064417,
-      "fy": -23.173768213190215,
-      "category": "paper",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -23.673768213190215,
+      "nodes": [
+        {
+          "text": "1. overview and details of the protocol",
+          "url": "http://www.tml.tkk.fi/Studies/T-110.551/2003/papers/12.pdf",
+          "fx": 122.8210554064417,
+          "fy": -23.173768213190215,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

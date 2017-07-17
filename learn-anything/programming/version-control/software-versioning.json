@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Software_versioning",
       "fx": 143.9357638888888,
       "fy": -172.0447048611111,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/programming/version-control/semantic-versioning",
       "fx": -9.1847873263888,
       "fy": -14.032443576388914,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "software versioning",

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/God",
       "fx": 25.87932140700468,
       "fy": -187.46312650966178,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 29.43550197165314,
-      "fy": -54.650186797893696
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. Alan Watts - nature of God",
-      "url": "https://www.youtube.com/watch?v=aLg4AV60uWY",
-      "fx": 192.43550197165314,
-      "fy": -42.150186797893696,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -54.650186797893696,
+      "nodes": [
+        {
+          "text": "1. Alan Watts - nature of God",
+          "url": "https://www.youtube.com/watch?v=aLg4AV60uWY",
+          "fx": 192.43550197165314,
+          "fy": -42.150186797893696,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

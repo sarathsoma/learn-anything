@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Nuclear_physics",
       "fx": -5.3828125,
       "fy": -269.91015625,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,34 +15,35 @@
       "note": "",
       "url": "",
       "fx": 32.132362175936805,
-      "fy": -131.3225626304968
+      "fy": -131.3225626304968,
+      "nodes": [
+        {
+          "text": "1. five lectures on effective field theory",
+          "url": "https://arxiv.org/pdf/nucl-th/0510023.pdf",
+          "fx": 214.1323621759368,
+          "fy": -150.8225626304968,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. a primer in nuclear theory",
+          "url": "https://arxiv.org/pdf/nucl-th/0301069v1.pdf",
+          "fx": 214.1323621759368,
+          "fy": -88.8225626304968,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "nuclear reactions  ️",
       "url": "/physics/nuclear-physics/nuclear-reactions",
       "fx": -86.291015625,
       "fy": 44.57421875,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. five lectures on effective field theory",
-      "url": "https://arxiv.org/pdf/nucl-th/0510023.pdf",
-      "fx": 214.1323621759368,
-      "fy": -150.8225626304968,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. a primer in nuclear theory",
-      "url": "https://arxiv.org/pdf/nucl-th/0301069v1.pdf",
-      "fx": 214.1323621759368,
-      "fy": -88.8225626304968,
-      "category": "paper",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

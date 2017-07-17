@@ -6,47 +6,79 @@
       "text": "WebRTC",
       "note": "",
       "url": "http://www.wikiwand.com/en/WebRTC",
-      "fx": -52.09375,
-      "fy": -149.43359375,
+      "fx": -56.31936233108104,
+      "fy": -161.38196790540536,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/WebRTC/",
+          "fx": 179.68063766891896,
+          "fy": -167.38196790540536,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://github.com/webrtc",
+          "fx": 179.68063766891896,
+          "fy": -127.38196790540536,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 107.06283378601074,
-      "fy": -26.739169597625732
+      "fx": 82.90478902249708,
+      "fy": -36.83471436113922,
+      "nodes": [
+        {
+          "text": "everything about WebRTC",
+          "url": "https://github.com/muaz-khan/WebRTC-Experiment",
+          "fx": 219.90478902249708,
+          "fy": -25.33471436113922,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -13.74609375,
-      "fy": 72.66796875
+      "fx": -62.02259290540519,
+      "fy": 70.20016891891885,
+      "nodes": [
+        {
+          "text": "1. a real world guide to WebRTC  ️",
+          "url": "https://deepstreamhub.com/tutorials/protocols/webrtc-intro/",
+          "fx": 93.97740709459481,
+          "fy": 64.70016891891885,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. introduction",
+          "url": "https://codelabs.developers.google.com/codelabs/webrtc-web/#0",
+          "fx": 93.97740709459481,
+          "fy": 104.70016891891885,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "WebTorrent  ️",
       "url": "/network-science/computer-networking/protocols/webrtc/webtorrent",
-      "fx": -162.68608566810326,
-      "fy": 192.81270204741395,
+      "fx": -211.0074539113465,
+      "fy": 192.13702637173822,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "everything about WebRTC",
-      "url": "https://github.com/muaz-khan/WebRTC-Experiment",
-      "fx": 244.06283378601074,
-      "fy": -15.239169597625732,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. introduction",
-      "url": "https://codelabs.developers.google.com/codelabs/webrtc-web/#0",
-      "fx": 142.25390625,
-      "fy": 87.16796875,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [
@@ -54,24 +86,24 @@
       "source": "help",
       "target": "WebRTC",
       "curve": {
-        "x": -61.3283,
-        "y": -60.0972
+        "x": -51.3621,
+        "y": -61.0236
       }
     },
     {
       "source": "WebRTC",
       "target": "basics",
       "curve": {
-        "x": -0.826172,
-        "y": 109.801
+        "x": -22.8516,
+        "y": 114.541
       }
     },
     {
       "source": "basics",
       "target": "WebTorrent  ️",
       "curve": {
-        "x": -55.72,
-        "y": 61.3224
+        "x": -55.7424,
+        "y": 62.2185
       }
     }
   ]

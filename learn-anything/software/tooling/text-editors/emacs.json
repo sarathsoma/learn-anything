@@ -5,80 +5,106 @@
     {
       "text": "emacs",
       "url": "https://www.gnu.org/software/emacs/",
-      "fx": -109.89532424812046,
-      "fy": -98.42381343984943
+      "fx": -100.57016197720873,
+      "fy": -178.05709311119574,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/emacs-tw/awesome-emacs",
+          "fx": 58.42983802279127,
+          "fy": -166.55709311119574,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
-      "fx": -1.84259033203125,
-      "fy": 18.8688907623291
+      "fx": 9.563572474888247,
+      "fy": -70.89468749483723,
+      "nodes": [
+        {
+          "text": "15: getting started with emacs? empty your cup  ️",
+          "url": "http://sachachua.com/blog/2015/02/getting-started-emacs-empty-cup/",
+          "fx": 171.56357247488825,
+          "fy": -70.39468749483723,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "videos",
       "url": "",
-      "fx": 87.25312040802237,
-      "fy": 113.8589166913714
+      "fx": 113.98105780522656,
+      "fy": 32.551713441547804,
+      "nodes": [
+        {
+          "text": "emacs multiple cursors",
+          "url": "http://emacsrocks.com/e13.html",
+          "fx": 270.98105780522656,
+          "fy": 44.051713441547804,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "tools",
       "url": "",
-      "fx": 298.10219464983265,
-      "fy": 216.3232634694955
+      "fx": 201.13144288027183,
+      "fy": 126.2998268873173,
+      "nodes": [
+        {
+          "text": "hack emacs in Go",
+          "url": "https://github.com/Quasilyte/goism",
+          "fx": 343.13144288027183,
+          "fy": 137.7998268873173,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 263.47277832031205,
+      "fy": 220.37853005847091,
+      "nodes": [
+        {
+          "text": "remacs",
+          "note": "emacs in rust",
+          "url": "https://github.com/Wilfred/remacs",
+          "fx": 454.47277832031205,
+          "fy": 231.87853005847091,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -148.97185524179577,
-      "fy": 270.9450757575754
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/emacs-tw/awesome-emacs",
-      "fx": 49.10467575187954,
-      "fy": -86.92381343984943,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "emacs"
-    },
-    {
-      "text": "15: getting started with emacs? empty your cup  ️",
-      "url": "http://sachachua.com/blog/2015/02/getting-started-emacs-empty-cup/",
-      "fx": 160.15740966796875,
-      "fy": 19.3688907623291,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "emacs multiple cursors",
-      "url": "http://emacsrocks.com/e13.html",
-      "fx": 244.25312040802237,
-      "fy": 125.3589166913714,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "videos"
-    },
-    {
-      "text": "hack emacs in Go",
-      "url": "https://github.com/Quasilyte/goism",
-      "fx": 440.10219464983265,
-      "fy": 227.8232634694955,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "1. practical emacs tutorial",
-      "url": "http://ergoemacs.org/emacs/emacs.html",
-      "fx": 33.028144758204235,
-      "fy": 282.4450757575754,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fx": -284.26933508642685,
+      "fy": 257.01653186366104,
+      "nodes": [
+        {
+          "text": "1. practical emacs tutorial",
+          "url": "http://ergoemacs.org/emacs/emacs.html",
+          "fx": -102.26933508642685,
+          "fy": 268.51653186366104,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [
@@ -86,32 +112,40 @@
       "source": "videos",
       "target": "articles",
       "curve": {
-        "x": -43.2979,
-        "y": -47.495
+        "x": -50.9588,
+        "y": -51.7232
       }
     },
     {
       "source": "emacs",
       "target": "basics",
       "curve": {
-        "x": -26.7883,
-        "y": 184.685
+        "x": -99.0996,
+        "y": 217.537
       }
     },
     {
       "source": "tools",
       "target": "videos",
       "curve": {
-        "x": -101.675,
-        "y": -51.2322
+        "x": -39.8257,
+        "y": -46.8741
       }
     },
     {
       "source": "articles",
       "target": "emacs",
       "curve": {
-        "x": -54.7764,
-        "y": -58.6464
+        "x": -55.8169,
+        "y": -53.5813
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "tools",
+      "curve": {
+        "x": -43.4207,
+        "y": -47.0394
       }
     }
   ]

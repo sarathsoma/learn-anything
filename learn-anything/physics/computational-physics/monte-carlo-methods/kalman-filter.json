@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Kalman_filter",
       "fx": -87.6259962618351,
       "fy": -205.91873359680176,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -51.54216483235359,
-      "fy": -45.449047565460205
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. how a Kalman filter works, in pictures  ️",
-      "url": "http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/",
-      "fx": 104.45783516764641,
-      "fy": -44.949047565460205,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -45.449047565460205,
+      "nodes": [
+        {
+          "text": "1. how a Kalman filter works, in pictures  ️",
+          "url": "http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/",
+          "fx": 104.45783516764641,
+          "fy": -44.949047565460205,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Communication",
       "fx": -162.89676770962137,
       "fy": -401.4616867414038,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,10 +16,10 @@
       "url": "/communication/telecommunication",
       "fx": -281.75133149869964,
       "fy": -265.8628164101564,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "communication",

@@ -7,56 +7,60 @@
       "url": "http://www.wikiwand.com/en/French_language",
       "fx": -125.2542317211628,
       "fy": -159.79037857055664,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/French/",
+          "fx": 146.7457682788372,
+          "fy": -165.79037857055664,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://french.stackexchange.com/",
+          "fx": 146.7457682788372,
+          "fy": -125.79037857055664,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 66.60679997756995,
-      "fy": -32.569226784966645
+      "fy": -32.569226784966645,
+      "nodes": [
+        {
+          "text": "grammar and spelling checker",
+          "url": "https://bonpatron.com/en/",
+          "fx": 203.60679997756995,
+          "fy": -18.069226784966645,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -90.76174771785736,
-      "fy": 73.5976317030752
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/French/",
-      "fx": 146.7457682788372,
-      "fy": -165.79037857055664,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "french language"
-    },
-    {
-      "text": "️",
-      "url": "https://french.stackexchange.com/",
-      "fx": 146.7457682788372,
-      "fy": -125.79037857055664,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "french language"
-    },
-    {
-      "text": "grammar and spelling checker",
-      "url": "https://bonpatron.com/en/",
-      "fx": 203.60679997756995,
-      "fy": -18.069226784966645,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. duolingo",
-      "url": "https://www.duolingo.com/course/fr/en/Learn-French-Online",
-      "fx": 91.23825228214264,
-      "fy": 88.0976317030752,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 73.5976317030752,
+      "nodes": [
+        {
+          "text": "1. duolingo",
+          "url": "https://www.duolingo.com/course/fr/en/Learn-French-Online",
+          "fx": 91.23825228214264,
+          "fy": 88.0976317030752,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

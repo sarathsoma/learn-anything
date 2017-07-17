@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Internal_rate_of_return",
       "fx": -111.65625,
       "fy": -150.125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -42,
-      "fy": -22.765625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=OSDDrZZaV8E",
-      "fx": 114,
-      "fy": -11.265625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -22.765625,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=OSDDrZZaV8E",
+          "fx": 114,
+          "fy": -11.265625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

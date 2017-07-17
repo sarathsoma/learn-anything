@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Emotion",
       "fx": -132.20012517265184,
       "fy": -212.49216591850825,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,13 +15,25 @@
       "note": "i",
       "url": "",
       "fx": -115.61959551122573,
-      "fy": -95.88623687318125
+      "fy": -95.88623687318125,
+      "nodes": [
+        {
+          "text": "1. feeling all the feels",
+          "url": "https://www.youtube.com/watch?v=gAMbkJk6gnE",
+          "fx": 73.38040448877427,
+          "fy": -83.38623687318125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "fear  ️",
       "url": "/cognitive-science/cognition/emotions/fear",
       "fx": -338.8381549099123,
       "fy": 34.88544934842605,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +41,7 @@
       "url": "/cognitive-science/cognition/emotions/happiness",
       "fx": -220.56316757202148,
       "fy": 37.811036109924316,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +49,7 @@
       "url": "/cognitive-science/cognition/emotions/love",
       "fx": -39.430813789367676,
       "fy": 39.427523612976074,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,18 +57,8 @@
       "url": "/cognitive-science/cognition/emotions/empathy",
       "fx": 84.1446533203125,
       "fy": 43.835449218750114,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. feeling all the feels",
-      "url": "https://www.youtube.com/watch?v=gAMbkJk6gnE",
-      "fx": 73.38040448877427,
-      "fy": -83.38623687318125,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

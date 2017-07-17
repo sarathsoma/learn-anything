@@ -8,19 +8,42 @@
       "url": "http://www.wikiwand.com/en/Data_analysis",
       "fx": -14.327316810344882,
       "fy": -382.20043103448273,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/onurakpolat/awesome-analytics",
+          "fx": 270.6726831896551,
+          "fy": -368.20043103448273,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 153.00592181630066,
-      "fy": -251.56572080487751
+      "fy": -251.56572080487751,
+      "nodes": [
+        {
+          "text": "notes on data analysis  ️",
+          "url": "http://frnsys.com/ai_notes/in_practice/process.html",
+          "fx": 294.00592181630066,
+          "fy": -239.06572080487751,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "time series analysis  ️",
       "url": "/data-science/data-analysis/time-series-analysis",
       "fx": -163.98517417907715,
       "fy": -170.0902795791626,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +51,7 @@
       "url": "/data-science/data-analysis/analytics",
       "fx": -337.5306205749512,
       "fy": -168.7911319732666,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,51 +59,34 @@
       "url": "/data-science/data-analysis/data-quality",
       "fx": -528.6710127703196,
       "fy": -166.05482421898756,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "tools",
       "url": "",
       "fx": 249.85539812181833,
-      "fy": -131.5476342918766
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/onurakpolat/awesome-analytics",
-      "fx": 270.6726831896551,
-      "fy": -368.20043103448273,
-      "category": "github",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "data analysis"
-    },
-    {
-      "text": "notes on data analysis  ️",
-      "url": "http://frnsys.com/ai_notes/in_practice/process.html",
-      "fx": 294.00592181630066,
-      "fy": -239.06572080487751,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "pandas  ️",
-      "url": "/data-science/data-analysis/pandas",
-      "fx": 395.8553981218183,
-      "fy": -140.0476342918766,
-      "category": "mindmap",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "visidata",
-      "url": "https://github.com/saulpw/visidata",
-      "fx": 395.8553981218183,
-      "fy": -98.04763429187659,
-      "category": "github",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "tools"
+      "fy": -131.5476342918766,
+      "nodes": [
+        {
+          "text": "pandas  ️",
+          "url": "/data-science/data-analysis/pandas",
+          "fx": 395.8553981218183,
+          "fy": -140.0476342918766,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "visidata",
+          "url": "https://github.com/saulpw/visidata",
+          "fx": 395.8553981218183,
+          "fy": -98.04763429187659,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

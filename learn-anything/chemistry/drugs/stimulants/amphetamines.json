@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Amphetamine",
       "fx": 75.61940696022702,
       "fy": -100.15207741477269,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 127.5,
-      "fy": 30
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. how does Adderall work",
-      "url": "https://www.youtube.com/watch?v=nACgo1wFf_U",
-      "fx": 283.5,
-      "fy": 41.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 30,
+      "nodes": [
+        {
+          "text": "1. how does Adderall work",
+          "url": "https://www.youtube.com/watch?v=nACgo1wFf_U",
+          "fx": 283.5,
+          "fy": 41.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

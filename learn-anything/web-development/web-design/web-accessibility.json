@@ -7,38 +7,41 @@
       "url": "http://www.wikiwand.com/en/Web_accessibility",
       "fx": -23.353604403409122,
       "fy": -98.00248579545456,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/brunopulis/awesome-a11y",
+          "fx": 255.64639559659088,
+          "fy": -84.00248579545456,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 31.490145596590878,
-      "fy": 45.35307173295456
+      "fy": 45.35307173295456,
+      "nodes": [
+        {
+          "text": "1. overview",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility",
+          "fx": 187.49014559659088,
+          "fy": 59.85307173295456,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "ARIA",
       "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
       "fx": -59.125,
-      "fy": 188.6259765625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/brunopulis/awesome-a11y",
-      "fx": 255.64639559659088,
-      "fy": -84.00248579545456,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "web accessibility"
-    },
-    {
-      "text": "1. overview",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility",
-      "fx": 187.49014559659088,
-      "fy": 59.85307173295456,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 188.6259765625,
+      "nodes": []
     }
   ],
   "connections": [

@@ -7,25 +7,49 @@
       "url": "http://www.wikiwand.com/en/Idea",
       "fx": 43.7578125,
       "fy": -241.09375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 163.6474309815951,
-      "fy": -140.55080521472382
+      "fy": -140.55080521472382,
+      "nodes": [
+        {
+          "text": "where do the ideas come from?",
+          "url": "https://www.youtube.com/watch?v=G3XMEMJUkWw",
+          "fx": 354.6474309815951,
+          "fy": -129.05080521472382,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 44.35817631418479,
-      "fy": -55.9093222199657
+      "fy": -55.9093222199657,
+      "nodes": [
+        {
+          "text": "1. what is an idea?",
+          "url": "https://www.youtube.com/watch?v=SObDW4fXRZQ",
+          "fx": 200.3581763141848,
+          "fy": -44.4093222199657,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "new ideas  ️",
       "url": "/philosophy/ideas/new-ideas",
       "fx": 104.39572886819474,
       "fy": 70.83045308022918,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,27 +57,8 @@
       "url": "/philosophy/ideas/concepts",
       "fx": -80.67113095238085,
       "fy": 72.73602843915342,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "where do the ideas come from?",
-      "url": "https://www.youtube.com/watch?v=G3XMEMJUkWw",
-      "fx": 354.6474309815951,
-      "fy": -129.05080521472382,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. what is an idea?",
-      "url": "https://www.youtube.com/watch?v=SObDW4fXRZQ",
-      "fx": 200.3581763141848,
-      "fy": -44.4093222199657,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

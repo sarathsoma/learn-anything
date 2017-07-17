@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Rights",
       "fx": -61.86328125,
       "fy": -230.91481508027522,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/law/rights/human-rights",
       "fx": -178.8141843463303,
       "fy": -87.87370986238534,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,10 +24,10 @@
       "url": "http://www.wikiwand.com/en/Animal_rights",
       "fx": 34.81681979468112,
       "fy": -86.80816458780833,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "rights",

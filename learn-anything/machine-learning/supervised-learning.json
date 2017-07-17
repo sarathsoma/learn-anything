@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Supervised_learning",
       "fx": -146.953125,
       "fy": -183.01171875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -76.8125,
-      "fy": -50.44752038043475
+      "fy": -50.44752038043475,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://www.youtube.com/watch?v=0dP-YtYZREU",
+          "fx": 79.1875,
+          "fy": -38.94752038043475,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "boosting  ️",
       "url": "/machine-learning/supervised-learning/boosting",
       "fx": -423.07683181899915,
       "fy": 84.46401021052804,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/machine-learning/supervised-learning/support-vector-machines",
       "fx": -261.90824127197266,
       "fy": 84.92847061157227,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,18 +48,8 @@
       "url": "/machine-learning/supervised-learning/perceptrons",
       "fx": 38.20709419250488,
       "fy": 86.7562255859375,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction",
-      "url": "https://www.youtube.com/watch?v=0dP-YtYZREU",
-      "fx": 79.1875,
-      "fy": -38.94752038043475,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

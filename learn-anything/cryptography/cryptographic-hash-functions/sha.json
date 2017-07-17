@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/SHA-1",
       "fx": -66.23046875,
       "fy": -305.4453125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -57.14373802681996,
-      "fy": -153.99096024909971
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=DMtFhACPnTY",
-      "fx": 98.85626197318004,
-      "fy": -142.49096024909971,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -153.99096024909971,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=DMtFhACPnTY",
+          "fx": 98.85626197318004,
+          "fy": -142.49096024909971,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

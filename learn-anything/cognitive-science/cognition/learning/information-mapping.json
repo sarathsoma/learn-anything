@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Information_mapping",
       "fx": -124.5,
       "fy": -192.9140625,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/cognitive-science/cognition/learning/information-mapping/mind-maps",
       "fx": -155.99555468708195,
       "fy": -26.455123910394946,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "information mapping",

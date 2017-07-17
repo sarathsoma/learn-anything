@@ -7,6 +7,17 @@
       "url": "http://www.wikiwand.com/en/Scalable_Vector_Graphics",
       "fx": 442.0077896118164,
       "fy": -14.674628734588623,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/willianjusten/awesome-svg",
+          "fx": 788.0077896118164,
+          "fy": -0.674628734588623,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,27 +25,18 @@
       "note": "",
       "url": "",
       "fx": 528.671875,
-      "fy": 130.47265625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/willianjusten/awesome-svg",
-      "fx": 788.0077896118164,
-      "fy": -0.674628734588623,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "scalable vector graphics"
-    },
-    {
-      "text": "1. take vector graphics to the web  ️",
-      "url": "https://medium.com/coding-artist/take-vector-graphics-to-the-web-an-introduction-to-svgs-f2ee599351df",
-      "fx": 710.671875,
-      "fy": 130.97265625,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 130.47265625,
+      "nodes": [
+        {
+          "text": "1. take vector graphics to the web  ️",
+          "url": "https://medium.com/coding-artist/take-vector-graphics-to-the-web-an-introduction-to-svgs-f2ee599351df",
+          "fx": 710.671875,
+          "fy": 130.97265625,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

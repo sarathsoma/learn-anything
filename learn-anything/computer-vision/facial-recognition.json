@@ -8,62 +8,67 @@
       "url": "http://www.wikiwand.com/en/Facial_recognition_system",
       "fx": -48.578125,
       "fy": -129.1875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 107.89033015108976,
-      "fy": -16.26790803148964
+      "fy": -16.26790803148964,
+      "nodes": [
+        {
+          "text": "eigenfaces for recognition",
+          "url": "http://www.face-rec.org/algorithms/PCA/jcn.pdf",
+          "fx": 244.89033015108976,
+          "fy": -24.76790803148964,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "face recognition using eigenfaces",
+          "url": "http://www.cs.ucsb.edu/%7Emturk/Papers/mturk-CVPR91.pdf",
+          "fx": 244.89033015108976,
+          "fy": 15.23209196851036,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 201.18906990314986,
-      "fy": 90.94101431856183
+      "fy": 90.94101431856183,
+      "nodes": [
+        {
+          "text": "17: indexing faces on Instagram  ️",
+          "url": "https://kndrck.co/indexing-faces-on-instagram.html",
+          "fx": 363.18906990314986,
+          "fy": 102.44101431856183,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "OpenFace",
       "url": "https://cmusatyalab.github.io/openface/",
       "fx": -176.5707459668364,
-      "fy": 168.9685059074959
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "eigenfaces for recognition",
-      "url": "http://www.face-rec.org/algorithms/PCA/jcn.pdf",
-      "fx": 244.89033015108976,
-      "fy": -24.76790803148964,
-      "category": "paper",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "face recognition using eigenfaces",
-      "url": "http://www.cs.ucsb.edu/%7Emturk/Papers/mturk-CVPR91.pdf",
-      "fx": 244.89033015108976,
-      "fy": 15.23209196851036,
-      "category": "paper",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "17: indexing faces on Instagram  ️",
-      "url": "https://kndrck.co/indexing-faces-on-instagram.html",
-      "fx": 363.18906990314986,
-      "fy": 102.44101431856183,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "usage",
-      "url": "https://cmusatyalab.github.io/openface/usage/",
-      "fx": 15.429254033163602,
-      "fy": 183.4685059074959,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "OpenFace"
+      "fy": 168.9685059074959,
+      "nodes": [
+        {
+          "text": "usage",
+          "url": "https://cmusatyalab.github.io/openface/usage/",
+          "fx": 15.429254033163602,
+          "fy": 183.4685059074959,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

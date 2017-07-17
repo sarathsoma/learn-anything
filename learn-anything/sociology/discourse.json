@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Discourse",
       "fx": 134.4296875,
       "fy": -275.4375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/sociology/discourse/rhetoric",
       "fx": 228.61328125,
       "fy": -143.8359375,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,10 +23,10 @@
       "url": "/sociology/discourse/persuasion",
       "fx": 36.64453125,
       "fy": -141.0390625,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "discourse",

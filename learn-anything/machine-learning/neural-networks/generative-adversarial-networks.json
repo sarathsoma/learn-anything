@@ -7,66 +7,69 @@
       "url": "http://www.wikiwand.com/en/Generative_adversarial_networks",
       "fx": 45.79296875,
       "fy": -296.5710867117117,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 310.6450309108702,
-      "fy": -151.97412366615436
+      "fy": -151.97412366615436,
+      "nodes": [
+        {
+          "text": "17: generative models and GANs  ️",
+          "url": "https://medium.com/towards-data-science/generative-models-and-gans-fe7efc20020b",
+          "fx": 479.6450309108702,
+          "fy": -172.97412366615436,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "17: abusing GANs to make 8-bit pixel art  ️",
+          "url": "https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7",
+          "fx": 479.6450309108702,
+          "fy": -130.97412366615436,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 103.7370129870128,
-      "fy": 31.321952786796487
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "17: generative models and GANs  ️",
-      "url": "https://medium.com/towards-data-science/generative-models-and-gans-fe7efc20020b",
-      "fx": 479.6450309108702,
-      "fy": -172.97412366615436,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: abusing GANs to make 8-bit pixel art  ️",
-      "url": "https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7",
-      "fx": 479.6450309108702,
-      "fy": -130.97412366615436,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. Ian Goodfellow : generative adversarial networks",
-      "url": "https://www.youtube.com/watch?v=HN9NRhm9waY",
-      "fx": 266.7370129870128,
-      "fy": -23.178047213203513,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. introduction to GANs with code in TensorFlow  ️",
-      "url": "http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/",
-      "fx": 266.7370129870128,
-      "fy": 43.82195278679649,
-      "category": "article",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. delving deep into GANs",
-      "url": "https://github.com/GKalliatakis/Delving-deep-into-GANs",
-      "fx": 266.7370129870128,
-      "fy": 110.82195278679649,
-      "category": "github",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
+      "fy": 31.321952786796487,
+      "nodes": [
+        {
+          "text": "1. Ian Goodfellow : generative adversarial networks",
+          "url": "https://www.youtube.com/watch?v=HN9NRhm9waY",
+          "fx": 266.7370129870128,
+          "fy": -23.178047213203513,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. introduction to GANs with code in TensorFlow  ️",
+          "url": "http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/",
+          "fx": 266.7370129870128,
+          "fy": 43.82195278679649,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "2. delving deep into GANs",
+          "url": "https://github.com/GKalliatakis/Delving-deep-into-GANs",
+          "fx": 266.7370129870128,
+          "fy": 110.82195278679649,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

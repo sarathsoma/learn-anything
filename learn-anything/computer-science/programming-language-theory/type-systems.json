@@ -7,68 +7,74 @@
       "url": "http://www.wikiwand.com/en/Type_system",
       "fx": -115.2107221948819,
       "fy": -273.1809485728346,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 104.45401111868603,
-      "fy": -162.93702043745225
+      "fy": -162.93702043745225,
+      "nodes": [
+        {
+          "text": "17: where do type systems come from  ️",
+          "url": "http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/",
+          "fx": 273.454011118686,
+          "fy": -162.93702043745225,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -69.51214361190796,
-      "fy": -45.182718716458794
+      "fy": -45.182718716458794,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=ozwFIuVfPsQ",
+          "fx": 93.48785638809204,
+          "fy": -53.682718716458794,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. propositions as types",
+          "url": "http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf",
+          "fx": 93.48785638809204,
+          "fy": -11.682718716458794,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     },
     {
       "text": "type classes  ️",
       "url": "/computer-science/programming-language-theory/type-systems/type-classes",
       "fx": -250.459008967125,
       "fy": 130.45892278839437,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "type checking",
       "url": "http://wiki.c2.com/?TypeChecking",
       "fx": -449.45149947372,
-      "fy": 133.101283444248
+      "fy": 133.101283444248,
+      "nodes": []
     },
     {
       "text": "gradual typing  ️",
       "url": "/computer-science/programming-language-theory/type-systems/gradual-typing",
       "fx": -41.2989742249016,
       "fy": 134.47982699111503,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "17: where do type systems come from  ️",
-      "url": "http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/",
-      "fx": 273.454011118686,
-      "fy": -162.93702043745225,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=ozwFIuVfPsQ",
-      "fx": 93.48785638809204,
-      "fy": -53.682718716458794,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. propositions as types",
-      "url": "http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf",
-      "fx": 93.48785638809204,
-      "fy": -11.682718716458794,
-      "category": "paper",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

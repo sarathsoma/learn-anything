@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Prisoner%27s_dilemma",
       "fx": 70.57421875,
       "fy": -169.22265625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 136.4164244186046,
-      "fy": -19.574127906876356
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=YGyZX0VoRpI",
-      "fx": 299.4164244186046,
-      "fy": -7.074127906876356,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -19.574127906876356,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=YGyZX0VoRpI",
+          "fx": 299.4164244186046,
+          "fy": -7.074127906876356,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

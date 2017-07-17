@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Computational_physics",
       "fx": -127.24609375,
       "fy": -199.6953125,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/physics/computational-physics/monte-carlo-methods",
       "fx": -205.515625,
       "fy": -13.46484375,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "computational physics",

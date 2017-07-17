@@ -7,48 +7,51 @@
       "url": "http://www.wikiwand.com/en/Quark",
       "fx": 277.33101420187666,
       "fy": -319.18068491879916,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 402.537109375,
-      "fy": -201.1484375
+      "fy": -201.1484375,
+      "nodes": [
+        {
+          "text": "askscience: quarks",
+          "url": "https://www.reddit.com/r/askscience/search?q=quarks&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
+          "fx": 593.537109375,
+          "fy": -189.6484375,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 287.1929394378018,
-      "fy": -91.99644405327047
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "askscience: quarks",
-      "url": "https://www.reddit.com/r/askscience/search?q=quarks&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
-      "fx": 593.537109375,
-      "fy": -189.6484375,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. what are quarks?",
-      "url": "https://www.youtube.com/watch?v=LraNu_78sCw",
-      "fx": 443.1929394378018,
-      "fy": -100.49644405327047,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. is quark one-dimensional?",
-      "url": "https://www.reddit.com/r/askscience/comments/2tu7ow/is_a_quark_onedimensional/",
-      "fx": 443.1929394378018,
-      "fy": -60.496444053270466,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": -91.99644405327047,
+      "nodes": [
+        {
+          "text": "1. what are quarks?",
+          "url": "https://www.youtube.com/watch?v=LraNu_78sCw",
+          "fx": 443.1929394378018,
+          "fy": -100.49644405327047,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. is quark one-dimensional?",
+          "url": "https://www.reddit.com/r/askscience/comments/2tu7ow/is_a_quark_onedimensional/",
+          "fx": 443.1929394378018,
+          "fy": -60.496444053270466,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

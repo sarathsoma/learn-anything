@@ -7,32 +7,130 @@
       "url": "http://www.wikiwand.com/en/Compiler",
       "fx": 34.52644348144531,
       "fy": -470.73118591308594,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 149.39033889770508,
-      "fy": -350.02171341044794
+      "fy": -350.02171341044794,
+      "nodes": [
+        {
+          "text": "resources for amateur compiler writers",
+          "url": "http://c9x.me/compile/bib/",
+          "fx": 286.3903388977051,
+          "fy": -406.52171341044794,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "super tiny compiler",
+          "url": "https://github.com/thejameskyle/the-super-tiny-compiler",
+          "fx": 286.3903388977051,
+          "fy": -350.52171341044794,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "awesome compilers",
+          "url": "https://github.com/aalhour/awesome-compilers",
+          "fx": 286.3903388977051,
+          "fy": -310.52171341044794,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "wcc",
+          "note": "witchcraft compiler collection",
+          "url": "https://github.com/endrazine/wcc",
+          "fx": 286.3903388977051,
+          "fy": -270.52171341044794,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "articles",
       "url": "",
       "fx": 199.13824091661695,
-      "fy": -167.59562150583986
+      "fy": -167.59562150583986,
+      "nodes": [
+        {
+          "text": "17: writing my first compiler  ️",
+          "url": "https://dev.to/fcpauldiaz/writing-my-first-compiler",
+          "fx": 361.13824091661695,
+          "fy": -187.09562150583986,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "17: compiler design sprint summary  ️",
+          "url": "http://smallcultfollowing.com/babysteps/blog/2017/02/12/compiler-design-sprint-summary/",
+          "fx": 361.13824091661695,
+          "fy": -147.09562150583986,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": 29.040971487160505,
-      "fy": -17.5406407253854
+      "fy": -17.5406407253854,
+      "nodes": [
+        {
+          "text": "1. let’s build a compiler",
+          "url": "http://compilers.iecc.com/crenshaw/",
+          "fx": 211.0409714871605,
+          "fy": -66.0406407253854,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. static single assignment book",
+          "url": "http://ssabook.gforge.inria.fr/latest/book.pdf",
+          "fx": 211.0409714871605,
+          "fy": -26.0406407253854,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1 let’s build a simple interpreter  ️",
+          "url": "https://ruslanspivak.com/lsbasi-part1/",
+          "fx": 211.0409714871605,
+          "fy": 13.959359274614599,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "2. growing a compiler",
+          "url": "http://www.cs.dartmouth.edu/%7Emckeeman/cs48/mxcom/gem/html/GrowingCompiler.html",
+          "fx": 211.0409714871605,
+          "fy": 53.9593592746146,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     },
     {
       "text": "optimising compiler  ️",
       "url": "/computer-science/compilers/optimising-compiler",
       "fx": 243.4769615565715,
       "fy": 160.7970011821867,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +138,7 @@
       "url": "/computer-science/compilers/interpreter",
       "fx": -398.27717743223104,
       "fy": 162.12737058259995,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,6 +146,7 @@
       "url": "/computer-science/compilers/just-in-time-compilation",
       "fx": -389.5155719094741,
       "fy": 247.2306774204353,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -54,6 +154,7 @@
       "url": "/computer-science/compilers/bootstrapping",
       "fx": 190.564881781356,
       "fy": 248.90431186061403,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -61,6 +162,7 @@
       "url": "/computer-science/compilers/lexical-analysis",
       "fx": 86.16613758609833,
       "fy": 344.5118199740509,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -69,6 +171,7 @@
       "url": "/computer-science/compilers/llvm",
       "fx": -192.99957000620145,
       "fy": 344.8891318028583,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -76,99 +179,8 @@
       "url": "http://www.wikiwand.com/en/Intermediate_representation",
       "fx": -116.89855681940799,
       "fy": 430.35361829324665,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "resources for amateur compiler writers",
-      "url": "http://c9x.me/compile/bib/",
-      "fx": 286.3903388977051,
-      "fy": -406.52171341044794,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "super tiny compiler",
-      "url": "https://github.com/thejameskyle/the-super-tiny-compiler",
-      "fx": 286.3903388977051,
-      "fy": -350.52171341044794,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "awesome compilers",
-      "url": "https://github.com/aalhour/awesome-compilers",
-      "fx": 286.3903388977051,
-      "fy": -310.52171341044794,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "wcc",
-      "note": "witchcraft compiler collection",
-      "url": "https://github.com/endrazine/wcc",
-      "fx": 286.3903388977051,
-      "fy": -270.52171341044794,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "17: writing my first compiler  ️",
-      "url": "https://dev.to/fcpauldiaz/writing-my-first-compiler",
-      "fx": 361.13824091661695,
-      "fy": -187.09562150583986,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "17: compiler design sprint summary  ️",
-      "url": "http://smallcultfollowing.com/babysteps/blog/2017/02/12/compiler-design-sprint-summary/",
-      "fx": 361.13824091661695,
-      "fy": -147.09562150583986,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. let’s build a compiler",
-      "url": "http://compilers.iecc.com/crenshaw/",
-      "fx": 211.0409714871605,
-      "fy": -66.0406407253854,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. static single assignment book",
-      "url": "http://ssabook.gforge.inria.fr/latest/book.pdf",
-      "fx": 211.0409714871605,
-      "fy": -26.0406407253854,
-      "category": "free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1 let’s build a simple interpreter  ️",
-      "url": "https://ruslanspivak.com/lsbasi-part1/",
-      "fx": 211.0409714871605,
-      "fy": 13.959359274614599,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. growing a compiler",
-      "url": "http://www.cs.dartmouth.edu/%7Emckeeman/cs48/mxcom/gem/html/GrowingCompiler.html",
-      "fx": 211.0409714871605,
-      "fy": 53.9593592746146,
-      "category": "free book",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

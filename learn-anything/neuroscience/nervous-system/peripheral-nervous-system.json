@@ -6,24 +6,25 @@
       "text": "peripheral nervous system",
       "url": "http://www.wikiwand.com/en/Peripheral_nervous_system",
       "fx": 94.6484375,
-      "fy": -111.84375
+      "fy": -111.84375,
+      "nodes": []
     },
     {
       "text": "basics",
       "url": "",
       "fx": 175.98828125,
-      "fy": 2.51171875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=QY9NTVh-Awo",
-      "fx": 331.98828125,
-      "fy": 14.01171875,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 2.51171875,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=QY9NTVh-Awo",
+          "fx": 331.98828125,
+          "fy": 14.01171875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

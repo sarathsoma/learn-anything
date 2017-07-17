@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Safari_(web_browser)",
       "fx": -44.27734375,
       "fy": -312.30859375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,10 +16,10 @@
       "url": "https://github.com/nikitavoloboev/my-mac-os#browser-",
       "fx": -112.3671875,
       "fy": -206.32421875,
+      "nodes": [],
       "category": "github"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "safari",

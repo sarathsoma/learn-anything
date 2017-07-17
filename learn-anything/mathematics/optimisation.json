@@ -7,25 +7,49 @@
       "url": "http://www.wikiwand.com/en/Mathematical_optimization",
       "fx": -152.35532034871892,
       "fy": -450.9333298612188,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 78.28285319615497,
-      "fy": -332.7988803508407
+      "fy": -332.7988803508407,
+      "nodes": [
+        {
+          "text": "resources to learn optimisation",
+          "url": "https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization",
+          "fx": 215.28285319615497,
+          "fy": -321.2988803508407,
+          "nodes": [],
+          "category": "quora",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -42.34596037728784,
-      "fy": -241.03231416891708
+      "fy": -241.03231416891708,
+      "nodes": [
+        {
+          "text": "1. notes on optimisation   ️",
+          "url": "http://frnsys.com/ai_notes/foundations/optimization.html",
+          "fx": 113.65403962271216,
+          "fy": -229.53231416891708,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "constrained optimisation  ️",
       "url": "/mathematics/optimisation/constrained-optimisation",
       "fx": -378.24657549765703,
       "fy": -57.79330115846028,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,6 +57,7 @@
       "url": "/mathematics/optimisation/loss-functions",
       "fx": -590.9423610243927,
       "fy": -56.49165678072427,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +65,7 @@
       "url": "http://www.wikiwand.com/en/Metaheuristic",
       "fx": -789.3173065185547,
       "fy": -56.386908531188965,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -47,6 +73,7 @@
       "url": "/mathematics/optimisation/linear-programming",
       "fx": -1039.4513854980469,
       "fy": -56.33373165130615,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -54,6 +81,7 @@
       "url": "/mathematics/optimisation/continuous-optimisation",
       "fx": -1329.557920258621,
       "fy": -53.4858117816093,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -61,6 +89,7 @@
       "url": "/mathematics/optimisation/convex-optimisation",
       "fx": 147.82704825700807,
       "fy": -52.509877470308425,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -68,27 +97,8 @@
       "url": "/mathematics/optimisation/gradient-descent",
       "fx": -79.41886138916016,
       "fy": -52.16812038421631,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "resources to learn optimisation",
-      "url": "https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization",
-      "fx": 215.28285319615497,
-      "fy": -321.2988803508407,
-      "category": "quora",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. notes on optimisation   ️",
-      "url": "http://frnsys.com/ai_notes/foundations/optimization.html",
-      "fx": 113.65403962271216,
-      "fy": -229.53231416891708,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

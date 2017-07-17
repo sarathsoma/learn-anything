@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Systematic_sampling",
       "fx": -126.875,
       "fy": -169.7109375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -51,
-      "fy": -2
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=QFoisfSZs8I",
-      "fx": 112,
-      "fy": 10.5,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=QFoisfSZs8I",
+          "fx": 112,
+          "fy": 10.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

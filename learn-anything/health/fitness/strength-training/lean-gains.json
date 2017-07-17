@@ -6,23 +6,24 @@
       "text": "lean gains",
       "url": "",
       "fx": -55.16015625,
-      "fy": -113.40625
+      "fy": -113.40625,
+      "nodes": []
     },
     {
       "text": "basics",
       "url": "",
       "fx": -46.5,
-      "fy": -2
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. FAQ",
-      "url": "https://examine.com/leangains-faq/",
-      "fx": 109.5,
-      "fy": 12.5,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. FAQ",
+          "url": "https://examine.com/leangains-faq/",
+          "fx": 109.5,
+          "fy": 12.5,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

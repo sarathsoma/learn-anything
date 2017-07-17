@@ -7,26 +7,67 @@
       "url": "http://www.wikiwand.com/en/Group_theory",
       "fx": -171.203125,
       "fy": -238.07884837962962,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": -43.585379464285666,
-      "fy": -116.18315676965227
+      "fy": -116.18315676965227,
+      "nodes": [
+        {
+          "text": "recent group theory research papers",
+          "url": "https://arxiv.org/list/math.GR/recent",
+          "fx": 93.41462053571433,
+          "fy": -143.68315676965227,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "what does modern group theory look like",
+          "url": "https://www.reddit.com/r/math/comments/1t6m5z/what_does_modern_group_theory_look_like/ce4x054/",
+          "fx": 93.41462053571433,
+          "fy": -87.68315676965227,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -141.25516994992438,
-      "fy": 19.41298232956484
+      "fy": 19.41298232956484,
+      "nodes": [
+        {
+          "text": "1. visual group theory",
+          "url": "http://web.bentley.edu/empl/c/ncarter/vgt/index.html",
+          "fx": 40.74483005007562,
+          "fy": -0.08701767043515929,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. Euler’s formula with introductory group theory",
+          "url": "https://www.youtube.com/watch?v=mvmuCPvRoWQ&amp;t=1s",
+          "fx": 40.74483005007562,
+          "fy": 39.91298232956484,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "abelian group  ️",
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/abelian-group",
       "fx": -504.25450606746347,
       "fy": 37.55625989278656,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +76,7 @@
       "url": "http://www.wikiwand.com/en/Geometric_group_theory",
       "fx": -491.79738950012666,
       "fy": 144.78288551043852,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -42,6 +84,7 @@
       "url": "http://www.wikiwand.com/en/Finite_group",
       "fx": 39.5,
       "fy": 170.5,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -50,6 +93,7 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/lie-groups",
       "fx": -231.17394824946075,
       "fy": 231.4412082961743,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -57,6 +101,7 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/sylow-theorems",
       "fx": 198.99432069742988,
       "fy": 280.16457222059853,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -64,44 +109,8 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/semigroups",
       "fx": -31.78431999683903,
       "fy": 316.2600404192193,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "recent group theory research papers",
-      "url": "https://arxiv.org/list/math.GR/recent",
-      "fx": 93.41462053571433,
-      "fy": -143.68315676965227,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "what does modern group theory look like",
-      "url": "https://www.reddit.com/r/math/comments/1t6m5z/what_does_modern_group_theory_look_like/ce4x054/",
-      "fx": 93.41462053571433,
-      "fy": -87.68315676965227,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. visual group theory",
-      "url": "http://web.bentley.edu/empl/c/ncarter/vgt/index.html",
-      "fx": 40.74483005007562,
-      "fy": -0.08701767043515929,
-      "category": "non-free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. Euler’s formula with introductory group theory",
-      "url": "https://www.youtube.com/watch?v=mvmuCPvRoWQ&amp;t=1s",
-      "fx": 40.74483005007562,
-      "fy": 39.91298232956484,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

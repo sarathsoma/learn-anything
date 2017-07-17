@@ -7,42 +7,46 @@
       "url": "https://www.reddit.com/r/MechanicalKeyboards/",
       "fx": -83.90267319277109,
       "fy": -219.44008847891564,
+      "nodes": [],
       "category": "reddit"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 128.82890193370167,
-      "fy": -81.42929903314922
+      "fy": -81.42929903314922,
+      "nodes": [
+        {
+          "text": "keyboard PCB guide",
+          "url": "https://github.com/ruiqimao/keyboard-pcb-guide",
+          "fx": 319.8289019337017,
+          "fy": -69.92929903314922,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "ortholinear",
       "url": "https://olkb.com/",
       "fx": -77.76798115079384,
-      "fy": -28.30983382936836
+      "fy": -28.30983382936836,
+      "nodes": []
     },
     {
       "text": "planck",
       "url": "https://olkb.com/planck",
       "fx": -157.2059807441252,
-      "fy": 89.73698596605743
+      "fy": 89.73698596605743,
+      "nodes": []
     },
     {
       "text": "preonic",
       "url": "https://olkb.com/preonic",
       "fx": -25.02198922976163,
-      "fy": 93.40763707571818
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "keyboard PCB guide",
-      "url": "https://github.com/ruiqimao/keyboard-pcb-guide",
-      "fx": 319.8289019337017,
-      "fy": -69.92929903314922,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "fy": 93.40763707571818,
+      "nodes": []
     }
   ],
   "connections": [

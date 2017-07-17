@@ -7,6 +7,17 @@
       "url": "http://www.wikiwand.com/en/Protocol_Buffers",
       "fx": 213.26171875,
       "fy": -143.6640625,
+      "nodes": [
+        {
+          "text": "source",
+          "url": "https://github.com/google/protobuf",
+          "fx": 482.26171875,
+          "fy": -129.6640625,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,26 +25,17 @@
       "note": "",
       "url": "",
       "fx": 269.7810329861112,
-      "fy": -7.184895833333314
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "source",
-      "url": "https://github.com/google/protobuf",
-      "fx": 482.26171875,
-      "fy": -129.6640625,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "protocol buffers"
-    },
-    {
-      "text": "1. tutorials",
-      "url": "https://developers.google.com/protocol-buffers/docs/tutorials",
-      "fx": 451.7810329861112,
-      "fy": 7.315104166666686,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -7.184895833333314,
+      "nodes": [
+        {
+          "text": "1. tutorials",
+          "url": "https://developers.google.com/protocol-buffers/docs/tutorials",
+          "fx": 451.7810329861112,
+          "fy": 7.315104166666686,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

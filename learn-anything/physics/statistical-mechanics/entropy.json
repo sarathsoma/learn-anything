@@ -7,39 +7,42 @@
       "url": "http://www.wikiwand.com/en/Entropy",
       "fx": -61.842619243421154,
       "fy": -211.88034539473688,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 48.464050751879654,
-      "fy": -101.0774886435184
+      "fy": -101.0774886435184,
+      "nodes": [
+        {
+          "text": "askscience: entropy",
+          "url": "https://www.reddit.com/r/askscience/search?q=entropy&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
+          "fx": 239.46405075187965,
+          "fy": -89.5774886435184,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -53.04718338815792,
-      "fy": -2
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "askscience: entropy",
-      "url": "https://www.reddit.com/r/askscience/search?q=entropy&amp;restrict_sr=on&amp;sort=relevance&amp;t=all",
-      "fx": 239.46405075187965,
-      "fy": -89.5774886435184,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. what is entropy?",
-      "url": "https://www.youtube.com/watch?v=YM-uykVfq_E",
-      "fx": 102.95281661184208,
-      "fy": 9.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. what is entropy?",
+          "url": "https://www.youtube.com/watch?v=YM-uykVfq_E",
+          "fx": 102.95281661184208,
+          "fy": 9.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

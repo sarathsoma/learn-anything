@@ -7,38 +7,41 @@
       "url": "http://www.wikiwand.com/en/Cryptanalysis",
       "fx": 132.82475987554108,
       "fy": -325.7217261904761,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "articles",
       "url": "",
       "fx": 292.12639096082546,
-      "fy": -213.7881317138672
+      "fy": -213.7881317138672,
+      "nodes": [
+        {
+          "text": "15: differential cryptanalysis for dummies  ️",
+          "url": "http://blog.ioactive.com/2015/07/differential-cryptanalysis-for-dummies.html",
+          "fx": 454.12639096082546,
+          "fy": -213.2881317138672,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 168.32941017316546,
-      "fy": -120.9395292207779
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "15: differential cryptanalysis for dummies  ️",
-      "url": "http://blog.ioactive.com/2015/07/differential-cryptanalysis-for-dummies.html",
-      "fx": 454.12639096082546,
-      "fy": -213.2881317138672,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "articles"
-    },
-    {
-      "text": "1. crypto challenges",
-      "url": "https://cryptopals.com/",
-      "fx": 324.32941017316546,
-      "fy": -106.4395292207779,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -120.9395292207779,
+      "nodes": [
+        {
+          "text": "1. crypto challenges",
+          "url": "https://cryptopals.com/",
+          "fx": 324.32941017316546,
+          "fy": -106.4395292207779,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

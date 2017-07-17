@@ -7,38 +7,41 @@
       "url": "http://www.wikiwand.com/en/Firefox",
       "fx": 89.65625,
       "fy": -170.296875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 189.5625,
-      "fy": -64.4296875
+      "fy": -64.4296875,
+      "nodes": [
+        {
+          "text": "awesome firefox",
+          "url": "https://github.com/Hunter-Github/awesome-firefox",
+          "fx": 326.5625,
+          "fy": -52.9296875,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 94.00051891143903,
-      "fy": 33.9368081180865
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome firefox",
-      "url": "https://github.com/Hunter-Github/awesome-firefox",
-      "fx": 326.5625,
-      "fy": -52.9296875,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. get started",
-      "url": "https://support.mozilla.org/en-US/products/firefox/get-started",
-      "fx": 250.00051891143903,
-      "fy": 48.4368081180865,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 33.9368081180865,
+      "nodes": [
+        {
+          "text": "1. get started",
+          "url": "https://support.mozilla.org/en-US/products/firefox/get-started",
+          "fx": 250.00051891143903,
+          "fy": 48.4368081180865,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

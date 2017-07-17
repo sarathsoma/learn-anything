@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Time_series_database",
       "fx": -188.46223958333337,
       "fy": -255.25651041666663,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,10 +16,10 @@
       "url": "/databases/time-series-databases/influxdb",
       "fx": -190.14985015272623,
       "fy": -104.79893100520178,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "time series database",

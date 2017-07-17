@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Architectural_pattern",
       "fx": 77.953125,
       "fy": -198.56640625,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/programming/software-development/architectural-patterns/mvc",
       "fx": -72.7890625,
       "fy": -65.25390625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,10 +23,10 @@
       "url": "/programming/software-development/architectural-patterns/flux",
       "fx": 213.751625722541,
       "fy": -63.139315390171305,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "architectural patterns",

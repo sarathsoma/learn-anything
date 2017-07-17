@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Black-body_radiation",
       "fx": -48.37890625,
       "fy": -147.78515625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 21.564253826530603,
-      "fy": 3.9725079999104764
+      "fy": 3.9725079999104764,
+      "nodes": [
+        {
+          "text": "1. properties of light: blackbody radiation",
+          "url": "https://www.youtube.com/watch?v=oU8cUN6ZXeQ",
+          "fx": 177.5642538265306,
+          "fy": 4.472507999910476,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "Unruh effect  ️",
       "url": "/physics/electromagnetism/electromagnetic-radiation/black-body-radiation/unruh-effect",
       "fx": -105.44017269736855,
       "fy": 148.18482310687443,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. properties of light: blackbody radiation",
-      "url": "https://www.youtube.com/watch?v=oU8cUN6ZXeQ",
-      "fx": 177.5642538265306,
-      "fy": 4.472507999910476,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

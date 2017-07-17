@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/AutoCAD",
       "fx": -119.94140625,
       "fy": -373.2890625,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,17 +15,17 @@
       "note": "",
       "url": "",
       "fx": -99.76171875,
-      "fy": -237.26171875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. learn AutoCAD for free",
-      "url": "https://www.mycadsite.com/tutorials/",
-      "fx": 82.23828125,
-      "fy": -222.76171875,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -237.26171875,
+      "nodes": [
+        {
+          "text": "1. learn AutoCAD for free",
+          "url": "https://www.mycadsite.com/tutorials/",
+          "fx": 82.23828125,
+          "fy": -222.76171875,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

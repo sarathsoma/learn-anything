@@ -8,6 +8,17 @@
       "url": "http://www.wikiwand.com/en/Text_editor",
       "fx": -271.871839320238,
       "fy": -222.6200122656719,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/dok/awesome-text-editing",
+          "fx": -17.871839320237996,
+          "fy": -208.6200122656719,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -15,6 +26,7 @@
       "url": "/software/tooling/text-editors/vim",
       "fx": -296.6103210449219,
       "fy": -79.92195510864258,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,6 +34,7 @@
       "url": "/software/tooling/text-editors/vs-code",
       "fx": -187.0816992329236,
       "fy": -79.61908719155542,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,6 +42,7 @@
       "url": "/software/tooling/text-editors/sublime-text",
       "fx": -35.32241542238728,
       "fy": -79.36607314169618,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -36,6 +50,7 @@
       "url": "/software/tooling/text-editors/atom",
       "fx": -563.4380040322578,
       "fy": -77.17649529569894,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -43,24 +58,15 @@
       "url": "/software/tooling/text-editors/emacs",
       "fx": -432.7415313720703,
       "fy": -77.0534029006958,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "neovim",
       "url": "https://neovim.io/",
       "fx": -321.20610086898057,
-      "fy": 37.96733019331646
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/dok/awesome-text-editing",
-      "fx": -17.871839320237996,
-      "fy": -208.6200122656719,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "text editors"
+      "fy": 37.96733019331646,
+      "nodes": []
     }
   ],
   "connections": [

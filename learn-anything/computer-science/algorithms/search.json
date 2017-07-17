@@ -8,25 +8,49 @@
       "url": "http://www.wikiwand.com/en/Search_algorithm",
       "fx": -126.94814116379325,
       "fy": -211.47265625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 78.500083111702,
-      "fy": -84.28255388520648
+      "fy": -84.28255388520648,
+      "nodes": [
+        {
+          "text": "list of search algorithms",
+          "url": "https://en.wikipedia.org/wiki/Category:Search_algorithms",
+          "fx": 219.500083111702,
+          "fy": -71.78255388520648,
+          "nodes": [],
+          "category": "wiki",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -61.81107415531574,
-      "fy": 12.57428218416527
+      "fy": 12.57428218416527,
+      "nodes": [
+        {
+          "text": "1. notes on search  ️",
+          "url": "http://frnsys.com/ai_notes/artificial_intelligence/search.html",
+          "fx": 101.18892584468426,
+          "fy": 25.07428218416527,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "A* search  ️",
       "url": "/computer-science/algorithms/search/a-star",
       "fx": -1013.5357055664062,
       "fy": 166.96758270263672,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +58,7 @@
       "url": "/computer-science/algorithms/search/minimax-search",
       "fx": -1247.6703798436158,
       "fy": 167.62016771367018,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +66,7 @@
       "url": "/computer-science/algorithms/search/depth-first-search",
       "fx": -833.3035583496094,
       "fy": 169.69873428344727,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +74,7 @@
       "url": "/computer-science/algorithms/search/binary-search",
       "fx": -310.10943603515625,
       "fy": 171.15663528442383,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +82,7 @@
       "url": "/computer-science/algorithms/search/monte-carlo-tree-search",
       "fx": -98.0391263961792,
       "fy": 172.85097122192383,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,6 +90,7 @@
       "url": "/computer-science/algorithms/search/breadth-first-search",
       "fx": -581.1892166137695,
       "fy": 174.08029556274414,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -69,27 +98,8 @@
       "url": "/computer-science/algorithms/search/string-searching",
       "fx": 220.0527801513672,
       "fy": 175.1279067993164,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "list of search algorithms",
-      "url": "https://en.wikipedia.org/wiki/Category:Search_algorithms",
-      "fx": 219.500083111702,
-      "fy": -71.78255388520648,
-      "category": "wiki",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. notes on search  ️",
-      "url": "http://frnsys.com/ai_notes/artificial_intelligence/search.html",
-      "fx": 101.18892584468426,
-      "fy": 25.07428218416527,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

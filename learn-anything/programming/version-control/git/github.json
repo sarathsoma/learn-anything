@@ -7,25 +7,95 @@
       "url": "http://www.wikiwand.com/en/GitHub",
       "fx": 2.1443656226384746,
       "fy": -129.7723598037905,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/phillipadsmith/awesome-github",
+          "fx": 193.14436562263847,
+          "fy": -115.7723598037905,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 123.46312064976087,
-      "fy": 13.87587197290344
+      "fy": 13.87587197290344,
+      "nodes": [
+        {
+          "text": "creating a pull request",
+          "url": "https://help.github.com/articles/creating-a-pull-request/",
+          "fx": 260.46312064976087,
+          "fy": -54.62412802709656,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "how to check PR locally    ️",
+          "url": "https://stackoverflow.com/a/32447696/3067664",
+          "fx": 260.46312064976087,
+          "fy": -14.62412802709656,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "github browser extensions",
+          "url": "https://github.com/stefanbuck/awesome-browser-extensions-for-github",
+          "fx": 260.46312064976087,
+          "fy": 25.37587197290344,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "sync a fork with original repo",
+          "url": "https://help.github.com/articles/syncing-a-fork/",
+          "fx": 260.46312064976087,
+          "fy": 65.37587197290344,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "github cheat sheet",
+          "url": "https://github.com/tiimgreen/github-cheat-sheet",
+          "fx": 260.46312064976087,
+          "fy": 105.37587197290344,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -26.89018205961702,
-      "fy": 162.36269563328494
+      "fy": 162.36269563328494,
+      "nodes": [
+        {
+          "text": "1. what is GitHub",
+          "url": "https://guides.github.com/activities/hello-world/",
+          "fx": 129.10981794038298,
+          "fy": 173.86269563328494,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "open source  ️",
       "url": "/programming/software-development/open-source",
       "fx": -278.522189621695,
       "fy": 278.44160012489897,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,72 +103,8 @@
       "url": "https://github.com/marketplace/category/code-quality",
       "fx": -69.20217547211053,
       "fy": 281.6350666572332,
+      "nodes": [],
       "category": "github"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/phillipadsmith/awesome-github",
-      "fx": 193.14436562263847,
-      "fy": -115.7723598037905,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "GitHub"
-    },
-    {
-      "text": "creating a pull request",
-      "url": "https://help.github.com/articles/creating-a-pull-request/",
-      "fx": 260.46312064976087,
-      "fy": -54.62412802709656,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "how to check PR locally    ️",
-      "url": "https://stackoverflow.com/a/32447696/3067664",
-      "fx": 260.46312064976087,
-      "fy": -14.62412802709656,
-      "category": "stack exchange",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "github browser extensions",
-      "url": "https://github.com/stefanbuck/awesome-browser-extensions-for-github",
-      "fx": 260.46312064976087,
-      "fy": 25.37587197290344,
-      "category": "github",
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "sync a fork with original repo",
-      "url": "https://help.github.com/articles/syncing-a-fork/",
-      "fx": 260.46312064976087,
-      "fy": 65.37587197290344,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "github cheat sheet",
-      "url": "https://github.com/tiimgreen/github-cheat-sheet",
-      "fx": 260.46312064976087,
-      "fy": 105.37587197290344,
-      "category": "github",
-      "color": "rgba(209, 21, 88, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. what is GitHub",
-      "url": "https://guides.github.com/activities/hello-world/",
-      "fx": 129.10981794038298,
-      "fy": 173.86269563328494,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

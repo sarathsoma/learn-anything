@@ -7,39 +7,101 @@
       "url": "http://www.wikiwand.com/en/Cryptocurrency",
       "fx": -144.28053543179294,
       "fy": -371.60081279390937,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/kasketis/awesome-cryptocurrencies",
+          "fx": 117.71946456820706,
+          "fy": -357.60081279390937,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 16.933945622288093,
-      "fy": -236.79777513841083
+      "fy": -236.79777513841083,
+      "nodes": [
+        {
+          "text": "overview of top cryptocurrencies in the market",
+          "url": "https://github.com/kilimchoi/cryptocurrency",
+          "fx": 153.9339456222881,
+          "fy": -253.29777513841083,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "cryptominded",
+          "url": "https://cryptominded.com/",
+          "fx": 153.9339456222881,
+          "fy": -191.29777513841083,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -141.252497242309,
-      "fy": -59.980789830850654
+      "fy": -59.980789830850654,
+      "nodes": [
+        {
+          "text": "1 how bitcoin and other cryptocurrencies work",
+          "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4&amp;t=540s",
+          "fx": 40.747502757690995,
+          "fy": -121.48078983085065,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. bitcoin and cryptocurrency technologies",
+          "url": "https://www.coursera.org/learn/cryptocurrency",
+          "fx": 40.747502757690995,
+          "fy": -59.480789830850654,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. starter’s guide to cryptocurrencies  ️",
+          "url": "https://cryptominded.com/starters-guide-cryptocurrencies/",
+          "fx": 40.747502757690995,
+          "fy": 2.5192101691493463,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "initial coin offering  ️",
       "url": "/cryptocurrency/initial-coin-offering",
       "fx": -608.7028301886793,
       "fy": 66.88168238993717,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "currencies",
       "url": "",
       "fx": -100.08122822299651,
-      "fy": 70.96515679442507
+      "fy": 70.96515679442507,
+      "nodes": []
     },
     {
       "text": "proof-of-work system",
       "url": "http://www.wikiwand.com/en/Proof-of-work_system",
       "fx": -371.6130599975586,
       "fy": 68.71059036254883,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -47,6 +109,7 @@
       "url": "http://www.wikiwand.com/en/Monero_(cryptocurrency)",
       "fx": 94.60990175189386,
       "fy": 108.57949662642045,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -54,6 +117,7 @@
       "url": "/cryptocurrency/bitcoin",
       "fx": -182.4449700438795,
       "fy": 189.78781655509283,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -61,62 +125,8 @@
       "url": "http://www.wikiwand.com/en/Dash_(cryptocurrency)",
       "fx": 6.092316691080555,
       "fy": 192.6236171549017,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/kasketis/awesome-cryptocurrencies",
-      "fx": 117.71946456820706,
-      "fy": -357.60081279390937,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "cryptocurrency"
-    },
-    {
-      "text": "overview of top cryptocurrencies in the market",
-      "url": "https://github.com/kilimchoi/cryptocurrency",
-      "fx": 153.9339456222881,
-      "fy": -253.29777513841083,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "cryptominded",
-      "url": "https://cryptominded.com/",
-      "fx": 153.9339456222881,
-      "fy": -191.29777513841083,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1 how bitcoin and other cryptocurrencies work",
-      "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4&amp;t=540s",
-      "fx": 40.747502757690995,
-      "fy": -121.48078983085065,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. bitcoin and cryptocurrency technologies",
-      "url": "https://www.coursera.org/learn/cryptocurrency",
-      "fx": 40.747502757690995,
-      "fy": -59.480789830850654,
-      "category": "course",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. starter’s guide to cryptocurrencies  ️",
-      "url": "https://cryptominded.com/starters-guide-cryptocurrencies/",
-      "fx": 40.747502757690995,
-      "fy": 2.5192101691493463,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

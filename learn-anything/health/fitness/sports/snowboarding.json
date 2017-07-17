@@ -7,33 +7,35 @@
       "url": "http://www.wikiwand.com/en/Snowboarding",
       "fx": 9.51171875,
       "fy": -176.45703125,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/snowboarding/",
+          "fx": 265.51171875,
+          "fy": -162.45703125,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 129.265625,
-      "fy": -68.6171875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/snowboarding/",
-      "fx": 265.51171875,
-      "fy": -162.45703125,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "snowboarding"
-    },
-    {
-      "text": "snowboarding advice",
-      "url": "https://www.reddit.com/r/snowboarding/comments/e3cez/hey_shreddit_whats_the_one_piece_of_advice_you/c14z4vq/",
-      "fx": 266.265625,
-      "fy": -57.1171875,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
+      "fy": -68.6171875,
+      "nodes": [
+        {
+          "text": "snowboarding advice",
+          "url": "https://www.reddit.com/r/snowboarding/comments/e3cez/hey_shreddit_whats_the_one_piece_of_advice_you/c14z4vq/",
+          "fx": 266.265625,
+          "fy": -57.1171875,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

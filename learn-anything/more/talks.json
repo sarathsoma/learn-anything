@@ -7,24 +7,25 @@
       "url": "https://github.com/learn-anything/talks",
       "fx": -24.3515625,
       "fy": -51.12109375,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "find new talks",
       "url": "",
       "fx": -51.65625,
-      "fy": 90.00390625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome talks",
-      "url": "https://github.com/JanVanRyswyck/awesome-talks",
-      "fx": 170.34375,
-      "fy": 101.50390625,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "find new talks"
+      "fy": 90.00390625,
+      "nodes": [
+        {
+          "text": "awesome talks",
+          "url": "https://github.com/JanVanRyswyck/awesome-talks",
+          "fx": 170.34375,
+          "fy": 101.50390625,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

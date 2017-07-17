@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Specialty_(medicine)",
       "fx": -99.66015625,
       "fy": 15.42578125,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/medicine/specialties/dermatology",
       "fx": 53.49536681571226,
       "fy": 149.58835492815285,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,10 +24,10 @@
       "url": "/medicine/specialties/psychiatry",
       "fx": -195.14717457706774,
       "fy": 150.87030075187977,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "medical specialties",

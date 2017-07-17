@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Primordial_black_hole",
       "fx": 304.609375,
       "fy": 40.23828125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 388.9715909090911,
-      "fy": 178.69981060606062
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=gs3mtZPySeM",
-      "fx": 544.9715909090911,
-      "fy": 190.19981060606062,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 178.69981060606062,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=gs3mtZPySeM",
+          "fx": 544.9715909090911,
+          "fy": 190.19981060606062,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

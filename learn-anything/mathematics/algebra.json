@@ -8,13 +8,50 @@
       "url": "http://www.wikiwand.com/en/Algebra",
       "fx": -98.14320011409723,
       "fy": -539.7117139959432,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Algebra/",
+          "fx": 120.85679988590277,
+          "fy": -525.7117139959432,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 108.76867182114574,
-      "fy": -404.8203297783347
+      "fy": -404.8203297783347,
+      "nodes": [
+        {
+          "text": "algebra rules",
+          "url": "http://algebrarules.com/",
+          "fx": 245.76867182114574,
+          "fy": -435.3203297783347,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "linear algebra notation",
+          "url": "https://en.wikibooks.org/wiki/Linear_Algebra/Notation",
+          "fx": 245.76867182114574,
+          "fy": -401.3203297783347,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "basic symbols and algebra notations",
+          "url": "https://lagunita.stanford.edu/c4x/Engineering/QMSE-01/asset/Math_1_Basic_Symbols_and_Algebra_Notations.pdf",
+          "fx": 245.76867182114574,
+          "fy": -367.3203297783347,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "elementary algebra",
@@ -22,25 +59,58 @@
       "url": "http://www.wikiwand.com/en/Elementary_algebra",
       "fx": -225.10904121398926,
       "fy": -320.83496251599536,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 227.8143884995411,
-      "fy": -255.84310239904056
+      "fy": -255.84310239904056,
+      "nodes": [
+        {
+          "text": "graphical algebra and fourier analysis",
+          "url": "https://acko.net/files/gltalks/toolsforthought/#0",
+          "fx": 418.8143884995411,
+          "fy": -255.34310239904056,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -142.43859781618187,
-      "fy": -172.01723093363648
+      "fy": -172.01723093363648,
+      "nodes": [
+        {
+          "text": "1. what is algebra?",
+          "url": "https://www.reddit.com/r/math/comments/5etsob/what_is_algebra/daf3f6l/",
+          "fx": 13.561402183818132,
+          "fy": -180.51723093363648,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. algebra basics",
+          "url": "https://www.youtube.com/watch?v=NybHckSEQBI",
+          "fx": 13.561402183818132,
+          "fy": -140.51723093363648,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "boolean algebra  ️",
       "url": "/mathematics/algebra/boolean-algebra",
       "fx": -438.33238220214844,
       "fy": -45.03996753692627,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +118,7 @@
       "url": "/mathematics/algebra/quadratic-equations",
       "fx": -874.0544819078947,
       "fy": -43.51123903508767,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +126,7 @@
       "url": "/mathematics/algebra/polynomials",
       "fx": -620.4649251302084,
       "fy": -43.42659505208326,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,6 +135,7 @@
       "url": "/mathematics/algebra/abstract-algebra",
       "fx": -217.4521797326297,
       "fy": -43.40694848572764,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -70,6 +143,7 @@
       "url": "/mathematics/algebra/functions",
       "fx": 36.96597269472875,
       "fy": -43.25277842483831,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -77,69 +151,8 @@
       "url": "/mathematics/algebra/inequalities",
       "fx": -1057.5078125,
       "fy": -42.1875,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Algebra/",
-      "fx": 120.85679988590277,
-      "fy": -525.7117139959432,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "algebra"
-    },
-    {
-      "text": "algebra rules",
-      "url": "http://algebrarules.com/",
-      "fx": 245.76867182114574,
-      "fy": -435.3203297783347,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "linear algebra notation",
-      "url": "https://en.wikibooks.org/wiki/Linear_Algebra/Notation",
-      "fx": 245.76867182114574,
-      "fy": -401.3203297783347,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "basic symbols and algebra notations",
-      "url": "https://lagunita.stanford.edu/c4x/Engineering/QMSE-01/asset/Math_1_Basic_Symbols_and_Algebra_Notations.pdf",
-      "fx": 245.76867182114574,
-      "fy": -367.3203297783347,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "graphical algebra and fourier analysis",
-      "url": "https://acko.net/files/gltalks/toolsforthought/#0",
-      "fx": 418.8143884995411,
-      "fy": -255.34310239904056,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. what is algebra?",
-      "url": "https://www.reddit.com/r/math/comments/5etsob/what_is_algebra/daf3f6l/",
-      "fx": 13.561402183818132,
-      "fy": -180.51723093363648,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. algebra basics",
-      "url": "https://www.youtube.com/watch?v=NybHckSEQBI",
-      "fx": 13.561402183818132,
-      "fy": -140.51723093363648,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

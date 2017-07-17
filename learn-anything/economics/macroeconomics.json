@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Macroeconomics",
       "fx": -23.92578125,
       "fy": -370.80859375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,18 +15,18 @@
       "note": "",
       "url": "",
       "fx": 30.5625,
-      "fy": -239.23046875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. khan academy",
-      "url": "https://www.khanacademy.org/economics-finance-domain/macroeconomics",
-      "fx": 212.5625,
-      "fy": -227.73046875,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -239.23046875,
+      "nodes": [
+        {
+          "text": "1. khan academy",
+          "url": "https://www.khanacademy.org/economics-finance-domain/macroeconomics",
+          "fx": 212.5625,
+          "fy": -227.73046875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

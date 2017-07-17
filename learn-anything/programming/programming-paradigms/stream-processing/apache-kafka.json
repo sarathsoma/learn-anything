@@ -7,6 +7,26 @@
       "url": "http://www.wikiwand.com/en/Apache_Kafka",
       "fx": -76.34184649654367,
       "fy": -186.47032210869475,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://github.com/apache/kafka",
+          "fx": 171.65815350345633,
+          "fy": -192.47032210869475,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/infoslack/awesome-kafka",
+          "fx": 171.65815350345633,
+          "fy": -152.47032210869475,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,35 +34,17 @@
       "note": "",
       "url": "",
       "fx": -47.81701177811544,
-      "fy": -53.775265957446834
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://github.com/apache/kafka",
-      "fx": 171.65815350345633,
-      "fy": -192.47032210869475,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "apache kafka"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/infoslack/awesome-kafka",
-      "fx": 171.65815350345633,
-      "fy": -152.47032210869475,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "apache kafka"
-    },
-    {
-      "text": "1. introduction",
-      "url": "https://kafka.apache.org/intro",
-      "fx": 134.18298822188456,
-      "fy": -39.275265957446834,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -53.775265957446834,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://kafka.apache.org/intro",
+          "fx": 134.18298822188456,
+          "fy": -39.275265957446834,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

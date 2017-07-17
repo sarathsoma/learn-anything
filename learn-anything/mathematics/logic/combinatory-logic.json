@@ -8,24 +8,25 @@
       "url": "http://www.wikiwand.com/en/Combinatory_logic",
       "fx": 68.828125,
       "fy": -125.89453125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 142.046875,
-      "fy": 23.66015625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1.combinatorial logic - introduction to FPGA and CPLD",
-      "url": "https://www.youtube.com/watch?v=82ox6JpfDvg",
-      "fx": 298.046875,
-      "fy": 24.16015625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 23.66015625,
+      "nodes": [
+        {
+          "text": "1.combinatorial logic - introduction to FPGA and CPLD",
+          "url": "https://www.youtube.com/watch?v=82ox6JpfDvg",
+          "fx": 298.046875,
+          "fy": 24.16015625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

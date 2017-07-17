@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Interactive_computing",
       "fx": 82.84375,
       "fy": -133.2578125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "talks",
       "url": "",
       "fx": 268.0249714611931,
-      "fy": 15.80779109598376
+      "fy": 15.80779109598376,
+      "nodes": [
+        {
+          "text": "1997: computer revolution hasn’t happened yet",
+          "url": "https://www.youtube.com/watch?v=oKg1hTOQXoY",
+          "fx": 408.0249714611931,
+          "fy": 16.30779109598376,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "Jupyter notebooks  ️",
       "url": "/computer-science/computation/interactive-computing/jupyter-notebooks",
       "fx": -0.48922116349740463,
       "fy": 59.8810232880723,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,18 +40,8 @@
       "url": "http://www.wikiwand.com/en/Visual_programming_language",
       "fx": -380.51171875,
       "fy": 60.830078125,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1997: computer revolution hasn’t happened yet",
-      "url": "https://www.youtube.com/watch?v=oKg1hTOQXoY",
-      "fx": 408.0249714611931,
-      "fy": 16.30779109598376,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "talks"
     }
   ],
   "connections": [

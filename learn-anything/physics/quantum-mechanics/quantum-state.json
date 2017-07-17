@@ -7,33 +7,34 @@
       "url": "http://www.wikiwand.com/en/Quantum_state",
       "fx": 116.94129554655876,
       "fy": -227.15315030364377,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 161.22984211512164,
-      "fy": -70.71627632239722
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to quantum mechanics, probability amplitudes and quantum state",
-      "url": "https://www.youtube.com/watch?v=AufmV0P6mA0",
-      "fx": 324.22984211512164,
-      "fy": -116.71627632239722,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. quantum states and Puali exclusion",
-      "url": "https://www.youtube.com/watch?v=RcD-v5-3U-M",
-      "fx": 324.22984211512164,
-      "fy": -24.71627632239722,
-      "category": "video",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
+      "fy": -70.71627632239722,
+      "nodes": [
+        {
+          "text": "1. introduction to quantum mechanics, probability amplitudes and quantum state",
+          "url": "https://www.youtube.com/watch?v=AufmV0P6mA0",
+          "fx": 324.22984211512164,
+          "fy": -116.71627632239722,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. quantum states and Puali exclusion",
+          "url": "https://www.youtube.com/watch?v=RcD-v5-3U-M",
+          "fx": 324.22984211512164,
+          "fy": -24.71627632239722,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

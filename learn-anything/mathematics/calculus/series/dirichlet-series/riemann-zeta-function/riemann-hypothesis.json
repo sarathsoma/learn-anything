@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Riemann_hypothesis",
       "fx": 106.16796875,
       "fy": -120.18359375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 181.36328125,
-      "fy": 16.1640625
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=d6c6uIyieoo",
-      "fx": 344.36328125,
-      "fy": 28.6640625,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 16.1640625,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=d6c6uIyieoo",
+          "fx": 344.36328125,
+          "fy": 28.6640625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

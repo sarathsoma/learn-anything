@@ -7,25 +7,58 @@
       "url": "http://www.wikiwand.com/en/Digital_signal_processing",
       "fx": 335.14453125000006,
       "fy": -23.99609375,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/DSP/",
+          "fx": 702.14453125,
+          "fy": -30.99609375,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://dsp.stackexchange.com/",
+          "fx": 702.14453125,
+          "fy": 11.00390625,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 414.68359375,
-      "fy": 113.671875
+      "fy": 113.671875,
+      "nodes": [
+        {
+          "text": "1. seeing circles, sines and signals",
+          "url": "https://jackschaedler.github.io/circles-sines-signals/",
+          "fx": 577.68359375,
+          "fy": 126.171875,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "data compression  ️",
       "url": "/information-theory/signals/signal-processing/digital-signal-processing/data-compression",
       "fx": 290.92636642040077,
       "fy": 300.45565867577625,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "compressed sensing  ️",
       "fx": 566.5219938755305,
       "fy": 302.55271124669866,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,6 +66,7 @@
       "url": "/information-theory/signals/signal-processing/digital-signal-processing/aliasing",
       "fx": 115.62890625,
       "fy": 302.99609375,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,36 +74,8 @@
       "url": "/information-theory/signals/signal-processing/digital-signal-processing/nyqust-shannon-sampling-theorem",
       "fx": -228.30162693298973,
       "fy": 290.2715850515465,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/DSP/",
-      "fx": 702.14453125,
-      "fy": -30.99609375,
-      "category": "reddit",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "digital signal processing"
-    },
-    {
-      "text": "️",
-      "url": "https://dsp.stackexchange.com/",
-      "fx": 702.14453125,
-      "fy": 11.00390625,
-      "category": "stack exchange",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "digital signal processing"
-    },
-    {
-      "text": "1. seeing circles, sines and signals",
-      "url": "https://jackschaedler.github.io/circles-sines-signals/",
-      "fx": 577.68359375,
-      "fy": 126.171875,
-      "category": "interactive",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

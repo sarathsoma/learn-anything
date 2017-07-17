@@ -6,26 +6,68 @@
       "text": "help",
       "url": "",
       "fx": 907.1105547374846,
-      "fy": -500.20698720745804
+      "fy": -500.20698720745804,
+      "nodes": [
+        {
+          "text": "clozemaster",
+          "url": "https://www.clozemaster.com/",
+          "fx": 1044.1105547374846,
+          "fy": -505.70698720745804,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "language learning resources",
+          "url": "https://www.reddit.com/r/languagelearning/comments/5grr6e/language_learning_resources_900_gb_and_much_more/",
+          "fx": 1044.1105547374846,
+          "fy": -471.70698720745804,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "languages",
       "url": "http://www.wikiwand.com/en/Language",
       "fx": 364.9820763910983,
       "fy": -483.7480393028519,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/languagelearning/",
+          "fx": 584.9820763910983,
+          "fy": -469.7480393028519,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 1115.501162406726,
-      "fy": -403.7106923812475
+      "fy": -403.7106923812475,
+      "nodes": [
+        {
+          "text": "language explained",
+          "url": "https://www.youtube.com/watch?v=SIOQgY1tqrU",
+          "fx": 1306.501162406726,
+          "fy": -392.2106923812475,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "russian  ️",
       "url": "/linguistics/languages/russian",
       "fx": -480.03226744610333,
       "fy": -82.19262928432886,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -33,6 +75,7 @@
       "url": "/linguistics/languages/english",
       "fx": -329.1855300613072,
       "fy": -79.73509681627945,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -40,6 +83,7 @@
       "url": "/linguistics/languages/czech",
       "fx": -802.7337535511363,
       "fy": -76.24192116477263,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,6 +91,7 @@
       "url": "/linguistics/languages/portuguese",
       "fx": -666.6843915736345,
       "fy": -76.18458711998301,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -54,6 +99,7 @@
       "url": "/linguistics/languages/german",
       "fx": -188.29005393400996,
       "fy": -75.41608451301158,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -61,6 +107,7 @@
       "url": "/linguistics/languages/finnish",
       "fx": -945.8598681780052,
       "fy": -74.66084608478639,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -68,6 +115,7 @@
       "url": "https://github.com/nikitavoloboev/knowledge-map/issues/670",
       "fx": -40.64679818559989,
       "fy": -74.6480655251238,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -75,6 +123,7 @@
       "url": "/linguistics/languages/vietnamese",
       "fx": -1133.8058000385788,
       "fy": -73.30792186819929,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -82,6 +131,7 @@
       "url": "/linguistics/languages/spanish",
       "fx": 277.6274932502122,
       "fy": -72.55505627351044,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -89,6 +139,7 @@
       "url": "/linguistics/languages/latvian",
       "fx": -1269.5235875096007,
       "fy": -70.71322522536195,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -96,6 +147,7 @@
       "url": "/linguistics/languages/french",
       "fx": 427.9245910644531,
       "fy": -70.43359184265137,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -103,6 +155,7 @@
       "url": "/linguistics/languages/korean",
       "fx": 559.0559844970703,
       "fy": -69.00853538513184,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -110,6 +163,7 @@
       "url": "/linguistics/languages/polish",
       "fx": 705.4406492248047,
       "fy": -67.67753754844978,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -117,6 +171,7 @@
       "url": "/linguistics/languages/japanese",
       "fx": 113.66700744628906,
       "fy": -65.85032367706299,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -124,6 +179,7 @@
       "url": "/linguistics/languages/italian",
       "fx": 842.3524700126231,
       "fy": -63.362334280289986,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -131,6 +187,7 @@
       "url": "/linguistics/languages/arabic",
       "fx": 970.7588588169674,
       "fy": -59.90478515624994,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -138,6 +195,7 @@
       "url": "/linguistics/languages/bulgarian",
       "fx": 1112.7956696456517,
       "fy": -57.361160788303096,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -145,6 +203,7 @@
       "url": "/linguistics/languages/dutch",
       "fx": 1276.4892508865532,
       "fy": -55.0121897163458,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -152,6 +211,7 @@
       "url": "/linguistics/languages/norwegian",
       "fx": 1412.3516613923935,
       "fy": -53.22488132911394,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -159,6 +219,7 @@
       "url": "/linguistics/languages/greek",
       "fx": 1597.5575753891053,
       "fy": -51.753708657587254,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -166,6 +227,7 @@
       "url": "/linguistics/languages/irish",
       "fx": 2044.3346247268937,
       "fy": -50.5889310836792,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -173,6 +235,7 @@
       "url": "/linguistics/languages/turkish",
       "fx": 2160.1918862552966,
       "fy": -50.21111957097446,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -180,6 +243,7 @@
       "url": "/linguistics/languages/hebrew",
       "fx": 1733.851257324182,
       "fy": -48.612487792972956,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -187,44 +251,8 @@
       "url": "/linguistics/languages/swedish",
       "fx": 1877.4947471071623,
       "fy": -47.91121748941714,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "clozemaster",
-      "url": "https://www.clozemaster.com/",
-      "fx": 1044.1105547374846,
-      "fy": -505.70698720745804,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "language learning resources",
-      "url": "https://www.reddit.com/r/languagelearning/comments/5grr6e/language_learning_resources_900_gb_and_much_more/",
-      "fx": 1044.1105547374846,
-      "fy": -471.70698720745804,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/languagelearning/",
-      "fx": 584.9820763910983,
-      "fy": -469.7480393028519,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "languages"
-    },
-    {
-      "text": "language explained",
-      "url": "https://www.youtube.com/watch?v=SIOQgY1tqrU",
-      "fx": 1306.501162406726,
-      "fy": -392.2106923812475,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
     }
   ],
   "connections": [

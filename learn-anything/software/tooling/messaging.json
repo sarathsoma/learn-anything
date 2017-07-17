@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Instant_messaging",
       "fx": -239.1875,
       "fy": -281.39453125,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/software/tooling/messaging/telegram",
       "fx": -353.0453224182129,
       "fy": -154.30316228451943,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,6 +24,7 @@
       "url": "/software/tooling/messaging/discord",
       "fx": -183.947125564653,
       "fy": -151.11967991247866,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -29,10 +32,10 @@
       "url": "/software/tooling/messaging/slack",
       "fx": -33.06295993912522,
       "fy": -149.48703690239802,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "instant messaging",

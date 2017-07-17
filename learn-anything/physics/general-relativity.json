@@ -7,26 +7,76 @@
       "url": "http://www.wikiwand.com/en/General_relativity",
       "fx": -150.82421875,
       "fy": -69.48735458485399,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 5.2255773749403716,
-      "fy": 37.81343017085902
+      "fy": 37.81343017085902,
+      "nodes": [
+        {
+          "text": "lecture notes on general relativity",
+          "url": "http://www.preposterousuniverse.com/grnotes/",
+          "fx": 142.22557737494037,
+          "fy": 32.31343017085902,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "general relativity tutorial  ️",
+          "url": "http://math.ucr.edu/home/baez/gr/gr.html",
+          "fx": 142.22557737494037,
+          "fy": 66.31343017085902,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -125.34157317493657,
-      "fy": 201.64627389987925
+      "fy": 201.64627389987925,
+      "nodes": [
+        {
+          "text": "1. general relativity",
+          "url": "https://www.youtube.com/watch?v=JRZgW1YjCKk&amp;index=10&amp;list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib",
+          "fx": 56.65842682506343,
+          "fy": 129.64627389987925,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. a most incomprehensible thing: notes towards a very gentle introduction to the mathematics of relativity",
+          "url": "http://www.goodreads.com/book/show/22745100-a-most-incomprehensible-thing",
+          "fx": 56.65842682506343,
+          "fy": 169.64627389987925,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "2. a fist course in general relativity",
+          "url": "http://www.goodreads.com/book/show/53520.A_First_Course_in_General_Relativity",
+          "fx": 56.65842682506343,
+          "fy": 274.64627389987925,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "Einstein field equations  ️",
       "url": "/physics/general-relativity/einstein-field-equations",
       "fx": -626.2394587320574,
       "fy": 374.54822069377997,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +84,7 @@
       "url": "/physics/general-relativity/spacetime",
       "fx": -71.25781250000011,
       "fy": 377.2527613146551,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,53 +92,8 @@
       "url": "/physics/general-relativity/equivalence-principle",
       "fx": -337.6210937500001,
       "fy": 378.9157986111112,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "lecture notes on general relativity",
-      "url": "http://www.preposterousuniverse.com/grnotes/",
-      "fx": 142.22557737494037,
-      "fy": 32.31343017085902,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "general relativity tutorial  ️",
-      "url": "http://math.ucr.edu/home/baez/gr/gr.html",
-      "fx": 142.22557737494037,
-      "fy": 66.31343017085902,
-      "category": "article",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. general relativity",
-      "url": "https://www.youtube.com/watch?v=JRZgW1YjCKk&amp;index=10&amp;list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib",
-      "fx": 56.65842682506343,
-      "fy": 129.64627389987925,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. a most incomprehensible thing: notes towards a very gentle introduction to the mathematics of relativity",
-      "url": "http://www.goodreads.com/book/show/22745100-a-most-incomprehensible-thing",
-      "fx": 56.65842682506343,
-      "fy": 169.64627389987925,
-      "category": "non-free book",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. a fist course in general relativity",
-      "url": "http://www.goodreads.com/book/show/53520.A_First_Course_in_General_Relativity",
-      "fx": 56.65842682506343,
-      "fy": 274.64627389987925,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

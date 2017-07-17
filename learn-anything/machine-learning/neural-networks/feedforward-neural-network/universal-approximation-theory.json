@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Universal_approximation_theorem",
       "fx": 276.421875,
       "fy": -152.51953125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 356.7387925392651,
-      "fy": 53.057182591680544
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=WJjPVj2bBVQ",
-      "fx": 519.7387925392651,
-      "fy": 65.55718259168054,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 53.057182591680544,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=WJjPVj2bBVQ",
+          "fx": 519.7387925392651,
+          "fy": 65.55718259168054,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

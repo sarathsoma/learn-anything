@@ -7,13 +7,25 @@
       "url": "http://www.wikiwand.com/en/Milky_Way",
       "fx": -207.30859375,
       "fy": -539.140625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -151.59972374446863,
-      "fy": -385.12073637053584
+      "fy": -385.12073637053584,
+      "nodes": [
+        {
+          "text": "1. inside the milky way",
+          "url": "https://www.youtube.com/watch?v=ttz4Sr0tZFg",
+          "fx": 4.400276255531367,
+          "fy": -373.62073637053584,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "solar system  ️",
@@ -21,18 +33,8 @@
       "url": "/space-science/astronomy/universe/galaxies/milky-way/solar-system",
       "fx": -197.21339416503906,
       "fy": -236.28998184204102,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. inside the milky way",
-      "url": "https://www.youtube.com/watch?v=ttz4Sr0tZFg",
-      "fx": 4.400276255531367,
-      "fy": -373.62073637053584,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

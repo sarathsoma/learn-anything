@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Antibiotics",
       "fx": -68.90234375,
       "fy": -142.37890625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -46.24609375,
-      "fy": -15.34375
+      "fy": -15.34375,
+      "nodes": [
+        {
+          "text": "1. antibiotics mechanisms of action",
+          "url": "https://www.youtube.com/watch?v=IVBCrzjOl40",
+          "fx": 109.75390625,
+          "fy": -3.84375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "penicillin  ️",
       "url": "/chemistry/drugs/antibiotics/penicillin",
       "fx": -151.16122979533918,
       "fy": 110.09555461130981,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. antibiotics mechanisms of action",
-      "url": "https://www.youtube.com/watch?v=IVBCrzjOl40",
-      "fx": 109.75390625,
-      "fy": -3.84375,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

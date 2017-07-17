@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Information_processing",
       "fx": 79.10352422907499,
       "fy": -100.57275605726886,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "http://www.wikiwand.com/en/Code",
       "fx": -52.70828744493372,
       "fy": 55.920567180613205,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -21,6 +23,7 @@
       "url": "/information-theory/information/information-processing/character-encoding",
       "fx": 88.14268997797456,
       "fy": 58.23650881056852,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/information-theory/information/information-processing/morse-code",
       "fx": -188.96347045898438,
       "fy": 194.33154678344727,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +39,7 @@
       "url": "/information-theory/information/information-processing/barcodes",
       "fx": -349.1075067934818,
       "fy": 194.58101222826036,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,10 +47,10 @@
       "url": "/information-theory/information/information-processing/prefix-codes",
       "fx": 2.5224609375,
       "fy": 194.9521484375,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "information processing",

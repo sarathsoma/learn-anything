@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Formal_grammar",
       "fx": 139.2249138944893,
       "fy": -201.59583063316057,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,10 +15,10 @@
       "url": "/linguistics/formal-language/formal-grammar/context-free-grammar",
       "fx": -87.7682501680107,
       "fy": -56.400621639785015,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "formal grammar",

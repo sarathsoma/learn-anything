@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Financial_accounting",
       "fx": 330.796875,
       "fy": -98.69921875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 407,
-      "fy": 34
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. videos on financial accounting",
-      "url": "http://bus.emory.edu/scrosso/FA%20Videos.htm",
-      "fx": 570,
       "fy": 34,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. videos on financial accounting",
+          "url": "http://bus.emory.edu/scrosso/FA%20Videos.htm",
+          "fx": 570,
+          "fy": 34,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

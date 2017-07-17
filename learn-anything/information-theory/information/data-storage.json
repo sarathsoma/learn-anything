@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Data_storage",
       "fx": 301.23764648743474,
       "fy": -158.1007071739674,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/information-theory/information/data-storage/hard-disks",
       "fx": 79.10784912109375,
       "fy": 1.23457670211792,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,6 +23,7 @@
       "url": "/information-theory/information/data-storage/solid-state-drives",
       "fx": 313.21622467041016,
       "fy": 1.7276811599731445,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +31,7 @@
       "url": "/information-theory/information/data-storage/dna",
       "fx": -240.0159149169922,
       "fy": 2.038562297821045,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +39,7 @@
       "url": "/information-theory/information/data-storage/punched-cards",
       "fx": 559.3028869628906,
       "fy": 5.5149054527282715,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -42,10 +47,10 @@
       "url": "/information-theory/information/data-storage/cloud-storage",
       "fx": 791.3465909090905,
       "fy": 5.873224431773735,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "data storage",

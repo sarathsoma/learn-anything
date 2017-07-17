@@ -7,39 +7,65 @@
       "url": "http://www.wikiwand.com/en/Augmented_reality",
       "fx": -149.7140043904958,
       "fy": -237.1860472623967,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 65.37170600891113,
-      "fy": -114.53353250519308
+      "fy": -114.53353250519308,
+      "nodes": [
+        {
+          "text": "16: hyper-reality",
+          "url": "https://www.youtube.com/watch?v=YJg02ivYzSs",
+          "fx": 256.37170600891113,
+          "fy": -103.03353250519308,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "fif you think this can be improved in any way ",
       "url": "",
       "fx": -91.03582646537961,
-      "fy": -5.973077220820812
+      "fy": -5.973077220820812,
+      "nodes": [
+        {
+          "text": "1. what is augmented reality?",
+          "url": "https://www.youtube.com/watch?v=09vxKN1zLNI",
+          "fx": 90.96417353462039,
+          "fy": 5.526922779179188,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "mixed reality  ️",
       "url": "/computer-vision/augmented-reality/mixed-reality",
       "fx": -19.923828125,
       "fy": 133.533203125,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "develop",
       "url": "",
       "fx": -220.6761127932482,
-      "fy": 141.6970499356279
+      "fy": 141.6970499356279,
+      "nodes": []
     },
     {
       "text": "unity  ️",
       "url": "/game-development/game-engines/unity",
       "fx": -124.92463798457447,
       "fy": 268.69800656827965,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -47,27 +73,8 @@
       "url": "https://github.com/jeromeetienne/AR.js",
       "fx": -264.25969857130906,
       "fy": 269.4932074611379,
+      "nodes": [],
       "category": "github"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "16: hyper-reality",
-      "url": "https://www.youtube.com/watch?v=YJg02ivYzSs",
-      "fx": 256.37170600891113,
-      "fy": -103.03353250519308,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. what is augmented reality?",
-      "url": "https://www.youtube.com/watch?v=09vxKN1zLNI",
-      "fx": 90.96417353462039,
-      "fy": 5.526922779179188,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

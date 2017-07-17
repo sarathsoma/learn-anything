@@ -7,47 +7,51 @@
       "url": "http://www.wikiwand.com/en/Shader",
       "fx": -72.89866401255131,
       "fy": -156.55907440185547,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/shaders/",
+          "fx": 126.10133598744869,
+          "fy": -142.55907440185547,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 71.9208984375,
-      "fy": -36.3056640625
+      "fy": -36.3056640625,
+      "nodes": [
+        {
+          "text": "shader toy",
+          "url": "https://www.shadertoy.com/",
+          "fx": 208.9208984375,
+          "fy": -21.8056640625,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -66.49982988834381,
-      "fy": 53.572787617029746
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/shaders/",
-      "fx": 126.10133598744869,
-      "fy": -142.55907440185547,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "shaders"
-    },
-    {
-      "text": "shader toy",
-      "url": "https://www.shadertoy.com/",
-      "fx": 208.9208984375,
-      "fy": -21.8056640625,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. introduction to OpenGL shaders",
-      "url": "https://www.youtube.com/watch?v=j_h3GdMtO0M",
-      "fx": 89.50017011165619,
-      "fy": 65.07278761702975,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 53.572787617029746,
+      "nodes": [
+        {
+          "text": "1. introduction to OpenGL shaders",
+          "url": "https://www.youtube.com/watch?v=j_h3GdMtO0M",
+          "fx": 89.50017011165619,
+          "fy": 65.07278761702975,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

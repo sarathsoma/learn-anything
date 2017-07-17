@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Nyquist%E2%80%93Shannon_sampling_theorem",
       "fx": 61.36328125,
       "fy": -117.62890625,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 142.671875,
-      "fy": 62.83203125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. sampling, aliasing &amp; Nyquist theorem",
-      "url": "https://www.youtube.com/watch?v=yWqrx08UeUs",
-      "fx": 305.671875,
       "fy": 62.83203125,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. sampling, aliasing &amp; Nyquist theorem",
+          "url": "https://www.youtube.com/watch?v=yWqrx08UeUs",
+          "fx": 305.671875,
+          "fy": 62.83203125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

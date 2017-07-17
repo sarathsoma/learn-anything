@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Standard_atomic_weight",
       "fx": -78.7109375,
       "fy": -146.43359375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 1.8203125,
-      "fy": -6.21484375
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. calculating atomic weight",
-      "url": "https://www.youtube.com/watch?v=EPvd-3712U8",
-      "fx": 157.8203125,
-      "fy": 5.28515625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -6.21484375,
+      "nodes": [
+        {
+          "text": "1. calculating atomic weight",
+          "url": "https://www.youtube.com/watch?v=EPvd-3712U8",
+          "fx": 157.8203125,
+          "fy": 5.28515625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

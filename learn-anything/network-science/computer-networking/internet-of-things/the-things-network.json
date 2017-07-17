@@ -6,55 +6,59 @@
       "text": "the things network",
       "url": "https://www.thethingsnetwork.org/",
       "fx": 110.30859375,
-      "fy": -248.58552631578948
+      "fy": -248.58552631578948,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://github.com/TheThingsNetwork",
+          "fx": 391.30859375,
+          "fy": -236.08552631578948,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "help",
       "url": "",
       "fx": 295.53869505879095,
-      "fy": -137.80941174401374
+      "fy": -137.80941174401374,
+      "nodes": [
+        {
+          "text": "forum",
+          "url": "https://www.thethingsnetwork.org/forum/",
+          "fx": 436.53869505879095,
+          "fy": -125.30941174401374,
+          "nodes": [],
+          "category": "chat",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 167.73730151784105,
-      "fy": -18.27008639631441
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://github.com/TheThingsNetwork",
-      "fx": 391.30859375,
-      "fy": -236.08552631578948,
-      "category": "github",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "the things network"
-    },
-    {
-      "text": "forum",
-      "url": "https://www.thethingsnetwork.org/forum/",
-      "fx": 436.53869505879095,
-      "fy": -125.30941174401374,
-      "category": "chat",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. documentation",
-      "url": "https://www.thethingsnetwork.org/docs/",
-      "fx": 330.73730151784105,
-      "fy": -21.77008639631441,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. wiki",
-      "url": "https://www.thethingsnetwork.org/wiki/Home",
-      "fx": 330.73730151784105,
-      "fy": 15.229913603685588,
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
+      "fy": -18.27008639631441,
+      "nodes": [
+        {
+          "text": "1. documentation",
+          "url": "https://www.thethingsnetwork.org/docs/",
+          "fx": 330.73730151784105,
+          "fy": -21.77008639631441,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. wiki",
+          "url": "https://www.thethingsnetwork.org/wiki/Home",
+          "fx": 330.73730151784105,
+          "fy": 15.229913603685588,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

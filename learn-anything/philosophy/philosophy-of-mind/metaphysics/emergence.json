@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Emergence",
       "fx": 116.640625,
       "fy": -107.296875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 151.6800692182411,
-      "fy": 25.472808937296463
+      "fy": 25.472808937296463,
+      "nodes": [
+        {
+          "text": "1. emergence and complexity",
+          "url": "https://www.youtube.com/watch?v=o_ZuWbX-CyE",
+          "fx": 314.6800692182411,
+          "fy": 37.97280893729646,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "reductionism  ️",
       "url": "/philosophy/philosophy-of-mind/metaphysics/emergence/reductionism",
       "fx": 25.95246335504885,
       "fy": 137.98600366451558,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. emergence and complexity",
-      "url": "https://www.youtube.com/watch?v=o_ZuWbX-CyE",
-      "fx": 314.6800692182411,
-      "fy": 37.97280893729646,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

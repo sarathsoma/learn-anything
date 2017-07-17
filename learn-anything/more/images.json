@@ -8,23 +8,24 @@
       "url": "https://github.com/learn-anything/images",
       "fx": -78.37499904632568,
       "fy": -191.91571807861328,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "find new images",
       "url": "",
       "fx": -95.10737514952154,
-      "fy": -52.086124401913935
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "Unsplash",
-      "url": "https://unsplash.com/",
-      "fx": 149.89262485047846,
-      "fy": -37.586124401913935,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "find new images"
+      "fy": -52.086124401913935,
+      "nodes": [
+        {
+          "text": "Unsplash",
+          "url": "https://unsplash.com/",
+          "fx": 149.89262485047846,
+          "fy": -37.586124401913935,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

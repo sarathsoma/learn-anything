@@ -7,117 +7,123 @@
       "url": "http://www.wikiwand.com/en/Bash_(Unix_shell)",
       "fx": -65.62109375,
       "fy": -304.9252897350993,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/bash/",
+          "fx": 106.37890625,
+          "fy": -290.9252897350993,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 33.15321097468677,
-      "fy": -204.14998549657156
+      "fy": -204.14998549657156,
+      "nodes": [
+        {
+          "text": "bash one liners",
+          "url": "https://github.com/janosgyerik/bashoneliners",
+          "fx": 170.15321097468677,
+          "fy": -232.64998549657156,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "bash notes",
+          "url": "https://github.com/jp2011/bash-playground",
+          "fx": 170.15321097468677,
+          "fy": -192.64998549657156,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "bash snippets",
+          "url": "https://github.com/alexanderepstein/Bash-Snippets",
+          "fx": 170.15321097468677,
+          "fy": -152.64998549657156,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     },
     {
       "text": "tools",
       "url": "",
       "fx": 109.7975993377488,
-      "fy": -75.82905629139123
+      "fy": -75.82905629139123,
+      "nodes": [
+        {
+          "text": "explain shell",
+          "note": "match command-line arguments to their help text",
+          "url": "https://github.com/idank/explainshell",
+          "fx": 251.7975993377488,
+          "fy": -81.32905629139123,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "spellcheck",
+          "note": "static analysis tool for shell scripts",
+          "url": "https://github.com/koalaman/shellcheck",
+          "fx": 251.7975993377488,
+          "fy": -47.329056291391225,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -80.44174254966879,
-      "fy": 80.50186258274209
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/bash/",
-      "fx": 106.37890625,
-      "fy": -290.9252897350993,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "bash"
-    },
-    {
-      "text": "bash one liners",
-      "url": "https://github.com/janosgyerik/bashoneliners",
-      "fx": 170.15321097468677,
-      "fy": -232.64998549657156,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "bash notes",
-      "url": "https://github.com/jp2011/bash-playground",
-      "fx": 170.15321097468677,
-      "fy": -192.64998549657156,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "bash snippets",
-      "url": "https://github.com/alexanderepstein/Bash-Snippets",
-      "fx": 170.15321097468677,
-      "fy": -152.64998549657156,
-      "category": "github",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "explain shell",
-      "note": "match command-line arguments to their help text",
-      "url": "https://github.com/idank/explainshell",
-      "fx": 251.7975993377488,
-      "fy": -81.32905629139123,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "spellcheck",
-      "note": "static analysis tool for shell scripts",
-      "url": "https://github.com/koalaman/shellcheck",
-      "fx": 251.7975993377488,
-      "fy": -47.329056291391225,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "1. bash guide",
-      "url": "https://github.com/Idnan/bash-guide",
-      "fx": 101.55825745033121,
-      "fy": 38.00186258274209,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. learn you bash",
-      "url": "https://github.com/denysdovhan/learnyoubash",
-      "fx": 101.55825745033121,
-      "fy": 78.00186258274209,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. advanced bash scripting",
-      "url": "http://www.tldp.org/LDP/abs/html/",
-      "fx": 101.55825745033121,
-      "fy": 118.00186258274209,
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. practice",
-      "url": "http://exercism.io/languages/bash/launch",
-      "fx": 101.55825745033121,
-      "fy": 152.0018625827421,
-      "color": "rgba(34, 205, 224, 1.0)",
-      "parent": "basics"
+      "fy": 80.50186258274209,
+      "nodes": [
+        {
+          "text": "1. bash guide",
+          "url": "https://github.com/Idnan/bash-guide",
+          "fx": 101.55825745033121,
+          "fy": 38.00186258274209,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. learn you bash",
+          "url": "https://github.com/denysdovhan/learnyoubash",
+          "fx": 101.55825745033121,
+          "fy": 78.00186258274209,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. advanced bash scripting",
+          "url": "http://www.tldp.org/LDP/abs/html/",
+          "fx": 101.55825745033121,
+          "fy": 118.00186258274209,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "2. practice",
+          "url": "http://exercism.io/languages/bash/launch",
+          "fx": 101.55825745033121,
+          "fy": 152.0018625827421,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

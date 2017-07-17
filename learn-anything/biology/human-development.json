@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Human_development_(biology)",
       "fx": 41.27734375,
       "fy": -342.64453125,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,10 +16,10 @@
       "url": "/biology/human-development/aging",
       "fx": 67.39515417800078,
       "fy": -196.14604208283748,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "human development",

@@ -5,44 +5,62 @@
     {
       "text": "awareness",
       "url": "http://www.wikiwand.com/en/Awareness",
-      "fx": 43.17796148255809,
-      "fy": -203.00127180232556,
+      "fx": 58.36789411728853,
+      "fy": -319.59148112167816,
+      "nodes": [],
       "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 172.74836244541484,
+      "fy": -204.93306495633198,
+      "nodes": [
+        {
+          "text": "heavy mind album",
+          "url": "http://imgur.com/a/om6BB",
+          "fx": 363.74836244541484,
+          "fy": -193.43306495633198,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 70.43947583575573,
-      "fy": -39.737418105186066
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. Alan Watts - obtain an abnormal awareness",
-      "url": "https://www.youtube.com/watch?v=tdw7iCAUJPY",
-      "fx": 226.43947583575573,
-      "fy": -90.23741810518607,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. being aware of awareness",
-      "url": "https://www.youtube.com/watch?v=DOyZcYPwAdw",
-      "fx": 226.43947583575573,
-      "fy": -28.237418105186066,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. Alan Watts - on Aldous Huxley, literature &amp; awareness",
-      "url": "https://www.youtube.com/watch?v=fU0rfA_IoVQ",
-      "fx": 226.43947583575573,
-      "fy": 11.762581894813934,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
+      "fy": -39.737418105186066,
+      "nodes": [
+        {
+          "text": "1. Alan Watts - obtain an abnormal awareness",
+          "url": "https://www.youtube.com/watch?v=tdw7iCAUJPY",
+          "fx": 226.43947583575573,
+          "fy": -90.23741810518607,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. being aware of awareness",
+          "url": "https://www.youtube.com/watch?v=DOyZcYPwAdw",
+          "fx": 226.43947583575573,
+          "fy": -28.237418105186066,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. Alan Watts - on Aldous Huxley, literature &amp; awareness",
+          "url": "https://www.youtube.com/watch?v=fU0rfA_IoVQ",
+          "fx": 226.43947583575573,
+          "fy": 11.762581894813934,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [
@@ -50,8 +68,16 @@
       "source": "awareness",
       "target": "basics",
       "curve": {
-        "x": -3.36924,
-        "y": 80.3819
+        "x": -10.9642,
+        "y": 138.677
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "awareness",
+      "curve": {
+        "x": -48.9402,
+        "y": -56.0792
       }
     }
   ]

@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Inflation",
       "fx": -56.078125,
       "fy": -146.36328125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -42.24609375,
-      "fy": -0.95703125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=T8-85cZRI9o",
-      "fx": 120.75390625,
-      "fy": 11.54296875,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -0.95703125,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=T8-85cZRI9o",
+          "fx": 120.75390625,
+          "fy": 11.54296875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

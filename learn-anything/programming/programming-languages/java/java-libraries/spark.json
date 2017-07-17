@@ -8,23 +8,24 @@
       "url": "https://github.com/perwendel/spark",
       "fx": -136.453125,
       "fy": -166.67578125,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -116.81797600298398,
-      "fy": -29.742522518788633
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. getting started",
-      "url": "http://sparkjava.com/documentation#getting-started",
-      "fx": 39.18202399701602,
-      "fy": -15.242522518788633,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -29.742522518788633,
+      "nodes": [
+        {
+          "text": "1. getting started",
+          "url": "http://sparkjava.com/documentation#getting-started",
+          "fx": 39.18202399701602,
+          "fy": -15.242522518788633,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

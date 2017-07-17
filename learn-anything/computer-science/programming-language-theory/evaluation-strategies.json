@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Evaluation_strategy",
       "fx": -118.87890625,
       "fy": -170.765625,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/computer-science/programming-language-theory/evaluation-strategies/lazy-evaluation",
       "fx": -607.123941725579,
       "fy": 18.012832942946147,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,6 +23,7 @@
       "url": "http://www.wikiwand.com/en/Partial_evaluation",
       "fx": -395.2104904893515,
       "fy": 19.556355601501537,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -28,6 +31,7 @@
       "url": "http://www.wikiwand.com/en/Short-circuit_evaluation",
       "fx": -158.64311679895343,
       "fy": 21.744549762377687,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -35,6 +39,7 @@
       "url": "http://www.wikiwand.com/en/Eager_evaluation",
       "fx": 369.30195894103133,
       "fy": 24.72225103243943,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -42,10 +47,10 @@
       "url": "http://www.wikiwand.com/en/Remote_evaluation",
       "fx": 129.63392455335986,
       "fy": 25.70785602352305,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "evaluation strategies",

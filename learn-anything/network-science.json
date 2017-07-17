@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Network_science",
       "fx": 320.13873936364257,
       "fy": -442.51661250411917,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "http://www.wikiwand.com/en/Semantic_network",
       "fx": 634.7532778047128,
       "fy": -241.56943841874232,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -22,6 +24,7 @@
       "url": "http://www.wikiwand.com/en/Biological_network",
       "fx": 386.2884521484375,
       "fy": -239.40916442871094,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -30,6 +33,7 @@
       "url": "/network-science/computer-networking",
       "fx": -266.9644584655762,
       "fy": -238.89255905151367,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -37,6 +41,7 @@
       "url": "http://www.wikiwand.com/en/Complex_network",
       "fx": 1123.8419867235634,
       "fy": -238.6139091394025,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -44,6 +49,7 @@
       "url": "/network-science/network-topology",
       "fx": -512.8932952880859,
       "fy": -238.56880569458008,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -51,6 +57,7 @@
       "url": "http://www.wikiwand.com/en/Social_network",
       "fx": 900.0078448043721,
       "fy": -238.14142365092619,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -58,6 +65,7 @@
       "url": "http://www.wikiwand.com/en/Telecommunications_network",
       "fx": 27.151290893554688,
       "fy": -237.5531234741211,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -65,10 +73,10 @@
       "url": "/network-science/network-theory",
       "fx": -723.039891098485,
       "fy": -236.41193181818159,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "network science",

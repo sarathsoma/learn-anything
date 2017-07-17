@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Decentralization",
       "fx": 92.8498364825582,
       "fy": -169.93731831395343,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 147.1104651162882,
-      "fy": -30.13408430230919
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. the advantages of decentralisation",
-      "url": "https://www.youtube.com/watch?v=LKbOPYnUlXs",
-      "fx": 310.1104651162882,
       "fy": -30.13408430230919,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. the advantages of decentralisation",
+          "url": "https://www.youtube.com/watch?v=LKbOPYnUlXs",
+          "fx": 310.1104651162882,
+          "fy": -30.13408430230919,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

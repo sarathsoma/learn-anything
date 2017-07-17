@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Part-of-speech_tagging",
       "fx": 102.3671875,
       "fy": -105.71484375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 181.53515625,
-      "fy": 37.64453125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. speech tagging with python",
-      "url": "https://www.youtube.com/watch?v=6j6M2MtEqi8",
-      "fx": 337.53515625,
-      "fy": 49.14453125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 37.64453125,
+      "nodes": [
+        {
+          "text": "1. speech tagging with python",
+          "url": "https://www.youtube.com/watch?v=6j6M2MtEqi8",
+          "fx": 337.53515625,
+          "fy": 49.14453125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

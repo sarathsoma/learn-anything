@@ -7,33 +7,35 @@
       "url": "http://www.wikiwand.com/en/Paganism",
       "fx": 233.23828125,
       "fy": -176.12890625,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/pagan/",
+          "fx": 461.23828125,
+          "fy": -162.12890625,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 262.3231665129165,
-      "fy": -28.17913976014131
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/pagan/",
-      "fx": 461.23828125,
-      "fy": -162.12890625,
-      "category": "reddit",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "paganism"
-    },
-    {
-      "text": "1. what is paganism?",
-      "url": "https://www.youtube.com/watch?v=c0B-5U7kaME",
-      "fx": 425.3231665129165,
-      "fy": -15.679139760141311,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -28.17913976014131,
+      "nodes": [
+        {
+          "text": "1. what is paganism?",
+          "url": "https://www.youtube.com/watch?v=c0B-5U7kaME",
+          "fx": 425.3231665129165,
+          "fy": -15.679139760141311,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

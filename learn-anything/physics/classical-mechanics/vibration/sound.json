@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Sound",
       "fx": 23.265239715576172,
       "fy": -110.14766800403595,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 39.45703125,
-      "fy": 25.95703125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what is sound",
-      "url": "https://www.youtube.com/watch?v=oElbMctAVlY",
-      "fx": 195.45703125,
-      "fy": 37.45703125,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 25.95703125,
+      "nodes": [
+        {
+          "text": "1. what is sound",
+          "url": "https://www.youtube.com/watch?v=oElbMctAVlY",
+          "fx": 195.45703125,
+          "fy": 37.45703125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

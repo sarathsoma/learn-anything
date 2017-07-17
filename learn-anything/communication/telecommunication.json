@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Telecommunication",
       "fx": 109.38705264522832,
       "fy": -216.19765625000002,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,10 +16,10 @@
       "url": "/communication/telecommunication/wireless",
       "fx": 74.53538257555044,
       "fy": -96.94094007573182,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "telecommunication",

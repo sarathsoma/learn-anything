@@ -6,13 +6,25 @@
       "text": "development environment",
       "url": "",
       "fx": 63.4711954444291,
-      "fy": -247.42988310340468
+      "fy": -247.42988310340468,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/jondot/awesome-devenv",
+          "fx": 395.4711954444291,
+          "fy": -235.92988310340468,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "vim  ️",
       "url": "/software/tooling/text-editors/vim",
       "fx": 361.00409350069697,
       "fy": -112.61794416581921,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -20,6 +32,7 @@
       "url": "/software/tooling/text-editors",
       "fx": 110.50665749252119,
       "fy": -18.417506235217616,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,6 +40,7 @@
       "url": "/software/tooling/text-editors/vs-code",
       "fx": 355.7832975495236,
       "fy": 4.257848359674938,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +48,7 @@
       "url": "/software/tooling/productivity/karabiner",
       "fx": 496.3701481834089,
       "fy": 76.84661272181927,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +56,7 @@
       "url": "/software/tooling/productivity/alfred",
       "fx": 521.098406159894,
       "fy": 169.54854462504397,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +64,7 @@
       "url": "/operating-systems/unix/macos",
       "fx": 302.1722383720887,
       "fy": 179.4902797965102,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,19 +72,22 @@
       "url": "/operating-systems/unix/linux",
       "fx": 131.65764076583372,
       "fy": 179.8547479284232,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "typinator",
       "url": "http://www.ergonis.com/products/typinator/",
       "fx": 506.9525241074505,
-      "fy": 261.34331233497755
+      "fy": 261.34331233497755,
+      "nodes": []
     },
     {
       "text": "tmux  ️",
       "url": "/software/tooling/productivity/tmux",
       "fx": 406.93307355009426,
       "fy": 350.0457833041052,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -75,6 +95,7 @@
       "url": "/software/tooling/cli",
       "fx": 220.0171797899045,
       "fy": 392.2694554498519,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -82,6 +103,7 @@
       "url": "https://github.com/junegunn/fzf",
       "fx": 416.44893867525695,
       "fy": 447.5632679510446,
+      "nodes": [],
       "category": "github"
     },
     {
@@ -89,6 +111,7 @@
       "url": "/software/tooling/messaging",
       "fx": 194.06296830726,
       "fy": 533.0361757383237,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -96,6 +119,7 @@
       "url": "/software/tooling/messaging/telegram",
       "fx": 408.9721790890263,
       "fy": 563.4881011198945,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -103,18 +127,8 @@
       "url": "/software/tooling/messaging/slack",
       "fx": 362.8803135100238,
       "fy": 668.4351185154997,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome",
-      "url": "https://github.com/jondot/awesome-devenv",
-      "fx": 395.4711954444291,
-      "fy": -235.92988310340468,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "development environment"
     }
   ],
   "connections": [

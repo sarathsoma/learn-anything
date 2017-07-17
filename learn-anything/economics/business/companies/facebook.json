@@ -7,37 +7,113 @@
       "url": "http://www.wikiwand.com/en/Facebook",
       "fx": -49.33289930555554,
       "fy": -313.05588754785117,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "alternative",
       "url": "",
       "fx": -440.70968173583026,
-      "fy": -164.84552042160362
+      "fy": -164.84552042160362,
+      "nodes": []
     },
     {
       "text": "mastodon",
       "url": "https://mastodon.social/about",
       "fx": -639.3663684475782,
-      "fy": -104.00861055107458
+      "fy": -104.00861055107458,
+      "nodes": []
     },
     {
       "text": "privacy concerns",
       "url": "",
       "fx": 36.902191162109375,
-      "fy": -45.573354721069336
+      "fy": -45.573354721069336,
+      "nodes": [
+        {
+          "text": "16: facebook shadow profiles  ️",
+          "url": "https://spideroak.com/articles/facebook-shadow-profiles-a-profile-of-you-that-you-never-created",
+          "fx": 304.9021911621094,
+          "fy": -316.57335472106934,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "17: get your loved ones off Facebook  ️",
+          "note": "By staying on Facebook, you’re granting them permission to collect and use information about you, regardless of you even using the Internet.   And by staying on, the data they collect on you gets used to create models about your closest friends and family, even the ones who opted out.",
+          "url": "http://www.salimvirani.com//facebook/",
+          "fx": 304.9021911621094,
+          "fy": -249.57335472106934,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "17: leaked document reveals facebook conducted research to target emotionally vulnerable and insecure youth",
+          "url": "https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/",
+          "fx": 304.9021911621094,
+          "fy": -182.57335472106934,
+          "nodes": [],
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "17: Zuckerberg removed a line about monitoring private messages from his facebook manifesto",
+          "url": "https://www.reddit.com/r/privacy/comments/5ulggx/zuckerberg_removed_a_line_about_monitoring/",
+          "fx": 304.9021911621094,
+          "fy": -71.57335472106934,
+          "nodes": [],
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "17: facebook is an attack on the open web",
+          "url": "https://news.ycombinator.com/item?id=14462785",
+          "fx": 304.9021911621094,
+          "fy": 39.426645278930664,
+          "nodes": [],
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "facebook tracks all site vistors, violating eu law",
+          "note": "Facebook uses a lot of cookies, even if you don't visit the website or login, and it also uses cookies on any site that has a \"like\" button.  Facebook claims this is for security purposes, which is unlikely because they only do some of this tracking in Europe. This was discovered by two European research universities - there's no criminal or civil complaint filed against Facebook and they'll face no penalties.",
+          "url": "https://thenextweb.com/facebook/2015/03/31/facebook-tracks-logged-out-users-in-violation-of-eu-law-belgian-privacy-commission-says/#.tnw_OTKkI5gS",
+          "fx": 304.9021911621094,
+          "fy": 101.42664527893066,
+          "nodes": [],
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "get data Facebook has on you",
+          "url": "http://europe-v-facebook.org/EN/Get_your_Data_/get_your_data_.html",
+          "fx": 304.9021911621094,
+          "fy": 163.42664527893066,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "your emotions may soon be secretly recorded by your own camera by Facebook  ️",
+          "url": "https://trak-in.cdn.ampproject.org/c/trak.in/tags/business/2017/06/07/facebooks-evil-patents-discovered-your-emotions-may-soon-be-secretly-recorded-by-your-own-camera/amp/",
+          "fx": 304.9021911621094,
+          "fy": 200.42664527893066,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     },
     {
       "text": "owns",
       "url": "",
       "fx": -199.91401382398743,
-      "fy": -43.01439593068494
+      "fy": -43.01439593068494,
+      "nodes": []
     },
     {
       "text": "Oculus VR",
       "url": "http://www.wikiwand.com/en/Oculus_VR",
       "fx": -603.8930191301978,
       "fy": 89.97275352670897,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -45,6 +121,7 @@
       "url": "http://www.wikiwand.com/en/Instagram",
       "fx": -412.4619140625,
       "fy": 90.4384765625,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -52,108 +129,42 @@
       "url": "http://www.wikiwand.com/en/WhatsApp",
       "fx": -222.9599609375,
       "fy": 91.0068359375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "issues",
       "url": "",
       "fx": 210.3719825744629,
-      "fy": 347.99395751953125
+      "fy": 347.99395751953125,
+      "nodes": [
+        {
+          "text": "15: how Facebook is stealing billions of views",
+          "url": "https://www.youtube.com/watch?v=t7tA3NNKF0Q",
+          "fx": 372.3719825744629,
+          "fy": 347.99395751953125,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 260.64125844594537,
-      "fy": 523.7346475894464
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "16: facebook shadow profiles  ️",
-      "url": "https://spideroak.com/articles/facebook-shadow-profiles-a-profile-of-you-that-you-never-created",
-      "fx": 304.9021911621094,
-      "fy": -316.57335472106934,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "privacy concerns"
-    },
-    {
-      "text": "17: get your loved ones off Facebook  ️",
-      "note": "By staying on Facebook, you’re granting them permission to collect and use information about you, regardless of you even using the Internet.   And by staying on, the data they collect on you gets used to create models about your closest friends and family, even the ones who opted out.",
-      "url": "http://www.salimvirani.com//facebook/",
-      "fx": 304.9021911621094,
-      "fy": -249.57335472106934,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "privacy concerns"
-    },
-    {
-      "text": "17: leaked document reveals facebook conducted research to target emotionally vulnerable and insecure youth",
-      "url": "https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/",
-      "fx": 304.9021911621094,
-      "fy": -182.57335472106934,
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "privacy concerns"
-    },
-    {
-      "text": "17: Zuckerberg removed a line about monitoring private messages from his facebook manifesto",
-      "url": "https://www.reddit.com/r/privacy/comments/5ulggx/zuckerberg_removed_a_line_about_monitoring/",
-      "fx": 304.9021911621094,
-      "fy": -71.57335472106934,
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "privacy concerns"
-    },
-    {
-      "text": "17: facebook is an attack on the open web",
-      "url": "https://news.ycombinator.com/item?id=14462785",
-      "fx": 304.9021911621094,
-      "fy": 39.426645278930664,
-      "color": "rgba(255, 254, 60, 1.0)",
-      "parent": "privacy concerns"
-    },
-    {
-      "text": "facebook tracks all site vistors, violating eu law",
-      "note": "Facebook uses a lot of cookies, even if you don't visit the website or login, and it also uses cookies on any site that has a \"like\" button.  Facebook claims this is for security purposes, which is unlikely because they only do some of this tracking in Europe. This was discovered by two European research universities - there's no criminal or civil complaint filed against Facebook and they'll face no penalties.",
-      "url": "https://thenextweb.com/facebook/2015/03/31/facebook-tracks-logged-out-users-in-violation-of-eu-law-belgian-privacy-commission-says/#.tnw_OTKkI5gS",
-      "fx": 304.9021911621094,
-      "fy": 101.42664527893066,
-      "color": "rgba(169, 255, 0, 1.0)",
-      "parent": "privacy concerns"
-    },
-    {
-      "text": "get data Facebook has on you",
-      "url": "http://europe-v-facebook.org/EN/Get_your_Data_/get_your_data_.html",
-      "fx": 304.9021911621094,
-      "fy": 163.42664527893066,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "privacy concerns"
-    },
-    {
-      "text": "your emotions may soon be secretly recorded by your own camera by Facebook  ️",
-      "url": "https://trak-in.cdn.ampproject.org/c/trak.in/tags/business/2017/06/07/facebooks-evil-patents-discovered-your-emotions-may-soon-be-secretly-recorded-by-your-own-camera/amp/",
-      "fx": 304.9021911621094,
-      "fy": 200.42664527893066,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "privacy concerns"
-    },
-    {
-      "text": "15: how Facebook is stealing billions of views",
-      "url": "https://www.youtube.com/watch?v=t7tA3NNKF0Q",
-      "fx": 372.3719825744629,
-      "fy": 347.99395751953125,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "issues"
-    },
-    {
-      "text": "engineering blog  ️",
-      "url": "https://code.facebook.com/posts/",
-      "fx": 459.64125844594537,
-      "fy": 536.2346475894464,
-      "category": "blog",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
+      "fy": 523.7346475894464,
+      "nodes": [
+        {
+          "text": "engineering blog  ️",
+          "url": "https://code.facebook.com/posts/",
+          "fx": 459.64125844594537,
+          "fy": 536.2346475894464,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

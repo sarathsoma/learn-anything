@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Stochastic_control",
       "fx": 75.67578125,
       "fy": -103.01171875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 136.5,
-      "fy": 30
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=YB-80YD65SY",
-      "fx": 292.5,
-      "fy": 41.5,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": 30,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=YB-80YD65SY",
+          "fx": 292.5,
+          "fy": 41.5,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

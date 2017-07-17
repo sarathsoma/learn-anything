@@ -7,137 +7,142 @@
       "url": "http://www.wikiwand.com/en/Bitcoin",
       "fx": -133.57476872983204,
       "fy": -412.43298876684696,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/btc/",
+          "fx": 62.425231270167956,
+          "fy": -440.43298876684696,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://bitcoin.stackexchange.com/",
+          "fx": 62.425231270167956,
+          "fy": -398.43298876684696,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/igorbarinov/awesome-bitcoin",
+          "fx": 62.425231270167956,
+          "fy": -356.43298876684696,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 2.11943828731944,
-      "fy": -208.55960812013427
+      "fy": -208.55960812013427,
+      "nodes": [
+        {
+          "text": "real time bitcoin",
+          "url": "https://realtimebitcoin.info/",
+          "fx": 143.11943828731944,
+          "fy": -300.05960812013427,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "14: best resources for learning to build bitcoin and block chain applications  ️",
+          "url": "https://medium.com/zapchain-magazine/the-best-resources-for-learning-to-build-bitcoin-and-block-chain-applications-8de1953506f5",
+          "fx": 143.11943828731944,
+          "fy": -258.05960812013427,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "bitcoin forum",
+          "url": "https://bitcointalk.org/index.php",
+          "fx": 143.11943828731944,
+          "fy": -166.05960812013427,
+          "nodes": [],
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "CoinSalad",
+          "note": "Bitcoin market stats and charting data on some key components of the Bitcoin network",
+          "url": "https://coinsalad.com/",
+          "fx": 143.11943828731944,
+          "fy": -129.05960812013427,
+          "nodes": [],
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "notes on bitcoin",
+          "url": "https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizweb1/",
+          "fx": 143.11943828731944,
+          "fy": -92.05960812013427,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(255, 254, 60, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -230.79193494036565,
-      "fy": 96.24579435934061
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/btc/",
-      "fx": 62.425231270167956,
-      "fy": -440.43298876684696,
-      "category": "reddit",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "bitcoin"
-    },
-    {
-      "text": "️",
-      "url": "https://bitcoin.stackexchange.com/",
-      "fx": 62.425231270167956,
-      "fy": -398.43298876684696,
-      "category": "stack exchange",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "bitcoin"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/igorbarinov/awesome-bitcoin",
-      "fx": 62.425231270167956,
-      "fy": -356.43298876684696,
-      "category": "github",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "bitcoin"
-    },
-    {
-      "text": "real time bitcoin",
-      "url": "https://realtimebitcoin.info/",
-      "fx": 143.11943828731944,
-      "fy": -300.05960812013427,
-      "category": "interactive",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "14: best resources for learning to build bitcoin and block chain applications  ️",
-      "url": "https://medium.com/zapchain-magazine/the-best-resources-for-learning-to-build-bitcoin-and-block-chain-applications-8de1953506f5",
-      "fx": 143.11943828731944,
-      "fy": -258.05960812013427,
-      "category": "article",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "bitcoin forum",
-      "url": "https://bitcointalk.org/index.php",
-      "fx": 143.11943828731944,
-      "fy": -166.05960812013427,
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "CoinSalad",
-      "note": "Bitcoin market stats and charting data on some key components of the Bitcoin network",
-      "url": "https://coinsalad.com/",
-      "fx": 143.11943828731944,
-      "fy": -129.05960812013427,
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "notes on bitcoin",
-      "url": "https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizweb1/",
-      "fx": 143.11943828731944,
-      "fy": -92.05960812013427,
-      "category": "reddit",
-      "color": "rgba(255, 254, 60, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1 how bitcoin works",
-      "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4&amp;t=540s",
-      "fx": -41.79193494036565,
-      "fy": 20.745794359340607,
-      "category": "video",
-      "color": "rgba(255, 254, 60, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. bitcoin: a peer-to-peer electronic cash system",
-      "url": "https://bitcoin.org/bitcoin.pdf",
-      "fx": -41.79193494036565,
-      "fy": 62.74579435934061,
-      "category": "paper",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "annotated",
-      "url": "http://fermatslibrary.com/s/bitcoin",
-      "fx": 265.20806505963435,
-      "fy": 77.74579435934061,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "1. bitcoin: a peer-to-peer electronic cash system"
-    },
-    {
-      "text": "1. mastering bitcoin",
-      "url": "https://github.com/bitcoinbook/bitcoinbook",
-      "fx": -41.79193494036565,
-      "fy": 129.7457943593406,
-      "category": "non-free book",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. how the bitcoin protocol actually works  ️",
-      "url": "http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/",
-      "fx": -41.79193494036565,
-      "fy": 171.7457943593406,
-      "category": "article",
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "basics"
+      "fy": 96.24579435934061,
+      "nodes": [
+        {
+          "text": "1 how bitcoin works",
+          "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4&amp;t=540s",
+          "fx": -41.79193494036565,
+          "fy": 20.745794359340607,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "1. bitcoin: a peer-to-peer electronic cash system",
+          "url": "https://bitcoin.org/bitcoin.pdf",
+          "fx": -41.79193494036565,
+          "fy": 62.74579435934061,
+          "nodes": [
+            {
+              "text": "annotated",
+              "url": "http://fermatslibrary.com/s/bitcoin",
+              "fx": 265.20806505963435,
+              "fy": 77.74579435934061,
+              "nodes": [],
+              "color": "rgba(104, 255, 109, 1.0)"
+            }
+          ],
+          "category": "paper",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. mastering bitcoin",
+          "url": "https://github.com/bitcoinbook/bitcoinbook",
+          "fx": -41.79193494036565,
+          "fy": 129.7457943593406,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. how the bitcoin protocol actually works  ️",
+          "url": "http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/",
+          "fx": -41.79193494036565,
+          "fy": 171.7457943593406,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(252, 177, 20, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

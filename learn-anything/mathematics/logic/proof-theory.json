@@ -7,40 +7,42 @@
       "url": "http://www.wikiwand.com/en/Proof_theory",
       "fx": -179.62109375,
       "fy": -340.62109375000006,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -139.2407463592233,
-      "fy": -181.27214805825224
+      "fy": -181.27214805825224,
+      "nodes": [
+        {
+          "text": "1. proof theory foundations",
+          "url": "https://www.youtube.com/watch?v=YRu7Xi-mNK8",
+          "fx": 16.759253640776706,
+          "fy": -200.77214805825224,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. mechanising proof: computing, risk and trust",
+          "url": "http://www.goodreads.com/book/show/347429.Mechanizing_Proof",
+          "fx": 16.759253640776706,
+          "fy": -160.77214805825224,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "Curry-Howard correspondence  ️",
       "url": "/mathematics/logic/proof-theory/curry-howard-correspondence",
       "fx": -372.0481333892617,
       "fy": -28.99748322147468,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. proof theory foundations",
-      "url": "https://www.youtube.com/watch?v=YRu7Xi-mNK8",
-      "fx": 16.759253640776706,
-      "fy": -200.77214805825224,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. mechanising proof: computing, risk and trust",
-      "url": "http://www.goodreads.com/book/show/347429.Mechanizing_Proof",
-      "fx": 16.759253640776706,
-      "fy": -160.77214805825224,
-      "category": "non-free book",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

@@ -7,38 +7,41 @@
       "url": "https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf",
       "fx": 59.2313081095042,
       "fy": -103.83890754132233,
+      "nodes": [],
       "category": "paper"
     },
     {
       "text": "implementations",
       "url": "",
       "fx": 289.84871632020577,
-      "fy": 16.25952416091735
+      "fy": 16.25952416091735,
+      "nodes": [
+        {
+          "text": "in TensorFlow",
+          "url": "https://github.com/MarvinTeichmann/tensorflow-fcn",
+          "fx": 550.8487163202058,
+          "fy": 28.75952416091735,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 139.1170280612265,
-      "fy": 140.064811862245
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "in TensorFlow",
-      "url": "https://github.com/MarvinTeichmann/tensorflow-fcn",
-      "fx": 550.8487163202058,
-      "fy": 28.75952416091735,
-      "category": "github",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "implementations"
-    },
-    {
-      "text": "1. explanation",
-      "url": "https://computing.ece.vt.edu/~f15ece6504/slides/L13_FCN.pdf",
-      "fx": 302.1170280612265,
-      "fy": 155.064811862245,
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 140.064811862245,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://computing.ece.vt.edu/~f15ece6504/slides/L13_FCN.pdf",
+          "fx": 302.1170280612265,
+          "fy": 155.064811862245,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

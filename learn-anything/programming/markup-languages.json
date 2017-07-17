@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Markup_language",
       "fx": 51.830162048339844,
       "fy": -37.81950283050537,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,6 +15,7 @@
       "url": "/programming/markup-languages/markdown",
       "fx": 115.46988293051379,
       "fy": 92.00797771902694,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -21,10 +23,10 @@
       "url": "/web-development/front-end/html",
       "fx": -35.41015625,
       "fy": 93.4432708648036,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "markup languages",

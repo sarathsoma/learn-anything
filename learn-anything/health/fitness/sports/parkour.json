@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Parkour",
       "fx": -84.91814959049225,
       "fy": -129.61069107055664,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 13.235116124153137,
-      "fy": -15.735815048217773
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "resurgence",
-      "url": "https://www.youtube.com/watch?v=tdqPQ_yrxng",
-      "fx": 204.23511612415314,
-      "fy": -4.235815048217773,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "interesting"
+      "fy": -15.735815048217773,
+      "nodes": [
+        {
+          "text": "resurgence",
+          "url": "https://www.youtube.com/watch?v=tdqPQ_yrxng",
+          "fx": 204.23511612415314,
+          "fy": -4.235815048217773,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

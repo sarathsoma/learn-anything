@@ -7,19 +7,32 @@
       "url": "http://www.wikiwand.com/en/Vector_calculus",
       "fx": 108.3984375,
       "fy": -323.73828125,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 158.37067059656067,
-      "fy": -199.5530024596962
+      "fy": -199.5530024596962,
+      "nodes": [
+        {
+          "text": "1. introduction to vectors",
+          "url": "https://www.youtube.com/watch?v=tGVnBAHLApA",
+          "fx": 314.3706705965607,
+          "fy": -188.0530024596962,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "vectors  ️",
       "url": "/mathematics/linear-algebra/vectors",
       "fx": -12.823433189748584,
       "fy": -89.03572793764477,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,18 +40,8 @@
       "url": "/mathematics/calculus/vector-calculus/vector-fields",
       "fx": 143.2220447575935,
       "fy": -87.65531907126183,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction to vectors",
-      "url": "https://www.youtube.com/watch?v=tGVnBAHLApA",
-      "fx": 314.3706705965607,
-      "fy": -188.0530024596962,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

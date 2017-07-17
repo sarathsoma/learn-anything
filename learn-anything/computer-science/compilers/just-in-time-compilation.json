@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Just-in-time_compilation",
       "fx": -51.535141944885254,
       "fy": -151.23394966125488,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 32.8828125,
-      "fy": -11.5546875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=yQ27DjKnxwo",
-      "fx": 188.8828125,
-      "fy": -0.0546875,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -11.5546875,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=yQ27DjKnxwo",
+          "fx": 188.8828125,
+          "fy": -0.0546875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

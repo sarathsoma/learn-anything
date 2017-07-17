@@ -7,55 +7,59 @@
       "url": "http://www.wikiwand.com/en/Pixel_art",
       "fx": -42.58984375,
       "fy": -209.07421875,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/PixelArt/",
+          "fx": 155.41015625,
+          "fy": -195.07421875,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "tools",
       "url": "",
       "fx": 75.94885766806715,
-      "fy": -104.47674304096438
+      "fy": -104.47674304096438,
+      "nodes": [
+        {
+          "text": "pixel art to css",
+          "url": "http://www.pixelartcss.com/",
+          "fx": 217.94885766806715,
+          "fy": -89.97674304096438,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -26.236672794117567,
-      "fy": 5.217830882352985
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/PixelArt/",
-      "fx": 155.41015625,
-      "fy": -195.07421875,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "pixel art"
-    },
-    {
-      "text": "pixel art to css",
-      "url": "http://www.pixelartcss.com/",
-      "fx": 217.94885766806715,
-      "fy": -89.97674304096438,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "tools"
-    },
-    {
-      "text": "1. pixel art tutorial",
-      "url": "http://pixeljoint.com/forum/forum_posts.asp?TID=11299",
-      "fx": 129.76332720588243,
-      "fy": -0.28216911764701536,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. pixel art outlines tutorial  ️",
-      "url": "http://samkeddy.com/pixel-art-outlines/",
-      "fx": 129.76332720588243,
-      "fy": 33.717830882352985,
-      "category": "article",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
+      "fy": 5.217830882352985,
+      "nodes": [
+        {
+          "text": "1. pixel art tutorial",
+          "url": "http://pixeljoint.com/forum/forum_posts.asp?TID=11299",
+          "fx": 129.76332720588243,
+          "fy": -0.28216911764701536,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. pixel art outlines tutorial  ️",
+          "url": "http://samkeddy.com/pixel-art-outlines/",
+          "fx": 129.76332720588243,
+          "fy": 33.717830882352985,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

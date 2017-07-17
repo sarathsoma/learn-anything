@@ -8,25 +8,59 @@
       "url": "http://www.wikiwand.com/en/Software_development",
       "fx": 175.4118732829669,
       "fy": -504.36532813403693,
+      "nodes": [
+        {
+          "text": "️",
+          "url": "https://softwareengineering.stackexchange.com/",
+          "fx": 528.4118732829669,
+          "fy": -490.36532813403693,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 426.6814600840339,
-      "fy": -401.7019542191877
+      "fy": -401.7019542191877,
+      "nodes": [
+        {
+          "text": "the twelve-factor app",
+          "url": "https://12factor.net/",
+          "fx": 563.6814600840339,
+          "fy": -390.2019542191877,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 263.5371744650033,
-      "fy": -239.77236932863275
+      "fy": -239.77236932863275,
+      "nodes": [
+        {
+          "text": "1. the architecture of open source applications",
+          "url": "http://aosabook.org/en/index.html",
+          "fx": 419.5371744650033,
+          "fy": -239.27236932863275,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "code review  ️",
       "url": "/programming/software-development/code-review",
       "fx": -318.5536926498145,
       "fy": -75.86985018725966,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -34,6 +68,7 @@
       "url": "/programming/software-development/open-source",
       "fx": 571.4212660600676,
       "fy": -74.74188066966428,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -41,6 +76,7 @@
       "url": "/programming/software-development/devops",
       "fx": 170.67599943002426,
       "fy": -74.46723004046567,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -48,6 +84,7 @@
       "url": "/programming/software-development/software-architecture",
       "fx": -105.86712276241474,
       "fy": -74.10179701002119,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -55,6 +92,7 @@
       "url": "/programming/software-development/software-testing",
       "fx": 337.8226300802894,
       "fy": -72.96349186362824,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -62,6 +100,7 @@
       "url": "/programming/software-development/build-automation",
       "fx": -554.7126016446551,
       "fy": -71.55796802399254,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -69,6 +108,7 @@
       "url": "/programming/software-development/agile-software-development",
       "fx": -878.4374775035992,
       "fy": -70.69786500826478,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -76,6 +116,7 @@
       "url": "/programming/software-development/architectural-patterns",
       "fx": -1147.7577213892096,
       "fy": -67.11076268740067,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -83,6 +124,7 @@
       "url": "/programming/software-development/domain-driven-design",
       "fx": -1421.6258417725664,
       "fy": -64.04985082737926,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -90,6 +132,7 @@
       "url": "/programming/software-development/software-specifications",
       "fx": -1704.7423706054688,
       "fy": -63.781861305236816,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -97,6 +140,7 @@
       "url": "/programming/software-development/code-refactoring",
       "fx": -1926.8722839355469,
       "fy": -60.52766704559326,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -104,6 +148,7 @@
       "url": "/programming/software-development/debugging",
       "fx": -2098.9784545898438,
       "fy": -60.466476917266846,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -111,6 +156,7 @@
       "url": "/programming/software-development/documentation",
       "fx": -2582.1234741210938,
       "fy": -58.41509962081909,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -118,6 +164,7 @@
       "url": "/programming/software-development/software-design",
       "fx": -2800.167236328125,
       "fy": -56.56163835525513,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -125,6 +172,7 @@
       "url": "/programming/software-development/dependency-injections",
       "fx": -3294.2149658203125,
       "fy": -56.41725444793701,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -132,6 +180,7 @@
       "url": "/programming/software-development/system-administration",
       "fx": -2371.0614318847656,
       "fy": -56.169315814971924,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -139,6 +188,7 @@
       "url": "/programming/software-development/formal-methods",
       "fx": -3017.1962280273438,
       "fy": -55.229796409606934,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -146,36 +196,8 @@
       "url": "/programming/software-development/programming-style",
       "fx": -3539.4827394366657,
       "fy": -54.00941631535056,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "️",
-      "url": "https://softwareengineering.stackexchange.com/",
-      "fx": 528.4118732829669,
-      "fy": -490.36532813403693,
-      "category": "stack exchange",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "software development"
-    },
-    {
-      "text": "the twelve-factor app",
-      "url": "https://12factor.net/",
-      "fx": 563.6814600840339,
-      "fy": -390.2019542191877,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. the architecture of open source applications",
-      "url": "http://aosabook.org/en/index.html",
-      "fx": 419.5371744650033,
-      "fy": -239.27236932863275,
-      "category": "free book",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

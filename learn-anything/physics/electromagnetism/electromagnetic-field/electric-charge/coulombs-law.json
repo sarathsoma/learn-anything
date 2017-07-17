@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Coulomb%27s_law",
       "fx": -110.625,
       "fy": -314.1796875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -58.92513368983953,
-      "fy": -156.0590741977971
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=yUPdtFqilXo",
-      "fx": 104.07486631016047,
-      "fy": -143.5590741977971,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": -156.0590741977971,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=yUPdtFqilXo",
+          "fx": 104.07486631016047,
+          "fy": -143.5590741977971,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

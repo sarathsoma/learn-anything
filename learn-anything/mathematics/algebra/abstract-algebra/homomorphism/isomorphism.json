@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Isomorphism",
       "fx": -20.78515625,
       "fy": -226.32091331481934,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 18.99850082397461,
-      "fy": -58.029502868652344
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. explanation",
-      "url": "https://www.youtube.com/watch?v=BAmWgVjSosY",
-      "fx": 174.9985008239746,
-      "fy": -46.529502868652344,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -58.029502868652344,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=BAmWgVjSosY",
+          "fx": 174.9985008239746,
+          "fy": -46.529502868652344,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

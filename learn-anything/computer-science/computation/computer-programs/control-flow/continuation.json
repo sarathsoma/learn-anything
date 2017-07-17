@@ -7,39 +7,42 @@
       "url": "http://www.wikiwand.com/en/Continuation",
       "fx": 115.02734375,
       "fy": -86.54296875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "implementations",
       "url": "",
       "fx": 255.74793724741824,
-      "fy": 45.616127952727425
+      "fy": 45.616127952727425,
+      "nodes": [
+        {
+          "text": "in javascript",
+          "url": "https://github.com/jlongster/unwinder",
+          "fx": 516.7479372474182,
+          "fy": 58.116127952727425,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 144.78515625,
-      "fy": 156.828125
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "in javascript",
-      "url": "https://github.com/jlongster/unwinder",
-      "fx": 516.7479372474182,
-      "fy": 58.116127952727425,
-      "category": "github",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "implementations"
-    },
-    {
-      "text": "1. what’s in a continuation  ️",
-      "url": "http://jlongster.com/Whats-in-a-Continuation",
-      "fx": 307.78515625,
-      "fy": 169.328125,
-      "category": "article",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "fy": 156.828125,
+      "nodes": [
+        {
+          "text": "1. what’s in a continuation  ️",
+          "url": "http://jlongster.com/Whats-in-a-Continuation",
+          "fx": 307.78515625,
+          "fy": 169.328125,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

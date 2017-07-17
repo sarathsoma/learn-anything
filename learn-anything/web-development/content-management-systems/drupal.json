@@ -7,47 +7,51 @@
       "url": "http://www.wikiwand.com/en/Drupal",
       "fx": -69.97589944649451,
       "fy": -241.9372261300738,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/drupal/",
+          "fx": 114.02410055350549,
+          "fy": -227.9372261300738,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 69.38112860275669,
-      "fy": -132.90057908442992
+      "fy": -132.90057908442992,
+      "nodes": [
+        {
+          "text": "awesome drupal",
+          "url": "https://github.com/mrsinguyen/awesome-drupal",
+          "fx": 205.3811286027567,
+          "fy": -121.40057908442992,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -55.873463114754145,
-      "fy": -21.718926101434306
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/drupal/",
-      "fx": 114.02410055350549,
-      "fy": -227.9372261300738,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "drupal"
-    },
-    {
-      "text": "awesome drupal",
-      "url": "https://github.com/mrsinguyen/awesome-drupal",
-      "fx": 205.3811286027567,
-      "fy": -121.40057908442992,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. what is drupal",
-      "url": "https://www.drupal.org/node/877140#what",
-      "fx": 100.12653688524586,
-      "fy": -7.218926101434306,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -21.718926101434306,
+      "nodes": [
+        {
+          "text": "1. what is drupal",
+          "url": "https://www.drupal.org/node/877140#what",
+          "fx": 100.12653688524586,
+          "fy": -7.218926101434306,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

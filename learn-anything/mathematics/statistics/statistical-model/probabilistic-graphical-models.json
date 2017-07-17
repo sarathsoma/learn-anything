@@ -7,33 +7,34 @@
       "url": "http://www.wikiwand.com/en/Graphical_model",
       "fx": -194.51152420043945,
       "fy": -102.25926303863525,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -87.58775684931504,
-      "fy": 91.52514982876727
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. probabilistic graphical models notes  ️",
-      "url": "http://frnsys.com/ai_notes/foundations/probabilistic_graphical_models.html",
-      "fx": 68.41224315068496,
-      "fy": 61.02514982876727,
-      "category": "article",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. probabilistic graphical models 1: representation",
-      "url": "https://www.coursera.org/learn/probabilistic-graphical-models",
-      "fx": 68.41224315068496,
-      "fy": 123.02514982876727,
-      "category": "course",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": 91.52514982876727,
+      "nodes": [
+        {
+          "text": "1. probabilistic graphical models notes  ️",
+          "url": "http://frnsys.com/ai_notes/foundations/probabilistic_graphical_models.html",
+          "fx": 68.41224315068496,
+          "fy": 61.02514982876727,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. probabilistic graphical models 1: representation",
+          "url": "https://www.coursera.org/learn/probabilistic-graphical-models",
+          "fx": 68.41224315068496,
+          "fy": 123.02514982876727,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

@@ -6,76 +6,67 @@
       "text": "genetics",
       "note": "",
       "url": "http://www.wikiwand.com/en/Genetics",
-      "fx": -125.86033183643667,
-      "fy": -271.4728545874893,
+      "fx": -79.68018477761325,
+      "fy": -318.06924705072447,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/genetics/",
+          "fx": 148.31981522238675,
+          "fy": -304.06924705072447,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
-    },
-    {
-      "text": "CRISPR  ️",
-      "url": "/biology/genetics/crispr",
-      "fx": 15.010806497790213,
-      "fy": -139.20463843680216,
-      "category": "mindmap"
     },
     {
       "text": "DNA  ️",
       "note": "short for deoxyribonucleic acid, is the molecule that contains the genetic code of organisms, includes animals, plants, protists, archaea and bacteria, DNA is in each cell in the organism and tells cells what proteins to make",
-      "url": "/biology/genetics/dna",
-      "fx": -41.17821792660948,
-      "fy": -9.73761643134651,
+      "fx": -159.44615260586886,
+      "fy": -176.25894762007198,
+      "nodes": [],
       "category": "mindmap"
     },
     {
-      "text": "GMOs",
-      "url": "http://www.wikiwand.com/en/Genetically_modified_organism",
-      "fx": -114.2206297379895,
-      "fy": 109.7922587281065,
-      "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/genetics/",
-      "fx": 103.13966816356333,
-      "fy": -257.4728545874893,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "genetics"
+      "text": "RNA  ️",
+      "fx": -297.27762108006027,
+      "fy": -174.30173427911234,
+      "nodes": [],
+      "category": "mindmap"
     },
     {
-      "text": "are GMOs good or bad? genetic engineering &amp; our food",
-      "url": "https://www.youtube.com/watch?v=7TmcXYp8xu4",
-      "fx": 71.7793702620105,
-      "fy": 112.7922587281065,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "GMOs"
+      "text": "genetic engineering  ️",
+      "fx": -0.21607708980343432,
+      "fy": -174.12709061205993,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
     {
       "source": "genetics",
-      "target": "CRISPR  ️",
-      "curve": {
-        "x": 69.9356,
-        "y": 66.1341
-      }
-    },
-    {
-      "source": "genetics",
       "target": "DNA  ️",
       "curve": {
-        "x": -0.202357,
-        "y": 152.707
+        "x": -48.133,
+        "y": 70.9051
       }
     },
     {
       "source": "genetics",
-      "target": "GMOs",
+      "target": "RNA  ️",
       "curve": {
-        "x": -84.8928,
-        "y": 230.616
+        "x": -130.799,
+        "y": 70.6338
+      }
+    },
+    {
+      "source": "genetics",
+      "target": "genetic engineering  ️",
+      "curve": {
+        "x": 50.9821,
+        "y": 70.7211
       }
     }
   ]

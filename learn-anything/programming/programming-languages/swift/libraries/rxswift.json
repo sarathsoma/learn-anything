@@ -7,39 +7,42 @@
       "url": "https://github.com/ReactiveX/RxSwift",
       "fx": 87.54296875,
       "fy": -361.13671875,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "help",
       "url": "",
       "fx": 203.81540697674427,
-      "fy": -262.0864825581268
+      "fy": -262.0864825581268,
+      "nodes": [
+        {
+          "text": "Rx visualiser",
+          "url": "https://rxviz.com/",
+          "fx": 340.81540697674427,
+          "fy": -250.58648255812682,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 101.9637470688931,
-      "fy": -175.57844987026482
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "Rx visualiser",
-      "url": "https://rxviz.com/",
-      "fx": 340.81540697674427,
-      "fy": -250.58648255812682,
-      "category": "interactive",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. getting started",
-      "url": "https://github.com/ReactiveX/RxSwift/blob/master/Documentation/GettingStarted.md",
-      "fx": 257.9637470688931,
-      "fy": -164.07844987026482,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -175.57844987026482,
+      "nodes": [
+        {
+          "text": "1. getting started",
+          "url": "https://github.com/ReactiveX/RxSwift/blob/master/Documentation/GettingStarted.md",
+          "fx": 257.9637470688931,
+          "fy": -164.07844987026482,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

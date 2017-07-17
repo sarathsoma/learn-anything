@@ -7,55 +7,58 @@
       "url": "https://github.com/spring-projects/spring-boot",
       "fx": -57.48046875,
       "fy": -151.19921875,
+      "nodes": [],
       "category": "github"
     },
     {
       "text": "help",
       "url": "",
       "fx": 75.74812413469135,
-      "fy": -44.130269110973245
+      "fy": -44.130269110973245,
+      "nodes": [
+        {
+          "text": "awesome spring boot",
+          "url": "https://github.com/stunstunstun/awesome-spring-boot",
+          "fx": 212.74812413469135,
+          "fy": -49.630269110973245,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "docs",
+          "url": "https://spring.io/docs/reference",
+          "fx": 212.74812413469135,
+          "fy": -9.630269110973245,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": -26.26171875,
-      "fy": 84.28230794270843
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "awesome spring boot",
-      "url": "https://github.com/stunstunstun/awesome-spring-boot",
-      "fx": 212.74812413469135,
-      "fy": -49.630269110973245,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "docs",
-      "url": "https://spring.io/docs/reference",
-      "fx": 212.74812413469135,
-      "fy": -9.630269110973245,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. binding an application with spring boot",
-      "url": "https://spring.io/guides/gs/spring-boot/",
-      "fx": 129.73828125,
-      "fy": 56.78230794270843,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. learn spring boot (MVC) in 50 minutes",
-      "url": "https://www.youtube.com/watch?v=Ke7Tr4RgRTs",
-      "fx": 129.73828125,
-      "fy": 112.78230794270843,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": 84.28230794270843,
+      "nodes": [
+        {
+          "text": "1. binding an application with spring boot",
+          "url": "https://spring.io/guides/gs/spring-boot/",
+          "fx": 129.73828125,
+          "fy": 56.78230794270843,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. learn spring boot (MVC) in 50 minutes",
+          "url": "https://www.youtube.com/watch?v=Ke7Tr4RgRTs",
+          "fx": 129.73828125,
+          "fy": 112.78230794270843,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

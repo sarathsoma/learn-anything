@@ -7,63 +7,68 @@
       "url": "http://www.wikiwand.com/en/Brownian_motion",
       "fx": 89.01475694444434,
       "fy": -162.7803819444444,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 264.4672309027776,
-      "fy": -52.755208333333314
+      "fy": -52.755208333333314,
+      "nodes": [
+        {
+          "text": "visualisation of Brownian motion",
+          "url": "http://labs.minutelabs.io/Brownian-Motion/",
+          "fx": 405.4672309027776,
+          "fy": -40.255208333333314,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "interesting",
       "url": "",
       "fx": 369.0422890987853,
-      "fy": 76.31709741481342
+      "fy": 76.31709741481342,
+      "nodes": [
+        {
+          "text": "example of Brownian motion and laser trapping",
+          "url": "http://imgur.com/a/CP5Kj",
+          "fx": 568.0422890987853,
+          "fy": 76.31709741481342,
+          "nodes": [],
+          "category": "image",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
       "fx": 59.55114198169599,
-      "fy": 224.01109788907286
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "visualisation of Brownian motion",
-      "url": "http://labs.minutelabs.io/Brownian-Motion/",
-      "fx": 405.4672309027776,
-      "fy": -40.255208333333314,
-      "category": "interactive",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "example of Brownian motion and laser trapping",
-      "url": "http://imgur.com/a/CP5Kj",
-      "fx": 568.0422890987853,
-      "fy": 76.31709741481342,
-      "category": "image",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "interesting"
-    },
-    {
-      "text": "1. basic properties of Brownian motion",
-      "url": "https://www.youtube.com/watch?v=7mmeksMiXp4",
-      "fx": 222.551141981696,
-      "fy": 190.51109788907286,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. Brownian motion applied to finance",
-      "url": "https://www.youtube.com/watch?v=BVYVeaPojY4",
-      "fx": 222.551141981696,
-      "fy": 257.51109788907286,
-      "category": "video",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
+      "fy": 224.01109788907286,
+      "nodes": [
+        {
+          "text": "1. basic properties of Brownian motion",
+          "url": "https://www.youtube.com/watch?v=7mmeksMiXp4",
+          "fx": 222.551141981696,
+          "fy": 190.51109788907286,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. Brownian motion applied to finance",
+          "url": "https://www.youtube.com/watch?v=BVYVeaPojY4",
+          "fx": 222.551141981696,
+          "fy": 257.51109788907286,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

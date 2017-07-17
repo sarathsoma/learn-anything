@@ -7,86 +7,90 @@
       "url": "http://www.wikiwand.com/en/Blender_(software)",
       "fx": -99.6877412199974,
       "fy": -162.13661436601114,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/blender/",
+          "fx": 95.3122587800026,
+          "fy": -168.13661436601114,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "️",
+          "url": "https://blender.stackexchange.com/",
+          "fx": 95.3122587800026,
+          "fy": -128.13661436601114,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
       "fx": 8.033548288787529,
-      "fy": -44.841161974218494
+      "fy": -44.841161974218494,
+      "nodes": [
+        {
+          "text": "awesome BGE",
+          "url": "https://github.com/alabd14313/awesome-BGE",
+          "fx": 145.03354828878753,
+          "fy": -50.341161974218494,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "hotkeys reference",
+          "url": "http://www.gamefromscratch.com/post/2015/04/22/An-Hour-with-Blender-Learning-3D-Modeling.aspx",
+          "fx": 145.03354828878753,
+          "fy": -10.341161974218494,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "note": "",
       "url": "",
       "fx": -90.63671875,
-      "fy": 72.23046875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/blender/",
-      "fx": 95.3122587800026,
-      "fy": -168.13661436601114,
-      "category": "reddit",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "blender"
-    },
-    {
-      "text": "️",
-      "url": "https://blender.stackexchange.com/",
-      "fx": 95.3122587800026,
-      "fy": -128.13661436601114,
-      "category": "stack exchange",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "blender"
-    },
-    {
-      "text": "awesome BGE",
-      "url": "https://github.com/alabd14313/awesome-BGE",
-      "fx": 145.03354828878753,
-      "fy": -50.341161974218494,
-      "category": "github",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "hotkeys reference",
-      "url": "http://www.gamefromscratch.com/post/2015/04/22/An-Hour-with-Blender-Learning-3D-Modeling.aspx",
-      "fx": 145.03354828878753,
-      "fy": -10.341161974218494,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "help"
-    },
-    {
-      "text": "1. an hour with blender",
-      "note": "introduction and overview",
-      "url": "https://www.youtube.com/watch?v=4E2NiFBnan0",
-      "fx": 91.36328125,
-      "fy": 43.73046875,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "2. another hour with blender",
-      "note": "covers 3D modelling",
-      "url": "https://www.youtube.com/watch?v=2y5DEX9H5FQ",
-      "fx": 91.36328125,
-      "fy": 83.73046875,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "3. blender animation",
-      "url": "https://www.youtube.com/watch?v=lNYa_G725qE",
-      "fx": 91.36328125,
-      "fy": 123.73046875,
-      "category": "video",
-      "color": "rgba(255, 189, 10, 1.0)",
-      "parent": "basics"
+      "fy": 72.23046875,
+      "nodes": [
+        {
+          "text": "1. an hour with blender",
+          "note": "introduction and overview",
+          "url": "https://www.youtube.com/watch?v=4E2NiFBnan0",
+          "fx": 91.36328125,
+          "fy": 43.73046875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. another hour with blender",
+          "note": "covers 3D modelling",
+          "url": "https://www.youtube.com/watch?v=2y5DEX9H5FQ",
+          "fx": 91.36328125,
+          "fy": 83.73046875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "3. blender animation",
+          "url": "https://www.youtube.com/watch?v=lNYa_G725qE",
+          "fx": 91.36328125,
+          "fy": 123.73046875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

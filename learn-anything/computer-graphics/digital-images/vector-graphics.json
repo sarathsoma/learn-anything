@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Vector_graphics",
       "fx": -91.80500730994163,
       "fy": -264.91830823304923,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,10 +16,10 @@
       "url": "/computer-graphics/digital-images/vector-graphics/scalable-vector-graphics",
       "fx": -178.83984375,
       "fy": -128.2265625,
+      "nodes": [],
       "category": "mindmap"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "vector graphics",

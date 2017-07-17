@@ -7,6 +7,7 @@
       "url": "http://www.wikiwand.com/en/Set_theory",
       "fx": -123.77734375,
       "fy": -267.68359375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -14,13 +15,51 @@
       "note": "",
       "url": "",
       "fx": -109.44810212253071,
-      "fy": -123.59029571280996
+      "fy": -123.59029571280996,
+      "nodes": [
+        {
+          "text": "1. naive set theory",
+          "url": "https://www.goodreads.com/book/show/558194.Naive_Set_Theory",
+          "fx": 79.55189787746929,
+          "fy": -196.59029571280996,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. set theory and foundations of mathematics",
+          "url": "http://www.settheory.net/",
+          "fx": 79.55189787746929,
+          "fy": -154.59029571280996,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. set theory and axiomatic systems  ️",
+          "url": "http://0a.io/set-theory-and-axiomatic-systems",
+          "fx": 79.55189787746929,
+          "fy": -87.59029571280996,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "1. lecture on sets",
+          "url": "http://www.scottaaronson.com/democritus/lec2.html",
+          "fx": 79.55189787746929,
+          "fy": -20.59029571280996,
+          "nodes": [],
+          "color": "rgba(252, 177, 20, 1.0)"
+        }
+      ]
     },
     {
       "text": "naive set theory  ️",
       "url": "/mathematics/set-theory/naive-set-theory",
       "fx": -32.981498921197385,
       "fy": 109.38374064869879,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,6 +67,7 @@
       "url": "/mathematics/set-theory/binary-relation",
       "fx": -250.75290298461914,
       "fy": 110.02195358276367,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -35,6 +75,7 @@
       "url": "http://www.wikiwand.com/en/Set_(mathematics)",
       "fx": -389.9472535338896,
       "fy": 111.66686000702396,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -42,6 +83,7 @@
       "url": "/mathematics/set-theory/banach-tarski-paradox",
       "fx": -709.4427083333333,
       "fy": 112.47774621212125,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -49,6 +91,7 @@
       "url": "http://www.wikiwand.com/en/Disjoint_sets",
       "fx": -263.0873893805308,
       "fy": 229.641454646027,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -56,6 +99,7 @@
       "url": "/mathematics/set-theory/union",
       "fx": -401.04282611263807,
       "fy": 230.57052662385058,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -63,44 +107,8 @@
       "url": "/mathematics/set-theory/metric-spaces",
       "fx": -627.3469768195412,
       "fy": 230.68787684776976,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. naive set theory",
-      "url": "https://www.goodreads.com/book/show/558194.Naive_Set_Theory",
-      "fx": 79.55189787746929,
-      "fy": -196.59029571280996,
-      "category": "non-free book",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. set theory and foundations of mathematics",
-      "url": "http://www.settheory.net/",
-      "fx": 79.55189787746929,
-      "fy": -154.59029571280996,
-      "category": "free book",
-      "color": "rgba(0, 224, 161, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. set theory and axiomatic systems  ️",
-      "url": "http://0a.io/set-theory-and-axiomatic-systems",
-      "fx": 79.55189787746929,
-      "fy": -87.59029571280996,
-      "category": "article",
-      "color": "rgba(83, 201, 255, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. lecture on sets",
-      "url": "http://www.scottaaronson.com/democritus/lec2.html",
-      "fx": 79.55189787746929,
-      "fy": -20.59029571280996,
-      "color": "rgba(252, 177, 20, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

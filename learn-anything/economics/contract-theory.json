@@ -7,31 +7,32 @@
       "url": "http://www.wikiwand.com/en/Contract_theory",
       "fx": -94.44921875,
       "fy": -128.65234375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -46,
-      "fy": -2
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. introduction",
-      "url": "https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2016/popular-economicsciences2016.pdf",
-      "fx": 110,
-      "fy": -4.5,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. what is contract theory",
-      "url": "https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2016/advanced-economicsciences2016.pdf",
-      "fx": 110,
-      "fy": 29.5,
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
+      "fy": -2,
+      "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2016/popular-economicsciences2016.pdf",
+          "fx": 110,
+          "fy": -4.5,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. what is contract theory",
+          "url": "https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2016/advanced-economicsciences2016.pdf",
+          "fx": 110,
+          "fy": 29.5,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

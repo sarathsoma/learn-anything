@@ -7,6 +7,26 @@
       "url": "http://www.wikiwand.com/en/Bioinformatics",
       "fx": -96.54296875,
       "fy": -231.03020466549293,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/bioinformatics/",
+          "fx": 156.45703125,
+          "fy": -237.03020466549293,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/danielecook/Awesome-Bioinformatics",
+          "fx": 156.45703125,
+          "fy": -197.03020466549293,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,35 +34,17 @@
       "note": "",
       "url": "",
       "fx": -68.8293353873238,
-      "fy": -68.18783010563362
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/bioinformatics/",
-      "fx": 156.45703125,
-      "fy": -237.03020466549293,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "bioinformatics"
-    },
-    {
-      "text": "awesome",
-      "url": "https://github.com/danielecook/Awesome-Bioinformatics",
-      "fx": 156.45703125,
-      "fy": -197.03020466549293,
-      "category": "github",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "bioinformatics"
-    },
-    {
-      "text": "1. rosalind",
-      "url": "http://rosalind.info/about/",
-      "fx": 113.1706646126762,
-      "fy": -53.68783010563362,
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
+      "fy": -68.18783010563362,
+      "nodes": [
+        {
+          "text": "1. rosalind",
+          "url": "http://rosalind.info/about/",
+          "fx": 113.1706646126762,
+          "fy": -53.68783010563362,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

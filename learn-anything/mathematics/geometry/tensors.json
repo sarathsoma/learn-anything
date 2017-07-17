@@ -7,40 +7,42 @@
       "url": "http://www.wikiwand.com/en/Tensor",
       "fx": -59.5,
       "fy": -154.98200061274508,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -49.41097861842104,
-      "fy": -43.067184275025795
+      "fy": -43.067184275025795,
+      "nodes": [
+        {
+          "text": "1. what’s a tensor?",
+          "url": "https://www.youtube.com/watch?v=f5liqUk0ZTw",
+          "fx": 106.58902138157896,
+          "fy": -51.567184275025795,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. what are tensors for",
+          "url": "https://www.youtube.com/watch?v=e0eJXttPRZI",
+          "fx": 106.58902138157896,
+          "fy": -11.567184275025795,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "tensor fields",
       "url": "http://www.wikiwand.com/en/Tensor_field",
       "fx": -183.23359294375638,
       "fy": 70.40574237084019,
+      "nodes": [],
       "category": "wiki"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what’s a tensor?",
-      "url": "https://www.youtube.com/watch?v=f5liqUk0ZTw",
-      "fx": 106.58902138157896,
-      "fy": -51.567184275025795,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
-    },
-    {
-      "text": "1. what are tensors for",
-      "url": "https://www.youtube.com/watch?v=e0eJXttPRZI",
-      "fx": 106.58902138157896,
-      "fy": -11.567184275025795,
-      "category": "video",
-      "color": "rgba(36, 170, 255, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

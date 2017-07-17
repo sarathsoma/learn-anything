@@ -7,6 +7,17 @@
       "url": "http://www.wikiwand.com/en/Trade",
       "fx": -28.671138233985744,
       "fy": 35.80370051156581,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Trading/",
+          "fx": 161.32886176601426,
+          "fy": 49.80370051156581,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -14,12 +25,14 @@
       "url": "/economics/trading/stock-exchange",
       "fx": -27.891077995300293,
       "fy": 168.85818099975586,
+      "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "quantitative trading  ️",
       "fx": -275.0249451754387,
       "fy": 170.73245614035085,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -27,18 +40,8 @@
       "url": "/economics/trading/algorithmic-trading-",
       "fx": 195.10251724510863,
       "fy": 172.21913073355694,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "",
-      "url": "https://www.reddit.com/r/Trading/",
-      "fx": 161.32886176601426,
-      "fy": 49.80370051156581,
-      "category": "reddit",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "trading"
     }
   ],
   "connections": [

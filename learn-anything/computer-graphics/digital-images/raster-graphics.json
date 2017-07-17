@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Raster_graphics",
       "fx": 35.89424133300781,
       "fy": -71.1827220916748,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 88.77076797779932,
-      "fy": 56.710358912067136
+      "fy": 56.710358912067136,
+      "nodes": [
+        {
+          "text": "1. what are vector and raster graphics?",
+          "url": "https://www.youtube.com/watch?v=-Fs2t6P5AjY",
+          "fx": 251.77076797779932,
+          "fy": 56.710358912067136,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "rasterisation  ️",
       "url": "/computer-graphics/digital-images/raster-graphics/rasterisation",
       "fx": -43.67220006530522,
       "fy": 201.2358747220665,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. what are vector and raster graphics?",
-      "url": "https://www.youtube.com/watch?v=-Fs2t6P5AjY",
-      "fx": 251.77076797779932,
-      "fy": 56.710358912067136,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [

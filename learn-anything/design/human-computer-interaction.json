@@ -8,6 +8,7 @@
       "url": "http://www.wikiwand.com/en/Human%E2%80%93computer_interaction",
       "fx": 6.43359375,
       "fy": -344.9609375,
+      "nodes": [],
       "category": "wiki"
     },
     {
@@ -15,6 +16,7 @@
       "url": "/design/user-experience",
       "fx": -29.94140625,
       "fy": -217.6875,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -22,10 +24,10 @@
       "url": "http://www.wikiwand.com/en/User_interface",
       "fx": 205.13042068481445,
       "fy": -215.89453125,
+      "nodes": [],
       "category": "wiki"
     }
   ],
-  "subnodes": [],
   "connections": [
     {
       "source": "human computer interaction",

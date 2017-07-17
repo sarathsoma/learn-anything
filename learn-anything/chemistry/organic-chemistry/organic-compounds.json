@@ -7,31 +7,33 @@
       "url": "http://www.wikiwand.com/en/Organic_compound",
       "fx": 99.91796875,
       "fy": -215.7734375,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 159.265625,
-      "fy": -88.75390625
+      "fy": -88.75390625,
+      "nodes": [
+        {
+          "text": "1. hydrocarbon power",
+          "url": "https://www.youtube.com/watch?v=UloIw7dhnlQ",
+          "fx": 315.265625,
+          "fy": -77.25390625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "alcohol  ️",
       "url": "/chemistry/organic-chemistry/organic-compounds/alcohol",
-      "fx": 11.257424033149164,
+      "fx": 66.42235458870482,
       "fy": 23.934521754131254,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. hydrocarbon power",
-      "url": "https://www.youtube.com/watch?v=UloIw7dhnlQ",
-      "fx": 315.265625,
-      "fy": -77.25390625,
-      "category": "video",
-      "color": "rgba(175, 54, 242, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [
@@ -47,7 +49,7 @@
       "source": "basics",
       "target": "alcohol  ️",
       "curve": {
-        "x": -72.2541,
+        "x": -44.6716,
         "y": 56.3442
       }
     }

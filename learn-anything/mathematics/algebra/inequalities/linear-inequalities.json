@@ -7,24 +7,25 @@
       "url": "http://www.wikiwand.com/en/Linear_inequality",
       "fx": 23.62890625,
       "fy": -130.8671875,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": 83.4453125,
-      "fy": 15.1796875
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. solving linear inequalities made easy",
-      "url": "https://www.youtube.com/watch?v=0X-bMeIN53I",
-      "fx": 246.4453125,
       "fy": 15.1796875,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
+      "nodes": [
+        {
+          "text": "1. solving linear inequalities made easy",
+          "url": "https://www.youtube.com/watch?v=0X-bMeIN53I",
+          "fx": 246.4453125,
+          "fy": 15.1796875,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [

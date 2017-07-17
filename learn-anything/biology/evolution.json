@@ -8,19 +8,32 @@
       "url": "http://www.wikiwand.com/en/Evolution",
       "fx": -69.30736528268551,
       "fy": -383.7212483436396,
+      "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
       "fx": -35.05506552419354,
-      "fy": -246.68706797235018
+      "fy": -246.68706797235018,
+      "nodes": [
+        {
+          "text": "1. how evolution works",
+          "url": "https://www.youtube.com/watch?v=hOfRN0KihOU",
+          "fx": 127.94493447580646,
+          "fy": -234.18706797235018,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "natural selection  ️",
       "url": "/biology/evolution/natural-selection",
       "fx": -237.24358367919922,
       "fy": -114.0225887298584,
+      "nodes": [],
       "category": "mindmap"
     },
     {
@@ -28,18 +41,8 @@
       "url": "/biology/evolution/sociobiology",
       "fx": 4.210385101009592,
       "fy": -111.51641414141409,
+      "nodes": [],
       "category": "mindmap"
-    }
-  ],
-  "subnodes": [
-    {
-      "text": "1. how evolution works",
-      "url": "https://www.youtube.com/watch?v=hOfRN0KihOU",
-      "fx": 127.94493447580646,
-      "fy": -234.18706797235018,
-      "category": "video",
-      "color": "rgba(104, 255, 109, 1.0)",
-      "parent": "basics"
     }
   ],
   "connections": [
