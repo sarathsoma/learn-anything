@@ -42,7 +42,7 @@ const visited = [];
 const put = map => new Promise((resolve, reject) => (
   setTimeout(() => (
     docClient.put({
-      TableName: 'LA-maps',
+      TableName: 'la-maps',
       Item: clean(map),
     }, (err) => {
       if (err) {

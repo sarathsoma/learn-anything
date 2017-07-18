@@ -57,7 +57,7 @@ if (parsedMap.title === '') {
 
 // Insert map into DB.
 docClient.put({
-  TableName: 'LA-maps',
+  TableName: 'la-maps',
   Item: clean(parsedMap),
 }, (err) => {
   if (err) {
