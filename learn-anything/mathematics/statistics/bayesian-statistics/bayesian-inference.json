@@ -26,6 +26,14 @@
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "variational Bayesian methods  ️",
+      "url": "/mathematics/statistics/bayesian-statistics/bayesian-inference/variational-bayesian-methods",
+      "fx": -200.85431654676256,
+      "fy": 12.249943794963997,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -35,6 +43,14 @@
       "curve": {
         "x": 0.363281,
         "y": 63.2266
+      }
+    },
+    {
+      "source": "basics",
+      "target": "variational Bayesian methods  ️",
+      "curve": {
+        "x": -60.2826,
+        "y": 61.8144
       }
     }
   ]

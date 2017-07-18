@@ -6,7 +6,7 @@
       "text": "respiratory system",
       "url": "http://www.wikiwand.com/en/Respiratory_system",
       "fx": 45.0859375,
-      "fy": -116.859375,
+      "fy": -129.8750617588933,
       "nodes": [],
       "category": "wiki"
     },
@@ -53,6 +53,14 @@
           "color": "rgba(34, 205, 224, 1.0)"
         }
       ]
+    },
+    {
+      "text": "lungs  ️",
+      "url": "/biology/anatomy/human-body/respiratory-system/lungs",
+      "fx": 2.995121047426778,
+      "fy": 128.4830163043281,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -61,7 +69,15 @@
       "target": "basics",
       "curve": {
         "x": -2.73633,
-        "y": 62.8809
+        "y": 69.3887
+      }
+    },
+    {
+      "source": "basics",
+      "target": "lungs  ️",
+      "curve": {
+        "x": -47.5591,
+        "y": 59.7903
       }
     }
   ]

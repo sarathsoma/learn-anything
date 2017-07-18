@@ -47,10 +47,19 @@
           "text": "nature album",
           "url": "http://imgur.com/a/56pFc",
           "fx": 478.31802462888004,
-          "fy": -100.7806991185899,
+          "fy": -121.7806991185899,
           "nodes": [],
           "category": "image",
           "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "nature makes you happy",
+          "url": "https://www.youtube.com/watch?v=1wkPMUZ9vX4",
+          "fx": 478.31802462888004,
+          "fy": -79.7806991185899,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     }

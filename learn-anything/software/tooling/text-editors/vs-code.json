@@ -11,20 +11,20 @@
         {
           "text": "",
           "url": "https://www.reddit.com/r/vscode/",
-          "fx": 81.20594618055543,
-          "fy": -166.37565104166669,
+          "fx": 92.20594618055543,
+          "fy": -167.37565104166669,
           "nodes": [],
           "category": "reddit",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "awesome",
           "url": "https://github.com/viatsko/awesome-vscode",
-          "fx": 81.20594618055543,
-          "fy": -126.37565104166669,
+          "fx": 92.20594618055543,
+          "fy": -125.37565104166669,
           "nodes": [],
           "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ],
       "category": "github"
@@ -38,19 +38,19 @@
         {
           "text": "vs code tips and tricks",
           "url": "https://github.com/Microsoft/vscode-tips-and-tricks",
-          "fx": 126.07020399305566,
-          "fy": -52.95496961805554,
+          "fx": 130.07020399305566,
+          "fy": -53.45496961805554,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "keyboard shortcuts for mac",
           "url": "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf",
-          "fx": 126.07020399305566,
-          "fy": -12.954969618055543,
+          "fx": 130.07020399305566,
+          "fy": -11.454969618055543,
           "nodes": [],
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     },
@@ -58,51 +58,40 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -134.47784381442614,
-      "fy": 56.235771603054445,
+      "fx": -122.86760075887082,
+      "fy": 76.89549382527696,
       "nodes": [
         {
           "text": "1. getting started",
           "url": "https://code.visualstudio.com/docs",
-          "fx": 47.52215618557386,
-          "fy": 70.73577160305445,
+          "fx": 66.13239924112918,
+          "fy": 91.89549382527696,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
     {
-      "text": "extensions",
+      "text": "extensions  ️",
+      "url": "/software/tooling/text-editors/vs-code/extensions",
+      "fx": -25.491242232388004,
+      "fy": 201.59571765220335,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "themes",
       "url": "",
-      "fx": -222.91813151041674,
-      "fy": 203.00352647568968,
+      "fx": -99.6429259417805,
+      "fy": 329.83138912671245,
       "nodes": [
         {
-          "text": "vs code go",
-          "url": "https://github.com/Microsoft/vscode-go",
-          "fx": -27.918131510416742,
-          "fy": 174.50352647568968,
+          "text": "an old hope",
+          "url": "https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode",
+          "fx": 73.3570740582195,
+          "fy": 344.83138912671245,
           "nodes": [],
-          "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
-        },
-        {
-          "text": "code runner",
-          "url": "https://github.com/formulahendry/vscode-code-runner",
-          "fx": -27.918131510416742,
-          "fy": 214.50352647568968,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
-        },
-        {
-          "text": "vim",
-          "url": "https://github.com/VSCodeVim/Vim",
-          "fx": -27.918131510416742,
-          "fy": 254.50352647568968,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     }
@@ -112,8 +101,8 @@
       "source": "vs code",
       "target": "basics",
       "curve": {
-        "x": -11.8419,
-        "y": 108.306
+        "x": -6.03678,
+        "y": 118.636
       }
     },
     {
@@ -126,10 +115,18 @@
     },
     {
       "source": "basics",
-      "target": "extensions",
+      "target": "extensions  ️",
       "curve": {
-        "x": -34.4701,
-        "y": 73.3838
+        "x": 58.4383,
+        "y": 62.35
+      }
+    },
+    {
+      "source": "basics",
+      "target": "themes",
+      "curve": {
+        "x": -32.0174,
+        "y": 128.729
       }
     }
   ]

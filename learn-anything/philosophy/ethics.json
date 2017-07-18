@@ -25,8 +25,32 @@
       "text": "veganism  ️",
       "note": "treating animals as equals and abstaining from eating and using animal products as commodity",
       "url": "/philosophy/ethics/veganism",
-      "fx": 80.27734375,
-      "fy": -138.99506578947376,
+      "fx": -216.9142828748918,
+      "fy": -109.27336194615668,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "normative ethics",
+      "url": "https://www.youtube.com/results?search_query=Normative+ethics",
+      "fx": 155.18987004888163,
+      "fy": -108.9461203638379,
+      "nodes": [],
+      "category": "video"
+    },
+    {
+      "text": "applied ethics",
+      "url": "http://www.wikiwand.com/en/Applied_ethics",
+      "fx": 382.4244056662451,
+      "fy": -108.35499428990954,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "meta-ethics  ️",
+      "url": "/philosophy/ethics/meta-ethics",
+      "fx": -29.78780372602705,
+      "fy": -106.89521291356391,
       "nodes": [],
       "category": "mindmap"
     }
@@ -36,8 +60,32 @@
       "source": "ethics",
       "target": "veganism  ️",
       "curve": {
-        "x": -17.828,
-        "y": 65.8846
+        "x": -166.424,
+        "y": 80.7454
+      }
+    },
+    {
+      "source": "ethics",
+      "target": "meta-ethics  ️",
+      "curve": {
+        "x": -76.1106,
+        "y": 81.9345
+      }
+    },
+    {
+      "source": "ethics",
+      "target": "normative ethics",
+      "curve": {
+        "x": 35.8778,
+        "y": 82.1591
+      }
+    },
+    {
+      "source": "ethics",
+      "target": "applied ethics",
+      "curve": {
+        "x": 143.745,
+        "y": 82.4547
       }
     }
   ]

@@ -91,6 +91,14 @@
       ]
     },
     {
+      "text": "bidirectional recurrent neural networks",
+      "url": "http://www.wikiwand.com/en/Bidirectional_recurrent_neural_networks",
+      "fx": -718.6433577572475,
+      "fy": 384.0692995380696,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
       "text": "Boltzmann machines  ️",
       "url": "/machine-learning/neural-networks/recurrent-neural-networks/boltzmann-machines",
       "fx": -369.7164248662669,
@@ -138,6 +146,14 @@
       "curve": {
         "x": -142.444,
         "y": 105.702
+      }
+    },
+    {
+      "source": "basics",
+      "target": "bidirectional recurrent neural networks",
+      "curve": {
+        "x": -310.529,
+        "y": 90.5561
       }
     }
   ]

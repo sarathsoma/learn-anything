@@ -100,21 +100,21 @@
       "text": "libraries",
       "note": "- help you save time with creating new workflows",
       "url": "https://www.alfredforum.com/topic/10227-workflow-libraries-and-helpers/#comment-51636",
-      "fx": -135.23007321391958,
-      "fy": 169.82806356527885,
+      "fx": -132.14413571391958,
+      "fy": 138.81634481527885,
       "nodes": [
         {
           "text": "alfred workflow",
           "note": "built in python  fully featured and most popular option of all",
           "url": "https://github.com/deanishe/alfred-workflow",
-          "fx": 57.76992678608042,
-          "fy": 121.32806356527885,
+          "fx": 60.85586428608042,
+          "fy": 90.31634481527885,
           "nodes": [
             {
               "text": "tutorial",
               "url": "http://www.deanishe.net/alfred-workflow/tutorial.html",
-              "fx": 305.7699267860804,
-              "fy": 124.32806356527885,
+              "fx": 308.8558642860804,
+              "fy": 93.31634481527885,
               "nodes": [],
               "color": "rgba(175, 54, 242, 1.0)"
             }
@@ -126,8 +126,8 @@
           "text": "awgo",
           "note": "built in go  written by same author as ‘alfred workflow’",
           "url": "https://gogs.deanishe.net/deanishe/awgo",
-          "fx": 57.76992678608042,
-          "fy": 161.32806356527885,
+          "fx": 60.85586428608042,
+          "fy": 130.31634481527885,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -136,8 +136,8 @@
           "text": "go alfred",
           "note": "built in go",
           "url": "https://github.com/pascalw/go-alfred",
-          "fx": 57.76992678608042,
-          "fy": 201.32806356527885,
+          "fx": 60.85586428608042,
+          "fy": 170.31634481527885,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -146,14 +146,14 @@
           "text": "go alfred by jason",
           "note": "built in go",
           "url": "https://github.com/jason0x43/go-alfred",
-          "fx": 57.76992678608042,
-          "fy": 241.32806356527885,
+          "fx": 60.85586428608042,
+          "fy": 210.31634481527885,
           "nodes": [
             {
               "text": "binary to build alfred workflow",
               "url": "https://github.com/jason0x43/go-alfred/tree/master/alfred",
-              "fx": 326.7699267860804,
-              "fy": 244.32806356527885,
+              "fx": 329.8558642860804,
+              "fy": 213.31634481527885,
               "nodes": [],
               "color": "rgba(34, 205, 224, 1.0)"
             }
@@ -169,8 +169,8 @@
       "source": "basics",
       "target": "libraries",
       "curve": {
-        "x": -8.99815,
-        "y": 190.145
+        "x": -7.45518,
+        "y": 174.639
       }
     },
     {

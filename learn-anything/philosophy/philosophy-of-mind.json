@@ -38,75 +38,99 @@
       ]
     },
     {
-      "text": "free will  ️",
-      "note": "ability to choose between different possible courses of action",
-      "url": "/philosophy/philosophy-of-mind/free-will",
-      "fx": -390.0000521267723,
-      "fy": -29.04243988045556,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "consciousness  ️",
-      "url": "/philosophy/philosophy-of-mind/consciousness",
-      "fx": -476.9396494801081,
-      "fy": 68.81292890416984,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "solipsism  ️",
-      "url": "/philosophy/philosophy-of-mind/solipsism",
-      "fx": 315.59189151982514,
-      "fy": 69.98609581497658,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "functionalism",
-      "url": "http://www.wikiwand.com/en/Functionalism_(philosophy_of_mind)",
-      "fx": 162.53408758341936,
-      "fy": 161.69713153758937,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "dualism",
-      "url": "http://www.wikiwand.com/en/Dualism",
-      "fx": -38.39649949679813,
-      "fy": 177.07081465630694,
+      "text": "naive realism",
+      "url": "http://www.wikiwand.com/en/Na%C3%AFve_realism",
+      "fx": -1615.2962813449833,
+      "fy": 218.9159740691489,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "metaphysics  ️",
       "url": "/philosophy/philosophy-of-mind/metaphysics",
-      "fx": -287.87329472580984,
-      "fy": 187.89017152133056,
+      "fx": -603.9025916008098,
+      "fy": 220.32599741418744,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "qualia",
       "url": "http://www.wikiwand.com/en/Qualia",
-      "fx": -432.2287564212328,
-      "fy": 191.52407962328755,
+      "fx": -734.9288635253906,
+      "fy": 220.84622628348188,
       "nodes": [],
       "category": "wiki"
     },
     {
-      "text": "physicalism  ️",
-      "url": "/philosophy/philosophy-of-mind/physicalism",
-      "fx": 47.392570377267816,
-      "fy": 254.10681163225433,
+      "text": "philosophy of perception  ️",
+      "url": "/philosophy/philosophy-of-mind/philosophy-of-perception",
+      "fx": -1412.9665854978355,
+      "fy": 221.73219358766232,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "free will  ️",
+      "note": "ability to choose between different possible courses of action",
+      "url": "/philosophy/philosophy-of-mind/free-will",
+      "fx": -1114.8703002929688,
+      "fy": 221.76202392578125,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "phenomenology  ️",
       "url": "/philosophy/philosophy-of-mind/phenomenology",
-      "fx": -128.77296840252063,
-      "fy": 366.63823607765016,
+      "fx": -409.31398402752063,
+      "fy": 222.28109322050705,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "consciousness  ️",
+      "url": "/philosophy/philosophy-of-mind/consciousness",
+      "fx": -946.7383728027344,
+      "fy": 222.53499603271484,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "dualism",
+      "url": "http://www.wikiwand.com/en/Dualism",
+      "fx": -180.10548387179813,
+      "fy": 224.97929679916382,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "solipsism  ️",
+      "url": "/philosophy/philosophy-of-mind/solipsism",
+      "fx": 350.9739937925524,
+      "fy": 225.0249300276388,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "functionalism",
+      "url": "http://www.wikiwand.com/en/Functionalism_(philosophy_of_mind)",
+      "fx": 154.30734752660112,
+      "fy": 226.1869347031734,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "physicalism  ️",
+      "url": "/philosophy/philosophy-of-mind/physicalism",
+      "fx": -28.222663997732184,
+      "fy": 226.38638752511122,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "existentialism  ️",
+      "url": "/philosophy/philosophy-of-mind/existentialism",
+      "fx": 519.3984530421098,
+      "fy": 227.53997134331178,
       "nodes": [],
       "category": "mindmap"
     }
@@ -124,72 +148,96 @@
       "source": "basics",
       "target": "dualism",
       "curve": {
-        "x": -47.6964,
-        "y": 142.321
+        "x": -118.551,
+        "y": 166.275
       }
     },
     {
       "source": "basics",
       "target": "physicalism  ️",
       "curve": {
-        "x": 11.1982,
-        "y": 182.089
+        "x": -26.6094,
+        "y": 168.229
       }
     },
     {
       "source": "basics",
       "target": "functionalism",
       "curve": {
-        "x": 72.269,
-        "y": 135.884
+        "x": 68.1557,
+        "y": 168.129
       }
     },
     {
       "source": "basics",
       "target": "phenomenology  ️",
       "curve": {
-        "x": -198.104,
-        "y": 235.361
+        "x": -217.738,
+        "y": 172.132
       }
     },
     {
       "source": "basics",
       "target": "metaphysics  ️",
       "curve": {
-        "x": -179.645,
-        "y": 148.98
+        "x": -337.66,
+        "y": 165.198
       }
     },
     {
       "source": "basics",
       "target": "qualia",
       "curve": {
-        "x": -277.175,
-        "y": 133.727
+        "x": -577.565,
+        "y": 210.046
       }
     },
     {
       "source": "basics",
       "target": "consciousness  ️",
       "curve": {
-        "x": -249.968,
-        "y": 89.4416
+        "x": -501.225,
+        "y": 171.66
       }
     },
     {
       "source": "basics",
       "target": "free will  ️",
       "curve": {
-        "x": -223.498,
-        "y": 40.5139
+        "x": -751.671,
+        "y": 153.957
       }
     },
     {
       "source": "basics",
       "target": "solipsism  ️",
       "curve": {
-        "x": 117.169,
-        "y": 98.0603
+        "x": 134.86,
+        "y": 175.58
+      }
+    },
+    {
+      "source": "basics",
+      "target": "existentialism  ️",
+      "curve": {
+        "x": 242.589,
+        "y": 168.805
+      }
+    },
+    {
+      "source": "basics",
+      "target": "philosophy of perception  ️",
+      "curve": {
+        "x": -814.006,
+        "y": 109.503
+      }
+    },
+    {
+      "source": "basics",
+      "target": "naive realism",
+      "curve": {
+        "x": -1094.5,
+        "y": 115.946
       }
     }
   ]

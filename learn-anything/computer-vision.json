@@ -102,13 +102,13 @@
           "text": "1. cs231",
           "url": "https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA",
           "fx": 108.95915130366654,
-          "fy": 18.07282051037521,
+          "fy": -1.9271794896247911,
           "nodes": [
             {
               "text": "course notes",
               "url": "http://cs231n.github.io/",
               "fx": 276.95915130366654,
-              "fy": 21.07282051037521,
+              "fy": 1.0728205103752089,
               "nodes": [],
               "color": "rgba(175, 54, 242, 1.0)"
             }
@@ -120,10 +120,19 @@
           "text": "1. computer vision: algorithms and applications",
           "url": "http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf",
           "fx": 108.95915130366654,
-          "fy": 58.07282051037521,
+          "fy": 38.07282051037521,
           "nodes": [],
           "category": "free book",
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. natural image statistics",
+          "url": "http://www.naturalimagestatistics.net/",
+          "fx": 108.95915130366654,
+          "fy": 100.07282051037521,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     },
@@ -156,6 +165,14 @@
       "url": "/computer-vision/optical-character-recognition",
       "fx": -687.1627983229696,
       "fy": 197.72616508695717,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "one-shot learning  ️",
+      "url": "/computer-vision/one-shot-learning",
+      "fx": -921.6825331104358,
+      "fy": 198.6161274278394,
       "nodes": [],
       "category": "mindmap"
     }
@@ -215,6 +232,14 @@
       "curve": {
         "x": -263.811,
         "y": 80.0767
+      }
+    },
+    {
+      "source": "basics",
+      "target": "one-shot learning  ️",
+      "curve": {
+        "x": -501.739,
+        "y": 37.5568
       }
     }
   ]

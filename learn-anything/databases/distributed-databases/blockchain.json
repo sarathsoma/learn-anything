@@ -50,53 +50,62 @@
       "text": "basics",
       "note": "if you think this can be improved in any way ",
       "url": "",
-      "fx": 212.31549899609263,
-      "fy": 387.15068294421576,
+      "fx": 198.69457508304924,
+      "fy": 399.2374130166796,
       "nodes": [
         {
           "text": "1. beginner’s guide to blockchain technology",
           "url": "http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/",
-          "fx": 394.31549899609263,
-          "fy": 279.65068294421576,
+          "fx": 380.69457508304924,
+          "fy": 271.7374130166796,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         },
         {
           "text": "1. minimum viable blockchain  ️",
           "url": "https://www.igvita.com/2014/05/05/minimum-viable-block-chain/",
-          "fx": 394.31549899609263,
-          "fy": 335.65068294421576,
+          "fx": 380.69457508304924,
+          "fy": 327.7374130166796,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
+          "text": "1. let’s build the tiniest blockchain  ️",
+          "url": "https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b",
+          "fx": 380.69457508304924,
+          "fy": 367.7374130166796,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
           "text": "1. the blockchain explained to web developers",
           "url": "",
-          "fx": 394.31549899609263,
-          "fy": 398.65068294421576,
+          "fx": 380.69457508304924,
+          "fy": 430.7374130166796,
           "nodes": [
             {
               "text": "part 1: the theory",
               "url": "https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html",
-              "fx": 752.3154989960926,
-              "fy": 375.65068294421576,
+              "fx": 738.6945750830492,
+              "fy": 407.7374130166796,
               "nodes": [],
               "color": "rgba(34, 205, 224, 1.0)"
             },
             {
               "text": "part 2: in practice",
               "url": "https://marmelab.com/blog/2016/05/20/blockchain-for-web-developers-in-practice.html",
-              "fx": 752.3154989960926,
-              "fy": 409.65068294421576,
+              "fx": 738.6945750830492,
+              "fy": 441.7374130166796,
               "nodes": [],
               "color": "rgba(34, 205, 224, 1.0)"
             },
             {
               "text": "part 3: the truth",
               "url": "https://marmelab.com/blog/2016/06/14/blockchain-for-web-developers-the-truth.html",
-              "fx": 752.3154989960926,
-              "fy": 443.65068294421576,
+              "fx": 738.6945750830492,
+              "fy": 475.7374130166796,
               "nodes": [],
               "color": "rgba(34, 205, 224, 1.0)"
             }
@@ -106,8 +115,8 @@
         {
           "text": "1. blockchain in 200 lines of code  ️",
           "url": "https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54",
-          "fx": 394.31549899609263,
-          "fy": 477.65068294421576,
+          "fx": 380.69457508304924,
+          "fy": 509.7374130166796,
           "nodes": [],
           "category": "article",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -115,8 +124,8 @@
         {
           "text": "2. blockchain demo",
           "url": "https://anders.com/blockchain/",
-          "fx": 394.31549899609263,
-          "fy": 517.6506829442158,
+          "fx": 380.69457508304924,
+          "fy": 549.7374130166796,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -129,8 +138,8 @@
       "source": "blockchain",
       "target": "basics",
       "curve": {
-        "x": -40.9989,
-        "y": 191.258
+        "x": -47.8094,
+        "y": 197.301
       }
     },
     {

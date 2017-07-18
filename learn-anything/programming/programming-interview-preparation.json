@@ -58,8 +58,9 @@
               "text": "check your work with official answers for the book",
               "url": "https://github.com/careercup/ctci",
               "fx": 910.7686603687428,
-              "fy": -752.5534662317348,
+              "fy": -755.0534662317348,
               "nodes": [],
+              "category": "github",
               "color": "rgba(83, 201, 255, 1.0)"
             }
           ],

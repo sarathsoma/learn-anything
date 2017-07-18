@@ -39,16 +39,24 @@
     {
       "text": "fermentation  ️",
       "url": "/biology/organisms/cells/metabolism/fermentation",
-      "fx": -108.40441942214966,
-      "fy": -238.2243194580078,
+      "fx": -44.193172454833984,
+      "fy": -220.80377960205078,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "cellular respiration  ️",
       "url": "/biology/organisms/cells/metabolism/cellular-respiration",
-      "fx": 79.73558272946843,
-      "fy": -234.455615942029,
+      "fx": 143.93448638916016,
+      "fy": -220.72643661499023,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "enzymes  ️",
+      "url": "/biology/organisms/cells/metabolism/enzymes",
+      "fx": -199.27339181286538,
+      "fy": -219.31094663742692,
       "nodes": [],
       "category": "mindmap"
     }
@@ -66,16 +74,24 @@
       "source": "basics",
       "target": "fermentation  ️",
       "curve": {
-        "x": -65.3175,
-        "y": 60.8018
+        "x": -33.2119,
+        "y": 69.5121
       }
     },
     {
       "source": "basics",
       "target": "cellular respiration  ️",
       "curve": {
-        "x": 41.0025,
-        "y": 62.6861
+        "x": 73.102,
+        "y": 69.5507
+      }
+    },
+    {
+      "source": "basics",
+      "target": "enzymes  ️",
+      "curve": {
+        "x": -141.87,
+        "y": 59.2844
       }
     }
   ]

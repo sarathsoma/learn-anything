@@ -111,14 +111,6 @@
       "category": "mindmap"
     },
     {
-      "text": "WebExtensions  ️",
-      "url": "/web-development/browsers/webextensions",
-      "fx": 997.5948028564453,
-      "fy": -57.58321523666382,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
       "text": "Blink",
       "url": "http://www.wikiwand.com/en/Blink_(web_engine)",
       "fx": 248.11796171171022,
@@ -318,14 +310,6 @@
       "curve": {
         "x": 417.591,
         "y": 140.216
-      }
-    },
-    {
-      "source": "basics",
-      "target": "WebExtensions  ️",
-      "curve": {
-        "x": 586.788,
-        "y": 133.428
       }
     },
     {

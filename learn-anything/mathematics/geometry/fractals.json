@@ -83,16 +83,24 @@
     {
       "text": "Hilbert curve  ️",
       "url": "/mathematics/geometry/fractals/hilbert-curve",
-      "fx": -200.5823163334628,
-      "fy": 450.0560583268633,
+      "fx": -193.5785369873047,
+      "fy": 450.05609130859375,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "Mandelbrot set  ️",
+      "url": "/mathematics/geometry/fractals/mandelbrot-set",
+      "fx": -404.64680232558135,
+      "fy": 450.87681686046517,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "fractal analysis  ️",
       "url": "/mathematics/geometry/fractals/fractal-analysis",
-      "fx": -9.495592948717785,
-      "fy": 451.63461538461536,
+      "fx": -4.451686859130859,
+      "fy": 451.6346130371094,
       "nodes": [],
       "category": "mindmap"
     }
@@ -126,7 +134,7 @@
       "source": "basics",
       "target": "Hilbert curve  ️",
       "curve": {
-        "x": -82.2773,
+        "x": -78.7754,
         "y": 61.9408
       }
     },
@@ -134,8 +142,16 @@
       "source": "basics",
       "target": "fractal analysis  ️",
       "curve": {
-        "x": 17.7661,
+        "x": 20.2881,
         "y": 62.7301
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Mandelbrot set  ️",
+      "curve": {
+        "x": -209.402,
+        "y": 47.4185
       }
     }
   ]

@@ -11,20 +11,20 @@
       "category": "wiki"
     },
     {
-      "text": "sugars",
-      "url": "http://www.wikiwand.com/en/Sugar",
-      "fx": 179.08134055383414,
-      "fy": -47.06521946130334,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
       "text": "fructose",
       "url": "http://www.wikiwand.com/en/Fructose",
       "fx": 347.4383054123732,
       "fy": -43.7757731958763,
       "nodes": [],
       "category": "wiki"
+    },
+    {
+      "text": "sugar  ️",
+      "url": "/physics/matter/atoms/molecules/biomolecules/carbohydrates/sugar",
+      "fx": 190.17806059515635,
+      "fy": -42.86519363485712,
+      "nodes": [],
+      "category": "mindmap"
     },
     {
       "text": "sucrose",
@@ -41,71 +41,15 @@
       "fy": -39.87728446237128,
       "nodes": [],
       "category": "wiki"
-    },
-    {
-      "text": "glucose",
-      "url": "http://www.wikiwand.com/en/Glucose",
-      "fx": 216.10262190099365,
-      "fy": 74.17667048320959,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "monosaccharides",
-      "url": "http://www.wikiwand.com/en/Monosaccharide",
-      "fx": -41.23220471823868,
-      "fy": 74.68343567342197,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "disaccharides",
-      "url": "http://www.wikiwand.com/en/Disaccharide",
-      "fx": -124.99271728074177,
-      "fy": 202.11624802215204,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "cellulose",
-      "url": "http://www.wikiwand.com/en/Cellulose",
-      "fx": 140.11915588378906,
-      "fy": 203.22566986083984,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "glycogen",
-      "url": "http://www.wikiwand.com/en/Glycogen",
-      "fx": 316.6309940732758,
-      "fy": 204.2515041307472,
-      "nodes": [],
-      "category": "wiki"
     }
   ],
   "connections": [
     {
       "source": "carbohydrates",
-      "target": "sugars",
+      "target": "sugar  ️",
       "curve": {
-        "x": -151.497,
-        "y": 68.5298
-      }
-    },
-    {
-      "source": "sugars",
-      "target": "monosaccharides",
-      "curve": {
-        "x": -82.4068,
-        "y": 60.8743
-      }
-    },
-    {
-      "source": "sugars",
-      "target": "glucose",
-      "curve": {
-        "x": 21.2606,
-        "y": 60.6209
+        "x": -145.949,
+        "y": 70.6298
       }
     },
     {
@@ -125,35 +69,11 @@
       }
     },
     {
-      "source": "monosaccharides",
-      "target": "disaccharides",
-      "curve": {
-        "x": -51.6303,
-        "y": 63.7164
-      }
-    },
-    {
-      "source": "glucose",
-      "target": "cellulose",
-      "curve": {
-        "x": -35.9917,
-        "y": 64.5245
-      }
-    },
-    {
       "source": "carbohydrates",
       "target": "starch",
       "curve": {
         "x": 108.822,
         "y": 72.8738
-      }
-    },
-    {
-      "source": "glucose",
-      "target": "glycogen",
-      "curve": {
-        "x": 53.2642,
-        "y": 65.0374
       }
     }
   ]

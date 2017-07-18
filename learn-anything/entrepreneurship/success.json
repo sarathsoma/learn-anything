@@ -111,17 +111,35 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -235.46363304093575,
-      "fy": 400.8918128654973,
+      "fx": -327.12573099415215,
+      "fy": 409.8373538011698,
       "nodes": [
         {
           "text": "1. how to win friends and influence people",
           "url": "http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
-          "fx": -46.46363304093575,
-          "fy": 400.8918128654973,
+          "fx": -138.12573099415215,
+          "fy": 376.3373538011698,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. difficult conversations: how to discuss what matters most",
+          "url": "https://www.goodreads.com/book/show/774088.Difficult_Conversations",
+          "fx": -138.12573099415215,
+          "fy": 443.3373538011698,
+          "nodes": [
+            {
+              "text": "summary",
+              "url": "http://www.fscanada.org/wp-content/uploads/2013/12/Difficult-Conversations-Summary.pdf",
+              "fx": 230.87426900584785,
+              "fy": 458.3373538011698,
+              "nodes": [],
+              "color": "rgba(0, 224, 161, 1.0)"
+            }
+          ],
+          "category": "non-free book",
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     }
@@ -139,8 +157,8 @@
       "source": "success",
       "target": "basics",
       "curve": {
-        "x": -34.8426,
-        "y": 251.721
+        "x": -80.6736,
+        "y": 256.194
       }
     }
   ]

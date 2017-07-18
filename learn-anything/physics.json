@@ -350,16 +350,16 @@
     {
       "text": "statistical mechanics  ️",
       "url": "/physics/statistical-mechanics",
-      "fx": -1209.5698547363281,
-      "fy": 157.50132751464844,
+      "fx": -948.4121842817831,
+      "fy": 159.0744809237392,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "classical mechanics  ️",
       "url": "/physics/classical-mechanics",
-      "fx": -917.2896728515625,
-      "fy": 158.1010513305664,
+      "fx": -656.1320023970175,
+      "fy": 159.67420473965717,
       "nodes": [],
       "category": "mindmap"
     },
@@ -367,16 +367,8 @@
       "text": "quantum mechanics  ️",
       "note": "is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  quantum mechanics differs from classical physics in that energy, momentum and other quantities are often restricted to discrete values (quantisation), objects have characteristics of both particles and waves (wave-particle duality) and there are limits to the precision with which quantities can be  known (uncertainty principle)",
       "url": "/physics/quantum-mechanics",
-      "fx": -632.2173309326172,
-      "fy": 160.44109344482422,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "electromagnetism  ️",
-      "url": "/physics/electromagnetism",
-      "fx": -324.15822982788086,
-      "fy": 163.09064865112305,
+      "fx": -371.05966047807215,
+      "fy": 162.01424685391498,
       "nodes": [],
       "category": "mindmap"
     },
@@ -442,8 +434,8 @@
       "source": "theoretical physics",
       "target": "classical mechanics  ️",
       "curve": {
-        "x": -409.769,
-        "y": 61.0748
+        "x": -279.19,
+        "y": 61.8614
       }
     },
     {
@@ -458,16 +450,8 @@
       "source": "theoretical physics",
       "target": "quantum mechanics  ️",
       "curve": {
-        "x": -188.997,
-        "y": 90.2392
-      }
-    },
-    {
-      "source": "theoretical physics",
-      "target": "electromagnetism  ️",
-      "curve": {
-        "x": -40.7172,
-        "y": 91.564
+        "x": -58.4182,
+        "y": 91.0258
       }
     },
     {
@@ -570,8 +554,8 @@
       "source": "theoretical physics",
       "target": "statistical mechanics  ️",
       "curve": {
-        "x": -689.325,
-        "y": 45.0161
+        "x": -428.111,
+        "y": 66.8148
       }
     },
     {

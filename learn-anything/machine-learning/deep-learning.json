@@ -222,7 +222,7 @@
           "text": "1. deep learning made simple  ️",
           "url": "https://blog.vivekpanyam.com/deep-learning-made-simple-part-1/",
           "fx": -135.02888591967667,
-          "fy": -401.5041132224188,
+          "fy": -435.0041132224188,
           "nodes": [],
           "category": "article",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -231,35 +231,44 @@
           "text": "1. an end to end implementation of a machine learning pipeline  ️",
           "url": "https://spandan-madan.github.io/DeepLearningProject/",
           "fx": -135.02888591967667,
-          "fy": -359.5041132224188,
+          "fy": -393.0041132224188,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
-          "text": "1. deep learning in a nutshell  ️",
-          "url": "http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/",
+          "text": "1. the limitations of deep learning  ️",
+          "url": "https://blog.keras.io/the-limitations-of-deep-learning.html",
           "fx": -135.02888591967667,
-          "fy": -267.5041132224188,
+          "fy": -301.0041132224188,
           "nodes": [],
           "category": "article",
-          "color": "rgba(104, 255, 109, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "1. deep learning",
           "note": "one of the best introductions to the field, assumes you have the mathematical background to follow it",
           "url": "http://www.deeplearningbook.org",
           "fx": -135.02888591967667,
-          "fy": -225.50411322241882,
+          "fy": -234.00411322241882,
           "nodes": [],
           "category": "free book",
           "color": "rgba(0, 224, 161, 1.0)"
         },
         {
+          "text": "1. deep learning in a nutshell  ️",
+          "url": "http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/",
+          "fx": -135.02888591967667,
+          "fy": -192.00411322241882,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
           "text": "1. foundations for deep learning",
           "url": "https://github.com/pauli-space/foundations_for_deep_learning",
           "fx": -135.02888591967667,
-          "fy": -183.50411322241882,
+          "fy": -150.00411322241882,
           "nodes": [],
           "category": "github",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -268,7 +277,7 @@
           "text": "1. deep reinforcement learning",
           "url": "http://rll.berkeley.edu/deeprlcourse/",
           "fx": -135.02888591967667,
-          "fy": -116.50411322241882,
+          "fy": -83.00411322241882,
           "nodes": [],
           "category": "course",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -277,7 +286,7 @@
           "text": "1. designing, visualising and understanding deep neural networks",
           "url": "https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks",
           "fx": -135.02888591967667,
-          "fy": -49.50411322241882,
+          "fy": -16.004113222418823,
           "nodes": [],
           "category": "course",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -286,7 +295,7 @@
           "text": "1. practical deep learning for coders",
           "url": "http://course.fast.ai/",
           "fx": -135.02888591967667,
-          "fy": 42.49588677758118,
+          "fy": 75.99588677758118,
           "nodes": [],
           "category": "course",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -295,7 +304,7 @@
           "text": "1. learn TensorFlow and deep learning, without a Ph.D",
           "url": "https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd",
           "fx": -135.02888591967667,
-          "fy": 109.49588677758118,
+          "fy": 142.99588677758118,
           "nodes": [],
           "category": "course",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -304,7 +313,7 @@
           "text": "1. creative applications of deep learning with tensorflow",
           "url": "https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info",
           "fx": -135.02888591967667,
-          "fy": 176.49588677758118,
+          "fy": 209.99588677758118,
           "nodes": [],
           "category": "course",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -313,7 +322,7 @@
           "text": "1. grokking deep learning",
           "url": "https://www.manning.com/books/grokking-deep-learning",
           "fx": -135.02888591967667,
-          "fy": 243.49588677758118,
+          "fy": 276.9958867775812,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -322,7 +331,7 @@
           "text": "1. tutorial on deep learning",
           "url": "http://ai.stanford.edu/~quocle/tutorial1.pdf",
           "fx": -135.02888591967667,
-          "fy": 285.4958867775812,
+          "fy": 318.9958867775812,
           "nodes": [],
           "category": "paper",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -331,7 +340,7 @@
           "text": "1. deep neural nets",
           "url": "https://www.youtube.com/watch?v=VrMHA3yX_QI&amp;list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&amp;index=13",
           "fx": -135.02888591967667,
-          "fy": 327.4958867775812,
+          "fy": 360.9958867775812,
           "nodes": [],
           "category": "video",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -367,8 +376,8 @@
     {
       "text": "transfer learning  ️",
       "url": "/machine-learning/deep-learning/transfer-learning",
-      "fx": -553.5935828931171,
-      "fy": 111.27543659345929,
+      "fx": -559.8513953931171,
+      "fy": 155.9316865934593,
       "nodes": [],
       "category": "mindmap"
     },
@@ -451,8 +460,8 @@
       "source": "basics",
       "target": "transfer learning  ️",
       "curve": {
-        "x": -99.5335,
-        "y": 80.3891
+        "x": -102.662,
+        "y": 102.717
       }
     },
     {

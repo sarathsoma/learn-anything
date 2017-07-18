@@ -36,6 +36,14 @@
       "category": "mindmap"
     },
     {
+      "text": "macromolecules",
+      "url": "http://www.wikiwand.com/en/Macromolecule",
+      "fx": -571.0620871721334,
+      "fy": 101.78530362740923,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
       "text": "polymers  ️",
       "url": "/physics/matter/atoms/molecules/polymers",
       "fx": 59.715868698046734,
@@ -83,6 +91,14 @@
       "curve": {
         "x": 63.4175,
         "y": 71.5833
+      }
+    },
+    {
+      "source": "basics",
+      "target": "macromolecules",
+      "curve": {
+        "x": -299.015,
+        "y": 46.4001
       }
     }
   ]

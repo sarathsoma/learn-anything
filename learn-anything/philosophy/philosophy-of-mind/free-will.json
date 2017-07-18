@@ -35,6 +35,22 @@
           "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
+    },
+    {
+      "text": "compatibilism",
+      "url": "http://www.wikiwand.com/en/Compatibilism",
+      "fx": -48.941822528839225,
+      "fy": 158.05577334235693,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "determinism",
+      "url": "http://www.wikiwand.com/en/Determinism",
+      "fx": 188.3359120972516,
+      "fy": 158.1829205771504,
+      "nodes": [],
+      "category": "wiki"
     }
   ],
   "connections": [
@@ -44,6 +60,22 @@
       "curve": {
         "x": -3.3457,
         "y": 73.9238
+      }
+    },
+    {
+      "source": "basics",
+      "target": "compatibilism",
+      "curve": {
+        "x": -79.9924,
+        "y": 65.0279
+      }
+    },
+    {
+      "source": "basics",
+      "target": "determinism",
+      "curve": {
+        "x": 42.6465,
+        "y": 65.8415
       }
     }
   ]

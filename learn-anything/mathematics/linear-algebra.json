@@ -5,14 +5,14 @@
     {
       "text": "linear algebra",
       "url": "http://www.wikiwand.com/en/Linear_algebra",
-      "fx": 64.27681784772858,
-      "fy": -613.4247046086114,
+      "fx": 109.8009063893951,
+      "fy": -711.4634415877781,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/LearningLinearAlgebra/",
-          "fx": 325.2768178477286,
-          "fy": -599.4247046086114,
+          "fx": 370.8009063893951,
+          "fy": -697.4634415877781,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -23,14 +23,14 @@
     {
       "text": "help",
       "url": "",
-      "fx": 263.97572899161605,
-      "fy": -450.283232732681,
+      "fx": 305.33316802978493,
+      "fy": -529.4547254774304,
       "nodes": [
         {
           "text": "interactive 2D matrix",
           "url": "http://ncase.me/matrix/",
-          "fx": 404.97572899161605,
-          "fy": -549.2832327326811,
+          "fx": 446.33316802978493,
+          "fy": -628.4547254774304,
           "nodes": [],
           "category": "interactive",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -38,32 +38,32 @@
         {
           "text": "applications of linear algebra",
           "url": "http://aix1.uottawa.ca/%7Ejkhoury/app.htm",
-          "fx": 404.97572899161605,
-          "fy": -507.2832327326809,
+          "fx": 446.33316802978493,
+          "fy": -586.4547254774304,
           "nodes": [],
           "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "linear algebra for machine learning",
           "url": "http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/LinearAlgebra.pdf",
-          "fx": 404.97572899161605,
-          "fy": -470.2832327326809,
+          "fx": 446.33316802978493,
+          "fy": -549.4547254774304,
           "nodes": [],
           "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "linear algebra cheat sheet for deep learning",
           "url": "https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c",
-          "fx": 404.97572899161605,
-          "fy": -408.2832327326809,
+          "fx": 446.33316802978493,
+          "fy": -487.4547254774306,
           "nodes": [],
           "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "linear algebra review and reference",
           "url": "http://cs229.stanford.edu/section/cs229-linalg.pdf",
-          "fx": 404.97572899161605,
-          "fy": -346.2832327326809,
+          "fx": 446.33314514160134,
+          "fy": -425.4978925916884,
           "nodes": [],
           "color": "rgba(255, 254, 60, 1.0)"
         }
@@ -73,24 +73,33 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -18.130755857271197,
-      "fy": 28.827158828712868,
+      "fx": 18.007481989950975,
+      "fy": -15.063900199064847,
       "nodes": [
         {
           "text": "1. essence of linear algebra",
           "note": "get an intuitive understanding of what linear algebra actually is before working with it  amazing set of videos, rewatch parts that you find confusing",
           "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
-          "fx": 170.8692441427288,
-          "fy": -226.17284117128713,
+          "fx": 207.00748198995097,
+          "fy": -303.56390019906485,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
+          "text": "1. linear algebra by Georgi Shilov",
+          "url": "https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf",
+          "fx": 207.00748198995097,
+          "fy": -261.56390019906485,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
           "text": "1. an intuitive guide to linear algebra  ️",
           "url": "https://betterexplained.com/articles/linear-algebra-guide/",
-          "fx": 170.8692441427288,
-          "fy": -184.17284117128713,
+          "fx": 207.00748198995097,
+          "fy": -194.06390019906485,
           "nodes": [],
           "category": "article",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -98,8 +107,8 @@
         {
           "text": "1. invitation to another dimension",
           "url": "https://maxgoldste.in/invitation-to-another-dimension/",
-          "fx": 170.8692441427288,
-          "fy": -117.17284117128713,
+          "fx": 207.00748198995097,
+          "fy": -127.06390019906485,
           "nodes": [],
           "category": "interactive",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -107,16 +116,16 @@
         {
           "text": "1. linear algebra explained in four pages",
           "url": "https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf",
-          "fx": 170.8692441427288,
-          "fy": -50.17284117128713,
+          "fx": 207.00748198995097,
+          "fy": -60.06390019906485,
           "nodes": [],
           "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "1. gate lectures",
           "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6",
-          "fx": 170.8692441427288,
-          "fy": 11.827158828712868,
+          "fx": 207.00748198995097,
+          "fy": 1.9360998009351533,
           "nodes": [],
           "category": "video",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -125,8 +134,8 @@
           "text": "2. immersive linear math",
           "note": "amazing visual representation and interactive examples",
           "url": "http://immersivemath.com/ila/index.html",
-          "fx": 170.8692441427288,
-          "fy": 53.82715882871287,
+          "fx": 207.00748198995097,
+          "fy": 43.93609980093515,
           "nodes": [],
           "category": "free book",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -135,8 +144,8 @@
           "text": "2. khan academy linear algebra",
           "note": "videos and exercises to supplement immersive linear math",
           "url": "https://www.khanacademy.org/math/linear-algebra",
-          "fx": 170.8692441427288,
-          "fy": 95.82715882871287,
+          "fx": 207.00748198995097,
+          "fy": 85.93609980093515,
           "nodes": [],
           "category": "video",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -144,8 +153,8 @@
         {
           "text": "2. linear algebra",
           "url": "http://joshua.smcvt.edu/linearalgebra/book.pdf",
-          "fx": 170.8692441427288,
-          "fy": 162.82715882871287,
+          "fx": 207.00748198995097,
+          "fy": 152.93609980093515,
           "nodes": [],
           "category": "free book",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -153,8 +162,8 @@
         {
           "text": "2. learn linear algebra",
           "url": "http://studybyyourself.com/seminar/linear-algebra/course/chapter-1-introduction/?lang=en",
-          "fx": 170.8692441427288,
-          "fy": 204.82715882871287,
+          "fx": 207.00748198995097,
+          "fy": 194.93609980093515,
           "nodes": [],
           "category": "interactive",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -162,8 +171,8 @@
         {
           "text": "2. linear algebra notes  ️",
           "url": "http://frnsys.com/ai_notes/foundations/linear_algebra.html",
-          "fx": 170.8692441427288,
-          "fy": 246.82715882871287,
+          "fx": 207.00748198995097,
+          "fy": 236.93609980093515,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -171,8 +180,8 @@
         {
           "text": "2. linear algebra review and reference",
           "url": "http://cs229.stanford.edu/section/cs229-linalg.pdf",
-          "fx": 170.8692441427288,
-          "fy": 288.82715882871287,
+          "fx": 207.00748198995097,
+          "fy": 278.93609980093515,
           "nodes": [],
           "color": "rgba(252, 177, 20, 1.0)"
         }
@@ -205,8 +214,8 @@
     {
       "text": "eigenvectors and eigenvalues  ️",
       "url": "/mathematics/linear-algebra/eigenvectors",
-      "fx": -146.2064116341727,
-      "fy": 379.57273864746094,
+      "fx": -146.16893482208252,
+      "fy": 382.9659729003906,
       "nodes": [],
       "category": "mindmap"
     }
@@ -216,48 +225,48 @@
       "source": "help",
       "target": "linear algebra",
       "curve": {
-        "x": -72.0995,
-        "y": -80.3208
+        "x": -70.0162,
+        "y": -89.7544
       }
     },
     {
       "source": "linear algebra",
       "target": "basics",
       "curve": {
-        "x": -64.2039,
-        "y": 319.877
+        "x": -68.8968,
+        "y": 346.951
       }
     },
     {
       "source": "basics",
       "target": "eigenvectors and eigenvalues  ️",
       "curve": {
-        "x": -46.9666,
-        "y": 182.872
+        "x": -65.017,
+        "y": 206.515
       }
     },
     {
       "source": "basics",
       "target": "Gaussian elimination  ️",
       "curve": {
-        "x": -261.162,
-        "y": 177.638
+        "x": -279.231,
+        "y": 199.584
       }
     },
     {
       "source": "basics",
       "target": "vectors  ️",
       "curve": {
-        "x": -397.406,
-        "y": 162.803
+        "x": -415.475,
+        "y": 184.749
       }
     },
     {
       "source": "basics",
       "target": "matrices  ️",
       "curve": {
-        "x": -152.603,
-        "y": 175.612
+        "x": -170.672,
+        "y": 197.558
       }
     }
   ]

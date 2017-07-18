@@ -30,7 +30,7 @@
           "text": "deep learning models",
           "url": "https://github.com/fchollet/deep-learning-models",
           "fx": 195.28193787605528,
-          "fy": -240.95381164550776,
+          "fy": -257.95381164550776,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -39,10 +39,18 @@
           "text": "keras resources",
           "url": "https://github.com/fchollet/keras-resources",
           "fx": 195.28193787605528,
-          "fy": -200.95381164550776,
+          "fy": -217.95381164550776,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "the keras blog",
+          "url": "https://blog.keras.io/index.html",
+          "fx": 195.28193787605528,
+          "fy": -177.95381164550776,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     },

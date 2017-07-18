@@ -92,7 +92,7 @@
     {
       "text": "formal language  ️",
       "url": "/linguistics/formal-language",
-      "fx": -675.2427825927734,
+      "fx": -669.4616088867188,
       "fy": 25.409942626953125,
       "nodes": [],
       "category": "mindmap"
@@ -100,8 +100,16 @@
     {
       "text": "corpus linguistics  ️",
       "url": "/linguistics/corpus-linguistics",
-      "fx": -906.3851354125608,
-      "fy": 29.384845946660334,
+      "fx": -900.5564727783203,
+      "fy": 29.38484764099121,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "linguistic modality  ️",
+      "url": "/linguistics/linguistic-modality",
+      "fx": -1138.118741054029,
+      "fy": 32.0069880291054,
       "nodes": [],
       "category": "mindmap"
     },
@@ -151,7 +159,7 @@
       "source": "basics",
       "target": "formal language  ️",
       "curve": {
-        "x": -287.065,
+        "x": -284.174,
         "y": 43.7025
       }
     },
@@ -159,7 +167,7 @@
       "source": "basics",
       "target": "corpus linguistics  ️",
       "curve": {
-        "x": -452.169,
+        "x": -449.255,
         "y": 33.5026
       }
     },
@@ -169,6 +177,14 @@
       "curve": {
         "x": -51.1238,
         "y": 62.6525
+      }
+    },
+    {
+      "source": "basics",
+      "target": "linguistic modality  ️",
+      "curve": {
+        "x": -602.475,
+        "y": 7.86103
       }
     }
   ]

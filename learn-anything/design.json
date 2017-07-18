@@ -12,10 +12,19 @@
           "text": "",
           "url": "https://www.reddit.com/r/Design/",
           "fx": 304.45306322252134,
-          "fy": -428.54464751542196,
+          "fy": -448.54464751542196,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/gztchan/awesome-design",
+          "fx": 304.45306322252134,
+          "fy": -408.54464751542196,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ],
       "category": "wiki"
@@ -26,15 +35,6 @@
       "fx": 288.47629556133825,
       "fy": -320.9859587071255,
       "nodes": [
-        {
-          "text": "awesome design",
-          "url": "https://github.com/gztchan/awesome-design",
-          "fx": 425.47629556133825,
-          "fy": -363.4859587071255,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
-        },
         {
           "text": "maker book",
           "note": "hand-picked directory of the best free resources for creatives",
@@ -51,15 +51,6 @@
           "fy": -289.4859587071255,
           "nodes": [],
           "color": "rgba(34, 205, 224, 1.0)"
-        },
-        {
-          "text": "awesome design systems",
-          "url": "https://github.com/alexpate/awesome-design-systems",
-          "fx": 425.47629556133825,
-          "fy": -255.48595870712552,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(209, 21, 88, 1.0)"
         }
       ]
     },
@@ -233,16 +224,32 @@
     {
       "text": "interior design  ️",
       "url": "/design/interior-design",
-      "fx": -1425.1676717836258,
-      "fy": 231.11851242690057,
+      "fx": -1417.4766845703125,
+      "fy": 231.11850357055664,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "interaction design  ️",
       "url": "/design/interaction-design",
-      "fx": -1660.8359711613784,
-      "fy": 234.92028985507227,
+      "fx": -1652.6007995605469,
+      "fy": 234.9202880859375,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "icon design  ️",
+      "url": "/design/icon-design",
+      "fx": -1831.6953735351562,
+      "fy": 237.35717391967773,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "design systems  ️",
+      "url": "/design/design-systems",
+      "fx": -2047.705604276574,
+      "fy": 237.77790284141588,
       "nodes": [],
       "category": "mindmap"
     }
@@ -364,7 +371,7 @@
       "source": "basics",
       "target": "interior design  ️",
       "curve": {
-        "x": -893.837,
+        "x": -889.992,
         "y": 78.9887
       }
     },
@@ -372,8 +379,24 @@
       "source": "basics",
       "target": "interaction design  ️",
       "curve": {
-        "x": -1049.38,
+        "x": -1045.26,
         "y": 39.2409
+      }
+    },
+    {
+      "source": "basics",
+      "target": "icon design  ️",
+      "curve": {
+        "x": -1315.22,
+        "y": 46.4074
+      }
+    },
+    {
+      "source": "basics",
+      "target": "design systems  ️",
+      "curve": {
+        "x": -1403.99,
+        "y": 0.660723
       }
     }
   ]

@@ -20,10 +20,19 @@
           "text": "1. political science 101",
           "url": "https://www.youtube.com/watch?v=lrk4oY7UxpQ&amp;list=PL4sGpBHlQIiuf7FXUuANaRFbhEjpExywP",
           "fx": 366.54325810185196,
-          "fy": -268.69743441358014,
+          "fy": -289.69743441358014,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. political ideology",
+          "url": "https://www.youtube.com/watch?v=j_k_k-bHigM",
+          "fx": 366.54325810185196,
+          "fy": -247.69743441358014,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     },

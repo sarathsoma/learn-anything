@@ -21,16 +21,25 @@
           "text": "1. principles of mathematical analysis",
           "url": "http://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis",
           "fx": 123.40808823529414,
-          "fy": -233.02299883021385,
+          "fy": -264.02299883021385,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
+          "text": "1. elements of the theory of functions and functional analysis",
+          "url": "https://www.goodreads.com/book/show/521655.Elements_of_the_Theory_of_Functions_and_Functional_Analysis",
+          "fx": 123.40808823529414,
+          "fy": -202.02299883021385,
+          "nodes": [],
+          "category": "non-free book",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
           "text": "2. visual complex analysis",
           "url": "https://www.goodreads.com/book/show/149800.Visual_Complex_Analysis",
           "fx": 123.40808823529414,
-          "fy": -171.02299883021385,
+          "fy": -140.02299883021385,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -39,7 +48,7 @@
           "text": "2. introductory functional analysis with applications",
           "url": "http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications",
           "fx": 123.40808823529414,
-          "fy": -131.02299883021385,
+          "fy": -100.02299883021385,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(255, 189, 10, 1.0)"

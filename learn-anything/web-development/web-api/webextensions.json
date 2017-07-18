@@ -5,21 +5,14 @@
     {
       "text": "WebExtensions",
       "url": "https://developer.mozilla.org/en-US/Add-ons/WebExtensions",
-      "fx": -63.16015625,
-      "fy": -129.29296875,
-      "nodes": []
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 81.76171875,
-      "fy": -24.76171875,
+      "fx": -73.890625,
+      "fy": -40.2578125,
       "nodes": [
         {
-          "text": "awesome WebExtensions",
+          "text": "awesome",
           "url": "https://github.com/bfred-it/Awesome-WebExtensions",
-          "fx": 218.76171875,
-          "fy": -13.26171875,
+          "fx": 164.109375,
+          "fy": -28.7578125,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -48,16 +41,8 @@
       "source": "WebExtensions",
       "target": "basics",
       "curve": {
-        "x": -7.04297,
-        "y": 109.369
-      }
-    },
-    {
-      "source": "help",
-      "target": "WebExtensions",
-      "curve": {
-        "x": -47.2109,
-        "y": -52.2656
+        "x": -1.67774,
+        "y": 64.8514
       }
     }
   ]

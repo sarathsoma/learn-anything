@@ -39,8 +39,16 @@
     {
       "text": "Russell’s paradox  ️",
       "url": "/mathematics/set-theory/naive-set-theory/russells-paradox",
-      "fx": -62.81322674418573,
-      "fy": 268.98782703484744,
+      "fx": 129.47334125550015,
+      "fy": 254.2394622092661,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "domain of a function  ️",
+      "url": "/mathematics/set-theory/naive-set-theory/domain-of-a-function",
+      "fx": -144.19884857167324,
+      "fy": 256.11734519329485,
       "nodes": [],
       "category": "mindmap"
     }
@@ -58,8 +66,16 @@
       "source": "basics",
       "target": "Russell’s paradox  ️",
       "curve": {
-        "x": -41.6985,
-        "y": 68.5035
+        "x": 54.4448,
+        "y": 61.1293
+      }
+    },
+    {
+      "source": "basics",
+      "target": "domain of a function  ️",
+      "curve": {
+        "x": -75.6413,
+        "y": 62.0683
       }
     }
   ]

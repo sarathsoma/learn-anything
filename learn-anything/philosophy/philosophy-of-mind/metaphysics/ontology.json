@@ -26,6 +26,22 @@
           "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
+    },
+    {
+      "text": "realism  ️",
+      "url": "/philosophy/philosophy-of-mind/metaphysics/ontology/realism",
+      "fx": -97.53631201823316,
+      "fy": 25.036967259388803,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "idealism  ️",
+      "url": "/philosophy/philosophy-of-mind/metaphysics/ontology/idealism",
+      "fx": 55.88942307692287,
+      "fy": 27.97475961538464,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -35,6 +51,22 @@
       "curve": {
         "x": -2.96915,
         "y": 64.4792
+      }
+    },
+    {
+      "source": "basics",
+      "target": "realism  ️",
+      "curve": {
+        "x": -55.4492,
+        "y": 62.2168
+      }
+    },
+    {
+      "source": "basics",
+      "target": "idealism  ️",
+      "curve": {
+        "x": 16.0137,
+        "y": 62.9357
       }
     }
   ]

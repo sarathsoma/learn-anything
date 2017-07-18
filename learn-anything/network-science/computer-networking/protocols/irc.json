@@ -42,6 +42,13 @@
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "freenode",
+      "url": "https://freenode.net/",
+      "fx": -69.8037109375,
+      "fy": 123.5751953125,
+      "nodes": []
     }
   ],
   "connections": [
@@ -59,6 +66,14 @@
       "curve": {
         "x": -54.3917,
         "y": -51.6929
+      }
+    },
+    {
+      "source": "basics",
+      "target": "freenode",
+      "curve": {
+        "x": -43.2323,
+        "y": 65.8917
       }
     }
   ]
