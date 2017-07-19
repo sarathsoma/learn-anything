@@ -1,0 +1,150 @@
+{
+  "title": "learn anything - operating systems - plan9",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "Plan 9",
+      "url": "http://www.wikiwand.com/en/Plan_9_from_Bell_Labs",
+      "fx": 12.970295058649185,
+      "fy": -371.76452345127365,
+      "nodes": [
+        {
+          "text": "Subreddit",
+          "url": "https://www.reddit.com/r/plan9/",
+          "fx": 182.97029505864919,
+          "fy": -357.76452345127365,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ],
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 162.27419482016353,
+      "fy": -206.2587123674213,
+      "nodes": [
+        {
+          "text": "Man Pages",
+          "url": "http://man.cat-v.org/plan_9/",
+          "fx": 303.27419482016353,
+          "fy": -222.2587123674213,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "Mailing List",
+          "url": "https://9p.io/wiki/plan9/mailing_lists/",
+          "fx": 303.27419482016353,
+          "fy": -160.2587123674213,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "tours",
+      "url": "",
+      "fx": 286.00622079022514,
+      "fy": -42.49602649810731,
+      "nodes": [
+        {
+          "text": "3. A Tour of the Acme Editor",
+          "note": "By Russ Cox, known for the go programming language",
+          "url": "https://www.youtube.com/watch?v=dP1xVpMPn8M",
+          "fx": 454.9641751969634,
+          "fy": -105.45270894172609,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "4. Go and Plan9 Compilers",
+          "url": "https://www.youtube.com/watch?v=KINIAgRpkDA",
+          "fx": 455.00622079022514,
+          "fy": -63.49602649810731,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. FOSDEM 2006 plan9",
+          "note": "By Uriel",
+          "url": "https://www.youtube.com/watch?v=VJSlvoUFkBA",
+          "fx": 455.00622079022514,
+          "fy": -21.496026498107312,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "2. A guide to rc, the Plan 9 shell",
+          "url": "http://doc.cat-v.org/plan_9/4th_edition/papers/rc",
+          "fx": 455.00622079022514,
+          "fy": 45.50397350189269,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(252, 177, 20, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "distributions",
+      "note": "",
+      "url": "",
+      "fx": -85.63115787506104,
+      "fy": 134.8639144897461,
+      "nodes": [
+        {
+          "text": "Plan 9 from Bell Laboratories ",
+          "url": "http://9p.io/plan9/",
+          "fx": 103.36884212493896,
+          "fy": 113.8639144897461,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "9 Front",
+          "url": "http://9front.org/",
+          "fx": 103.36884212493896,
+          "fy": 155.8639144897461,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "plan 9",
+      "target": "distributions",
+      "curve": {
+        "x": -51.3007,
+        "y": 252.064
+      }
+    },
+    {
+      "source": "help",
+      "target": "Plan 9",
+      "curve": {
+        "x": -67.902,
+        "y": -81.5029
+      }
+    },
+    
+    {
+      "source": "tours",
+      "target": "help",
+      "curve": {
+        "x": -68.116,
+        "y": -81.8814
+      }
+    },
+    
+    
+  ]
+}
