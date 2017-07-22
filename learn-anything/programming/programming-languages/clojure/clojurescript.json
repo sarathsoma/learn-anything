@@ -60,6 +60,20 @@
           "fy": -47.12302791262141,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. ClojureScript Unraveled",
+          "url": "https://funcool.github.io/clojurescript-unraveled/",
+          "nodes": [], 
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },  
+        {   
+          "text": "1. Transforming Data with ClojureScript",
+          "url": "http://langintro.com/cljsbook",
+          "nodes": [], 
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
     }
