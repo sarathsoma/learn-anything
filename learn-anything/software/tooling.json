@@ -93,6 +93,14 @@
       "category": "mindmap"
     },
     {
+      "text": "web tools  ️",
+      "url": "/software/tooling/web-tools",
+      "fx": -1147.3663134681583,
+      "fy": -236.1870921184738,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "messaging  ️",
       "url": "/software/tooling/messaging",
       "fx": 102.5003433227539,
@@ -172,6 +180,14 @@
       "curve": {
         "x": -503.862,
         "y": 103.016
+      }
+    },
+    {
+      "source": "software tooling",
+      "target": "web tools  ️",
+      "curve": {
+        "x": -743.938,
+        "y": 87.9281
       }
     }
   ]

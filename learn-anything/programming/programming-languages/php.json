@@ -117,10 +117,18 @@
       "nodes": []
     },
     {
-      "text": "symfony  ️",
-      "url": "/programming/programming-languages/php/symfony",
-      "fx": 42.12694918611351,
-      "fy": 103.5341546474358,
+      "text": "CodeIgniter",
+      "url": "https://github.com/bcit-ci/CodeIgniter",
+      "fx": 120.46729480429576,
+      "fy": 120.95147479496143,
+      "nodes": [],
+      "category": "github"
+    },
+    {
+      "text": "laravel  ️",
+      "url": "/web-development/backend/laravel",
+      "fx": -191.55177911094984,
+      "fy": 124.68996043161701,
       "nodes": [],
       "category": "mindmap"
     },
@@ -133,10 +141,10 @@
       "category": "github"
     },
     {
-      "text": "laravel  ️",
-      "url": "/web-development/backend/laravel",
-      "fx": -126.14517116546631,
-      "fy": 150.19017791748047,
+      "text": "symfony  ️",
+      "url": "/programming/programming-languages/php/symfony",
+      "fx": -32.773029971491496,
+      "fy": 173.82949365352522,
       "nodes": [],
       "category": "mindmap"
     }
@@ -202,16 +210,16 @@
       "source": "web frameworks",
       "target": "laravel  ️",
       "curve": {
-        "x": -38.8509,
-        "y": 70.5173
+        "x": -71.5542,
+        "y": 57.7672
       }
     },
     {
       "source": "web frameworks",
       "target": "symfony  ️",
       "curve": {
-        "x": 57.2852,
-        "y": 48.4392
+        "x": 19.8352,
+        "y": 83.5869
       }
     },
     {
@@ -228,6 +236,14 @@
       "curve": {
         "x": -51.8166,
         "y": 56.0098
+      }
+    },
+    {
+      "source": "web frameworks",
+      "target": "CodeIgniter",
+      "curve": {
+        "x": 125.374,
+        "y": 48.7181
       }
     }
   ]

@@ -46,6 +46,14 @@
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "calisthenics  ️",
+      "url": "/health/fitness/strength-training/bodyweight-exercises/calisthenics",
+      "fx": -100.75018491124274,
+      "fy": -66.3313609467358,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -55,6 +63,14 @@
       "curve": {
         "x": -4.35991,
         "y": 66.7766
+      }
+    },
+    {
+      "source": "basics",
+      "target": "calisthenics  ️",
+      "curve": {
+        "x": -65.9958,
+        "y": 59.3558
       }
     }
   ]

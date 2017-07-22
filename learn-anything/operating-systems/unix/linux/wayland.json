@@ -3,9 +3,9 @@
   "tag": "Wayland protocol",
   "nodes": [
     {
-      "text": "Wayland",
+      "text": "wayland",
       "url": "http://www.wikiwand.com/en/Wayland_(display_server_protocol)",
-      "fx": 0.062424659729003906,
+      "fx": 2.062424659729004,
       "fy": -53.58907425403595,
       "nodes": [
         {
@@ -23,14 +23,14 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 23.17578125,
-      "fy": 86.20703125,
+      "fx": 20.1328125,
+      "fy": 88.20703125,
       "nodes": [
         {
           "text": "1. an introduction to Wayland  ️",
           "url": "https://drewdevault.com/2017/06/10/Introduction-to-Wayland.html",
-          "fx": 179.17578125,
-          "fy": 97.70703125,
+          "fx": 176.1328125,
+          "fy": 99.70703125,
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -40,11 +40,11 @@
   ],
   "connections": [
     {
-      "source": "Wayland",
+      "source": "wayland",
       "target": "basics",
       "curve": {
-        "x": -0.443322,
-        "y": 68.6481
+        "x": -2.96478,
+        "y": 69.6481
       }
     }
   ]

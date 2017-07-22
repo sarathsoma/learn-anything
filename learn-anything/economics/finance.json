@@ -5,10 +5,27 @@
     {
       "text": "finance",
       "url": "http://www.wikiwand.com/en/Finance",
-      "fx": 93.26768422100622,
-      "fy": -64.80444724450297,
+      "fx": 166.524520158506,
+      "fy": -198.72339255700297,
       "nodes": [],
       "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 471.71882284382286,
+      "fy": -103.32971845862471,
+      "nodes": [
+        {
+          "text": "articles by Matt Levine  ️",
+          "url": "https://www.bloomberg.com/view/topics/money-stuff",
+          "fx": 670.7188228438229,
+          "fy": -90.82971845862471,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
     },
     {
       "text": "financial markets  ️",
@@ -48,32 +65,40 @@
       "source": "finance",
       "target": "financial markets  ️",
       "curve": {
-        "x": -172.077,
-        "y": 86.4176
+        "x": -208.705,
+        "y": 153.377
       }
     },
     {
       "source": "finance",
       "target": "technical analysis  ️",
       "curve": {
-        "x": -49.5142,
-        "y": 87.3223
+        "x": -86.1426,
+        "y": 154.282
       }
     },
     {
       "source": "finance",
       "target": "forward contracts  ️",
       "curve": {
-        "x": 113.169,
-        "y": 71.3117
+        "x": 76.5406,
+        "y": 138.271
       }
     },
     {
       "source": "finance",
       "target": "financial services  ️",
       "curve": {
-        "x": 240.576,
-        "y": 67.5618
+        "x": 203.948,
+        "y": 134.521
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "finance",
+      "curve": {
+        "x": -152.097,
+        "y": -46.9468
       }
     }
   ]

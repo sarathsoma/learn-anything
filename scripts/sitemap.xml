@@ -166,6 +166,8 @@
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/psychedelic/salvia/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/psychedelic/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/stimulants/amphetamines/</loc> </url>
+<url> <loc>https://learn-anything.xyz/chemistry/drugs/stimulants/caffeine/coffee/</loc> </url>
+<url> <loc>https://learn-anything.xyz/chemistry/drugs/stimulants/caffeine/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/stimulants/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/electrochemistry/</loc> </url>
@@ -434,6 +436,7 @@
 <url> <loc>https://learn-anything.xyz/design/typography/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/user-experience/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/</loc> </url>
+<url> <loc>https://learn-anything.xyz/distributed-computing/ethereum/smart-contracts/</loc> </url>
 <url> <loc>https://learn-anything.xyz/distributed-computing/ethereum/</loc> </url>
 <url> <loc>https://learn-anything.xyz/distributed-computing/load-balancing/</loc> </url>
 <url> <loc>https://learn-anything.xyz/distributed-computing/serverless-computing/</loc> </url>
@@ -577,6 +580,7 @@
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/snowboarding/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/surfing/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/</loc> </url>
+<url> <loc>https://learn-anything.xyz/health/fitness/strength-training/bodyweight-exercises/calisthenics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/strength-training/bodyweight-exercises/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/strength-training/lean-gains/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/strength-training/</loc> </url>
@@ -1235,6 +1239,7 @@
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/automation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/launchd/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/</loc> </url>
+<url> <loc>https://learn-anything.xyz/operating-systems/unix/plan-9/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/shells/bash/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/shells/dotfiles/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/shells/fish/</loc> </url>
@@ -1247,7 +1252,6 @@
 <url> <loc>https://learn-anything.xyz/operating-systems/windows/windows-server/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/windows/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/</loc> </url>
-<url> <loc>https://learn-anything.xyz/philosophy/aesthetics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/analytic-philosophy/logical-atomism/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/analytic-philosophy/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/continental-philosophy/</loc> </url>
@@ -1743,6 +1747,7 @@
 <url> <loc>https://learn-anything.xyz/software/tooling/text-editors/vs-code/extensions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/software/tooling/text-editors/vs-code/</loc> </url>
 <url> <loc>https://learn-anything.xyz/software/tooling/text-editors/</loc> </url>
+<url> <loc>https://learn-anything.xyz/software/tooling/web-tools/</loc> </url>
 <url> <loc>https://learn-anything.xyz/software/tooling/</loc> </url>
 <url> <loc>https://learn-anything.xyz/software/web-applications/</loc> </url>
 <url> <loc>https://learn-anything.xyz/software/</loc> </url>
@@ -1766,7 +1771,8 @@
 <url> <loc>https://learn-anything.xyz/space-science/</loc> </url>
 <url> <loc>https://learn-anything.xyz/systems-theory/cybernetics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/systems-theory/</loc> </url>
-<url> <loc>https://learn-anything.xyz/virtual-reality/aframe/</loc> </url>
+<url> <loc>https://learn-anything.xyz/virtual-reality/webvr/aframe/</loc> </url>
+<url> <loc>https://learn-anything.xyz/virtual-reality/webvr/</loc> </url>
 <url> <loc>https://learn-anything.xyz/virtual-reality/</loc> </url>
 <url> <loc>https://learn-anything.xyz/web-development/ajax/</loc> </url>
 <url> <loc>https://learn-anything.xyz/web-development/backend/laravel/</loc> </url>

@@ -11,11 +11,11 @@
         {
           "text": "awesome",
           "url": "https://github.com/aloisdg/awesome-regex",
-          "fx": 185.95100446969013,
+          "fx": 206.95100446969013,
           "fy": -283.4920610475146,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ],
       "category": "wiki"
@@ -23,75 +23,75 @@
     {
       "text": "help",
       "url": "",
-      "fx": 34.83991527557373,
-      "fy": -157.97926330566406,
+      "fx": 69.11725902557373,
+      "fy": -152.76832580566406,
       "nodes": [
         {
           "text": "regex101",
           "note": "test your regular expressions interactively",
           "url": "https://regex101.com/",
-          "fx": 171.83991527557373,
-          "fy": -211.47926330566406,
+          "fx": 210.11725902557373,
+          "fy": -211.76832580566406,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "regex crossword",
           "url": "https://regexcrossword.com/",
-          "fx": 171.83991527557373,
-          "fy": -177.47926330566406,
+          "fx": 210.11725902557373,
+          "fy": -174.76832580566406,
           "nodes": [],
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "regular expression cheat sheet",
           "url": "http://regexlib.com/(X(1)A(2CWF2KXUX7c9221yJq7Bv0iaffj5UBl227yDw6UG255ueG8Lup6BWQSn7TxJtU0w2Gj2tFhxuYS_OMmTxjw9lHGh78-5T94_oHYMy-XKbR3CwS2l_p5v-i6-6np-vdcK4AxqP-DAxQXWViuZZs2Pn-RyxOMx3wpNIegAnYJO8b0GBv_JmVn5fIFfRvwPMt7L0))/CheatSheet.aspx?AspxAutoDetectCookieSupport=1",
-          "fx": 171.83991527557373,
-          "fy": -143.47926330566406,
+          "fx": 210.11725902557373,
+          "fy": -137.76832580566406,
           "nodes": [],
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "regex golf",
           "url": "https://alf.nu/RegexGolf",
-          "fx": 171.83991527557373,
-          "fy": -109.47926330566406,
+          "fx": 210.11725902557373,
+          "fy": -100.76832580566406,
           "nodes": [],
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "RegExr",
           "url": "http://regexr.com/",
-          "fx": 171.83991527557373,
-          "fy": -75.47926330566406,
+          "fx": 210.11725902557373,
+          "fy": -63.76832580566406,
           "nodes": [],
-          "color": "rgba(209, 21, 88, 1.0)"
+          "color": "rgba(255, 254, 60, 1.0)"
         }
       ]
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 57.695515422076596,
-      "fy": -8.716720779229718,
+      "fx": 130.1916091720766,
+      "fy": 36.22077922077028,
       "nodes": [
         {
           "text": "07: regular expression matching can be simple and fast  ️",
           "url": "https://swtch.com/~rsc/regexp/regexp1.html",
-          "fx": 219.6955154220766,
-          "fy": -39.21672077922972,
+          "fx": 299.1916091720766,
+          "fy": 2.7207792207702823,
           "nodes": [],
           "category": "article",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "12: how google code search worked  ️",
           "url": "https://swtch.com/%7Ersc/regexp/regexp4.html",
-          "fx": 219.6955154220766,
-          "fy": 22.783279220770282,
+          "fx": 299.1916091720766,
+          "fy": 69.72077922077028,
           "nodes": [],
           "category": "article",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     },
@@ -99,33 +99,42 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -111.00370154442749,
-      "fy": 139.27457281831028,
+      "fx": -176.03495154442749,
+      "fy": 263.7862915683103,
       "nodes": [
+        {
+          "text": "1. understanding and using regular expressions",
+          "url": "https://www.youtube.com/watch?v=_6QBBT9Sq1U",
+          "fx": 12.965048455572514,
+          "fy": 193.28629156831028,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
         {
           "text": "1. regex tutorial",
           "url": "http://www.rexegg.com/",
-          "fx": 70.99629845557251,
-          "fy": 116.77457281831028,
+          "fx": 12.965048455572514,
+          "fy": 260.2862915683103,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "1. 30 minute regex tutorial",
           "url": "https://www.codeproject.com/articles/9099/the-minute-regex-tutorial",
-          "fx": 70.99629845557251,
-          "fy": 150.77457281831028,
+          "fx": 12.965048455572514,
+          "fy": 297.2862915683103,
           "nodes": [],
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "2. mastering regular expressions",
           "url": "http://www.goodreads.com/book/show/583628.Mastering_Regular_Expressions",
-          "fx": 70.99629845557251,
-          "fy": 184.77457281831028,
+          "fx": 12.965048455572514,
+          "fy": 334.2862915683103,
           "nodes": [],
           "category": "non-free book",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     }
@@ -135,24 +144,24 @@
       "source": "regular expressions",
       "target": "basics",
       "curve": {
-        "x": -22.9774,
-        "y": 218.382
+        "x": -55.493,
+        "y": 280.638
       }
     },
     {
       "source": "help",
       "target": "regular expressions",
       "curve": {
-        "x": -37.9442,
-        "y": -69.7565
+        "x": -55.0829,
+        "y": -72.362
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -17.6778,
-        "y": -74.6313
+        "x": -36.7872,
+        "y": -94.4946
       }
     }
   ]

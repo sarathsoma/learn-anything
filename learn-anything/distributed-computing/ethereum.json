@@ -164,8 +164,8 @@
     {
       "text": "solidity  ️",
       "url": "/programming/programming-languages/solidity",
-      "fx": -539.8299455841571,
-      "fy": -210.54081563902128,
+      "fx": -483.2808183319049,
+      "fy": -173.11119852190427,
       "nodes": [],
       "category": "mindmap"
     },
@@ -175,6 +175,14 @@
       "fx": -335.66106516937646,
       "fy": -169.91933605347845,
       "nodes": []
+    },
+    {
+      "text": "smart contracts  ️",
+      "url": "/distributed-computing/ethereum/smart-contracts",
+      "fx": -707.7760140394375,
+      "fy": -170.40798691190014,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -198,8 +206,8 @@
       "source": "basics",
       "target": "solidity  ️",
       "curve": {
-        "x": -94.729,
-        "y": 49.0669
+        "x": -66.4544,
+        "y": 67.7817
       }
     },
     {
@@ -216,6 +224,14 @@
       "curve": {
         "x": -115.669,
         "y": -84.8952
+      }
+    },
+    {
+      "source": "basics",
+      "target": "smart contracts  ️",
+      "curve": {
+        "x": -197.943,
+        "y": 46.6787
       }
     }
   ]

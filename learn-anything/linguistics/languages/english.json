@@ -39,7 +39,7 @@
           "text": "lingualeo",
           "url": "https://lingualeo.com/chooselanguage?returnUrl=",
           "fx": 178.65720942982455,
-          "fy": -22.564692982458723,
+          "fy": -39.56469298245872,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         },
@@ -47,9 +47,17 @@
           "text": "gude to grammar &amp; writing",
           "url": "http://grammar.ccc.commnet.edu/grammar/",
           "fx": 178.65720942982455,
-          "fy": 11.435307017541277,
+          "fy": -5.564692982458723,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "thesaurus",
+          "url": "http://www.thesaurus.com/",
+          "fx": 178.65720942982455,
+          "fy": 28.435307017541277,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     },

@@ -196,90 +196,90 @@
       ]
     },
     {
-      "text": "long short term memory  ️",
-      "url": "/machine-learning/neural-networks/long-short-term-memory",
-      "fx": -822.2489922273041,
-      "fy": 252.36951694313223,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "biases  ️",
-      "url": "/machine-learning/neural-networks/biases",
-      "fx": -695.2887516285381,
-      "fy": 338.4923505455024,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "activation functions  ️",
-      "url": "/machine-learning/neural-networks/activation-functions",
-      "fx": -758.0496578839883,
-      "fy": 413.48913836367853,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "generative adversarial networks  ️",
-      "url": "/machine-learning/neural-networks/generative-adversarial-networks",
-      "fx": -804.050176832411,
-      "fy": 481.0388199336944,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "sequence to sequence learning  ️",
-      "url": "/machine-learning/neural-networks/sequence-to-sequence-learning",
-      "fx": 234.99977902853698,
-      "fy": 490.2077258373886,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
       "text": "feedforward neural network  ️",
       "url": "/machine-learning/neural-networks/feedforward-neural-network",
-      "fx": -686.8180296156141,
-      "fy": 578.1284348018585,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "dropout  ️",
-      "url": "/machine-learning/neural-networks/dropout",
-      "fx": 208.20292251829073,
-      "fy": 624.8243096972269,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "convolutional neural networks  ️",
-      "url": "/machine-learning/neural-networks/convolutional-neural-networks",
-      "fx": -551.9335119459364,
-      "fy": 675.225106859964,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "relation networks  ️",
-      "url": "/machine-learning/neural-networks/relation-networks",
-      "fx": 124.06096268374313,
-      "fy": 712.2847409896168,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "backpropagation  ️",
-      "url": "/machine-learning/neural-networks/backpropagation",
-      "fx": -14.694883740137811,
-      "fy": 790.7287210131449,
+      "fx": -55.02804799796684,
+      "fy": 447.94116458127064,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "recurrent neural networks  ️",
       "url": "/machine-learning/neural-networks/recurrent-neural-networks",
-      "fx": -343.8448537947643,
-      "fy": 807.4484628344339,
+      "fx": -828.4381442359338,
+      "fy": 465.64584334913957,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "generative adversarial networks  ️",
+      "url": "/machine-learning/neural-networks/generative-adversarial-networks",
+      "fx": -486.6140555088814,
+      "fy": 467.7001250807534,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "activation functions  ️",
+      "url": "/machine-learning/neural-networks/activation-functions",
+      "fx": -1112.1420377843522,
+      "fy": 469.3906144534842,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "biases  ️",
+      "url": "/machine-learning/neural-networks/biases",
+      "fx": -1265.1554691090303,
+      "fy": 472.751210156609,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "convolutional neural networks  ️",
+      "url": "/machine-learning/neural-networks/convolutional-neural-networks",
+      "fx": -1646.1488152547531,
+      "fy": 474.20258847761056,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "backpropagation  ️",
+      "url": "/machine-learning/neural-networks/backpropagation",
+      "fx": -1900.442815725431,
+      "fy": 476.47090851314533,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "long short term memory  ️",
+      "url": "/machine-learning/neural-networks/long-short-term-memory",
+      "fx": -2227.855609874356,
+      "fy": 480.6323845901908,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "sequence to sequence learning  ️",
+      "url": "/machine-learning/neural-networks/sequence-to-sequence-learning",
+      "fx": -2521.7651744169348,
+      "fy": 470.09849750294416,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "relation networks  ️",
+      "url": "/machine-learning/neural-networks/relation-networks",
+      "fx": -2788.4126148712944,
+      "fy": 487.32516777821115,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "dropout  ️",
+      "url": "/machine-learning/neural-networks/dropout",
+      "fx": -2953.549615322015,
+      "fy": 487.60512272516917,
       "nodes": [],
       "category": "mindmap"
     }
@@ -302,22 +302,6 @@
       }
     },
     {
-      "source": "basics",
-      "target": "recurrent neural networks  ️",
-      "curve": {
-        "x": -178.999,
-        "y": 370.206
-      }
-    },
-    {
-      "source": "basics",
-      "target": "convolutional neural networks  ️",
-      "curve": {
-        "x": -243.762,
-        "y": 304.089
-      }
-    },
-    {
       "source": "papers",
       "target": "help",
       "curve": {
@@ -337,72 +321,88 @@
       "source": "basics",
       "target": "feedforward neural network  ️",
       "curve": {
-        "x": -317.705,
-        "y": 248.041
-      }
-    },
-    {
-      "source": "basics",
-      "target": "backpropagation  ️",
-      "curve": {
-        "x": -36.4248,
-        "y": 389.324
+        "x": 3.68951,
+        "y": 190.948
       }
     },
     {
       "source": "basics",
       "target": "generative adversarial networks  ️",
       "curve": {
-        "x": -367.321,
-        "y": 199.497
+        "x": -186.853,
+        "y": 193.578
       }
     },
     {
       "source": "basics",
-      "target": "relation networks  ️",
+      "target": "recurrent neural networks  ️",
       "curve": {
-        "x": 15.8128,
-        "y": 344.645
-      }
-    },
-    {
-      "source": "basics",
-      "target": "dropout  ️",
-      "curve": {
-        "x": 46.7918,
-        "y": 307.46
+        "x": -381.516,
+        "y": 192.551
       }
     },
     {
       "source": "basics",
       "target": "activation functions  ️",
       "curve": {
-        "x": -371.821,
-        "y": 165.722
+        "x": -620.418,
+        "y": 180.564
       }
     },
     {
       "source": "basics",
       "target": "biases  ️",
       "curve": {
-        "x": -362.191,
-        "y": 129.474
+        "x": -833.91,
+        "y": 150.646
+      }
+    },
+    {
+      "source": "basics",
+      "target": "convolutional neural networks  ️",
+      "curve": {
+        "x": -994.309,
+        "y": 166.585
+      }
+    },
+    {
+      "source": "basics",
+      "target": "backpropagation  ️",
+      "curve": {
+        "x": -1166,
+        "y": 107.946
       }
     },
     {
       "source": "basics",
       "target": "long short term memory  ️",
       "curve": {
-        "x": -389.421,
-        "y": 85.1626
+        "x": -1333.93,
+        "y": 122.259
       }
     },
     {
       "source": "basics",
       "target": "sequence to sequence learning  ️",
       "curve": {
-        "x": 73.1624,
-        "y": 246.929
+        "x": -1714.22,
+        "y": 150.551
+      }
+    },
+    {
+      "source": "basics",
+      "target": "relation networks  ️",
+      "curve": {
+        "x": -1733.08,
+        "y": 41.1436
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dropout  ️",
+      "curve": {
+        "x": -2174.39,
+        "y": 167.412
       }
     }
   ]

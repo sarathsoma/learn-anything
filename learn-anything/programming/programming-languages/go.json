@@ -492,14 +492,14 @@
     {
       "text": "talks",
       "url": "",
-      "fx": 626.4518615326017,
-      "fy": 551.4145457352399,
+      "fx": 627.933343014083,
+      "fy": 555.1500781426473,
       "nodes": [
         {
           "text": "15: go proverbs - Rob Pike",
           "url": "https://www.youtube.com/watch?v=PAAkCSZUG1c&amp;feature=youtu.be",
-          "fx": 769.4518615326017,
-          "fy": 530.4145457352399,
+          "fx": 770.933343014083,
+          "fy": 500.6500781426473,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -507,11 +507,20 @@
         {
           "text": "15: simplicity is complicated - Rob Pike",
           "url": "https://www.youtube.com/watch?v=rFejpH_tAHM",
-          "fx": 769.4518615326017,
-          "fy": 572.4145457352399,
+          "fx": 770.933343014083,
+          "fy": 542.6500781426473,
           "nodes": [],
           "category": "video",
           "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "16: Rob Pike - the design of the go assembler",
+          "url": "https://www.youtube.com/watch?v=KINIAgRpkDA",
+          "fx": 770.933343014083,
+          "fy": 609.6500781426473,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
@@ -519,13 +528,13 @@
       "text": "interesting",
       "url": "",
       "fx": 676.6817306404398,
-      "fy": 756.7399768890737,
+      "fy": 766.6850000372215,
       "nodes": [
         {
           "text": "go at Google",
           "url": "https://talks.golang.org/2012/splash.article",
           "fx": 875.6817306404398,
-          "fy": 717.2399768890737,
+          "fy": 727.1850000372215,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
@@ -533,7 +542,7 @@
           "text": "",
           "url": "",
           "fx": 875.6817306404398,
-          "fy": 754.2399768890737,
+          "fy": 764.1850000372215,
           "nodes": [],
           "color": "rgba(0, 224, 161, 1.0)"
         },
@@ -541,7 +550,7 @@
           "text": "towards go 2  ️",
           "url": "https://blog.golang.org/toward-go2",
           "fx": 875.6817306404398,
-          "fy": 821.2399768890737,
+          "fy": 831.1850000372215,
           "nodes": [],
           "category": "article",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -594,8 +603,8 @@
       "source": "talks",
       "target": "articles",
       "curve": {
-        "x": -66.6054,
-        "y": -326.989
+        "x": -67.3461,
+        "y": -328.857
       }
     },
     {
@@ -610,8 +619,8 @@
       "source": "interesting",
       "target": "talks",
       "curve": {
-        "x": -37.865,
-        "y": -102.663
+        "x": -37.1243,
+        "y": -105.768
       }
     }
   ]

@@ -45,8 +45,8 @@
       "fy": -66.34163459438804,
       "nodes": [
         {
-          "text": "1. why Reason",
-          "url": "http://facebook.github.io/reason/#why-reason",
+          "text": "1. get started",
+          "url": "https://reasonml.github.io/guide/getting-started/",
           "fx": 135.81905207082298,
           "fy": -51.84163459438804,
           "nodes": [],

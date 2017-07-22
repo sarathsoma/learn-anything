@@ -61,6 +61,14 @@
           "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
+    },
+    {
+      "text": "veganism  ️",
+      "url": "/philosophy/ethics/veganism",
+      "fx": -68.13527062247681,
+      "fy": 85.7348606617445,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -78,6 +86,14 @@
       "curve": {
         "x": -48.9402,
         "y": -56.0792
+      }
+    },
+    {
+      "source": "basics",
+      "target": "veganism  ️",
+      "curve": {
+        "x": -55.0374,
+        "y": 63.9861
       }
     }
   ]

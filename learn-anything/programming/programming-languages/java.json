@@ -143,16 +143,16 @@
           "note": "is really good intro to OOP and Java",
           "url": "http://mooc.fi/courses/2013/programming-part-1/",
           "fx": -32.07687153456334,
-          "fy": 38.689551699336675,
+          "fy": 51.189551699336675,
           "nodes": [],
           "category": "course",
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "1. programming methodology",
-          "url": "http://web.stanford.edu/class/cs106a/lectures.shtml",
+          "url": "https://see.stanford.edu/Course/CS106A",
           "fx": -32.07687153456334,
-          "fy": 105.68955169933668,
+          "fy": 118.18955169933668,
           "nodes": [],
           "category": "course",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -161,7 +161,7 @@
           "text": "1. programming by doing",
           "url": "http://www.programmingbydoing.com/",
           "fx": -32.07687153456334,
-          "fy": 172.68955169933668,
+          "fy": 160.18955169933668,
           "nodes": [],
           "category": "course",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -170,7 +170,7 @@
           "text": "2. effective java",
           "url": "https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide",
           "fx": -32.07687153456334,
-          "fy": 214.68955169933668,
+          "fy": 202.18955169933668,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -179,7 +179,7 @@
           "text": "2. java concurrency in practice",
           "url": "https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice",
           "fx": -32.07687153456334,
-          "fy": 256.6895516993367,
+          "fy": 244.18955169933668,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(255, 254, 60, 1.0)"

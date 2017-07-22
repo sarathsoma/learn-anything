@@ -32,14 +32,14 @@
     {
       "text": "help",
       "url": "",
-      "fx": -1.0479025840759277,
-      "fy": -795.0106201171875,
+      "fx": -3.0417590141296387,
+      "fy": -796.2139282226562,
       "nodes": [
         {
           "text": "awesome deep learning papers",
           "url": "https://github.com/terryum/awesome-deep-learning-papers",
-          "fx": 139.95209741592407,
-          "fy": -987.0106201171875,
+          "fx": 137.95824098587036,
+          "fy": -988.2139282226562,
           "nodes": [],
           "category": "github",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -47,8 +47,8 @@
         {
           "text": "essential cheat sheets  ️",
           "url": "https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5",
-          "fx": 139.95209741592407,
-          "fy": -920.0106201171875,
+          "fx": 137.95824098587036,
+          "fy": -921.2139282226562,
           "nodes": [],
           "category": "article",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -56,8 +56,8 @@
         {
           "text": "awesome deep learning resources",
           "url": "https://github.com/guillaume-chevalier/awesome-deep-learning-resources",
-          "fx": 139.95209741592407,
-          "fy": -878.0106201171875,
+          "fx": 137.95824098587036,
+          "fy": -879.2139282226562,
           "nodes": [],
           "category": "github",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -66,8 +66,8 @@
           "text": "deep review",
           "note": "collaboratively written review paper on deep learning, genomics, and precision medicine",
           "url": "https://greenelab.github.io/deep-review/",
-          "fx": 139.95209741592407,
-          "fy": -811.0106201171875,
+          "fx": 137.95824098587036,
+          "fy": -812.2139282226562,
           "nodes": [],
           "category": "paper",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -75,16 +75,16 @@
         {
           "text": "deep learning software slide",
           "url": "http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf",
-          "fx": 139.95209741592407,
-          "fy": -769.0106201171875,
+          "fx": 137.95824098587036,
+          "fy": -770.2139282226562,
           "nodes": [],
           "color": "rgba(255, 254, 60, 1.0)"
         },
         {
           "text": "open source deep learning curriculum  ️",
           "url": "http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum/",
-          "fx": 139.95209741592407,
-          "fy": -732.0106201171875,
+          "fx": 137.95824098587036,
+          "fy": -733.2139282226562,
           "nodes": [],
           "category": "article",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -92,16 +92,16 @@
         {
           "text": "on the computational complexity of deep learning",
           "url": "http://lear.inrialpes.fr/workshop/osl2015/slides/osl2015_shalev_shwartz.pdf",
-          "fx": 139.95209741592407,
-          "fy": -665.0106201171875,
+          "fx": 137.95824098587036,
+          "fy": -666.2139282226562,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "deep learning summaries and notes",
           "url": "https://github.com/dennybritz/deeplearning-papernotes",
-          "fx": 139.95209741592407,
-          "fy": -603.0106201171875,
+          "fx": 137.95824098587036,
+          "fy": -604.2139282226562,
           "nodes": [],
           "category": "github",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -126,14 +126,14 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 370.0414733886719,
-      "fy": -368.0263671875,
+      "fx": 372.0351867675781,
+      "fy": -366.8230209350586,
       "nodes": [
         {
           "text": "16: why randomness is important for deep learning  ️",
           "url": "http://blog.evjang.com/2016/07/randomness-deep-learning.html",
-          "fx": 539.0414733886719,
-          "fy": -614.5263671875,
+          "fx": 541.0351867675781,
+          "fy": -634.3230209350586,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -141,8 +141,8 @@
         {
           "text": "16: what product breakthroughs will recent advances in deep learning enable?  ️",
           "url": "http://blog.evjang.com/2016/07/what-product-breakthroughs-will-recent.html",
-          "fx": 539.0414733886719,
-          "fy": -547.5263671875,
+          "fx": 541.0351867675781,
+          "fy": -567.3230209350586,
           "nodes": [],
           "category": "article",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -150,8 +150,8 @@
         {
           "text": "17: everything that works works because it's bayesian: why deep nets generalize?  ️",
           "url": "http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/",
-          "fx": 539.0414733886719,
-          "fy": -431.5263671875,
+          "fx": 541.0351867675781,
+          "fy": -451.3230209350586,
           "nodes": [],
           "category": "article",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -159,8 +159,8 @@
         {
           "text": "17: deep learning  ️",
           "url": "https://www.technologyreview.com/s/513696/deep-learning/",
-          "fx": 539.0414733886719,
-          "fy": -339.5263671875,
+          "fx": 541.0351867675781,
+          "fy": -359.3230209350586,
           "nodes": [],
           "category": "article",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -168,8 +168,8 @@
         {
           "text": "17: zero to one  ️",
           "url": "https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9",
-          "fx": 539.0414733886719,
-          "fy": -297.5263671875,
+          "fx": 541.0351867675781,
+          "fy": -317.3230209350586,
           "nodes": [],
           "category": "article",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -177,8 +177,8 @@
         {
           "text": "17: deep learning and virtual tense machines  ️",
           "url": "https://zigasajovic.github.io/Deep-Learning-and-Virtual-Tensor-Machines/",
-          "fx": 539.0414733886719,
-          "fy": -255.5263671875,
+          "fx": 541.0351867675781,
+          "fy": -275.3230209350586,
           "nodes": [],
           "category": "article",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -186,8 +186,8 @@
         {
           "text": "17: activation functions its types - which is better?  ️",
           "url": "https://medium.com/towards-data-science/activation-functions-and-its-types-which-is-better-a9a5310cc8f",
-          "fx": 539.0414733886719,
-          "fy": -188.5263671875,
+          "fx": 541.0351867675781,
+          "fy": -208.3230209350586,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -195,11 +195,20 @@
         {
           "text": "17: when not to use deep learning  ️",
           "url": "http://hyperparameter.space/blog/when-not-to-use-deep-learning/",
-          "fx": 539.0414733886719,
-          "fy": -121.5263671875,
+          "fx": 541.0351867675781,
+          "fy": -141.3230209350586,
           "nodes": [],
           "category": "article",
           "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "17: the future of deep learning  ️",
+          "url": "https://blog.keras.io/the-future-of-deep-learning.html",
+          "fx": 541.0351867675781,
+          "fy": -74.3230209350586,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
@@ -350,14 +359,14 @@
     {
       "text": "talks",
       "url": "",
-      "fx": 547.2817461737268,
-      "fy": 19.759144404838707,
+      "fx": 546.5571084925673,
+      "fy": 70.57153118020074,
       "nodes": [
         {
           "text": "15: how to learn an algorithm",
           "url": "https://www.youtube.com/watch?v=mF5-tr7qAF4&amp;feature=youtu.be",
-          "fx": 690.2817461737268,
-          "fy": -26.240855595161293,
+          "fx": 689.5571084925673,
+          "fy": 24.571531180200736,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -365,8 +374,8 @@
         {
           "text": "13: deep learning, self-taught learning and unsupervised feature learning",
           "url": "https://www.youtube.com/watch?v=n1ViNeWhC24",
-          "fx": 690.2817461737268,
-          "fy": 40.75914440483871,
+          "fx": 689.5571084925673,
+          "fy": 91.57153118020074,
           "nodes": [],
           "category": "video",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -384,14 +393,14 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 641.2789494976614,
-      "fy": 195.30869851784473,
+      "fx": 638.9833199686764,
+      "fy": 244.42554634393196,
       "nodes": [
         {
           "text": "the terrible deep learning list",
           "url": "https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List",
-          "fx": 840.2789494976614,
-          "fy": 207.80869851784473,
+          "fx": 837.9833199686764,
+          "fy": 256.92554634393196,
           "nodes": [],
           "category": "github",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -420,8 +429,8 @@
       "source": "help",
       "target": "deep learning",
       "curve": {
-        "x": -73.3327,
-        "y": -141.376
+        "x": -72.3358,
+        "y": -140.774
       }
     },
     {
@@ -436,16 +445,16 @@
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -257.378,
-        "y": -169.247
+        "x": -259.372,
+        "y": -170.45
       }
     },
     {
       "source": "talks",
       "target": "articles",
       "curve": {
-        "x": -145.43,
-        "y": -141.488
+        "x": -144.071,
+        "y": -166.293
       }
     },
     {
@@ -468,8 +477,8 @@
       "source": "interesting",
       "target": "talks",
       "curve": {
-        "x": -59.7486,
-        "y": -87.7749
+        "x": -58.9631,
+        "y": -86.9271
       }
     }
   ]

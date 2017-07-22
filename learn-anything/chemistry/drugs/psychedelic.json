@@ -33,14 +33,14 @@
     {
       "text": "help",
       "url": "",
-      "fx": 431.37145863666206,
-      "fy": -180.40767921377176,
+      "fx": 402.3545684814453,
+      "fy": -214.469970703125,
       "nodes": [
         {
           "text": "psychoactive substance index",
           "url": "https://psychonautwiki.org/wiki/Psychoactive_substance_index",
-          "fx": 568.371458636662,
-          "fy": -245.90767921377176,
+          "fx": 539.3545684814453,
+          "fy": -296.969970703125,
           "nodes": [],
           "category": "wiki",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -48,8 +48,8 @@
         {
           "text": "psychedelic drug research",
           "url": "https://www.reddit.com/r/ShrugLifeSyndicate/comments/69p6qo/old_human_trial_of_lsd/",
-          "fx": 568.371458636662,
-          "fy": -205.90767921377176,
+          "fx": 539.3545684814453,
+          "fy": -256.969970703125,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -57,8 +57,8 @@
         {
           "text": "16: psychedelics",
           "url": "http://pharmrev.aspetjournals.org/content/68/2/264.long",
-          "fx": 568.371458636662,
-          "fy": -165.90767921377176,
+          "fx": 539.3545684814453,
+          "fy": -216.969970703125,
           "nodes": [],
           "category": "paper",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -66,8 +66,8 @@
         {
           "text": "big list of hallucinogens",
           "url": "https://www.reddit.com/r/researchchemicals/comments/616ed2/the_great_big_list_of_every_hallucinogen_that_has/",
-          "fx": 568.371458636662,
-          "fy": -125.90767921377176,
+          "fx": 539.3545684814453,
+          "fy": -176.969970703125,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -75,24 +75,32 @@
         {
           "text": "psychonaut wiki",
           "url": "https://psychonautwiki.org/wiki/Main_Page",
-          "fx": 568.371458636662,
-          "fy": -85.90767921377176,
+          "fx": 539.3545684814453,
+          "fy": -136.969970703125,
           "nodes": [],
           "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "psychedelic support manual",
+          "url": "http://psychsitter.com/",
+          "fx": 539.3545684814453,
+          "fy": -102.969970703125,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 615.7163616336315,
-      "fy": 36.76174507611165,
+      "fx": 695.0883995262357,
+      "fy": 65.37980583122192,
       "nodes": [
         {
           "text": "psychedelic information theory",
           "url": "http://psychedelic-information-theory.com/toc.php",
-          "fx": 806.7163616336315,
-          "fy": -84.73825492388835,
+          "fx": 886.0883995262357,
+          "fy": -56.120194168778085,
           "nodes": [],
           "category": "free book",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -100,8 +108,8 @@
         {
           "text": "17: Roland Griffiths, Ph.D. on psilocybin, psychedelic therapies &amp; mystical experiences",
           "url": "https://www.youtube.com/watch?v=rkBq33KWFmY",
-          "fx": 806.7163616336315,
-          "fy": -44.73825492388835,
+          "fx": 886.0883995262357,
+          "fy": -16.120194168778085,
           "nodes": [],
           "category": "video",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -109,8 +117,8 @@
         {
           "text": "psychedelic symmetrical texture repetition",
           "url": "https://www.youtube.com/watch?v=El7kyjyz6qY",
-          "fx": 806.7163616336315,
-          "fy": 39.26174507611165,
+          "fx": 886.0883995262357,
+          "fy": 67.87980583122192,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -118,8 +126,8 @@
         {
           "text": "psychedelic replications",
           "url": "http://imgur.com/a/ep7CH",
-          "fx": 806.7163616336315,
-          "fy": 101.26174507611165,
+          "fx": 886.0883995262357,
+          "fy": 129.87980583122192,
           "nodes": [],
           "category": "image",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -127,8 +135,8 @@
         {
           "text": "psychedelic art",
           "url": "http://imgur.com/a/9yOpt",
-          "fx": 806.7163616336315,
-          "fy": 141.26174507611165,
+          "fx": 886.0883995262357,
+          "fy": 169.87980583122192,
           "nodes": [],
           "category": "image",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -136,8 +144,8 @@
         {
           "text": "trippy art",
           "url": "http://imgur.com/a/auarM",
-          "fx": 806.7163616336315,
-          "fy": 181.26174507611165,
+          "fx": 886.0883995262357,
+          "fy": 209.87980583122192,
           "nodes": [],
           "category": "image",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -254,14 +262,14 @@
     {
       "text": "experiences",
       "url": "",
-      "fx": 764.63179599575,
-      "fy": 289.16303864992096,
+      "fx": 794.4952532029574,
+      "fy": 293.85757693820926,
       "nodes": [
         {
           "text": "doors of perception",
           "url": "http://psychedelicfrontier.com/wp-content/uploads/2013/05/The-Doors-Of-Perception-Aldous-Huxley.pdf",
-          "fx": 971.63179599575,
-          "fy": 300.66303864992096,
+          "fx": 1001.4952532029574,
+          "fy": 305.35757693820926,
           "nodes": [],
           "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -307,8 +315,8 @@
       "source": "help",
       "target": "psychedelic drugs",
       "curve": {
-        "x": -129.858,
-        "y": -96.6237
+        "x": -115.35,
+        "y": -79.5926
       }
     },
     {
@@ -371,8 +379,8 @@
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -146.183,
-        "y": -108.585
+        "x": -239.479,
+        "y": -138.986
       }
     },
     {
@@ -411,8 +419,8 @@
       "source": "experiences",
       "target": "interesting",
       "curve": {
-        "x": -98.8899,
-        "y": -122.558
+        "x": -74.1356,
+        "y": -110.596
       }
     },
     {

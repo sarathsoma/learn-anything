@@ -5,22 +5,22 @@
     {
       "text": "stimulants",
       "url": "http://www.wikiwand.com/en/Stimulant",
-      "fx": -156.18477746212125,
-      "fy": -327.3904277146464,
+      "fx": -143.88181839132483,
+      "fy": -494.3428613429652,
       "nodes": [],
       "category": "wiki"
     },
     {
-      "text": "basics",
+      "text": "interesting",
       "url": "",
-      "fx": -129.91963452459345,
-      "fy": -216.70994673397695,
+      "fx": 52.086594585114995,
+      "fy": -390.2244563846359,
       "nodes": [
         {
-          "text": "1. your brain on coffee",
-          "url": "https://www.youtube.com/watch?v=4YOwEqGykDM",
-          "fx": 26.080365475406552,
-          "fy": -205.20994673397695,
+          "text": "17: placebo stimulants make you think you're performing better",
+          "url": "https://www.youtube.com/watch?v=VB2YTgonB88",
+          "fx": 243.086594585115,
+          "fy": -389.7244563846359,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -28,45 +28,45 @@
       ]
     },
     {
-      "text": "caffeine",
-      "url": "https://psychonautwiki.org/wiki/Caffeine",
-      "fx": -79.3395669463257,
-      "fy": -95.07903787939858,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
       "text": "amphetamines  ️",
       "url": "/chemistry/drugs/stimulants/amphetamines",
-      "fx": -306.3633303717859,
-      "fy": -93.80544155521659,
+      "fx": -314.5871965222285,
+      "fy": -282.67435748442017,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "caffeine  ️",
+      "url": "/chemistry/drugs/stimulants/caffeine",
+      "fx": -92.75812336225499,
+      "fy": -282.14001686169956,
       "nodes": [],
       "category": "mindmap"
     }
   ],
   "connections": [
     {
-      "source": "stimulants",
-      "target": "basics",
+      "source": "interesting",
+      "target": "stimulants",
       "curve": {
-        "x": -2.61743,
-        "y": 54.0902
+        "x": -90.9842,
+        "y": -50.8092
       }
     },
     {
-      "source": "basics",
+      "source": "stimulants",
       "target": "amphetamines  ️",
       "curve": {
-        "x": -61.9719,
-        "y": 62.7023
+        "x": -74.8527,
+        "y": 105.834
       }
     },
     {
-      "source": "basics",
-      "target": "caffeine",
+      "source": "stimulants",
+      "target": "caffeine  ️",
       "curve": {
-        "x": 35.54,
-        "y": 62.0655
+        "x": 20.0618,
+        "y": 106.101
       }
     }
   ]

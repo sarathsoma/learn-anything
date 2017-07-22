@@ -5,13 +5,13 @@
     {
       "text": "statistics",
       "url": "http://www.wikiwand.com/en/Statistics",
-      "fx": 66.54406006575857,
+      "fx": 67.04406006575857,
       "fy": -624.1901376203961,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/statistics/",
-          "fx": 272.5440600657586,
+          "fx": 272.0440600657586,
           "fy": -630.1901376203961,
           "nodes": [],
           "category": "reddit",
@@ -20,7 +20,7 @@
         {
           "text": "️",
           "url": "https://stats.stackexchange.com/",
-          "fx": 272.5440600657586,
+          "fx": 272.0440600657586,
           "fy": -590.1901376203961,
           "nodes": [],
           "category": "stack exchange",
@@ -137,7 +137,7 @@
           "note": "visual introduction to probability and statistics",
           "url": "http://students.brown.edu/seeing-theory/",
           "fx": 174.65950178915864,
-          "fy": -170.65771626944797,
+          "fy": -139.65771626944797,
           "nodes": [],
           "category": "interactive",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -146,7 +146,7 @@
           "text": "1. statistics 110: probability",
           "url": "http://projects.iq.harvard.edu/stat110/youtube",
           "fx": 174.65950178915864,
-          "fy": -130.65771626944797,
+          "fy": -99.65771626944797,
           "nodes": [],
           "category": "course",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -155,25 +155,16 @@
           "text": "1. an introduction to statistical learning",
           "url": "http://www-bcf.usc.edu/%7Egareth/ISL/index.html",
           "fx": 174.65950178915864,
-          "fy": -90.65771626944797,
+          "fy": -59.657716269447974,
           "nodes": [],
           "category": "free book",
           "color": "rgba(49, 187, 71, 1.0)"
         },
         {
-          "text": "",
-          "url": "https://statweb.stanford.edu/%7Etibs/ElemStatLearn/",
-          "fx": 174.65950178915864,
-          "fy": -28.657716269447974,
-          "nodes": [],
-          "category": "free book",
-          "color": "rgba(175, 54, 242, 1.0)"
-        },
-        {
           "text": "2. statistics notes  ️",
           "url": "http://frnsys.com/ai_notes/foundations/statistics.html",
           "fx": 174.65950178915864,
-          "fy": 33.342283730552026,
+          "fy": 2.342283730552026,
           "nodes": [],
           "category": "article",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -182,7 +173,7 @@
           "text": "2. statistics done wrong",
           "url": "https://www.statisticsdonewrong.com/",
           "fx": 174.65950178915864,
-          "fy": 73.34228373055203,
+          "fy": 42.342283730552026,
           "nodes": [],
           "category": "free book",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -191,7 +182,7 @@
           "text": "2. intermediate statistics",
           "url": "https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF",
           "fx": 174.65950178915864,
-          "fy": 113.34228373055203,
+          "fy": 82.34228373055203,
           "nodes": [],
           "category": "video",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -200,7 +191,7 @@
           "text": "3. notes on probabilistic graphical models",
           "url": "https://ermongroup.github.io/cs228-notes/",
           "fx": 174.65950178915864,
-          "fy": 153.34228373055203,
+          "fy": 122.34228373055203,
           "nodes": [],
           "category": "course",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -232,9 +223,9 @@
       "category": "mindmap"
     },
     {
-      "text": "multivariable statistics",
+      "text": "multivariate statistics",
       "url": "http://www.wikiwand.com/en/Multivariate_statistics",
-      "fx": -2263.086511785333,
+      "fx": -2258.086511785333,
       "fy": 313.37665696577596,
       "nodes": [],
       "category": "wiki"
@@ -325,7 +316,7 @@
       "source": "statistics",
       "target": "basics",
       "curve": {
-        "x": -49.4422,
+        "x": -49.6922,
         "y": 306.266
       }
     },
@@ -333,7 +324,7 @@
       "source": "help",
       "target": "statistics",
       "curve": {
-        "x": -70.2369,
+        "x": -69.9869,
         "y": -93.7696
       }
     },
@@ -427,9 +418,9 @@
     },
     {
       "source": "basics",
-      "target": "multivariable statistics",
+      "target": "multivariate statistics",
       "curve": {
-        "x": -1371.41,
+        "x": -1368.91,
         "y": 85.1202
       }
     },

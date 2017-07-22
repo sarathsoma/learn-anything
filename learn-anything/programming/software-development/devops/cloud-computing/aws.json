@@ -5,14 +5,14 @@
     {
       "text": "aws",
       "url": "http://www.wikiwand.com/en/Amazon_Web_Services",
-      "fx": -36.03582763671875,
-      "fy": -139.72162000868062,
+      "fx": -16.39774002988088,
+      "fy": -233.1711392394498,
       "nodes": [
         {
           "text": "",
           "url": "https://aws.amazon.com/",
-          "fx": 127.96417236328125,
-          "fy": -165.72162000868062,
+          "fx": 147.60225997011912,
+          "fy": -259.1711392394498,
           "nodes": [],
           "category": "",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -20,8 +20,8 @@
         {
           "text": "",
           "url": "https://www.reddit.com/r/aws/",
-          "fx": 127.96417236328125,
-          "fy": -125.72162000868062,
+          "fx": 147.60225997011912,
+          "fy": -219.1711392394498,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -29,8 +29,8 @@
         {
           "text": "awesome",
           "url": "https://github.com/donnemartin/awesome-aws",
-          "fx": 127.96417236328125,
-          "fy": -85.72162000868062,
+          "fx": 147.60225997011912,
+          "fy": -179.1711392394498,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -41,22 +41,22 @@
     {
       "text": "help",
       "url": "",
-      "fx": 53.25072662009518,
-      "fy": 23.382553803911037,
+      "fx": 89.34691295065647,
+      "fy": -76.40983473847757,
       "nodes": [
         {
           "text": "use of formal methods at amazon web services",
           "url": "http://glat.info/pdf/formal-methods-amazon-2014-11.pdf",
-          "fx": 190.25072662009518,
-          "fy": -13.117446196088963,
+          "fx": 226.34691295065647,
+          "fy": -112.90983473847757,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         },
         {
           "text": "local aws cloud stack",
           "url": "https://github.com/atlassian/localstack",
-          "fx": 190.25072662009518,
-          "fy": 42.88255380391104,
+          "fx": 226.34691295065647,
+          "fy": -56.90983473847757,
           "nodes": [],
           "category": "github",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -64,8 +64,8 @@
         {
           "text": "aws security primer  ️",
           "url": "https://cloudonaut.io/aws-security-primer/#fnref:1",
-          "fx": 190.25072662009518,
-          "fy": 82.88255380391104,
+          "fx": 226.34691295065647,
+          "fy": -16.90983473847757,
           "nodes": [],
           "category": "article",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -73,17 +73,33 @@
       ]
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 218.98664503831128,
+      "fy": 62.86104244656042,
+      "nodes": [
+        {
+          "text": "aws free tier",
+          "url": "https://aws.amazon.com/free/",
+          "fx": 409.9866450383113,
+          "fy": 77.36104244656042,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -78.71264870961511,
-      "fy": 193.28168982046634,
+      "fx": -204.86115298311938,
+      "fy": 121.64039708542373,
       "nodes": [
         {
           "text": "1. aws in plain english",
           "url": "https://www.expeditedssl.com/aws-in-plain-english",
-          "fx": 103.28735129038489,
-          "fy": 207.78168982046634,
+          "fx": -22.861152983119382,
+          "fy": 136.14039708542373,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         }
@@ -92,8 +108,8 @@
     {
       "text": "aws lambda  ️",
       "url": "/programming/software-development/devops/cloud-computing/aws/aws-lambda",
-      "fx": -195.22408992686155,
-      "fy": 328.11759266954766,
+      "fx": -261.87740189267345,
+      "fy": 245.16820698578715,
       "nodes": [],
       "category": "mindmap"
     }
@@ -103,24 +119,32 @@
       "source": "help",
       "target": "aws",
       "curve": {
-        "x": -37.8932,
-        "y": -80.3021
+        "x": -46.1222,
+        "y": -77.1307
       }
     },
     {
       "source": "aws",
       "target": "basics",
       "curve": {
-        "x": -23.3384,
-        "y": 165.252
+        "x": -96.2317,
+        "y": 176.156
       }
     },
     {
       "source": "basics",
       "target": "aws lambda  ️",
       "curve": {
-        "x": -51.7558,
-        "y": 67.4179
+        "x": -22.0082,
+        "y": 61.7639
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -114.852,
+        "y": -65.1816
       }
     }
   ]

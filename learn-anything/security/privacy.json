@@ -6,20 +6,20 @@
       "text": "privacy",
       "note": "",
       "url": "http://www.wikiwand.com/en/Privacy",
-      "fx": -46.72072764616439,
-      "fy": -626.4973460341727,
+      "fx": -84.26258032473572,
+      "fy": -664.9704208109584,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/privacy/",
-          "fx": 170.2792723538356,
-          "fy": -612.4973460341727,
+          "fx": 132.73741967526428,
+          "fy": -650.9704208109584,
           "nodes": [
             {
               "text": "wiki",
               "url": "https://www.reddit.com/r/privacy/wiki/index",
-              "fx": 280.2792723538356,
-              "fy": -612.4973460341727,
+              "fx": 242.73741967526428,
+              "fy": -650.9704208109584,
               "nodes": [],
               "category": "reddit",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -34,14 +34,14 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 86.71584763653163,
-      "fy": -509.2311197543923,
+      "fx": 74.19143357403163,
+      "fy": -545.8836030133208,
       "nodes": [
         {
           "text": "16: what information security best practices does spideroak recommend?  ️",
           "url": "https://spideroak.com/infosec",
-          "fx": 248.71584763653163,
-          "fy": -539.7311197543922,
+          "fx": 236.19143357403163,
+          "fy": -576.3836030133208,
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -49,8 +49,8 @@
         {
           "text": "17: build a better monster  ️",
           "url": "http://idlewords.com/talks/build_a_better_monster.htm",
-          "fx": 248.71584763653163,
-          "fy": -455.7311197543923,
+          "fx": 236.19143357403163,
+          "fy": -492.3836030133209,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -60,33 +60,66 @@
     {
       "text": "help",
       "url": "",
-      "fx": 231.09124461993088,
-      "fy": -391.3254328415465,
+      "fx": 234.89286292350175,
+      "fy": -402.5698524844036,
       "nodes": [
         {
           "text": "privacy tools",
           "url": "https://privacytoolsio.github.io/privacytools.io/",
-          "fx": 368.0912446199309,
-          "fy": -376.8254328415465,
+          "fx": 371.89286292350175,
+          "fy": -425.0698524844036,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "DuckDuckGo blog  ️",
+          "url": "https://spreadprivacy.com/@duckduckgo",
+          "fx": 371.89286292350175,
+          "fy": -391.0698524844036,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "terms of service didn’t read",
+          "url": "https://tosdr.org/",
+          "fx": 371.89286292350175,
+          "fy": -351.0698524844036,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
         }
       ]
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -22.52048399389787,
-      "fy": -317.821169969522,
+      "fx": -81.52229760996966,
+      "fy": -255.0840047909502,
       "nodes": [
         {
           "text": "1. they’re watching you",
           "url": "https://www.youtube.com/watch?v=tabVaoeNtdk",
-          "fx": 133.47951600610213,
-          "fy": -306.321169969522,
+          "fx": 74.47770239003034,
+          "fy": -277.5840047909502,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. are you anonymous?",
+          "url": "http://www.nothingprivate.ml/",
+          "fx": 74.47770239003034,
+          "fy": -237.5840047909502,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. click click click",
+          "url": "https://clickclickclick.click/#5f76447702ed27638dc3f3d08a66b72c",
+          "fx": 74.47770239003034,
+          "fy": -203.5840047909502,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     },
@@ -331,8 +364,8 @@
       "source": "articles",
       "target": "privacy",
       "curve": {
-        "x": -59.4683,
-        "y": -57.3831
+        "x": -71.9771,
+        "y": -58.2934
       }
     },
     {
@@ -433,8 +466,8 @@
       "source": "help",
       "target": "articles",
       "curve": {
-        "x": -65.9376,
-        "y": -58.9528
+        "x": -74.1007,
+        "y": -71.6569
       }
     },
     {
@@ -537,16 +570,16 @@
       "source": "privacy",
       "target": "basics",
       "curve": {
-        "x": -3.14988,
-        "y": 153.088
+        "x": -13.8798,
+        "y": 203.693
       }
     },
     {
       "source": "basics",
       "target": "invading privacy",
       "curve": {
-        "x": -59.309,
-        "y": 104.995
+        "x": -29.8081,
+        "y": 73.6264
       }
     }
   ]

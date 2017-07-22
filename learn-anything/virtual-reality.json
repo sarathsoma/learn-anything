@@ -135,18 +135,18 @@
       ]
     },
     {
-      "text": "unity  ️",
-      "url": "/game-development/game-engines/unity",
-      "fx": 64.28599559583768,
-      "fy": 323.180085708276,
+      "text": "WebVR  ️",
+      "url": "/virtual-reality/webvr",
+      "fx": -69.49148266856582,
+      "fy": 329.81954831433995,
       "nodes": [],
       "category": "mindmap"
     },
     {
-      "text": "A-Frame  ️",
-      "url": "/virtual-reality/aframe",
-      "fx": -96.09833969530212,
-      "fy": 324.9092393005904,
+      "text": "unity  ️",
+      "url": "/game-development/game-engines/unity",
+      "fx": 75.32703914080821,
+      "fy": 331.9707724198995,
       "nodes": [],
       "category": "mindmap"
     }
@@ -161,14 +161,6 @@
       }
     },
     {
-      "source": "basics",
-      "target": "A-Frame  ️",
-      "curve": {
-        "x": -63.4579,
-        "y": 70.1508
-      }
-    },
-    {
       "source": "help",
       "target": "virtual reality",
       "curve": {
@@ -180,8 +172,8 @@
       "source": "basics",
       "target": "unity  ️",
       "curve": {
-        "x": 7.73432,
-        "y": 69.2862
+        "x": 13.2548,
+        "y": 73.6815
       }
     },
     {
@@ -190,6 +182,14 @@
       "curve": {
         "x": -21.3222,
         "y": -89.6134
+      }
+    },
+    {
+      "source": "basics",
+      "target": "WebVR  ️",
+      "curve": {
+        "x": -52.6544,
+        "y": 72.606
       }
     }
   ]
