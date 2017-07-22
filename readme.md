@@ -33,7 +33,7 @@ Each node with a link has an emoji attached to show where this node leads on the
 
 Just search for what you wish to learn or [simply explore](https://learn-anything.xyz/learn-anything).
   
-If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can [help improve it](https://github.com/nikitavoloboev/learn-anything#contributing--). 
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it by clicking the *'impove this mindmap'* button in the bottom rght. 
 
 The search engine is also [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙
 
