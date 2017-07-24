@@ -16,12 +16,12 @@
 		<img src="https://img.shields.io/pypi/l/pipenv.svg">
 	</a>
   <a href="https://learn-anything.xyz/learn-anything">
-    <img width="900" heigth="900" src="http://i.imgur.com/xJG2RXs.png">
+    <img width="900" heigth="900" src="https://raw.githubusercontent.com/nikitavoloboev/img/master/images/LA.png?token=AGGH4N5S1OzQbYSSgrELtkxKNo0pWx96ks5ZfvylwA%3D%3D">
   </a>
   <br>
   <br>
   </div>
-  <p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/LA.gif?token=AGGH4LQsFjCLS6H-GvBuaFw9XzQ3HCIyks5ZcSlJwA%3D%3D" alt="img" width="600"></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/LA.gif?token=AGGH4DTOf7OAGbDNT803pCm5majufu0Iks5ZfvlBwA%3D%3D" alt="img" width="600"></p>
   </div>
   
   
