@@ -1,0 +1,138 @@
+{
+  "title": "learn anything - programming - programming languages - assembly - WebAssembly",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "WebAssembly",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/WebAssembly",
+      "fx": -105.37109375,
+      "fy": -145.21010283119654,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/WebAssembly/",
+          "fx": 176.62890625,
+          "fy": -151.21010283119654,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/mbasso/awesome-wasm",
+          "fx": 176.62890625,
+          "fy": -111.21010283119654,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 96.91579390623463,
+      "fy": 3.0768492896592647,
+      "nodes": [
+        {
+          "text": "bringing the web up to speed with WebAssembly",
+          "url": "https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf",
+          "fx": 233.91579390623463,
+          "fy": -47.423150710340735,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "what makes WebAssembly fast?  ️",
+          "url": "https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/",
+          "fx": 233.91579390623463,
+          "fy": 14.576849289659265,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "game of life implemented in WebAssembly",
+          "url": "https://github.com/blaze33/way-of-life",
+          "fx": 233.91579390623463,
+          "fy": 54.576849289659265,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 216.96986607141798,
+      "fy": 184.23586309523796,
+      "nodes": [
+        {
+          "text": "17: compiling for the web with webassembly",
+          "url": "https://www.youtube.com/watch?v=6v4E6oksar0",
+          "fx": 356.969866071418,
+          "fy": 184.73586309523796,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -58.713131486569296,
+      "fy": 317.16669528388,
+      "nodes": [
+        {
+          "text": "1. intro to WebAssembly  ️",
+          "url": "https://www.codelitt.com/blog/web-assembly/",
+          "fx": 97.2868685134307,
+          "fy": 308.66669528388,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. get started using WebAssembly",
+          "url": "https://egghead.io/courses/get-started-using-webassembly-wasm",
+          "fx": 97.2868685134307,
+          "fy": 348.66669528388,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "WebAssembly",
+      "curve": {
+        "x": -71.3934,
+        "y": -72.8935
+      }
+    },
+    {
+      "source": "WebAssembly",
+      "target": "basics",
+      "curve": {
+        "x": -8.17101,
+        "y": 229.939
+      }
+    },
+    {
+      "source": "talks",
+      "target": "help",
+      "curve": {
+        "x": -75.6505,
+        "y": -89.5862
+      }
+    }
+  ]
+}

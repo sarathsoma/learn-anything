@@ -1,0 +1,208 @@
+{
+  "title": "learn anything - web development - browsers - safari",
+  "tag": "safari browser",
+  "nodes": [
+    {
+      "text": "safari",
+      "url": "http://www.wikiwand.com/en/Safari_(web_browser)",
+      "fx": 52.050175317325966,
+      "fy": -388.68395316082496,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 58.98574071129235,
+      "fy": -246.73486492553457,
+      "nodes": [
+        {
+          "text": "1. develop safari extensions",
+          "url": "https://developer.apple.com/library/content/documentation/Tools/Conceptual/SafariExtensionGuide/Introduction/Introduction.html",
+          "fx": 214.98574071129235,
+          "fy": -232.23486492553457,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "extensions",
+      "url": "https://github.com/nikitavoloboev/my-mac-os#browser-",
+      "fx": 238.98361182211897,
+      "fy": 158.50962776360814,
+      "nodes": [
+        {
+          "text": "sVim",
+          "url": "https://github.com/flipxfx/sVim",
+          "fx": 462.983611822119,
+          "fy": -134.49037223639186,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "adguard",
+          "url": "https://adguard.com/en/adblock-adguard-safari.html",
+          "fx": 462.983611822119,
+          "fy": -94.49037223639186,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "wikiwand",
+          "url": "http://www.wikiwand.com/",
+          "fx": 462.983611822119,
+          "fy": -60.49037223639186,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "nightlight",
+          "url": "https://github.com/Gofake1/Nightlight",
+          "fx": 462.983611822119,
+          "fy": -26.490372236391863,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "alientube",
+          "url": "https://github.com/mabako/alientube",
+          "fx": 462.983611822119,
+          "fy": 13.509627763608137,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "stylish",
+          "url": "http://sobolev.us/stylish/",
+          "fx": 462.983611822119,
+          "fy": 53.50962776360814,
+          "nodes": [],
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "octotree",
+          "url": "https://github.com/buunguyen/octotree",
+          "fx": 462.983611822119,
+          "fy": 87.50962776360814,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "refined github safari",
+          "url": "https://github.com/fantattitude/refined-github-safari",
+          "fx": 462.983611822119,
+          "fy": 127.50962776360814,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "RES",
+          "url": "https://github.com/honestbleeps/Reddit-Enhancement-Suite",
+          "fx": 462.983611822119,
+          "fy": 167.50962776360814,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "hckrnews",
+          "url": "https://hckrnews.com/about.html#extensions",
+          "fx": 462.983611822119,
+          "fy": 207.50962776360814,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "sessions",
+          "url": "https://sessions-extension.github.io/Sessions/",
+          "fx": 462.983611822119,
+          "fy": 241.50962776360814,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "social fixer",
+          "url": "http://socialfixer.com/download.html",
+          "fx": 462.983611822119,
+          "fy": 275.50962776360814,
+          "nodes": [],
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "disconnect",
+          "url": "https://disconnect.me/",
+          "fx": 462.983611822119,
+          "fy": 309.50962776360814,
+          "nodes": [],
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "betterTTV",
+          "url": "http://nightdev.com/betterttv/",
+          "fx": 462.983611822119,
+          "fy": 343.50962776360814,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "noMoreiTunes",
+          "url": "http://nomoreitunes.einserver.de/",
+          "fx": 462.983611822119,
+          "fy": 377.50962776360814,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "reddit comments",
+          "url": "http://safariextendr.com/extension/reddit-comments",
+          "fx": 462.983611822119,
+          "fy": 411.50962776360814,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "JSON formatter",
+          "url": "https://github.com/rfletcher/safari-json-formatter",
+          "fx": 462.983611822119,
+          "fy": 445.50962776360814,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "shellfish",
+          "url": "http://open-bits.com/shellfish/",
+          "fx": 462.983611822119,
+          "fy": 485.50962776360814,
+          "nodes": [],
+          "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ],
+      "category": "github"
+    }
+  ],
+  "connections": [
+    {
+      "source": "safari",
+      "target": "basics",
+      "curve": {
+        "x": -1.28222,
+        "y": 69.7245
+      }
+    },
+    {
+      "source": "basics",
+      "target": "extensions",
+      "curve": {
+        "x": 106.999,
+        "y": 203.872
+      }
+    }
+  ]
+}

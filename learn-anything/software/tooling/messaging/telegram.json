@@ -1,0 +1,66 @@
+{
+  "title": "learn anything - software - tooling - messaging - telegram",
+  "tag": "telegram messenger",
+  "nodes": [
+    {
+      "text": "telegram",
+      "url": "http://www.wikiwand.com/en/Telegram_(messaging_service)",
+      "fx": -28.69921875,
+      "fy": -308.453125,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "bots  ️",
+      "url": "/software/bots",
+      "fx": -69.26171875,
+      "fy": -191.484375,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/DenisIzmaylov/awesome-telegram-bots",
+          "fx": 96.73828125,
+          "fy": -177.484375,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -75.3515625,
+      "fy": -66.9609375,
+      "nodes": [
+        {
+          "text": "1. introduction for developers",
+          "url": "",
+          "fx": 80.6484375,
+          "fy": -52.4609375,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "telegram",
+      "target": "bots  ️",
+      "curve": {
+        "x": -37.0312,
+        "y": 57.2344
+      }
+    },
+    {
+      "source": "bots  ️",
+      "target": "basics",
+      "curve": {
+        "x": 1.20508,
+        "y": 62.2617
+      }
+    }
+  ]
+}

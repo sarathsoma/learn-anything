@@ -1,0 +1,164 @@
+{
+  "title": "learn anything - mathematics - linear algebra - vectors",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "Euclidean vectors",
+      "url": "http://www.wikiwand.com/en/Euclidean_vector",
+      "fx": 66.88095643785255,
+      "fy": -153.5462947421604,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 124.43608749263831,
+      "fy": -10.162031077851964,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "http://natureofcode.com/book/chapter-1-vectors/",
+          "fx": 280.4360874926383,
+          "fy": -58.662031077851964,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. what are vectors?",
+          "url": "https://www.youtube.com/watch?v=ml4NSzCQobk",
+          "fx": 280.4360874926383,
+          "fy": -18.662031077851964,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. intro to vectors",
+          "url": "http://immersivemath.com/ila/ch02_vectors/ch02.html",
+          "fx": 280.4360874926383,
+          "fy": 21.337968922148036,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. vectors - the math of intelligence",
+          "url": "https://www.youtube.com/watch?v=s0Q3CojqRfM",
+          "fx": 280.4360874926383,
+          "fy": 61.337968922148036,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "dot product  ️",
+      "url": "/mathematics/linear-algebra/vectors/dot-product",
+      "fx": -42.66049642539281,
+      "fy": 149.92129039760596,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "vector space  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space",
+      "fx": 151.19780685240949,
+      "fy": 152.9462305752752,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "vector norms  ️",
+      "url": "/mathematics/linear-algebra/norm",
+      "fx": -445.28721618652344,
+      "fy": 153.75390625,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "cross product  ️",
+      "url": "/mathematics/linear-algebra/vectors/cross-product",
+      "fx": -247.77734375,
+      "fy": 154.6875,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "orthonormality",
+      "url": "http://www.wikiwand.com/en/Orthonormality",
+      "fx": -653.4606568113771,
+      "fy": 155.76758982035938,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "orthonormal basis  ️",
+      "url": "/mathematics/linear-algebra/vectors/orthonormal-basis",
+      "fx": -769.65625,
+      "fy": 275.79296875,
+      "nodes": [],
+      "category": "mindmap"
+    }
+  ],
+  "connections": [
+    {
+      "source": "Euclidean vectors",
+      "target": "basics",
+      "curve": {
+        "x": -1.47244,
+        "y": 70.4421
+      }
+    },
+    {
+      "source": "basics",
+      "target": "vector space  ️",
+      "curve": {
+        "x": 28.1309,
+        "y": 81.5542
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dot product  ️",
+      "curve": {
+        "x": -71.2983,
+        "y": 80.0417
+      }
+    },
+    {
+      "source": "basics",
+      "target": "cross product  ️",
+      "curve": {
+        "x": -200.083,
+        "y": 60.6201
+      }
+    },
+    {
+      "source": "basics",
+      "target": "vector norms  ️",
+      "curve": {
+        "x": -290.468,
+        "y": 41.5947
+      }
+    },
+    {
+      "source": "basics",
+      "target": "orthonormality",
+      "curve": {
+        "x": -479.726,
+        "y": 32.4843
+      }
+    },
+    {
+      "source": "orthonormality",
+      "target": "orthonormal basis  ️",
+      "curve": {
+        "x": -49.8478,
+        "y": 60.0127
+      }
+    }
+  ]
+}

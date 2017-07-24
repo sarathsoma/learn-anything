@@ -1,0 +1,123 @@
+{
+  "title": "learn anything - programming - programming languages - javascript - npm",
+  "tag": "npm package manager",
+  "nodes": [
+    {
+      "text": "npm",
+      "url": "https://github.com/npm/npm",
+      "fx": 45.43530868902428,
+      "fy": -376.64958079268297,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/parro-it/awesome-micro-npm-packages",
+          "fx": 213.43530868902428,
+          "fy": -362.64958079268297,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "github"
+    },
+    {
+      "text": "awesome packages",
+      "url": "",
+      "fx": 158.89910442073176,
+      "fy": -271.3298399390244,
+      "nodes": [
+        {
+          "text": "delightful npm packages",
+          "url": "https://github.com/feross/awesome-mad-science",
+          "fx": 438.89910442073176,
+          "fy": -279.8298399390244,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "maintenance modules",
+          "url": "https://github.com/maxogden/maintenance-modules",
+          "fx": 438.89910442073176,
+          "fy": -239.8298399390244,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "find packages",
+      "url": "",
+      "fx": 429.7940105670019,
+      "fy": -142.36883817108105,
+      "nodes": [
+        {
+          "text": "npms",
+          "url": "https://npms.io/",
+          "fx": 654.7940105670019,
+          "fy": -127.86883817108105,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 39.766876220703125,
+      "fy": -125.62467002868652,
+      "nodes": [
+        {
+          "text": "1. what is npm?",
+          "url": "https://docs.npmjs.com/getting-started/what-is-npm",
+          "fx": 195.76687622070312,
+          "fy": -111.12467002868652,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "npm scripts",
+      "url": "https://docs.npmjs.com/misc/scripts",
+      "fx": 127.29913372296119,
+      "fy": 10.696283792789586,
+      "nodes": []
+    }
+  ],
+  "connections": [
+    {
+      "source": "awesome packages",
+      "target": "npm",
+      "curve": {
+        "x": -84.7319,
+        "y": -51.4099
+      }
+    },
+    {
+      "source": "npm",
+      "target": "basics",
+      "curve": {
+        "x": -5.83421,
+        "y": 124.262
+      }
+    },
+    {
+      "source": "find packages",
+      "target": "awesome packages",
+      "curve": {
+        "x": -127.924,
+        "y": -58.8903
+      }
+    },
+    {
+      "source": "basics",
+      "target": "npm scripts",
+      "curve": {
+        "x": 56.0161,
+        "y": 68.1605
+      }
+    }
+  ]
+}

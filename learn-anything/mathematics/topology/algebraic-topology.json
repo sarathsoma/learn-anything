@@ -1,0 +1,83 @@
+{
+  "title": "learn anything - mathematics - topology - algebraic topology",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "algebraic topology",
+      "url": "http://www.wikiwand.com/en/Algebraic_topology",
+      "fx": -69.0546875,
+      "fy": -302.171875,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -13.021252858492176,
+      "fy": -173.8079806800106,
+      "nodes": [
+        {
+          "text": "1. introduction to algebraic topology",
+          "url": "https://www.youtube.com/watch?v=kdpbfOzkJzI",
+          "fx": 168.97874714150782,
+          "fy": -193.3079806800106,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. algebraic topology",
+          "url": "http://www.maths.ed.ac.uk/~aar/papers/diecktop.pdf",
+          "fx": 168.97874714150782,
+          "fy": -131.3079806800106,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "homology  ️",
+      "url": "/mathematics/topology/algebraic-topology/homology",
+      "fx": -213.79251903244074,
+      "fy": -48.74894116309724,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "homotopy theory  ️",
+      "url": "/mathematics/topology/algebraic-topology/homotopy-theory",
+      "fx": -38.57055664062443,
+      "fy": -48.162981305803555,
+      "nodes": [],
+      "category": "mindmap"
+    }
+  ],
+  "connections": [
+    {
+      "source": "algebraic topology",
+      "target": "basics",
+      "curve": {
+        "x": -6.23329,
+        "y": 62.9319
+      }
+    },
+    {
+      "source": "basics",
+      "target": "homology  ️",
+      "curve": {
+        "x": -105.896,
+        "y": 71.9894
+      }
+    },
+    {
+      "source": "basics",
+      "target": "homotopy theory  ️",
+      "curve": {
+        "x": 4.97535,
+        "y": 62.8225
+      }
+    }
+  ]
+}

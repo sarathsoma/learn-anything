@@ -1,0 +1,73 @@
+{
+  "title": "learn anything - data science - data processing - apache spark - pyspark",
+  "tag": "PySpark",
+  "nodes": [
+    {
+      "text": "PySpark",
+      "url": "",
+      "fx": 122.56721895973146,
+      "fy": -322.79226090604016,
+      "nodes": []
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 213.0888213087244,
+      "fy": -234.08326342281975,
+      "nodes": [
+        {
+          "text": "awesome tutorials",
+          "url": "https://github.com/mahmoudparsian/pyspark-tutorial",
+          "fx": 350.0888213087244,
+          "fy": -222.58326342281975,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 112.73240667381549,
+      "fy": -123.85336220504439,
+      "nodes": [
+        {
+          "text": "1. basics of PySpark",
+          "url": "https://github.com/mahmoudparsian/pyspark-tutorial/blob/master/howto/README.md",
+          "fx": 268.7324066738155,
+          "fy": -129.3533622050444,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. key differences in the python API",
+          "url": "https://spark.apache.org/docs/0.9.0/python-programming-guide.html",
+          "fx": 268.7324066738155,
+          "fy": -89.35336220504439,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "PySpark",
+      "curve": {
+        "x": -37.0108,
+        "y": -44.3545
+      }
+    },
+    {
+      "source": "PySpark",
+      "target": "basics",
+      "curve": {
+        "x": -8.41741,
+        "y": 99.4694
+      }
+    }
+  ]
+}

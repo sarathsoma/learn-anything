@@ -1,0 +1,55 @@
+{
+  "title": "learn anything - web development - static site generators - hugo",
+  "tag": "hugo static generator",
+  "nodes": [
+    {
+      "text": "hugo",
+      "url": "https://github.com/spf13/hugo",
+      "fx": 2.0396471429379517,
+      "fy": -128.99389689019378,
+      "nodes": [],
+      "category": "github"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 2.7760528032598586,
+      "fy": -14.237028567441655,
+      "nodes": [
+        {
+          "text": "1. intro to hugo",
+          "url": "https://gohugo.io/overview/introduction/",
+          "fx": 158.77605280325986,
+          "fy": 0.262971432558345,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "hugo themes",
+      "url": "https://themes.gohugo.io/",
+      "fx": -122.07715654073411,
+      "fy": 100.28233665189447,
+      "nodes": []
+    }
+  ],
+  "connections": [
+    {
+      "source": "hugo",
+      "target": "basics",
+      "curve": {
+        "x": -3.8818,
+        "y": 56.1284
+      }
+    },
+    {
+      "source": "basics",
+      "target": "hugo themes",
+      "curve": {
+        "x": -47.1766,
+        "y": 57.2597
+      }
+    }
+  ]
+}

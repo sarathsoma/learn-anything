@@ -1,0 +1,101 @@
+{
+  "title": "learn anything - programming - programming languages - sql",
+  "tag": "SQL",
+  "nodes": [
+    {
+      "text": "SQL",
+      "url": "http://www.wikiwand.com/en/SQL",
+      "fx": -55,
+      "fy": -204.97265625,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/SQL/",
+          "fx": 112,
+          "fy": -190.97265625,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 52.93843460083008,
+      "fy": -117.88249683380127,
+      "nodes": [
+        {
+          "text": "awesome SQL",
+          "url": "https://github.com/danhuss/awesome-sql",
+          "fx": 189.93843460083008,
+          "fy": -106.38249683380127,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -59.71877904236317,
+      "fy": -13.94272232055664,
+      "nodes": [
+        {
+          "text": "1. SQL the hard way",
+          "url": "https://learncodethehardway.org/sql/",
+          "fx": 122.28122095763683,
+          "fy": -19.44272232055664,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. SQL tutorial",
+          "url": "https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/",
+          "fx": 122.28122095763683,
+          "fy": 20.55727767944336,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "SQL injections  ️",
+      "url": "/programming/programming-languages/sql/sql-injections",
+      "fx": -187.10001843657813,
+      "fy": 110.58559181414637,
+      "nodes": [],
+      "category": "mindmap"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "SQL",
+      "curve": {
+        "x": -46.4692,
+        "y": -42.2951
+      }
+    },
+    {
+      "source": "SQL",
+      "target": "basics",
+      "curve": {
+        "x": -5.10939,
+        "y": 94.265
+      }
+    },
+    {
+      "source": "basics",
+      "target": "SQL injections  ️",
+      "curve": {
+        "x": -49.4406,
+        "y": 62.2642
+      }
+    }
+  ]
+}

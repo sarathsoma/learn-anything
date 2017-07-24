@@ -1,0 +1,252 @@
+{
+  "title": "learn anything - more - books - biographies",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "biographies",
+      "url": "",
+      "fx": 515.2901583584871,
+      "fy": 64.45030351118612,
+      "nodes": [
+        {
+          "text": "Steve Jobs",
+          "url": "http://www.wikiwand.com/en/Steve_Jobs",
+          "fx": 729.2901583584871,
+          "fy": -312.5496964888139,
+          "nodes": [
+            {
+              "text": "11: steve jobs",
+              "url": "http://www.goodreads.com/book/show/11084145-steve-jobs",
+              "fx": 931.2901583584871,
+              "fy": -312.5496964888139,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(0, 224, 161, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "Elon Musk",
+          "url": "http://www.wikiwand.com/en/Elon_Musk",
+          "fx": 729.2901583584871,
+          "fy": -245.54969648881388,
+          "nodes": [
+            {
+              "text": "15: elon musk: tesla, spacex, and the quest for a fantastic future",
+              "url": "http://www.goodreads.com/book/show/22543496-elon-musk",
+              "fx": 925.2901583584871,
+              "fy": -270.5496964888139,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(83, 201, 255, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "Napoleon",
+          "url": "http://www.wikiwand.com/en/Napoleon",
+          "fx": 729.2901583584871,
+          "fy": -166.04969648881388,
+          "nodes": [
+            {
+              "text": "1971: napoleon bonaparte: an intimate biography",
+              "url": "http://www.goodreads.com/book/show/22175392-napoleon-bonaparte-an-intimate-biography?rating=1",
+              "fx": 917.2901583584871,
+              "fy": -178.54969648881388,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(255, 254, 60, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "Malcolm X",
+          "url": "http://www.wikiwand.com/en/Malcolm_X",
+          "fx": 729.2901583584871,
+          "fy": -99.04969648881388,
+          "nodes": [
+            {
+              "text": "1965: the autobiography of malcolm x",
+              "url": "http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X",
+              "fx": 924.2901583584871,
+              "fy": -111.54969648881388,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(252, 177, 20, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "Richard Feynman",
+          "url": "http://www.wikiwand.com/en/Richard_Feynman",
+          "fx": 729.2901583584871,
+          "fy": 1.4503035111861209,
+          "nodes": [
+            {
+              "text": "1984: surely you’re joking, Mr. Feynman!",
+              "url": "http://www.earth.northwestern.edu/~amir/files/Richard_P_Feynman-Surely_Youre_Joking_Mr_Feynman_v5.pdf",
+              "fx": 988.2901583584871,
+              "fy": -44.54969648881388,
+              "nodes": [],
+              "category": "free book",
+              "color": "rgba(104, 255, 109, 1.0)"
+            },
+            {
+              "text": "1988: what do you care what other people think?",
+              "url": "https://www.goodreads.com/book/show/5548.What_Do_You_Care_What_Other_People_Think_",
+              "fx": 988.2901583584871,
+              "fy": 22.45030351118612,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(104, 255, 109, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "Robert Moses",
+          "url": "http://www.wikiwand.com/en/Robert_Moses",
+          "fx": 729.2901583584871,
+          "fy": 89.45030351118612,
+          "nodes": [
+            {
+              "text": "1974: the power broker",
+              "url": "http://www.goodreads.com/book/show/1111.The_Power_Broker",
+              "fx": 958.2901583584871,
+              "fy": 89.45030351118612,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(169, 255, 0, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "Srinivasa Ramanujan",
+          "url": "http://www.wikiwand.com/en/Srinivasa_Ramanujan",
+          "fx": 729.2901583584871,
+          "fy": 156.45030351118612,
+          "nodes": [
+            {
+              "text": "1991: the man who knew infinity: a life of the genius ramanujan",
+              "url": "http://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity",
+              "fx": 1019.2901583584871,
+              "fy": 131.45030351118612,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(104, 255, 109, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "Vladimir Nabokov",
+          "url": "http://www.wikiwand.com/en/Vladimir_Nabokov",
+          "fx": 729.2901583584871,
+          "fy": 223.45030351118612,
+          "nodes": [
+            {
+              "text": "1951: speak, memory",
+              "url": "http://www.goodreads.com/book/show/30594.Speak_Memory",
+              "fx": 989.2901583584871,
+              "fy": 223.45030351118612,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(0, 224, 161, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "Marie Curie",
+          "url": "http://www.wikiwand.com/en/Marie_Curie",
+          "fx": 729.2901583584871,
+          "fy": 265.4503035111861,
+          "nodes": [
+            {
+              "text": "01: madame curie: a biography",
+              "url": "http://www.goodreads.com/book/show/341166.Madame_Curie",
+              "fx": 933.2901583584871,
+              "fy": 265.4503035111861,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(83, 201, 255, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "Benjamin Franklin",
+          "url": "http://www.wikiwand.com/en/Benjamin_Franklin",
+          "fx": 729.2901583584871,
+          "fy": 319.9503035111861,
+          "nodes": [
+            {
+              "text": "04: benjamin franklin: an american life",
+              "url": "http://www.goodreads.com/book/show/10883.Benjamin_Franklin",
+              "fx": 989.2901583584871,
+              "fy": 307.4503035111861,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(252, 177, 20, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "Abraham Lincoln",
+          "url": "http://www.wikiwand.com/en/Abraham_Lincoln",
+          "fx": 729.2901583584871,
+          "fy": 386.9503035111861,
+          "nodes": [
+            {
+              "text": "05: team of rivals: the political genius of abraham lincoln",
+              "url": "http://www.goodreads.com/book/show/2199.Team_of_Rivals",
+              "fx": 983.2901583584871,
+              "fy": 374.4503035111861,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(255, 254, 60, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "Albert Einstein",
+          "url": "http://www.wikiwand.com/en/Albert_Einstein",
+          "fx": 729.2901583584871,
+          "fy": 453.9503035111861,
+          "nodes": [
+            {
+              "text": "07: einstein: his life and universe",
+              "url": "http://www.goodreads.com/book/show/10884.Einstein",
+              "fx": 959.2901583584871,
+              "fy": 441.4503035111861,
+              "nodes": [],
+              "category": "non-free book",
+              "color": "rgba(169, 255, 0, 1.0)"
+            }
+          ],
+          "category": "wiki",
+          "color": "rgba(169, 255, 0, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": []
+}

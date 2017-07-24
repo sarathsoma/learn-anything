@@ -1,0 +1,47 @@
+{
+  "title": "learn anything - mathematics - statistics - regression analysis - linear regression",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "linear regression",
+      "url": "http://www.wikiwand.com/en/Linear_regression",
+      "fx": -85.47265625,
+      "fy": -155.2890625,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -34.45703125,
+      "fy": -19.640625,
+      "nodes": []
+    },
+    {
+      "text": "generalised linear models  ️",
+      "url": "/mathematics/statistics/regression-analysis/linear-regression/generalised-linear-models",
+      "fx": -230.17578125,
+      "fy": 103.375,
+      "nodes": [],
+      "category": "mindmap"
+    }
+  ],
+  "connections": [
+    {
+      "source": "linear regression",
+      "target": "basics",
+      "curve": {
+        "x": -3.99219,
+        "y": 66.5742
+      }
+    },
+    {
+      "source": "basics",
+      "target": "generalised linear models  ️",
+      "curve": {
+        "x": -47.8594,
+        "y": 62.7578
+      }
+    }
+  ]
+}

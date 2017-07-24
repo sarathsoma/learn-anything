@@ -1,0 +1,33 @@
+{
+  "title": "learn anything - communication",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "communication",
+      "note": "",
+      "url": "http://www.wikiwand.com/en/Communication",
+      "fx": -162.89676770962137,
+      "fy": -401.4616867414038,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "telecommunication  ️",
+      "url": "/communication/telecommunication",
+      "fx": -281.75133149869964,
+      "fy": -265.8628164101564,
+      "nodes": [],
+      "category": "mindmap"
+    }
+  ],
+  "connections": [
+    {
+      "source": "communication",
+      "target": "telecommunication  ️",
+      "curve": {
+        "x": -57.9273,
+        "y": 67.7994
+      }
+    }
+  ]
+}

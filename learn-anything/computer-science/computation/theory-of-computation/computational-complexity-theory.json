@@ -1,0 +1,118 @@
+{
+  "title": "learn anything - computer science - computation - theory of computation - computational complexity theory",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "computational complexity theory",
+      "url": "http://www.wikiwand.com/en/Computational_complexity_theory",
+      "fx": 5.3671875,
+      "fy": -244.8203125,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 247.0937957763672,
+      "fy": -96.20076089972378,
+      "nodes": [
+        {
+          "text": "14: braid is undecidable",
+          "url": "https://arxiv.org/pdf/1412.0784v1.pdf",
+          "fx": 384,
+          "fy": -156.95503121489406,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "closed timelike curves make quantum and classical computing equivalent",
+          "url": "http://www.scottaaronson.com/papers/ctc.pdf",
+          "fx": 384.0937957763672,
+          "fy": -117.70076089972378,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "15: classic nintendo games are (computationally) hard",
+          "url": "https://arxiv.org/pdf/1203.1895v3.pdf",
+          "fx": 384.0937957763672,
+          "fy": -33.700760899723775,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": 31.929487121688794,
+      "fy": 67.24612167998657,
+      "nodes": [
+        {
+          "text": "1. computational complexity: a modern approach",
+          "url": "http://theory.cs.princeton.edu/complexity/book.pdf",
+          "fx": 213.9294871216888,
+          "fy": 67.74612167998657,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "NP-completeness  ️",
+      "note": "a decision problem is NP-complete when it is both in NP and NP-hard  the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’",
+      "url": "/computer-science/computation/theory-of-computation/computational-complexity-theory/np-completeness",
+      "fx": 54.20063920454572,
+      "fy": 206.2642318618881,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "NP-hardness  ️",
+      "url": "/computer-science/computation/theory-of-computation/computational-complexity-theory/np-hardness",
+      "fx": -159.53693181818187,
+      "fy": 209.94081439393938,
+      "nodes": [],
+      "category": "mindmap"
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "computational complexity theory",
+      "curve": {
+        "x": -71.3633,
+        "y": -66.8098
+      }
+    },
+    {
+      "source": "computational complexity theory",
+      "target": "basics",
+      "curve": {
+        "x": -31.4689,
+        "y": 148.533
+      }
+    },
+    {
+      "source": "basics",
+      "target": "NP-completeness  ️",
+      "curve": {
+        "x": 43.3856,
+        "y": 70.759
+      }
+    },
+    {
+      "source": "basics",
+      "target": "NP-hardness  ️",
+      "curve": {
+        "x": -86.9832,
+        "y": 71.3473
+      }
+    }
+  ]
+}

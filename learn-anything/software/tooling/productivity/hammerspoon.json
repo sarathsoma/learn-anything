@@ -1,0 +1,93 @@
+{
+  "title": "learn anything - software - tooling - productivity - hammerspoon",
+  "tag": "hammerspoon macOS automation",
+  "nodes": [
+    {
+      "text": "hammerspoon",
+      "url": "http://www.hammerspoon.org/",
+      "fx": -103.83053254889285,
+      "fy": -109.00346164185885,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/hammerspoon/",
+          "fx": 126.16946745110715,
+          "fy": -97.50346164185885,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 12.7672441709841,
+      "fy": 6.898881768402305,
+      "nodes": [
+        {
+          "text": "awesome hammerspoon",
+          "url": "https://github.com/ashfinal/awesome-hammerspoon",
+          "fx": 203.7672441709841,
+          "fy": -21.601118231597695,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "Anycomplete",
+          "url": "https://github.com/nathancahill/Anycomplete",
+          "fx": 203.7672441709841,
+          "fy": 18.398881768402305,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "spoons",
+          "url": "https://github.com/Hammerspoon/hammerspoon/blob/master/SPOONS.md#what-is-a-spoon",
+          "fx": 203.7672441709841,
+          "fy": 58.398881768402305,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -116.67170835794627,
+      "fy": 121.9553032910876,
+      "nodes": [
+        {
+          "text": "1. getting started",
+          "url": "http://www.hammerspoon.org/go/",
+          "fx": 65.32829164205373,
+          "fy": 136.4553032910876,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "hammerspoon",
+      "target": "basics",
+      "curve": {
+        "x": -24.9206,
+        "y": 115.479
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "hammerspoon",
+      "curve": {
+        "x": -48.5488,
+        "y": -57.9511
+      }
+    }
+  ]
+}

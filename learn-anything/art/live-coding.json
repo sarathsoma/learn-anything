@@ -1,0 +1,65 @@
+{
+  "title": "learn anything - art - live coding",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "live coding",
+      "url": "http://www.wikiwand.com/en/Live_coding",
+      "fx": 53.37890625,
+      "fy": -94.23046875,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 189.91337839762366,
+      "fy": 14.596035639445006,
+      "nodes": [
+        {
+          "text": "awesome live coding",
+          "url": "https://github.com/lvm/awesome-livecoding",
+          "fx": 326.91337839762366,
+          "fy": 26.096035639445006,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 73.25678777694725,
+      "fy": 101.7176303863526,
+      "nodes": [
+        {
+          "text": "1. what is live coding",
+          "url": "https://toplap.org/about/",
+          "fx": 229.25678777694725,
+          "fy": 116.2176303863526,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "live coding",
+      "curve": {
+        "x": -46.7672,
+        "y": -53.1633
+      }
+    },
+    {
+      "source": "live coding",
+      "target": "basics",
+      "curve": {
+        "x": -6.81106,
+        "y": 96.724
+      }
+    }
+  ]
+}

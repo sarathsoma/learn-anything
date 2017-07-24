@@ -1,0 +1,111 @@
+{
+  "title": "learn anything - computer graphics - digital video - streaming",
+  "tag": "live streaming",
+  "nodes": [
+    {
+      "text": "streaming",
+      "url": "http://www.wikiwand.com/en/Streaming_media",
+      "fx": -65.03041294642867,
+      "fy": -233.7452566964286,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 78.79303633218001,
+      "fy": -121.68025519028612,
+      "nodes": [
+        {
+          "text": "17: lessons from my first year of live coding on Twitch  ️",
+          "url": "https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1",
+          "fx": 247.79303633218,
+          "fy": -121.68025519028612,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "platforms",
+      "url": "",
+      "fx": -49.44587053571422,
+      "fy": -28.87025669647312,
+      "nodes": []
+    },
+    {
+      "text": "youtube",
+      "url": "https://support.google.com/youtube/answer/2474026?hl=en",
+      "fx": -134.8110226362179,
+      "fy": 95.88476562500006,
+      "nodes": []
+    },
+    {
+      "text": "twitch",
+      "url": "https://www.twitch.tv/",
+      "fx": 13.6630859375,
+      "fy": 96.6708984375,
+      "nodes": []
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 9.3447265625,
+      "fy": 233.7998046875,
+      "nodes": [
+        {
+          "text": "1. guide to streaming and finding success on Twitch",
+          "url": "https://www.reddit.com/r/Twitch/comments/4eyva6/a_guide_to_streaming_and_finding_success_on_twitch/",
+          "fx": 172.3447265625,
+          "fy": 233.7998046875,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "streaming",
+      "target": "platforms",
+      "curve": {
+        "x": -1.45773,
+        "y": 101.687
+      }
+    },
+    {
+      "source": "platforms",
+      "target": "youtube",
+      "curve": {
+        "x": -45.4326,
+        "y": 62.3775
+      }
+    },
+    {
+      "source": "platforms",
+      "target": "twitch",
+      "curve": {
+        "x": 23.3045,
+        "y": 62.7706
+      }
+    },
+    {
+      "source": "twitch",
+      "target": "basics",
+      "curve": {
+        "x": -0.65918,
+        "y": 68.5645
+      }
+    },
+    {
+      "source": "articles",
+      "target": "streaming",
+      "curve": {
+        "x": -57.4117,
+        "y": -55.2825
+      }
+    }
+  ]
+}

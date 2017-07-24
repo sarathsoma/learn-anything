@@ -1,0 +1,184 @@
+{
+  "title": "learn anything - more - websites",
+  "tag": "new websites",
+  "nodes": [
+    {
+      "text": "websites",
+      "note": "",
+      "url": "https://github.com/learn-anything/websites",
+      "fx": 47.172018996807765,
+      "fy": -179.36325073242188,
+      "nodes": [
+        {
+          "text": "arxiv",
+          "url": "https://arxiv.org",
+          "fx": 291.17201899680776,
+          "fy": -424.3632507324219,
+          "nodes": [],
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "reddit",
+          "url": "https://www.reddit.com",
+          "fx": 291.17201899680776,
+          "fy": -387.3632507324219,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "quora",
+          "url": "https://www.quora.com/",
+          "fx": 291.17201899680776,
+          "fy": -350.3632507324219,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "lobsters",
+          "url": "https://lobste.rs/",
+          "fx": 291.17201899680776,
+          "fy": -313.3632507324219,
+          "nodes": [],
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "github",
+          "url": "https://github.com/",
+          "fx": 291.17201899680776,
+          "fy": -276.3632507324219,
+          "nodes": [
+            {
+              "text": "trending",
+              "url": "https://github.com/trending",
+              "fx": 449.17201899680776,
+              "fy": -276.3632507324219,
+              "nodes": [],
+              "category": "github",
+              "color": "rgba(252, 177, 20, 1.0)"
+            }
+          ],
+          "category": "github",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "pinboard",
+          "url": "https://pinboard.in/popular/",
+          "fx": 291.17201899680776,
+          "fy": -234.36325073242188,
+          "nodes": [],
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "wiki search",
+          "url": "http://wikisearch.surge.sh/machine%20learning",
+          "fx": 291.17201899680776,
+          "fy": -197.36325073242188,
+          "nodes": [],
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "find lectures",
+          "url": "https://www.findlectures.com/",
+          "fx": 291.17201899680776,
+          "fy": -160.36325073242188,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "hacker news",
+          "url": "http://hckrnews.com/",
+          "fx": 291.17201899680776,
+          "fy": -123.36325073242188,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "scholarpedia",
+          "url": "http://www.scholarpedia.org/article/Main_Page",
+          "fx": 291.17201899680776,
+          "fy": -86.36325073242188,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "product hunt",
+          "url": "https://www.producthunt.com/",
+          "fx": 291.17201899680776,
+          "fy": -49.363250732421875,
+          "nodes": [
+            {
+              "text": "time travel",
+              "url": "https://www.producthunt.com/time-travel",
+              "fx": 480.17201899680776,
+              "fy": -49.363250732421875,
+              "nodes": [],
+              "color": "rgba(83, 201, 255, 1.0)"
+            }
+          ],
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "the economist",
+          "url": "https://www.economist.com/",
+          "fx": 291.17201899680776,
+          "fy": -12.363250732421875,
+          "nodes": [],
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "freecodecamp",
+          "url": "http://freecodecamp.com",
+          "fx": 291.17201899680776,
+          "fy": 24.636749267578125,
+          "nodes": [],
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "quanta magazine",
+          "url": "https://www.quantamagazine.org/",
+          "fx": 291.17201899680776,
+          "fy": 61.636749267578125,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "search awesome lists",
+          "url": "https://ankitgyawali.github.io/awesome-interface/#/search",
+          "fx": 291.17201899680776,
+          "fy": 98.63674926757812,
+          "nodes": [],
+          "color": "rgba(255, 254, 60, 1.0)"
+        }
+      ],
+      "category": "github"
+    },
+    {
+      "text": "find new websites",
+      "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+      "fx": -95.26409884861528,
+      "fy": 186.59585984815078,
+      "nodes": [
+        {
+          "text": "internet is beautiful",
+          "url": "https://www.reddit.com/r/InternetIsBeautiful/",
+          "fx": 213.73590115138472,
+          "fy": 200.59585984815078,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ],
+      "category": "github"
+    }
+  ],
+  "connections": [
+    {
+      "source": "find new websites",
+      "target": "websites",
+      "curve": {
+        "x": 64.7181,
+        "y": -182.98
+      }
+    }
+  ]
+}

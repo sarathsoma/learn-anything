@@ -1,0 +1,160 @@
+{
+  "title": "learn anything - more",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "more",
+      "note": "",
+      "url": "",
+      "fx": -213.8801219825507,
+      "fy": -36.59272622547962,
+      "nodes": [
+        {
+          "text": "talks  ️",
+          "url": "/more/talks",
+          "fx": -38.88012198255069,
+          "fy": -339.0927262254796,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "quora  ️",
+          "url": "/more/quora",
+          "fx": -38.88012198255069,
+          "fy": -297.0927262254796,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "reddit  ️",
+          "url": "/more/reddit",
+          "fx": -38.88012198255069,
+          "fy": -255.09272622547962,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "blogs  ️",
+          "url": "/more/blogs",
+          "fx": -38.88012198255069,
+          "fy": -213.09272622547962,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "books  ️",
+          "url": "/more/books",
+          "fx": -38.88012198255069,
+          "fy": -171.09272622547962,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "quotes  ️",
+          "url": "/more/quotes",
+          "fx": -38.88012198255069,
+          "fy": -129.09272622547962,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "images  ️",
+          "url": "/more/images",
+          "fx": -38.88012198255069,
+          "fy": -87.09272622547962,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "humans  ️",
+          "url": "/more/humans",
+          "fx": -38.88012198255069,
+          "fy": -45.09272622547962,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "courses  ️",
+          "url": "/more/courses",
+          "fx": -38.88012198255069,
+          "fy": -3.0927262254796233,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "tv series  ️",
+          "url": "/more/tv-series",
+          "fx": -38.88012198255069,
+          "fy": 38.90727377452038,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "websites  ️",
+          "url": "/more/websites",
+          "fx": -38.88012198255069,
+          "fy": 80.90727377452038,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(255, 254, 60, 1.0)"
+        },
+        {
+          "text": "podcasts  ️",
+          "url": "/more/podcasts",
+          "fx": -38.88012198255069,
+          "fy": 122.90727377452038,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "newsletters  ️",
+          "url": "/more/newsletters",
+          "fx": -38.88012198255069,
+          "fy": 164.90727377452038,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "documentaries  ️",
+          "url": "/more/documentaries",
+          "fx": -38.88012198255069,
+          "fy": 206.90727377452038,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "research papers  ️",
+          "url": "/more/research-papers",
+          "fx": -38.88012198255069,
+          "fy": 248.90727377452038,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
+          "text": "youtube channels  ️",
+          "url": "/more/youtube-channels",
+          "fx": -38.88012198255069,
+          "fy": 290.9072737745204,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": []
+}

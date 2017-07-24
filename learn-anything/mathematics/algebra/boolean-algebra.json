@@ -1,0 +1,66 @@
+{
+  "title": "learn anything - mathematics - algebra - boolean algebra",
+  "tag": "boolean logic",
+  "nodes": [
+    {
+      "text": "boolean algebra",
+      "url": "http://www.wikiwand.com/en/Boolean_algebra",
+      "fx": -96.40234375,
+      "fy": -176.59765625,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 76.41451452899446,
+      "fy": -87.18410702888542,
+      "nodes": [
+        {
+          "text": "boolean operators: cheat sheet",
+          "url": "https://hsl.lib.umn.edu/biomed/help/boolean-operators",
+          "fx": 213.41451452899446,
+          "fy": -72.68410702888542,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "note": "",
+      "url": "",
+      "fx": -38.37242247100096,
+      "fy": 19.372893191331286,
+      "nodes": [
+        {
+          "text": "1. boolean logic &amp; logic gates",
+          "url": "https://www.youtube.com/watch?v=gI-qXk7XojA",
+          "fx": 143.62757752899904,
+          "fy": 30.872893191331286,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "boolean algebra",
+      "target": "basics",
+      "curve": {
+        "x": 0.0149606,
+        "y": 96.7353
+      }
+    },
+    {
+      "source": "help",
+      "target": "boolean algebra",
+      "curve": {
+        "x": -52.6584,
+        "y": -43.4568
+      }
+    }
+  ]
+}

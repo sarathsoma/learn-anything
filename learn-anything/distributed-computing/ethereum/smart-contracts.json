@@ -1,0 +1,65 @@
+{
+  "title": "learn anything - distributed computing - ethereum - smart contracts",
+  "tag": "ethereum smart contracts",
+  "nodes": [
+    {
+      "text": "smart contracts",
+      "url": "http://www.wikiwand.com/en/Smart_contract",
+      "fx": 37.25,
+      "fy": -371.3279328893443,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 227.53027106113132,
+      "fy": -265.7909458348008,
+      "nodes": [
+        {
+          "text": "smart contract best practices",
+          "url": "https://github.com/ConsenSys/smart-contract-best-practices",
+          "fx": 368.5302710611313,
+          "fy": -253.29094583480082,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 88.69857034610118,
+      "fy": -140.0492991491426,
+      "nodes": [
+        {
+          "text": "1. building a smart contract using the command line",
+          "url": "https://www.ethereum.org/greeter",
+          "fx": 251.69857034610118,
+          "fy": -137.5492991491426,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "smart contracts",
+      "target": "basics",
+      "curve": {
+        "x": -4.77571,
+        "y": 114.889
+      }
+    },
+    {
+      "source": "help",
+      "target": "smart contracts",
+      "curve": {
+        "x": -59.1401,
+        "y": -52.0185
+      }
+    }
+  ]
+}

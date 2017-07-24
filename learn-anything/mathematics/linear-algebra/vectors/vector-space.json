@@ -1,0 +1,105 @@
+{
+  "title": "learn anything - mathematics - linear algebra - vectors - vector space",
+  "tag": "vector spaces",
+  "nodes": [
+    {
+      "text": "vector spaces",
+      "url": "http://www.wikiwand.com/en/Vector_space",
+      "fx": -141.683789552005,
+      "fy": -232.76564458020056,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -94.95182291666663,
+      "fy": -107.40234375,
+      "nodes": [
+        {
+          "text": "1. what is a vector space",
+          "url": "https://www.youtube.com/watch?v=ozwodzD5bJM",
+          "fx": 68.04817708333337,
+          "fy": -94.90234375,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "dual spaces  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space/dual-spaces",
+      "fx": -540.6800245795076,
+      "fy": 66.14959061662057,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "inner product space  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space/inner-product-space",
+      "fx": 233.2963638305664,
+      "fy": 66.16462516784668,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "normed vector space  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space/normed-vector-space",
+      "fx": -333.8984813904407,
+      "fy": 67.78021125936328,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "vector space model  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space/vector-space-model",
+      "fx": -42.831631660461426,
+      "fy": 67.8249340057373,
+      "nodes": [],
+      "category": "mindmap"
+    }
+  ],
+  "connections": [
+    {
+      "source": "vector spaces",
+      "target": "basics",
+      "curve": {
+        "x": 1.36598,
+        "y": 61.4317
+      }
+    },
+    {
+      "source": "basics",
+      "target": "vector space model  ️",
+      "curve": {
+        "x": 56.3101,
+        "y": 87.6136
+      }
+    },
+    {
+      "source": "basics",
+      "target": "inner product space  ️",
+      "curve": {
+        "x": 202.124,
+        "y": 88.0335
+      }
+    },
+    {
+      "source": "basics",
+      "target": "normed vector space  ️",
+      "curve": {
+        "x": -82.2233,
+        "y": 87.5913
+      }
+    },
+    {
+      "source": "basics",
+      "target": "dual spaces  ️",
+      "curve": {
+        "x": -259.865,
+        "y": 71.0848
+      }
+    }
+  ]
+}
