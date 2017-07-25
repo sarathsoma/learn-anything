@@ -6,8 +6,8 @@
       "text": "blogs",
       "note": "",
       "url": "https://github.com/learn-anything/blogs",
-      "fx": 2.162703804347757,
-      "fy": 1.770040760869506,
+      "fx": 4.474864652407746,
+      "fy": 15.781142734553725,
       "nodes": [],
       "category": "github"
     },
@@ -27,6 +27,159 @@
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "physics  ️",
+      "url": "/physics",
+      "fx": 11.778130945111116,
+      "fy": 262.6029503629735,
+      "nodes": [
+        {
+          "text": "shtetl optimised  ️",
+          "url": "http://www.scottaaronson.com/blog/",
+          "fx": 206.77813094511112,
+          "fy": 276.6029503629735,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "programming  ️",
+      "url": "/programming",
+      "fx": -21.81468283008553,
+      "fy": 397.3250644555674,
+      "nodes": [
+        {
+          "text": "coding horror  ️",
+          "url": "https://blog.codinghorror.com/",
+          "fx": 226.18531716991447,
+          "fy": 391.3250644555674,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "Joel on software  ️",
+          "url": "https://www.joelonsoftware.com/",
+          "fx": 226.18531716991447,
+          "fy": 431.3250644555674,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "linux  ️",
+      "url": "/operating-systems/unix/linux",
+      "fx": 17.716635026546328,
+      "fy": 534.7681168416677,
+      "nodes": [
+        {
+          "text": "Julia Evans  ️",
+          "url": "https://jvns.ca/",
+          "fx": 185.71663502654633,
+          "fy": 548.7681168416677,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "go  ️",
+      "url": "/programming/programming-languages/go",
+      "fx": 13.869252313966285,
+      "fy": 668.8470061629399,
+      "nodes": [
+        {
+          "text": "Dave Cheney  ️",
+          "url": "https://dave.cheney.net/",
+          "fx": 164.86925231396629,
+          "fy": 642.8470061629399,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "Jessie Frazelle  ️",
+          "url": "https://blog.jessfraz.com/",
+          "fx": 164.86925231396629,
+          "fy": 682.8470061629399,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "Mitchell Hashimoto  ️",
+          "url": "http://mitchellh.com/",
+          "fx": 164.86925231396629,
+          "fy": 722.8470061629399,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "swift  ️",
+      "url": "/programming/programming-languages/swift",
+      "fx": 0.5686113911289112,
+      "fy": 860.1218771001345,
+      "nodes": [
+        {
+          "text": "swift tutorials  ️",
+          "url": "http://jamesonquave.com/",
+          "fx": 169.5686113911289,
+          "fy": 794.1218771001345,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "NSHipster  ️",
+          "url": "http://nshipster.com/",
+          "fx": 169.5686113911289,
+          "fy": 834.1218771001345,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "mike ash  ️",
+          "url": "https://mikeash.com/pyblog/",
+          "fx": 169.5686113911289,
+          "fy": 874.1218771001345,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "swift by Sundell  ️",
+          "url": "https://www.swiftbysundell.com/",
+          "fx": 169.5686113911289,
+          "fy": 914.1218771001345,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "swift talk  ️",
+          "url": "https://talk.objc.io/",
+          "fx": 169.5686113911289,
+          "fy": 954.1218771001345,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -34,8 +187,48 @@
       "source": "blogs",
       "target": "find new blogs",
       "curve": {
-        "x": -1.45092,
-        "y": 66.8432
+        "x": -2.607,
+        "y": 59.8376
+      }
+    },
+    {
+      "source": "find new blogs",
+      "target": "physics  ️",
+      "curve": {
+        "x": -2.74137,
+        "y": 62.3232
+      }
+    },
+    {
+      "source": "go  ️",
+      "target": "swift  ️",
+      "curve": {
+        "x": -9.40032,
+        "y": 94.3874
+      }
+    },
+    {
+      "source": "physics  ️",
+      "target": "programming  ️",
+      "curve": {
+        "x": -10.7964,
+        "y": 66.1111
+      }
+    },
+    {
+      "source": "programming  ️",
+      "target": "linux  ️",
+      "curve": {
+        "x": -0.234341,
+        "y": 68.7215
+      }
+    },
+    {
+      "source": "linux  ️",
+      "target": "go  ️",
+      "curve": {
+        "x": -6.17369,
+        "y": 67.0394
       }
     }
   ]

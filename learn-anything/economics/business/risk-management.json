@@ -26,6 +26,14 @@
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "insurance  ️",
+      "url": "/economics/business/risk-management/insurance",
+      "fx": -147.978515625,
+      "fy": 250.478515625,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -35,6 +43,14 @@
       "curve": {
         "x": -1.08437,
         "y": 66.1976
+      }
+    },
+    {
+      "source": "basics",
+      "target": "insurance  ️",
+      "curve": {
+        "x": -42.1549,
+        "y": 58.7916
       }
     }
   ]

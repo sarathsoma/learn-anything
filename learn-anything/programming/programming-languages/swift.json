@@ -11,47 +11,47 @@
         {
           "text": "",
           "url": "https://www.reddit.com/r/swift/",
-          "fx": 309.99843978881836,
-          "fy": -1147.7951354980469,
+          "fx": 315.99843978881836,
+          "fy": -1151.7951354980469,
           "nodes": [],
           "category": "reddit",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "",
           "url": "https://github.com/apple/swift",
-          "fx": 309.99843978881836,
-          "fy": -1107.7951354980469,
+          "fx": 315.99843978881836,
+          "fy": -1109.7951354980469,
           "nodes": [],
           "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "trending",
           "url": "https://github.com/trending/swift",
-          "fx": 309.99843978881836,
+          "fx": 315.99843978881836,
           "fy": -1067.7951354980469,
           "nodes": [],
           "category": "github",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "awesome",
           "url": "https://github.com/matteocrippa/awesome-swift",
-          "fx": 309.99843978881836,
-          "fy": -1027.7951354980469,
+          "fx": 315.99843978881836,
+          "fy": -1025.7951354980469,
           "nodes": [],
           "category": "github",
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "awesome 2",
           "url": "https://github.com/Wolg/awesome-swift",
-          "fx": 309.99843978881836,
-          "fy": -987.7951354980469,
+          "fx": 315.99843978881836,
+          "fy": -983.7951354980469,
           "nodes": [],
           "category": "github",
-          "color": "rgba(209, 21, 88, 1.0)"
+          "color": "rgba(255, 254, 60, 1.0)"
         }
       ],
       "category": "wiki"
@@ -65,109 +65,109 @@
         {
           "text": "algorithms in swift",
           "url": "https://github.com/raywenderlich/swift-algorithm-club",
-          "fx": 408.3363151550293,
-          "fy": -895.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -908.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "OOD principles in swift",
           "url": "https://github.com/ochococo/OOD-Principles-In-Swift",
-          "fx": 408.3363151550293,
-          "fy": -855.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -866.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "awesome swift education",
           "url": "https://github.com/hsavit1/Awesome-Swift-Education",
-          "fx": 408.3363151550293,
-          "fy": -815.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -824.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(209, 21, 88, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "awesome swift playgrounds",
           "url": "https://github.com/uraimo/Awesome-Swift-Playgrounds",
-          "fx": 408.3363151550293,
-          "fy": -775.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -782.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(49, 187, 71, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "writing high-performance swift code",
           "url": "https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst",
-          "fx": 408.3363151550293,
-          "fy": -735.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -740.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(255, 254, 60, 1.0)"
         },
         {
           "text": "swift weekly",
           "note": "- weekly swift language gems, tips and tricks",
           "url": "https://github.com/vandadnp/swift-weekly",
-          "fx": 408.3363151550293,
-          "fy": -673.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -673.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(169, 255, 0, 1.0)"
         },
         {
           "text": "swift web repl by ibm",
           "url": "https://swift.sandbox.bluemix.net/#/repl",
-          "fx": 408.3363151550293,
-          "fy": -633.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -631.1898193359375,
           "nodes": [],
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "swift tips and tricks",
           "url": "https://github.com/JohnSundell/SwiftTips",
-          "fx": 408.3363151550293,
-          "fy": -599.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -594.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "swift notes",
           "url": "https://github.com/stylekit/research/wiki/Swift-Resources",
-          "fx": 408.3363151550293,
-          "fy": -559.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -552.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(209, 21, 88, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "this week in swift",
           "url": "http://swiftnews.curated.co/",
-          "fx": 408.3363151550293,
-          "fy": -519.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -510.1898193359375,
           "nodes": [],
           "category": "newsletter",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "apple docs",
           "url": "https://developer.apple.com/develop/",
-          "fx": 408.3363151550293,
-          "fy": -479.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -468.1898193359375,
           "nodes": [],
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(255, 254, 60, 1.0)"
         },
         {
           "text": "what is new in swift 4",
           "url": "https://github.com/ole/whats-new-in-swift-4",
-          "fx": 408.3363151550293,
-          "fy": -445.6898193359375,
+          "fx": 412.3363151550293,
+          "fy": -431.1898193359375,
           "nodes": [],
           "category": "github",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(169, 255, 0, 1.0)"
         }
       ]
     },
@@ -180,47 +180,47 @@
         {
           "text": "swift tutorials  ️",
           "url": "http://jamesonquave.com/",
-          "fx": 561.0869445800781,
-          "fy": -326.0847473144531,
+          "fx": 566.0869445800781,
+          "fy": -329.0847473144531,
           "nodes": [],
           "category": "blog",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "NSHipster  ️",
           "url": "http://nshipster.com/",
-          "fx": 561.0869445800781,
-          "fy": -286.0847473144531,
+          "fx": 566.0869445800781,
+          "fy": -287.0847473144531,
           "nodes": [],
           "category": "blog",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "mike ash  ️",
           "url": "https://mikeash.com/pyblog/",
-          "fx": 561.0869445800781,
-          "fy": -246.08474731445312,
+          "fx": 566.0869445800781,
+          "fy": -245.08474731445312,
           "nodes": [],
           "category": "blog",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "swift by Sundell  ️",
           "url": "https://www.swiftbysundell.com/",
-          "fx": 561.0869445800781,
-          "fy": -206.08474731445312,
+          "fx": 566.0869445800781,
+          "fy": -203.08474731445312,
           "nodes": [],
           "category": "blog",
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "swift talk  ️",
           "url": "https://talk.objc.io/",
-          "fx": 561.0869445800781,
-          "fy": -166.08474731445312,
+          "fx": 566.0869445800781,
+          "fy": -161.08474731445312,
           "nodes": [],
           "category": "blog",
-          "color": "rgba(209, 21, 88, 1.0)"
+          "color": "rgba(255, 254, 60, 1.0)"
         }
       ]
     },
@@ -234,29 +234,29 @@
         {
           "text": "1. swift programming language book",
           "url": "https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309",
-          "fx": 96.38720518439413,
-          "fy": -152.13227712135745,
+          "fx": 103.38720518439413,
+          "fy": -156.13227712135745,
           "nodes": [],
           "category": "free book",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "1. hacking with swift",
           "url": "https://www.hackingwithswift.com/read",
-          "fx": 96.38720518439413,
-          "fy": -90.13227712135745,
+          "fx": 103.38720518439413,
+          "fy": -89.13227712135745,
           "nodes": [],
           "category": "course",
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "1. iOS 10 Programming Fundamentals with Swift",
           "url": "https://www.google.nl/search?q=ios+10+programming+fundamentals+with+swift+pdf&amp;hl=en&amp;safe=off&amp;gws_rd=cr&amp;ei=qdcTWY_UG43fwALftJqYDg",
-          "fx": 96.38720518439413,
-          "fy": -50.13227712135745,
+          "fx": 103.38720518439413,
+          "fy": -47.13227712135745,
           "nodes": [],
           "category": "non-free book",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
@@ -269,76 +269,76 @@
         {
           "text": "design patterns in swift",
           "url": "https://shirazian.wordpress.com/2016/04/11/design-patterns-in-swift/",
-          "fx": 769.6521911621094,
-          "fy": -133.75743865966797,
+          "fx": 776.6521911621094,
+          "fy": -140.75743865966797,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "17: building a lisp from scratch with swift  ️",
           "url": "https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/",
-          "fx": 769.6521911621094,
-          "fy": -99.75743865966797,
+          "fx": 776.6521911621094,
+          "fy": -103.75743865966797,
           "nodes": [],
           "category": "article",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "17: type erasure using closures in swift  ️",
           "url": "https://medium.com/@johnsundell/type-erasure-using-closures-in-swift-1e6125231f8",
-          "fx": 769.6521911621094,
-          "fy": -37.75743865966797,
+          "fx": 776.6521911621094,
+          "fy": -36.75743865966797,
           "nodes": [],
           "category": "article",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "17: namespacing swift code with nested types  ️",
           "url": "https://medium.com/@johnsundell/namespacing-swift-code-with-nested-types-10eabddaa97d",
-          "fx": 769.6521911621094,
-          "fy": 24.24256134033203,
+          "fx": 776.6521911621094,
+          "fy": 30.24256134033203,
           "nodes": [],
           "category": "article",
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         }
       ]
     },
     {
       "text": "apple frameworks  ️",
       "url": "/programming/programming-languages/swift/apple-frameworks",
-      "fx": 185.0312703930972,
-      "fy": 117.11563979760899,
+      "fx": 192.38659286499023,
+      "fy": 117.11464881896973,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "libraries  ️",
+      "url": "/programming/programming-languages/swift/libraries",
+      "fx": 40.24118232727051,
+      "fy": 119.99514579772949,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "package management",
       "url": "",
-      "fx": -837.8216855087364,
-      "fy": 121.73097987775168,
+      "fx": -839.2326202392578,
+      "fy": 121.72896766662598,
       "nodes": []
     },
     {
       "text": "concurrent programming",
       "url": "https://www.pluralsight.com/blog/software-development/concurrency-swift-3",
-      "fx": -240.67227189265463,
-      "fy": 122.03447925530872,
+      "fx": -250.90555572509766,
+      "fy": 122.03247451782227,
       "nodes": []
     },
     {
       "text": "protocol oriented programming",
       "url": "https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html",
-      "fx": -567.1876831054688,
-      "fy": 122.16945266723633,
+      "fx": -565.7351913452148,
+      "fy": 122.15296936035156,
       "nodes": []
-    },
-    {
-      "text": "libraries  ️",
-      "url": "/programming/programming-languages/swift/libraries",
-      "fx": 37.38586234477589,
-      "fy": 119.99614210233108,
-      "nodes": [],
-      "category": "mindmap"
     },
     {
       "text": "talks",
@@ -349,64 +349,64 @@
         {
           "text": "15: what haskell taught me about writing swift",
           "url": "https://news.realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/",
-          "fx": 906.1804352700035,
-          "fy": 116.84808193652123,
+          "fx": 909.1804352700035,
+          "fy": 101.84808193652123,
           "nodes": [],
           "category": "video",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "17: optimising swift collections",
           "url": "https://www.dotconferences.com/2017/01/karoly-lorentey-optimizing-swift-collections",
-          "fx": 906.1804352700035,
-          "fy": 178.84808193652123,
+          "fx": 909.1804352700035,
+          "fy": 168.84808193652123,
           "nodes": [
             {
               "text": "repo of talk",
               "url": "https://github.com/lorentey/OptimizingCollections",
-              "fx": 1253.1804352700035,
-              "fy": 178.84808193652123,
+              "fx": 1263.1804352700035,
+              "fy": 181.34808193652123,
               "nodes": [],
               "category": "github",
-              "color": "rgba(36, 170, 255, 1.0)"
+              "color": "rgba(0, 224, 161, 1.0)"
             }
           ],
           "category": "video",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "17: testing in swift",
           "note": "for good testing have  unified input/output state that is kept local injected dependencies",
           "url": "http://www.ustream.tv/recorded/101118612",
-          "fx": 906.1804352700035,
-          "fy": 218.84808193652123,
+          "fx": 909.1804352700035,
+          "fy": 235.84808193652123,
           "nodes": [],
           "category": "video",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
     {
       "text": "CocoaPods  ️",
       "url": "/programming/programming-languages/swift/cocoapods",
-      "fx": -1089.4483032226562,
-      "fy": 240.15510177612305,
+      "fx": -1101.7430725097656,
+      "fy": 240.15411376953125,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "swift package manager  ️",
       "url": "/programming/programming-languages/swift/swift-package-manager",
-      "fx": -906.7575057497801,
-      "fy": 241.03704854872285,
+      "fx": -905.5967102050781,
+      "fy": 241.03605270385742,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "Carthage",
       "url": "https://github.com/Carthage/Carthage",
-      "fx": -606.5609335342672,
-      "fy": 242.79146177031134,
+      "fx": -595.4518280029297,
+      "fy": 242.79048919677734,
       "nodes": [],
       "category": "github"
     }
@@ -432,16 +432,16 @@
       "source": "basics",
       "target": "protocol oriented programming",
       "curve": {
-        "x": -191.537,
-        "y": 111.901
+        "x": -190.811,
+        "y": 111.893
       }
     },
     {
       "source": "basics",
       "target": "concurrent programming",
       "curve": {
-        "x": -34.2829,
-        "y": 122.505
+        "x": -39.3995,
+        "y": 122.504
       }
     },
     {
@@ -472,7 +472,7 @@
       "source": "basics",
       "target": "libraries  ️",
       "curve": {
-        "x": 57.7493,
+        "x": 59.177,
         "y": 110.814
       }
     },
@@ -480,7 +480,7 @@
       "source": "basics",
       "target": "apple frameworks  ️",
       "curve": {
-        "x": 134.111,
+        "x": 137.789,
         "y": 132.259
       }
     },
@@ -488,32 +488,32 @@
       "source": "basics",
       "target": "package management",
       "curve": {
-        "x": -357.661,
-        "y": 98.0483
+        "x": -358.366,
+        "y": 98.0473
       }
     },
     {
       "source": "package management",
       "target": "CocoaPods  ️",
       "curve": {
-        "x": -158.313,
-        "y": 59.2121
+        "x": -163.755,
+        "y": 59.2126
       }
     },
     {
       "source": "package management",
       "target": "swift package manager  ️",
       "curve": {
-        "x": -40.9679,
-        "y": 59.653
+        "x": -39.682,
+        "y": 59.6535
       }
     },
     {
       "source": "package management",
       "target": "Carthage",
       "curve": {
-        "x": 93.1304,
-        "y": 61.7802
+        "x": 99.3904,
+        "y": 61.7807
       }
     }
   ]

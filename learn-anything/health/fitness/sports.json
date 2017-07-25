@@ -13,7 +13,7 @@
           "text": "snowboarding  ️",
           "url": "/health/fitness/sports/snowboarding",
           "fx": -98.84375,
-          "fy": -484.5546875,
+          "fy": -504.5546875,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -22,7 +22,7 @@
           "text": "longboarding",
           "url": "http://www.wikiwand.com/en/Longboarding",
           "fx": -98.84375,
-          "fy": -444.5546875,
+          "fy": -464.5546875,
           "nodes": [],
           "category": "wiki",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -31,7 +31,7 @@
           "text": "skateboarding  ️",
           "url": "/health/fitness/sports/skateboarding",
           "fx": -98.84375,
-          "fy": -404.5546875,
+          "fy": -424.5546875,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -40,7 +40,7 @@
           "text": "basketball  ️",
           "url": "/health/fitness/sports/basketball",
           "fx": -98.84375,
-          "fy": -364.5546875,
+          "fy": -384.5546875,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -49,7 +49,7 @@
           "text": "football  ️",
           "url": "/health/fitness/sports/football",
           "fx": -98.84375,
-          "fy": -324.5546875,
+          "fy": -344.5546875,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -58,7 +58,7 @@
           "text": "golf  ️",
           "url": "/health/fitness/sports/golf",
           "fx": -98.84375,
-          "fy": -284.5546875,
+          "fy": -304.5546875,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -67,25 +67,25 @@
           "text": "hiking",
           "url": "http://www.wikiwand.com/en/Hiking",
           "fx": -98.84375,
-          "fy": -244.5546875,
+          "fy": -264.5546875,
           "nodes": [],
           "category": "wiki",
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
-          "text": "rock climbing",
-          "url": "http://www.wikiwand.com/en/Rock_climbing",
+          "text": "climbing  ️",
+          "url": "/health/fitness/sports/climbing",
           "fx": -98.84375,
-          "fy": -204.5546875,
+          "fy": -224.5546875,
           "nodes": [],
-          "category": "wiki",
+          "category": "mindmap",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
           "text": "parkour  ️",
           "url": "/health/fitness/sports/parkour",
           "fx": -98.84375,
-          "fy": -164.5546875,
+          "fy": -184.5546875,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -94,25 +94,25 @@
           "text": "volleyball",
           "url": "http://www.wikiwand.com/en/Volleyball",
           "fx": -98.84375,
-          "fy": -124.5546875,
+          "fy": -144.5546875,
           "nodes": [],
           "category": "wiki",
           "color": "rgba(34, 205, 224, 1.0)"
         },
         {
-          "text": "skiing",
-          "url": "http://www.wikiwand.com/en/Skiing",
+          "text": "skiing  ️",
+          "url": "/health/fitness/sports/skiing",
           "fx": -98.84375,
-          "fy": -84.5546875,
+          "fy": -104.5546875,
           "nodes": [],
-          "category": "wiki",
+          "category": "mindmap",
           "color": "rgba(209, 21, 88, 1.0)"
         },
         {
           "text": "rowing",
           "url": "http://www.wikiwand.com/en/Rowing_(sport)",
           "fx": -98.84375,
-          "fy": -44.5546875,
+          "fy": -64.5546875,
           "nodes": [],
           "category": "wiki",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -121,7 +121,7 @@
           "text": "fencing",
           "url": "http://www.wikiwand.com/en/Fencing",
           "fx": -98.84375,
-          "fy": -4.5546875,
+          "fy": -24.5546875,
           "nodes": [],
           "category": "wiki",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -130,7 +130,7 @@
           "text": "squash",
           "url": "http://www.wikiwand.com/en/Squash_(sport)",
           "fx": -98.84375,
-          "fy": 35.4453125,
+          "fy": 15.4453125,
           "nodes": [],
           "category": "wiki",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -139,7 +139,7 @@
           "text": "surfing  ️",
           "url": "/health/fitness/sports/surfing",
           "fx": -98.84375,
-          "fy": 75.4453125,
+          "fy": 55.4453125,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -148,7 +148,7 @@
           "text": "archery  ️",
           "url": "/health/fitness/sports/archery",
           "fx": -98.84375,
-          "fy": 115.4453125,
+          "fy": 95.4453125,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -157,7 +157,7 @@
           "text": "juggling  ️",
           "url": "/health/fitness/sports/juggling",
           "fx": -98.84375,
-          "fy": 155.4453125,
+          "fy": 135.4453125,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -166,10 +166,19 @@
           "text": "snooker  ️",
           "url": "/health/fitness/sports/snooker",
           "fx": -98.84375,
-          "fy": 195.4453125,
+          "fy": 175.4453125,
           "nodes": [],
           "category": "mindmap",
           "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "cycling  ️",
+          "url": "/health/fitness/sports/cycling",
+          "fx": -98.84375,
+          "fy": 215.4453125,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(175, 54, 242, 1.0)"
         }
       ],
       "category": "wiki"

@@ -57,16 +57,24 @@
     {
       "text": "buddhism  ️",
       "url": "/philosophy/spirituality/religion/buddhism",
-      "fx": 99.79122161865223,
-      "fy": 96.89905166625977,
+      "fx": 2.6448631286621094,
+      "fy": 94.42876815795898,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "paganism  ️",
       "url": "/philosophy/spirituality/religion/paganism",
-      "fx": -76.33692345252416,
-      "fy": 96.9538762019231,
+      "fx": -178.71185009571673,
+      "fy": 94.48358570896528,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "taoism  ️",
+      "url": "/philosophy/spirituality/religion/taoism",
+      "fx": 180.78412656903743,
+      "fy": 95.4791448744769,
       "nodes": [],
       "category": "mindmap"
     }
@@ -84,16 +92,24 @@
       "source": "basics",
       "target": "buddhism  ️",
       "curve": {
-        "x": -17.7127,
-        "y": 98.1382
+        "x": -66.2859,
+        "y": 96.9031
       }
     },
     {
       "source": "basics",
       "target": "paganism  ️",
       "curve": {
-        "x": -133.106,
-        "y": 85.8051
+        "x": -184.293,
+        "y": 84.57
+      }
+    },
+    {
+      "source": "basics",
+      "target": "taoism  ️",
+      "curve": {
+        "x": 6.28379,
+        "y": 96.6783
       }
     }
   ]

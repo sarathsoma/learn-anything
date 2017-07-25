@@ -128,10 +128,34 @@
       "category": "mindmap"
     },
     {
+      "text": "randomness  ️",
+      "url": "/mathematics/statistics/probability-theory/randomness",
+      "fx": -2020.4283455569744,
+      "fy": 88.61286936649674,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "random variables  ️",
       "url": "/mathematics/statistics/probability-theory/random-variables",
       "fx": -1202.2441151638952,
       "fy": 91.15647361491597,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "Kolmogorov extension theorem",
+      "url": "http://www.wikiwand.com/en/Kolmogorov_extension_theorem",
+      "fx": -1820.8750272224859,
+      "fy": 93.65788594178719,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "probability axioms  ️",
+      "url": "/mathematics/statistics/probability-theory/probability-axioms",
+      "fx": -1448.2169524336284,
+      "fy": 93.77316095132744,
       "nodes": [],
       "category": "mindmap"
     }
@@ -199,6 +223,30 @@
       "curve": {
         "x": -667.502,
         "y": 30.4235
+      }
+    },
+    {
+      "source": "basics",
+      "target": "probability axioms  ️",
+      "curve": {
+        "x": -925.02,
+        "y": 60.9818
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Kolmogorov extension theorem",
+      "curve": {
+        "x": -1068.07,
+        "y": 53.455
+      }
+    },
+    {
+      "source": "basics",
+      "target": "randomness  ️",
+      "curve": {
+        "x": -1333.56,
+        "y": 19.2962
       }
     }
   ]

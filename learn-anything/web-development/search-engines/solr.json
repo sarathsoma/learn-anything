@@ -5,21 +5,14 @@
     {
       "text": "Solr",
       "url": "http://lucene.apache.org/solr/",
-      "fx": -28.86357769370079,
-      "fy": -165.15756607055664,
-      "nodes": []
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 58.23264872165112,
-      "fy": -63.69794496737035,
+      "fx": -21.976242167384953,
+      "fy": -100.66075274818823,
       "nodes": [
         {
-          "text": "awesome solr",
+          "text": "awesome",
           "url": "https://github.com/xingh/awesome-solr",
-          "fx": 195.23264872165112,
-          "fy": -52.19794496737035,
+          "fx": 112.02375783261505,
+          "fy": -89.16075274818823,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -45,19 +38,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "Solr",
-      "curve": {
-        "x": -44.2981,
-        "y": -50.7298
-      }
-    },
-    {
       "source": "Solr",
       "target": "basics",
       "curve": {
-        "x": 1.75722,
-        "y": 97.7484
+        "x": -1.68645,
+        "y": 65.5
       }
     }
   ]

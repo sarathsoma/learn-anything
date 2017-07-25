@@ -43,6 +43,14 @@
       "category": "mindmap"
     },
     {
+      "text": "fields  ️",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/fields",
+      "fx": 597.6182289334258,
+      "fy": -26.006082414352875,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "lattices  ️",
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/lattices",
       "fx": 458.7098879646835,
@@ -90,6 +98,14 @@
       "curve": {
         "x": 178.587,
         "y": 66.9394
+      }
+    },
+    {
+      "source": "algebraic structures",
+      "target": "fields  ️",
+      "curve": {
+        "x": 319.281,
+        "y": 59.4548
       }
     }
   ]

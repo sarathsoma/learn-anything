@@ -79,6 +79,7 @@
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/blood/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/circulatory-system/heart/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/circulatory-system/</loc> </url>
+<url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/digestive-system/gastrointestinal-tract/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/digestive-system/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/respiratory-system/lungs/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/respiratory-system/</loc> </url>
@@ -196,6 +197,8 @@
 <url> <loc>https://learn-anything.xyz/cognitive-science/cognition/rationality/</loc> </url>
 <url> <loc>https://learn-anything.xyz/cognitive-science/cognition/</loc> </url>
 <url> <loc>https://learn-anything.xyz/cognitive-science/</loc> </url>
+<url> <loc>https://learn-anything.xyz/communication/social-media/</loc> </url>
+<url> <loc>https://learn-anything.xyz/communication/telecommunication/wireless/wifi/</loc> </url>
 <url> <loc>https://learn-anything.xyz/communication/telecommunication/wireless/</loc> </url>
 <url> <loc>https://learn-anything.xyz/communication/telecommunication/</loc> </url>
 <url> <loc>https://learn-anything.xyz/communication/</loc> </url>
@@ -460,6 +463,7 @@
 <url> <loc>https://learn-anything.xyz/economics/business/product-management/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/business/project-management/event-management/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/business/project-management/</loc> </url>
+<url> <loc>https://learn-anything.xyz/economics/business/risk-management/insurance/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/business/risk-management/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/business/supply-chain-management/</loc> </url>
 <url> <loc>https://learn-anything.xyz/economics/business/</loc> </url>
@@ -572,11 +576,14 @@
 <url> <loc>https://learn-anything.xyz/geography/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/archery/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/basketball/</loc> </url>
+<url> <loc>https://learn-anything.xyz/health/fitness/sports/climbing/</loc> </url>
+<url> <loc>https://learn-anything.xyz/health/fitness/sports/cycling/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/football/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/golf/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/juggling/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/parkour/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/skateboarding/</loc> </url>
+<url> <loc>https://learn-anything.xyz/health/fitness/sports/skiing/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/snooker/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/snowboarding/</loc> </url>
 <url> <loc>https://learn-anything.xyz/health/fitness/sports/surfing/</loc> </url>
@@ -616,6 +623,8 @@
 <url> <loc>https://learn-anything.xyz/history/world-history/wars/</loc> </url>
 <url> <loc>https://learn-anything.xyz/history/world-history/</loc> </url>
 <url> <loc>https://learn-anything.xyz/history/</loc> </url>
+<url> <loc>https://learn-anything.xyz/information-theory/algorithmic-information-theory/kolmogorov-complexity/</loc> </url>
+<url> <loc>https://learn-anything.xyz/information-theory/algorithmic-information-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/information-theory/coding-theory/hamming-distance/</loc> </url>
 <url> <loc>https://learn-anything.xyz/information-theory/coding-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/information-theory/information/bits/bitwise-operations/</loc> </url>
@@ -797,7 +806,10 @@
 <url> <loc>https://learn-anything.xyz/marketing/growth-hacking/</loc> </url>
 <url> <loc>https://learn-anything.xyz/marketing/multi-level-marketing/</loc> </url>
 <url> <loc>https://learn-anything.xyz/marketing/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/algebraic-structures/fields/field-extensions/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/algebraic-structures/fields/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/abelian-group/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/cayleys-theorem/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/lie-groups/lie-algebra/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/lie-groups/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/sylow-theorems/</loc> </url>
@@ -834,6 +846,9 @@
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/complex-analysis/eulers-formula/eulers-identity/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/complex-analysis/eulers-formula/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/analysis/complex-analysis/holomorphic-functions/cauchys-integral-formula/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/analysis/complex-analysis/holomorphic-functions/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/analysis/complex-analysis/residue-theorem/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/complex-analysis/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/fourier-analysis/fourier-series/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/analysis/fourier-analysis/fourier-transform/short-time-fourier-transform/gabor-transform/</loc> </url>
@@ -886,6 +901,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/categories/morphisms/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/categories/topos-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/categories/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/category-theory/functors/yoneda-lemma/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/functors/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/natural-transformations/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/category-theory/</loc> </url>
@@ -926,9 +942,12 @@
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/pi/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/polytypes/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/projective-geometry/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/geometry/spheres/3-spheres/hopf-fibration/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/spheres/3-spheres/poincare-conjecture/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/spheres/3-spheres/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/spheres/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/geometry/symmetry/rotational-symmetry/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/geometry/symmetry/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/tensors/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/trigonometry/trigonometric-functions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/trigonometry/</loc> </url>
@@ -956,6 +975,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/vectors/vector-space/inner-product-space/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/vectors/vector-space/normed-vector-space/banach-spaces/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/vectors/vector-space/normed-vector-space/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/vectors/vector-space/null-space/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/vectors/vector-space/vector-space-model/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/vectors/vector-space/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/linear-algebra/vectors/</loc> </url>
@@ -1057,6 +1077,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/expected-value/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/markov-chains/markov-chain-monte-carlo/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/markov-chains/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/probability-axioms/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/random-matrices/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/ito-calculus/itos-lemma/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/ito-calculus/</loc> </url>
@@ -1065,6 +1086,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/stochastic-differential-equations/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/stochastic-processes/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/random-variables/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/randomness/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/probability-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/regression-analysis/linear-regression/generalised-linear-models/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/statistics/regression-analysis/linear-regression/</loc> </url>
@@ -1309,8 +1331,10 @@
 <url> <loc>https://learn-anything.xyz/philosophy/spirituality/god/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/spirituality/religion/buddhism/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/spirituality/religion/paganism/</loc> </url>
+<url> <loc>https://learn-anything.xyz/philosophy/spirituality/religion/taoism/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/spirituality/religion/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/spirituality/</loc> </url>
+<url> <loc>https://learn-anything.xyz/philosophy/value-theory/aesthetics/beauty/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/value-theory/aesthetics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/value-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/philosophy/western-philosophy/stoicism/</loc> </url>
@@ -1479,6 +1503,7 @@
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-field-theory/fields/gauge-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-field-theory/fields/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-field-theory/quantum-electrodynamics/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-field-theory/topological-quantum-field-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-field-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-gravity/loop-quantum-gravity/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-gravity/</loc> </url>
@@ -1808,6 +1833,7 @@
 <url> <loc>https://learn-anything.xyz/web-development/content-management-systems/</loc> </url>
 <url> <loc>https://learn-anything.xyz/web-development/dom/</loc> </url>
 <url> <loc>https://learn-anything.xyz/web-development/front-end/css/bootstrap/</loc> </url>
+<url> <loc>https://learn-anything.xyz/web-development/front-end/css/bulma/</loc> </url>
 <url> <loc>https://learn-anything.xyz/web-development/front-end/css/css-modules/</loc> </url>
 <url> <loc>https://learn-anything.xyz/web-development/front-end/css/css3/flexbox/</loc> </url>
 <url> <loc>https://learn-anything.xyz/web-development/front-end/css/css3/</loc> </url>

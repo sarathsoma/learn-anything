@@ -5,14 +5,14 @@
     {
       "text": "CSS",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-      "fx": 2.4534034729003906,
-      "fy": -453.68700846687693,
+      "fx": 30.596572077552082,
+      "fy": -532.4388253273416,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/css/",
-          "fx": 148.4534034729004,
-          "fy": -462.18700846687693,
+          "fx": 176.59657207755208,
+          "fy": -540.9388253273416,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -20,8 +20,8 @@
         {
           "text": "awesome",
           "url": "https://github.com/sotayamashita/awesome-css",
-          "fx": 148.4534034729004,
-          "fy": -420.18700846687693,
+          "fx": 176.59657207755208,
+          "fy": -498.938825327342,
           "nodes": [],
           "category": "github",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -31,30 +31,30 @@
     {
       "text": "help",
       "url": "",
-      "fx": 150.84808262058914,
-      "fy": -287.2126098382668,
+      "fx": 147.66857680663566,
+      "fy": -325.1531985010576,
       "nodes": [
         {
           "text": "css almanac",
           "url": "https://css-tricks.com/almanac/",
-          "fx": 291.84808262058914,
-          "fy": -374.7126098382668,
+          "fx": 288.66857680663566,
+          "fy": -431.1531985010576,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "css reference",
           "url": "http://cssreference.io/#hn",
-          "fx": 291.84808262058914,
-          "fy": -337.7126098382668,
+          "fx": 288.66857680663566,
+          "fy": -394.1531985010576,
           "nodes": [],
           "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "critical path css tools",
           "url": "https://github.com/addyosmani/critical-path-css-tools",
-          "fx": 291.84808262058914,
-          "fy": -300.7126098382668,
+          "fx": 288.66857680663566,
+          "fy": -357.1531985010576,
           "nodes": [],
           "category": "github",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -62,8 +62,8 @@
         {
           "text": "scalable css reading list",
           "url": "https://github.com/davidtheclark/scalable-css-reading-list",
-          "fx": 291.84808262058914,
-          "fy": -258.7126098382668,
+          "fx": 288.66857680663566,
+          "fy": -315.1531985010576,
           "nodes": [],
           "category": "github",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -71,8 +71,8 @@
         {
           "text": "must watch css",
           "url": "https://github.com/AllThingsSmitty/must-watch-css",
-          "fx": 291.84808262058914,
-          "fy": -216.71260983826681,
+          "fx": 288.66857680663566,
+          "fy": -273.1531985010576,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -80,25 +80,33 @@
         {
           "text": "css pro tips",
           "url": "https://github.com/AllThingsSmitty/css-protips",
-          "fx": 291.84808262058914,
-          "fy": -174.71260983826681,
+          "fx": 288.66857680663566,
+          "fy": -231.1531985010576,
           "nodes": [],
           "category": "github",
           "color": "rgba(169, 255, 0, 1.0)"
+        },
+        {
+          "text": "css reference",
+          "url": "http://cssreference.io/",
+          "fx": 288.66857680663566,
+          "fy": -189.1531985010576,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 272.73762016087926,
-      "fy": -96.54249056831713,
+      "fx": 307.93929167250735,
+      "fy": -100.58046295203792,
       "nodes": [
         {
           "text": "17: the state of CSS  ️",
           "url": "http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html",
-          "fx": 441.73762016087926,
-          "fy": -117.54249056831713,
+          "fx": 476.93929167250735,
+          "fy": -121.58046295203792,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -106,8 +114,8 @@
         {
           "text": "14: a pattern for writing CSS to scale  ️",
           "url": "http://www.intelligiblebabble.com/a-pattern-for-writing-css-to-scale",
-          "fx": 441.73762016087926,
-          "fy": -75.54249056831713,
+          "fx": 476.93929167250735,
+          "fy": -79.58046295203792,
           "nodes": [],
           "category": "article",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -143,14 +151,14 @@
     {
       "text": "tools",
       "url": "",
-      "fx": 400.3538784669612,
-      "fy": 35.282192070829524,
+      "fx": 419.8533334088214,
+      "fy": 33.66518625687604,
       "nodes": [
         {
           "text": "blend",
           "url": "http://colinkeany.com/blend/",
-          "fx": 546.3538784669612,
-          "fy": 50.282192070829524,
+          "fx": 565.8533334088214,
+          "fy": 48.66518625687604,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         }
@@ -159,8 +167,8 @@
     {
       "text": "methodologies",
       "url": "",
-      "fx": 485.82421875,
-      "fy": 188.01953125,
+      "fx": 558.3422475961543,
+      "fy": 185.3813100961537,
       "nodes": []
     },
     {
@@ -211,28 +219,6 @@
       "category": "mindmap"
     },
     {
-      "text": "bootstrap  ️",
-      "url": "/web-development/front-end/css/bootstrap",
-      "fx": 2.9328060150146484,
-      "fy": 307.77103424072266,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "materialise css",
-      "url": "http://materializecss.com/",
-      "fx": 176.02462768554688,
-      "fy": 310.25030517578125,
-      "nodes": []
-    },
-    {
-      "text": "foundation",
-      "url": "http://foundation.zurb.com/",
-      "fx": -148.1824722290039,
-      "fy": 310.46575927734375,
-      "nodes": []
-    },
-    {
       "text": "Stylus",
       "url": "http://stylus-lang.com/",
       "fx": -660.6167423181366,
@@ -247,10 +233,10 @@
       "nodes": []
     },
     {
-      "text": "semantic UI",
-      "url": "https://semantic-ui.com/",
-      "fx": 369.1005630493164,
-      "fy": 312.3269500732422,
+      "text": "SUITCSS",
+      "url": "https://suitcss.github.io/",
+      "fx": 606.238517021256,
+      "fy": 311.9167700914235,
       "nodes": []
     },
     {
@@ -262,10 +248,17 @@
       "category": "github"
     },
     {
-      "text": "SUITCSS",
-      "url": "https://suitcss.github.io/",
-      "fx": 533.7204881751018,
-      "fy": 314.5549912452698,
+      "text": "BEM",
+      "url": "http://getbem.com/",
+      "fx": 745.7604757455683,
+      "fy": 313.76618253267713,
+      "nodes": []
+    },
+    {
+      "text": "SMACSS",
+      "url": "https://smacss.com/",
+      "fx": 1000.9496236947871,
+      "fy": 314.62799893892713,
       "nodes": []
     },
     {
@@ -277,33 +270,56 @@
       "category": "mindmap"
     },
     {
-      "text": "BEM",
-      "url": "http://getbem.com/",
-      "fx": 673.2424468994141,
-      "fy": 316.40440368652344,
-      "nodes": []
-    },
-    {
-      "text": "SMACSS",
-      "url": "https://smacss.com/",
-      "fx": 928.4315948486328,
-      "fy": 317.26622009277344,
-      "nodes": []
-    },
-    {
       "text": "OOCSS",
       "url": "https://github.com/stubbornella/oocss/wiki",
-      "fx": 767.3272094726562,
-      "fy": 316.5645980834961,
+      "fx": 839.8452383188105,
+      "fy": 313.9263769296498,
       "nodes": [],
       "category": "github"
     },
     {
       "text": "Systematic CSS",
       "url": "https://www.yumpu.com/en/document/view/47573458/systematic-css",
-      "fx": 1070.5608978271484,
-      "fy": 318.6302032470703,
+      "fx": 1143.0789266733027,
+      "fy": 315.991982093224,
       "nodes": []
+    },
+    {
+      "text": "bootstrap  ️",
+      "url": "/web-development/front-end/css/bootstrap",
+      "fx": -98.33379983901978,
+      "fy": 355.8299255371094,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "materialise css",
+      "url": "http://materializecss.com/",
+      "fx": 74.77214813232422,
+      "fy": 358.3092346191406,
+      "nodes": []
+    },
+    {
+      "text": "foundation",
+      "url": "http://foundation.zurb.com/",
+      "fx": -249.46367645263672,
+      "fy": 358.5246887207031,
+      "nodes": []
+    },
+    {
+      "text": "semantic UI",
+      "url": "https://semantic-ui.com/",
+      "fx": 267.85872650146484,
+      "fy": 360.38580322265625,
+      "nodes": []
+    },
+    {
+      "text": "bulma  ️",
+      "url": "/web-development/front-end/css/bulma",
+      "fx": 431.8589757981513,
+      "fy": 360.5296374263402,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -311,32 +327,32 @@
       "source": "CSS",
       "target": "basics",
       "curve": {
-        "x": -42.943,
-        "y": 206.065
+        "x": -57.0146,
+        "y": 245.441
       }
     },
     {
       "source": "help",
       "target": "CSS",
       "curve": {
-        "x": -75.9473,
-        "y": -83.2372
+        "x": -60.286,
+        "y": -103.643
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -80.1516,
-        "y": -88.8555
+        "x": -122.276,
+        "y": -102.268
       }
     },
     {
       "source": "tools",
       "target": "articles",
       "curve": {
-        "x": -58.8081,
-        "y": -65.9124
+        "x": -50.957,
+        "y": -67.1229
       }
     },
     {
@@ -359,32 +375,32 @@
       "source": "frameworks",
       "target": "semantic UI",
       "curve": {
-        "x": 119.972,
-        "y": 59.8271
+        "x": 126.857,
+        "y": 72.6306
       }
     },
     {
       "source": "frameworks",
       "target": "foundation",
       "curve": {
-        "x": -141.419,
-        "y": 58.8965
+        "x": -230.22,
+        "y": 79.7499
       }
     },
     {
       "source": "frameworks",
       "target": "bootstrap  ️",
       "curve": {
-        "x": -67.8612,
-        "y": 57.5491
+        "x": -118.495,
+        "y": 81.5785
       }
     },
     {
       "source": "frameworks",
       "target": "materialise css",
       "curve": {
-        "x": 29.9348,
-        "y": 58.7887
+        "x": -20.6914,
+        "y": 82.8181
       }
     },
     {
@@ -479,8 +495,8 @@
       "source": "basics",
       "target": "methodologies",
       "curve": {
-        "x": 291.855,
-        "y": 135.902
+        "x": 328.114,
+        "y": 134.583
       }
     },
     {
@@ -497,6 +513,14 @@
       "curve": {
         "x": -518.827,
         "y": 63.3886
+      }
+    },
+    {
+      "source": "frameworks",
+      "target": "bulma  ️",
+      "curve": {
+        "x": 233.287,
+        "y": 82.5586
       }
     }
   ]

@@ -213,14 +213,14 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 565.3013750165633,
-      "fy": 212.99902562446152,
+      "fx": 552.6076250165634,
+      "fy": 237.4084006244616,
       "nodes": [
         {
           "text": "TED talks on AI",
           "url": "https://www.ted.com/playlists/310/talks_on_artificial_intelligen",
-          "fx": 756.3013750165633,
-          "fy": 193.49902562446152,
+          "fx": 743.6076250165634,
+          "fy": 175.9084006244616,
           "nodes": [],
           "category": "video",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -228,11 +228,20 @@
         {
           "text": "17: elon musk nick bostrom ray kurzweil superintelligence",
           "url": "https://www.youtube.com/watch?v=Xc2tiSH_eBg",
-          "fx": 756.3013750165633,
-          "fy": 233.49902562446152,
+          "fx": 743.6076250165634,
+          "fy": 215.9084006244616,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "17: how to train for a job developing  AI at OpenAI or DeepMind  ️",
+          "url": "https://80000hours.org/2017/07/podcast-the-world-needs-ai-researchers-heres-how-to-become-one/",
+          "fx": 743.6076250165634,
+          "fy": 277.9084006244616,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     }
@@ -282,8 +291,8 @@
       "source": "interesting",
       "target": "articles",
       "curve": {
-        "x": -63.8451,
-        "y": -125.599
+        "x": -57.4982,
+        "y": -137.804
       }
     },
     {

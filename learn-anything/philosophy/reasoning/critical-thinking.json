@@ -11,16 +11,33 @@
       "category": "wiki"
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 157.66028389440305,
+      "fy": -10.887584309490421,
+      "nodes": [
+        {
+          "text": "Harry Potter and the methods of rationality",
+          "url": "http://www.hpmor.com/",
+          "fx": 348.66028389440305,
+          "fy": -10.387584309490421,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "basics",
       "url": "",
-      "fx": 51.625,
-      "fy": 27.08203125,
+      "fx": 42.357421875000114,
+      "fy": 123.71940104166669,
       "nodes": [
         {
           "text": "1. falsifiability: one key to critical thinking",
           "url": "https://www.youtube.com/watch?v=zPR_5TOsh-Y",
-          "fx": 207.625,
-          "fy": 27.58203125,
+          "fx": 198.3574218750001,
+          "fy": 124.21940104166669,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -33,8 +50,16 @@
       "source": "critical thinking",
       "target": "basics",
       "curve": {
-        "x": -2.58984,
-        "y": 77.0937
+        "x": -7.22363,
+        "y": 125.412
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "critical thinking",
+      "curve": {
+        "x": -59.1778,
+        "y": -58.1089
       }
     }
   ]

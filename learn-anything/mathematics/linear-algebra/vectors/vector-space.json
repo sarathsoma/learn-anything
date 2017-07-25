@@ -28,6 +28,14 @@
       ]
     },
     {
+      "text": "null space  ️",
+      "url": "/mathematics/linear-algebra/vectors/vector-space/null-space",
+      "fx": -724.5307386079727,
+      "fy": 63.745389664246886,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "dual spaces  ️",
       "url": "/mathematics/linear-algebra/vectors/vector-space/dual-spaces",
       "fx": -540.6800245795076,
@@ -99,6 +107,14 @@
       "curve": {
         "x": -259.865,
         "y": 71.0848
+      }
+    },
+    {
+      "source": "basics",
+      "target": "null space  ️",
+      "curve": {
+        "x": -385.622,
+        "y": 44.2155
       }
     }
   ]

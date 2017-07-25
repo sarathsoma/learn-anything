@@ -76,14 +76,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -136.9612832992225,
-      "fy": 162.33609165328198,
+      "fx": -164.37967501896765,
+      "fy": 191.0283687233457,
       "nodes": [
         {
           "text": "1. build your own lisp",
           "url": "http://www.buildyourownlisp.com/chapter1_introduction",
-          "fx": 45.03871670077751,
-          "fy": 113.83609165328198,
+          "fx": 17.620324981032354,
+          "fy": 122.5283687233457,
           "nodes": [],
           "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -91,8 +91,8 @@
         {
           "text": "1. lisp quickstart",
           "url": "http://cs.gmu.edu/~sean/lisp/LispTutorial.html",
-          "fx": 45.03871670077751,
-          "fy": 153.83609165328198,
+          "fx": 17.620324981032354,
+          "fy": 162.5283687233457,
           "nodes": [],
           "category": "free book",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -100,17 +100,26 @@
         {
           "text": "1. on lisp",
           "url": "http://ep.yimg.com/ty/cdn/paulgraham/onlisp.pdf",
-          "fx": 45.03871670077751,
-          "fy": 193.83609165328198,
+          "fx": 17.620324981032354,
+          "fy": 202.5283687233457,
           "nodes": [],
           "category": "free book",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
+          "text": "1. let over lambda - 50 years of lisp",
+          "url": "https://letoverlambda.com/index.cl/toc",
+          "fx": 17.620324981032354,
+          "fy": 242.5283687233457,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
           "text": "1. lisp in small pieces",
           "url": "https://www.goodreads.com/book/show/1168500.Lisp_in_Small_Pieces",
-          "fx": 45.03871670077751,
-          "fy": 233.83609165328198,
+          "fx": 17.620324981032354,
+          "fy": 282.5283687233457,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -131,8 +140,8 @@
       "source": "lisp",
       "target": "basics",
       "curve": {
-        "x": -32.314,
-        "y": 186.84
+        "x": -46.0232,
+        "y": 201.186
       }
     },
     {

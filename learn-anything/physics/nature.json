@@ -40,14 +40,14 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 279.31802462888004,
-      "fy": -113.2806991185899,
+      "fx": 283.692539380433,
+      "fy": -119.88978296952149,
       "nodes": [
         {
           "text": "nature album",
           "url": "http://imgur.com/a/56pFc",
-          "fx": 478.31802462888004,
-          "fy": -121.7806991185899,
+          "fx": 482.692539380433,
+          "fy": -128.3897829695215,
           "nodes": [],
           "category": "image",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -55,8 +55,8 @@
         {
           "text": "nature makes you happy",
           "url": "https://www.youtube.com/watch?v=1wkPMUZ9vX4",
-          "fx": 478.31802462888004,
-          "fy": -79.7806991185899,
+          "fx": 482.692539380433,
+          "fy": -86.38978296952149,
           "nodes": [],
           "category": "video",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -77,8 +77,8 @@
       "source": "interesting",
       "target": "awareness",
       "curve": {
-        "x": -24.7205,
-        "y": -64.5566
+        "x": -26.9078,
+        "y": -61.2521
       }
     }
   ]

@@ -47,8 +47,9 @@
     },
     {
       "text": "gastrointestinal tract  ️",
-      "fx": -105.85023309077133,
-      "fy": 172.73598550000315,
+      "url": "/biology/anatomy/human-body/digestive-system/gastrointestinal-tract",
+      "fx": -78.53979988971321,
+      "fy": 166.71540018254268,
       "nodes": [],
       "category": "mindmap"
     }
@@ -66,8 +67,8 @@
       "source": "basics",
       "target": "gastrointestinal tract  ️",
       "curve": {
-        "x": -69.5423,
-        "y": 74.9102
+        "x": -55.8871,
+        "y": 71.8999
       }
     }
   ]

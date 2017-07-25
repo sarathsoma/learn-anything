@@ -7,7 +7,17 @@
       "url": "https://github.com/spring-projects/spring-boot",
       "fx": -57.48046875,
       "fy": -151.19921875,
-      "nodes": [],
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/stunstunstun/awesome-spring-boot",
+          "fx": 172.51953125,
+          "fy": -137.19921875,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "github"
     },
     {
@@ -17,19 +27,10 @@
       "fy": -44.130269110973245,
       "nodes": [
         {
-          "text": "awesome spring boot",
-          "url": "https://github.com/stunstunstun/awesome-spring-boot",
-          "fx": 212.74812413469135,
-          "fy": -49.630269110973245,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
-        },
-        {
           "text": "docs",
           "url": "https://spring.io/docs/reference",
           "fx": 212.74812413469135,
-          "fy": -9.630269110973245,
+          "fy": -29.630269110973245,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         }

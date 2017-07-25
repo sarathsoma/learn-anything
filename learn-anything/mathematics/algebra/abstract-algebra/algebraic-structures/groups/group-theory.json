@@ -39,13 +39,13 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -141.25516994992438,
+      "fx": -142.4316405381595,
       "fy": 19.41298232956484,
       "nodes": [
         {
           "text": "1. visual group theory",
           "url": "http://web.bentley.edu/empl/c/ncarter/vgt/index.html",
-          "fx": 40.74483005007562,
+          "fx": 39.56835946184049,
           "fy": -0.08701767043515929,
           "nodes": [],
           "category": "non-free book",
@@ -54,7 +54,7 @@
         {
           "text": "1. Euler’s formula with introductory group theory",
           "url": "https://www.youtube.com/watch?v=mvmuCPvRoWQ&amp;t=1s",
-          "fx": 40.74483005007562,
+          "fx": 39.56835946184049,
           "fy": 39.91298232956484,
           "nodes": [],
           "category": "video",
@@ -63,10 +63,27 @@
       ]
     },
     {
+      "text": "Cayley's theorem  ️",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/cayleys-theorem",
+      "fx": -1066.616422538161,
+      "fy": 238.98195504467617,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "abelian group  ️",
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/abelian-group",
-      "fx": -504.25450606746347,
-      "fy": 37.55625989278656,
+      "fx": -823.8387221691584,
+      "fy": 241.52540713854944,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "lie groups  ️",
+      "note": "is a group that is also a differentiable manifold, with the property that the group operations are compatible with the smooth structure  lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups  one of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearised version",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/lie-groups",
+      "fx": -294.95175545285065,
+      "fy": 242.83554092329302,
       "nodes": [],
       "category": "mindmap"
     },
@@ -74,41 +91,32 @@
       "text": "geometric group theory",
       "note": "is the study of infinite, finitely-generated groups using geometric methods",
       "url": "http://www.wikiwand.com/en/Geometric_group_theory",
-      "fx": -491.79738950012666,
-      "fy": 144.78288551043852,
+      "fx": -615.0130939492792,
+      "fy": 243.69377004433682,
       "nodes": [],
       "category": "wiki"
-    },
-    {
-      "text": "finite groups",
-      "url": "http://www.wikiwand.com/en/Finite_group",
-      "fx": 39.5,
-      "fy": 170.5,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "lie groups  ️",
-      "note": "is a group that is also a differentiable manifold, with the property that the group operations are compatible with the smooth structure  lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups  one of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearised version",
-      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/lie-groups",
-      "fx": -231.17394824946075,
-      "fy": 231.4412082961743,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "Sylow theorems  ️",
-      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/sylow-theorems",
-      "fx": 198.99432069742988,
-      "fy": 280.16457222059853,
-      "nodes": [],
-      "category": "mindmap"
     },
     {
       "text": "semigroups  ️",
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/semigroups",
-      "fx": -31.78431999683903,
-      "fy": 316.2600404192193,
+      "fx": -101.73723483085632,
+      "fy": 244.1340217590332,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "finite groups",
+      "url": "http://www.wikiwand.com/en/Finite_group",
+      "fx": 79.40995762711827,
+      "fy": 244.1791578389831,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "Sylow theorems  ️",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/groups/group-theory/sylow-theorems",
+      "fx": 126.47048595166734,
+      "fy": 381.5416908646663,
       "nodes": [],
       "category": "mindmap"
     }
@@ -118,7 +126,7 @@
       "source": "group theory",
       "target": "basics",
       "curve": {
-        "x": -6.77603,
+        "x": -7.36427,
         "y": 127.497
       }
     },
@@ -134,48 +142,56 @@
       "source": "basics",
       "target": "geometric group theory",
       "curve": {
-        "x": -129.521,
-        "y": 63.9349
+        "x": -190.541,
+        "y": 113.39
       }
     },
     {
       "source": "basics",
       "target": "lie groups  ️",
       "curve": {
-        "x": -30.2097,
-        "y": 107.264
+        "x": -61.5104,
+        "y": 112.961
       }
     },
     {
       "source": "basics",
       "target": "abelian group  ️",
       "curve": {
-        "x": -164.499,
-        "y": 10.3216
+        "x": -355.588,
+        "y": 84.0289
       }
     },
     {
       "source": "basics",
       "target": "semigroups  ️",
       "curve": {
-        "x": 67.4855,
-        "y": 149.674
+        "x": 33.0973,
+        "y": 113.611
       }
     },
     {
       "source": "basics",
       "target": "finite groups",
       "curve": {
-        "x": 104.378,
-        "y": 76.7935
+        "x": 124.921,
+        "y": 113.633
       }
     },
     {
       "source": "finite groups",
       "target": "Sylow theorems  ️",
       "curve": {
-        "x": 78.4972,
-        "y": 53.5823
+        "x": 22.2803,
+        "y": 67.4313
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Cayley's theorem  ️",
+      "curve": {
+        "x": -472.061,
+        "y": 54.8167
       }
     }
   ]

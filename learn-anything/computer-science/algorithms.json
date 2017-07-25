@@ -145,14 +145,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -6.530549858807717,
-      "fy": 177.44799963663365,
+      "fx": 8.059585402385892,
+      "fy": 155.42432892767852,
       "nodes": [
         {
           "text": "1. algorithms",
           "url": "http://algs4.cs.princeton.edu/home/",
-          "fx": 175.46945014119228,
-          "fy": 37.947999636633654,
+          "fx": 190.0595854023859,
+          "fy": 6.924328927678516,
           "nodes": [],
           "category": "free book",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -161,8 +161,8 @@
           "text": "1. algorithms: part I",
           "note": "a really great course by Stanford university that introduces you to different algorithms  how to prove them and reason about their efficiency",
           "url": "https://www.coursera.org/learn/algorithms-part1",
-          "fx": 175.46945014119228,
-          "fy": 77.94799963663365,
+          "fx": 190.0595854023859,
+          "fy": 46.924328927678516,
           "nodes": [],
           "category": "course",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -170,8 +170,8 @@
         {
           "text": "1. 100 days of algoritms",
           "url": "https://github.com/trending",
-          "fx": 175.46945014119228,
-          "fy": 117.94799963663365,
+          "fx": 190.0595854023859,
+          "fy": 86.92432892767852,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -179,18 +179,27 @@
         {
           "text": "1. gate lectures",
           "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0",
-          "fx": 175.46945014119228,
-          "fy": 157.94799963663365,
+          "fx": 190.0595854023859,
+          "fy": 126.92432892767852,
           "nodes": [],
           "category": "video",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
+          "text": "1. algorithm design manual",
+          "url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&amp;rep=rep1&amp;type=pdf",
+          "fx": 190.0595854023859,
+          "fy": 166.92432892767852,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
           "text": "2. algorithms: part II",
           "note": "continuation of the above course",
           "url": "https://www.coursera.org/learn/algorithms-part2",
-          "fx": 175.46945014119228,
-          "fy": 197.94799963663365,
+          "fx": 190.0595854023859,
+          "fy": 206.92432892767852,
           "nodes": [],
           "category": "course",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -198,8 +207,8 @@
         {
           "text": "2. algorithms notes  ️",
           "url": "http://frnsys.com/ai_notes/foundations/algorithms.html",
-          "fx": 175.46945014119228,
-          "fy": 237.94799963663365,
+          "fx": 190.0595854023859,
+          "fy": 246.92432892767852,
           "nodes": [],
           "category": "article",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -208,8 +217,8 @@
           "text": "3. introduction to algorithms",
           "note": "can be read alongside the above courses  is very thorough and details the specifics of all the algorithms you may find",
           "url": "http://ce.bonabu.ac.ir/uploads/30/CMS/user/file/115/EBook/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf",
-          "fx": 175.46945014119228,
-          "fy": 277.94799963663365,
+          "fx": 190.0595854023859,
+          "fy": 286.9243289276785,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -217,8 +226,8 @@
         {
           "text": "3. design and analysis of algorithms",
           "url": "http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms",
-          "fx": 175.46945014119228,
-          "fy": 317.94799963663365,
+          "fx": 190.0595854023859,
+          "fy": 326.9243289276785,
           "nodes": [],
           "category": "course",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -370,8 +379,8 @@
       "source": "algorithms",
       "target": "basics",
       "curve": {
-        "x": -89.7473,
-        "y": 297.404
+        "x": -82.4522,
+        "y": 286.392
       }
     },
     {
@@ -386,16 +395,16 @@
       "source": "basics",
       "target": "analysis of algorithms",
       "curve": {
-        "x": -64.4201,
-        "y": 162.982
+        "x": -71.7152,
+        "y": 173.994
       }
     },
     {
       "source": "basics",
       "target": "algorithms on",
       "curve": {
-        "x": -227.674,
-        "y": 173.361
+        "x": -234.969,
+        "y": 184.373
       }
     },
     {
@@ -410,8 +419,8 @@
       "source": "basics",
       "target": "algorithm design  ️",
       "curve": {
-        "x": 76.0128,
-        "y": 160.651
+        "x": 68.7177,
+        "y": 171.663
       }
     },
     {

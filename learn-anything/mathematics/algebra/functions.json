@@ -99,6 +99,14 @@
       "fy": 79.34997212085568,
       "nodes": [],
       "category": "wiki"
+    },
+    {
+      "text": "complex-valued function",
+      "url": "http://www.wikiwand.com/en/Complex-valued_function",
+      "fx": -2133.432317197712,
+      "fy": 81.1729473039428,
+      "nodes": [],
+      "category": "wiki"
     }
   ],
   "connections": [
@@ -172,6 +180,14 @@
       "curve": {
         "x": -1052.79,
         "y": 59.0721
+      }
+    },
+    {
+      "source": "basics",
+      "target": "complex-valued function",
+      "curve": {
+        "x": -1204.22,
+        "y": 40.5283
       }
     }
   ]

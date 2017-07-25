@@ -5,32 +5,41 @@
     {
       "text": "machine learning",
       "url": "https://www.wikiwand.com/en/Machine_learning",
-      "fx": 366.4857265058772,
-      "fy": -1919.215416230351,
+      "fx": 374.3958827558772,
+      "fy": -2142.188072480351,
       "nodes": [
-        {
-          "text": "",
-          "url": "https://www.reddit.com/r/MachineLearning/",
-          "fx": 647.4857265058772,
-          "fy": -1945.215416230351,
-          "nodes": [],
-          "category": "reddit",
-          "color": "rgba(36, 170, 255, 1.0)"
-        },
         {
           "text": "️",
           "url": "https://stats.stackexchange.com/",
-          "fx": 647.4857265058772,
-          "fy": -1905.215416230351,
+          "fx": 655.3958827558772,
+          "fy": -2188.188072480351,
           "nodes": [],
           "category": "stack exchange",
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
+          "text": "",
+          "url": "https://www.reddit.com/r/MachineLearning/",
+          "fx": 655.3958827558772,
+          "fy": -2148.188072480351,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "learn machine learning",
+          "url": "https://www.reddit.com/r/learnmachinelearning/",
+          "fx": 655.3958827558772,
+          "fy": -2108.188072480351,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
           "text": "awesome",
           "url": "https://github.com/josephmisiti/awesome-machine-learning",
-          "fx": 647.4857265058772,
-          "fy": -1865.215416230351,
+          "fx": 655.3958827558772,
+          "fy": -2068.188072480351,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -703,16 +712,16 @@
       "source": "machine learning",
       "target": "basics",
       "curve": {
-        "x": -182.736,
-        "y": 618.177
+        "x": -186.691,
+        "y": 729.663
       }
     },
     {
       "source": "help",
       "target": "machine learning",
       "curve": {
-        "x": -151.054,
-        "y": -185.584
+        "x": -147.099,
+        "y": -297.07
       }
     },
     {

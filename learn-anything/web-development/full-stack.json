@@ -6,110 +6,86 @@
       "text": "full stack development",
       "note": "",
       "url": "",
-      "fx": 207.67645571043136,
-      "fy": -308.9338185701439,
-      "nodes": []
-    },
-    {
-      "text": "MEAN",
-      "url": "http://www.wikiwand.com/en/MEAN_(software_bundle)",
-      "fx": -167.5567970070224,
-      "fy": -145.2424089518592,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "MERN",
-      "url": "http://mern.io",
-      "fx": 435.5194159167552,
-      "fy": -134.88547833760583,
+      "fx": 153.9638198408661,
+      "fy": -279.96303052666565,
       "nodes": []
     },
     {
       "text": "meteor  ️",
       "url": "/web-development/javascript-libraries/meteor",
-      "fx": 620.096997893256,
-      "fy": -134.4946014747237,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "ruby on rails  ️",
-      "url": "/programming/programming-languages/ruby/ruby-on-rails",
-      "fx": 941.4442246835447,
-      "fy": -132.30201740506322,
+      "fx": 539.8218620236908,
+      "fy": -127.35125908341945,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "django  ️",
       "url": "/web-development/full-stack/django",
-      "fx": 782.6184017354767,
-      "fy": -131.2012061403509,
+      "fx": 703.2366082572155,
+      "fy": -125.11424961861178,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "ruby on rails  ️",
+      "url": "/programming/programming-languages/ruby/ruby-on-rails",
+      "fx": 853.9849855531102,
+      "fy": -123.69468044854148,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "mongoDB  ️",
       "url": "/databases/nosql-databases/mongodb",
-      "fx": -445.38124380866384,
-      "fy": -0.32697343826293945,
+      "fx": 199.87047112506366,
+      "fy": -117.57777678448213,
       "nodes": [],
       "category": "mindmap"
     },
     {
-      "text": "react js  ️",
-      "url": "/web-development/javascript-libraries/react",
-      "fx": 515.6072733918004,
-      "fy": -0.007835343567535347,
+      "text": "MEAN",
+      "url": "http://www.wikiwand.com/en/MEAN_(software_bundle)",
+      "fx": -19.183835050500875,
+      "fy": -51.91360460403308,
       "nodes": [],
-      "category": "mindmap"
+      "category": "wiki"
     },
     {
       "text": "express  ️",
       "url": "/web-development/javascript-libraries/express",
-      "fx": 362.9117736816406,
-      "fy": 0.23488450050354004,
+      "fx": 206.02658346424937,
+      "fy": -33.963485064713495,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "MERN",
+      "url": "http://mern.io",
+      "fx": 456.2565083080599,
+      "fy": -29.810750076736213,
+      "nodes": []
+    },
+    {
+      "text": "node.js  ️",
+      "url": "/web-development/backend/nodejs",
+      "fx": 202.8604303442911,
+      "fy": 44.89859987341822,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "angular 2  ️",
       "url": "/web-development/javascript-libraries/angular-2",
-      "fx": -122.30296478631249,
-      "fy": 1.311465984632946,
+      "fx": -166.60663326457382,
+      "fy": 74.24964533245884,
       "nodes": [],
       "category": "mindmap"
     },
     {
-      "text": "node.js  ️",
-      "url": "/web-development/backend/nodejs",
-      "fx": 36.791053771972656,
-      "fy": 1.3744995508263855,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "express  ️",
-      "url": "/web-development/javascript-libraries/express",
-      "fx": -276.23726654052734,
-      "fy": 1.3982019424438477,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "mongoDB  ️",
-      "url": "/databases/nosql-databases/mongodb",
-      "fx": 187.6456048976513,
-      "fy": 1.446774488304186,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "node.js  ️",
-      "url": "/web-development/backend/nodejs",
-      "fx": 661.8004614400531,
-      "fy": 5.60896381578948,
+      "text": "react js  ️",
+      "url": "/web-development/javascript-libraries/react",
+      "fx": 492.83893100049636,
+      "fy": 97.29515378686733,
       "nodes": [],
       "category": "mindmap"
     }
@@ -117,106 +93,106 @@
   "connections": [
     {
       "source": "MEAN",
-      "target": "mongoDB  ️",
-      "curve": {
-        "x": -137.412,
-        "y": 72.4577
-      }
-    },
-    {
-      "source": "MEAN",
-      "target": "express  ️",
-      "curve": {
-        "x": -51.0903,
-        "y": 73.3203
-      }
-    },
-    {
-      "source": "MEAN",
       "target": "angular 2  ️",
       "curve": {
-        "x": 30.877,
-        "y": 73.2769
+        "x": -87.1461,
+        "y": 81.1387
       }
     },
     {
       "source": "MEAN",
       "target": "node.js  ️",
       "curve": {
-        "x": 104.174,
-        "y": 73.3085
+        "x": 64.7104,
+        "y": 74.9585
       }
     },
     {
       "source": "full stack development",
       "target": "MEAN",
       "curve": {
-        "x": -223.617,
-        "y": 81.846
-      }
-    },
-    {
-      "source": "MERN",
-      "target": "mongoDB  ️",
-      "curve": {
-        "x": -108.187,
-        "y": 69.4161
-      }
-    },
-    {
-      "source": "MERN",
-      "target": "express  ️",
-      "curve": {
-        "x": -26.0538,
-        "y": 68.8102
+        "x": -122.574,
+        "y": 114.025
       }
     },
     {
       "source": "MERN",
       "target": "react js  ️",
       "curve": {
-        "x": 48.7939,
-        "y": 68.6888
-      }
-    },
-    {
-      "source": "MERN",
-      "target": "node.js  ️",
-      "curve": {
-        "x": 122.141,
-        "y": 71.4972
+        "x": 58.281,
+        "y": 68.9164
       }
     },
     {
       "source": "full stack development",
       "target": "MERN",
       "curve": {
-        "x": 78.1711,
-        "y": 87.024
+        "x": 115.396,
+        "y": 125.076
       }
     },
     {
       "source": "full stack development",
       "target": "meteor  ️",
       "curve": {
-        "x": 178.96,
-        "y": 88.47
+        "x": 183.811,
+        "y": 77.5563
       }
     },
     {
       "source": "full stack development",
       "target": "django  ️",
       "curve": {
-        "x": 314.557,
-        "y": 90.1163
+        "x": 328.733,
+        "y": 77.8048
       }
     },
     {
       "source": "full stack development",
       "target": "ruby on rails  ️",
       "curve": {
-        "x": 390.04,
-        "y": 62.8042
+        "x": 373.167,
+        "y": 52.6225
+      }
+    },
+    {
+      "source": "MERN",
+      "target": "express  ️",
+      "curve": {
+        "x": -114.865,
+        "y": -0.826349
+      }
+    },
+    {
+      "source": "MEAN",
+      "target": "express  ️",
+      "curve": {
+        "x": 132.954,
+        "y": 14.7631
+      }
+    },
+    {
+      "source": "MERN",
+      "target": "node.js  ️",
+      "curve": {
+        "x": -62.0221,
+        "y": 51.4036
+      }
+    },
+    {
+      "source": "MEAN",
+      "target": "mongoDB  ️",
+      "curve": {
+        "x": 116.956,
+        "y": -45.2642
+      }
+    },
+    {
+      "source": "MERN",
+      "target": "mongoDB  ️",
+      "curve": {
+        "x": -112.443,
+        "y": -42.6335
       }
     }
   ]
