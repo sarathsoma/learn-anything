@@ -152,14 +152,23 @@
     {
       "text": "issues",
       "url": "",
-      "fx": 426.81752802314054,
-      "fy": 274.549748857901,
+      "fx": 383.73951962761817,
+      "fy": 262.3981241688464,
       "nodes": [
+        {
+          "text": "14: Facebook apologies for psychological experiments on users  ️",
+          "url": "https://www.theguardian.com/technology/2014/jul/02/facebook-apologises-psychological-experiments-on-users",
+          "fx": 545.7395196276182,
+          "fy": 216.39812416884638,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
         {
           "text": "15: how Facebook is stealing billions of views",
           "url": "https://www.youtube.com/watch?v=t7tA3NNKF0Q",
-          "fx": 588.8175280231405,
-          "fy": 274.549748857901,
+          "fx": 545.7395196276182,
+          "fy": 308.3981241688464,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -169,14 +178,14 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 481.6781710508892,
-      "fy": 446.3577707258572,
+      "fx": 417.87220090163555,
+      "fy": 455.6687159994891,
       "nodes": [
         {
           "text": "engineering blog  ️",
           "url": "https://code.facebook.com/posts/",
-          "fx": 680.6781710508892,
-          "fy": 458.8577707258572,
+          "fx": 616.8722009016356,
+          "fy": 468.1687159994891,
           "nodes": [],
           "category": "blog",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -189,16 +198,16 @@
       "source": "issues",
       "target": "privacy concerns",
       "curve": {
-        "x": -98.5374,
-        "y": -177.242
+        "x": -76.9984,
+        "y": -171.166
       }
     },
     {
       "source": "interesting",
       "target": "issues",
       "curve": {
-        "x": -36.4303,
-        "y": -85.904
+        "x": -26.0663,
+        "y": -96.6353
       }
     },
     {

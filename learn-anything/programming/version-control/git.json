@@ -216,7 +216,7 @@
           "text": "1. how Git works",
           "url": "http://gitlet.maryrosecook.com/docs/gitlet.html",
           "fx": 0.6495702626341426,
-          "fy": 411.81091058495895,
+          "fy": 394.81091058495895,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         },
@@ -224,7 +224,7 @@
           "text": "1. git branching",
           "url": "http://learngitbranching.js.org/",
           "fx": 0.6495702626341426,
-          "fy": 445.81091058495895,
+          "fy": 428.81091058495895,
           "nodes": [],
           "category": "interactive",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -233,7 +233,7 @@
           "text": "1. git game",
           "url": "https://www.git-game.com/",
           "fx": 0.6495702626341426,
-          "fy": 485.81091058495895,
+          "fy": 468.81091058495895,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         },
@@ -241,15 +241,23 @@
           "text": "1: learn git",
           "url": "https://try.github.io/levels/1/challenges/1",
           "fx": 0.6495702626341426,
-          "fy": 519.810910584959,
+          "fy": 502.81091058495895,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. git tutorial",
+          "url": "http://www.vogella.com/tutorials/Git/article.html",
+          "fx": 0.6495702626341426,
+          "fy": 536.810910584959,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
         },
         {
           "text": "1. fundamentals of git",
           "url": "https://githowto.com/setup",
           "fx": 0.6495702626341426,
-          "fy": 553.810910584959,
+          "fy": 570.810910584959,
           "nodes": [],
           "color": "rgba(209, 21, 88, 1.0)"
         },
@@ -257,7 +265,7 @@
           "text": "1. learn version control with git",
           "url": "https://www.git-tower.com/learn/git/ebook",
           "fx": 0.6495702626341426,
-          "fy": 587.810910584959,
+          "fy": 604.810910584959,
           "nodes": [],
           "category": "free book",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -266,7 +274,7 @@
           "text": "1. learn enough git to be dangerous",
           "url": "https://www.learnenough.com/git-tutorial",
           "fx": 0.6495702626341426,
-          "fy": 627.810910584959,
+          "fy": 644.810910584959,
           "nodes": [],
           "category": "free book",
           "color": "rgba(49, 187, 71, 1.0)"

@@ -120,6 +120,14 @@
       "category": "mindmap"
     },
     {
+      "text": "sample space",
+      "url": "http://www.wikiwand.com/en/Sample_space",
+      "fx": -2232.912569665605,
+      "fy": 85.65535429936267,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
       "text": "expected value  ️",
       "url": "/mathematics/statistics/probability-theory/expected-value",
       "fx": -968.3375946969668,
@@ -130,8 +138,8 @@
     {
       "text": "randomness  ️",
       "url": "/mathematics/statistics/probability-theory/randomness",
-      "fx": -2020.4283455569744,
-      "fy": 88.61286936649674,
+      "fx": -2016.2945556640625,
+      "fy": 88.61287689208984,
       "nodes": [],
       "category": "mindmap"
     },
@@ -245,8 +253,16 @@
       "source": "basics",
       "target": "randomness  ️",
       "curve": {
-        "x": -1333.56,
+        "x": -1331.49,
         "y": 19.2962
+      }
+    },
+    {
+      "source": "basics",
+      "target": "sample space",
+      "curve": {
+        "x": -1338.95,
+        "y": -16.0909
       }
     }
   ]

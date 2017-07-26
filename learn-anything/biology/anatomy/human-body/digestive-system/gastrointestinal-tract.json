@@ -45,8 +45,9 @@
     },
     {
       "text": "stomach  ️",
-      "fx": 384.55517578125,
-      "fy": 76.32714843750932,
+      "url": "/biology/anatomy/human-body/digestive-system/gastrointestinal-tract/stomach",
+      "fx": 385.05517578125,
+      "fy": 77.76585882483334,
       "nodes": [],
       "category": "mindmap"
     }
@@ -80,8 +81,8 @@
       "source": "basics",
       "target": "stomach  ️",
       "curve": {
-        "x": 107.758,
-        "y": 65.4136
+        "x": 108.008,
+        "y": 66.133
       }
     }
   ]

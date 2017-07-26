@@ -4,16 +4,15 @@
   "nodes": [
     {
       "text": "art",
-      "note": "",
       "url": "http://www.wikiwand.com/en/Art",
-      "fx": 138.95442915791625,
-      "fy": -792.0465732114337,
+      "fx": 158.29036665791625,
+      "fy": -805.1715732114337,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/Art/",
-          "fx": 320.95442915791625,
-          "fy": -778.0465732114337,
+          "fx": 314.29036665791625,
+          "fy": -791.1715732114337,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -340,14 +339,6 @@
       }
     },
     {
-      "source": "art",
-      "target": "basics",
-      "curve": {
-        "x": -0.111632,
-        "y": 54.9865
-      }
-    },
-    {
       "source": "basics",
       "target": "photography  ️",
       "curve": {
@@ -545,6 +536,14 @@
       "curve": {
         "x": -2061.94,
         "y": 161.936
+      }
+    },
+    {
+      "source": "art",
+      "target": "basics",
+      "curve": {
+        "x": -2.7796,
+        "y": 62.049
       }
     }
   ]

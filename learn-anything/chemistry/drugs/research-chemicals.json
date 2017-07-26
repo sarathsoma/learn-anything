@@ -1,0 +1,91 @@
+{
+  "title": "learn anything - chemistry - drugs - research chemicals",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "research chemicals",
+      "url": "https://psychonautwiki.org/wiki/Research_chemicals",
+      "fx": -142.56742931547603,
+      "fy": -463.6625744047619,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/researchchemicals/",
+          "fx": 149.43257068452397,
+          "fy": -451.1625744047619,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 36.61108036050712,
+      "fy": -344.3234727932829,
+      "nodes": [
+        {
+          "text": "TripSit fact sheets",
+          "url": "http://drugs.tripsit.me/",
+          "fx": 177.61108036050712,
+          "fy": -371.3234727932829,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "list of designer drugs",
+          "url": "http://www.wikiwand.com/en/List_of_designer_drugs",
+          "fx": 177.61108036050712,
+          "fy": -334.3234727932829,
+          "nodes": [],
+          "category": "wiki",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "research chemicals big list",
+          "url": "https://www.reddit.com/r/researchchemicals/comments/5wcxlh/i_am_looking_for_a_research_chemical_similar_to/",
+          "fx": 177.61108036050712,
+          "fy": -292.3234727932829,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -84.82379460238712,
+      "fy": -225.37702079975827,
+      "nodes": [
+        {
+          "text": "1. responsible drug use",
+          "url": "https://psychonautwiki.org/wiki/Research_chemicals",
+          "fx": 78.17620539761288,
+          "fy": -210.37702079975827,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "research chemicals",
+      "curve": {
+        "x": -51.8393,
+        "y": -59.6696
+      }
+    },
+    {
+      "source": "research chemicals",
+      "target": "basics",
+      "curve": {
+        "x": -3.37818,
+        "y": 119.143
+      }
+    }
+  ]
+}

@@ -6,19 +6,36 @@
       "text": "data compression",
       "url": "http://www.wikiwand.com/en/Data_compression",
       "fx": -108.3359375,
-      "fy": -135.421875,
+      "fy": -261.6244976441242,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/datacompression/",
           "fx": 181.6640625,
-          "fy": -121.421875,
+          "fy": -247.62449764412412,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ],
       "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 82.19190984320574,
+      "fy": -132.7051770637899,
+      "nodes": [
+        {
+          "text": "benchmark and visualisation of various compression algorithms",
+          "url": "https://github.com/mavam/compbench",
+          "fx": 273.19190984320574,
+          "fy": -132.2051770637899,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
@@ -94,7 +111,7 @@
       "target": "basics",
       "curve": {
         "x": -8.94994,
-        "y": 61.2072
+        "y": 124.309
       }
     },
     {
@@ -127,6 +144,14 @@
       "curve": {
         "x": 40.4469,
         "y": 62.8304
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "data compression",
+      "curve": {
+        "x": -70.5139,
+        "y": -63.2097
       }
     }
   ]

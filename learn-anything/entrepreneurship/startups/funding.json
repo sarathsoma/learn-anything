@@ -26,6 +26,14 @@
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "crowdfunding  ️",
+      "url": "/entrepreneurship/startups/funding/crowdfunding",
+      "fx": -204.4099292011108,
+      "fy": 116.75274275058143,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -35,6 +43,14 @@
       "curve": {
         "x": -1.45117,
         "y": 65.2972
+      }
+    },
+    {
+      "source": "basics",
+      "target": "crowdfunding  ️",
+      "curve": {
+        "x": -62.455,
+        "y": 61.0538
       }
     }
   ]

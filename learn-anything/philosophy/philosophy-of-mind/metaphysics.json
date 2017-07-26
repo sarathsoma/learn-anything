@@ -5,20 +5,37 @@
     {
       "text": "metaphysics",
       "url": "http://www.wikiwand.com/en/Metaphysics",
-      "fx": -231.38671875,
-      "fy": -276.43359375,
+      "fx": -223.42800715782118,
+      "fy": -413.8229748603352,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/Metaphysics/",
-          "fx": 9.61328125,
-          "fy": -262.43359375,
+          "fx": 17.571992842178815,
+          "fy": -399.8229748603352,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ],
       "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": -63.67157009450875,
+      "fy": -288.10180811150184,
+      "nodes": [
+        {
+          "text": "Leibniz’s metaphysics  ️",
+          "url": "http://www.typewriterpeople.com/leibnizs-metaphysics/",
+          "fx": 127.32842990549125,
+          "fy": -276.60180811150184,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
@@ -109,8 +126,8 @@
       "source": "metaphysics",
       "target": "basics",
       "curve": {
-        "x": -7.46865,
-        "y": 72.1675
+        "x": -11.448,
+        "y": 140.862
       }
     },
     {
@@ -159,6 +176,14 @@
       "curve": {
         "x": -431.161,
         "y": 80.9181
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "metaphysics",
+      "curve": {
+        "x": -67.3782,
+        "y": -61.6106
       }
     }
   ]

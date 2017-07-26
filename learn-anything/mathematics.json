@@ -283,6 +283,14 @@
       "category": "mindmap"
     },
     {
+      "text": "sequences  ️",
+      "url": "/mathematics/sequences",
+      "fx": -932.4987244897959,
+      "fy": -699.4818239795917,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "analysis  ️",
       "note": "deals with limits and related theories, such as differentiation, integration, measure, infinite series and analytic functions  these theories are usually studied in the context of real and complex numbers and functions  analysis evolved from calculus, which involved the elementary concepts and techniques of analysis  analysis may be distinguished from geometry, however it can be applied to any space of mathematical objects that has a definition of nearness (a topological space) or specific distances between objects (a metric space)",
       "url": "/mathematics/analysis",
@@ -800,6 +808,14 @@
       "curve": {
         "x": -813.478,
         "y": 195.261
+      }
+    },
+    {
+      "source": "basics",
+      "target": "sequences  ️",
+      "curve": {
+        "x": -1200.64,
+        "y": 208.646
       }
     }
   ]

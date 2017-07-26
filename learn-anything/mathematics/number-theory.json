@@ -38,22 +38,6 @@
       ]
     },
     {
-      "text": "algebraic number theory  ️",
-      "url": "/mathematics/number-theory/algebraic-number-theory",
-      "fx": -824.7000274658203,
-      "fy": 118.26951599121094,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "Fermat’s last theorem  ️",
-      "url": "/mathematics/number-theory/fermats-last-theorem",
-      "fx": -1094.7945808531745,
-      "fy": 120.21118551587301,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
       "text": "arithmetic  ️",
       "url": "/mathematics/number-theory/arithmetic",
       "fx": -105.46815719031895,
@@ -62,10 +46,10 @@
       "category": "mindmap"
     },
     {
-      "text": "Fibonacci sequence  ️",
-      "url": "/mathematics/number-theory/fibonacci-sequence",
-      "fx": -530.1506652832031,
-      "fy": 122.92407608032227,
+      "text": "algebraic number theory  ️",
+      "url": "/mathematics/number-theory/algebraic-number-theory",
+      "fx": -567.0711212158203,
+      "fy": 123.57420349121094,
       "nodes": [],
       "category": "mindmap"
     },
@@ -74,6 +58,14 @@
       "url": "/mathematics/number-theory/numbers",
       "fx": -267.40741978609617,
       "fy": 124.14597259358277,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "Fermat’s last theorem  ️",
+      "url": "/mathematics/number-theory/fermats-last-theorem",
+      "fx": -837.1656746031745,
+      "fy": 125.51587301587301,
       "nodes": [],
       "category": "mindmap"
     }
@@ -105,26 +97,18 @@
     },
     {
       "source": "basics",
-      "target": "Fibonacci sequence  ️",
-      "curve": {
-        "x": -172.501,
-        "y": 67.8117
-      }
-    },
-    {
-      "source": "basics",
       "target": "algebraic number theory  ️",
       "curve": {
-        "x": -339.397,
-        "y": 32.8095
+        "x": -210.583,
+        "y": 35.4618
       }
     },
     {
       "source": "basics",
       "target": "Fermat’s last theorem  ️",
       "curve": {
-        "x": -560.289,
-        "y": 27.9904
+        "x": -431.475,
+        "y": 30.6427
       }
     }
   ]

@@ -5,27 +5,20 @@
     {
       "text": "firefox",
       "url": "http://www.wikiwand.com/en/Firefox",
-      "fx": 89.65625,
-      "fy": -170.296875,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 189.5625,
-      "fy": -64.4296875,
+      "fx": 82.58757485029935,
+      "fy": -97.98212949101793,
       "nodes": [
         {
-          "text": "awesome firefox",
+          "text": "awesome",
           "url": "https://github.com/Hunter-Github/awesome-firefox",
-          "fx": 326.5625,
-          "fy": -52.9296875,
+          "fx": 263.58757485029935,
+          "fy": -83.98212949101793,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
         }
-      ]
+      ],
+      "category": "wiki"
     },
     {
       "text": "basics",
@@ -46,19 +39,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "firefox",
-      "curve": {
-        "x": -38.9531,
-        "y": -51.6836
-      }
-    },
-    {
       "source": "firefox",
       "target": "basics",
       "curve": {
-        "x": -4.07787,
-        "y": 100.867
+        "x": -0.543532,
+        "y": 64.7096
       }
     }
   ]

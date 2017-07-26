@@ -4,50 +4,41 @@
   "nodes": [
     {
       "text": "machine learning libraries",
-      "note": "",
       "url": "",
       "fx": -336.79796448948116,
-      "fy": -445.4390968869979,
+      "fy": -539.140268761998,
       "nodes": []
     },
     {
       "text": "pytorch  ️",
       "note": "tensors and dynamic neural networks in python with strong GPU acceleration",
       "url": "/machine-learning/machine-learning-libraries/pytorch",
-      "fx": -44.51439666748047,
-      "fy": -243.2207908630371,
+      "fx": -27.861804962158203,
+      "fy": -243.2217788696289,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "torch  ️",
       "url": "/machine-learning/machine-learning-libraries/torch",
-      "fx": 124.58058166503906,
-      "fy": -242.64648818969727,
+      "fx": 150.08058547973633,
+      "fy": -242.64747619628906,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "scikit-learn  ️",
       "url": "/machine-learning/machine-learning-libraries/scikit-learn",
-      "fx": 246.69708251953125,
-      "fy": -241.13748931884766,
+      "fx": 278.0605239868164,
+      "fy": -241.13847732543945,
       "nodes": [],
       "category": "mindmap"
     },
     {
-      "text": "darknet",
-      "note": "open source neural networks written in C and CUDA",
-      "url": "https://pjreddie.com/darknet/",
-      "fx": -565.6351318359375,
-      "fy": -238.583740234375,
-      "nodes": []
-    },
-    {
       "text": "tensorflow  ️",
       "url": "/machine-learning/machine-learning-libraries/tensorflow",
-      "fx": -213.57716369628906,
-      "fy": -240.63387298583984,
+      "fx": -206.7773895263672,
+      "fy": -240.63488006591797,
       "nodes": [],
       "category": "mindmap"
     },
@@ -55,56 +46,128 @@
       "text": "caffe  ️",
       "note": "deep learning framework made with expression, speed and modularity in mind  has  expressive architecture extensible code speed community",
       "url": "/machine-learning/machine-learning-libraries/caffe",
-      "fx": -710.3664148326699,
-      "fy": -240.26694963743893,
+      "fx": -729.4858856201172,
+      "fy": -240.2679443359375,
       "nodes": [],
       "category": "mindmap"
+    },
+    {
+      "text": "darknet",
+      "note": "open source neural networks written in C and CUDA",
+      "url": "https://pjreddie.com/darknet/",
+      "fx": -577.5767822265625,
+      "fy": -238.58573532104492,
+      "nodes": []
     },
     {
       "text": "TensorLayer",
       "note": "provides rich data pre-processing, training, post-processing and serving modules",
       "url": "https://github.com/zsdonghao/tensorlayer",
-      "fx": -424.6153869628906,
-      "fy": -239.23067474365234,
+      "fx": -430.67822265625,
+      "fy": -239.23168182373047,
       "nodes": [],
       "category": "github"
     },
     {
-      "text": "mlpack",
-      "url": "http://www.mlpack.org/",
-      "fx": -827.5364990234375,
-      "fy": -236.58655548095703,
-      "nodes": []
+      "text": "CNTK",
+      "url": "https://github.com/Microsoft/CNTK",
+      "fx": 607.1702880859375,
+      "fy": -239.20412063598633,
+      "nodes": [],
+      "category": "github"
     },
     {
       "text": "nnabla  ️",
       "url": "/machine-learning/machine-learning-libraries/nnabla",
-      "fx": 431.02264664837367,
-      "fy": -238.78145082793884,
+      "fx": 462.0870895385742,
+      "fy": -238.78244400024414,
       "nodes": [],
       "category": "mindmap"
     },
     {
+      "text": "mlpack",
+      "url": "http://www.mlpack.org/",
+      "fx": -848.4170227050781,
+      "fy": -236.58855056762695,
+      "nodes": []
+    },
+    {
+      "text": "neon",
+      "url": "https://github.com/NervanaSystems/neon",
+      "fx": 996.3482074386511,
+      "fy": -237.45921203987734,
+      "nodes": [],
+      "category": "github"
+    },
+    {
       "text": "theano",
       "url": "https://github.com/Theano/Theano",
-      "fx": -965.6764491074666,
-      "fy": -237.2734510365642,
+      "fx": -995.38134765625,
+      "fy": -237.2744369506836,
+      "nodes": [],
+      "category": "github"
+    },
+    {
+      "text": "deeplearning4j",
+      "url": "https://github.com/deeplearning4j/deeplearning4j",
+      "fx": 757.046875,
+      "fy": -237.24729567307668,
+      "nodes": [],
+      "category": "github"
+    },
+    {
+      "text": "xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "fx": 1290.4660661567405,
+      "fy": -235.85830146269473,
+      "nodes": [],
+      "category": "github"
+    },
+    {
+      "text": "H2O",
+      "url": "https://github.com/h2oai/h2o-3",
+      "fx": 1149.571337202895,
+      "fy": -234.76430457746494,
       "nodes": [],
       "category": "github"
     },
     {
       "text": "MXNet  ️",
       "url": "/machine-learning/machine-learning-libraries/mxnet",
-      "fx": -1271.7506205546772,
-      "fy": -234.65124032419618,
+      "fx": -1291.4423217773438,
+      "fy": -234.6522331237793,
       "nodes": [],
       "category": "mindmap"
     },
     {
+      "text": "JSAT",
+      "url": "https://github.com/EdwardRaff/JSAT",
+      "fx": 1479.8524709302324,
+      "fy": -233.9120639534883,
+      "nodes": [],
+      "category": "github"
+    },
+    {
       "text": "pybrain",
       "url": "https://github.com/pybrain/pybrain",
-      "fx": -1126.4156646728516,
-      "fy": -233.58444595336914,
+      "fx": -1145.3875122070312,
+      "fy": -233.58543395996094,
+      "nodes": [],
+      "category": "github"
+    },
+    {
+      "text": "vowpal wabbit",
+      "url": "https://github.com/JohnLangford/vowpal_wabbit",
+      "fx": -1511.5499267578125,
+      "fy": -233.2679557800293,
+      "nodes": [],
+      "category": "github"
+    },
+    {
+      "text": "DeepCL",
+      "url": "https://github.com/hughperkins/DeepCL",
+      "fx": -1691.9701562971911,
+      "fy": -233.07000339776494,
       "nodes": [],
       "category": "github"
     },
@@ -131,112 +194,176 @@
       "source": "machine learning libraries",
       "target": "tensorflow  ️",
       "curve": {
-        "x": 35.3603,
-        "y": 103.653
+        "x": 38.7602,
+        "y": 150.503
       }
     },
     {
       "source": "machine learning libraries",
       "target": "pytorch  ️",
       "curve": {
-        "x": 113.392,
-        "y": 102.359
+        "x": 121.718,
+        "y": 149.209
       }
     },
     {
       "source": "machine learning libraries",
       "target": "torch  ️",
       "curve": {
-        "x": 192.689,
-        "y": 102.646
+        "x": 205.439,
+        "y": 149.496
       }
     },
     {
       "source": "machine learning libraries",
       "target": "scikit-learn  ️",
       "curve": {
-        "x": 278.32,
-        "y": 102.951
+        "x": 294.002,
+        "y": 149.801
       }
     },
     {
       "source": "machine learning libraries",
       "target": "TensorLayer",
       "curve": {
-        "x": -66.1588,
-        "y": 104.354
+        "x": -69.1902,
+        "y": 151.204
       }
     },
     {
       "source": "tensorflow  ️",
       "target": "keras  ️",
       "curve": {
-        "x": -45.3895,
-        "y": 52.7021
+        "x": -48.7894,
+        "y": 52.7026
       }
     },
     {
       "source": "tensorflow  ️",
       "target": "edward",
       "curve": {
-        "x": 34.4633,
-        "y": 53.2835
+        "x": 31.0634,
+        "y": 53.284
       }
     },
     {
       "source": "machine learning libraries",
       "target": "darknet",
       "curve": {
-        "x": -211.971,
-        "y": 84.5375
+        "x": -217.942,
+        "y": 131.387
       }
     },
     {
       "source": "machine learning libraries",
       "target": "caffe  ️",
       "curve": {
-        "x": -306.078,
-        "y": 75.5335
+        "x": -315.638,
+        "y": 122.384
       }
     },
     {
       "source": "machine learning libraries",
       "target": "mlpack",
       "curve": {
-        "x": -384.94,
-        "y": 61.7661
+        "x": -395.38,
+        "y": 108.616
       }
     },
     {
       "source": "machine learning libraries",
       "target": "theano",
       "curve": {
-        "x": -507.556,
-        "y": 72.2568
+        "x": -522.408,
+        "y": 119.107
       }
     },
     {
       "source": "machine learning libraries",
       "target": "pybrain",
       "curve": {
-        "x": -601.485,
-        "y": 83.0178
+        "x": -610.971,
+        "y": 129.868
       }
     },
     {
       "source": "machine learning libraries",
       "target": "MXNet  ️",
       "curve": {
-        "x": -583.466,
-        "y": 22.3024
+        "x": -670.132,
+        "y": 117.435
       }
     },
     {
       "source": "machine learning libraries",
       "target": "nnabla  ️",
       "curve": {
-        "x": 501.8,
-        "y": 92.4694
+        "x": 517.332,
+        "y": 139.319
+      }
+    },
+    {
+      "source": "machine learning libraries",
+      "target": "vowpal wabbit",
+      "curve": {
+        "x": -833.548,
+        "y": 98.7096
+      }
+    },
+    {
+      "source": "machine learning libraries",
+      "target": "CNTK",
+      "curve": {
+        "x": 638.821,
+        "y": 138.956
+      }
+    },
+    {
+      "source": "machine learning libraries",
+      "target": "deeplearning4j",
+      "curve": {
+        "x": 656.103,
+        "y": 100.06
+      }
+    },
+    {
+      "source": "machine learning libraries",
+      "target": "neon",
+      "curve": {
+        "x": 839.264,
+        "y": 121.275
+      }
+    },
+    {
+      "source": "machine learning libraries",
+      "target": "H2O",
+      "curve": {
+        "x": 979.524,
+        "y": 84.3955
+      }
+    },
+    {
+      "source": "machine learning libraries",
+      "target": "xgboost",
+      "curve": {
+        "x": 1170.63,
+        "y": 115.235
+      }
+    },
+    {
+      "source": "machine learning libraries",
+      "target": "JSAT",
+      "curve": {
+        "x": 1279.59,
+        "y": 131.725
+      }
+    },
+    {
+      "source": "machine learning libraries",
+      "target": "DeepCL",
+      "curve": {
+        "x": -933.051,
+        "y": 80.4609
       }
     }
   ]

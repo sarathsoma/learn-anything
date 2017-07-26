@@ -7,29 +7,30 @@
       "url": "https://github.com/mrdoob/three.js/",
       "fx": 23.707033157348633,
       "fy": -49.36132097244263,
-      "nodes": [],
-      "category": "github"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 152.1943044354839,
-      "fy": 41.57258064516134,
       "nodes": [
         {
-          "text": "awesome three.js",
+          "text": "awesome",
           "url": "https://github.com/fritx/awesome-threejs",
-          "fx": 289.1943044354839,
-          "fy": 36.07258064516134,
+          "fx": 216.70703315734863,
+          "fy": -35.36132097244263,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
-        },
+        }
+      ],
+      "category": "github"
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 150.1943044354839,
+      "fy": 41.57258064516134,
+      "nodes": [
         {
           "text": "three.js editor",
           "url": "https://threejs.org/editor/",
-          "fx": 289.1943044354839,
-          "fy": 76.07258064516134,
+          "fx": 291.1943044354839,
+          "fy": 56.07258064516134,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         }
@@ -81,18 +82,18 @@
   ],
   "connections": [
     {
-      "source": "help",
+      "source": "tools",
       "target": "three.js",
       "curve": {
-        "x": -50.2436,
+        "x": -49.2436,
         "y": -44.217
       }
     },
     {
       "source": "interesting",
-      "target": "help",
+      "target": "tools",
       "curve": {
-        "x": -54.6322,
+        "x": -55.6322,
         "y": -55.6027
       }
     },

@@ -5,22 +5,22 @@
     {
       "text": "programming language theory",
       "url": "http://www.wikiwand.com/en/Programming_language_theory",
-      "fx": 39.06771892223412,
-      "fy": -1223.1240004597107,
+      "fx": 69.16928142223412,
+      "fy": -1237.8896254597107,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 257.1172496625625,
-      "fy": -1075.5259872744377,
+      "fx": 304.1758434125625,
+      "fy": -1090.7330185244377,
       "nodes": [
         {
           "text": "(how to write a (lisp) interpreter (in python))  ️",
           "url": "http://norvig.com/lispy.html",
-          "fx": 394.1172496625625,
-          "fy": -1095.0259872744377,
+          "fx": 441.1758434125625,
+          "fy": -1110.2330185244377,
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -28,8 +28,8 @@
         {
           "text": "let’s build a simple interpreter  ️",
           "url": "https://ruslanspivak.com/lsbasi-part1/",
-          "fx": 394.1172496625625,
-          "fy": -1033.0259872744377,
+          "fx": 441.1758434125625,
+          "fy": -1048.2330185244377,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -47,7 +47,7 @@
           "text": "1. programming language theory list  ️",
           "url": "http://steshaw.org/plt/",
           "fx": 312.1581765761473,
-          "fy": -929.9442419324058,
+          "fy": -960.9442419324058,
           "nodes": [],
           "category": "article",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -56,7 +56,7 @@
           "text": "1. programming languages: application and interpretation",
           "url": "http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/",
           "fx": 312.1581765761473,
-          "fy": -889.9442419324058,
+          "fy": -920.9442419324058,
           "nodes": [],
           "category": "free book",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -65,7 +65,7 @@
           "text": "1. types and programming languages",
           "url": "https://www.cis.upenn.edu/%7Ebcpierce/tapl/",
           "fx": 312.1581765761473,
-          "fy": -827.9442419324058,
+          "fy": -858.9442419324058,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -74,16 +74,25 @@
           "text": "1. practical foundations for programming languages",
           "url": "http://www.cs.cmu.edu/%7Erwh/pfpl.html",
           "fx": 312.1581765761473,
-          "fy": -765.9442419324058,
+          "fy": -796.9442419324058,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(255, 189, 10, 1.0)"
         },
         {
+          "text": "1. essentials of programming languages",
+          "url": "http://184.168.171.185/BOOKS/DVD%201/Essentials%20of%20Programming%20Languages%20-%20Daniel%20P.%20Friedman%20and%20Mitchell%20Wand.pdf",
+          "fx": 312.1581765761473,
+          "fy": -734.9442419324058,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
           "text": "1. programming languages",
           "url": "http://www.seas.harvard.edu/courses/cs152/2016sp/",
           "fx": 312.1581765761473,
-          "fy": -703.9442419324058,
+          "fy": -672.9442419324058,
           "nodes": [],
           "category": "course",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -92,7 +101,7 @@
           "text": "2. concrete semantics",
           "url": "http://concrete-semantics.org/",
           "fx": 312.1581765761473,
-          "fy": -663.9442419324058,
+          "fy": -632.9442419324058,
           "nodes": [],
           "category": "free book",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -146,8 +155,8 @@
       "source": "programming language theory",
       "target": "basics",
       "curve": {
-        "x": -9.45477,
-        "y": 199.839
+        "x": -24.5056,
+        "y": 207.222
       }
     },
     {
@@ -162,8 +171,8 @@
       "source": "help",
       "target": "programming language theory",
       "curve": {
-        "x": -49.2747,
-        "y": -66.299
+        "x": -57.7532,
+        "y": -66.0783
       }
     },
     {

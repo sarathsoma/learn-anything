@@ -6,8 +6,8 @@
       "text": "blogs",
       "note": "",
       "url": "https://github.com/learn-anything/blogs",
-      "fx": 4.474864652407746,
-      "fy": 15.781142734553725,
+      "fx": 3.5352531659210626,
+      "fy": -88.79834353438625,
       "nodes": [],
       "category": "github"
     },
@@ -15,13 +15,13 @@
       "text": "find new blogs",
       "url": "",
       "fx": -14.239130434782624,
-      "fy": 137.95652173916358,
+      "fy": 56.86526598970465,
       "nodes": [
         {
           "text": "awesome engineering blogs",
           "url": "https://github.com/kilimchoi/engineering-blogs",
           "fx": 215.76086956521738,
-          "fy": 149.45652173916358,
+          "fy": 68.36526598970465,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -31,14 +31,176 @@
     {
       "text": "physics  ️",
       "url": "/physics",
-      "fx": 11.778130945111116,
-      "fy": 262.6029503629735,
+      "fx": -10.289706573260219,
+      "fy": 182.14735417117225,
       "nodes": [
         {
           "text": "shtetl optimised  ️",
           "url": "http://www.scottaaronson.com/blog/",
-          "fx": 206.77813094511112,
-          "fy": 276.6029503629735,
+          "fx": 184.71029342673978,
+          "fy": 176.14735417117225,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "brilliantly wrong  ️",
+          "url": "https://arogozhnikov.github.io/",
+          "fx": 184.71029342673978,
+          "fy": 216.14735417117225,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "machine learning  ️",
+      "url": "/machine-learning",
+      "fx": -62.59267522859341,
+      "fy": 533.0792734930724,
+      "nodes": [
+        {
+          "text": "Christopher Olah  ️",
+          "url": "http://colah.github.io/",
+          "fx": 218.4073247714066,
+          "fy": 287.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "the BAIR blog  ️",
+          "url": "http://bair.berkeley.edu/blog/about/",
+          "fx": 218.4073247714066,
+          "fy": 327.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "Rylan Schaeffer  ️",
+          "url": "http://rylanschaeffer.github.io/content/research.html",
+          "fx": 218.4073247714066,
+          "fy": 367.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "Igor Babuschkin  ️",
+          "url": "https://babushk.in/archive.html",
+          "fx": 218.4073247714066,
+          "fy": 407.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "Distill  ️",
+          "url": "https://distill.pub/",
+          "fx": 218.4073247714066,
+          "fy": 447.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "openAI  ️",
+          "url": "https://blog.openai.com/",
+          "fx": 218.4073247714066,
+          "fy": 487.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "deepmind  ️",
+          "url": "https://deepmind.com/blog/",
+          "fx": 218.4073247714066,
+          "fy": 527.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "google research  ️",
+          "url": "https://research.googleblog.com/",
+          "fx": 218.4073247714066,
+          "fy": 567.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "facebook research  ️",
+          "url": "https://research.fb.com/blog/",
+          "fx": 218.4073247714066,
+          "fy": 607.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "Andrej Karpathy  ️",
+          "url": "https://karpathy.github.io/",
+          "fx": 218.4073247714066,
+          "fy": 647.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "I am trask  ️",
+          "url": "http://iamtrask.github.io/",
+          "fx": 218.4073247714066,
+          "fy": 687.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
+          "text": "the deep dojo ML blog  ️",
+          "url": "http://deepdojo.com/",
+          "fx": 218.4073247714066,
+          "fy": 727.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "machine learning theory  ️",
+          "url": "http://hunch.net/",
+          "fx": 218.4073247714066,
+          "fy": 767.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "Apple machine learning journal  ️",
+          "url": "https://machinelearning.apple.com/",
+          "fx": 218.4073247714066,
+          "fy": 807.0792734930724,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "computer science  ️",
+      "url": "/computer-science",
+      "fx": -73.09926788160135,
+      "fy": 878.5061403328684,
+      "nodes": [
+        {
+          "text": "the morning paper  ️",
+          "url": "https://blog.acolyer.org/",
+          "fx": 215.90073211839865,
+          "fy": 892.5061403328684,
           "nodes": [],
           "category": "blog",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -49,14 +211,14 @@
     {
       "text": "programming  ️",
       "url": "/programming",
-      "fx": -21.81468283008553,
-      "fy": 397.3250644555674,
+      "fx": -38.14087833596852,
+      "fy": 1029.979250547253,
       "nodes": [
         {
           "text": "coding horror  ️",
           "url": "https://blog.codinghorror.com/",
-          "fx": 226.18531716991447,
-          "fy": 391.3250644555674,
+          "fx": 209.85912166403148,
+          "fy": 983.9792505472531,
           "nodes": [],
           "category": "blog",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -64,11 +226,29 @@
         {
           "text": "Joel on software  ️",
           "url": "https://www.joelonsoftware.com/",
-          "fx": 226.18531716991447,
-          "fy": 431.3250644555674,
+          "fx": 209.85912166403148,
+          "fy": 1023.9792505472531,
           "nodes": [],
           "category": "blog",
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "fuzzy notepad  ️",
+          "url": "https://eev.ee/blog/",
+          "fx": 209.85912166403148,
+          "fy": 1063.979250547253,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "Steve Yegge  ️",
+          "url": "https://steve-yegge.blogspot.nl/",
+          "fx": 209.85912166403148,
+          "fy": 1103.979250547253,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(34, 205, 224, 1.0)"
         }
       ],
       "category": "mindmap"
@@ -76,14 +256,14 @@
     {
       "text": "linux  ️",
       "url": "/operating-systems/unix/linux",
-      "fx": 17.716635026546328,
-      "fy": 534.7681168416677,
+      "fx": -1.237471847482425,
+      "fy": 1174.471590451391,
       "nodes": [
         {
           "text": "Julia Evans  ️",
           "url": "https://jvns.ca/",
-          "fx": 185.71663502654633,
-          "fy": 548.7681168416677,
+          "fx": 166.76252815251758,
+          "fy": 1188.471590451391,
           "nodes": [],
           "category": "blog",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -94,14 +274,14 @@
     {
       "text": "go  ️",
       "url": "/programming/programming-languages/go",
-      "fx": 13.869252313966285,
-      "fy": 668.8470061629399,
+      "fx": 3.9679361821815746,
+      "fy": 1309.7291893009822,
       "nodes": [
         {
           "text": "Dave Cheney  ️",
           "url": "https://dave.cheney.net/",
-          "fx": 164.86925231396629,
-          "fy": 642.8470061629399,
+          "fx": 154.96793618218157,
+          "fy": 1283.7291893009822,
           "nodes": [],
           "category": "blog",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -109,8 +289,8 @@
         {
           "text": "Jessie Frazelle  ️",
           "url": "https://blog.jessfraz.com/",
-          "fx": 164.86925231396629,
-          "fy": 682.8470061629399,
+          "fx": 154.96793618218157,
+          "fy": 1323.729189300982,
           "nodes": [],
           "category": "blog",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -118,8 +298,8 @@
         {
           "text": "Mitchell Hashimoto  ️",
           "url": "http://mitchellh.com/",
-          "fx": 164.86925231396629,
-          "fy": 722.8470061629399,
+          "fx": 154.96793618218157,
+          "fy": 1363.7291893009822,
           "nodes": [],
           "category": "blog",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -130,14 +310,14 @@
     {
       "text": "swift  ️",
       "url": "/programming/programming-languages/swift",
-      "fx": 0.5686113911289112,
-      "fy": 860.1218771001345,
+      "fx": 4.403217540188393,
+      "fy": 1499.3932957856155,
       "nodes": [
         {
           "text": "swift tutorials  ️",
           "url": "http://jamesonquave.com/",
-          "fx": 169.5686113911289,
-          "fy": 794.1218771001345,
+          "fx": 173.4032175401884,
+          "fy": 1433.3932957856155,
           "nodes": [],
           "category": "blog",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -145,17 +325,17 @@
         {
           "text": "NSHipster  ️",
           "url": "http://nshipster.com/",
-          "fx": 169.5686113911289,
-          "fy": 834.1218771001345,
+          "fx": 173.4032175401884,
+          "fy": 1473.3932957856155,
           "nodes": [],
           "category": "blog",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
-          "text": "mike ash  ️",
+          "text": "Mike Ash  ️",
           "url": "https://mikeash.com/pyblog/",
-          "fx": 169.5686113911289,
-          "fy": 874.1218771001345,
+          "fx": 173.4032175401884,
+          "fy": 1513.3932957856155,
           "nodes": [],
           "category": "blog",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -163,8 +343,8 @@
         {
           "text": "swift by Sundell  ️",
           "url": "https://www.swiftbysundell.com/",
-          "fx": 169.5686113911289,
-          "fy": 914.1218771001345,
+          "fx": 173.4032175401884,
+          "fy": 1553.3932957856155,
           "nodes": [],
           "category": "blog",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -172,11 +352,119 @@
         {
           "text": "swift talk  ️",
           "url": "https://talk.objc.io/",
-          "fx": 169.5686113911289,
-          "fy": 954.1218771001345,
+          "fx": 173.4032175401884,
+          "fy": 1593.3932957856155,
           "nodes": [],
           "category": "blog",
           "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "haskell  ️",
+      "url": "/programming/programming-languages/haskell",
+      "fx": -25.78030899971168,
+      "fy": 1710.237846665787,
+      "nodes": [
+        {
+          "text": "joy of haskell  ️",
+          "url": "https://joyofhaskell.com/blog.html",
+          "fx": 163.21969100028832,
+          "fy": 1664.237846665787,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "haskell for all  ️",
+          "url": "http://www.haskellforall.com/",
+          "fx": 163.21969100028832,
+          "fy": 1704.237846665787,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "well typed  ️",
+          "url": "https://www.well-typed.com/blog/",
+          "fx": 163.21969100028832,
+          "fy": 1744.237846665787,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "neighbourhood of infinity  ️",
+          "url": "http://blog.sigfpe.com/",
+          "fx": 163.21969100028832,
+          "fy": 1784.237846665787,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "security  ️",
+      "url": "/security",
+      "fx": -59.30971923152288,
+      "fy": 1904.118188774677,
+      "nodes": [
+        {
+          "text": "zdziarski's blog of things  ️",
+          "url": "https://www.zdziarski.com/blog/",
+          "fx": 137.69028076847712,
+          "fy": 1858.1181887746768,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "Troy Hunt  ️",
+          "url": "https://www.troyhunt.com/",
+          "fx": 137.69028076847712,
+          "fy": 1898.118188774677,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "Krebs on security  ️",
+          "url": "https://krebsonsecurity.com/",
+          "fx": 137.69028076847712,
+          "fy": 1938.118188774677,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "Simone Margaritelli  ️",
+          "url": "https://www.evilsocket.net/",
+          "fx": 137.69028076847712,
+          "fy": 1978.118188774677,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "startups  ️",
+      "url": "/entrepreneurship/startups",
+      "fx": -60.18285580992517,
+      "fy": 2064.018058579223,
+      "nodes": [
+        {
+          "text": "Paul Graham  ️",
+          "url": "http://www.paulgraham.com/articles.html",
+          "fx": 140.81714419007483,
+          "fy": 2078.018058579223,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(175, 54, 242, 1.0)"
         }
       ],
       "category": "mindmap"
@@ -187,48 +475,88 @@
       "source": "blogs",
       "target": "find new blogs",
       "curve": {
-        "x": -2.607,
-        "y": 59.8376
+        "x": -2.13719,
+        "y": 71.5817
       }
     },
     {
       "source": "find new blogs",
       "target": "physics  ️",
       "curve": {
-        "x": -2.74137,
-        "y": 62.3232
+        "x": -13.7753,
+        "y": 62.641
       }
     },
     {
       "source": "go  ️",
       "target": "swift  ️",
       "curve": {
-        "x": -9.40032,
-        "y": 94.3874
-      }
-    },
-    {
-      "source": "physics  ️",
-      "target": "programming  ️",
-      "curve": {
-        "x": -10.7964,
-        "y": 66.1111
+        "x": -2.53236,
+        "y": 93.582
       }
     },
     {
       "source": "programming  ️",
       "target": "linux  ️",
       "curve": {
-        "x": -0.234341,
-        "y": 68.7215
+        "x": -1.5483,
+        "y": 72.2461
       }
     },
     {
       "source": "linux  ️",
       "target": "go  ️",
       "curve": {
-        "x": -6.17369,
-        "y": 67.0394
+        "x": -1.64729,
+        "y": 67.6288
+      }
+    },
+    {
+      "source": "physics  ️",
+      "target": "machine learning  ️",
+      "curve": {
+        "x": -4.65148,
+        "y": 175.466
+      }
+    },
+    {
+      "source": "machine learning  ️",
+      "target": "computer science  ️",
+      "curve": {
+        "x": -3.25329,
+        "y": 172.713
+      }
+    },
+    {
+      "source": "computer science  ️",
+      "target": "programming  ️",
+      "curve": {
+        "x": 7.22919,
+        "y": 75.7366
+      }
+    },
+    {
+      "source": "swift  ️",
+      "target": "haskell  ️",
+      "curve": {
+        "x": -10.0918,
+        "y": 105.422
+      }
+    },
+    {
+      "source": "haskell  ️",
+      "target": "security  ️",
+      "curve": {
+        "x": -14.7647,
+        "y": 96.9401
+      }
+    },
+    {
+      "source": "security  ️",
+      "target": "startups  ️",
+      "curve": {
+        "x": -6.68661,
+        "y": 78.6999
       }
     }
   ]

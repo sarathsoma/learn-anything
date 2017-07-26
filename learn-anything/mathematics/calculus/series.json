@@ -52,26 +52,50 @@
       "category": "mindmap"
     },
     {
-      "text": "Ramanujan summation  ️",
-      "url": "/mathematics/calculus/series/ramanujan-summation",
-      "fx": -619.8408832282983,
-      "fy": 90.8402558940387,
+      "text": "divergent series",
+      "url": "http://www.wikiwand.com/en/Divergent_series",
+      "fx": -555.9793855735486,
+      "fy": 91.8081287983764,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "power series  ️",
+      "url": "/mathematics/calculus/series/power-series",
+      "fx": -760.5994873046875,
+      "fy": 95.4163818359375,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "Dirichlet series  ️",
       "url": "/mathematics/calculus/series/dirichlet-series",
-      "fx": -1016.750947684463,
-      "fy": 92.88776674593498,
+      "fx": -977.645478934463,
+      "fy": 96.66901674593498,
       "nodes": [],
       "category": "mindmap"
     },
     {
-      "text": "power series  ️",
-      "url": "/mathematics/calculus/series/power-series",
-      "fx": -810.6112060546875,
-      "fy": 93.4163818359375,
+      "text": "convergent series",
+      "url": "http://www.wikiwand.com/en/Convergent_series",
+      "fx": -1220.9140625,
+      "fy": 97.67578125000011,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "harmonic series  ️",
+      "url": "/mathematics/calculus/series/harmonic-series",
+      "fx": -646.8355853062667,
+      "fy": 218.87133565584406,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "Ramanujan summation  ️",
+      "url": "/mathematics/calculus/series/ramanujan-summation",
+      "fx": -412.4666914179536,
+      "fy": 220.23653822162498,
       "nodes": [],
       "category": "mindmap"
     }
@@ -111,26 +135,50 @@
     },
     {
       "source": "basics",
-      "target": "Ramanujan summation  ️",
-      "curve": {
-        "x": -291.578,
-        "y": 36.418
-      }
-    },
-    {
-      "source": "basics",
       "target": "power series  ️",
       "curve": {
-        "x": -477.054,
-        "y": 15.4001
+        "x": -452.048,
+        "y": 16.4001
       }
     },
     {
       "source": "basics",
       "target": "Dirichlet series  ️",
       "curve": {
-        "x": -578.28,
-        "y": -12.8837
+        "x": -558.727,
+        "y": -10.9931
+      }
+    },
+    {
+      "source": "basics",
+      "target": "divergent series",
+      "curve": {
+        "x": -281.977,
+        "y": 47.0081
+      }
+    },
+    {
+      "source": "basics",
+      "target": "convergent series",
+      "curve": {
+        "x": -800.438,
+        "y": 24.4132
+      }
+    },
+    {
+      "source": "divergent series",
+      "target": "harmonic series  ️",
+      "curve": {
+        "x": -52.4281,
+        "y": 62.2816
+      }
+    },
+    {
+      "source": "divergent series",
+      "target": "Ramanujan summation  ️",
+      "curve": {
+        "x": 88.2563,
+        "y": 64.2142
       }
     }
   ]

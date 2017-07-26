@@ -79,6 +79,7 @@
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/blood/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/circulatory-system/heart/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/circulatory-system/</loc> </url>
+<url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/digestive-system/gastrointestinal-tract/stomach/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/digestive-system/gastrointestinal-tract/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/digestive-system/</loc> </url>
 <url> <loc>https://learn-anything.xyz/biology/anatomy/human-body/respiratory-system/lungs/</loc> </url>
@@ -165,6 +166,7 @@
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/psychedelic/psilocin/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/psychedelic/salvia/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/psychedelic/</loc> </url>
+<url> <loc>https://learn-anything.xyz/chemistry/drugs/research-chemicals/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/stimulants/amphetamines/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/stimulants/caffeine/coffee/</loc> </url>
 <url> <loc>https://learn-anything.xyz/chemistry/drugs/stimulants/caffeine/</loc> </url>
@@ -266,6 +268,7 @@
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/graph/kruskal/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/graph/prim/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/graph/</loc> </url>
+<url> <loc>https://learn-anything.xyz/computer-science/algorithms/procedural-generation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/search/a-star/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/search/binary-search/</loc> </url>
 <url> <loc>https://learn-anything.xyz/computer-science/algorithms/search/breadth-first-search/</loc> </url>
@@ -386,6 +389,7 @@
 <url> <loc>https://learn-anything.xyz/data-science/data-analysis/time-series-analysis/</loc> </url>
 <url> <loc>https://learn-anything.xyz/data-science/data-analysis/topological-data-analysis/</loc> </url>
 <url> <loc>https://learn-anything.xyz/data-science/data-analysis/</loc> </url>
+<url> <loc>https://learn-anything.xyz/data-science/data-mining/cluster-analysis/k-means-clustering/</loc> </url>
 <url> <loc>https://learn-anything.xyz/data-science/data-mining/cluster-analysis/</loc> </url>
 <url> <loc>https://learn-anything.xyz/data-science/data-mining/</loc> </url>
 <url> <loc>https://learn-anything.xyz/data-science/data-processing/apache-hadoop/</loc> </url>
@@ -538,6 +542,7 @@
 <url> <loc>https://learn-anything.xyz/engineering/robotics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/engineering/</loc> </url>
 <url> <loc>https://learn-anything.xyz/entrepreneurship/innovation/</loc> </url>
+<url> <loc>https://learn-anything.xyz/entrepreneurship/startups/funding/crowdfunding/</loc> </url>
 <url> <loc>https://learn-anything.xyz/entrepreneurship/startups/funding/</loc> </url>
 <url> <loc>https://learn-anything.xyz/entrepreneurship/startups/</loc> </url>
 <url> <loc>https://learn-anything.xyz/entrepreneurship/success/</loc> </url>
@@ -737,6 +742,7 @@
 <url> <loc>https://learn-anything.xyz/linguistics/languages/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/linguistic-modality/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/morphology/</loc> </url>
+<url> <loc>https://learn-anything.xyz/linguistics/semantics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/translation/machine-translation/neural-machine-translation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/translation/machine-translation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/linguistics/translation/</loc> </url>
@@ -760,6 +766,7 @@
 <url> <loc>https://learn-anything.xyz/machine-learning/machine-learning-libraries/tensorflow/</loc> </url>
 <url> <loc>https://learn-anything.xyz/machine-learning/machine-learning-libraries/torch/</loc> </url>
 <url> <loc>https://learn-anything.xyz/machine-learning/machine-learning-libraries/</loc> </url>
+<url> <loc>https://learn-anything.xyz/machine-learning/meta-learning/</loc> </url>
 <url> <loc>https://learn-anything.xyz/machine-learning/multi-task-learning/</loc> </url>
 <url> <loc>https://learn-anything.xyz/machine-learning/neural-networks/activation-functions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/machine-learning/neural-networks/backpropagation/backpropagation-through-time/</loc> </url>
@@ -827,6 +834,8 @@
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/representation-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/abstract-algebra/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/boolean-algebra/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/algebra/equations/linear-equations/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/algebra/equations/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/functions/higher-order-functions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/functions/inverse-functions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/algebra/functions/logistic-functions/softmax-functions/</loc> </url>
@@ -875,10 +884,12 @@
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/differential-calculus/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/fundamental-theorem-of-calculus/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/integral-transform/laplace-transform/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/calculus/integration/improper-integral/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/integration/lebesgue-integration/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/integration/line-integrals/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/integration/multiple-integrals/surface-integrals/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/integration/multiple-integrals/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/calculus/integration/riemann-integral/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/integration/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/multivariable-calculus/differential-form/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/multivariable-calculus/</loc> </url>
@@ -887,6 +898,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/series/dirichlet-series/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/series/geometric-series/cantor-set/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/series/geometric-series/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/calculus/series/harmonic-series/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/series/power-series/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/series/ramanujan-summation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/calculus/series/taylor-series/</loc> </url>
@@ -927,11 +939,14 @@
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/coordinate-systems/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/descriptive-geometry/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/differential-geometry/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/geometry/euclidean-space/affine-space/convex-sets/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/geometry/euclidean-space/affine-space/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/euclidean-space/hilbert-spaces/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/euclidean-space/solid-geometry/polyhedrons/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/euclidean-space/solid-geometry/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/euclidean-space/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/fractals/fractal-analysis/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/geometry/fractals/fractal-landscapes/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/fractals/hilbert-curve/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/fractals/mandelbrot-set/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/geometry/fractals/</loc> </url>
@@ -1023,7 +1038,6 @@
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/arithmetic/multiplication/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/arithmetic/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/fermats-last-theorem/</loc> </url>
-<url> <loc>https://learn-anything.xyz/mathematics/number-theory/fibonacci-sequence/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/numbers/complex-numbers/imaginary-numbers/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/numbers/complex-numbers/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/number-theory/numbers/infinity/</loc> </url>
@@ -1043,6 +1057,8 @@
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/linear-programming/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/loss-functions/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/optimisation/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/sequences/fibonacci-sequence/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/sequences/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/set-theory/banach-tarski-paradox/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/set-theory/binary-relation/galois-connections/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/set-theory/binary-relation/</loc> </url>
@@ -1130,6 +1146,7 @@
 <url> <loc>https://learn-anything.xyz/mathematics/type-theory/algebraic-data-types/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/type-theory/dependent-type-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/type-theory/homotopy-type-theory/</loc> </url>
+<url> <loc>https://learn-anything.xyz/mathematics/type-theory/polymorphism/parametric-polymorphism/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/type-theory/polymorphism/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/type-theory/</loc> </url>
 <url> <loc>https://learn-anything.xyz/mathematics/</loc> </url>
@@ -1162,6 +1179,7 @@
 <url> <loc>https://learn-anything.xyz/more/books/biographies/</loc> </url>
 <url> <loc>https://learn-anything.xyz/more/books/</loc> </url>
 <url> <loc>https://learn-anything.xyz/more/courses/</loc> </url>
+<url> <loc>https://learn-anything.xyz/more/curated-resources/</loc> </url>
 <url> <loc>https://learn-anything.xyz/more/documentaries/</loc> </url>
 <url> <loc>https://learn-anything.xyz/more/humans/</loc> </url>
 <url> <loc>https://learn-anything.xyz/more/images/</loc> </url>
@@ -1177,8 +1195,10 @@
 <url> <loc>https://learn-anything.xyz/more/youtube-channels/</loc> </url>
 <url> <loc>https://learn-anything.xyz/more/</loc> </url>
 <url> <loc>https://learn-anything.xyz/natural-language-processing/automatic-summarisation/</loc> </url>
+<url> <loc>https://learn-anything.xyz/natural-language-processing/latent-semantic-analysis/</loc> </url>
 <url> <loc>https://learn-anything.xyz/natural-language-processing/nltk/</loc> </url>
 <url> <loc>https://learn-anything.xyz/natural-language-processing/sentiment-analysis/</loc> </url>
+<url> <loc>https://learn-anything.xyz/natural-language-processing/spacy/</loc> </url>
 <url> <loc>https://learn-anything.xyz/natural-language-processing/text-classification/</loc> </url>
 <url> <loc>https://learn-anything.xyz/natural-language-processing/word-vectors/</loc> </url>
 <url> <loc>https://learn-anything.xyz/natural-language-processing/</loc> </url>
@@ -1364,7 +1384,9 @@
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/vibration/sound/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/vibration/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/amplitude/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/diffraction/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/frequency/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/interference/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/mechanical-waves/acoustics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/mechanical-waves/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/classical-mechanics/waves/total-internal-reflection/</loc> </url>
@@ -1482,6 +1504,7 @@
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/leptons/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/neutrino/neutrino-oscillations/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/neutrino/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/photons/planck-constant/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/photons/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/quarks/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/elementary-particles/</loc> </url>
@@ -1494,6 +1517,7 @@
 <url> <loc>https://learn-anything.xyz/physics/particle-physics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/polymer-physics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/bells-theorem/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/double-slit-experiment/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-computing/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-entanglement/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-eraser-experiment/delayed-choice-quantum-eraser/</loc> </url>
@@ -1510,7 +1534,9 @@
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/categorical-quantum-mechanics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/quantum-teleportation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-information/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-state/wave-function/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-state/</loc> </url>
+<url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/quantum-tunneling/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/schrodinger-equation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/uncertainty-principle/</loc> </url>
 <url> <loc>https://learn-anything.xyz/physics/quantum-mechanics/wave-particle-duality/</loc> </url>

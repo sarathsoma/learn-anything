@@ -37,6 +37,22 @@
       ]
     },
     {
+      "text": "interference  ️",
+      "url": "/physics/classical-mechanics/waves/interference",
+      "fx": -1673.20927699321,
+      "fy": 80.06961071831131,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "diffraction  ️",
+      "url": "/physics/classical-mechanics/waves/diffraction",
+      "fx": -1873.2728623597425,
+      "fy": 81.07408191367051,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "wavelength  ️",
       "url": "/physics/classical-mechanics/waves-/wavelength",
       "fx": -1462.9410427393216,
@@ -172,6 +188,22 @@
       "curve": {
         "x": -989.648,
         "y": 10.1198
+      }
+    },
+    {
+      "source": "basics",
+      "target": "interference  ️",
+      "curve": {
+        "x": -1077.09,
+        "y": -24.524
+      }
+    },
+    {
+      "source": "basics",
+      "target": "diffraction  ️",
+      "curve": {
+        "x": -1336.41,
+        "y": 15.2132
       }
     }
   ]

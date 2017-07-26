@@ -49,14 +49,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 31.929487121688794,
-      "fy": 67.24612167998657,
+      "fx": 20.002403788355537,
+      "fy": 65.98191713453207,
       "nodes": [
         {
           "text": "1. computational complexity: a modern approach",
           "url": "http://theory.cs.princeton.edu/complexity/book.pdf",
-          "fx": 213.9294871216888,
-          "fy": 67.74612167998657,
+          "fx": 202.00240378835554,
+          "fy": 66.48191713453207,
           "nodes": [],
           "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -64,19 +64,27 @@
       ]
     },
     {
-      "text": "NP-completeness  ️",
-      "note": "a decision problem is NP-complete when it is both in NP and NP-hard  the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’",
-      "url": "/computer-science/computation/theory-of-computation/computational-complexity-theory/np-completeness",
-      "fx": 54.20063920454572,
-      "fy": 206.2642318618881,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
       "text": "NP-hardness  ️",
       "url": "/computer-science/computation/theory-of-computation/computational-complexity-theory/np-hardness",
       "fx": -159.53693181818187,
       "fy": 209.94081439393938,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "Cook–Levin theorem",
+      "url": "http://www.wikiwand.com/en/Cook%E2%80%93Levin_theorem",
+      "fx": -432.7015479880284,
+      "fy": 211.3916278571278,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "NP-completeness  ️",
+      "note": "a decision problem is NP-complete when it is both in NP and NP-hard  the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’",
+      "url": "/computer-science/computation/theory-of-computation/computational-complexity-theory/np-completeness",
+      "fx": 46.72597704238365,
+      "fy": 211.97580280783393,
       "nodes": [],
       "category": "mindmap"
     }
@@ -94,24 +102,32 @@
       "source": "computational complexity theory",
       "target": "basics",
       "curve": {
-        "x": -31.4689,
-        "y": 148.533
+        "x": -37.4324,
+        "y": 147.901
       }
     },
     {
       "source": "basics",
       "target": "NP-completeness  ️",
       "curve": {
-        "x": 43.3856,
-        "y": 70.759
+        "x": 45.6118,
+        "y": 74.2469
       }
     },
     {
       "source": "basics",
       "target": "NP-hardness  ️",
       "curve": {
-        "x": -86.9832,
-        "y": 71.3473
+        "x": -81.0197,
+        "y": 71.9794
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Cook–Levin theorem",
+      "curve": {
+        "x": -215.737,
+        "y": 50.3161
       }
     }
   ]

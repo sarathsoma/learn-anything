@@ -6,22 +6,22 @@
       "text": "euclidean space",
       "note": "encompasses the two-dimensional Euclidean plane, the three-dimensional space of Euclidean geometry and certain other spaces  Euclidean spaces also generalise to higher dimensions  from modern viewpoint, there is essentially only one Euclidean space of each dimension  one way to think of the Euclidean plane is a set of points satisfying certain relationships, expressible in terms of distance and angle  for example, there are two fundamental operations (referred to as motions) on the plane  one is translation, which means a shifting of the plane so that every point is shifted in the same direction and by the same distance  the other is rotation about a fixed point in the plane, in which every point in the plane turns about that fixed point through the same angle  one of the basic tenets of Euclidean geometry is that two figures (usually considered as subsets) of the plane should be considered equivalent (congruent) if one can be transformed into the other by some sequence of translations, rotations and reflections",
       "url": "http://www.wikiwand.com/en/Euclidean_space",
-      "fx": 81.5625,
-      "fy": -121.05859375,
+      "fx": 62.05859375,
+      "fy": -175.08984375,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 147,
-      "fy": 30.95703125,
+      "fx": 136.921875,
+      "fy": -41.62890625,
       "nodes": [
         {
           "text": "1. explanation",
           "url": "https://www.youtube.com/watch?v=Dm_d_nUTfmU",
-          "fx": 310,
-          "fy": 43.45703125,
+          "fx": 299.921875,
+          "fy": -29.12890625,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -53,6 +53,14 @@
       "category": "mindmap"
     },
     {
+      "text": "affine space  ️",
+      "url": "/mathematics/geometry/euclidean-space/affine-space",
+      "fx": 414.56277654868654,
+      "fy": 178.01523457836322,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "incidence structures",
       "url": "http://www.wikiwand.com/en/Incidence_structure",
       "fx": -532.4179687499998,
@@ -66,32 +74,32 @@
       "source": "euclidean space",
       "target": "basics",
       "curve": {
-        "x": -6.53125,
-        "y": 75.2578
+        "x": -1.81836,
+        "y": 65.9805
       }
     },
     {
       "source": "basics",
       "target": "solid geometry  ️",
       "curve": {
-        "x": -64.7807,
-        "y": 71.8608
+        "x": -59.7416,
+        "y": 108.154
       }
     },
     {
       "source": "basics",
       "target": "Hilbert spaces  ️",
       "curve": {
-        "x": 38.7011,
-        "y": 72.574
+        "x": 43.7402,
+        "y": 108.867
       }
     },
     {
       "source": "basics",
       "target": "two-dimensional space",
       "curve": {
-        "x": -237.483,
-        "y": 39.6294
+        "x": -232.444,
+        "y": 75.9224
       }
     },
     {
@@ -100,6 +108,14 @@
       "curve": {
         "x": -98.1246,
         "y": 84.0481
+      }
+    },
+    {
+      "source": "basics",
+      "target": "affine space  ️",
+      "curve": {
+        "x": 182.49,
+        "y": 112.515
       }
     }
   ]

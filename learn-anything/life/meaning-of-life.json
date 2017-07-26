@@ -5,22 +5,31 @@
     {
       "text": "meaning of life",
       "url": "http://www.wikiwand.com/en/Meaning_of_life",
-      "fx": 154.36923599243164,
-      "fy": -166.69513287990213,
+      "fx": 165.972719598989,
+      "fy": -205.67011580339943,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 204.50514796052778,
-      "fy": -20.204486727101596,
+      "fx": 203.93521968183927,
+      "fy": -12.251105579560601,
       "nodes": [
+        {
+          "text": "1. optimistic nihilism",
+          "url": "https://www.youtube.com/watch?v=MBRqu0YOH14",
+          "fx": 359.93521968183927,
+          "fy": -102.7511055795606,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
         {
           "text": "1. Alan Watts - the secret of life",
           "url": "https://www.youtube.com/watch?v=iZ8so-ld-l0",
-          "fx": 360.5051479605278,
-          "fy": -90.7044867271016,
+          "fx": 359.93521968183927,
+          "fy": -62.7511055795606,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -28,8 +37,8 @@
         {
           "text": "1. Alan Watts - is there a purpose to living?",
           "url": "https://www.youtube.com/watch?v=21RwqnB8GrE",
-          "fx": 360.5051479605278,
-          "fy": -50.704486727101596,
+          "fx": 359.93521968183927,
+          "fy": -22.7511055795606,
           "nodes": [],
           "category": "video",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -37,8 +46,8 @@
         {
           "text": "1. it’s just a ride",
           "url": "https://www.youtube.com/watch?v=KgzQuE1pR1w",
-          "fx": 360.5051479605278,
-          "fy": 11.295513272898404,
+          "fx": 359.93521968183927,
+          "fy": 39.2488944204394,
           "nodes": [],
           "category": "video",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -46,8 +55,8 @@
         {
           "text": "1. Alan Watts - does life have a meaning?",
           "url": "https://www.youtube.com/watch?v=l5vbmY0YwTs",
-          "fx": 360.5051479605278,
-          "fy": 51.295513272898404,
+          "fx": 359.93521968183927,
+          "fy": 79.2488944204394,
           "nodes": [],
           "category": "video",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -57,16 +66,16 @@
     {
       "text": "happiness  ️",
       "url": "/cognitive-science/cognition/emotions/happiness",
-      "fx": -21.166760781974972,
-      "fy": 109.09413008105241,
+      "fx": -28.33889192951608,
+      "fy": 142.95896956192666,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "love  ️",
       "url": "/cognitive-science/cognition/emotions/love",
-      "fx": 190.2563302568392,
-      "fy": 111.4495543884716,
+      "fx": 183.08419910929808,
+      "fy": 145.31439386934585,
       "nodes": [],
       "category": "mindmap"
     }
@@ -76,24 +85,24 @@
       "source": "meaning of life",
       "target": "basics",
       "curve": {
-        "x": -0.432047,
-        "y": 71.9953
+        "x": -6.51875,
+        "y": 95.4595
       }
     },
     {
       "source": "basics",
       "target": "happiness  ️",
       "curve": {
-        "x": -104.086,
-        "y": 64.6493
+        "x": -107.387,
+        "y": 77.605
       }
     },
     {
       "source": "basics",
       "target": "love  ️",
       "curve": {
-        "x": -5.12444,
-        "y": 67.077
+        "x": -8.42554,
+        "y": 80.0327
       }
     }
   ]

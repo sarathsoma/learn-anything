@@ -1,0 +1,105 @@
+{
+  "title": "learn anything - mathematics - algebra - equations",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "equations",
+      "url": "http://www.wikiwand.com/en/Equation",
+      "fx": 120.38671875,
+      "fy": -169.53948217975199,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 147,
+      "fy": -30.637138429751985,
+      "nodes": [
+        {
+          "text": "1. solving 2-step equations",
+          "url": "https://www.youtube.com/watch?v=LDIiYKYvvdA",
+          "fx": 310,
+          "fy": -18.137138429751985,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "quadratic equations",
+      "url": "http://www.wikiwand.com/en/Quadratic_equation",
+      "fx": 374.2013854980469,
+      "fy": 130.6501007080078,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "algebraic equations",
+      "url": "http://www.wikiwand.com/en/Algebraic_equation",
+      "fx": -446.1809844970703,
+      "fy": 130.93421936035156,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "simultaneous equations",
+      "url": "http://www.wikiwand.com/en/Simultaneous_equations",
+      "fx": -174.0508246421814,
+      "fy": 133.21691513061523,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "linear equations  ️",
+      "url": "/mathematics/algebra/equations/linear-equations",
+      "fx": 140.0557403564453,
+      "fy": 133.4662628173828,
+      "nodes": [],
+      "category": "mindmap"
+    }
+  ],
+  "connections": [
+    {
+      "source": "equations",
+      "target": "basics",
+      "curve": {
+        "x": -2.94336,
+        "y": 68.7012
+      }
+    },
+    {
+      "source": "basics",
+      "target": "algebraic equations",
+      "curve": {
+        "x": -256.34,
+        "y": 81.5357
+      }
+    },
+    {
+      "source": "basics",
+      "target": "simultaneous equations",
+      "curve": {
+        "x": -110.025,
+        "y": 82.677
+      }
+    },
+    {
+      "source": "basics",
+      "target": "linear equations  ️",
+      "curve": {
+        "x": 27.2779,
+        "y": 82.8017
+      }
+    },
+    {
+      "source": "basics",
+      "target": "quadratic equations",
+      "curve": {
+        "x": 154.351,
+        "y": 81.3936
+      }
+    }
+  ]
+}

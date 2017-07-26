@@ -5,22 +5,22 @@
     {
       "text": "logic gates",
       "url": "http://www.wikiwand.com/en/Logic_gate",
-      "fx": 7.36328125,
-      "fy": -60.35546875,
+      "fx": 68.30548757530119,
+      "fy": -100.13803652108425,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 148.79880459337346,
-      "fy": 42.29472577811248,
+      "fx": 208.53619164156612,
+      "fy": 12.71547126004009,
       "nodes": [
         {
           "text": "logic gates cheat sheet",
           "url": "https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=amJ1cnJvdWdocy5vcmd8ZW5naW5lZXJpbmctZXhwbG9yYXRpb258Z3g6NmM2YzI3ZTEwODBhMGFkZA",
-          "fx": 285.79880459337346,
-          "fy": 56.79472577811248,
+          "fx": 345.5361916415661,
+          "fy": 27.21547126004009,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         }
@@ -29,23 +29,32 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 18.04037620651843,
-      "fy": 135.85036097781756,
+      "fx": 74.1115358450727,
+      "fy": 113.65533085733568,
       "nodes": [
         {
           "text": "1. explanation",
           "url": "https://www.youtube.com/watch?v=UvI-AMAtrvE",
-          "fx": 174.04037620651843,
-          "fy": 130.35036097781756,
+          "fx": 230.1115358450727,
+          "fy": 88.15533085733568,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
+          "text": "1. interactive logic gates",
+          "url": "http://silon.slaks.net/#gates",
+          "fx": 230.1115358450727,
+          "fy": 128.15533085733568,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
           "text": "1. basic logic gates and functions",
           "url": "http://www.ee.surrey.ac.uk/Projects/CAL/digital-logic/gatesfunc/",
-          "fx": 174.04037620651843,
-          "fy": 170.35036097781756,
+          "fx": 230.1115358450727,
+          "fy": 168.15533085733568,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         }
@@ -105,64 +114,64 @@
       "source": "help",
       "target": "logic gates",
       "curve": {
-        "x": -48.7178,
-        "y": -50.0751
+        "x": -48.1154,
+        "y": -55.1768
       }
     },
     {
       "source": "logic gates",
       "target": "basics",
       "curve": {
-        "x": -11.9115,
-        "y": 96.8532
+        "x": -14.347,
+        "y": 105.647
       }
     },
     {
       "source": "basics",
       "target": "XOR  ️",
       "curve": {
-        "x": -179.016,
-        "y": 45.2652
+        "x": -207.052,
+        "y": 56.3627
       }
     },
     {
       "source": "basics",
       "target": "AND",
       "curve": {
-        "x": -107.16,
-        "y": 71.1984
+        "x": -135.196,
+        "y": 82.2959
       }
     },
     {
       "source": "basics",
       "target": "OR",
       "curve": {
-        "x": -43.3273,
-        "y": 71.2351
+        "x": -71.3629,
+        "y": 82.3326
       }
     },
     {
       "source": "basics",
       "target": "NOT",
       "curve": {
-        "x": 27.0022,
-        "y": 72.6099
+        "x": -1.03338,
+        "y": 83.7074
       }
     },
     {
       "source": "basics",
       "target": "NAND",
       "curve": {
-        "x": 97.8666,
-        "y": 73.5959
+        "x": 69.831,
+        "y": 84.6934
       }
     },
     {
       "source": "basics",
       "target": "NOR",
       "curve": {
-        "x": -268.193,
-        "y": 34.395
+        "x": -296.229,
+        "y": 45.4925
       }
     }
   ]

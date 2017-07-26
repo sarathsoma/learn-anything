@@ -46,26 +46,43 @@
           "text": "1. what is light?",
           "url": "https://www.youtube.com/watch?v=IXxZRZxafEQ",
           "fx": 148.58142684351333,
-          "fy": -8.928791044652655,
+          "fy": -28.928791044652655,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. light is waves",
+          "url": "https://www.youtube.com/watch?v=IRBfpBPELmE",
+          "fx": 148.58142684351333,
+          "fy": 11.071208955347345,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     },
     {
+      "text": "photons  ️",
+      "url": "/physics/particle-physics/elementary-particles/photons",
+      "fx": -247.00537072992506,
+      "fy": 121.0411102195219,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "speed of light  ️",
       "url": "/physics/electromagnetism/electromagnetic-radiation/light/speed-of-light",
-      "fx": 31.92877435065168,
-      "fy": 108.09841720777854,
+      "fx": 96.14668303727717,
+      "fy": 121.22148853358453,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "light field  ️",
       "url": "/physics/electromagnetism/electromagnetic-radiation/light/light-field",
-      "fx": -144.4777729759669,
-      "fy": 108.59707818908066,
+      "fx": -80.25986428934141,
+      "fy": 121.72014951488666,
       "nodes": [],
       "category": "mindmap"
     }
@@ -91,16 +108,24 @@
       "source": "basics",
       "target": "light field  ️",
       "curve": {
-        "x": -63.2796,
-        "y": 64.513
+        "x": -31.1706,
+        "y": 71.0745
       }
     },
     {
       "source": "basics",
       "target": "speed of light  ️",
       "curve": {
-        "x": 35.6737,
-        "y": 64.2636
+        "x": 67.7827,
+        "y": 70.8251
+      }
+    },
+    {
+      "source": "basics",
+      "target": "photons  ️",
+      "curve": {
+        "x": -116.528,
+        "y": 64.1872
       }
     }
   ]

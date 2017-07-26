@@ -263,8 +263,8 @@
     {
       "text": "algorithm design  ️",
       "url": "/computer-science/algorithms/algorithm-design",
-      "fx": 130.35446617251523,
-      "fy": 465.2264642161156,
+      "fx": 125.80901162706073,
+      "fy": 465.3241204661158,
       "nodes": [],
       "category": "mindmap"
     },
@@ -278,10 +278,18 @@
       "category": "wiki"
     },
     {
+      "text": "procedural generation  ️",
+      "url": "/computer-science/algorithms/procedural-generation",
+      "fx": -448.25000000001137,
+      "fy": 467.7062026515116,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "algorithms on",
       "url": "",
-      "fx": -402.72252956508623,
-      "fy": 524.1690048356064,
+      "fx": -631.5843442833941,
+      "fy": 472.98541724163533,
       "nodes": []
     },
     {
@@ -297,8 +305,8 @@
       "text": "genetic  ️",
       "note": "genetic algorithm is a metaheuristic inspired by the process of natural selection  are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection",
       "url": "/computer-science/algorithms/genetic-algorithms",
-      "fx": -1375.1603294139684,
-      "fy": 659.7009661899706,
+      "fx": -1594.7048318431514,
+      "fy": 608.4704202413532,
       "nodes": [],
       "category": "mindmap"
     },
@@ -306,16 +314,16 @@
       "text": "matrix multiplication",
       "note": "applications of matrix multiplication in computational problems are found in many fields including scientific computing and pattern recognition and in seemingly unrelated problems such as counting the paths through a graph  many different algorithms have been designed for multiplying matrices on different types of hardware, including parallel and distributed systems, where the computational work is spread over multiple processors (perhaps over network)",
       "url": "http://www.wikiwand.com/en/Matrix_multiplication_algorithm",
-      "fx": -1168.2197180680141,
-      "fy": 662.2243091100934,
+      "fx": -1387.7642204971971,
+      "fy": 610.993763161476,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "domain reduction",
       "url": "http://www.wikiwand.com/en/Domain_reduction_algorithm",
-      "fx": -1632.5159783291456,
-      "fy": 662.38404522613,
+      "fx": -1852.0604807583286,
+      "fy": 611.1534992775125,
       "nodes": [],
       "category": "wiki"
     },
@@ -323,8 +331,8 @@
       "text": "graphs  ️",
       "note": "a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects",
       "url": "/computer-science/algorithms/graph",
-      "fx": -879.1015930175781,
-      "fy": 667.2896728515625,
+      "fx": -1098.6460954467611,
+      "fy": 616.0591269029451,
       "nodes": [],
       "category": "mindmap"
     },
@@ -332,35 +340,17 @@
       "text": "evolutionary  ️",
       "note": "uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection",
       "url": "/computer-science/algorithms/evolutionary",
-      "fx": -591.5450054862558,
-      "fy": 682.0652222925099,
+      "fx": -811.0895079154388,
+      "fy": 630.8346763438925,
       "nodes": [],
       "category": "mindmap"
-    },
-    {
-      "text": "compression",
-      "url": "http://www.wikiwand.com/en/Data_compression",
-      "fx": -303.7651581018238,
-      "fy": 688.1086933594031,
-      "nodes": [
-        {
-          "text": "benchmark and visualisation of various compression algorithms",
-          "url": "https://github.com/mavam/compbench",
-          "fx": -59.76515810182377,
-          "fy": 691.1086933594031,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
-        }
-      ],
-      "category": "wiki"
     },
     {
       "text": "searching  ️",
       "note": "search algorithm is an algorithm that retrieves information stored within some data structure  appropriate search algorithm often depends on the data structure being searched  searching also encompasses algorithms that query the data structure, such as the SQL SELECT command  they can be classified based on their mechanism of searching",
       "url": "/computer-science/algorithms/search",
-      "fx": -787.233077150359,
-      "fy": 769.1595200557284,
+      "fx": -1006.777579579542,
+      "fy": 717.928974107111,
       "nodes": [],
       "category": "mindmap"
     },
@@ -368,8 +358,8 @@
       "text": "sorting  ️",
       "note": "sorting algorithm is an algorithm that puts elements of a list in a certain order  most used orders are numerical order and lexicographical order  efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  it is also often useful for canonicalising data and for producing human readable output",
       "url": "/computer-science/algorithms/sorting",
-      "fx": -421.10001649247874,
-      "fy": 794.7859447289868,
+      "fx": -640.6445189216618,
+      "fy": 743.5553987803694,
       "nodes": [],
       "category": "mindmap"
     }
@@ -403,32 +393,24 @@
       "source": "basics",
       "target": "algorithms on",
       "curve": {
-        "x": -234.969,
-        "y": 184.373
-      }
-    },
-    {
-      "source": "algorithms on",
-      "target": "compression",
-      "curve": {
-        "x": 55.2287,
-        "y": 83.2199
+        "x": -377.419,
+        "y": 137.016
       }
     },
     {
       "source": "basics",
       "target": "algorithm design  ️",
       "curve": {
-        "x": 68.7177,
-        "y": 171.663
+        "x": 66.445,
+        "y": 171.712
       }
     },
     {
       "source": "algorithms on",
       "target": "searching  ️",
       "curve": {
-        "x": -291.269,
-        "y": 121.106
+        "x": -286.61,
+        "y": 121.083
       }
     },
     {
@@ -443,24 +425,24 @@
       "source": "algorithms on",
       "target": "genetic  ️",
       "curve": {
-        "x": -593.223,
-        "y": -16.2575
+        "x": -588.564,
+        "y": -16.281
       }
     },
     {
       "source": "algorithms on",
       "target": "sorting  ️",
       "curve": {
-        "x": -17.1888,
-        "y": 136.558
+        "x": -12.5301,
+        "y": 136.535
       }
     },
     {
       "source": "algorithms on",
       "target": "evolutionary  ️",
       "curve": {
-        "x": -119.831,
-        "y": 77.1675
+        "x": -115.172,
+        "y": 77.144
       }
     },
     {
@@ -475,24 +457,32 @@
       "source": "algorithms on",
       "target": "graphs  ️",
       "curve": {
-        "x": -362.409,
-        "y": 63.0459
+        "x": -357.75,
+        "y": 63.0224
       }
     },
     {
       "source": "algorithms on",
       "target": "matrix multiplication",
       "curve": {
-        "x": -508.15,
-        "y": 49.9561
+        "x": -503.491,
+        "y": 49.9326
       }
     },
     {
       "source": "algorithms on",
       "target": "domain reduction",
       "curve": {
-        "x": -740.064,
-        "y": -22.7053
+        "x": -735.405,
+        "y": -22.7288
+      }
+    },
+    {
+      "source": "basics",
+      "target": "procedural generation  ️",
+      "curve": {
+        "x": -192.405,
+        "y": 157.391
       }
     }
   ]

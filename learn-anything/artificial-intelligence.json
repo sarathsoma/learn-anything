@@ -244,6 +244,22 @@
           "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
+    },
+    {
+      "text": "competitions",
+      "url": "",
+      "fx": 599.810257479629,
+      "fy": 411.6948176755732,
+      "nodes": [
+        {
+          "text": "battlecode",
+          "url": "https://www.battlecode.org/contestants/about/",
+          "fx": 814.810257479629,
+          "fy": 426.1948176755732,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     }
   ],
   "connections": [
@@ -317,6 +333,14 @@
       "curve": {
         "x": -571.281,
         "y": 71.1677
+      }
+    },
+    {
+      "source": "competitions",
+      "target": "interesting",
+      "curve": {
+        "x": -29.6013,
+        "y": -87.1432
       }
     }
   ]
