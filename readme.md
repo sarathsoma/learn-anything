@@ -33,7 +33,7 @@ Each node with a link has an emoji attached to show where this node leads on the
 
 Just search for what you wish to learn or [simply explore](https://learn-anything.xyz/learn-anything).
   
-If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it by clicking the *'impove this mindmap'* button in the bottom rght. 
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it by clicking the *'impove this mindmap'* button in the bottom right corner. 
 
 The search engine is also [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙
 
@@ -85,7 +85,7 @@ If you have some specific questions about this project our about our team. We wo
 
 Aside from our [active Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and [Twitter](https://twitter.com/learnanything_), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project as well as [our own reddit subreddit](https://www.reddit.com/r/knowledgemap/) where you can talk and share your discoveries or ask questions. 
 
-Fun fact. 💡 This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big. 
+Fun fact. 💡 This project started off as a [single mind map](https://www.dropbox.com/s/1rfvd6b0pkoyyko/research-white.png?dl=1) but it grew too big. 
 
 
 <h1 align="center"> Join our team 🚀 </h1>
