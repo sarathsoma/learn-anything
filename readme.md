@@ -27,7 +27,7 @@
   
 The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn-anything) as well as [searched through](https://learn-anything.xyz). 🔎
 
-There are **many mind maps inside** which show the **best step by step guides you can use to learn the subject in depth**. 
+There are **many mind maps inside** which show the **best step by step guides you can use to learn any subject in depth**. 
   
 Each node with a link has an emoji attached to show where this node leads on the internet. Nodes with 🗺 are other mind maps. 
 
@@ -37,7 +37,7 @@ If you think that there is a better way one can learn the subject or you wish so
 
 The search engine is also [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙
 
-The [main goal of this project](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html) is to **expose human knowledge in a [visual and structured way to accelerate learning](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e)**. 🚀
+The [main goal of this project](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html) is to **expose human knowledge in a [visual and structured way to accelerate learning](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e)**. 
 
 
 <h1 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h1>
