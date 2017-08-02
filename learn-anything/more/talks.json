@@ -5,25 +5,51 @@
     {
       "text": "talks",
       "url": "https://github.com/learn-anything/talks",
-      "fx": -24.3515625,
-      "fy": -51.12109375,
+      "fx": -25.27454369469035,
+      "fy": -40.273472068584056,
       "nodes": [],
       "category": "github"
     },
     {
       "text": "find new talks",
       "url": "",
-      "fx": -51.65625,
-      "fy": 90.00390625,
+      "fx": -62.47981770833337,
+      "fy": 131.6689453125,
       "nodes": [
+        {
+          "text": "find lectures",
+          "url": "https://findlectures.com/",
+          "fx": 171.52018229166663,
+          "fy": 83.6689453125,
+          "nodes": [],
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
         {
           "text": "awesome talks",
           "url": "https://github.com/JanVanRyswyck/awesome-talks",
-          "fx": 170.34375,
-          "fy": 101.50390625,
+          "fx": 171.52018229166663,
+          "fy": 120.6689453125,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "programming talks",
+          "url": "https://github.com/hellerve/programming-talks",
+          "fx": 171.52018229166663,
+          "fy": 162.6689453125,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "awesome tech talks",
+          "url": "https://github.com/1and1/awesome-tech-talks",
+          "fx": 171.52018229166663,
+          "fy": 204.6689453125,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(252, 177, 20, 1.0)"
         }
       ]
     }
@@ -33,8 +59,8 @@
       "source": "talks",
       "target": "find new talks",
       "curve": {
-        "x": 2.09766,
-        "y": 69.3125
+        "x": -2.85263,
+        "y": 84.7212
       }
     }
   ]

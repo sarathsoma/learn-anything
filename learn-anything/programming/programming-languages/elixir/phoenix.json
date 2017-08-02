@@ -5,27 +5,20 @@
     {
       "text": "phoenix",
       "url": "https://github.com/phoenixframework/phoenix",
-      "fx": -0.2960092189699708,
-      "fy": -178.12964222043058,
-      "nodes": [],
-      "category": "github"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 118.39389577022814,
-      "fy": -77.7580068721328,
+      "fx": -3.6117795678072753,
+      "fy": -120.09911896461665,
       "nodes": [
         {
-          "text": "awesome phoenix",
+          "text": "awesome",
           "url": "https://github.com/droptheplot/awesome-phoenix",
-          "fx": 255.39389577022814,
-          "fy": -66.2580068721328,
+          "fx": 195.38822043219272,
+          "fy": -106.09911896461665,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
         }
-      ]
+      ],
+      "category": "github"
     },
     {
       "text": "basics",
@@ -49,16 +42,8 @@
       "source": "phoenix",
       "target": "basics",
       "curve": {
-        "x": -4.87854,
-        "y": 92.3703
-      }
-    },
-    {
-      "source": "help",
-      "target": "phoenix",
-      "curve": {
-        "x": -43.845,
-        "y": -48.9358
+        "x": -3.22065,
+        "y": 63.355
       }
     }
   ]

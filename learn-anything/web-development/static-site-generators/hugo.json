@@ -4,25 +4,77 @@
   "nodes": [
     {
       "text": "hugo",
-      "url": "https://github.com/spf13/hugo",
-      "fx": 2.0396471429379517,
-      "fy": -128.99389689019378,
-      "nodes": [],
-      "category": "github"
+      "url": "https://gohugo.io/",
+      "fx": 32.19589714293784,
+      "fy": -272.8970416508081,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/gohugo/",
+          "fx": 176.19589714293784,
+          "fy": -281.3970416508081,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://github.com/gohugoio/hugo",
+          "fx": 176.19589714293784,
+          "fy": -241.3970416508081,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 107.1565694455744,
+      "fy": -155.4772132590963,
+      "nodes": [
+        {
+          "text": "forum",
+          "url": "https://discourse.gohugo.io/",
+          "fx": 244.1565694455744,
+          "fy": -160.9772132590963,
+          "nodes": [],
+          "category": "chat",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "docs",
+          "url": "https://gohugo.io/documentation/",
+          "fx": 244.1565694455744,
+          "fy": -120.97721325909629,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 2.7760528032598586,
-      "fy": -14.237028567441655,
+      "fx": 7.153911034967223,
+      "fy": -11.693202347929457,
       "nodes": [
         {
           "text": "1. intro to hugo",
           "url": "https://gohugo.io/overview/introduction/",
-          "fx": 158.77605280325986,
-          "fy": 0.262971432558345,
+          "fx": 163.15391103496722,
+          "fy": -28.193202347929457,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. a gentle introduction to creating a minimal hugo site  ️",
+          "url": "http://arunrocks.com/minimal-hugo-site-tutorial/",
+          "fx": 163.15391103496722,
+          "fy": 5.806797652070543,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     },
@@ -39,16 +91,24 @@
       "source": "hugo",
       "target": "basics",
       "curve": {
-        "x": -3.8818,
-        "y": 56.1284
+        "x": -16.771,
+        "y": 129.352
       }
     },
     {
       "source": "basics",
       "target": "hugo themes",
       "curve": {
-        "x": -47.1766,
-        "y": 57.2597
+        "x": -49.3655,
+        "y": 55.9878
+      }
+    },
+    {
+      "source": "help",
+      "target": "hugo",
+      "curve": {
+        "x": -28.4803,
+        "y": -57.4599
       }
     }
   ]

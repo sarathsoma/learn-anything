@@ -5,14 +5,14 @@
     {
       "text": "Jupyter notebooks",
       "url": "http://jupyter.org/",
-      "fx": 330.5109215561225,
-      "fy": -60.61774553571428,
+      "fx": 322.8658322704081,
+      "fy": 30.591198979591866,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/IPython/",
-          "fx": 598.5109215561225,
-          "fy": -69.11774553571428,
+          "fx": 590.8658322704081,
+          "fy": 2.0911989795918657,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -20,28 +20,20 @@
         {
           "text": "trending",
           "url": "https://github.com/trending/jupyter-notebook",
-          "fx": 598.5109215561225,
-          "fy": -29.117745535714278,
+          "fx": 590.8658322704081,
+          "fy": 42.091198979591866,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
-        }
-      ]
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 490.87475627877575,
-      "fy": 54.89856258163758,
-      "nodes": [
+        },
         {
-          "text": "awesome jupyter",
+          "text": "awesome",
           "url": "https://github.com/postpdm/awesome-jupyter",
-          "fx": 627.8747562787757,
-          "fy": 66.39856258163758,
+          "fx": 590.8658322704081,
+          "fy": 82.09119897959187,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     },
@@ -64,19 +56,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "Jupyter notebooks",
-      "curve": {
-        "x": -47.4319,
-        "y": -57.7581
-      }
-    },
-    {
       "source": "Jupyter notebooks",
       "target": "basics",
       "curve": {
-        "x": -7.01642,
-        "y": 111.764
+        "x": -3.19388,
+        "y": 66.1595
       }
     }
   ]

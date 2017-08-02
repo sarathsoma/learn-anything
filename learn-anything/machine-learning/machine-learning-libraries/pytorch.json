@@ -5,31 +5,40 @@
     {
       "text": "pytorch",
       "url": "http://pytorch.org/",
-      "fx": -125.92578125,
-      "fy": -373.44140625,
+      "fx": -125.57102997448987,
+      "fy": -428.40194515306126,
       "nodes": [
         {
           "text": "",
           "url": "https://github.com/pytorch/pytorch",
-          "fx": 47.07421875,
-          "fy": -360.94140625,
+          "fx": 47.428970025510125,
+          "fy": -436.90194515306126,
           "nodes": [],
           "category": "github",
           "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/bharathgs/Awesome-pytorch-list",
+          "fx": 47.428970025510125,
+          "fy": -394.90194515306126,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     },
     {
       "text": "help",
       "url": "",
-      "fx": -71.17346938775506,
-      "fy": -248.1447365624564,
+      "fx": -49.94021045918373,
+      "fy": -262.83901271041566,
       "nodes": [
         {
           "text": "pytorch examples",
           "url": "https://github.com/jcjohnson/pytorch-examples",
-          "fx": 69.82653061224494,
-          "fy": -296.1447365624564,
+          "fx": 91.05978954081627,
+          "fy": -310.83901271041566,
           "nodes": [],
           "category": "github",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -37,8 +46,8 @@
         {
           "text": "pytorch forum",
           "url": "https://discuss.pytorch.org/",
-          "fx": 69.82653061224494,
-          "fy": -254.1447365624564,
+          "fx": 91.05978954081627,
+          "fy": -268.83901271041566,
           "nodes": [],
           "category": "chat",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -46,8 +55,8 @@
         {
           "text": "incredible pytorch",
           "url": "https://github.com/ritchieng/the-incredible-pytorch",
-          "fx": 69.82653061224494,
-          "fy": -212.1447365624564,
+          "fx": 91.05978954081627,
+          "fy": -226.83901271041566,
           "nodes": [],
           "category": "github",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -55,8 +64,8 @@
         {
           "text": "pytorch tutorials",
           "url": "http://pytorch.org/tutorials/",
-          "fx": 69.82653061224494,
-          "fy": -170.1447365624564,
+          "fx": 91.05978954081627,
+          "fy": -184.83901271041566,
           "nodes": [],
           "color": "rgba(252, 177, 20, 1.0)"
         }
@@ -121,16 +130,16 @@
       "source": "help",
       "target": "pytorch",
       "curve": {
-        "x": -19.8762,
-        "y": -62.6483
+        "x": -30.3155,
+        "y": -82.7814
       }
     },
     {
       "source": "pytorch",
       "target": "basics",
       "curve": {
-        "x": -76.2141,
-        "y": 175.612
+        "x": -76.3915,
+        "y": 203.092
       }
     }
   ]

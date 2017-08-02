@@ -100,9 +100,33 @@
       ]
     },
     {
+      "text": "spotify playlists",
+      "url": "",
+      "fx": -279.9072081952711,
+      "fy": -104.37002732174506,
+      "nodes": [
+        {
+          "text": "music favourites",
+          "url": "https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn",
+          "fx": -45.907208195271096,
+          "fy": -106.87002732174506,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "incredible* music",
+          "url": "https://open.spotify.com/user/nikitavoloboev/playlist/2B9qAF15kRD1ZqcITArr89",
+          "fx": -45.907208195271096,
+          "fy": -72.87002732174506,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "coding music  ️",
       "url": "/art/music/new-music/coding-music",
-      "fx": -703.3805773894003,
+      "fx": -765.8215621016304,
       "fy": 183.38676228335362,
       "nodes": [],
       "category": "mindmap"
@@ -113,7 +137,7 @@
       "source": "find new music",
       "target": "coding music  ️",
       "curve": {
-        "x": 42.5855,
+        "x": 11.365,
         "y": 147.341
       }
     }

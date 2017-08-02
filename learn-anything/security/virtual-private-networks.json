@@ -7,7 +7,17 @@
       "url": "http://www.wikiwand.com/en/Virtual_private_network",
       "fx": 12.23046875,
       "fy": -277.14453125,
-      "nodes": [],
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/VPN/",
+          "fx": 337.23046875,
+          "fy": -263.14453125,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {

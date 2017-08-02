@@ -6,25 +6,34 @@
       "text": "astronomy",
       "url": "http://www.wikiwand.com/en/Astronomy",
       "fx": -90.57225172413587,
-      "fy": -633.2945361206263,
+      "fy": -675.1298332517739,
       "nodes": [
+        {
+          "text": "️",
+          "url": "https://astronomy.stackexchange.com/",
+          "fx": 132.42774827586413,
+          "fy": -701.1298332517739,
+          "nodes": [],
+          "category": "stack exchange",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
         {
           "text": "",
           "url": "https://www.reddit.com/r/Astronomy/",
           "fx": 132.42774827586413,
-          "fy": -639.2945361206263,
+          "fy": -661.1298332517739,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
-          "text": "️",
-          "url": "https://astronomy.stackexchange.com/",
+          "text": "space",
+          "url": "https://www.reddit.com/r/space/",
           "fx": 132.42774827586413,
-          "fy": -599.2945361206263,
+          "fy": -621.1298332517739,
           "nodes": [],
-          "category": "stack exchange",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "category": "reddit",
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ],
       "category": "wiki"
@@ -202,7 +211,7 @@
       "target": "astronomy",
       "curve": {
         "x": -57.2041,
-        "y": -112.849
+        "y": -133.767
       }
     },
     {
@@ -210,7 +219,7 @@
       "target": "basics",
       "curve": {
         "x": -97.0815,
-        "y": 304.155
+        "y": 325.073
       }
     },
     {

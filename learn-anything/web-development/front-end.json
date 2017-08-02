@@ -5,14 +5,14 @@
     {
       "text": "front end",
       "url": "http://www.wikiwand.com/en/Front-end_web_development",
-      "fx": 884.6311843611129,
-      "fy": -856.5069812654648,
+      "fx": 933.5882156111129,
+      "fy": -905.5499500154648,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/Frontend/",
-          "fx": 1092.631184361113,
-          "fy": -862.5069812654648,
+          "fx": 1141.588215611113,
+          "fy": -911.5499500154648,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -20,8 +20,8 @@
         {
           "text": "awesome",
           "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
-          "fx": 1092.631184361113,
-          "fy": -822.5069812654648,
+          "fx": 1141.588215611113,
+          "fy": -871.5499500154648,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -32,22 +32,22 @@
     {
       "text": "help",
       "url": "",
-      "fx": 1020.7021083980283,
-      "fy": -749.0126309523258,
+      "fx": 1040.1708583980283,
+      "fy": -777.4813809523258,
       "nodes": [
         {
           "text": "front end resources",
           "url": "https://enboard.co/frontend/",
-          "fx": 1157.7021083980283,
-          "fy": -754.5126309523258,
+          "fx": 1177.1708583980283,
+          "fy": -782.9813809523258,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
           "text": "spell book of modern webdev",
           "url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
-          "fx": 1157.7021083980283,
-          "fy": -720.5126309523258,
+          "fx": 1177.1708583980283,
+          "fy": -748.9813809523258,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -65,10 +65,30 @@
           "text": "1. front end guide",
           "url": "https://github.com/grab/front-end-guide",
           "fx": 1064.065790990166,
-          "fy": -627.4887802593275,
+          "fy": -647.4887802593275,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. freecodecamp",
+          "note": "go from the beginning and work through all the exercises, they are really fun",
+          "url": "https://www.freecodecamp.com",
+          "fx": 1064.065790990166,
+          "fy": -607.4887802593275,
+          "nodes": [
+            {
+              "text": "forum",
+              "url": "https://forum.freecodecamp.com/",
+              "fx": 1326.065790990166,
+              "fy": -607.4887802593275,
+              "nodes": [],
+              "category": "chat",
+              "color": "rgba(36, 170, 255, 1.0)"
+            }
+          ],
+          "category": "interactive",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     },
@@ -421,16 +441,16 @@
       "source": "front end",
       "target": "basics",
       "curve": {
-        "x": -0.532697,
-        "y": 108.759
+        "x": -25.0112,
+        "y": 133.28
       }
     },
     {
       "source": "help",
       "target": "front end",
       "curve": {
-        "x": -50.2855,
-        "y": -52.4972
+        "x": -35.5414,
+        "y": -62.7843
       }
     },
     {

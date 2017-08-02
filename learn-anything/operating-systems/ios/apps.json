@@ -13,26 +13,26 @@
     {
       "text": "find new iOS apps",
       "url": "",
-      "fx": -40.36214398734194,
-      "fy": -2.078176345079271,
+      "fx": -47.53401898734194,
+      "fy": 3.093698654920729,
       "nodes": [
         {
           "text": "open source iOS apps",
           "url": "https://github.com/dkhamsing/open-source-ios-apps",
-          "fx": 223.63785601265806,
-          "fy": -10.578176345079271,
+          "fx": 235.46598101265806,
+          "fy": -5.406301345079271,
           "nodes": [],
           "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "iOS setup",
           "url": "https://github.com/nikitavoloboev/my-ios",
-          "fx": 223.63785601265806,
-          "fy": 29.42182365492073,
+          "fx": 235.46598101265806,
+          "fy": 36.59369865492073,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     }
@@ -42,8 +42,8 @@
       "source": "iOS apps",
       "target": "find new iOS apps",
       "curve": {
-        "x": -2.58876,
-        "y": 78.1696
+        "x": -6.1747,
+        "y": 80.7555
       }
     }
   ]

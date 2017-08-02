@@ -364,14 +364,14 @@
     {
       "text": "haskell  ️",
       "url": "/programming/programming-languages/haskell",
-      "fx": -25.78030899971168,
+      "fx": -28.82327774971168,
       "fy": 1710.237846665787,
       "nodes": [
         {
           "text": "joy of haskell  ️",
           "url": "https://joyofhaskell.com/blog.html",
-          "fx": 163.21969100028832,
-          "fy": 1664.237846665787,
+          "fx": 160.17672225028832,
+          "fy": 1644.237846665787,
           "nodes": [],
           "category": "blog",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -379,8 +379,8 @@
         {
           "text": "haskell for all  ️",
           "url": "http://www.haskellforall.com/",
-          "fx": 163.21969100028832,
-          "fy": 1704.237846665787,
+          "fx": 160.17672225028832,
+          "fy": 1684.237846665787,
           "nodes": [],
           "category": "blog",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -388,8 +388,8 @@
         {
           "text": "well typed  ️",
           "url": "https://www.well-typed.com/blog/",
-          "fx": 163.21969100028832,
-          "fy": 1744.237846665787,
+          "fx": 160.17672225028832,
+          "fy": 1724.237846665787,
           "nodes": [],
           "category": "blog",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -397,11 +397,20 @@
         {
           "text": "neighbourhood of infinity  ️",
           "url": "http://blog.sigfpe.com/",
-          "fx": 163.21969100028832,
-          "fy": 1784.237846665787,
+          "fx": 160.17672225028832,
+          "fy": 1764.237846665787,
           "nodes": [],
           "category": "blog",
           "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "bite my app  ️",
+          "url": "http://bitemyapp.com/archive.html",
+          "fx": 160.17672225028832,
+          "fy": 1804.237846665787,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(209, 21, 88, 1.0)"
         }
       ],
       "category": "mindmap"
@@ -409,14 +418,14 @@
     {
       "text": "security  ️",
       "url": "/security",
-      "fx": -59.30971923152288,
-      "fy": 1904.118188774677,
+      "fx": -62.35268798152288,
+      "fy": 1913.290063774677,
       "nodes": [
         {
           "text": "zdziarski's blog of things  ️",
           "url": "https://www.zdziarski.com/blog/",
-          "fx": 137.69028076847712,
-          "fy": 1858.1181887746768,
+          "fx": 134.64731201847712,
+          "fy": 1867.2900637746768,
           "nodes": [],
           "category": "blog",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -424,8 +433,8 @@
         {
           "text": "Troy Hunt  ️",
           "url": "https://www.troyhunt.com/",
-          "fx": 137.69028076847712,
-          "fy": 1898.118188774677,
+          "fx": 134.64731201847712,
+          "fy": 1907.290063774677,
           "nodes": [],
           "category": "blog",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -433,8 +442,8 @@
         {
           "text": "Krebs on security  ️",
           "url": "https://krebsonsecurity.com/",
-          "fx": 137.69028076847712,
-          "fy": 1938.118188774677,
+          "fx": 134.64731201847712,
+          "fy": 1947.290063774677,
           "nodes": [],
           "category": "blog",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -442,8 +451,8 @@
         {
           "text": "Simone Margaritelli  ️",
           "url": "https://www.evilsocket.net/",
-          "fx": 137.69028076847712,
-          "fy": 1978.118188774677,
+          "fx": 134.64731201847712,
+          "fy": 1987.290063774677,
           "nodes": [],
           "category": "blog",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -539,7 +548,7 @@
       "source": "swift  ️",
       "target": "haskell  ️",
       "curve": {
-        "x": -10.0918,
+        "x": -11.6133,
         "y": 105.422
       }
     },
@@ -548,15 +557,15 @@
       "target": "security  ️",
       "curve": {
         "x": -14.7647,
-        "y": 96.9401
+        "y": 101.526
       }
     },
     {
       "source": "security  ️",
       "target": "startups  ️",
       "curve": {
-        "x": -6.68661,
-        "y": 78.6999
+        "x": -5.16513,
+        "y": 74.114
       }
     }
   ]

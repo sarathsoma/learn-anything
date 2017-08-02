@@ -5,19 +5,20 @@
     {
       "text": "research chemicals",
       "url": "https://psychonautwiki.org/wiki/Research_chemicals",
-      "fx": -142.56742931547603,
+      "fx": -158.06742931547603,
       "fy": -463.6625744047619,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/researchchemicals/",
-          "fx": 149.43257068452397,
-          "fy": -451.1625744047619,
+          "fx": 164.93257068452397,
+          "fy": -449.6625744047619,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(104, 255, 109, 1.0)"
         }
-      ]
+      ],
+      "category": "wiki"
     },
     {
       "text": "help",
@@ -56,14 +57,14 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -84.82379460238712,
-      "fy": -225.37702079975827,
+      "fx": -89.70928261608594,
+      "fy": -190.9725901490733,
       "nodes": [
         {
           "text": "1. responsible drug use",
-          "url": "https://psychonautwiki.org/wiki/Research_chemicals",
-          "fx": 78.17620539761288,
-          "fy": -210.37702079975827,
+          "url": "https://psychonautwiki.org/wiki/Responsible_drug_use",
+          "fx": 73.29071738391406,
+          "fy": -175.9725901490733,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         }
@@ -75,7 +76,7 @@
       "source": "help",
       "target": "research chemicals",
       "curve": {
-        "x": -51.8393,
+        "x": -59.5893,
         "y": -59.6696
       }
     },
@@ -83,8 +84,8 @@
       "source": "research chemicals",
       "target": "basics",
       "curve": {
-        "x": -3.37818,
-        "y": 119.143
+        "x": -22.2041,
+        "y": 136.345
       }
     }
   ]

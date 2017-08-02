@@ -5,14 +5,14 @@
     {
       "text": "npm",
       "url": "https://github.com/npm/npm",
-      "fx": 45.43530868902428,
-      "fy": -376.64958079268297,
+      "fx": 101.58848710782775,
+      "fy": -454.8814183995206,
       "nodes": [
         {
           "text": "awesome",
           "url": "https://github.com/parro-it/awesome-micro-npm-packages",
-          "fx": 213.43530868902428,
-          "fy": -362.64958079268297,
+          "fx": 269.58848710782775,
+          "fy": -440.8814183995206,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -23,14 +23,14 @@
     {
       "text": "awesome packages",
       "url": "",
-      "fx": 158.89910442073176,
-      "fy": -271.3298399390244,
+      "fx": 205.98110228397945,
+      "fy": -328.7083121612467,
       "nodes": [
         {
           "text": "delightful npm packages",
           "url": "https://github.com/feross/awesome-mad-science",
-          "fx": 438.89910442073176,
-          "fy": -279.8298399390244,
+          "fx": 485.98110228397945,
+          "fy": -337.2083121612467,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -38,8 +38,8 @@
         {
           "text": "maintenance modules",
           "url": "https://github.com/maxogden/maintenance-modules",
-          "fx": 438.89910442073176,
-          "fy": -239.8298399390244,
+          "fx": 485.98110228397945,
+          "fy": -297.2083121612467,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -49,14 +49,14 @@
     {
       "text": "find packages",
       "url": "",
-      "fx": 429.7940105670019,
-      "fy": -142.36883817108105,
+      "fx": 366.2222958234123,
+      "fy": -204.34132748732043,
       "nodes": [
         {
           "text": "npms",
           "url": "https://npms.io/",
-          "fx": 654.7940105670019,
-          "fy": -127.86883817108105,
+          "fx": 591.2222958234123,
+          "fy": -189.84132748732043,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         }
@@ -65,14 +65,30 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 39.766876220703125,
-      "fy": -125.62467002868652,
+      "fx": -35.38287095052863,
+      "fy": -139.30823039193444,
       "nodes": [
         {
           "text": "1. what is npm?",
           "url": "https://docs.npmjs.com/getting-started/what-is-npm",
-          "fx": 195.76687622070312,
-          "fy": -111.12467002868652,
+          "fx": 120.61712904947137,
+          "fy": -124.80823039193444,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "tools",
+      "url": "",
+      "fx": 494.75409210587645,
+      "fy": -88.88827349538644,
+      "nodes": [
+        {
+          "text": "cost of npm packages",
+          "url": "http://cost-of-modules.herokuapp.com/",
+          "fx": 636.7540921058765,
+          "fy": -74.38827349538644,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         }
@@ -81,8 +97,8 @@
     {
       "text": "npm scripts",
       "url": "https://docs.npmjs.com/misc/scripts",
-      "fx": 127.29913372296119,
-      "fy": 10.696283792789586,
+      "fx": -155.08218396109106,
+      "fy": -12.64272528840695,
       "nodes": []
     }
   ],
@@ -91,32 +107,40 @@
       "source": "awesome packages",
       "target": "npm",
       "curve": {
-        "x": -84.7319,
-        "y": -51.4099
+        "x": -80.1963,
+        "y": -61.8366
       }
     },
     {
       "source": "npm",
       "target": "basics",
       "curve": {
-        "x": -5.83421,
-        "y": 124.262
+        "x": -71.4857,
+        "y": 156.536
       }
     },
     {
       "source": "find packages",
       "target": "awesome packages",
       "curve": {
-        "x": -127.924,
-        "y": -58.8903
+        "x": -72.5971,
+        "y": -56.5933
       }
     },
     {
       "source": "basics",
       "target": "npm scripts",
       "curve": {
-        "x": 56.0161,
-        "y": 68.1605
+        "x": -47.5997,
+        "y": 63.3328
+      }
+    },
+    {
+      "source": "tools",
+      "target": "find packages",
+      "curve": {
+        "x": -43.5159,
+        "y": -57.7265
       }
     }
   ]

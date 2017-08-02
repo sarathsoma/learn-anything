@@ -5,22 +5,31 @@
     {
       "text": "education",
       "url": "http://www.wikiwand.com/en/Education",
-      "fx": 38.58197784423828,
-      "fy": -233.93506235316184,
+      "fx": 59.663830636116586,
+      "fy": -274.6790344343801,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 199.26897416403722,
-      "fy": -120.9009486378589,
+      "fx": 189.74525906251438,
+      "fy": -151.3538356936965,
       "nodes": [
+        {
+          "text": "1990: why schools don’t educate  ️",
+          "url": "http://www.naturalchild.org/guest/john_gatto.html",
+          "fx": 380.7452590625144,
+          "fy": -159.8538356936965,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
         {
           "text": "17: is higher education a scam?",
           "url": "https://www.youtube.com/watch?v=rzdiWDw4teo",
-          "fx": 390.2689741640372,
-          "fy": -109.4009486378589,
+          "fx": 380.7452590625144,
+          "fy": -119.85383569369651,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -58,8 +67,8 @@
       "source": "education",
       "target": "basics",
       "curve": {
-        "x": -1.6972,
-        "y": 99.938
+        "x": -12.2381,
+        "y": 120.31
       }
     },
     {
@@ -74,8 +83,8 @@
       "source": "interesting",
       "target": "education",
       "curve": {
-        "x": -74.0935,
-        "y": -55.2671
+        "x": -58.7907,
+        "y": -60.4126
       }
     }
   ]

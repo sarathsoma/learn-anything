@@ -5,24 +5,34 @@
     {
       "text": "live coding",
       "url": "http://www.wikiwand.com/en/Live_coding",
-      "fx": 53.37890625,
-      "fy": -94.23046875,
-      "nodes": [],
+      "fx": 51.17033240420062,
+      "fy": -153.24768079345552,
+      "nodes": [
+        {
+          "text": "awesome",
+          "url": "https://github.com/lvm/awesome-livecoding",
+          "fx": 274.1703324042006,
+          "fy": -139.24768079345552,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
-      "text": "help",
+      "text": "articles",
       "url": "",
-      "fx": 189.91337839762366,
-      "fy": 14.596035639445006,
+      "fx": 221.2542649486553,
+      "fy": -18.729061672368402,
       "nodes": [
         {
-          "text": "awesome live coding",
-          "url": "https://github.com/lvm/awesome-livecoding",
-          "fx": 326.91337839762366,
-          "fy": 26.096035639445006,
+          "text": "17: lessons from my first year of live coding on Twitch  ️",
+          "url": "https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1",
+          "fx": 383.2542649486553,
+          "fy": -18.229061672368402,
           "nodes": [],
-          "category": "github",
+          "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
@@ -46,19 +56,19 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "live coding",
-      "curve": {
-        "x": -46.7672,
-        "y": -53.1633
-      }
-    },
-    {
       "source": "live coding",
       "target": "basics",
       "curve": {
-        "x": -6.81106,
-        "y": 96.724
+        "x": -5.70677,
+        "y": 126.233
+      }
+    },
+    {
+      "source": "articles",
+      "target": "live coding",
+      "curve": {
+        "x": -69.792,
+        "y": -66.0093
       }
     }
   ]

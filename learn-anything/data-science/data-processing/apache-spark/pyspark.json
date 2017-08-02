@@ -29,23 +29,32 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 112.73240667381549,
-      "fy": -123.85336220504439,
+      "fx": 61.14338035071455,
+      "fy": -72.74397239429038,
       "nodes": [
         {
           "text": "1. basics of PySpark",
           "url": "https://github.com/mahmoudparsian/pyspark-tutorial/blob/master/howto/README.md",
-          "fx": 268.7324066738155,
-          "fy": -129.3533622050444,
+          "fx": 217.14338035071455,
+          "fy": -109.24397239429038,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
+          "text": "1. get started with PySpark and Jupyter notebook in 3 minutes  ️",
+          "url": "https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f",
+          "fx": 217.14338035071455,
+          "fy": -69.24397239429038,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
           "text": "1. key differences in the python API",
           "url": "https://spark.apache.org/docs/0.9.0/python-programming-guide.html",
-          "fx": 268.7324066738155,
-          "fy": -89.35336220504439,
+          "fx": 217.14338035071455,
+          "fy": -7.243972394290381,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         }
@@ -65,8 +74,8 @@
       "source": "PySpark",
       "target": "basics",
       "curve": {
-        "x": -8.41741,
-        "y": 99.4694
+        "x": -34.2119,
+        "y": 125.024
       }
     }
   ]

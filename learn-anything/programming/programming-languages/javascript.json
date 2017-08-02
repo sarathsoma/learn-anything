@@ -211,15 +211,15 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -273.5469545883918,
-      "fy": 102.00018470666237,
+      "fx": -269.5074681542834,
+      "fy": 69.77513625705024,
       "nodes": [
         {
           "text": "1. freecodecamp",
           "note": "project-based learning",
           "url": "https://www.freecodecamp.com/",
-          "fx": -91.54695458839183,
-          "fy": -37.49981529333763,
+          "fx": -87.5074681542834,
+          "fy": -89.72486374294976,
           "nodes": [],
           "category": "interactive",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -228,8 +228,8 @@
           "text": "1. you don’t know js series",
           "note": "goes over javascript language in detail",
           "url": "https://github.com/getify/You-Dont-Know-JS",
-          "fx": -91.54695458839183,
-          "fy": 2.500184706662367,
+          "fx": -87.5074681542834,
+          "fy": -49.724863742949765,
           "nodes": [],
           "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -238,8 +238,8 @@
           "text": "1. javascript30",
           "note": "build 30 things in 30 days with vanilla js",
           "url": "https://javascript30.com/",
-          "fx": -91.54695458839183,
-          "fy": 42.50018470666237,
+          "fx": -87.5074681542834,
+          "fy": -9.724863742949765,
           "nodes": [],
           "category": "video",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -247,8 +247,8 @@
         {
           "text": "1. learn javascript",
           "url": "https://www.quirksmode.org/js/contents.html",
-          "fx": -91.54695458839183,
-          "fy": 82.50018470666237,
+          "fx": -87.5074681542834,
+          "fy": 30.275136257050235,
           "nodes": [],
           "category": "free book",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -256,8 +256,8 @@
         {
           "text": "1. modern js tutorial",
           "url": "http://javascript.info/",
-          "fx": -91.54695458839183,
-          "fy": 122.50018470666237,
+          "fx": -87.5074681542834,
+          "fy": 70.27513625705024,
           "nodes": [],
           "category": "free book",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -265,17 +265,26 @@
         {
           "text": "1. practical javascript",
           "url": "https://watchandcode.com/p/practical-javascript",
-          "fx": -91.54695458839183,
-          "fy": 162.50018470666237,
+          "fx": -87.5074681542834,
+          "fy": 110.27513625705024,
           "nodes": [],
           "category": "course",
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
+          "text": "1. the javascript way",
+          "url": "https://github.com/bpesquet/thejsway",
+          "fx": -87.5074681542834,
+          "fy": 150.27513625705024,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
           "text": "2. learning javascript design patterns",
           "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
-          "fx": -91.54695458839183,
-          "fy": 202.50018470666237,
+          "fx": -87.5074681542834,
+          "fy": 190.27513625705024,
           "nodes": [],
           "category": "free book",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -283,8 +292,8 @@
         {
           "text": "2. eloquent javascript",
           "url": "http://eloquentjavascript.net/",
-          "fx": -91.54695458839183,
-          "fy": 264.50018470666237,
+          "fx": -87.5074681542834,
+          "fy": 252.27513625705024,
           "nodes": [],
           "category": "free book",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -359,16 +368,16 @@
       "source": "javascript",
       "target": "basics",
       "curve": {
-        "x": -76.2902,
-        "y": 474.184
+        "x": -74.2705,
+        "y": 458.071
       }
     },
     {
       "source": "basics",
       "target": "ES6  ️",
       "curve": {
-        "x": -19.567,
-        "y": 87.0936
+        "x": -21.5867,
+        "y": 103.206
       }
     },
     {
@@ -391,8 +400,8 @@
       "source": "basics",
       "target": "package managers",
       "curve": {
-        "x": -108.282,
-        "y": 123.103
+        "x": -110.302,
+        "y": 139.216
       }
     },
     {
@@ -423,16 +432,16 @@
       "source": "basics",
       "target": "static type checking",
       "curve": {
-        "x": 71.8806,
-        "y": 156.461
+        "x": 69.8609,
+        "y": 172.574
       }
     },
     {
       "source": "basics",
       "target": "promises  ️",
       "curve": {
-        "x": -170.088,
-        "y": 57.1427
+        "x": -172.108,
+        "y": 73.2552
       }
     }
   ]

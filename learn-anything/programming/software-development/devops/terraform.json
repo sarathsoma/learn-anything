@@ -5,48 +5,40 @@
     {
       "text": "terraform",
       "url": "https://www.terraform.io/",
-      "fx": 4.797591743119142,
-      "fy": 35.952408256880744,
+      "fx": 22.602279243119142,
+      "fy": 100.69850200688074,
       "nodes": [
         {
           "text": "source",
           "url": "https://github.com/hashicorp/terraform",
-          "fx": 185.79759174311914,
-          "fy": 47.452408256880744,
+          "fx": 203.60227924311914,
+          "fy": 92.19850200688074,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
-        }
-      ]
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 124.68334288990991,
-      "fy": 143.90137614675558,
-      "nodes": [
+        },
         {
-          "text": "awesome terraform",
+          "text": "awesome",
           "url": "https://github.com/shuaibiyy/awesome-terraform",
-          "fx": 261.6833428899099,
-          "fy": 155.40137614675558,
+          "fx": 203.60227924311914,
+          "fy": 132.19850200688074,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 253.8708221925134,
-      "fy": 232.39154411764702,
+      "fx": 170.6051971925134,
+      "fy": 217.50091911764702,
       "nodes": [
         {
           "text": "17: terraform gotchas and how we work around them  ️",
           "url": "https://heap.engineering/terraform-gotchas/",
-          "fx": 415.8708221925134,
-          "fy": 232.89154411764702,
+          "fx": 332.6051971925134,
+          "fy": 218.00091911764702,
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -76,24 +68,16 @@
       "source": "terraform",
       "target": "basics",
       "curve": {
-        "x": -5.46861,
-        "y": 147.664
-      }
-    },
-    {
-      "source": "help",
-      "target": "terraform",
-      "curve": {
-        "x": -48.9429,
-        "y": -53.9745
+        "x": -14.371,
+        "y": 115.291
       }
     },
     {
       "source": "articles",
-      "target": "help",
+      "target": "terraform",
       "curve": {
-        "x": -70.8437,
-        "y": -44.2451
+        "x": -69.2515,
+        "y": -58.4012
       }
     }
   ]
