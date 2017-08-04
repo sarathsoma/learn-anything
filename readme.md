@@ -42,7 +42,9 @@ The [main goal of this project](https://github.com/nikitavoloboev/learn-anything
 
 <h1 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h1>
 
-Both this project and the search engine [is in active development](https://github.com/learn-anything/search-engine). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to our [Search Engine](https://github.com/learn-anything/search-engine) or create a study group for any branch in the mind map and learn together.  
+Both this project and the search engine [is in active development](https://github.com/learn-anything/search-engine). 
+
+If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to our [Search Engine](https://github.com/learn-anything/search-engine) or create a study group for any branch in the mind map and learn together.  
 
 <h1 align="center"><a href="https://github.com/nikitavoloboev/learn-anything/wiki/Contributing-👬">Contributing 👬</a> </a></h1>
 
@@ -52,7 +54,7 @@ In there you can also find [why we created this search engine and what problems 
 
 We use [Slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) for any communication in-project communication and you can ask any questions you have there.
 
-This project can only become what it is with your help. Thank you. 💛
+This project can only become what it is with your help. Thank you. 
 
 
 <h1 align="center"><a href="https://www.patreon.com/learnanything">Keep this project going 💚</a></h1>
@@ -72,6 +74,8 @@ You can follow us on [Twitter](https://twitter.com/learnanything_) where we anno
 
 We also have our own internal [development blog](https://learn-anything.github.io) where we write about interesting challenges we have solved on our way to make the Search Engine and curation of Mind Maps the best it can be.
 
+
+
 <h1 align="center"><a href="https://learn-anything.github.io">Improve our Curated Lists</a></h1>
 
 With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to explore and improve them if you wish. 
@@ -79,23 +83,33 @@ With our goal of providing the most efficient paths for Learning Anything, we al
 - [Books 📚](https://github.com/learn-anything/books) : Free and non free books all can learn from
 - [Courses 📝](https://github.com/learn-anything/courses) : Free courses all can learn from
 - [Research Papers 📄](https://github.com/learn-anything/research-papers) : Free research papers all can learn from
-
-
-<h2 align="center"><a href="https://github.com/learn-anything/ama">Ask Us Anything 💬</a></h2>
-
-If you have some specific questions about this project our about our team. We would love to hear them and you can ask them either in our [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) or [in our GitHub AMA](https://github.com/learn-anything/ama/issues/new). 
-
-
-<h2 align="center"> Stay in touch 📮 </h2>
-
-Aside from our [active Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and [Twitter](https://twitter.com/learnanything_), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project as well as [our own reddit subreddit](https://www.reddit.com/r/knowledgemap/) where you can talk and share your discoveries or ask questions. 
-
-Fun fact. 💡 This project started off as a [single mind map](https://www.dropbox.com/s/1rfvd6b0pkoyyko/research-white.png?dl=1) but it grew too big. 
+- [Blogs 🗃️](https://github.com/learn-anything/blogs) : Interesting blogs you can read and gain insights from
+- [Humans 👪](https://github.com/learn-anything/humans) : Interesting humans who made a difference
+- [Quotes 💬](https://github.com/learn-anything/quotes) : Interesting quotes all can learn from 
+- [Websites 🌍 ](https://github.com/learn-anything/websites) : All the interesting websites one can use to learn and do new things
+- [Podcasts 🎙](https://github.com/learn-anything/podcasts) : Podcasts all can listen and learn from
+- [Newsletters 📮](https://github.com/learn-anything/newsletters) : Free newsletters all can read to get insights from 
+- [Images 🎨](https://github.com/learn-anything/images) : User curated image albums
+- [Talks 👀](https://github.com/learn-anything/talks) : Interesting talks all can watch
+- [Command Line Tools 🐚](https://github.com/learn-anything/command-line-tools) : Command line utilities all can use to learn and do things faster
+- [macOS apps 💻](https://github.com/learn-anything/macos-apps) : Best macOS apps all can use to learn and do things faster
+- [iOS apps 📱](https://github.com/learn-anything/ios-apps) : Best iOS apps all can use to learn and do things faster
+- [Safari Extensions 🌐](https://github.com/learn-anything/safari-extensions) : Awesome Safari Extensions all can use
+- [Alfred Workflows 🎩](https://github.com/learn-anything/alfred-workflows) : Alfred workflows all can use to learn and do things faster
+- [TV series 🎥](https://github.com/learn-anything/tv-series) : Interesting TV series all can watch
+- [Documentaries 🎥](https://github.com/learn-anything/documentaries) : Free and non free documentaries all can learn from
+- [Movies 🎥](https://github.com/learn-anything/movies) : Interesting movies all can watch
+- [Reddit 🤖](https://github.com/learn-anything/reddit) : All the interesting subreddits all can visit and learn from
+- [Youtube 🎥](https://github.com/learn-anything/youtube) : Interesting youtube channels all can learn from 
+- [Quora ❓](https://github.com/learn-anything/quora) : All the interesting quora communities one can explore
+- [computer games 💻](https://github.com/learn-anything/computer-games) : Interesting computer games one can play in their spare time
 
 
 <h1 align="center"> Join our team 🚀 </h1>
 
 Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together and work on making this vision of visualising and structuring all of world's knowledge a reality. 
+
+Fun fact. 💡 This project started off as a [single mind map](https://www.dropbox.com/s/1rfvd6b0pkoyyko/research-white.png?dl=1) but it grew too big. 
 
 <h2 align="center">Current Team</h2>
 
@@ -122,6 +136,10 @@ Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzM
   </tbody>
 </table>
 
+<h2 align="center"><a href="https://github.com/learn-anything/ama">Ask Us Anything 💬</a></h2>
+
+If you have some specific questions about this project our about our team. We would love to hear them and you can ask them either in our [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) or [in our GitHub AMA](https://github.com/learn-anything/ama/issues/new). 
+
 <h1 align="center"> <a href="https://github.com/nikitavoloboev/learn-anything/stargazers">🌟 gazers</a> over time</h1>
 
 
@@ -136,3 +154,5 @@ Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzM
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
 - to all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way
+
+
