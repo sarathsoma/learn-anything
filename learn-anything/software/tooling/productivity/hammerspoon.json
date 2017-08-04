@@ -5,61 +5,70 @@
     {
       "text": "hammerspoon",
       "url": "http://www.hammerspoon.org/",
-      "fx": -114.17079597864495,
-      "fy": -140.77644717904894,
+      "fx": -74.71589541046308,
+      "fy": -194.60279661086713,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/hammerspoon/",
-          "fx": 115.82920402135505,
-          "fy": -169.27644717904894,
+          "fx": 168.28410458953692,
+          "fy": -224.10279661086713,
           "nodes": [],
           "category": "reddit",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "",
           "url": "https://github.com/Hammerspoon/hammerspoon",
-          "fx": 115.82920402135505,
-          "fy": -129.27644717904894,
+          "fx": 168.28410458953692,
+          "fy": -182.10279661086713,
           "nodes": [],
           "category": "github",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "awesome",
           "url": "https://github.com/ashfinal/awesome-hammerspoon",
-          "fx": 115.82920402135505,
-          "fy": -89.27644717904894,
+          "fx": 168.28410458953692,
+          "fy": -140.10279661086713,
           "nodes": [],
           "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 14.491159460240397,
-      "fy": 2.627833214683335,
+      "fx": 46.84636994577761,
+      "fy": 18.40779189236946,
       "nodes": [
         {
           "text": "Anycomplete",
           "url": "https://github.com/nathancahill/Anycomplete",
-          "fx": 205.4911594602404,
-          "fy": -5.872166785316665,
+          "fx": 245.8463699457776,
+          "fy": -23.59220810763054,
           "nodes": [],
           "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "spoons",
           "url": "https://github.com/Hammerspoon/hammerspoon/blob/master/SPOONS.md#what-is-a-spoon",
-          "fx": 205.4911594602404,
-          "fy": 34.127833214683335,
+          "fx": 245.8463699457776,
+          "fy": 18.40779189236946,
           "nodes": [],
           "category": "github",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "how to make modules for Hammerspoon",
+          "url": "https://github.com/asmagill/HS_ModuleWalkthrough",
+          "fx": 245.8463699457776,
+          "fy": 60.40779189236946,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
@@ -67,16 +76,16 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -116.67170835794627,
-      "fy": 121.9553032910876,
+      "fx": -141.29399658108673,
+      "fy": 183.23177539852566,
       "nodes": [
         {
           "text": "1. getting started",
           "url": "http://www.hammerspoon.org/go/",
-          "fx": 65.32829164205373,
-          "fy": 136.4553032910876,
+          "fx": 47.70600341891327,
+          "fy": 198.23177539852566,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     }
@@ -86,16 +95,16 @@
       "source": "hammerspoon",
       "target": "basics",
       "curve": {
-        "x": -19.7505,
-        "y": 131.365
+        "x": -51.7891,
+        "y": 188.916
       }
     },
     {
       "source": "interesting",
       "target": "hammerspoon",
       "curve": {
-        "x": -54.5809,
-        "y": -71.7021
+        "x": -49.7811,
+        "y": -106.505
       }
     }
   ]

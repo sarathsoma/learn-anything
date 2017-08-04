@@ -109,14 +109,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 57.49467595418298,
-      "fy": 118.64620922229915,
+      "fx": 48.19780095418298,
+      "fy": 123.73214672229915,
       "nodes": [
         {
           "text": "1. learn RxJS",
           "url": "https://www.learnrxjs.io/",
-          "fx": 239.49467595418298,
-          "fy": 113.14620922229915,
+          "fx": 230.19780095418298,
+          "fy": 90.23214672229915,
           "nodes": [],
           "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -124,10 +124,18 @@
         {
           "text": "1. learn RxJS with exercises ",
           "url": "http://reactivex.io/learnrx/",
-          "fx": 239.49467595418298,
-          "fy": 153.14620922229915,
+          "fx": 230.19780095418298,
+          "fy": 130.23214672229915,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "functional programming in javascript",
+          "url": "http://reactivex.io/learnrx/",
+          "fx": 230.19780095418298,
+          "fy": 164.23214672229915,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     }
@@ -145,8 +153,8 @@
       "source": "RxJS",
       "target": "basics",
       "curve": {
-        "x": -19.026,
-        "y": 220.844
+        "x": -23.6744,
+        "y": 223.387
       }
     },
     {

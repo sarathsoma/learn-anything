@@ -5,14 +5,14 @@
     {
       "text": "machine learning",
       "url": "https://www.wikiwand.com/en/Machine_learning",
-      "fx": 374.3958827558772,
-      "fy": -2142.188072480351,
+      "fx": 448.7099071461207,
+      "fy": -2221.2046941970493,
       "nodes": [
         {
           "text": "️",
           "url": "https://stats.stackexchange.com/",
-          "fx": 655.3958827558772,
-          "fy": -2188.188072480351,
+          "fx": 729.7099071461207,
+          "fy": -2267.2046941970493,
           "nodes": [],
           "category": "stack exchange",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -20,8 +20,8 @@
         {
           "text": "",
           "url": "https://www.reddit.com/r/MachineLearning/",
-          "fx": 655.3958827558772,
-          "fy": -2148.188072480351,
+          "fx": 729.7099071461207,
+          "fy": -2227.2046941970493,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -29,8 +29,8 @@
         {
           "text": "learn machine learning",
           "url": "https://www.reddit.com/r/learnmachinelearning/",
-          "fx": 655.3958827558772,
-          "fy": -2108.188072480351,
+          "fx": 729.7099071461207,
+          "fy": -2187.2046941970493,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -38,14 +38,40 @@
         {
           "text": "awesome",
           "url": "https://github.com/josephmisiti/awesome-machine-learning",
-          "fx": 655.3958827558772,
-          "fy": -2068.188072480351,
+          "fx": 729.7099071461207,
+          "fy": -2147.2046941970493,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
         }
       ],
       "category": "wiki"
+    },
+    {
+      "text": "prerequisites",
+      "url": "",
+      "fx": 241.3887108262079,
+      "fy": -1634.2114494301993,
+      "nodes": [
+        {
+          "text": "linear algebra  ️",
+          "url": "/mathematics/linear-algebra",
+          "fx": 454.3887108262079,
+          "fy": -1642.7114494301993,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "statistics  ️",
+          "url": "/mathematics/statistics",
+          "fx": 454.3887108262079,
+          "fy": -1602.7114494301993,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
     },
     {
       "text": "help",
@@ -726,19 +752,11 @@
   ],
   "connections": [
     {
-      "source": "machine learning",
-      "target": "basics",
-      "curve": {
-        "x": -196.697,
-        "y": 685.82
-      }
-    },
-    {
       "source": "help",
       "target": "machine learning",
       "curve": {
-        "x": -191.749,
-        "y": -256.727
+        "x": -154.592,
+        "y": -296.235
       }
     },
     {
@@ -867,6 +885,22 @@
       "curve": {
         "x": -2304.94,
         "y": 187.922
+      }
+    },
+    {
+      "source": "machine learning",
+      "target": "prerequisites",
+      "curve": {
+        "x": -120.661,
+        "y": 292.247
+      }
+    },
+    {
+      "source": "prerequisites",
+      "target": "basics",
+      "curve": {
+        "x": -79.7533,
+        "y": 437.578
       }
     }
   ]

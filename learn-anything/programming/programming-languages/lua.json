@@ -51,16 +51,25 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -98.46484375,
-      "fy": -112.0390625,
+      "fx": -120.1875,
+      "fy": -108.953125,
       "nodes": [
         {
           "text": "1. learn lua in 15 minutes",
           "url": "http://tylerneylon.com/a/learn-lua/",
-          "fx": 83.53515625,
-          "fy": -97.5390625,
+          "fx": 61.8125,
+          "fy": -114.453125,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. lua missions",
+          "url": "https://github.com/kikito/lua_missions",
+          "fx": 61.8125,
+          "fy": -80.453125,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     }
@@ -70,8 +79,8 @@
       "source": "lua",
       "target": "basics",
       "curve": {
-        "x": -2.76172,
-        "y": 92.6536
+        "x": -13.623,
+        "y": 94.1966
       }
     }
   ]

@@ -90,10 +90,19 @@
           "text": "physics album",
           "url": "http://imgur.com/a/Reo8S",
           "fx": 781.5909669673001,
-          "fy": -818.2611870275989,
+          "fy": -839.2611870275989,
           "nodes": [],
           "category": "image",
           "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "physics is beautiful",
+          "url": "http://www.physicsisbeautiful.com/",
+          "fx": 781.5909669673001,
+          "fy": -797.2611870275989,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     },
@@ -109,7 +118,7 @@
           "note": "this will give you an overview of how vast the field is and will spark your interest",
           "url": "https://www.youtube.com/watch?v=ZihywtixUYo&amp;feature=youtu.be",
           "fx": 152.57890123791185,
-          "fy": -828.5434553358289,
+          "fy": -816.0434553358289,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -119,7 +128,7 @@
           "note": "amazing piece written by a physicist on how to best approach learning physics",
           "url": "http://www.staff.science.uu.nl/%7Egadda001/goodtheorist/index.html",
           "fx": 152.57890123791185,
-          "fy": -786.5434553358289,
+          "fy": -774.0434553358289,
           "nodes": [],
           "category": "article",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -128,7 +137,7 @@
           "text": "1. so you want to learn physics  ️",
           "url": "https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics",
           "fx": 152.57890123791185,
-          "fy": -719.5434553358289,
+          "fy": -707.0434553358289,
           "nodes": [],
           "category": "article",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -137,7 +146,7 @@
           "text": "1. the astonishing simplicity of everything",
           "url": "https://www.youtube.com/watch?v=JV7K8CvA26I",
           "fx": 152.57890123791185,
-          "fy": -677.5434553358289,
+          "fy": -665.0434553358289,
           "nodes": [],
           "category": "video",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -146,7 +155,7 @@
           "text": "1. the character of physical law",
           "url": "http://people.virginia.edu/~ecd3m/1110/Fall2014/The_Character_of_Physical_Law.pdf",
           "fx": 152.57890123791185,
-          "fy": -610.5434553358289,
+          "fy": -598.0434553358289,
           "nodes": [],
           "category": "free book",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -155,7 +164,7 @@
           "text": "1. AP physics essentials",
           "url": "https://www.youtube.com/playlist?list=PLllVwaZQkS2rxqMXTH-cdE0LIX9Zi_oS1",
           "fx": 152.57890123791185,
-          "fy": -568.5434553358289,
+          "fy": -556.0434553358289,
           "nodes": [],
           "category": "video",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -165,7 +174,7 @@
           "note": "44 chapters of everything physics  as it is a text book, it has a lot of exercises which are very helpful to actually consolidate your understanding",
           "url": "https://www.goodreads.com/book/show/125139.University_Physics_with_Modern_Physics",
           "fx": 152.57890123791185,
-          "fy": -526.5434553358289,
+          "fy": -514.0434553358289,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -174,7 +183,7 @@
           "text": "2. the Feynman lectures on physics",
           "url": "http://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics",
           "fx": 152.57890123791185,
-          "fy": -459.54345533582887,
+          "fy": -472.04345533582887,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -184,7 +193,7 @@
           "note": "watch the videos and work through the exercises, they are very important",
           "url": "https://www.khanacademy.org/science/physics",
           "fx": 152.57890123791185,
-          "fy": -392.54345533582887,
+          "fy": -405.04345533582887,
           "nodes": [],
           "category": "video",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -193,7 +202,7 @@
           "text": "2. crash course physics",
           "url": "https://www.youtube.com/watch?v=ZM8ECpBuQYE&amp;list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV&amp;index=1",
           "fx": 152.57890123791185,
-          "fy": -350.54345533582887,
+          "fy": -363.04345533582887,
           "nodes": [],
           "category": "video",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -202,7 +211,7 @@
           "text": "2. mit physics I: classical mechanics",
           "url": "https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e",
           "fx": 152.57890123791185,
-          "fy": -308.54345533582887,
+          "fy": -321.04345533582887,
           "nodes": [],
           "category": "course",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -211,7 +220,7 @@
           "text": "2. The Feynman lectures on physics",
           "url": "http://www.feynmanlectures.caltech.edu/",
           "fx": 152.57890123791185,
-          "fy": -241.54345533582887,
+          "fy": -254.04345533582887,
           "nodes": [],
           "color": "rgba(83, 201, 255, 1.0)"
         },
@@ -219,7 +228,7 @@
           "text": "3. modern physics: classical mechanics",
           "url": "https://www.youtube.com/watch?v=pyX8kQ-JzHI&amp;list=PLQrxduI9Pds1fm91Dmn8x1lo-O_kpZGk8",
           "fx": 152.57890123791185,
-          "fy": -179.54345533582887,
+          "fy": -192.04345533582887,
           "nodes": [],
           "category": "course",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -228,7 +237,7 @@
           "text": "3. mathematics for physics",
           "url": "http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf",
           "fx": 152.57890123791185,
-          "fy": -112.54345533582887,
+          "fy": -125.04345533582887,
           "nodes": [],
           "category": "free book",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -237,7 +246,7 @@
           "text": "4. lectures on theoretical physics by David Tong",
           "url": "http://www.damtp.cam.ac.uk/user/tong/teaching.html",
           "fx": 152.57890123791185,
-          "fy": -70.54345533582887,
+          "fy": -83.04345533582887,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"

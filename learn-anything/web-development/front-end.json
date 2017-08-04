@@ -5,14 +5,14 @@
     {
       "text": "front end",
       "url": "http://www.wikiwand.com/en/Front-end_web_development",
-      "fx": 933.5882156111129,
-      "fy": -905.5499500154648,
+      "fx": 957.0856861541456,
+      "fy": -1046.215622152675,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/Frontend/",
-          "fx": 1141.588215611113,
-          "fy": -911.5499500154648,
+          "fx": 1165.0856861541456,
+          "fy": -1052.215622152675,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -20,8 +20,8 @@
         {
           "text": "awesome",
           "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
-          "fx": 1141.588215611113,
-          "fy": -871.5499500154648,
+          "fx": 1165.0856861541456,
+          "fy": -1012.2156221526748,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -32,24 +32,59 @@
     {
       "text": "help",
       "url": "",
-      "fx": 1040.1708583980283,
-      "fy": -777.4813809523258,
+      "fx": 1066.6925324207273,
+      "fy": -921.564223273053,
       "nodes": [
         {
           "text": "front end resources",
           "url": "https://enboard.co/frontend/",
-          "fx": 1177.1708583980283,
-          "fy": -782.9813809523258,
+          "fx": 1203.6925324207273,
+          "fy": -927.064223273053,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
           "text": "spell book of modern webdev",
           "url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
-          "fx": 1177.1708583980283,
-          "fy": -748.9813809523258,
+          "fx": 1203.6925324207273,
+          "fy": -893.064223273053,
           "nodes": [],
           "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "prerequisites",
+      "url": "",
+      "fx": 878.696012676887,
+      "fy": -785.3291273996654,
+      "nodes": [
+        {
+          "text": "javascript  ️",
+          "url": "/programming/programming-languages/javascript",
+          "fx": 1091.696012676887,
+          "fy": -813.8291273996654,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "HTML  ️",
+          "url": "/web-development/front-end/html",
+          "fx": 1091.696012676887,
+          "fy": -773.8291273996654,
+          "nodes": [],
+          "category": "mindmap",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "CSS  ️",
+          "url": "/web-development/front-end/css",
+          "fx": 1091.696012676887,
+          "fy": -733.8291273996654,
+          "nodes": [],
+          "category": "mindmap",
           "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
@@ -95,8 +130,16 @@
     {
       "text": "CSS3  ️",
       "url": "/web-development/front-end/css/css3",
-      "fx": 1233.8989984766658,
-      "fy": -538.9596662961184,
+      "fx": 1243.0873281226836,
+      "fy": -545.3790523580651,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "HTML  ️",
+      "url": "/web-development/front-end/html",
+      "fx": 686.5228559759648,
+      "fy": -544.0883977223475,
       "nodes": [],
       "category": "mindmap"
     },
@@ -104,15 +147,7 @@
       "text": "CSS  ️",
       "url": "/web-development/front-end/css",
       "fx": 1008.5141112840424,
-      "fy": -520.4629022587292,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "HTML  ️",
-      "url": "/web-development/front-end/html",
-      "fx": 758.2533247259648,
-      "fy": -516.1235539723475,
+      "fy": -528.5415803560744,
       "nodes": [],
       "category": "mindmap"
     },
@@ -128,7 +163,7 @@
       "text": "HTML5  ️",
       "url": "/web-development/front-end/html/html5",
       "fx": 553.2780385376011,
-      "fy": -430.0901885704927,
+      "fy": -429.5980010704927,
       "nodes": [],
       "category": "mindmap"
     },
@@ -438,27 +473,19 @@
       }
     },
     {
-      "source": "front end",
-      "target": "basics",
-      "curve": {
-        "x": -25.0112,
-        "y": 133.28
-      }
-    },
-    {
       "source": "help",
       "target": "front end",
       "curve": {
-        "x": -35.5414,
-        "y": -62.7843
+        "x": -37.0535,
+        "y": -61.0757
       }
     },
     {
       "source": "basics",
       "target": "HTML  ️",
       "curve": {
-        "x": -65.9062,
-        "y": 62.6826
+        "x": -101.771,
+        "y": 48.7002
       }
     },
     {
@@ -474,7 +501,7 @@
       "target": "CSS  ️",
       "curve": {
         "x": 59.9742,
-        "y": 60.5129
+        "y": 56.4736
       }
     },
     {
@@ -577,8 +604,8 @@
       "source": "CSS  ️",
       "target": "CSS3  ️",
       "curve": {
-        "x": 115.442,
-        "y": -9.24838
+        "x": 120.036,
+        "y": -8.41873
       }
     },
     {
@@ -586,15 +613,15 @@
       "target": "styled components  ️",
       "curve": {
         "x": 120.669,
-        "y": 33.2062
+        "y": 37.2455
       }
     },
     {
       "source": "HTML  ️",
       "target": "HTML5  ️",
       "curve": {
-        "x": -99.4876,
-        "y": 43.0167
+        "x": -63.6224,
+        "y": 57.2452
       }
     },
     {
@@ -611,6 +638,22 @@
       "curve": {
         "x": 770.113,
         "y": 34.9493
+      }
+    },
+    {
+      "source": "prerequisites",
+      "target": "basics",
+      "curve": {
+        "x": -6.06511,
+        "y": 73.1702
+      }
+    },
+    {
+      "source": "front end",
+      "target": "prerequisites",
+      "curve": {
+        "x": -37.9448,
+        "y": 129.193
       }
     }
   ]
