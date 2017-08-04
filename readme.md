@@ -52,7 +52,7 @@ We made a [wiki](https://github.com/nikitavoloboev/learn-anything/wiki) that cov
 
 In there you can also find [why we created this search engine and what problems we are trying to solve](https://github.com/nikitavoloboev/learn-anything/wiki/Future-of-learning-🔭) as well as [our official Roadmap of challenges we have yet to solve](https://github.com/nikitavoloboev/learn-anything/wiki/Roadmap-%F0%9F%9B%A3%EF%B8%8F). 
 
-We use [Slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) for any communication in-project communication and you can ask any questions you have there.
+We use [Slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) for any in-project communication and you can ask any questions you have there.
 
 This project can only become what it is with your help. Thank you. 
 
