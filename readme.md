@@ -76,9 +76,11 @@ We also have our own internal [development blog](https://learn-anything.github.i
 
 
 
-<h1 align="center"><a href="https://learn-anything.github.io">Improve our Curated Lists</a></h1>
+<h1 align="center">Improve our Curated Lists</h1>
 
-With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to explore and improve them if you wish. 
+With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. 
+
+Feel free to explore and improve them if you wish. 
 
 - [Books 📚](https://github.com/learn-anything/books) : Free and non free books all can learn from
 - [Courses 📝](https://github.com/learn-anything/courses) : Free courses all can learn from
