@@ -40,6 +40,9 @@ The search engine is also [fully open source](https://github.com/learn-anything/
 The [main goal of this project](https://github.com/nikitavoloboev/learn-anything/wiki/Future-of-learning) is to **expose human knowledge in a [visual and structured way to accelerate learning](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e)**. 
 
 
+<h1 align="center"> <a href="https://youtu.be/_zYjS2Uicso"> Video Introduction 👀</a></h1>
+
+
 <h1 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h1>
 
 Both this project and the search engine [is in active development](https://github.com/learn-anything/search-engine). 
