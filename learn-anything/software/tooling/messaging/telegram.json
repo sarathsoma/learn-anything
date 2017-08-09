@@ -1,0 +1,85 @@
+{
+  "title": "learn anything - software - tooling - messaging - telegram",
+  "tag": "telegram messenger",
+  "nodes": [
+    {
+      "text": "telegram",
+      "url": "http://www.wikiwand.com/en/Telegram_(messaging_service)",
+      "fx": -69.0625,
+      "fy": -326.828125,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/Telegram/",
+          "fx": 136.9375,
+          "fy": -332.828125,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/ebertti/awesome-telegram",
+          "fx": 136.9375,
+          "fy": -292.828125,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "wiki"
+    },
+    {
+      "text": "bots  ️",
+      "url": "/software/bots",
+      "fx": -69.26171875,
+      "fy": -191.484375,
+      "nodes": [
+        {
+          "text": "awesome telegram bots",
+          "url": "https://github.com/DenisIzmaylov/awesome-telegram-bots",
+          "fx": 97.73828125,
+          "fy": -177.484375,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -75.3515625,
+      "fy": -66.9609375,
+      "nodes": [
+        {
+          "text": "1. introduction for developers",
+          "url": "",
+          "fx": 80.6484375,
+          "fy": -52.4609375,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "telegram",
+      "target": "bots  ️",
+      "curve": {
+        "x": -16.8496,
+        "y": 66.4219
+      }
+    },
+    {
+      "source": "bots  ️",
+      "target": "basics",
+      "curve": {
+        "x": 1.20508,
+        "y": 62.2617
+      }
+    }
+  ]
+}

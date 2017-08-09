@@ -1,0 +1,579 @@
+{
+  "title": "learn anything - security - privacy",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "privacy",
+      "url": "http://www.wikiwand.com/en/Privacy",
+      "fx": -17.208364605244128,
+      "fy": -696.0278065470512,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/privacy/",
+          "fx": 173.79163539475587,
+          "fy": -682.0278065470512,
+          "nodes": [
+            {
+              "text": "wiki",
+              "url": "https://www.reddit.com/r/privacy/wiki/index",
+              "fx": 283.7916353947559,
+              "fy": -682.0278065470512,
+              "nodes": [],
+              "category": "reddit",
+              "color": "rgba(175, 54, 242, 1.0)"
+            }
+          ],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "wiki"
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 131.5634540325118,
+      "fy": -550.0301196637057,
+      "nodes": [
+        {
+          "text": "privacy tools",
+          "url": "https://privacytoolsio.github.io/privacytools.io/",
+          "fx": 268.5634540325118,
+          "fy": -572.5301196637057,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "DuckDuckGo blog  ️",
+          "url": "https://spreadprivacy.com/@duckduckgo",
+          "fx": 268.5634540325118,
+          "fy": -538.5301196637057,
+          "nodes": [],
+          "category": "blog",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "terms of service didn’t read",
+          "url": "https://tosdr.org/",
+          "fx": 268.5634540325118,
+          "fy": -498.5301196637057,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": -105.52648457710939,
+      "fy": -313.1980784352787,
+      "nodes": [
+        {
+          "text": "1. they’re watching you",
+          "url": "https://www.youtube.com/watch?v=tabVaoeNtdk",
+          "fx": 50.473515422890614,
+          "fy": -397.6980784352787,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. are you anonymous?",
+          "url": "http://www.nothingprivate.ml/",
+          "fx": 50.473515422890614,
+          "fy": -357.6980784352787,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. click click click",
+          "url": "https://clickclickclick.click/#5f76447702ed27638dc3f3d08a66b72c",
+          "fx": 50.473515422890614,
+          "fy": -323.6980784352787,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. build a better monster: morality, machine learning and mass surveillance",
+          "url": "https://www.infoq.com/presentations/morality-ml-mass-surveillance?utm_content=buffer2a36b&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer",
+          "fx": 50.473515422890614,
+          "fy": -289.6980784352787,
+          "nodes": [
+            {
+              "text": "transcript  ️",
+              "url": "http://idlewords.com/talks/build_a_better_monster.htm",
+              "fx": 403.4735154228906,
+              "fy": -267.6980784352787,
+              "nodes": [],
+              "category": "article",
+              "color": "rgba(34, 205, 224, 1.0)"
+            }
+          ],
+          "category": "video",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "2. security best practices  ️",
+          "url": "https://spideroak.com/infosec",
+          "fx": 50.473515422890614,
+          "fy": -205.69807843527872,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(209, 21, 88, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "invading privacy",
+      "note": "If you don’t pay for the product, you are the product  Don’t confuse privacy with secrecy. I know what you do in the bathroom, but you still close the door. That’s because you want privacy, not secrecy.   it’s really pretty scary just how much data there exists on you and how it can possibly be used against you",
+      "url": "",
+      "fx": -197.63850027168428,
+      "fy": -107.8319147000351,
+      "nodes": []
+    },
+    {
+      "text": "google  ️",
+      "url": "/economics/business/companies/google",
+      "fx": -51.843413294326524,
+      "fy": -9.569471423637992,
+      "nodes": [
+        {
+          "text": "It is possible that all the information could be made available to the authorities - Eric Schmidt",
+          "url": "https://www.reddit.com/r/privacy/comments/6hzqj4/google_not_gchq_is_the_truly_chilling_spy_network/dj2x3zl/",
+          "fx": 137.15658670567348,
+          "fy": -17.569471423637992,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "duckduckgo",
+      "url": "https://duckduckgo.com/",
+      "fx": 356.0161086397818,
+      "fy": 117.21079359227508,
+      "nodes": []
+    },
+    {
+      "text": "facebook  ️",
+      "note": "Facebook isn't just taking information that you choose to give them. They're taking anything they can get from any possible source, and you don't have a say in the matter.  Facebook tracks you whether you have an account or not, you're gonna have to do a lot more than just delete your account to gain an inch of your privacy back.  I think the most anyone can do is stop using Facebook... And when asked why you stopped using politely and simply state you do not like companies making profit by selling/ exchanging your privacy/ personal details.",
+      "url": "/economics/business/companies/facebook",
+      "fx": -118.7910537027501,
+      "fy": 189.02221370194218,
+      "nodes": [
+        {
+          "text": "17: get your loved ones off Facebook  ️",
+          "note": "By staying on Facebook, you’re granting them permission to collect and use information about you, regardless of you even using the Internet.   And by staying on, the data they collect on you gets used to create models about your closest friends and family, even the ones who opted out.",
+          "url": "http://www.salimvirani.com//facebook/",
+          "fx": 118.2089462972499,
+          "fy": 192.02221370194218,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
+      "category": "mindmap"
+    },
+    {
+      "text": "diaspora",
+      "url": "https://diasporafoundation.org/",
+      "fx": 184.99906628881877,
+      "fy": 301.83527733688425,
+      "nodes": []
+    },
+    {
+      "text": "mastodon",
+      "url": "https://mastodon.social/about",
+      "fx": 30.126965685588402,
+      "fy": 379.65427528939585,
+      "nodes": []
+    },
+    {
+      "text": "microsoft",
+      "url": "",
+      "fx": -211.99521280813713,
+      "fy": 472.69216845922836,
+      "nodes": [
+        {
+          "text": "17: microsoft shares windows 10 telemetry data with third parties",
+          "url": "https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/",
+          "fx": -29.995212808137126,
+          "fy": 476.19216845922836,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "linux",
+      "url": "https://www.ubuntu.com/",
+      "fx": 22.13560592463932,
+      "fy": 568.6572883543954,
+      "nodes": []
+    },
+    {
+      "text": "whatsapp",
+      "url": "",
+      "fx": -293.5033556193549,
+      "fy": 642.1163866508673,
+      "nodes": [
+        {
+          "text": "17: whatsapp backdoor allows snooping on encrypted messages",
+          "url": "https://www.reddit.com/r/privacy/comments/5nq2kd/whatsapp_backdoor_allows_snooping_on_encrypted/",
+          "fx": -105.50335561935492,
+          "fy": 645.6163866508673,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "signal",
+      "url": "https://whispersystems.org/",
+      "fx": -56.97060375539047,
+      "fy": 756.5993914233836,
+      "nodes": []
+    },
+    {
+      "text": "telegram",
+      "note": "uses its own encryption protocol, is not end to end encrypted by default  has a lot of amazing features that other messengers don’t have",
+      "url": "https://telegram.org/",
+      "fx": -130.84315482878048,
+      "fy": 840.919176239043,
+      "nodes": []
+    },
+    {
+      "text": "evernote",
+      "url": "",
+      "fx": -397.9683463078443,
+      "fy": 937.2980378764687,
+      "nodes": [
+        {
+          "text": "17: evernote employees can read your notes, and there's no way to opt out",
+          "url": "https://www.reddit.com/r/privacy/comments/5ice0v/evernote_employees_can_read_your_notes_and_theres/",
+          "fx": -220.96834630784429,
+          "fy": 930.2980378764687,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "ulysses",
+      "url": "https://www.ulyssesapp.com/",
+      "fx": -204.5246639446458,
+      "fy": 1065.8829489908123,
+      "nodes": []
+    },
+    {
+      "text": "mindnode",
+      "url": "https://mindnode.com/privacy",
+      "fx": -279.3405832669981,
+      "fy": 1141.1378962840017,
+      "nodes": []
+    },
+    {
+      "text": "amazon",
+      "url": "",
+      "fx": -528.0044041999271,
+      "fy": 1286.3244139950634,
+      "nodes": [
+        {
+          "text": "17: Amazon wants to put a camera and microphone in your bedroom: \"when asked if echo look photos, videos, and the data gleaned from them would be sold to third parties; the company did not address that question\"",
+          "url": "https://www.reddit.com/r/privacy/comments/67rgst/amazon_wants_to_put_a_camera_and_microphone_in/",
+          "fx": -358.0044041999271,
+          "fy": 1236.3244139950634,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "gmail",
+      "url": "",
+      "fx": -553.2233845975326,
+      "fy": 1458.6317618979942,
+      "nodes": []
+    },
+    {
+      "text": "tutanota",
+      "note": "based in Germany",
+      "url": "https://tutanota.com/",
+      "fx": -306.3569031928315,
+      "fy": 1466.8848498199845,
+      "nodes": []
+    },
+    {
+      "text": "protonmail",
+      "note": "based in Switzerland",
+      "url": "https://protonmail.com/",
+      "fx": -372.0120615384825,
+      "fy": 1568.5541255320486,
+      "nodes": []
+    },
+    {
+      "text": "chrome browser",
+      "url": "",
+      "fx": -636.1978032548203,
+      "fy": 1672.7030225389676,
+      "nodes": []
+    },
+    {
+      "text": "firefox",
+      "url": "https://www.mozilla.org/en-US/firefox/products/",
+      "fx": -249.33109976252865,
+      "fy": 1683.984432293853,
+      "nodes": [
+        {
+          "text": "17: browse against the machine  ️",
+          "url": "https://medium.com/the-official-unofficial-firefox-blog/browse-against-the-machine-e793c0fee917",
+          "fx": -97.33109976252865,
+          "fy": 1695.484432293853,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "brave",
+      "url": "https://www.brave.com/",
+      "fx": -256.7255364525878,
+      "fy": 1749.2650870897019,
+      "nodes": []
+    },
+    {
+      "text": "tor",
+      "url": "https://www.torproject.org/download/download-easy.html",
+      "fx": -269.7287439168755,
+      "fy": 1812.2627931479533,
+      "nodes": []
+    },
+    {
+      "text": "ungoogled chromium",
+      "url": "https://github.com/Eloston/ungoogled-chromium",
+      "fx": -420.9043022299205,
+      "fy": 1876.4872738497443,
+      "nodes": []
+    }
+  ],
+  "connections": [
+    {
+      "source": "invading privacy",
+      "target": "facebook  ️",
+      "curve": {
+        "x": 18.9238,
+        "y": 148.428
+      }
+    },
+    {
+      "source": "invading privacy",
+      "target": "google  ️",
+      "curve": {
+        "x": 46.6475,
+        "y": 49.1311
+      }
+    },
+    {
+      "source": "google  ️",
+      "target": "duckduckgo",
+      "curve": {
+        "x": 127.697,
+        "y": 100.17
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "invading privacy",
+      "target": "microsoft",
+      "curve": {
+        "x": -117.455,
+        "y": 304.078
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "linux",
+      "curve": {
+        "x": 72.1327,
+        "y": 67.7204
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "invading privacy",
+      "target": "whatsapp",
+      "curve": {
+        "x": -228.81,
+        "y": 373.776
+      }
+    },
+    {
+      "source": "whatsapp",
+      "target": "signal",
+      "curve": {
+        "x": 99.1452,
+        "y": 58.0352
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "whatsapp",
+      "target": "telegram",
+      "curve": {
+        "x": 51.816,
+        "y": 119.776
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "invading privacy",
+      "target": "evernote",
+      "curve": {
+        "x": -372.114,
+        "y": 494.07
+      }
+    },
+    {
+      "source": "evernote",
+      "target": "ulysses",
+      "curve": {
+        "x": 89.5109,
+        "y": 66.0697
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "evernote",
+      "target": "mindnode",
+      "curve": {
+        "x": 31.8908,
+        "y": 123.042
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "invading privacy",
+      "target": "gmail",
+      "curve": {
+        "x": -653.656,
+        "y": 782.203
+      }
+    },
+    {
+      "source": "gmail",
+      "target": "protonmail",
+      "curve": {
+        "x": 102.606,
+        "y": 54.9612
+      },
+      "text": "alternatve"
+    },
+    {
+      "source": "gmail",
+      "target": "tutanota",
+      "curve": {
+        "x": 130.183,
+        "y": 4.12654
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "invading privacy",
+      "target": "chrome browser",
+      "curve": {
+        "x": -746.57,
+        "y": 894.433
+      }
+    },
+    {
+      "source": "chrome browser",
+      "target": "firefox",
+      "curve": {
+        "x": 169.933,
+        "y": 5.6407
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "chrome browser",
+      "target": "brave",
+      "curve": {
+        "x": 165.486,
+        "y": 38.281
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "chrome browser",
+      "target": "tor",
+      "curve": {
+        "x": 152.485,
+        "y": 69.7799
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "chrome browser",
+      "target": "ungoogled chromium",
+      "curve": {
+        "x": 118.897,
+        "y": 101.892
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "invading privacy",
+      "target": "amazon",
+      "curve": {
+        "x": -504.418,
+        "y": 615.438
+      }
+    },
+    {
+      "source": "facebook  ️",
+      "target": "diaspora",
+      "curve": {
+        "x": 136.895,
+        "y": 55.1566
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "facebook  ️",
+      "target": "mastodon",
+      "curve": {
+        "x": 62.709,
+        "y": 94.0661
+      },
+      "text": "alternative"
+    },
+    {
+      "source": "privacy",
+      "target": "basics",
+      "curve": {
+        "x": -59.409,
+        "y": 190.165
+      }
+    },
+    {
+      "source": "basics",
+      "target": "invading privacy",
+      "curve": {
+        "x": -17.806,
+        "y": 102.683
+      }
+    },
+    {
+      "source": "help",
+      "target": "privacy",
+      "curve": {
+        "x": -54.3859,
+        "y": -71.7488
+      }
+    }
+  ]
+}

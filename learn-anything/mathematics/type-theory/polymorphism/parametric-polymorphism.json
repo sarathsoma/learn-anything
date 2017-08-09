@@ -1,0 +1,65 @@
+{
+  "title": "learn anything - mathematics - type theory - polymorphism - parametric polymorphism",
+  "tag": "",
+  "nodes": [
+    {
+      "text": "parametric polymorphism",
+      "url": "http://www.wikiwand.com/en/Parametric_polymorphism",
+      "fx": -93.9921875,
+      "fy": -107.81173896789551,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "talks",
+      "url": "",
+      "fx": 162.88020123267415,
+      "fy": 11.786763661640578,
+      "nodes": [
+        {
+          "text": "16: adventures in parametric polymorphism",
+          "url": "https://www.youtube.com/watch?v=Tc9vs_HFHVo",
+          "fx": 302.88020123267415,
+          "fy": 12.286763661640578,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 0.17748970455591007,
+      "fy": 121.70203772297612,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://en.wikibooks.org/wiki/Introduction_to_Programming_Languages/Parametric_Polymorphism",
+          "fx": 156.1774897045559,
+          "fy": 136.20203772297612,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "parametric polymorphism",
+      "target": "basics",
+      "curve": {
+        "x": -3.41516,
+        "y": 113.507
+      }
+    },
+    {
+      "source": "talks",
+      "target": "parametric polymorphism",
+      "curve": {
+        "x": -73.9362,
+        "y": -58.5493
+      }
+    }
+  ]
+}
