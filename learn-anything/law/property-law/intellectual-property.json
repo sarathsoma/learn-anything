@@ -25,6 +25,16 @@
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
         }
+        
+        {
+          "text": "2. WIPO certification",
+          "url": "http://www.wipo.int/academy/en/courses/distance_learning/",
+          "fx": 270.0066638290882,
+          "fy": -60.71093702316284,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
       ]
     }
   ],
