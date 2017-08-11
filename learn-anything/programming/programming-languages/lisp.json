@@ -12,7 +12,7 @@
           "text": "",
           "url": "https://www.reddit.com/r/lisp/",
           "fx": 83.05945906365753,
-          "fy": -283.11616083618947,
+          "fy": -263.11616083618947,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -21,28 +21,19 @@
           "text": "trending",
           "url": "https://github.com/trending/common-lisp",
           "fx": 83.05945906365753,
-          "fy": -243.11616083618947,
+          "fy": -223.11616083618947,
           "nodes": [],
           "category": "github",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(34, 205, 224, 1.0)"
         },
         {
           "text": "awesome",
           "url": "https://github.com/CodyReichert/awesome-cl",
           "fx": 83.05945906365753,
-          "fy": -203.11616083618947,
+          "fy": -183.11616083618947,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
-        },
-        {
-          "text": "trending",
-          "url": "https://github.com/trending/common-lisp",
-          "fx": 83.05945906365753,
-          "fy": -163.11616083618947,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(34, 205, 224, 1.0)"
         }
       ],
       "category": "wiki"

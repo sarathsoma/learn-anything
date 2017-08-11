@@ -13,14 +13,23 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 147.1104651162882,
-      "fy": -30.13408430230919,
+      "fx": 149.13263081396258,
+      "fy": -15.023255813937112,
       "nodes": [
+        {
+          "text": "1. conversation with Naval Ravikant and Ryan Shea",
+          "url": "https://www.youtube.com/watch?v=IrSn3zx2GbM",
+          "fx": 312.1326308139626,
+          "fy": -48.52325581393711,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
         {
           "text": "1. the advantages of decentralisation",
           "url": "https://www.youtube.com/watch?v=LKbOPYnUlXs",
-          "fx": 310.1104651162882,
-          "fy": -30.13408430230919,
+          "fx": 312.1326308139626,
+          "fy": 18.476744186062888,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -33,8 +42,8 @@
       "source": "decentralisation",
       "target": "basics",
       "curve": {
-        "x": -3.36969,
-        "y": 69.1516
+        "x": -2.35861,
+        "y": 76.707
       }
     }
   ]

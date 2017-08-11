@@ -14,17 +14,43 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 29.13657462627225,
-      "fy": -12.9026816952927,
+      "fx": 48.51352775127225,
+      "fy": -29.6936973202927,
       "nodes": [
         {
           "text": "humans album",
           "url": "http://imgur.com/a/p9FC3",
-          "fx": 220.13657462627225,
-          "fy": -1.4026816952926993,
+          "fx": 239.51352775127225,
+          "fy": -18.1936973202927,
           "nodes": [],
           "category": "image",
           "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "amas",
+      "url": "",
+      "fx": 67.18851224857588,
+      "fy": 99.33497323677597,
+      "nodes": [
+        {
+          "text": "awesome ama answers",
+          "url": "https://github.com/stoeffel/awesome-ama-answers",
+          "fx": 215.18851224857588,
+          "fy": 90.83497323677597,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome amas",
+          "url": "https://github.com/sindresorhus/amas",
+          "fx": 215.18851224857588,
+          "fy": 130.83497323677597,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     }
@@ -34,8 +60,16 @@
       "source": "humans",
       "target": "interesting",
       "curve": {
-        "x": 13.0699,
-        "y": 69.664
+        "x": 22.7584,
+        "y": 61.2685
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "amas",
+      "curve": {
+        "x": -1.41251,
+        "y": 64.5143
       }
     }
   ]

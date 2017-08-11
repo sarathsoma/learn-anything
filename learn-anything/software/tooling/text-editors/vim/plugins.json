@@ -81,34 +81,9 @@
           "color": "rgba(209, 21, 88, 1.0)"
         }
       ]
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 207.47265625,
-      "fy": 108.359375,
-      "nodes": [
-        {
-          "text": "awesome vim",
-          "url": "https://github.com/akrawchyk/awesome-vim",
-          "fx": 344.47265625,
-          "fy": 119.859375,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
-        }
-      ]
     }
   ],
   "connections": [
-    {
-      "source": "help",
-      "target": "vim plugins",
-      "curve": {
-        "x": -0.894531,
-        "y": -85.0918
-      }
-    },
     {
       "source": "plugin manager",
       "target": "vim plugins",
