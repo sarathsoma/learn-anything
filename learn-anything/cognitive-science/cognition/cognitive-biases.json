@@ -40,6 +40,21 @@
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. 20 cognitive biases that screw up your decisions",
+          "url": "http://www.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "3. How Cognitive Biases Influence How We Think and Act",
+          "url": "https://www.verywell.com/what-is-a-cognitive-bias-2794963",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "4. Cognitive bias cheat sheet, simplified",
+          "url": "https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f",
+          "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
     }
