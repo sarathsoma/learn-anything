@@ -148,8 +148,11 @@ If you have some specific questions about this project our about our team. We wo
 <h1 align="center"> <a href="https://github.com/nikitavoloboev/learn-anything/stargazers">🌟 gazers</a> over time</h1>
 
 
-
-[![Stargazers over time](https://starcharts.herokuapp.com/nikitavoloboev/learn-anything.svg)](https://starcharts.herokuapp.com/nikitavoloboev/learn-anything)
+<div align="center">
+	<a href="https://starcharts.herokuapp.com/nikitavoloboev/learn-anything">
+		<img src="https://starcharts.herokuapp.com/nikitavoloboev/learn-anything.svg">
+	</a>
+</div>
 
 
 <h2 align="center"> Thank you 💙 </h2>
