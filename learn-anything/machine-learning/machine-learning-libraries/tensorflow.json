@@ -129,7 +129,7 @@
           "text": "1. TensorFlow world",
           "url": "https://github.com/astorfi/TensorFlow-World",
           "fx": -4.658909216592519,
-          "fy": 425.57723042768396,
+          "fy": 404.57723042768396,
           "nodes": [],
           "category": "github",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -138,7 +138,7 @@
           "text": "1. TensorFlow: a primer  ️",
           "url": "https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3",
           "fx": -4.658909216592519,
-          "fy": 467.57723042768396,
+          "fy": 446.57723042768396,
           "nodes": [],
           "category": "article",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -147,15 +147,24 @@
           "text": "1. get started with tensorflow",
           "url": "https://www.tensorflow.org/get_started/get_started",
           "fx": -4.658909216592519,
-          "fy": 509.57723042768396,
+          "fy": 488.57723042768396,
           "nodes": [],
           "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. effective TensorFlow",
+          "url": "https://github.com/vahidk/EffectiveTensorflow",
+          "fx": -4.658909216592519,
+          "fy": 525.577230427684,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(169, 255, 0, 1.0)"
         },
         {
           "text": "1. tensorflow examples for beginners",
           "url": "https://github.com/aymericdamien/TensorFlow-Examples",
           "fx": -4.658909216592519,
-          "fy": 546.577230427684,
+          "fy": 567.577230427684,
           "nodes": [],
           "category": "github",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -164,7 +173,7 @@
           "text": "1. Tensorflow and deep learning - without a PhD by Martin Görner",
           "url": "https://www.youtube.com/watch?v=vq2nnJ4g6N0",
           "fx": -4.658909216592519,
-          "fy": 613.577230427684,
+          "fy": 634.577230427684,
           "nodes": [],
           "category": "video",
           "color": "rgba(252, 177, 20, 1.0)"

@@ -1,0 +1,97 @@
+{
+  "title": "learn anything - operating systems - unix - macos - automation - keyboard maestro",
+  "tag": "keyboard maestro app",
+  "nodes": [
+    {
+      "text": "keyboard maestro",
+      "url": "https://www.keyboardmaestro.com/main/",
+      "fx": -112.5,
+      "fy": -226.78515625,
+      "nodes": []
+    },
+    {
+      "text": "help",
+      "url": "",
+      "fx": 10.550109587103975,
+      "fy": -121.88192873303171,
+      "nodes": [
+        {
+          "text": "forum",
+          "url": "https://forum.keyboardmaestro.com/latest",
+          "fx": 151.55010958710398,
+          "fy": -127.88192873303171,
+          "nodes": [],
+          "category": "chat",
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "wiki",
+          "url": "https://wiki.keyboardmaestro.com/User_Manual",
+          "fx": 151.55010958710398,
+          "fy": -85.88192873303171,
+          "nodes": [],
+          "color": "rgba(0, 224, 161, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 67.67473011519542,
+      "fy": 4.850188587778689,
+      "nodes": [
+        {
+          "text": "best macros list",
+          "url": "https://forum.keyboardmaestro.com/t/best-macro-list/4118",
+          "fx": 266.6747301151954,
+          "fy": 19.85018858777869,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 151.6306939592497,
+      "fy": 138.10785956636914,
+      "nodes": [
+        {
+          "text": "insta cloning  ️",
+          "url": "https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32",
+          "fx": 320.6306939592497,
+          "fy": 150.60785956636914,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": "help",
+      "target": "keyboard maestro",
+      "curve": {
+        "x": -27.2751,
+        "y": -52.4516
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -43.0623,
+        "y": -63.3661
+      }
+    },
+    {
+      "source": "articles",
+      "target": "interesting",
+      "curve": {
+        "x": -34.478,
+        "y": -66.6288
+      }
+    }
+  ]
+}

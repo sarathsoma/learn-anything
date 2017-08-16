@@ -437,12 +437,14 @@
 <url> <loc>https://learn-anything.xyz/design/industrial-design/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/interaction-design/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/interior-design/</loc> </url>
+<url> <loc>https://learn-anything.xyz/design/product-design/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/typesetting/fonts/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/typesetting/latex/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/typography/kerning/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/typography/typeface/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/typography/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/user-experience/</loc> </url>
+<url> <loc>https://learn-anything.xyz/design/user-interfaces/</loc> </url>
 <url> <loc>https://learn-anything.xyz/design/</loc> </url>
 <url> <loc>https://learn-anything.xyz/distributed-computing/ethereum/smart-contracts/</loc> </url>
 <url> <loc>https://learn-anything.xyz/distributed-computing/ethereum/</loc> </url>
@@ -1294,6 +1296,7 @@
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/linux/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/apps/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/automation/jxa/</loc> </url>
+<url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/automation/keyboard-maestro/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/automation/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/launchd/</loc> </url>
 <url> <loc>https://learn-anything.xyz/operating-systems/unix/macos/</loc> </url>
@@ -1840,7 +1843,6 @@
 <url> <loc>https://learn-anything.xyz/space-science/</loc> </url>
 <url> <loc>https://learn-anything.xyz/systems-theory/cybernetics/</loc> </url>
 <url> <loc>https://learn-anything.xyz/systems-theory/</loc> </url>
-<url> <loc>https://learn-anything.xyz/virtual-reality/webvr/aframe/</loc> </url>
 <url> <loc>https://learn-anything.xyz/virtual-reality/webvr/</loc> </url>
 <url> <loc>https://learn-anything.xyz/virtual-reality/</loc> </url>
 <url> <loc>https://learn-anything.xyz/web-development/ajax/</loc> </url>
