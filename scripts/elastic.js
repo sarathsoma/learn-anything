@@ -6,59 +6,9 @@ const client = new elasticsearch.Client({
   log: 'error',
 });
 
+const action = process.argv[2];
 
-const action = process.argv.length > 2 ? process.argv[2] : '';
-
-client.ping({ requestTimeout: 1000 })
-  .then(() => {
-    switch(action) {
-      case 'create-index':
-        createIndex();
-        break;
-
-      case 'create':
-        createAll();
-        break;
-
-      case 'delete-index':
-        deleteIndex();
-        break;
-
-      case 'delete':
-        deleteAll();
-        break;
-
-      default:
-        console.log('Run the command with one of the following arguments [create, delete, create-index, delete-index]');
-    }
-  })
-  .catch((err) => { throw err; });
-
-
-const deleteIndex = () => {
-  client.indices.delete({ index: 'maps' })
-    .then(() => {
-      console.log('Deleted maps index.');
-    })
-    .catch((err) => {
-      console.error('There was an error deleting the index.');
-      console.error(err);
-      process.exit();
-    });
-};
-
-const deleteAll = () => {
-  client.deleteByQuery({ index: 'maps', q: '*' })
-  .then(() => {
-    console.log('Deleted all maps.');
-  })
-  .catch((err) => {
-    console.error('There was an error deleting all maps.');
-    console.error(err);
-    process.exit();
-  });
-};
-
+// Create index to store all maps
 const createIndex = () => {
   const body = {
     settings: {
@@ -67,7 +17,7 @@ const createIndex = () => {
           autocomplete_filter: {
             type: 'ngram',
             min_gram: 1,
-            max_gram: 10,
+            max_gram:10,
           },
         },
 
@@ -93,26 +43,27 @@ const createIndex = () => {
 
   client.indices.create({ index: 'maps', body })
     .then(() => {
-      console.log('maps index created.')
+      console.log('index for maps created.');
     })
     .catch((err) => {
-      console.error('There was an erorr creating the index.');
-      console.error(err);
+      console.error('There was an error creating the index:', err);
       process.exit();
     });
 };
 
+
 const createAll = () => {
-  // Resolved promise, will be used to chain all create promises.
+  // Resolved promise, will be used to chain all the other promises
   let chain = new Promise(resolve => resolve());
   const visited = [];
   let id = 0;
 
+  // Return a promise that resolves when the new map is created.
   const create = (map, i) => new Promise((resolve, reject) => {
     const parsedMap = Object.assign({}, map);
     delete parsedMap.id;
 
-    // Set the map key for search. If there's a tag use that,
+    // Set the map key for each search. If there's a tag use that,
     // otherwise use the leftmost topic on the title.
     if (map.tag) {
       parsedMap.key = map.tag;
@@ -130,17 +81,17 @@ const createAll = () => {
 
     client.create(options)
       .then(() => {
-        console.log(`${parsedMap.title} added`);
+        console.log(parsedMap.title, 'added');
         resolve();
       })
       .catch((err) => {
-        console.error(`There was an error with map: ${parsedMap.title}`);
+        console.error('There was an error with map:', parsedMap.title);
         reject(err);
       });
   });
 
   walkDir('.', (map) => {
-    if (visited.indexOf(map.title) === -1) {
+    if (!visited.includes(map.title)) {
       visited.push(map.title);
       map.id = id;
       id += 1;
@@ -154,3 +105,63 @@ const createAll = () => {
     }
   });
 };
+
+// Delete all maps
+const deleteAll = () => {
+  client.deleteByQuery({ index: 'maps', q: '*' })
+    .then(() => {
+      console.log('all maps were successfully deleted.');
+    })
+    .catch((err) => {
+      console.error('There was an error deleting all maps:', err);
+      process.exit();
+    });
+};
+
+// Delete index containing all maps
+const deleteIndex = () => {
+  client.indices.delete({ index: 'maps' })
+    .then(() => {
+      console.log('maps index deleted successfully.');
+    })
+    .catch((err) => {
+      console.error('There was an error deleting the index:', err);
+      process.exit();
+    });
+};
+
+
+client.ping({ requestTimeout: 1000 })
+  .then(() => {
+    const options = [
+      'create-index',
+      'create',
+      'delete-index',
+      'delete',
+    ];
+
+    switch (action) {
+      case 'create-index':
+        createIndex();
+        break;
+
+      case 'create':
+        createAll();
+        break;
+
+      case 'delete':
+        deleteAll();
+        break;
+
+      case 'delete-index':
+        deleteIndex();
+        break;
+
+      default:
+        console.log('Run the command with one of the following arguments', options);
+    }
+  })
+  .catch((err) => {
+    console.error('Error reaching elasticsearch:', err);
+    process.exit();
+  });

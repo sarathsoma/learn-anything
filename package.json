@@ -17,9 +17,7 @@
   ],
   "repository": "nikitavoloboev/learn-anything",
   "scripts": {
-    "upload": "node scripts/mapsLoader.js",
-    "upload:single": "node scripts/mapLoader.js",
-    "elastic": "node scripts/elasticLoad.js"
+    "elastic": "node scripts/elastic.js"
   },
   "dependencies": {
     "aws-sdk": "^2.85.0",
