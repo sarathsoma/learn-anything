@@ -6,13 +6,13 @@
       "text": "python",
       "url": "http://www.wikiwand.com/en/Python_(programming_language)",
       "fx": -18.84579971776475,
-      "fy": -702.2374211302389,
+      "fy": -744.9522648802389,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/Python/",
           "fx": 171.15420028223525,
-          "fy": -748.2374211302389,
+          "fy": -790.9522648802389,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -22,7 +22,7 @@
           "note": "original python implementation in c, compiles python code into byte code and interprets the byte code in a evaluation loop",
           "url": "https://github.com/python/cpython",
           "fx": 171.15420028223525,
-          "fy": -708.2374211302389,
+          "fy": -750.9522648802389,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -31,7 +31,7 @@
           "text": "trending",
           "url": "https://github.com/trending/python",
           "fx": 171.15420028223525,
-          "fy": -668.2374211302389,
+          "fy": -710.9522648802389,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -40,7 +40,7 @@
           "text": "awesome",
           "url": "https://github.com/vinta/awesome-python",
           "fx": 171.15420028223525,
-          "fy": -628.2374211302389,
+          "fy": -670.9522648802389,
           "nodes": [],
           "category": "github",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -58,7 +58,7 @@
           "text": "python data model",
           "url": "https://docs.python.org/3/reference/datamodel.html",
           "fx": 295.2803904914258,
-          "fy": -567.1181907662545,
+          "fy": -587.1181907662545,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         },
@@ -66,7 +66,7 @@
           "text": "scientific python cheat sheet",
           "url": "https://ipgp.github.io/scientific_python_cheat_sheet/",
           "fx": 295.2803904914258,
-          "fy": -533.1181907662545,
+          "fy": -553.1181907662545,
           "nodes": [],
           "color": "rgba(209, 21, 88, 1.0)"
         },
@@ -74,7 +74,7 @@
           "text": "structuring your project",
           "url": "http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/",
           "fx": 295.2803904914258,
-          "fy": -499.11819076625454,
+          "fy": -519.1181907662545,
           "nodes": [],
           "color": "rgba(49, 187, 71, 1.0)"
         },
@@ -82,7 +82,7 @@
           "text": "style guide for python code",
           "url": "https://www.python.org/dev/peps/pep-0008/",
           "fx": 295.2803904914258,
-          "fy": -465.11819076625454,
+          "fy": -485.11819076625454,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         },
@@ -90,7 +90,7 @@
           "text": "cpython internals  ️",
           "url": "http://pgbovine.net/cpython-internals.htm",
           "fx": 295.2803904914258,
-          "fy": -431.11819076625454,
+          "fy": -451.11819076625454,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -99,7 +99,7 @@
           "text": "API at a glance",
           "url": "http://overapi.com/python",
           "fx": 295.2803904914258,
-          "fy": -391.11819076625454,
+          "fy": -411.11819076625454,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         },
@@ -107,9 +107,18 @@
           "text": "find python books",
           "url": "http://pythonbooks.org/",
           "fx": 295.2803904914258,
-          "fy": -357.11819076625454,
+          "fy": -377.11819076625454,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "python cheat sheet",
+          "url": "https://github.com/crazyguitar/pysheeet",
+          "fx": 295.2803904914258,
+          "fy": -343.11819076625454,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     },
@@ -255,7 +264,7 @@
       "target": "basics",
       "curve": {
         "x": -53.0336,
-        "y": 289.306
+        "y": 310.663
       }
     },
     {
@@ -263,7 +272,7 @@
       "target": "python",
       "curve": {
         "x": -82.5632,
-        "y": -112.81
+        "y": -134.167
       }
     },
     {

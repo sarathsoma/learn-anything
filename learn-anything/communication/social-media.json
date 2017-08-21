@@ -55,8 +55,8 @@
     {
       "text": "decentralised  ️",
       "url": "/law/politics/political-science/decentralisation",
-      "fx": 247.54399073351897,
-      "fy": -15.34220852017927,
+      "fx": 225.50492823351897,
+      "fy": -13.14982570767927,
       "nodes": [],
       "category": "mindmap"
     },
@@ -93,19 +93,26 @@
       "category": "wiki"
     },
     {
-      "text": "mastodon",
-      "url": "https://mastodon.social/about",
-      "fx": 274.2880502178116,
-      "fy": 129.47425217822627,
-      "nodes": []
-    },
-    {
       "text": "twitter",
       "url": "http://www.wikiwand.com/en/Twitter",
       "fx": 80.61513634279913,
       "fy": 128.40363393161613,
       "nodes": [],
       "category": "wiki"
+    },
+    {
+      "text": "mastodon",
+      "url": "https://mastodon.social/about",
+      "fx": 275.7233699852536,
+      "fy": 135.09561845729593,
+      "nodes": []
+    },
+    {
+      "text": "scuttlebutt",
+      "url": "https://www.scuttlebutt.nz/",
+      "fx": 433.2202943313953,
+      "fy": 137.26542060319764,
+      "nodes": []
     }
   ],
   "connections": [
@@ -153,8 +160,8 @@
       "source": "basics",
       "target": "decentralised  ️",
       "curve": {
-        "x": 34.0196,
-        "y": 69.1647
+        "x": 23.0001,
+        "y": 70.2609
       }
     },
     {
@@ -169,8 +176,8 @@
       "source": "decentralised  ️",
       "target": "mastodon",
       "curve": {
-        "x": -2.62797,
-        "y": 71.6583
+        "x": 9.10922,
+        "y": 73.3728
       }
     },
     {
@@ -187,6 +194,14 @@
       "curve": {
         "x": -411.551,
         "y": 44.5418
+      }
+    },
+    {
+      "source": "decentralised  ️",
+      "target": "scuttlebutt",
+      "curve": {
+        "x": 88.6077,
+        "y": 74.4576
       }
     }
   ]

@@ -56,7 +56,7 @@
     },
     {
       "text": "compressed sensing  ️",
-      "fx": 566.5219938755305,
+      "fx": 567.5219938755305,
       "fy": 302.55271124669866,
       "nodes": [],
       "category": "mindmap"
@@ -107,7 +107,7 @@
       "source": "basics",
       "target": "compressed sensing  ️",
       "curve": {
-        "x": 120.169,
+        "x": 120.669,
         "y": 95.1904
       }
     },

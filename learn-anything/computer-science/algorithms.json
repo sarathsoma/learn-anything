@@ -261,6 +261,32 @@
       ]
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 651.8106040995544,
+      "fy": 358.6262151978831,
+      "nodes": [
+        {
+          "text": "pretty algorithms",
+          "url": "https://github.com/jiayihu/pretty-algorithms",
+          "fx": 842.8106040995544,
+          "fy": 350.1262151978831,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "pywonderland",
+          "url": "https://github.com/neozhaoliang/pywonderland",
+          "fx": 842.8106040995544,
+          "fy": 390.1262151978831,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "algorithm design  ️",
       "url": "/computer-science/algorithms/algorithm-design",
       "fx": 125.80901162706073,
@@ -483,6 +509,14 @@
       "curve": {
         "x": -192.405,
         "y": 157.391
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "articles",
+      "curve": {
+        "x": -31.0923,
+        "y": -79.8066
       }
     }
   ]

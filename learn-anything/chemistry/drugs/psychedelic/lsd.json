@@ -30,7 +30,7 @@
           "text": "interview with Stanislav Grof",
           "url": "https://www.youtube.com/watch?v=5ig3eU_oDS0&amp;feature=youtu.be",
           "fx": 450.0874432095692,
-          "fy": -513.0305052359172,
+          "fy": -496.03050523591725,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -39,7 +39,7 @@
           "text": "structure of LSD and its receptor explains its potency  ️",
           "url": "https://www.eurekalert.org/pub_releases/2017-01/cp-sol011917.php",
           "fx": 450.0874432095692,
-          "fy": -473.03050523591725,
+          "fy": -456.03050523591725,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -48,24 +48,16 @@
           "text": "trippy art",
           "url": "http://imgur.com/a/auarM",
           "fx": 450.0874432095692,
-          "fy": -411.03050523591725,
+          "fy": -394.03050523591725,
           "nodes": [],
           "category": "image",
           "color": "rgba(255, 189, 10, 1.0)"
         },
         {
-          "text": "visual drifting replication",
-          "url": "",
-          "fx": 450.0874432095692,
-          "fy": -371.03050523591725,
-          "nodes": [],
-          "color": "rgba(34, 205, 224, 1.0)"
-        },
-        {
           "text": "psychedelic replications",
           "url": "http://imgur.com/a/ep7CH",
           "fx": 450.0874432095692,
-          "fy": -337.03050523591725,
+          "fy": -354.03050523591725,
           "nodes": [],
           "category": "image",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -74,7 +66,7 @@
           "text": "visual drifting on LSD",
           "url": "https://gfycat.com/MarvelousHiddenAmericankestrel",
           "fx": 450.0874432095692,
-          "fy": -297.03050523591725,
+          "fy": -314.03050523591725,
           "nodes": [],
           "category": "image",
           "color": "rgba(49, 187, 71, 1.0)"

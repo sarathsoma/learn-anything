@@ -5,14 +5,14 @@
     {
       "text": "functional programming",
       "url": "http://www.wikiwand.com/en/Functional_programming",
-      "fx": -173.31640625,
-      "fy": -208.99609375,
+      "fx": -139.04470902444746,
+      "fy": -352.207058832101,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/functionalprogramming/",
-          "fx": 167.68359375,
-          "fy": -214.99609375,
+          "fx": 201.95529097555254,
+          "fy": -358.207058832101,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -20,8 +20,8 @@
         {
           "text": "awesome",
           "url": "https://github.com/lucasviola/awesome-functional-programming",
-          "fx": 167.68359375,
-          "fy": -174.99609375,
+          "fx": 201.95529097555254,
+          "fy": -318.207058832101,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -32,14 +32,31 @@
     {
       "text": "help",
       "url": "",
-      "fx": -7.871137619018441,
-      "fy": -95.06463692404998,
+      "fx": 82.52939261225197,
+      "fy": -230.32246989026459,
       "nodes": [
         {
           "text": "functional programming jargon",
           "url": "https://github.com/hemanth/functional-programming-jargon",
-          "fx": 129.12886238098156,
-          "fy": -83.56463692404998,
+          "fx": 219.52939261225197,
+          "fy": -218.82246989026459,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 116.31361643491914,
+      "fy": -120.50100897973965,
+      "nodes": [
+        {
+          "text": "accepted papers for ICFP'17",
+          "url": "https://github.com/gasche/icfp2017-papers",
+          "fx": 307.31361643491914,
+          "fy": -109.00100897973965,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -128,16 +145,16 @@
       "source": "help",
       "target": "functional programming",
       "curve": {
-        "x": -31.7226,
-        "y": -55.7158
+        "x": -59.787,
+        "y": -59.6924
       }
     },
     {
       "source": "functional programming",
       "target": "basics",
       "curve": {
-        "x": -14.8476,
-        "y": 137.079
+        "x": -31.9834,
+        "y": 208.684
       }
     },
     {
@@ -178,6 +195,14 @@
       "curve": {
         "x": -513.702,
         "y": 45.7822
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -30.3921,
+        "y": -54.9107
       }
     }
   ]

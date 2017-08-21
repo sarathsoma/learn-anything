@@ -99,23 +99,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -141.84354529442749,
-      "fy": 253.31754156831028,
+      "fx": -168.94901404442749,
+      "fy": 265.8253540683103,
       "nodes": [
-        {
-          "text": "1. understanding and using regular expressions",
-          "url": "https://www.youtube.com/watch?v=_6QBBT9Sq1U",
-          "fx": 47.156454705572514,
-          "fy": 161.81754156831028,
-          "nodes": [],
-          "category": "video",
-          "color": "rgba(252, 177, 20, 1.0)"
-        },
         {
           "text": "1. learn regex",
           "url": "https://github.com/zeeshanu/learn-regex",
-          "fx": 47.156454705572514,
-          "fy": 228.81754156831028,
+          "fx": 20.050985955572514,
+          "fy": 174.32535406831028,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -123,24 +114,33 @@
         {
           "text": "1. regex tutorial",
           "url": "http://www.rexegg.com/",
-          "fx": 47.156454705572514,
-          "fy": 270.8175415683103,
+          "fx": 20.050985955572514,
+          "fy": 216.32535406831028,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "1. 30 minute regex tutorial",
           "url": "https://www.codeproject.com/articles/9099/the-minute-regex-tutorial",
-          "fx": 47.156454705572514,
-          "fy": 307.8175415683103,
+          "fx": 20.050985955572514,
+          "fy": 253.32535406831028,
           "nodes": [],
           "color": "rgba(0, 224, 161, 1.0)"
         },
         {
+          "text": "1. understanding and using regular expressions",
+          "url": "https://www.youtube.com/watch?v=_6QBBT9Sq1U",
+          "fx": 20.050985955572514,
+          "fy": 290.3253540683103,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(252, 177, 20, 1.0)"
+        },
+        {
           "text": "2. mastering regular expressions",
           "url": "http://www.goodreads.com/book/show/583628.Mastering_Regular_Expressions",
-          "fx": 47.156454705572514,
-          "fy": 344.8175415683103,
+          "fx": 20.050985955572514,
+          "fy": 357.3253540683103,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -153,8 +153,8 @@
       "source": "regular expressions",
       "target": "basics",
       "curve": {
-        "x": -43.0672,
-        "y": 309.036
+        "x": -56.6199,
+        "y": 315.29
       }
     },
     {

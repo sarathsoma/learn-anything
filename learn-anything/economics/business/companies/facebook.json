@@ -5,32 +5,41 @@
     {
       "text": "facebook",
       "url": "http://www.wikiwand.com/en/Facebook",
-      "fx": 2.0965038035341195,
-      "fy": -593.6744195838318,
+      "fx": 17.509450232105678,
+      "fy": -681.5416070838318,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "basics",
       "url": "",
-      "fx": 30.976007310437808,
-      "fy": -461.119918197246,
+      "fx": 40.71030680338549,
+      "fy": -536.7310180664062,
       "nodes": [
         {
           "text": "1. get your loved ones off Facebook  ️",
           "note": "By staying on Facebook, you’re granting them permission to collect and use information about you, regardless of you even using the Internet.   And by staying on, the data they collect on you gets used to create models about your closest friends and family, even the ones who opted out.",
           "url": "http://www.salimvirani.com//facebook/",
-          "fx": 193.9760073104378,
-          "fy": -482.119918197246,
+          "fx": 203.7103068033855,
+          "fy": -591.2310180664062,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
+          "text": "1. what should you think about when using facebook?  ️",
+          "url": "https://veekaybee.github.io/facebook-is-collecting-this/",
+          "fx": 203.7103068033855,
+          "fy": -524.2310180664062,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
           "text": "2. hide Facebook news feed",
           "url": "https://github.com/maxfriedrich/quiet-facebook",
-          "fx": 193.9760073104378,
-          "fy": -415.119918197246,
+          "fx": 203.7103068033855,
+          "fy": -457.23101806640636,
           "nodes": [],
           "category": "github",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -61,14 +70,14 @@
     {
       "text": "privacy concerns",
       "url": "",
-      "fx": 230.91455123673632,
-      "fy": -119.55306554196477,
+      "fx": 233.89363861083984,
+      "fy": -116.00446319580078,
       "nodes": [
         {
           "text": "16: facebook shadow profiles  ️",
           "url": "https://spideroak.com/articles/facebook-shadow-profiles-a-profile-of-you-that-you-never-created",
-          "fx": 498.9145512367363,
-          "fy": -344.55306554196477,
+          "fx": 501.89363861083984,
+          "fy": -341.0044631958008,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -76,24 +85,24 @@
         {
           "text": "17: leaked document reveals facebook conducted research to target emotionally vulnerable and insecure youth",
           "url": "https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/",
-          "fx": 498.9145512367363,
-          "fy": -302.55306554196477,
+          "fx": 501.89363861083984,
+          "fy": -299.0044631958008,
           "nodes": [],
           "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "17: Zuckerberg removed a line about monitoring private messages from his facebook manifesto",
           "url": "https://www.reddit.com/r/privacy/comments/5ulggx/zuckerberg_removed_a_line_about_monitoring/",
-          "fx": 498.9145512367363,
-          "fy": -191.55306554196477,
+          "fx": 501.89363861083984,
+          "fy": -188.00446319580078,
           "nodes": [],
           "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "17: facebook is an attack on the open web",
           "url": "https://news.ycombinator.com/item?id=14462785",
-          "fx": 498.9145512367363,
-          "fy": -80.55306554196477,
+          "fx": 501.89363861083984,
+          "fy": -77.00446319580078,
           "nodes": [],
           "color": "rgba(255, 254, 60, 1.0)"
         },
@@ -101,24 +110,24 @@
           "text": "facebook tracks all site vistors, violating eu law",
           "note": "Facebook uses a lot of cookies, even if you don't visit the website or login, and it also uses cookies on any site that has a \"like\" button.  Facebook claims this is for security purposes, which is unlikely because they only do some of this tracking in Europe. This was discovered by two European research universities - there's no criminal or civil complaint filed against Facebook and they'll face no penalties.",
           "url": "https://thenextweb.com/facebook/2015/03/31/facebook-tracks-logged-out-users-in-violation-of-eu-law-belgian-privacy-commission-says/#.tnw_OTKkI5gS",
-          "fx": 498.9145512367363,
-          "fy": -18.55306554196477,
+          "fx": 501.89363861083984,
+          "fy": -15.004463195800781,
           "nodes": [],
           "color": "rgba(169, 255, 0, 1.0)"
         },
         {
           "text": "get data Facebook has on you",
           "url": "http://europe-v-facebook.org/EN/Get_your_Data_/get_your_data_.html",
-          "fx": 498.9145512367363,
-          "fy": 43.44693445803523,
+          "fx": 501.89363861083984,
+          "fy": 46.99553680419922,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "your emotions may soon be secretly recorded by your own camera by Facebook  ️",
           "url": "https://trak-in.cdn.ampproject.org/c/trak.in/tags/business/2017/06/07/facebooks-evil-patents-discovered-your-emotions-may-soon-be-secretly-recorded-by-your-own-camera/amp/",
-          "fx": 498.9145512367363,
-          "fy": 80.44693445803523,
+          "fx": 501.89363861083984,
+          "fy": 83.99553680419922,
           "nodes": [],
           "category": "article",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -198,8 +207,8 @@
       "source": "issues",
       "target": "privacy concerns",
       "curve": {
-        "x": -76.9984,
-        "y": -171.166
+        "x": -75.5089,
+        "y": -169.392
       }
     },
     {
@@ -246,32 +255,32 @@
       "source": "facebook",
       "target": "basics",
       "curve": {
-        "x": -0.560248,
-        "y": 65.5273
+        "x": -3.39957,
+        "y": 71.6553
       }
     },
     {
       "source": "basics",
       "target": "alternative",
       "curve": {
-        "x": -130.865,
-        "y": 26.8554
+        "x": -135.732,
+        "y": 64.6609
       }
     },
     {
       "source": "privacy concerns",
       "target": "basics",
       "curve": {
-        "x": -126.219,
-        "y": -170.783
+        "x": -122.841,
+        "y": -210.363
       }
     },
     {
       "source": "basics",
       "target": "owns",
       "curve": {
-        "x": -52.4641,
-        "y": 115.585
+        "x": -57.3312,
+        "y": 153.391
       }
     }
   ]

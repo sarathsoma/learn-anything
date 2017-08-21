@@ -212,14 +212,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -213.60039907594285,
+      "fx": -235.18633657594285,
       "fy": 118.82657396589946,
       "nodes": [
         {
           "text": "1. real world haskell",
           "url": "http://book.realworldhaskell.org/read/",
-          "fx": -31.600399075942846,
-          "fy": -28.673426034100544,
+          "fx": -53.186336575942846,
+          "fy": -48.673426034100544,
           "nodes": [],
           "category": "free book",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -227,8 +227,8 @@
         {
           "text": "1. learn haskell",
           "url": "https://github.com/bitemyapp/learnhaskell",
-          "fx": -31.600399075942846,
-          "fy": 11.326573965899456,
+          "fx": -53.186336575942846,
+          "fy": -8.673426034100544,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -236,8 +236,8 @@
         {
           "text": "1. introduction to haskell",
           "url": "http://www.seas.upenn.edu/%7Ecis194/spring13/",
-          "fx": -31.600399075942846,
-          "fy": 51.326573965899456,
+          "fx": -53.186336575942846,
+          "fy": 31.326573965899456,
           "nodes": [],
           "category": "course",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -246,8 +246,8 @@
           "text": "1. haskell programming from first principles",
           "note": "- have to pay for it",
           "url": "http://haskellbook.com/",
-          "fx": -31.600399075942846,
-          "fy": 91.32657396589946,
+          "fx": -53.186336575942846,
+          "fy": 71.32657396589946,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -255,8 +255,8 @@
         {
           "text": "1. learn you a Haskell for great good!",
           "url": "http://learnyouahaskell.com/chapters",
-          "fx": -31.600399075942846,
-          "fy": 153.32657396589946,
+          "fx": -53.186336575942846,
+          "fy": 133.32657396589946,
           "nodes": [],
           "category": "free book",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -264,17 +264,26 @@
         {
           "text": "1. a taste of haskell  ️",
           "url": "https://hookrace.net/blog/a-taste-of-haskell/",
-          "fx": -31.600399075942846,
-          "fy": 215.32657396589946,
+          "fx": -53.186336575942846,
+          "fy": 195.32657396589946,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
+          "text": "1. haskell curiosities",
+          "url": "https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf",
+          "fx": -53.186336575942846,
+          "fy": 235.32657396589946,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
           "text": "2. where to go after  ️",
           "url": "http://gilmi.xyz/post/2015/02/25/after-lyah",
-          "fx": -31.600399075942846,
-          "fy": 255.32657396589946,
+          "fx": -53.186336575942846,
+          "fy": 275.32657396589946,
           "nodes": [],
           "category": "article",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -282,12 +291,36 @@
         {
           "text": "2. haskell exercises",
           "url": "http://exercism.io/languages/haskell/about",
-          "fx": -31.600399075942846,
-          "fy": 295.32657396589946,
+          "fx": -53.186336575942846,
+          "fy": 315.32657396589946,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 421.7734375,
+      "fy": 256.875,
+      "nodes": [
+        {
+          "text": "16: dependent types in haskell: theory and practice",
+          "url": "http://cs.brynmawr.edu/%7Erae/papers/2016/thesis/eisenberg-thesis.pdf",
+          "fx": 612.7734375,
+          "fy": 257.375,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "liquid haskell  ️",
+      "fx": -414.8943088161865,
+      "fy": 391.48410964036043,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -295,7 +328,7 @@
       "source": "haskell",
       "target": "basics",
       "curve": {
-        "x": -54.7354,
+        "x": -65.5284,
         "y": 413.077
       }
     },
@@ -321,6 +354,22 @@
       "curve": {
         "x": -58.595,
         "y": -94.8176
+      }
+    },
+    {
+      "source": "talks",
+      "target": "interesting",
+      "curve": {
+        "x": 21.2491,
+        "y": 72.102
+      }
+    },
+    {
+      "source": "basics",
+      "target": "liquid haskell  ️",
+      "curve": {
+        "x": -82.104,
+        "y": 136.329
       }
     }
   ]
