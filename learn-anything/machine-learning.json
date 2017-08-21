@@ -631,7 +631,15 @@
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "Machine Learning for Humans🤖👶 ",
+          "url": "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12",
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
         }
+        
       ]
     },
     {
