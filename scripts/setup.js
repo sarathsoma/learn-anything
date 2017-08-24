@@ -116,7 +116,14 @@ async function setup() {
 
   if (indexExists) {
     console.log('deleting old maps');
-    console.log(await client.deleteByQuery({ index: 'maps', q: '*' }));
+    console.log(await client.deleteByQuery({
+      index: 'maps',
+      body: {
+        query: {
+          match_all: {},
+        },
+      },
+    }));
 
     console.log('deleting old index');
     console.log(await client.indices.delete({ index: 'maps' }));

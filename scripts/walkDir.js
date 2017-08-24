@@ -4,13 +4,12 @@ const fs = require('fs-extra');
 const ignoredFiles = ['package.json', 'package-lock.json'];
 const ignoredDirs = ['node_modules', 'media', 'scripts'];
 
-
 /*
  * Generator that recursively walks into a specified directory.
  * Yields the content of each file.
  */
 function *walkDir(dirname) {
-  // Read all in specified directory and loop through them.
+  // Read all files in specified directory and loop through them.
   for (let file of fs.readdirSync(dirname)) {
     const absPath = resolve('./', dirname, file);
     const stat = fs.statSync(absPath);
