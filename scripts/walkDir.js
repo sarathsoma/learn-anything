@@ -1,48 +1,34 @@
 const { resolve } = require('path');
-const walk = require('fs-walk').walkSync;
+const fs = require('fs-extra');
 
-const ignoreFiles = ['AWSConfig.json', 'package.json', 'package-lock.json'];
-const ignoreDirs = ['node_modules'];
+const ignoredFiles = ['package.json', 'package-lock.json'];
+const ignoredDirs = ['node_modules', 'media', 'scripts'];
+
 
 /*
- * Recursively walk a directory and call a function on all its json files.
- * Imported file and absolute path are the parameters passed to
- * the callback function.
+ * Generator that recursively walks into a specified directory.
+ * Yields the content of each file.
  */
-const walkDir = (dirname, fn) => {
-  walk(dirname, (basedir, filename, stat) => {
-    const absPath = resolve('./', basedir, filename);
+function *walkDir(dirname) {
+  // Read all in specified directory and loop through them.
+  for (let file of fs.readdirSync(dirname)) {
+    const absPath = resolve('./', dirname, file);
+    const stat = fs.statSync(absPath);
 
     if (stat.isDirectory()) {
-      // Don't walk ignored folders.
-      if (ignoreDirs.indexOf(filename) !== -1) {
-        return;
+      // Don't walk on ignored directories
+      if (ignoredDirs.includes(file)) {
+        continue;
       }
-      return walkDir(absPath, fn);
+
+      yield *walkDir(absPath);
     }
 
-    // Ignore files in ignored folders.
-    let ignore = false;
-    ignoreDirs.forEach((dir) => {
-      if (basedir.indexOf(dir) !== -1) {
-        ignore = true;
-      }
-    });
-
-    if (ignore) {
-      return;
-    }
-
-    if (typeof fn === 'function' &&
-      absPath.endsWith('.json') &&
-      ignoreFiles.indexOf(filename) === -1) {
+    if (file.endsWith('.json') && !ignoredFiles.includes(file)) {
       // eslint-disable-next-line import/no-dynamic-require, global-require
-      fn(require(absPath), absPath);
+      yield require(absPath);
     }
-
-    return null;
-  });
+  }
 };
 
 module.exports = walkDir;
-

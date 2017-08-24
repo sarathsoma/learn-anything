@@ -17,12 +17,14 @@
   ],
   "repository": "nikitavoloboev/learn-anything",
   "scripts": {
-    "elastic": "node scripts/elastic.js"
+    "setup": "node scripts/setup.js",
+    "setup:prod": "NODE_ENV='production' node scripts/setup.js"
   },
   "dependencies": {
-    "aws-sdk": "^2.85.0",
-    "elasticsearch": "^13.2.0",
-    "fs-walk": "^0.0.1",
+    "aws-sdk": "^2.100.0",
+    "elasticsearch": "^13.3.1",
+    "fs-extra": "^4.0.1",
+    "http-aws-es": "^2.0.5",
     "sitemap": "^1.13.0"
   }
 }
