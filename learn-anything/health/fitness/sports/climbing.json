@@ -37,6 +37,15 @@
         }
       ]
     }
+
+    {
+      "text": "Technique",
+      "url": "https://www.climbing.com/skills/learn-to-train-improve-your-technique/",
+      "fx":"",
+      "fy": "",
+      "nodes": [
+      ]
+    }
   ],
   "connections": [
     {
