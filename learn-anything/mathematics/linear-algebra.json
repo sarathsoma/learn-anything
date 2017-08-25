@@ -205,6 +205,14 @@
       "category": "mindmap"
     },
     {
+      "text": "eigenvectors and eigenvalues  ️",
+      "url": "/mathematics/linear-algebra/eigenvectors",
+      "fx": -144.91893482208252,
+      "fy": 381.66226196289017,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "Gaussian elimination  ️",
       "url": "/mathematics/linear-algebra/gaussian-elimination",
       "fx": -591.455454145159,
@@ -217,14 +225,6 @@
       "url": "/mathematics/linear-algebra/vectors",
       "fx": -742.5768912179129,
       "fy": 385.9782943725586,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
-      "text": "eigenvectors and eigenvalues  ️",
-      "url": "/mathematics/linear-algebra/eigenvectors",
-      "fx": -146.16893482208252,
-      "fy": 382.9659729003906,
       "nodes": [],
       "category": "mindmap"
     }
@@ -250,8 +250,8 @@
       "source": "basics",
       "target": "eigenvectors and eigenvalues  ️",
       "curve": {
-        "x": -61.892,
-        "y": 242.733
+        "x": -61.267,
+        "y": 242.081
       }
     },
     {

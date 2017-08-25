@@ -39,17 +39,26 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -60.1367496997118,
-      "fy": 7.239160537719727,
+      "fx": -81.07057939769834,
+      "fy": -6.20659764181039,
       "nodes": [
         {
           "text": "1. design patterns for humans",
           "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
-          "fx": 121.8632503002882,
-          "fy": 18.739160537719727,
+          "fx": 100.92942060230166,
+          "fy": -14.70659764181039,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. clean code",
+          "url": "https://github.com/rmsadik/x/blob/master/CleanCode/Clean%20Code.pdf",
+          "fx": 100.92942060230166,
+          "fy": 25.29340235818961,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     }
@@ -59,8 +68,8 @@
       "source": "software design patterns",
       "target": "basics",
       "curve": {
-        "x": -6.81818,
-        "y": 121.386
+        "x": -17.2851,
+        "y": 114.663
       }
     },
     {

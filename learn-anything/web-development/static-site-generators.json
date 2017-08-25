@@ -1,19 +1,19 @@
 {
   "title": "learn anything - web development - static site generators",
-  "tag": "",
+  "tag": "web APIs",
   "nodes": [
     {
       "text": "static web pages",
       "note": "if you think this can be improved in any way ",
       "url": "http://www.wikiwand.com/en/Static_web_page",
-      "fx": -73.32960904316224,
-      "fy": -319.24666122195987,
+      "fx": 36.35551275094144,
+      "fy": -446.9771412075783,
       "nodes": [
         {
           "text": "awesome",
           "url": "https://github.com/aharris88/awesome-static-website-services",
-          "fx": 233.67039095683776,
-          "fy": -305.24666122195987,
+          "fx": 343.35551275094144,
+          "fy": -432.9771412075783,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -22,33 +22,54 @@
       "category": "wiki"
     },
     {
+      "text": "hosting",
+      "url": "",
+      "fx": 314.7135337014204,
+      "fy": -309.64802056806707,
+      "nodes": []
+    },
+    {
       "text": "static website generators",
       "url": "",
-      "fx": -148.23706218540258,
-      "fy": -195.2939453125,
+      "fx": -175.72869164968824,
+      "fy": -233.1650390625,
+      "nodes": []
+    },
+    {
+      "text": "netlify",
+      "url": "https://www.netlify.com/",
+      "fx": 484.0781249999998,
+      "fy": -181.81063179347836,
+      "nodes": []
+    },
+    {
+      "text": "GitHub pages",
+      "url": "https://pages.github.com/",
+      "fx": 303.81721083113666,
+      "fy": -180.56541810770761,
       "nodes": []
     },
     {
       "text": "hugo  ️",
       "url": "/web-development/static-site-generators/hugo",
-      "fx": -324.7534361489285,
-      "fy": -75.11292244060382,
+      "fx": -352.24506561321414,
+      "fy": -112.98401619060382,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "hakyll",
       "url": "https://github.com/jaspervdj/hakyll",
-      "fx": -42.70765644187543,
-      "fy": -74.7349714106632,
+      "fx": -70.1992859061611,
+      "fy": -112.6060651606632,
       "nodes": [],
       "category": "github"
     },
     {
       "text": "jekyll  ️",
       "url": "/web-development/static-site-generators/jekyll",
-      "fx": -173.88148206602602,
-      "fy": -74.32266507998429,
+      "fx": -201.3731115303117,
+      "fy": -112.19375882998429,
       "nodes": [],
       "category": "mindmap"
     },
@@ -56,8 +77,8 @@
       "text": "phenomic",
       "note": "based on the React and Webpack ecosystem",
       "url": "https://github.com/MoOx/phenomic",
-      "fx": 93.2132316468244,
-      "fy": -72.91331845238119,
+      "fx": 65.72160218253873,
+      "fy": -110.78441220238119,
       "nodes": [],
       "category": "github"
     }
@@ -67,8 +88,8 @@
       "source": "static web pages",
       "target": "static website generators",
       "curve": {
-        "x": -26.4537,
-        "y": 60.7264
+        "x": -95.0421,
+        "y": 105.656
       }
     },
     {
@@ -101,6 +122,30 @@
       "curve": {
         "x": -51.5722,
         "y": 61.7356
+      }
+    },
+    {
+      "source": "static web pages",
+      "target": "hosting",
+      "curve": {
+        "x": 103.679,
+        "y": 67.4146
+      }
+    },
+    {
+      "source": "hosting",
+      "target": "GitHub pages",
+      "curve": {
+        "x": 9.30184,
+        "y": 64.5413
+      }
+    },
+    {
+      "source": "hosting",
+      "target": "netlify",
+      "curve": {
+        "x": 105.227,
+        "y": 56.5541
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "title": "learn anything - law - politics - political science - decentralisation",
-  "tag": "",
+  "tag": "application generators",
   "nodes": [
     {
       "text": "decentralisation",
@@ -13,14 +13,23 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 147.1104651162882,
-      "fy": -30.13408430230919,
+      "fx": 147.65625286120655,
+      "fy": -22.961863097401704,
       "nodes": [
+        {
+          "text": "1. conversation with Naval Ravikant and Ryan Shea",
+          "url": "https://www.youtube.com/watch?v=IrSn3zx2GbM",
+          "fx": 310.65625286120655,
+          "fy": -56.461863097401704,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
         {
           "text": "1. the advantages of decentralisation",
           "url": "https://www.youtube.com/watch?v=LKbOPYnUlXs",
-          "fx": 310.1104651162882,
-          "fy": -30.13408430230919,
+          "fx": 310.65625286120655,
+          "fy": 10.538136902598296,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -33,8 +42,8 @@
       "source": "decentralisation",
       "target": "basics",
       "curve": {
-        "x": -3.36969,
-        "y": 69.1516
+        "x": -3.0968,
+        "y": 72.7377
       }
     }
   ]

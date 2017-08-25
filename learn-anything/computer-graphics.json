@@ -221,8 +221,8 @@
     {
       "text": "computer graphics lighting  ️",
       "url": "/computer-graphics/computer-graphics-lighting",
-      "fx": -1974.2505908613446,
-      "fy": 270.0863433441559,
+      "fx": -1970.427490234375,
+      "fy": 270.0863227844238,
       "nodes": [],
       "category": "mindmap"
     },
@@ -387,7 +387,7 @@
       "source": "basics",
       "target": "computer graphics lighting  ️",
       "curve": {
-        "x": -1197.06,
+        "x": -1195.15,
         "y": 19.3325
       }
     }

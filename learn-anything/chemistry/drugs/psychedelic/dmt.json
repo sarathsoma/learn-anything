@@ -1,6 +1,6 @@
 {
   "title": "learn anything - chemistry - drugs - psychedelic - dmt",
-  "tag": "DMT",
+  "tag": "CoreML",
   "nodes": [
     {
       "text": "DMT",
@@ -101,17 +101,36 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 14.034959361532515,
-      "fy": 300.29082906661534,
+      "fx": -37.1661495094354,
+      "fy": 350.8283794698411,
       "nodes": [
         {
           "text": "1. how does DMT work  ️",
           "url": "http://www.thinkingzygote.com/2012/02/how-dmt-works.html",
-          "fx": 170.03495936153251,
-          "fy": 311.79082906661534,
+          "fx": 118.8338504905646,
+          "fy": 320.3283794698411,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. dynamic transitions of consciousness: an EEG study using DMT",
+          "url": "https://www.youtube.com/watch?v=sZNtEFQ4iF4&amp;feature=youtu.be",
+          "fx": 118.8338504905646,
+          "fy": 360.3283794698411,
+          "nodes": [
+            {
+              "text": "",
+              "url": "https://www.reddit.com/r/DMT/comments/6qxewl/alpha_brain_waves_are_effectively_ceased_after/",
+              "fx": 480.8338504905646,
+              "fy": 382.3283794698411,
+              "nodes": [],
+              "category": "reddit",
+              "color": "rgba(255, 189, 10, 1.0)"
+            }
+          ],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     }
@@ -129,8 +148,8 @@
       "source": "DMT",
       "target": "basics",
       "curve": {
-        "x": -8.60957,
-        "y": 259.298
+        "x": -34.2101,
+        "y": 284.567
       }
     },
     {

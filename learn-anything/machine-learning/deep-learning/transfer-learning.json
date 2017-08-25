@@ -1,6 +1,6 @@
 {
   "title": "learn anything - machine learning - deep learning - transfer learning",
-  "tag": "",
+  "tag": "garbage collection",
   "nodes": [
     {
       "text": "transfer learning",
@@ -11,19 +11,36 @@
       "category": "wiki"
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 63.857550831646904,
+      "fy": -68.97122833920315,
+      "nodes": [
+        {
+          "text": "17: sluice networks: learning what to share between loosely related tasks",
+          "url": "https://arxiv.org/abs/1705.08142",
+          "fx": 262.8575508316469,
+          "fy": -81.47122833920315,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "basics",
       "url": "",
       "fx": -39.5,
-      "fy": -36.4453125,
+      "fy": 75.8515625,
       "nodes": [
         {
           "text": "1. tensorflow tutorial: transfer learning",
           "url": "https://www.youtube.com/watch?v=upfgTWrhkpg",
-          "fx": 116.5,
-          "fy": -35.9453125,
+          "fx": 123.5,
+          "fy": 75.8515625,
           "nodes": [],
           "category": "video",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     }
@@ -34,7 +51,15 @@
       "target": "basics",
       "curve": {
         "x": -1.19141,
-        "y": 79.0039
+        "y": 135.152
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "transfer learning",
+      "curve": {
+        "x": -59.2373,
+        "y": -62.7409
       }
     }
   ]

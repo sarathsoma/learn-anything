@@ -67,23 +67,39 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -97.00392486660803,
-      "fy": 166.7694948262016,
+      "fx": -182.4856956999413,
+      "fy": 200.21443530239242,
       "nodes": [
+        {
+          "text": "1. introduction",
+          "url": "https://services.github.com/on-demand/graphql/",
+          "fx": -26.48569569994129,
+          "fy": 160.71443530239242,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
         {
           "text": "1. GraphQL - getting started  ️",
           "url": "https://www.getboost.io/posts/graphql-tutorial-getting-started",
-          "fx": 58.99607513339197,
-          "fy": 161.2694948262016,
+          "fx": -26.48569569994129,
+          "fy": 194.71443530239242,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
+          "text": "1. full stack tutorial for GraphQL",
+          "url": "https://www.howtographql.com/",
+          "fx": -26.48569569994129,
+          "fy": 234.71443530239242,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
           "text": "1. how to GraphQL",
           "url": "https://www.howtographql.com/",
-          "fx": 58.99607513339197,
-          "fy": 201.2694948262016,
+          "fx": -26.48569569994129,
+          "fy": 268.7144353023924,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         }
@@ -103,8 +119,8 @@
       "source": "GraphQL",
       "target": "basics",
       "curve": {
-        "x": -3.89649,
-        "y": 187.42
+        "x": -46.6374,
+        "y": 204.143
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "title": "learn anything - physics - quantum mechanics - quantum state",
-  "tag": "",
+  "tag": "pumping lemma for regular languages",
   "nodes": [
     {
       "text": "quantum state",
@@ -13,14 +13,14 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 161.22984211512164,
-      "fy": -70.71627632239722,
+      "fx": 171.92165327341547,
+      "fy": -73.47950572752012,
       "nodes": [
         {
           "text": "1. introduction to quantum mechanics, probability amplitudes and quantum state",
           "url": "https://www.youtube.com/watch?v=AufmV0P6mA0",
-          "fx": 324.22984211512164,
-          "fy": -116.71627632239722,
+          "fx": 334.9216532734155,
+          "fy": -119.47950572752012,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -28,13 +28,21 @@
         {
           "text": "1. quantum states and Puali exclusion",
           "url": "https://www.youtube.com/watch?v=RcD-v5-3U-M",
-          "fx": 324.22984211512164,
-          "fy": -24.71627632239722,
+          "fx": 334.9216532734155,
+          "fy": -27.47950572752012,
           "nodes": [],
           "category": "video",
           "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
+    },
+    {
+      "text": "wave function  ️",
+      "url": "/physics/quantum-mechanics/quantum-state/wave-function",
+      "fx": 16.030997399279954,
+      "fy": 90.81663255667485,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -42,8 +50,16 @@
       "source": "quantum state",
       "target": "basics",
       "curve": {
-        "x": -5.35573,
-        "y": 77.4684
+        "x": -0.00982442,
+        "y": 76.0868
+      }
+    },
+    {
+      "source": "basics",
+      "target": "wave function  ️",
+      "curve": {
+        "x": -59.6953,
+        "y": 82.1481
       }
     }
   ]

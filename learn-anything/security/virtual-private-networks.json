@@ -7,7 +7,17 @@
       "url": "http://www.wikiwand.com/en/Virtual_private_network",
       "fx": 12.23046875,
       "fy": -277.14453125,
-      "nodes": [],
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/VPN/",
+          "fx": 337.23046875,
+          "fy": -263.14453125,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
@@ -76,12 +86,11 @@
       "fy": 236.70038924430628,
       "nodes": [
         {
-          "text": "1. how to set up a VPN in 10 minutes for free and why you need one  ️",
-          "url": "https://medium.freecodecamp.com/how-to-set-up-a-vpn-in-5-minutes-for-free-and-why-you-urgently-need-one-d5cdba361907",
+          "text": "1. choosing a VPN",
+          "url": "https://thatoneprivacysite.net/choosing-the-best-vpn-for-you/",
           "fx": 174.42945192761465,
-          "fy": 226.20038924430628,
+          "fy": 251.20038924430628,
           "nodes": [],
-          "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]

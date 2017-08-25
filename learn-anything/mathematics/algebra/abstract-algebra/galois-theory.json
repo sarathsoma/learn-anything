@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - algebra - abstract algebra - galois theory",
-  "tag": "Galois theory",
+  "tag": "new newsletters",
   "nodes": [
     {
       "text": "Galois theory",
@@ -71,6 +71,14 @@
           "color": "rgba(252, 177, 20, 1.0)"
         }
       ]
+    },
+    {
+      "text": "fundamental  theorem of Galois theory",
+      "url": "http://www.wikiwand.com/en/Fundamental_theorem_of_Galois_theory",
+      "fx": -301.00301932367154,
+      "fy": 444.46893399003613,
+      "nodes": [],
+      "category": "wiki"
     }
   ],
   "connections": [
@@ -80,6 +88,14 @@
       "curve": {
         "x": -9.28706,
         "y": 128.082
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fundamental  theorem of Galois theory",
+      "curve": {
+        "x": -59.4447,
+        "y": 139.804
       }
     }
   ]

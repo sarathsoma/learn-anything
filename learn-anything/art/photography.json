@@ -62,16 +62,32 @@
       ]
     },
     {
+      "text": "tools",
+      "url": "",
+      "fx": 136.5609758165151,
+      "fy": -32.24162377251514,
+      "nodes": [
+        {
+          "text": "polarr editor",
+          "url": "https://photoeditor.polarr.co/",
+          "fx": 278.5609758165151,
+          "fy": -17.74162377251514,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "inspiration",
       "url": "",
-      "fx": 53.25916781174885,
-      "fy": -20.12258101453233,
+      "fx": 227.84684142285994,
+      "fy": 90.1790682910231,
       "nodes": [
         {
           "text": "artistic photos",
           "url": "https://imgur.com/a/jAEYj",
-          "fx": 243.25916781174885,
-          "fy": -28.62258101453233,
+          "fx": 417.84684142285994,
+          "fy": 81.6790682910231,
           "nodes": [],
           "category": "image",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -79,28 +95,11 @@
         {
           "text": "beautiful photos",
           "url": "https://imgur.com/a/vA2Ly",
-          "fx": 243.25916781174885,
-          "fy": 11.37741898546767,
+          "fx": 417.84684142285994,
+          "fy": 121.6790682910231,
           "nodes": [],
           "category": "image",
           "color": "rgba(36, 170, 255, 1.0)"
-        }
-      ]
-    },
-    {
-      "text": "interviews",
-      "url": "",
-      "fx": 138.43423107510102,
-      "fy": 101.38129761479411,
-      "nodes": [
-        {
-          "text": "cinematic moments with Dan Root  ️",
-          "url": "http://vsco.co/artsandculture/journal/cinematic-moments?_branch_match_id=412292302150515425",
-          "fx": 326.434231075101,
-          "fy": 112.88129761479411,
-          "nodes": [],
-          "category": "article",
-          "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
     },
@@ -117,6 +116,23 @@
           "fy": 198.38304834084988,
           "nodes": [],
           "category": "course",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "interviews",
+      "url": "",
+      "fx": 318.1424611409502,
+      "fy": 226.24953100416406,
+      "nodes": [
+        {
+          "text": "cinematic moments with Dan Root  ️",
+          "url": "http://vsco.co/artsandculture/journal/cinematic-moments?_branch_match_id=412292302150515425",
+          "fx": 506.1424611409502,
+          "fy": 237.74953100416406,
+          "nodes": [],
+          "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
@@ -164,14 +180,6 @@
       }
     },
     {
-      "source": "inspiration",
-      "target": "help",
-      "curve": {
-        "x": -41.571,
-        "y": -65.6348
-      }
-    },
-    {
       "source": "basics",
       "target": "adobe lightroom  ️",
       "curve": {
@@ -180,11 +188,27 @@
       }
     },
     {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -71.2219,
+        "y": -59.5753
+      }
+    },
+    {
+      "source": "inspiration",
+      "target": "tools",
+      "curve": {
+        "x": -57.6429,
+        "y": -61.2103
+      }
+    },
+    {
       "source": "interviews",
       "target": "inspiration",
       "curve": {
-        "x": -42.0875,
-        "y": -60.7519
+        "x": -44.6478,
+        "y": -68.0352
       }
     }
   ]

@@ -6,31 +6,40 @@
       "text": "linguistics",
       "url": "http://www.wikiwand.com/en/Linguistics",
       "fx": -149.60738179831435,
-      "fy": -307.00556861455715,
+      "fy": -320.30244361455715,
       "nodes": [
-        {
-          "text": "",
-          "url": "https://www.reddit.com/r/linguistics/",
-          "fx": 64.39261820168565,
-          "fy": -333.00556861455715,
-          "nodes": [],
-          "category": "reddit",
-          "color": "rgba(36, 170, 255, 1.0)"
-        },
         {
           "text": "️",
           "url": "https://linguistics.stackexchange.com/",
           "fx": 64.39261820168565,
-          "fy": -293.00556861455715,
+          "fy": -366.30244361455715,
           "nodes": [],
           "category": "stack exchange",
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
+          "text": "",
+          "url": "https://www.reddit.com/r/linguistics/",
+          "fx": 64.39261820168565,
+          "fy": -326.30244361455715,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "ask linguistics",
+          "url": "https://www.reddit.com/r/asklinguistics/",
+          "fx": 64.39261820168565,
+          "fy": -286.30244361455715,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
           "text": "awesome",
           "url": "https://github.com/theimpossibleastronaut/awesome-linguistics",
           "fx": 64.39261820168565,
-          "fy": -253.00556861455715,
+          "fy": -246.30244361455715,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -66,14 +75,6 @@
       ]
     },
     {
-      "text": "languages  ️",
-      "url": "/linguistics/languages",
-      "fx": -259.6507457386364,
-      "fy": 22.13156960227161,
-      "nodes": [],
-      "category": "mindmap"
-    },
-    {
       "text": "morphology  ️",
       "url": "/linguistics/morphology",
       "fx": -450.11610583843674,
@@ -106,6 +107,14 @@
       "category": "mindmap"
     },
     {
+      "text": "languages  ️",
+      "url": "/linguistics/languages",
+      "fx": -258.47427515040124,
+      "fy": 30.41741519050686,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "linguistic modality  ️",
       "url": "/linguistics/linguistic-modality",
       "fx": -1138.118741054029,
@@ -114,12 +123,35 @@
       "category": "mindmap"
     },
     {
-      "text": "translation  ️",
-      "url": "/linguistics/translation",
-      "fx": -347.3984375,
-      "fy": 149.9365234375,
+      "text": "semantics  ️",
+      "url": "/linguistics/semantics",
+      "fx": -1311.3671874999998,
+      "fy": 33.650178380648185,
       "nodes": [],
       "category": "mindmap"
+    },
+    {
+      "text": "phonology",
+      "url": "http://www.wikiwand.com/en/Phonology",
+      "fx": -1486.4586758872333,
+      "fy": 35.67095332182646,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "translation  ️",
+      "fx": -347.3984375,
+      "fy": 151.16354549632342,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "phonetics",
+      "url": "http://www.wikiwand.com/en/Phonetics",
+      "fx": -1575.9825571925182,
+      "fy": 155.20771327557077,
+      "nodes": [],
+      "category": "wiki"
     }
   ],
   "connections": [
@@ -128,15 +160,15 @@
       "target": "basics",
       "curve": {
         "x": -1.28647,
-        "y": 86.7786
+        "y": 93.427
       }
     },
     {
       "source": "basics",
       "target": "languages  ️",
       "curve": {
-        "x": -51.9853,
-        "y": 79.0401
+        "x": -51.3971,
+        "y": 83.183
       }
     },
     {
@@ -175,8 +207,8 @@
       "source": "languages  ️",
       "target": "translation  ️",
       "curve": {
-        "x": -51.1238,
-        "y": 62.6525
+        "x": -51.712,
+        "y": 59.1231
       }
     },
     {
@@ -185,6 +217,30 @@
       "curve": {
         "x": -602.475,
         "y": 7.86103
+      }
+    },
+    {
+      "source": "basics",
+      "target": "semantics  ️",
+      "curve": {
+        "x": -795.812,
+        "y": 16.397
+      }
+    },
+    {
+      "source": "phonology",
+      "target": "phonetics",
+      "curve": {
+        "x": -46.2619,
+        "y": 59.7684
+      }
+    },
+    {
+      "source": "basics",
+      "target": "phonology",
+      "curve": {
+        "x": -950.592,
+        "y": 17.3527
       }
     }
   ]

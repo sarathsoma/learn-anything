@@ -1,24 +1,41 @@
 {
   "title": "learn anything - information theory",
-  "tag": "",
+  "tag": "raster graphics",
   "nodes": [
     {
       "text": "information theory",
       "url": "http://www.wikiwand.com/en/Information_theory",
-      "fx": -97.47249494026312,
-      "fy": -199.64305321891652,
+      "fx": -79.65398532487859,
+      "fy": -374.7141504455535,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/informationtheory/",
-          "fx": 192.52750505973688,
-          "fy": -185.64305321891652,
+          "fx": 210.3460146751214,
+          "fy": -360.7141504455535,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ],
       "category": "wiki"
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 98.7536057692314,
+      "fy": -238.59615384615392,
+      "nodes": [
+        {
+          "text": "17: is information physical?  ️",
+          "url": "http://www.scottaaronson.com/blog/?p=3327",
+          "fx": 289.7536057692314,
+          "fy": -227.09615384615392,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "basics",
@@ -64,6 +81,14 @@
       "category": "mindmap"
     },
     {
+      "text": "algorithmic information theory  ️",
+      "url": "/information-theory/algorithmic-information-theory",
+      "fx": -689.5220025510164,
+      "fy": 115.37037627551581,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "signals  ️",
       "url": "/information-theory/signals",
       "fx": -135.38278770446777,
@@ -85,8 +110,8 @@
       "source": "information theory",
       "target": "basics",
       "curve": {
-        "x": -1.67609,
-        "y": 73.9221
+        "x": -10.5853,
+        "y": 161.458
       }
     },
     {
@@ -111,6 +136,22 @@
       "curve": {
         "x": -138.761,
         "y": 69.7615
+      }
+    },
+    {
+      "source": "basics",
+      "target": "algorithmic information theory  ️",
+      "curve": {
+        "x": -316.024,
+        "y": 51.1717
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "information theory",
+      "curve": {
+        "x": -64.4538,
+        "y": -66.809
       }
     }
   ]

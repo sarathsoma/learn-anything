@@ -1,82 +1,117 @@
 {
   "title": "learn anything - economics - business - companies - facebook",
-  "tag": "",
+  "tag": "remote work",
   "nodes": [
     {
       "text": "facebook",
       "url": "http://www.wikiwand.com/en/Facebook",
-      "fx": -2.504157529239933,
-      "fy": -419.4703612320618,
-      "nodes": [],
+      "fx": 32.52507523210568,
+      "fy": -726.6666070838318,
+      "nodes": [
+        {
+          "text": "",
+          "url": "https://www.reddit.com/r/AntiFacebook/",
+          "fx": 255.52507523210568,
+          "fy": -712.6666070838318,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ],
       "category": "wiki"
     },
     {
-      "text": "alternative",
+      "text": "basics",
       "url": "",
-      "fx": -314.7367878250503,
-      "fy": -319.5535565460421,
-      "nodes": []
-    },
-    {
-      "text": "mastodon",
-      "url": "https://mastodon.social/about",
-      "fx": -513.3934745367983,
-      "fy": -258.71664667551306,
-      "nodes": []
-    },
-    {
-      "text": "owns",
-      "url": "",
-      "fx": -246.33223459011646,
-      "fy": -104.67644230165263,
-      "nodes": []
-    },
-    {
-      "text": "privacy concerns",
-      "url": "",
-      "fx": 36.902191162109375,
-      "fy": -45.573354721069336,
+      "fx": 56.33530680338549,
+      "fy": -564.0786743164062,
       "nodes": [
         {
-          "text": "16: facebook shadow profiles  ️",
-          "url": "https://spideroak.com/articles/facebook-shadow-profiles-a-profile-of-you-that-you-never-created",
-          "fx": 304.9021911621094,
-          "fy": -316.57335472106934,
+          "text": "1. get your loved ones off Facebook  ️",
+          "note": "By staying on Facebook, you’re granting them permission to collect and use information about you, regardless of you even using the Internet.   And by staying on, the data they collect on you gets used to create models about your closest friends and family, even the ones who opted out.",
+          "url": "http://www.salimvirani.com//facebook/",
+          "fx": 219.3353068033855,
+          "fy": -628.5786743164062,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
-          "text": "17: get your loved ones off Facebook  ️",
-          "note": "By staying on Facebook, you’re granting them permission to collect and use information about you, regardless of you even using the Internet.   And by staying on, the data they collect on you gets used to create models about your closest friends and family, even the ones who opted out.",
-          "url": "http://www.salimvirani.com//facebook/",
-          "fx": 304.9021911621094,
-          "fy": -249.57335472106934,
+          "text": "1. what should you think about when using facebook?  ️",
+          "url": "https://veekaybee.github.io/facebook-is-collecting-this/",
+          "fx": 219.3353068033855,
+          "fy": -561.5786743164062,
           "nodes": [],
           "category": "article",
-          "color": "rgba(0, 224, 161, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "1. even more reasons not to use facebook",
+          "url": "",
+          "fx": 219.3353068033855,
+          "fy": -494.57867431640625,
+          "nodes": [],
+          "color": "rgba(252, 177, 20, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "alternative",
+      "url": "",
+      "fx": -247.75334566087122,
+      "fy": -407.40920020275865,
+      "nodes": []
+    },
+    {
+      "text": "mastodon",
+      "url": "https://mastodon.social/about",
+      "fx": -414.250517447246,
+      "fy": -278.8833910784981,
+      "nodes": []
+    },
+    {
+      "text": "owns",
+      "url": "",
+      "fx": -68.45210399310162,
+      "fy": -229.95046282404053,
+      "nodes": []
+    },
+    {
+      "text": "privacy concerns",
+      "url": "",
+      "fx": 233.89363861083984,
+      "fy": -116.00446319580078,
+      "nodes": [
+        {
+          "text": "16: facebook shadow profiles  ️",
+          "url": "https://spideroak.com/articles/facebook-shadow-profiles-a-profile-of-you-that-you-never-created",
+          "fx": 501.89363861083984,
+          "fy": -341.0044631958008,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "17: leaked document reveals facebook conducted research to target emotionally vulnerable and insecure youth",
           "url": "https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/",
-          "fx": 304.9021911621094,
-          "fy": -182.57335472106934,
+          "fx": 501.89363861083984,
+          "fy": -299.0044631958008,
           "nodes": [],
           "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "17: Zuckerberg removed a line about monitoring private messages from his facebook manifesto",
           "url": "https://www.reddit.com/r/privacy/comments/5ulggx/zuckerberg_removed_a_line_about_monitoring/",
-          "fx": 304.9021911621094,
-          "fy": -71.57335472106934,
+          "fx": 501.89363861083984,
+          "fy": -188.00446319580078,
           "nodes": [],
           "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "17: facebook is an attack on the open web",
           "url": "https://news.ycombinator.com/item?id=14462785",
-          "fx": 304.9021911621094,
-          "fy": 39.426645278930664,
+          "fx": 501.89363861083984,
+          "fy": -77.00446319580078,
           "nodes": [],
           "color": "rgba(255, 254, 60, 1.0)"
         },
@@ -84,24 +119,24 @@
           "text": "facebook tracks all site vistors, violating eu law",
           "note": "Facebook uses a lot of cookies, even if you don't visit the website or login, and it also uses cookies on any site that has a \"like\" button.  Facebook claims this is for security purposes, which is unlikely because they only do some of this tracking in Europe. This was discovered by two European research universities - there's no criminal or civil complaint filed against Facebook and they'll face no penalties.",
           "url": "https://thenextweb.com/facebook/2015/03/31/facebook-tracks-logged-out-users-in-violation-of-eu-law-belgian-privacy-commission-says/#.tnw_OTKkI5gS",
-          "fx": 304.9021911621094,
-          "fy": 101.42664527893066,
+          "fx": 501.89363861083984,
+          "fy": -15.004463195800781,
           "nodes": [],
           "color": "rgba(169, 255, 0, 1.0)"
         },
         {
           "text": "get data Facebook has on you",
           "url": "http://europe-v-facebook.org/EN/Get_your_Data_/get_your_data_.html",
-          "fx": 304.9021911621094,
-          "fy": 163.42664527893066,
+          "fx": 501.89363861083984,
+          "fy": 46.99553680419922,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "your emotions may soon be secretly recorded by your own camera by Facebook  ️",
           "url": "https://trak-in.cdn.ampproject.org/c/trak.in/tags/business/2017/06/07/facebooks-evil-patents-discovered-your-emotions-may-soon-be-secretly-recorded-by-your-own-camera/amp/",
-          "fx": 304.9021911621094,
-          "fy": 200.42664527893066,
+          "fx": 501.89363861083984,
+          "fy": 83.99553680419922,
           "nodes": [],
           "category": "article",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -111,38 +146,47 @@
     {
       "text": "Oculus VR",
       "url": "http://www.wikiwand.com/en/Oculus_VR",
-      "fx": -650.3112398963268,
-      "fy": 28.310707155741284,
+      "fx": -472.43110929931197,
+      "fy": -96.96331336664662,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "instagram",
       "url": "http://www.wikiwand.com/en/Instagram",
-      "fx": -458.880134828629,
-      "fy": 28.776430191532313,
+      "fx": -281.0000042316142,
+      "fy": -96.49759033085559,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "whatsapp",
       "url": "http://www.wikiwand.com/en/WhatsApp",
-      "fx": -269.378181703629,
-      "fy": 29.344789566532313,
+      "fx": -91.49805110661418,
+      "fy": -95.92923095585559,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "issues",
       "url": "",
-      "fx": 226.84667914254328,
-      "fy": 345.60268729073664,
+      "fx": 383.73951962761817,
+      "fy": 262.3981241688464,
       "nodes": [
+        {
+          "text": "14: Facebook apologies for psychological experiments on users  ️",
+          "url": "https://www.theguardian.com/technology/2014/jul/02/facebook-apologises-psychological-experiments-on-users",
+          "fx": 545.7395196276182,
+          "fy": 216.39812416884638,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
         {
           "text": "15: how Facebook is stealing billions of views",
           "url": "https://www.youtube.com/watch?v=t7tA3NNKF0Q",
-          "fx": 388.8466791425433,
-          "fy": 345.60268729073664,
+          "fx": 545.7395196276182,
+          "fy": 308.3981241688464,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -152,23 +196,14 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 209.0802232896949,
-      "fy": 496.01378751690197,
+      "fx": 417.87220090163555,
+      "fy": 455.6687159994891,
       "nodes": [
-        {
-          "text": "hide Facebook news feed",
-          "url": "https://github.com/maxfriedrich/quiet-facebook",
-          "fx": 408.0802232896949,
-          "fy": 487.51378751690197,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(83, 201, 255, 1.0)"
-        },
         {
           "text": "engineering blog  ️",
           "url": "https://code.facebook.com/posts/",
-          "fx": 408.0802232896949,
-          "fy": 529.513787516902,
+          "fx": 616.8722009016356,
+          "fy": 468.1687159994891,
           "nodes": [],
           "category": "blog",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -178,35 +213,19 @@
   ],
   "connections": [
     {
-      "source": "privacy concerns",
-      "target": "facebook",
-      "curve": {
-        "x": -29.9532,
-        "y": -185.699
-      }
-    },
-    {
       "source": "issues",
       "target": "privacy concerns",
       "curve": {
-        "x": -95.5582,
-        "y": -175.779
+        "x": -75.5089,
+        "y": -169.392
       }
     },
     {
       "source": "interesting",
       "target": "issues",
       "curve": {
-        "x": -0.116734,
-        "y": -75.2055
-      }
-    },
-    {
-      "source": "facebook",
-      "target": "owns",
-      "curve": {
-        "x": -139.664,
-        "y": 156.647
+        "x": -26.0663,
+        "y": -96.6353
       }
     },
     {
@@ -234,19 +253,43 @@
       }
     },
     {
-      "source": "facebook",
-      "target": "alternative",
-      "curve": {
-        "x": -162.616,
-        "y": 49.2084
-      }
-    },
-    {
       "source": "alternative",
       "target": "mastodon",
       "curve": {
-        "x": -98.8283,
-        "y": 30.4185
+        "x": -82.7485,
+        "y": 64.2629
+      }
+    },
+    {
+      "source": "facebook",
+      "target": "basics",
+      "curve": {
+        "x": -3.09488,
+        "y": 80.544
+      }
+    },
+    {
+      "source": "basics",
+      "target": "alternative",
+      "curve": {
+        "x": -143.544,
+        "y": 78.3347
+      }
+    },
+    {
+      "source": "privacy concerns",
+      "target": "basics",
+      "curve": {
+        "x": -115.028,
+        "y": -224.037
+      }
+    },
+    {
+      "source": "basics",
+      "target": "owns",
+      "curve": {
+        "x": -65.1437,
+        "y": 167.065
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - linear algebra - vectors",
-  "tag": "",
+  "tag": "isomorphism",
   "nodes": [
     {
       "text": "Euclidean vectors",
@@ -19,78 +19,78 @@
         {
           "text": "1. explanation",
           "url": "http://natureofcode.com/book/chapter-1-vectors/",
-          "fx": 280.4360874926383,
-          "fy": -58.662031077851964,
+          "fx": 287.4360874926383,
+          "fy": -73.16203107785196,
           "nodes": [],
           "category": "interactive",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "1. what are vectors?",
           "url": "https://www.youtube.com/watch?v=ml4NSzCQobk",
-          "fx": 280.4360874926383,
-          "fy": -18.662031077851964,
+          "fx": 287.4360874926383,
+          "fy": -31.162031077851964,
           "nodes": [],
           "category": "video",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "1. intro to vectors",
           "url": "http://immersivemath.com/ila/ch02_vectors/ch02.html",
-          "fx": 280.4360874926383,
-          "fy": 21.337968922148036,
+          "fx": 287.4360874926383,
+          "fy": 10.837968922148036,
           "nodes": [],
           "category": "interactive",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "1. vectors - the math of intelligence",
           "url": "https://www.youtube.com/watch?v=s0Q3CojqRfM",
-          "fx": 280.4360874926383,
-          "fy": 61.337968922148036,
+          "fx": 287.4360874926383,
+          "fy": 52.837968922148036,
           "nodes": [],
           "category": "video",
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         }
       ]
     },
     {
       "text": "dot product  ️",
       "url": "/mathematics/linear-algebra/vectors/dot-product",
-      "fx": -42.66049642539281,
-      "fy": 149.92129039760596,
+      "fx": -25.204842567443848,
+      "fy": 149.9203109741211,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "vector space  ️",
       "url": "/mathematics/linear-algebra/vectors/vector-space",
-      "fx": 151.19780685240949,
-      "fy": 152.9462305752752,
+      "fx": 168.9154052734375,
+      "fy": 152.94523239135742,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "vector norms  ️",
       "url": "/mathematics/linear-algebra/norm",
-      "fx": -445.28721618652344,
-      "fy": 153.75390625,
+      "fx": -451.3653259277344,
+      "fy": 153.7529182434082,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "cross product  ️",
       "url": "/mathematics/linear-algebra/vectors/cross-product",
-      "fx": -247.77734375,
-      "fy": 154.6875,
+      "fx": -242.2933692932129,
+      "fy": 154.68650817871094,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "orthonormality",
       "url": "http://www.wikiwand.com/en/Orthonormality",
-      "fx": -653.4606568113771,
-      "fy": 155.76758982035938,
+      "fx": -669.4324111938477,
+      "fy": 155.7666015625,
       "nodes": [],
       "category": "wiki"
     },
@@ -116,48 +116,48 @@
       "source": "basics",
       "target": "vector space  ️",
       "curve": {
-        "x": 28.1309,
-        "y": 81.5542
+        "x": 36.9897,
+        "y": 81.5537
       }
     },
     {
       "source": "basics",
       "target": "dot product  ️",
       "curve": {
-        "x": -71.2983,
-        "y": 80.0417
+        "x": -62.5705,
+        "y": 80.0412
       }
     },
     {
       "source": "basics",
       "target": "cross product  ️",
       "curve": {
-        "x": -200.083,
-        "y": 60.6201
+        "x": -197.341,
+        "y": 60.6196
       }
     },
     {
       "source": "basics",
       "target": "vector norms  ️",
       "curve": {
-        "x": -290.468,
-        "y": 41.5947
+        "x": -293.507,
+        "y": 41.5942
       }
     },
     {
       "source": "basics",
       "target": "orthonormality",
       "curve": {
-        "x": -479.726,
-        "y": 32.4843
+        "x": -487.712,
+        "y": 32.4838
       }
     },
     {
       "source": "orthonormality",
       "target": "orthonormal basis  ️",
       "curve": {
-        "x": -49.8478,
-        "y": 60.0127
+        "x": -41.8619,
+        "y": 60.0132
       }
     }
   ]

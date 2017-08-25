@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - statistics - regression analysis - linear regression",
-  "tag": "",
+  "tag": "motion graphics",
   "nodes": [
     {
       "text": "linear regression",
@@ -13,9 +13,19 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -34.45703125,
-      "fy": -19.640625,
-      "nodes": []
+      "fx": -38.54296875,
+      "fy": -24.640625,
+      "nodes": [
+        {
+          "text": "1. explanation",
+          "url": "https://www.youtube.com/watch?v=ZkjP5RJLQF4",
+          "fx": 117.45703125,
+          "fy": -13.140625,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "generalised linear models  ️",
@@ -31,16 +41,16 @@
       "source": "linear regression",
       "target": "basics",
       "curve": {
-        "x": -3.99219,
-        "y": 66.5742
+        "x": -6.03516,
+        "y": 64.0742
       }
     },
     {
       "source": "basics",
       "target": "generalised linear models  ️",
       "curve": {
-        "x": -47.8594,
-        "y": 62.7578
+        "x": -45.8164,
+        "y": 65.2578
       }
     }
   ]

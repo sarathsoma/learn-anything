@@ -5,14 +5,14 @@
     {
       "text": "cryptocurrency",
       "url": "http://www.wikiwand.com/en/Cryptocurrency",
-      "fx": -144.28053543179294,
-      "fy": -371.60081279390937,
+      "fx": -135.98366043179294,
+      "fy": -484.81565654390937,
       "nodes": [
         {
           "text": "awesome",
           "url": "https://github.com/kasketis/awesome-cryptocurrencies",
-          "fx": 117.71946456820706,
-          "fy": -357.60081279390937,
+          "fx": 126.01633956820706,
+          "fy": -470.81565654390937,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -23,14 +23,14 @@
     {
       "text": "help",
       "url": "",
-      "fx": 16.933945622288093,
-      "fy": -236.79777513841083,
+      "fx": 13.500351872288093,
+      "fy": -368.4657438884108,
       "nodes": [
         {
           "text": "overview of top cryptocurrencies in the market",
           "url": "https://github.com/kilimchoi/cryptocurrency",
-          "fx": 153.9339456222881,
-          "fy": -253.29777513841083,
+          "fx": 150.5003518722881,
+          "fy": -384.9657438884108,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -38,10 +38,27 @@
         {
           "text": "cryptominded",
           "url": "https://cryptominded.com/",
-          "fx": 153.9339456222881,
-          "fy": -191.29777513841083,
+          "fx": 150.5003518722881,
+          "fy": -322.9657438884108,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "articles",
+      "url": "",
+      "fx": 136.07432432432415,
+      "fy": -240.2496229488401,
+      "nodes": [
+        {
+          "text": "17: cryptocurrency’s Netscape moment  ️",
+          "url": "http://blog.eladgil.com/2017/07/cryptocurrencys-netscape-moment.html",
+          "fx": 298.07432432432415,
+          "fy": -239.7496229488401,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
     },
@@ -134,16 +151,16 @@
       "source": "cryptocurrency",
       "target": "basics",
       "curve": {
-        "x": -11.486,
-        "y": 155.81
+        "x": -15.6344,
+        "y": 212.417
       }
     },
     {
       "source": "help",
       "target": "cryptocurrency",
       "curve": {
-        "x": -49.3573,
-        "y": -66.1515
+        "x": -43.4921,
+        "y": -56.9249
       }
     },
     {
@@ -192,6 +209,14 @@
       "curve": {
         "x": -258.001,
         "y": 35.2374
+      }
+    },
+    {
+      "source": "articles",
+      "target": "help",
+      "curve": {
+        "x": -93.0727,
+        "y": -64.1081
       }
     }
   ]

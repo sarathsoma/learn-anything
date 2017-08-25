@@ -1,14 +1,31 @@
 {
   "title": "learn anything - biology - anatomy - human body",
-  "tag": "",
+  "tag": "microbiology",
   "nodes": [
     {
       "text": "human body",
       "url": "http://www.wikiwand.com/en/Human_body",
-      "fx": 185.71875,
-      "fy": -139.32629145408163,
+      "fx": 193.869229403409,
+      "fy": -203.2037772495362,
       "nodes": [],
       "category": "wiki"
+    },
+    {
+      "text": "basics",
+      "url": "",
+      "fx": 231.31675161645148,
+      "fy": -88.12922290177943,
+      "nodes": [
+        {
+          "text": "1. how to build a human",
+          "url": "https://www.youtube.com/watch?v=O7M7BoJGRNc",
+          "fx": 387.3167516164515,
+          "fy": -76.62922290177943,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
     },
     {
       "text": "body fluids",
@@ -77,14 +94,6 @@
   ],
   "connections": [
     {
-      "source": "human body",
-      "target": "body fluids",
-      "curve": {
-        "x": -93.4707,
-        "y": 85.7512
-      }
-    },
-    {
       "source": "body fluids",
       "target": "blood  ️",
       "curve": {
@@ -117,14 +126,6 @@
       }
     },
     {
-      "source": "human body",
-      "target": "organs",
-      "curve": {
-        "x": 2.36914,
-        "y": 87.2842
-      }
-    },
-    {
       "source": "organ systems",
       "target": "circulatory system  ️",
       "curve": {
@@ -138,6 +139,30 @@
       "curve": {
         "x": 219.951,
         "y": 54.587
+      }
+    },
+    {
+      "source": "human body",
+      "target": "basics",
+      "curve": {
+        "x": -2.52624,
+        "y": 56.2873
+      }
+    },
+    {
+      "source": "basics",
+      "target": "body fluids",
+      "curve": {
+        "x": -95.0201,
+        "y": 61.4027
+      }
+    },
+    {
+      "source": "basics",
+      "target": "organs",
+      "curve": {
+        "x": 0.82014,
+        "y": 62.9357
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "title": "learn anything - economics - business - companies",
-  "tag": "",
+  "tag": "zsh",
   "nodes": [
     {
       "text": "companies",
@@ -1018,12 +1018,12 @@
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
-          "text": "08: duckduckgo",
-          "url": "http://www.wikiwand.com/en/DuckDuckGo",
+          "text": "08: duckduckgo  ️",
+          "url": "/economics/business/companies/duckduckgo",
           "fx": 278.7109375,
           "fy": 1205.1796875,
           "nodes": [],
-          "category": "wiki",
+          "category": "mindmap",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {

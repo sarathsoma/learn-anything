@@ -1,6 +1,6 @@
 {
   "title": "learn anything - data science - data mining - cluster analysis",
-  "tag": "",
+  "tag": "naive set theory",
   "nodes": [
     {
       "text": "cluster analysis",
@@ -35,6 +35,14 @@
           "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
+    },
+    {
+      "text": "k-means clustering  ️",
+      "url": "/data-science/data-mining/cluster-analysis/k-means-clustering",
+      "fx": -90.56160812073131,
+      "fy": 49.657246569384824,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -44,6 +52,14 @@
       "curve": {
         "x": -0.71875,
         "y": 70.7955
+      }
+    },
+    {
+      "source": "basics",
+      "target": "k-means clustering  ️",
+      "curve": {
+        "x": -67.6773,
+        "y": 66.791
       }
     }
   ]

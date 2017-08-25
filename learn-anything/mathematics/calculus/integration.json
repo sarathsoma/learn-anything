@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - calculus - integration",
-  "tag": "",
+  "tag": "debian linux",
   "nodes": [
     {
       "text": "integration",
@@ -65,6 +65,22 @@
       "fy": 260.0254570578231,
       "nodes": [],
       "category": "mindmap"
+    },
+    {
+      "text": "improper integral  ️",
+      "url": "/mathematics/calculus/integration/improper-integral",
+      "fx": -980.5347456831835,
+      "fy": 261.4134877064564,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "Riemann integral  ️",
+      "url": "/mathematics/calculus/integration/riemann-integral",
+      "fx": -744.3108301203997,
+      "fy": 261.7344313672437,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -114,6 +130,22 @@
       "curve": {
         "x": -311.065,
         "y": 28.5708
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Riemann integral  ️",
+      "curve": {
+        "x": -519.437,
+        "y": 39.9857
+      }
+    },
+    {
+      "source": "basics",
+      "target": "improper integral  ️",
+      "curve": {
+        "x": -679.279,
+        "y": 33.6574
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - category theory - functors",
-  "tag": "",
+  "tag": "particle accelerators",
   "nodes": [
     {
       "text": "functors",
@@ -53,6 +53,22 @@
           "color": "rgba(252, 177, 20, 1.0)"
         }
       ]
+    },
+    {
+      "text": "functor category",
+      "url": "http://www.wikiwand.com/en/Functor_category",
+      "fx": -29.73819351196289,
+      "fy": -126.64804458618164,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "Yoneda lemma  ️",
+      "url": "/mathematics/category-theory/functors/yoneda-lemma",
+      "fx": -255.86803140063614,
+      "fy": -125.27443374780455,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -62,6 +78,22 @@
       "curve": {
         "x": -4.4541,
         "y": 69.9818
+      }
+    },
+    {
+      "source": "basics",
+      "target": "functor category",
+      "curve": {
+        "x": 27.9662,
+        "y": 85.0536
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Yoneda lemma  ️",
+      "curve": {
+        "x": -96.5987,
+        "y": 84.9904
       }
     }
   ]

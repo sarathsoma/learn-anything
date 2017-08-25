@@ -61,11 +61,11 @@
       "nodes": [
         {
           "text": "1. clean code: a handbook of agile software craftsmanship",
-          "url": "https://www.goodreads.com/book/show/3735293-clean-code",
+          "url": "https://github.com/rmsadik/x/blob/master/CleanCode/Clean%20Code.pdf",
           "fx": -4.30047417480273,
           "fy": 251.5483862939144,
           "nodes": [],
-          "category": "non-free book",
+          "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {

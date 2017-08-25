@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - analysis - functional analysis",
-  "tag": "",
+  "tag": "basic income",
   "nodes": [
     {
       "text": "functional analysis",
@@ -36,6 +36,22 @@
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
+    },
+    {
+      "text": "Hahn–Banach theorem",
+      "url": "http://www.wikiwand.com/en/Hahn%E2%80%93Banach_theorem",
+      "fx": 179.96726012238048,
+      "fy": 97.86075377471252,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "Riesz representation theorem",
+      "url": "http://www.wikiwand.com/en/Riesz_representation_theorem",
+      "fx": 472.47172284609485,
+      "fy": 98.5531832681487,
+      "nodes": [],
+      "category": "wiki"
     }
   ],
   "connections": [
@@ -45,6 +61,22 @@
       "curve": {
         "x": -1.34209,
         "y": 64.9056
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Hahn–Banach theorem",
+      "curve": {
+        "x": -93.0286,
+        "y": 88.0031
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Riesz representation theorem",
+      "curve": {
+        "x": 76.4736,
+        "y": 89.5993
       }
     }
   ]

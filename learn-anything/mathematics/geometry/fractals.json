@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - geometry - fractals",
-  "tag": "",
+  "tag": "automation",
   "nodes": [
     {
       "text": "fractals",
@@ -97,6 +97,14 @@
       "category": "mindmap"
     },
     {
+      "text": "fractal landscapes  ️",
+      "url": "/mathematics/geometry/fractals/fractal-landscapes",
+      "fx": -657.7867704766002,
+      "fy": 451.2850555997262,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "fractal analysis  ️",
       "url": "/mathematics/geometry/fractals/fractal-analysis",
       "fx": -4.451686859130859,
@@ -152,6 +160,14 @@
       "curve": {
         "x": -209.402,
         "y": 47.4185
+      }
+    },
+    {
+      "source": "basics",
+      "target": "fractal landscapes  ️",
+      "curve": {
+        "x": -331.778,
+        "y": 33.0623
       }
     }
   ]

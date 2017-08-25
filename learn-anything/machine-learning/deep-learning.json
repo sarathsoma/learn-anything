@@ -39,7 +39,7 @@
           "text": "awesome deep learning papers",
           "url": "https://github.com/terryum/awesome-deep-learning-papers",
           "fx": 137.95824098587036,
-          "fy": -988.2139282226562,
+          "fy": -963.2139282226562,
           "nodes": [],
           "category": "github",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -67,7 +67,7 @@
           "note": "collaboratively written review paper on deep learning, genomics, and precision medicine",
           "url": "https://greenelab.github.io/deep-review/",
           "fx": 137.95824098587036,
-          "fy": -812.2139282226562,
+          "fy": -837.2139282226562,
           "nodes": [],
           "category": "paper",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -76,7 +76,7 @@
           "text": "deep learning software slide",
           "url": "http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf",
           "fx": 137.95824098587036,
-          "fy": -770.2139282226562,
+          "fy": -795.2139282226562,
           "nodes": [],
           "color": "rgba(255, 254, 60, 1.0)"
         },
@@ -84,7 +84,7 @@
           "text": "open source deep learning curriculum  ️",
           "url": "http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum/",
           "fx": 137.95824098587036,
-          "fy": -733.2139282226562,
+          "fy": -758.2139282226562,
           "nodes": [],
           "category": "article",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -93,7 +93,7 @@
           "text": "on the computational complexity of deep learning",
           "url": "http://lear.inrialpes.fr/workshop/osl2015/slides/osl2015_shalev_shwartz.pdf",
           "fx": 137.95824098587036,
-          "fy": -666.2139282226562,
+          "fy": -691.2139282226562,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
@@ -101,7 +101,7 @@
           "text": "deep learning summaries and notes",
           "url": "https://github.com/dennybritz/deeplearning-papernotes",
           "fx": 137.95824098587036,
-          "fy": -604.2139282226562,
+          "fy": -629.2139282226562,
           "nodes": [],
           "category": "github",
           "color": "rgba(0, 224, 161, 1.0)"

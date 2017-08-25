@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - algebra - abstract algebra - algebraic structures",
-  "tag": "",
+  "tag": "modules",
   "nodes": [
     {
       "text": "algebraic structures",
@@ -39,6 +39,14 @@
       "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/modules",
       "fx": -164.17250951776646,
       "fy": -27.670843908629422,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "fields  ️",
+      "url": "/mathematics/algebra/abstract-algebra/algebraic-structures/fields",
+      "fx": 597.6182289334258,
+      "fy": -26.006082414352875,
       "nodes": [],
       "category": "mindmap"
     },
@@ -90,6 +98,14 @@
       "curve": {
         "x": 178.587,
         "y": 66.9394
+      }
+    },
+    {
+      "source": "algebraic structures",
+      "target": "fields  ️",
+      "curve": {
+        "x": 319.281,
+        "y": 59.4548
       }
     }
   ]

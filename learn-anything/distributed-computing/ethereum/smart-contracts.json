@@ -1,26 +1,26 @@
 {
   "title": "learn anything - distributed computing - ethereum - smart contracts",
-  "tag": "ethereum smart contracts",
+  "tag": "lie algebra",
   "nodes": [
     {
       "text": "smart contracts",
       "url": "http://www.wikiwand.com/en/Smart_contract",
       "fx": 37.25,
-      "fy": -371.3279328893443,
+      "fy": -427.7771516393443,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 227.53027106113132,
-      "fy": -265.7909458348008,
+      "fx": 206.9312515258789,
+      "fy": -313.3280487060547,
       "nodes": [
         {
           "text": "smart contract best practices",
           "url": "https://github.com/ConsenSys/smart-contract-best-practices",
-          "fx": 368.5302710611313,
-          "fy": -253.29094583480082,
+          "fx": 347.9312515258789,
+          "fy": -300.8280487060547,
           "nodes": [],
           "category": "github",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -28,16 +28,32 @@
       ]
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 256.18093039772737,
+      "fy": -187.7099510732324,
+      "nodes": [
+        {
+          "text": "etherest",
+          "url": "https://www.etherest.io/",
+          "fx": 455.18093039772737,
+          "fy": -172.7099510732324,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "basics",
       "url": "",
-      "fx": 88.69857034610118,
-      "fy": -140.0492991491426,
+      "fx": 86.37041332765864,
+      "fy": -63.614744845863925,
       "nodes": [
         {
           "text": "1. building a smart contract using the command line",
           "url": "https://www.ethereum.org/greeter",
-          "fx": 251.69857034610118,
-          "fy": -137.5492991491426,
+          "fx": 249.37041332765864,
+          "fy": -61.114744845863925,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         }
@@ -49,16 +65,24 @@
       "source": "smart contracts",
       "target": "basics",
       "curve": {
-        "x": -4.77571,
-        "y": 114.889
+        "x": -5.93979,
+        "y": 181.331
       }
     },
     {
       "source": "help",
       "target": "smart contracts",
       "curve": {
-        "x": -59.1401,
-        "y": -52.0185
+        "x": -48.8406,
+        "y": -56.4746
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -39.1248,
+        "y": -62.809
       }
     }
   ]

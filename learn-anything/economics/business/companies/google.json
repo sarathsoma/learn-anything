@@ -1,6 +1,6 @@
 {
   "title": "learn anything - economics - business - companies - google",
-  "tag": "",
+  "tag": "simple random sampling",
   "nodes": [
     {
       "text": "google",
@@ -69,17 +69,18 @@
       ]
     },
     {
-      "text": "duckduckgo",
-      "url": "https://duckduckgo.com",
-      "fx": -198.46171874999993,
+      "text": "duckduckgo  ️",
+      "url": "/economics/business/companies/duckduckgo",
+      "fx": -213.96171874999993,
       "fy": 28.85334821428569,
-      "nodes": []
+      "nodes": [],
+      "category": "mindmap"
     },
     {
       "text": "startpage",
       "url": "https://www.startpage.com/",
-      "fx": -352.728731638825,
-      "fy": 30.88861937163972,
+      "fx": -363.76111922578184,
+      "fy": 30.88861846923828,
       "nodes": []
     },
     {
@@ -222,9 +223,9 @@
     },
     {
       "source": "alternative",
-      "target": "duckduckgo",
+      "target": "duckduckgo  ️",
       "curve": {
-        "x": -63.3764,
+        "x": -71.1264,
         "y": 52.2856
       }
     },
@@ -232,7 +233,7 @@
       "source": "alternative",
       "target": "startpage",
       "curve": {
-        "x": -172.712,
+        "x": -178.228,
         "y": 35.576
       }
     },

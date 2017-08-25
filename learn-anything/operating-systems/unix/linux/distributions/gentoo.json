@@ -1,18 +1,18 @@
 {
   "title": "learn anything - operating systems - unix - linux - distributions - gentoo",
-  "tag": "gentoo distro",
+  "tag": "new ideas",
   "nodes": [
     {
       "text": "Gentoo",
       "url": "http://www.wikiwand.com/en/Gentoo_Linux",
-      "fx": -40.25,
-      "fy": -167.78515625,
+      "fx": -51.78670973453711,
+      "fy": -104.72522431901359,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/Gentoo/",
-          "fx": 154.75,
-          "fy": -153.78515625,
+          "fx": 143.2132902654629,
+          "fy": -90.72522431901359,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -23,14 +23,14 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -27.51953125,
-      "fy": -41.48828125,
+      "fx": -39.99724727348996,
+      "fy": 32.328046350671116,
       "nodes": [
         {
           "text": "1. install Gentoo",
           "url": "",
-          "fx": 128.48046875,
-          "fy": -26.98828125,
+          "fx": 116.00275272651004,
+          "fy": 46.828046350671116,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         }
@@ -42,8 +42,8 @@
       "source": "Gentoo",
       "target": "basics",
       "curve": {
-        "x": -2.38477,
-        "y": 61.8984
+        "x": -2.85527,
+        "y": 67.2771
       }
     }
   ]

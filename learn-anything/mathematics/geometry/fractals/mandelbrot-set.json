@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - geometry - fractals - mandelbrot set",
-  "tag": "Mandelbrot set",
+  "tag": "calisthenics",
   "nodes": [
     {
       "text": "Mandelbrot set",
@@ -13,23 +13,32 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 204.99875992063517,
-      "fy": -160.040054563576,
+      "fx": 200.15935019841288,
+      "fy": -149.04985119056016,
       "nodes": [
         {
           "text": "1. explanation",
           "url": "https://www.youtube.com/watch?v=NGMRB4O922I",
-          "fx": 367.99875992063517,
-          "fy": -181.040054563576,
+          "fx": 363.1593501984129,
+          "fy": -191.04985119056016,
           "nodes": [],
           "category": "video",
           "color": "rgba(104, 255, 109, 1.0)"
         },
         {
+          "text": "1. mathematical explanation",
+          "url": "https://www.reddit.com/r/math/comments/6vkyod/never_ending_mandelbrot_zoom/dm1a193/",
+          "fx": 363.1593501984129,
+          "fy": -149.04985119056016,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
           "text": "1. the dark side of the Mandelbrot set",
           "url": "https://www.youtube.com/watch?v=9gk_8mQuerg",
-          "fx": 367.99875992063517,
-          "fy": -139.040054563576,
+          "fx": 363.1593501984129,
+          "fy": -107.04985119056016,
           "nodes": [],
           "category": "video",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -42,8 +51,8 @@
       "source": "Mandelbrot set",
       "target": "basics",
       "curve": {
-        "x": -3.92324,
-        "y": 72.8916
+        "x": -6.34294,
+        "y": 78.3867
       }
     }
   ]

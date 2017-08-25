@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - algebra - functions",
-  "tag": "",
+  "tag": "gradient descent",
   "nodes": [
     {
       "text": "functions",
@@ -93,10 +93,26 @@
       "category": "wiki"
     },
     {
+      "text": "metric",
+      "url": "http://www.wikiwand.com/en/Metric_(mathematics)",
+      "fx": -2283.1662679425845,
+      "fy": 79.31089484238566,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
       "text": "special functions",
       "url": "http://www.wikiwand.com/en/Special_functions",
       "fx": -1818.2290652879165,
       "fy": 79.34997212085568,
+      "nodes": [],
+      "category": "wiki"
+    },
+    {
+      "text": "complex-valued function",
+      "url": "http://www.wikiwand.com/en/Complex-valued_function",
+      "fx": -2133.432317197712,
+      "fy": 81.1729473039428,
       "nodes": [],
       "category": "wiki"
     }
@@ -172,6 +188,22 @@
       "curve": {
         "x": -1052.79,
         "y": 59.0721
+      }
+    },
+    {
+      "source": "basics",
+      "target": "complex-valued function",
+      "curve": {
+        "x": -1204.22,
+        "y": 40.5283
+      }
+    },
+    {
+      "source": "basics",
+      "target": "metric",
+      "curve": {
+        "x": -1543.08,
+        "y": 52.0012
       }
     }
   ]

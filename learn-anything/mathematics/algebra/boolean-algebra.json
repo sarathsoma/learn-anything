@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - algebra - boolean algebra",
-  "tag": "boolean logic",
+  "tag": "botany",
   "nodes": [
     {
       "text": "boolean algebra",
@@ -27,17 +27,34 @@
       ]
     },
     {
+      "text": "interesting",
+      "url": "",
+      "fx": 152.1096196864562,
+      "fy": 24.303196212337923,
+      "nodes": [
+        {
+          "text": "1938: symbolic analysis of relay and switching circuits",
+          "url": "http://dspace.mit.edu/bitstream/handle/1721.1/11173/34541425-MIT.pdf?sequence=2",
+          "fx": 343.1096196864562,
+          "fy": 24.803196212337923,
+          "nodes": [],
+          "category": "paper",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -38.37242247100096,
-      "fy": 19.372893191331286,
+      "fx": -60.93538888891135,
+      "fy": 151.5994556913314,
       "nodes": [
         {
           "text": "1. boolean logic &amp; logic gates",
           "url": "https://www.youtube.com/watch?v=gI-qXk7XojA",
-          "fx": 143.62757752899904,
-          "fy": 30.872893191331286,
+          "fx": 121.06461111108865,
+          "fy": 163.0994556913314,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -50,8 +67,8 @@
       "source": "boolean algebra",
       "target": "basics",
       "curve": {
-        "x": 0.0149606,
-        "y": 96.7353
+        "x": -11.2665,
+        "y": 162.849
       }
     },
     {
@@ -60,6 +77,14 @@
       "curve": {
         "x": -52.6584,
         "y": -43.4568
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "help",
+      "curve": {
+        "x": -51.3476,
+        "y": -55.7437
       }
     }
   ]

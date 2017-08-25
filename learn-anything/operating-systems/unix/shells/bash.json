@@ -86,14 +86,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -80.44174254966879,
-      "fy": 80.50186258274209,
+      "fx": -94.19381208609263,
+      "fy": 83.92435844366923,
       "nodes": [
         {
           "text": "1. bash guide",
           "url": "https://github.com/Idnan/bash-guide",
-          "fx": 101.55825745033121,
-          "fy": 38.00186258274209,
+          "fx": 87.80618791390737,
+          "fy": 21.424358443669234,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -101,25 +101,34 @@
         {
           "text": "1. learn you bash",
           "url": "https://github.com/denysdovhan/learnyoubash",
-          "fx": 101.55825745033121,
-          "fy": 78.00186258274209,
+          "fx": 87.80618791390737,
+          "fy": 61.424358443669234,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
+          "text": "1. bash handbook",
+          "url": "https://github.com/denysdovhan/bash-handbook",
+          "fx": 87.80618791390737,
+          "fy": 101.42435844366923,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
           "text": "2. advanced bash scripting",
           "url": "http://www.tldp.org/LDP/abs/html/",
-          "fx": 101.55825745033121,
-          "fy": 118.00186258274209,
+          "fx": 87.80618791390737,
+          "fy": 141.42435844366923,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         },
         {
           "text": "2. practice",
           "url": "http://exercism.io/languages/bash/launch",
-          "fx": 101.55825745033121,
-          "fy": 152.0018625827421,
+          "fx": 87.80618791390737,
+          "fy": 175.42435844366923,
           "nodes": [],
           "color": "rgba(34, 205, 224, 1.0)"
         }
@@ -139,8 +148,8 @@
       "source": "bash",
       "target": "basics",
       "curve": {
-        "x": -11.4103,
-        "y": 191.463
+        "x": -18.2863,
+        "y": 193.174
       }
     },
     {

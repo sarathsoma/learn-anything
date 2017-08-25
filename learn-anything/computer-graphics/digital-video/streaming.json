@@ -1,31 +1,14 @@
 {
   "title": "learn anything - computer graphics - digital video - streaming",
-  "tag": "live streaming",
+  "tag": "persuasion",
   "nodes": [
     {
       "text": "streaming",
       "url": "http://www.wikiwand.com/en/Streaming_media",
-      "fx": -65.03041294642867,
-      "fy": -233.7452566964286,
+      "fx": -63.78816393068087,
+      "fy": -161.60887628304272,
       "nodes": [],
       "category": "wiki"
-    },
-    {
-      "text": "articles",
-      "url": "",
-      "fx": 78.79303633218001,
-      "fy": -121.68025519028612,
-      "nodes": [
-        {
-          "text": "17: lessons from my first year of live coding on Twitch  ️",
-          "url": "https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1",
-          "fx": 247.79303633218,
-          "fy": -121.68025519028612,
-          "nodes": [],
-          "category": "article",
-          "color": "rgba(104, 255, 109, 1.0)"
-        }
-      ]
     },
     {
       "text": "platforms",
@@ -71,8 +54,8 @@
       "source": "streaming",
       "target": "platforms",
       "curve": {
-        "x": -1.45773,
-        "y": 101.687
+        "x": -2.07885,
+        "y": 65.6188
       }
     },
     {
@@ -97,14 +80,6 @@
       "curve": {
         "x": -0.65918,
         "y": 68.5645
-      }
-    },
-    {
-      "source": "articles",
-      "target": "streaming",
-      "curve": {
-        "x": -57.4117,
-        "y": -55.2825
       }
     }
   ]

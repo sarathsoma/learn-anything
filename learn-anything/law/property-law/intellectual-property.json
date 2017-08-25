@@ -1,6 +1,6 @@
 {
   "title": "learn anything - law - property law - intellectual property",
-  "tag": "",
+  "tag": "one-way analysis of variance",
   "nodes": [
     {
       "text": "intellectual property",
@@ -13,17 +13,26 @@
     {
       "text": "basics",
       "url": "",
-      "fx": 116.00666382908821,
-      "fy": -63.21093702316284,
+      "fx": 118.09260132908821,
+      "fy": -32.20703077316284,
       "nodes": [
         {
           "text": "1. introduction to intellectual property",
           "url": "https://www.youtube.com/watch?v=RQOJgEA5e1k",
-          "fx": 272.0066638290882,
-          "fy": -62.71093702316284,
+          "fx": 274.0926013290882,
+          "fy": -51.70703077316284,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1.WIPO academy",
+          "url": "http://www.wipo.int/academy/en/courses/distance_learning/",
+          "fx": 274.0926013290882,
+          "fy": 10.292969226837158,
+          "nodes": [],
+          "category": "course",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ]
     }
@@ -33,8 +42,8 @@
       "source": "intellectual property",
       "target": "basics",
       "curve": {
-        "x": -3.64994,
-        "y": 65.6504
+        "x": -2.60697,
+        "y": 81.1524
       }
     }
   ]

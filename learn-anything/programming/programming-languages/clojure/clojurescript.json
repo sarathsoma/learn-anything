@@ -1,54 +1,46 @@
 {
   "title": "learn anything - programming - programming languages - clojure - clojurescript",
-  "tag": "",
+  "tag": "programming practice",
   "nodes": [
     {
       "text": "clojurescript",
       "url": "https://github.com/clojure/clojurescript",
-      "fx": 90.45775182038847,
-      "fy": -311.01380461165047,
+      "fx": 82.56331251138693,
+      "fy": -260.6940766824599,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/Clojurescript/",
-          "fx": 326.45775182038847,
-          "fy": -297.01380461165047,
+          "fx": 318.5633125113869,
+          "fy": -266.6940766824599,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/hantuzun/awesome-clojurescript",
+          "fx": 318.5633125113869,
+          "fy": -226.69407668245992,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
         }
       ],
       "category": "github"
     },
     {
-      "text": "help",
-      "url": "",
-      "fx": 235.3850121359187,
-      "fy": -202.93795509716767,
-      "nodes": [
-        {
-          "text": "awesome clojurescript",
-          "url": "https://github.com/hantuzun/awesome-clojurescript",
-          "fx": 372.3850121359187,
-          "fy": -191.43795509716767,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
-        }
-      ]
-    },
-    {
       "text": "basics",
       "note": "if you think this can be improved in any way ",
       "url": "",
-      "fx": 103.89183859223294,
-      "fy": -81.62302791262141,
+      "fx": 58.43575843459132,
+      "fy": -36.88428944251967,
       "nodes": [
         {
           "text": "1. clojurescript tutorial",
           "url": "https://www.niwi.nz/cljs-workshop/",
-          "fx": 285.89183859223294,
-          "fy": -87.12302791262141,
+          "fx": 240.43575843459132,
+          "fy": -113.38428944251967,
           "nodes": [],
           "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -56,10 +48,37 @@
         {
           "text": "1. clojurescript koans",
           "url": "http://clojurescriptkoans.com/",
-          "fx": 285.89183859223294,
-          "fy": -47.12302791262141,
+          "fx": 240.43575843459132,
+          "fy": -73.38428944251967,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. clojurescript unraveled",
+          "url": "https://funcool.github.io/clojurescript-unraveled/",
+          "fx": 240.43575843459132,
+          "fy": -39.38428944251967,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. transforming data with clojurescript",
+          "url": "http://langintro.com/cljsbook/",
+          "fx": 240.43575843459132,
+          "fy": 0.6157105574803268,
+          "nodes": [],
+          "category": "free book",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
+        {
+          "text": "1. series of tutorials on clojurescript",
+          "url": "https://github.com/magomimmo/modern-cljs",
+          "fx": 240.43575843459132,
+          "fy": 62.61571055748033,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(209, 21, 88, 1.0)"
         }
       ]
     }
@@ -69,16 +88,8 @@
       "source": "clojurescript",
       "target": "basics",
       "curve": {
-        "x": -13.283,
-        "y": 113.445
-      }
-    },
-    {
-      "source": "help",
-      "target": "clojurescript",
-      "curve": {
-        "x": -47.7136,
-        "y": -52.7879
+        "x": -32.0638,
+        "y": 110.654
       }
     }
   ]

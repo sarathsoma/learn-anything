@@ -1,43 +1,36 @@
 {
   "title": "learn anything - programming - software development - devops - puppet",
-  "tag": "puppet configuration management",
+  "tag": "tuberculosis",
   "nodes": [
     {
       "text": "puppet",
       "url": "http://www.wikiwand.com/en/Puppet_(software)",
-      "fx": -59.17578125,
-      "fy": -195.0625,
-      "nodes": [],
-      "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 55.11391569438729,
-      "fy": -75.3119888305664,
+      "fx": -66.97410534274184,
+      "fy": -109.5865045362903,
       "nodes": [
         {
-          "text": "awesome puppet",
+          "text": "awesome",
           "url": "https://github.com/olindata/awesome-puppet",
-          "fx": 192.1139156943873,
-          "fy": -63.811988830566406,
+          "fx": 125.02589465725816,
+          "fy": -95.5865045362903,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
         }
-      ]
+      ],
+      "category": "wiki"
     },
     {
       "text": "tools",
       "url": "",
-      "fx": 146.2496715344879,
-      "fy": 28.05571626362041,
+      "fx": 91.7133812119074,
+      "fy": 15.741578158781692,
       "nodes": [
         {
           "text": "puppet debugger",
           "url": "https://github.com/nwops/puppet-debugger",
-          "fx": 288.2496715344879,
-          "fy": 39.55571626362041,
+          "fx": 233.7133812119074,
+          "fy": 27.241578158781692,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -75,24 +68,16 @@
       "source": "puppet",
       "target": "basics",
       "curve": {
-        "x": -6.40568,
-        "y": 161.399
-      }
-    },
-    {
-      "source": "help",
-      "target": "puppet",
-      "curve": {
-        "x": -43.3948,
-        "y": -58.6253
+        "x": -2.50652,
+        "y": 118.661
       }
     },
     {
       "source": "tools",
-      "target": "help",
+      "target": "puppet",
       "curve": {
-        "x": -46.8179,
-        "y": -51.6839
+        "x": -66.8437,
+        "y": -61.414
       }
     }
   ]

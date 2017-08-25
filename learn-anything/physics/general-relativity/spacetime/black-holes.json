@@ -14,14 +14,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -168.21701388888914,
-      "fy": -117.03086703431376,
+      "fx": -167.37497901916504,
+      "fy": -118.97037887573242,
       "nodes": [
         {
           "text": "1. black holes explained",
           "url": "https://www.youtube.com/watch?v=e-P5IFTqB98",
-          "fx": 13.782986111110858,
-          "fy": -136.53086703431376,
+          "fx": 14.625020980834961,
+          "fy": -169.47037887573242,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -29,19 +29,28 @@
         {
           "text": "2. what if there was a black hole in your pocket?",
           "url": "https://www.youtube.com/watch?v=8nHBGFKLHZQ",
-          "fx": 13.782986111110858,
-          "fy": -96.53086703431376,
+          "fx": 14.625020980834961,
+          "fy": -129.47037887573242,
           "nodes": [],
           "category": "video",
           "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. why black holes could delete the universe – the information paradox",
+          "url": "https://www.youtube.com/watch?v=yWO-cvGETRQ",
+          "fx": 14.625020980834961,
+          "fy": -67.47037887573242,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     },
     {
       "text": "primordial black holes  ️",
       "url": "/physics/general-relativity/spacetime/black-holes/primordial-black-holes",
-      "fx": -260.4204452614381,
-      "fy": 17.532781862722686,
+      "fx": -261.2624568939209,
+      "fy": 19.472318649291992,
       "nodes": [],
       "category": "mindmap"
     }
@@ -51,16 +60,16 @@
       "source": "black holes",
       "target": "basics",
       "curve": {
-        "x": -9.14366,
-        "y": 66.9361
+        "x": -8.72264,
+        "y": 65.9663
       }
     },
     {
       "source": "basics",
       "target": "primordial black holes  ️",
       "curve": {
-        "x": -4.10172,
-        "y": 68.5318
+        "x": -4.94374,
+        "y": 70.4713
       }
     }
   ]

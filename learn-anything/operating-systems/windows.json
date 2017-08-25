@@ -4,16 +4,15 @@
   "nodes": [
     {
       "text": "windows",
-      "note": "",
       "url": "http://www.wikiwand.com/en/Microsoft_Windows",
-      "fx": -80.45595027515719,
-      "fy": -209.81807684748424,
+      "fx": -63.11371605259626,
+      "fy": -447.5191905156151,
       "nodes": [
         {
           "text": "awesome",
           "url": "https://github.com/Awesome-Windows/Awesome",
-          "fx": 152.5440497248428,
-          "fy": -195.81807684748424,
+          "fx": 143.88628394740374,
+          "fy": -433.5191905156151,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -22,24 +21,60 @@
       "category": "wiki"
     },
     {
+      "text": "basics",
+      "url": "",
+      "fx": -56.24843100109808,
+      "fy": -312.6736815172341,
+      "nodes": [
+        {
+          "text": "1. Microsoft shares windows 10 telemetry data with third parties  ️",
+          "url": "https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/",
+          "fx": 99.75156899890192,
+          "fy": -352.1736815172341,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. Microsoft’s invasive telemetry",
+          "url": "https://www.reddit.com/r/privacy/comments/6susiw/70_of_windows_10_users_are_totally_happy_with_our/",
+          "fx": 99.75156899890192,
+          "fy": -290.1736815172341,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. WindowsSpyBlocker",
+          "note": "rules to block windows spy / telemetry",
+          "url": "https://github.com/crazy-max/WindowsSpyBlocker",
+          "fx": 99.75156899890192,
+          "fy": -250.17368151723412,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(36, 170, 255, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "powershell  ️",
       "url": "/programming/programming-languages/c-sharp/dotnet/powershell",
-      "fx": -346.43628389084944,
-      "fy": -147.03029748504161,
+      "fx": -377.8305488056223,
+      "fy": -182.17545018390518,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 17.299412204924806,
-      "fy": -66.9182619996788,
+      "fx": 87.61857110803794,
+      "fy": -116.97749051316214,
       "nodes": [
         {
           "text": "curated list of best applications and tools for Windows",
           "url": "https://github.com/Awesome-Windows/Awesome",
-          "fx": 154.2994122049248,
-          "fy": -126.4182619996788,
+          "fx": 224.61857110803794,
+          "fy": -156.47749051316214,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -47,27 +82,17 @@
         {
           "text": "windows hacks",
           "url": "https://github.com/LazoCoder/Windows-Hacks",
-          "fx": 154.2994122049248,
-          "fy": -64.4182619996788,
+          "fx": 224.61857110803794,
+          "fy": -94.47749051316214,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
-          "text": "WindowsSpyBlocker",
-          "note": "- rules to block windows spy / telemetry",
-          "url": "https://github.com/crazy-max/WindowsSpyBlocker",
-          "fx": 154.2994122049248,
-          "fy": -24.418261999678805,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(255, 189, 10, 1.0)"
-        },
-        {
           "text": "windows development environment",
           "url": "https://github.com/felixrieseberg/windows-development-environment",
-          "fx": 154.2994122049248,
-          "fy": 15.581738000321195,
+          "fx": 224.61857110803794,
+          "fy": -54.47749051316214,
           "nodes": [],
           "category": "github",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -77,30 +102,30 @@
     {
       "text": "windows server  ️",
       "url": "/operating-systems/windows/windows-server",
-      "fx": -372.0437017994874,
-      "fy": -29.80719794344452,
+      "fx": -337.6931158619875,
+      "fy": -90.5205324604899,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "autohotkey  ️",
       "url": "/operating-systems/windows/autohotkey",
-      "fx": -173.31965521118815,
-      "fy": 100.92283573321919,
+      "fx": -205.40861117709738,
+      "fy": -4.861077619053788,
       "nodes": [],
       "category": "mindmap"
     },
     {
       "text": "interesting",
       "url": "",
-      "fx": 117.89498328045102,
-      "fy": 137.55161515065163,
+      "fx": 243.740597627042,
+      "fy": 53.55614284951537,
       "nodes": [
         {
           "text": "every windows version upgraded through",
           "url": "https://www.youtube.com/watch?v=PH1BKPSGcxQ",
-          "fx": 308.894983280451,
-          "fy": 98.05161515065163,
+          "fx": 434.740597627042,
+          "fy": 14.056142849515368,
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -108,8 +133,8 @@
         {
           "text": "sudo for windows",
           "url": "https://github.com/mattn/sudo",
-          "fx": 308.894983280451,
-          "fy": 160.05161515065163,
+          "fx": 434.740597627042,
+          "fy": 76.05614284951537,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -117,8 +142,8 @@
         {
           "text": "windows build tools",
           "url": "https://github.com/felixrieseberg/windows-build-tools",
-          "fx": 308.894983280451,
-          "fy": 200.05161515065163,
+          "fx": 434.740597627042,
+          "fy": 116.05614284951537,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -128,43 +153,51 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "windows",
-      "curve": {
-        "x": -38.3777,
-        "y": -71.4499
-      }
-    },
-    {
       "source": "interesting",
       "target": "help",
       "curve": {
-        "x": -89.5888,
-        "y": -90.7679
+        "x": -117.352,
+        "y": -73.7998
       }
     },
     {
       "source": "windows",
+      "target": "basics",
+      "curve": {
+        "x": -15.8173,
+        "y": 66.1728
+      }
+    },
+    {
+      "source": "help",
+      "target": "basics",
+      "curve": {
+        "x": -78.4361,
+        "y": -93.7265
+      }
+    },
+    {
+      "source": "basics",
       "target": "powershell  ️",
       "curve": {
-        "x": -135.24,
-        "y": 31.3939
+        "x": -143.791,
+        "y": 66.4991
       }
     },
     {
-      "source": "windows",
-      "target": "autohotkey  ️",
-      "curve": {
-        "x": -47.6814,
-        "y": 155.371
-      }
-    },
-    {
-      "source": "windows",
+      "source": "basics",
       "target": "windows server  ️",
       "curve": {
-        "x": -144.293,
-        "y": 88.7555
+        "x": -112.722,
+        "y": 112.327
+      }
+    },
+    {
+      "source": "basics",
+      "target": "autohotkey  ️",
+      "curve": {
+        "x": -56.5801,
+        "y": 155.156
       }
     }
   ]

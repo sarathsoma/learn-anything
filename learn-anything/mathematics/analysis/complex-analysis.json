@@ -1,6 +1,6 @@
 {
   "title": "learn anything - mathematics - analysis - complex analysis",
-  "tag": "",
+  "tag": "RSA encryption",
   "nodes": [
     {
       "text": "complex analysis",
@@ -57,8 +57,24 @@
     {
       "text": "Euler’s formula  ️",
       "url": "/mathematics/analysis/complex-analysis/eulers-formula",
-      "fx": -142.7078718354436,
-      "fy": 144.96954113923982,
+      "fx": 129.82547829367888,
+      "fy": 162.24784065015388,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "holomorphic functions  ️",
+      "url": "/mathematics/analysis/complex-analysis/holomorphic-functions",
+      "fx": -169.38281250000102,
+      "fy": 162.87085700757473,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "Residue theorem  ️",
+      "url": "/mathematics/analysis/complex-analysis/residue-theorem",
+      "fx": -399.27391098484554,
+      "fy": 164.49739583333337,
       "nodes": [],
       "category": "mindmap"
     }
@@ -84,8 +100,24 @@
       "source": "basics",
       "target": "Euler’s formula  ️",
       "curve": {
-        "x": -44.0345,
-        "y": 69.3941
+        "x": 92.2322,
+        "y": 78.0332
+      }
+    },
+    {
+      "source": "basics",
+      "target": "holomorphic functions  ️",
+      "curve": {
+        "x": -40.122,
+        "y": 78.3447
+      }
+    },
+    {
+      "source": "basics",
+      "target": "Residue theorem  ️",
+      "curve": {
+        "x": -177.811,
+        "y": 61.8817
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "title": "learn anything - operating systems - unix - macos - automation",
-  "tag": "macOS automation",
+  "tag": "principal component analysis",
   "nodes": [
     {
       "text": "macOS automation",
@@ -49,25 +49,26 @@
       "nodes": []
     },
     {
-      "text": "keyboard maestro",
-      "url": "https://www.keyboardmaestro.com/main/",
-      "fx": -177.7857739652344,
-      "fy": 81.20756848728217,
-      "nodes": []
-    },
-    {
-      "text": "alfred  ️",
-      "url": "/software/tooling/productivity/alfred",
-      "fx": 45.79924774169922,
-      "fy": 79.98151397705078,
+      "text": "karabiner  ️",
+      "url": "/software/tooling/productivity/karabiner",
+      "fx": 187.91787252113568,
+      "fy": 82.8044077685422,
       "nodes": [],
       "category": "mindmap"
     },
     {
-      "text": "karabiner  ️",
-      "url": "/software/tooling/productivity/karabiner",
-      "fx": 175.06367886828593,
-      "fy": 82.8044077685422,
+      "text": "keyboard maestro  ️",
+      "url": "/operating-systems/unix/macos/automation/keyboard-maestro",
+      "fx": -218.18635686678886,
+      "fy": 84.85677509349978,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
+      "text": "alfred  ️",
+      "url": "/software/tooling/productivity/alfred",
+      "fx": 41.526084820841334,
+      "fy": 91.1254582775689,
       "nodes": [],
       "category": "mindmap"
     }
@@ -91,25 +92,25 @@
     },
     {
       "source": "apps",
-      "target": "keyboard maestro",
+      "target": "keyboard maestro  ️",
       "curve": {
-        "x": -115.467,
-        "y": 65.1101
+        "x": -135.667,
+        "y": 66.9347
       }
     },
     {
       "source": "apps",
       "target": "alfred  ️",
       "curve": {
-        "x": -24.9244,
-        "y": 65.7471
+        "x": -27.061,
+        "y": 71.3191
       }
     },
     {
       "source": "apps",
       "target": "karabiner  ️",
       "curve": {
-        "x": 40.9578,
+        "x": 47.3849,
         "y": 65.9085
       }
     },

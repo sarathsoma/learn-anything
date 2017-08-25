@@ -5,20 +5,20 @@
     {
       "text": "privacy",
       "url": "http://www.wikiwand.com/en/Privacy",
-      "fx": -17.208364605244128,
-      "fy": -696.0278065470512,
+      "fx": 52.960155943976474,
+      "fy": -819.8382653370405,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/privacy/",
-          "fx": 173.79163539475587,
-          "fy": -682.0278065470512,
+          "fx": 243.96015594397647,
+          "fy": -805.8382653370405,
           "nodes": [
             {
               "text": "wiki",
               "url": "https://www.reddit.com/r/privacy/wiki/index",
-              "fx": 283.7916353947559,
-              "fy": -682.0278065470512,
+              "fx": 353.9601559439765,
+              "fy": -805.8382653370405,
               "nodes": [],
               "category": "reddit",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -33,22 +33,14 @@
     {
       "text": "help",
       "url": "",
-      "fx": 131.5634540325118,
-      "fy": -550.0301196637057,
+      "fx": 196.87281349125396,
+      "fy": -683.3895772499042,
       "nodes": [
-        {
-          "text": "privacy tools",
-          "url": "https://privacytoolsio.github.io/privacytools.io/",
-          "fx": 268.5634540325118,
-          "fy": -572.5301196637057,
-          "nodes": [],
-          "color": "rgba(36, 170, 255, 1.0)"
-        },
         {
           "text": "DuckDuckGo blog  ️",
           "url": "https://spreadprivacy.com/@duckduckgo",
-          "fx": 268.5634540325118,
-          "fy": -538.5301196637057,
+          "fx": 333.87281349125396,
+          "fy": -688.8895772499042,
           "nodes": [],
           "category": "blog",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -56,8 +48,8 @@
         {
           "text": "terms of service didn’t read",
           "url": "https://tosdr.org/",
-          "fx": 268.5634540325118,
-          "fy": -498.5301196637057,
+          "fx": 333.87281349125396,
+          "fy": -648.8895772499042,
           "nodes": [],
           "color": "rgba(34, 205, 224, 1.0)"
         }
@@ -66,45 +58,45 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -105.52648457710939,
-      "fy": -313.1980784352787,
+      "fx": -47.94933714638478,
+      "fy": -371.3400314240422,
       "nodes": [
-        {
-          "text": "1. they’re watching you",
-          "url": "https://www.youtube.com/watch?v=tabVaoeNtdk",
-          "fx": 50.473515422890614,
-          "fy": -397.6980784352787,
-          "nodes": [],
-          "category": "video",
-          "color": "rgba(175, 54, 242, 1.0)"
-        },
         {
           "text": "1. are you anonymous?",
           "url": "http://www.nothingprivate.ml/",
-          "fx": 50.473515422890614,
-          "fy": -357.6980784352787,
+          "fx": 108.05066285361522,
+          "fy": -554.8400314240422,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
           "text": "1. click click click",
           "url": "https://clickclickclick.click/#5f76447702ed27638dc3f3d08a66b72c",
-          "fx": 50.473515422890614,
-          "fy": -323.6980784352787,
+          "fx": 108.05066285361522,
+          "fy": -520.8400314240422,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         },
         {
+          "text": "1. they’re watching you",
+          "url": "https://www.youtube.com/watch?v=tabVaoeNtdk",
+          "fx": 108.05066285361522,
+          "fy": -486.8400314240422,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
           "text": "1. build a better monster: morality, machine learning and mass surveillance",
           "url": "https://www.infoq.com/presentations/morality-ml-mass-surveillance?utm_content=buffer2a36b&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer",
-          "fx": 50.473515422890614,
-          "fy": -289.6980784352787,
+          "fx": 108.05066285361522,
+          "fy": -446.8400314240422,
           "nodes": [
             {
               "text": "transcript  ️",
               "url": "http://idlewords.com/talks/build_a_better_monster.htm",
-              "fx": 403.4735154228906,
-              "fy": -267.6980784352787,
+              "fx": 461.0506628536152,
+              "fy": -424.8400314240422,
               "nodes": [],
               "category": "article",
               "color": "rgba(34, 205, 224, 1.0)"
@@ -114,13 +106,63 @@
           "color": "rgba(34, 205, 224, 1.0)"
         },
         {
+          "text": "1. surveillance is “out of sight, out of mind”",
+          "url": "https://www.reddit.com/r/privacy/comments/6susiw/70_of_windows_10_users_are_totally_happy_with_our/dlfou2b/",
+          "fx": 108.05066285361522,
+          "fy": -362.8400314240422,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
           "text": "2. security best practices  ️",
           "url": "https://spideroak.com/infosec",
-          "fx": 50.473515422890614,
-          "fy": -205.69807843527872,
+          "fx": 108.05066285361522,
+          "fy": -300.8400314240422,
           "nodes": [],
           "category": "article",
           "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
+          "text": "2. privacy tools",
+          "url": "https://privacytoolsio.github.io/privacytools.io/",
+          "fx": 108.05066285361522,
+          "fy": -260.8400314240422,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "2. ad blockers",
+          "url": "",
+          "fx": 108.05066285361522,
+          "fy": -192.8400314240422,
+          "nodes": [
+            {
+              "text": "adguard",
+              "url": "https://adguard.com/en/welcome.html",
+              "fx": 295.0506628536152,
+              "fy": -226.8400314240422,
+              "nodes": [],
+              "color": "rgba(255, 189, 10, 1.0)"
+            },
+            {
+              "text": "pi-hole",
+              "url": "https://pi-hole.net/",
+              "fx": 295.0506628536152,
+              "fy": -192.8400314240422,
+              "nodes": [],
+              "color": "rgba(255, 189, 10, 1.0)"
+            },
+            {
+              "text": "ghostery",
+              "url": "https://www.ghostery.com",
+              "fx": 295.0506628536152,
+              "fy": -158.8400314240422,
+              "nodes": [],
+              "color": "rgba(255, 189, 10, 1.0)"
+            }
+          ],
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ]
     },
@@ -378,15 +420,6 @@
       }
     },
     {
-      "source": "google  ️",
-      "target": "duckduckgo",
-      "curve": {
-        "x": 127.697,
-        "y": 100.17
-      },
-      "text": "alternative"
-    },
-    {
       "source": "invading privacy",
       "target": "microsoft",
       "curve": {
@@ -555,25 +588,34 @@
       "source": "privacy",
       "target": "basics",
       "curve": {
-        "x": -59.409,
-        "y": 190.165
+        "x": -65.7046,
+        "y": 222.998
       }
     },
     {
       "source": "basics",
       "target": "invading privacy",
       "curve": {
-        "x": -17.806,
-        "y": 102.683
+        "x": -46.5946,
+        "y": 131.754
       }
     },
     {
       "source": "help",
       "target": "privacy",
       "curve": {
-        "x": -54.3859,
-        "y": -71.7488
+        "x": -51.9564,
+        "y": -66.9743
       }
+    },
+    {
+      "source": "google  ️",
+      "target": "duckduckgo",
+      "curve": {
+        "x": 127.697,
+        "y": 100.17
+      },
+      "text": "alternative"
     }
   ]
 }

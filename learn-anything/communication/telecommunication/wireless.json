@@ -1,6 +1,6 @@
 {
   "title": "learn anything - communication - telecommunication - wireless",
-  "tag": "wireless communication",
+  "tag": "part-of-speech tagging",
   "nodes": [
     {
       "text": "wireless",
@@ -36,12 +36,12 @@
       "category": "wiki"
     },
     {
-      "text": "wifi",
-      "url": "http://www.wikiwand.com/en/Wi-Fi",
-      "fx": -39.72801573105619,
+      "text": "WiFi  ️",
+      "url": "/communication/telecommunication/wireless/wifi",
+      "fx": -43.22801573105619,
       "fy": 107.79099887913378,
       "nodes": [],
-      "category": "wiki"
+      "category": "mindmap"
     },
     {
       "text": "LPWAN",
@@ -107,9 +107,9 @@
     },
     {
       "source": "basics",
-      "target": "wifi",
+      "target": "WiFi  ️",
       "curve": {
-        "x": 49.5054,
+        "x": 47.7554,
         "y": 83.5885
       }
     },

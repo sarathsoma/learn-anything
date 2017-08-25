@@ -153,6 +153,14 @@
       "fy": -42.1875,
       "nodes": [],
       "category": "mindmap"
+    },
+    {
+      "text": "equations  ️",
+      "url": "/mathematics/algebra/equations",
+      "fx": -1231.2102233917042,
+      "fy": -38.891040269498035,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -233,7 +241,15 @@
       "target": "inequalities  ️",
       "curve": {
         "x": -551.962,
-        "y": -7.1284
+        "y": 20.4698
+      }
+    },
+    {
+      "source": "basics",
+      "target": "equations  ️",
+      "curve": {
+        "x": -740.495,
+        "y": 6.9336
       }
     }
   ]

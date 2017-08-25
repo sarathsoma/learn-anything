@@ -138,6 +138,14 @@
       "fy": 92.13650823023511,
       "nodes": [],
       "category": "mindmap"
+    },
+    {
+      "text": "topological quantum field theory  ️",
+      "url": "/physics/quantum-mechanics/quantum-field-theory/topological-quantum-field-theory",
+      "fx": -1355.452255187247,
+      "fy": 94.20116396763137,
+      "nodes": [],
+      "category": "mindmap"
     }
   ],
   "connections": [
@@ -203,6 +211,14 @@
       "curve": {
         "x": -502.133,
         "y": 49.1417
+      }
+    },
+    {
+      "source": "basics",
+      "target": "topological quantum field theory  ️",
+      "curve": {
+        "x": -697.942,
+        "y": 49.2458
       }
     }
   ]

@@ -1,18 +1,18 @@
 {
   "title": "learn anything - operating systems - unix - linux - distributions - coreos",
-  "tag": "coreOS",
+  "tag": "memory management",
   "nodes": [
     {
       "text": "coreOS",
       "url": "http://www.wikiwand.com/en/Container_Linux_by_CoreOS",
-      "fx": -49.6484375,
-      "fy": -298.59179687500006,
+      "fx": -44.76318359375,
+      "fy": -227.81054687500006,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/coreos/",
-          "fx": 146.3515625,
-          "fy": -304.59179687500006,
+          "fx": 151.23681640625,
+          "fy": -253.81054687500006,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -20,31 +20,23 @@
         {
           "text": "",
           "url": "https://github.com/coreos/",
-          "fx": 146.3515625,
-          "fy": -264.59179687500006,
+          "fx": 151.23681640625,
+          "fy": -213.81054687500006,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/ramitsurana/awesome-coreos",
+          "fx": 151.23681640625,
+          "fy": -173.81054687500006,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(255, 189, 10, 1.0)"
         }
       ],
       "category": "wiki"
-    },
-    {
-      "text": "help",
-      "url": "",
-      "fx": 65.58300781250011,
-      "fy": -186.90917968750006,
-      "nodes": [
-        {
-          "text": "awesome coreOS",
-          "url": "https://github.com/ramitsurana/awesome-coreos",
-          "fx": 202.5830078125001,
-          "fy": -175.40917968750006,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
-        }
-      ]
     },
     {
       "text": "basics",
@@ -74,19 +66,11 @@
   ],
   "connections": [
     {
-      "source": "help",
-      "target": "coreOS",
-      "curve": {
-        "x": -42.8657,
-        "y": -54.5913
-      }
-    },
-    {
       "source": "coreOS",
       "target": "basics",
       "curve": {
-        "x": -1.85596,
-        "y": 117.962
+        "x": -4.29859,
+        "y": 82.5714
       }
     }
   ]

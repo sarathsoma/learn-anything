@@ -1,18 +1,18 @@
 {
   "title": "learn anything - design - graphic design - sketch",
-  "tag": "sketch app",
+  "tag": "boolean logic",
   "nodes": [
     {
       "text": "sketch",
       "url": "https://www.sketchapp.com/",
-      "fx": -90.48252655637896,
-      "fy": -365.3889932224893,
+      "fx": -80.31691260700245,
+      "fy": -475.6853680363735,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/sketchapp/",
-          "fx": 67.51747344362104,
-          "fy": -373.8889932224893,
+          "fx": 77.68308739299755,
+          "fy": -484.1853680363735,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -20,8 +20,8 @@
         {
           "text": "awesome",
           "url": "https://github.com/diessica/awesome-sketch",
-          "fx": 67.51747344362104,
-          "fy": -333.8889932224893,
+          "fx": 77.68308739299755,
+          "fy": -444.1853680363735,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -29,16 +29,32 @@
       ]
     },
     {
+      "text": "help",
+      "url": "",
+      "fx": 15.42082879894133,
+      "fy": -361.5028357405484,
+      "nodes": [
+        {
+          "text": "collection of best Sketch resources",
+          "url": "http://sketch.fordesignrs.com/",
+          "fx": 152.42082879894133,
+          "fy": -347.0028357405484,
+          "nodes": [],
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "tools",
       "url": "",
-      "fx": 61.300442682591324,
-      "fy": -256.2341153263446,
+      "fx": 74.36234634744267,
+      "fy": -272.84401073563566,
       "nodes": [
         {
           "text": "render react components to sketch",
           "url": "https://github.com/airbnb/react-sketchapp",
-          "fx": 202.30044268259132,
-          "fy": -255.73411532634458,
+          "fx": 216.36234634744267,
+          "fy": -261.34401073563566,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -66,14 +82,14 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -194.3904539894893,
-      "fy": -91.04863758484817,
+      "fx": -227.92977263703028,
+      "fy": -116.04543574058596,
       "nodes": [
         {
           "text": "1. learn sketch",
           "url": "https://www.sketchapp.com/learn/",
-          "fx": -12.390453989489288,
-          "fy": -76.54863758484817,
+          "fx": -45.92977263703028,
+          "fy": -101.54543574058596,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         }
@@ -99,14 +115,14 @@
     {
       "text": "plugins",
       "url": "",
-      "fx": -176.394465519832,
-      "fy": 64.095703125,
+      "fx": -260.1867298640942,
+      "fy": 36.069960297131274,
       "nodes": [
         {
           "text": "sketch flex box",
           "url": "https://github.com/hrescak/Sketch-Flex-Layout",
-          "fx": -13.39446551983201,
-          "fy": 75.595703125,
+          "fx": -97.18672986409422,
+          "fy": 47.569960297131274,
           "nodes": [],
           "category": "github",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -119,32 +135,24 @@
       "source": "sketch",
       "target": "basics",
       "curve": {
-        "x": -52.4539,
-        "y": 137.17
+        "x": -74.3064,
+        "y": 179.82
       }
     },
     {
       "source": "basics",
       "target": "plugins",
       "curve": {
-        "x": 4.24797,
-        "y": 77.5721
+        "x": -20.8785,
+        "y": 76.0576
       }
     },
     {
       "source": "articles",
       "target": "tools",
       "curve": {
-        "x": -50.3182,
-        "y": -46.2537
-      }
-    },
-    {
-      "source": "tools",
-      "target": "sketch",
-      "curve": {
-        "x": -71.8915,
-        "y": -54.5775
+        "x": -43.7872,
+        "y": -54.5586
       }
     },
     {
@@ -153,6 +161,22 @@
       "curve": {
         "x": -53.5128,
         "y": -50.1191
+      }
+    },
+    {
+      "source": "help",
+      "target": "sketch",
+      "curve": {
+        "x": -42.6189,
+        "y": -57.0913
+      }
+    },
+    {
+      "source": "tools",
+      "target": "help",
+      "curve": {
+        "x": -30.7208,
+        "y": -44.3294
       }
     }
   ]
