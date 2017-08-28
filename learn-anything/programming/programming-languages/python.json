@@ -219,6 +219,23 @@
       ]
     },
     {
+      "text": "talks",
+      "url": "",
+      "fx": 515.7468317972352,
+      "fy": 10.597422235023373,
+      "nodes": [
+        {
+          "text": "17: so you want to be a python expert?",
+          "url": "https://www.youtube.com/watch?v=cKPlPJyQrt4&amp;index=3&amp;list=WL",
+          "fx": 655.7468317972352,
+          "fy": 11.097422235023373,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "python libraries  ️",
       "url": "/programming/programming-languages/python/python-libraries",
       "fx": -176.04714567422695,
@@ -321,6 +338,14 @@
       "curve": {
         "x": -262.511,
         "y": 121.78
+      }
+    },
+    {
+      "source": "talks",
+      "target": "articles",
+      "curve": {
+        "x": -24.4815,
+        "y": -97.0757
       }
     }
   ]

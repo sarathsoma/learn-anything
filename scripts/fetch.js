@@ -30,7 +30,7 @@ async function fetchMap(trigger) {
   const id = trigger.id.replace(/#.*/, '');
 
   let map = (await axios.get(`https://my.mindnode.com/${id}.json`)).data;
-  map = JSON.stringify(map).replace(/https:\/\/my\.mindnode\.com/g, '/id/');
+  map = JSON.stringify(map).replace(/https:\/\/my\.mindnode\.com\//g, '/id/');
   map = JSON.parse(map);
   map.trigger = trigger.tag;
 

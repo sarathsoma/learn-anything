@@ -1,6 +1,6 @@
 {
   "title": "learn anything - network science",
-  "tag": "video games",
+  "tag": "",
   "nodes": [
     {
       "text": "network science",
@@ -70,6 +70,7 @@
     },
     {
       "text": "network theory  ️",
+      "url": "/network-science/network-theory",
       "fx": -723.039891098485,
       "fy": -236.41193181818159,
       "nodes": [],

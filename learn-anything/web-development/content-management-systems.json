@@ -1,6 +1,6 @@
 {
   "title": "learn anything - web development - content management systems",
-  "tag": "object oriented programming",
+  "tag": "",
   "nodes": [
     {
       "text": "content management system",
@@ -53,10 +53,17 @@
       ]
     },
     {
+      "text": "GRAV",
+      "url": "https://getgrav.org/",
+      "fx": -668.0179884453781,
+      "fy": 66.38488051470608,
+      "nodes": []
+    },
+    {
       "text": "wordpress  ️",
       "url": "/web-development/content-management-systems/wordpress",
-      "fx": -553.8616975600956,
-      "fy": 64.15751066181264,
+      "fx": -549.2994079589844,
+      "fy": 64.15751075744629,
       "nodes": [],
       "category": "mindmap"
     },
@@ -112,7 +119,7 @@
       "source": "built-in solutions",
       "target": "wordpress  ️",
       "curve": {
-        "x": -145.169,
+        "x": -142.888,
         "y": 81.1216
       }
     },
@@ -170,6 +177,14 @@
       "curve": {
         "x": 78.2583,
         "y": 73.1582
+      }
+    },
+    {
+      "source": "built-in solutions",
+      "target": "GRAV",
+      "curve": {
+        "x": -274.587,
+        "y": 40.3954
       }
     }
   ]

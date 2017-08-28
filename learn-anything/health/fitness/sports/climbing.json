@@ -1,6 +1,6 @@
 {
   "title": "learn anything - health - fitness - sports - climbing",
-  "tag": "rotational symmetry",
+  "tag": "",
   "nodes": [
     {
       "text": "climbing",
@@ -23,17 +23,26 @@
     {
       "text": "basics",
       "url": "",
-      "fx": -202.31072443181813,
-      "fy": -238.7581676136698,
+      "fx": -210.55600320879682,
+      "fy": -222.29852282949713,
       "nodes": [
         {
           "text": "1. beginner’s guide",
           "url": "https://www.reddit.com/r/climbing/wiki/beginnersguide",
-          "fx": -39.31072443181813,
-          "fy": -226.2581676136698,
+          "fx": -47.556003208796824,
+          "fy": -243.29852282949713,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. learn to train: improve your climbing technique  ️",
+          "url": "https://www.climbing.com/skills/learn-to-train-improve-your-technique/",
+          "fx": -47.556003208796824,
+          "fy": -201.29852282949713,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     }
@@ -43,8 +52,8 @@
       "source": "climbing",
       "target": "basics",
       "curve": {
-        "x": -4.06552,
-        "y": 75.4881
+        "x": -8.18816,
+        "y": 83.7179
       }
     }
   ]
