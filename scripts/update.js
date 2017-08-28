@@ -66,7 +66,7 @@ async function fetchMaps() {
   }, 10);
 
   await pool.start();
-  const duration = (new Date() - t) / 1000;
+  const duration = (new Date() - startTime) / 1000;
   console.log(`${index} maps added in ${duration}s.`);
 }
 
