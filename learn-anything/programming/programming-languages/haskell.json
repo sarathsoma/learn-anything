@@ -317,7 +317,8 @@
     },
     {
       "text": "liquid haskell  ️",
-      "fx": -414.8943088161865,
+      "url": "/programming/programming-languages/haskell/liquid-haskell",
+      "fx": -413.8943088161865,
       "fy": 391.48410964036043,
       "nodes": [],
       "category": "mindmap"
@@ -368,7 +369,7 @@
       "source": "basics",
       "target": "liquid haskell  ️",
       "curve": {
-        "x": -82.104,
+        "x": -81.604,
         "y": 136.329
       }
     }

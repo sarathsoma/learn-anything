@@ -12,7 +12,7 @@
           "text": "",
           "url": "https://www.reddit.com/r/nim/",
           "fx": 121.33435179455432,
-          "fy": -224.050510519802,
+          "fy": -244.050510519802,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -21,7 +21,7 @@
           "text": "",
           "url": "https://github.com/nim-lang/Nim",
           "fx": 121.33435179455432,
-          "fy": -184.050510519802,
+          "fy": -204.050510519802,
           "nodes": [],
           "category": "github",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -30,10 +30,19 @@
           "text": "trending",
           "url": "https://github.com/trending/nim",
           "fx": 121.33435179455432,
-          "fy": -144.050510519802,
+          "fy": -164.050510519802,
           "nodes": [],
           "category": "github",
           "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "awesome",
+          "url": "https://github.com/VPashkov/awesome-nim",
+          "fx": 121.33435179455432,
+          "fy": -124.050510519802,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(34, 205, 224, 1.0)"
         }
       ]
     },
@@ -44,19 +53,10 @@
       "fy": -58.94310123850801,
       "nodes": [
         {
-          "text": "awesome nim",
-          "url": "https://github.com/VPashkov/awesome-nim",
-          "fx": 192.87085274919843,
-          "fy": -64.443101238508,
-          "nodes": [],
-          "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
-        },
-        {
           "text": "rosetta code",
           "url": "http://rosettacode.org/wiki/Category:Nim",
           "fx": 192.87085274919843,
-          "fy": -24.443101238508007,
+          "fy": -44.44310123850801,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         }

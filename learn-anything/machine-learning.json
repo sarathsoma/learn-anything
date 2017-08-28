@@ -402,10 +402,19 @@
       "fy": -744.2111040169661,
       "nodes": [
         {
+          "text": "1. machine learning for humans  ️",
+          "url": "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12",
+          "fx": 373.32436026572395,
+          "fy": -1338.7111040169661,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(49, 187, 71, 1.0)"
+        },
+        {
           "text": "1. an end to end implementation of a machine learning pipeline  ️",
           "url": "https://spandan-madan.github.io/DeepLearningProject/",
           "fx": 373.32436026572395,
-          "fy": -1318.7111040169661,
+          "fy": -1298.7111040169661,
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -414,7 +423,7 @@
           "text": "1. machine learning is fun  ️",
           "url": "https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471",
           "fx": 373.32436026572395,
-          "fy": -1256.7111040169661,
+          "fy": -1236.7111040169661,
           "nodes": [],
           "category": "article",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -424,7 +433,7 @@
           "note": "one of the best introductions to the field, assumes you have the mathematical background to follow it",
           "url": "http://www.deeplearningbook.org",
           "fx": 373.32436026572395,
-          "fy": -1216.7111040169661,
+          "fy": -1196.7111040169661,
           "nodes": [],
           "category": "free book",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -433,7 +442,7 @@
           "text": "1. pattern recognition and machine learning",
           "url": "http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf",
           "fx": 373.32436026572395,
-          "fy": -1176.7111040169661,
+          "fy": -1156.7111040169661,
           "nodes": [],
           "category": "free book",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -442,7 +451,7 @@
           "text": "1. fast.ai",
           "url": "http://course.fast.ai/index.html",
           "fx": 373.32436026572395,
-          "fy": -1114.7111040169661,
+          "fy": -1094.7111040169661,
           "nodes": [],
           "category": "course",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -451,13 +460,13 @@
           "text": "1. machine learning crash course",
           "url": "",
           "fx": 373.32436026572395,
-          "fy": -1040.7111040169661,
+          "fy": -1020.7111040169661,
           "nodes": [
             {
               "text": "part I",
               "url": "https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/",
               "fx": 712.324360265724,
-              "fy": -1074.7111040169661,
+              "fy": -1054.7111040169661,
               "nodes": [],
               "color": "rgba(34, 205, 224, 1.0)"
             },
@@ -465,7 +474,7 @@
               "text": "part II",
               "url": "https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/",
               "fx": 712.324360265724,
-              "fy": -1040.7111040169661,
+              "fy": -1020.7111040169661,
               "nodes": [],
               "color": "rgba(34, 205, 224, 1.0)"
             },
@@ -473,7 +482,7 @@
               "text": "part III",
               "url": "https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/",
               "fx": 712.324360265724,
-              "fy": -1006.7111040169661,
+              "fy": -986.7111040169661,
               "nodes": [],
               "color": "rgba(34, 205, 224, 1.0)"
             }
@@ -484,7 +493,7 @@
           "text": "1. visual introduction to machine learning",
           "url": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
           "fx": 373.32436026572395,
-          "fy": -972.7111040169661,
+          "fy": -952.7111040169661,
           "nodes": [],
           "category": "interactive",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -493,7 +502,7 @@
           "text": "1. visual tutorial on ML with examples  ️",
           "url": "https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer",
           "fx": 373.32436026572395,
-          "fy": -910.7111040169661,
+          "fy": -890.7111040169661,
           "nodes": [],
           "category": "article",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -502,7 +511,7 @@
           "text": "1. gentle guide to machine learning  ️",
           "url": "https://monkeylearn.com/blog/a-gentle-guide-to-machine-learning/",
           "fx": 373.32436026572395,
-          "fy": -848.7111040169661,
+          "fy": -828.7111040169661,
           "nodes": [],
           "category": "article",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -511,13 +520,13 @@
           "text": "1. coursera course on machine learning",
           "url": "https://www.coursera.org/learn/machine-learning",
           "fx": 373.32436026572395,
-          "fy": -808.7111040169661,
+          "fy": -788.7111040169661,
           "nodes": [
             {
               "text": "lecture slides and notes",
               "url": "https://github.com/1094401996/machine-learning-coursera",
               "fx": 699.324360265724,
-              "fy": -794.7111040169661,
+              "fy": -774.7111040169661,
               "nodes": [],
               "color": "rgba(36, 170, 255, 1.0)"
             }
@@ -530,7 +539,7 @@
           "note": "dives deep into the machine learning algorithms ranging from regression, classification to clustering and retrieval with assignments to implement them from scratch and apply on various datasets",
           "url": "https://www.coursera.org/specializations/machine-learning",
           "fx": 373.32436026572395,
-          "fy": -746.7111040169661,
+          "fy": -726.7111040169661,
           "nodes": [],
           "category": "course",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -539,7 +548,7 @@
           "text": "1. learning from data",
           "url": "https://work.caltech.edu/telecourse.html",
           "fx": 373.32436026572395,
-          "fy": -706.7111040169661,
+          "fy": -686.7111040169661,
           "nodes": [],
           "category": "course",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -548,7 +557,7 @@
           "text": "1. neural networks and deep learning",
           "url": "http://neuralnetworksanddeeplearning.com/",
           "fx": 373.32436026572395,
-          "fy": -666.7111040169661,
+          "fy": -646.7111040169661,
           "nodes": [],
           "category": "free book",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -557,7 +566,7 @@
           "text": "1. neural networks for machine learning",
           "url": "https://www.coursera.org/learn/neural-networks",
           "fx": 373.32436026572395,
-          "fy": -604.7111040169661,
+          "fy": -584.7111040169661,
           "nodes": [],
           "category": "course",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -566,7 +575,7 @@
           "text": "1. machine learning guide",
           "url": "http://ocdevel.com/podcasts/machine-learning",
           "fx": 373.32436026572395,
-          "fy": -542.7111040169661,
+          "fy": -522.7111040169661,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         },
@@ -574,7 +583,7 @@
           "text": "1. math background for ML",
           "url": "https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg",
           "fx": 373.32436026572395,
-          "fy": -508.71110401696615,
+          "fy": -488.71110401696615,
           "nodes": [],
           "category": "video",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -583,7 +592,7 @@
           "text": "1. information theory, inference, and learning algorithms",
           "url": "http://www.inference.phy.cam.ac.uk/itprnn/book.pdf",
           "fx": 373.32436026572395,
-          "fy": -468.71110401696615,
+          "fy": -448.71110401696615,
           "nodes": [],
           "category": "free book",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -592,7 +601,7 @@
           "text": "1. foundations of machine learning",
           "url": "http://www.goodreads.com/book/show/15844113-foundations-of-machine-learning",
           "fx": 373.32436026572395,
-          "fy": -406.71110401696615,
+          "fy": -386.71110401696615,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -601,7 +610,7 @@
           "text": "1. machine learning CS 229 course materials",
           "url": "http://cs229.stanford.edu/materials.html",
           "fx": 373.32436026572395,
-          "fy": -366.71110401696615,
+          "fy": -346.71110401696615,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         },
@@ -609,7 +618,7 @@
           "text": "1. computational and statistical learning theory",
           "url": "http://ttic.uchicago.edu/%7Enati/Teaching/TTIC31120/2016/",
           "fx": 373.32436026572395,
-          "fy": -310.71110401696615,
+          "fy": -290.71110401696615,
           "nodes": [],
           "category": "course",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -618,7 +627,7 @@
           "text": "1. learning from data: a short course",
           "url": "http://www.goodreads.com/book/show/15706459-learning-from-data",
           "fx": 373.32436026572395,
-          "fy": -248.71110401696615,
+          "fy": -228.71110401696615,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -627,7 +636,7 @@
           "text": "1. a course in machine learning",
           "url": "http://ciml.info/",
           "fx": 373.32436026572395,
-          "fy": -186.71110401696615,
+          "fy": -166.71110401696615,
           "nodes": [],
           "category": "free book",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -636,19 +645,11 @@
           "text": "1. machine learning system design  ️",
           "url": "http://frnsys.com/ai_notes/machine_learning/in_practice.html",
           "fx": 373.32436026572395,
-          "fy": -146.71110401696615,
-          "nodes": [],
-          "category": "article",
-          "color": "rgba(175, 54, 242, 1.0)"
-        },
-        {
-          "text": "Machine Learning for Humans🤖👶 ",
-          "url": "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12",
+          "fy": -126.71110401696615,
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
         }
-        
       ]
     },
     {

@@ -68,16 +68,32 @@
       ]
     },
     {
+      "text": "concerns",
+      "url": "",
+      "fx": 274.2703885350752,
+      "fy": 141.15449115360332,
+      "nodes": [
+        {
+          "text": "concerns over  duckduckgo",
+          "url": "https://8ch.net/tech/ddg.html",
+          "fx": 466.2703885350752,
+          "fy": 156.15449115360332,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
       "text": "basics",
       "url": "",
-      "fx": 40.86430907129534,
-      "fy": 119.39290285658558,
+      "fx": 16.562003534966834,
+      "fy": 277.6266872816634,
       "nodes": [
         {
           "text": "1. duckduckgo privacy policy",
           "url": "https://duckduckgo.com/privacy",
-          "fx": 203.86430907129534,
-          "fy": 134.39290285658558,
+          "fx": 179.56200353496683,
+          "fy": 292.6266872816634,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         }
@@ -105,8 +121,16 @@
       "source": "duckduckgo",
       "target": "basics",
       "curve": {
-        "x": -5.05702,
-        "y": 172.526
+        "x": -17.2082,
+        "y": 251.643
+      }
+    },
+    {
+      "source": "concerns",
+      "target": "useful",
+      "curve": {
+        "x": -35.4385,
+        "y": -69.4365
       }
     }
   ]

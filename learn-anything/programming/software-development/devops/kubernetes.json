@@ -11,11 +11,11 @@
         {
           "text": "awesome",
           "url": "https://github.com/ramitsurana/awesome-kubernetes",
-          "fx": 134.37890625,
+          "fx": 147.37890625,
           "fy": -332.8952077513967,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ],
       "category": "wiki"
@@ -23,43 +23,43 @@
     {
       "text": "help",
       "url": "",
-      "fx": 82.73458087517713,
-      "fy": -196.7667151270782,
+      "fx": 73.01192462517713,
+      "fy": -193.9893713770782,
       "nodes": [
         {
           "text": "kubernetes clusters for the hobbyist",
           "url": "https://github.com/hobby-kube/guide",
-          "fx": 219.73458087517713,
-          "fy": -264.2667151270782,
+          "fx": 214.01192462517713,
+          "fy": -266.9893713770782,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "kubernetes design and architecture",
           "url": "https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture.md",
-          "fx": 219.73458087517713,
-          "fy": -202.2667151270782,
+          "fx": 214.01192462517713,
+          "fy": -199.9893713770782,
           "nodes": [],
           "category": "github",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "kubernetes docs",
           "url": "https://kubernetes.io/docs/home/",
-          "fx": 219.73458087517713,
-          "fy": -140.2667151270782,
+          "fx": 214.01192462517713,
+          "fy": -132.9893713770782,
           "nodes": [],
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "kubernetes components",
           "url": "",
-          "fx": 219.73458087517713,
-          "fy": -106.26671512707821,
+          "fx": 214.01192462517713,
+          "fy": -95.98937137707821,
           "nodes": [],
           "category": "image",
-          "color": "rgba(209, 21, 88, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         }
       ]
     },
@@ -72,11 +72,11 @@
         {
           "text": "draft",
           "url": "https://github.com/Azure/draft",
-          "fx": 400.7643946850392,
-          "fy": 25.588090551181153,
+          "fx": 404.7643946850392,
+          "fy": 26.588090551181153,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
@@ -84,42 +84,58 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -272.4946686036509,
-      "fy": 101.42662191325155,
+      "fx": -371.8423248536509,
+      "fy": 121.57896566325155,
       "nodes": [
         {
           "text": "1. illustrated children’s guide to kubernetes",
           "url": "https://www.youtube.com/watch?v=4ht22ReBjno",
-          "fx": -90.4946686036509,
-          "fy": 64.92662191325155,
+          "fx": -182.8423248536509,
+          "fy": 82.07896566325155,
           "nodes": [],
           "category": "video",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "1. kubernetes by example",
           "url": "http://kubernetesbyexample.com/",
-          "fx": -90.4946686036509,
-          "fy": 126.92662191325155,
+          "fx": -182.8423248536509,
+          "fy": 149.07896566325155,
           "nodes": [],
           "category": "free book",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "1. kubernetes basics",
           "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
-          "fx": -90.4946686036509,
-          "fy": 166.92662191325155,
+          "fx": -182.8423248536509,
+          "fy": 191.07896566325155,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 304.7319742271043,
+      "fy": 194.3230026247412,
+      "nodes": [
+        {
+          "text": "rancher",
+          "url": "http://rancher.com/",
+          "fx": 503.7319742271043,
+          "fy": 209.3230026247412,
+          "nodes": [],
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
     {
       "text": "openshift  ️",
       "url": "/programming/software-development/devops/kubernetes/openshift",
-      "fx": -291.79129142651266,
-      "fy": 246.32528818443802,
+      "fx": -391.13894767651266,
+      "fy": 266.477631934438,
       "nodes": [],
       "category": "mindmap"
     }
@@ -129,24 +145,24 @@
       "source": "help",
       "target": "kubernetes",
       "curve": {
-        "x": -65.4278,
-        "y": -73.8143
+        "x": -60.5665,
+        "y": -75.203
       }
     },
     {
       "source": "kubernetes",
       "target": "basics",
       "curve": {
-        "x": -107.437,
-        "y": 222.911
+        "x": -157.111,
+        "y": 232.987
       }
     },
     {
       "source": "help",
       "target": "tools",
       "curve": {
-        "x": 57.8304,
-        "y": 127.831
+        "x": 62.6917,
+        "y": 126.442
       }
     },
     {
@@ -155,6 +171,14 @@
       "curve": {
         "x": -9.89831,
         "y": 72.4493
+      }
+    },
+    {
+      "source": "tools",
+      "target": "interesting",
+      "curve": {
+        "x": 36.2338,
+        "y": 90.1175
       }
     }
   ]

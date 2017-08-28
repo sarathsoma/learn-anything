@@ -5,27 +5,27 @@
     {
       "text": "privacy",
       "url": "http://www.wikiwand.com/en/Privacy",
-      "fx": 39.69518198564299,
-      "fy": -736.4951663787035,
+      "fx": 104.80991221913962,
+      "fy": -1115.7518409997406,
       "nodes": [
         {
           "text": "",
           "url": "https://www.reddit.com/r/privacy/",
-          "fx": 230.695181985643,
-          "fy": -722.4951663787035,
+          "fx": 304.8099122191396,
+          "fy": -1101.7518409997406,
           "nodes": [
             {
               "text": "wiki",
               "url": "https://www.reddit.com/r/privacy/wiki/index",
-              "fx": 340.695181985643,
-              "fy": -722.4951663787035,
+              "fx": 414.8099122191396,
+              "fy": -1101.7518409997406,
               "nodes": [],
               "category": "reddit",
-              "color": "rgba(175, 54, 242, 1.0)"
+              "color": "rgba(104, 255, 109, 1.0)"
             }
           ],
           "category": "reddit",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ],
       "category": "wiki"
@@ -33,128 +33,163 @@
     {
       "text": "help",
       "url": "",
-      "fx": 179.3695582829207,
-      "fy": -610.7040303749043,
+      "fx": 259.52349659440915,
+      "fy": -931.2092315870702,
       "nodes": [
         {
           "text": "DuckDuckGo blog  ️",
           "url": "https://spreadprivacy.com/@duckduckgo",
-          "fx": 316.3695582829207,
-          "fy": -616.2040303749043,
+          "fx": 400.52349659440915,
+          "fy": -958.2092315870702,
           "nodes": [],
           "category": "blog",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "terms of service didn’t read",
           "url": "https://tosdr.org/",
-          "fx": 316.3695582829207,
-          "fy": -576.2040303749043,
+          "fx": 400.52349659440915,
+          "fy": -916.2092315870702,
           "nodes": [],
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "privacy bay wiki",
+          "url": "https://np.reddit.com/r/PrivacyBay/wiki/index",
+          "fx": 400.52349659440915,
+          "fy": -879.2092315870702,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
     {
       "text": "basics",
       "url": "",
-      "fx": -82.2136600630513,
-      "fy": -336.0535730907088,
+      "fx": -12.4507158228555,
+      "fy": -502.42989284938164,
       "nodes": [
         {
-          "text": "1. they’re watching you",
-          "url": "https://www.youtube.com/watch?v=tabVaoeNtdk",
-          "fx": 73.7863399369487,
-          "fy": -502.5535730907088,
+          "text": "1. corporate surveillance in everyday life  ️",
+          "url": "http://crackedlabs.org/en/corporate-surveillance",
+          "fx": 150.5492841771445,
+          "fy": -755.9298928493816,
           "nodes": [],
-          "category": "video",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "category": "article",
+          "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "1. are you anonymous?",
           "url": "http://www.nothingprivate.ml/",
-          "fx": 73.7863399369487,
-          "fy": -462.5535730907088,
+          "fx": 150.5492841771445,
+          "fy": -688.9298928493816,
           "nodes": [],
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "1. click click click",
           "url": "https://clickclickclick.click/#5f76447702ed27638dc3f3d08a66b72c",
-          "fx": 73.7863399369487,
-          "fy": -428.5535730907088,
+          "fx": 150.5492841771445,
+          "fy": -651.9298928493816,
           "nodes": [],
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "1. they’re watching you",
+          "url": "https://www.youtube.com/watch?v=tabVaoeNtdk",
+          "fx": 150.5492841771445,
+          "fy": -614.9298928493816,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "1. build a better monster: morality, machine learning and mass surveillance",
           "url": "https://www.infoq.com/presentations/morality-ml-mass-surveillance?utm_content=buffer2a36b&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer",
-          "fx": 73.7863399369487,
-          "fy": -394.5535730907088,
+          "fx": 150.5492841771445,
+          "fy": -572.9298928493816,
           "nodes": [
             {
               "text": "transcript  ️",
               "url": "http://idlewords.com/talks/build_a_better_monster.htm",
-              "fx": 426.7863399369487,
-              "fy": -372.5535730907088,
+              "fx": 502.5492841771445,
+              "fy": -547.9298928493816,
               "nodes": [],
               "category": "article",
-              "color": "rgba(34, 205, 224, 1.0)"
+              "color": "rgba(252, 177, 20, 1.0)"
             }
           ],
           "category": "video",
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "1. surveillance is “out of sight, out of mind”",
           "url": "https://www.reddit.com/r/privacy/comments/6susiw/70_of_windows_10_users_are_totally_happy_with_our/dlfou2b/",
-          "fx": 73.7863399369487,
-          "fy": -310.5535730907088,
+          "fx": 150.5492841771445,
+          "fy": -480.92989284938164,
           "nodes": [],
           "category": "reddit",
-          "color": "rgba(49, 187, 71, 1.0)"
+          "color": "rgba(255, 254, 60, 1.0)"
         },
         {
           "text": "2. security best practices  ️",
           "url": "https://spideroak.com/infosec",
-          "fx": 73.7863399369487,
-          "fy": -248.55357309070882,
+          "fx": 150.5492841771445,
+          "fy": -413.92989284938164,
           "nodes": [],
           "category": "article",
-          "color": "rgba(209, 21, 88, 1.0)"
+          "color": "rgba(169, 255, 0, 1.0)"
         },
         {
           "text": "2. privacy tools",
           "url": "https://privacytoolsio.github.io/privacytools.io/",
-          "fx": 73.7863399369487,
-          "fy": -208.55357309070882,
+          "fx": 150.5492841771445,
+          "fy": -371.92989284938164,
           "nodes": [],
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "2. ad blockers",
           "url": "",
-          "fx": 73.7863399369487,
-          "fy": -157.55357309070882,
+          "fx": 150.5492841771445,
+          "fy": -297.92989284938164,
           "nodes": [
             {
               "text": "adguard",
               "url": "https://adguard.com/en/welcome.html",
-              "fx": 260.7863399369487,
-              "fy": -174.55357309070882,
+              "fx": 351.5492841771445,
+              "fy": -334.92989284938164,
               "nodes": [],
-              "color": "rgba(255, 189, 10, 1.0)"
+              "color": "rgba(0, 224, 161, 1.0)"
             },
             {
               "text": "pi-hole",
               "url": "https://pi-hole.net/",
-              "fx": 260.7863399369487,
-              "fy": -140.55357309070882,
+              "fx": 351.5492841771445,
+              "fy": -297.92989284938164,
               "nodes": [],
-              "color": "rgba(255, 189, 10, 1.0)"
+              "color": "rgba(0, 224, 161, 1.0)"
+            },
+            {
+              "text": "ghostery",
+              "url": "https://www.ghostery.com",
+              "fx": 351.5492841771445,
+              "fy": -260.92989284938164,
+              "nodes": [],
+              "color": "rgba(0, 224, 161, 1.0)"
             }
           ],
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "2. list of privacy tips",
+          "url": "https://www.reddit.com/r/privacy/comments/6ivt3g/a_comprehensive_list_of_privacy_tips/",
+          "fx": 150.5492841771445,
+          "fy": -223.92989284938164,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
@@ -175,11 +210,11 @@
         {
           "text": "It is possible that all the information could be made available to the authorities - Eric Schmidt",
           "url": "https://www.reddit.com/r/privacy/comments/6hzqj4/google_not_gchq_is_the_truly_chilling_spy_network/dj2x3zl/",
-          "fx": 137.15658670567348,
-          "fy": -17.569471423637992,
+          "fx": 146.15658670567348,
+          "fy": -32.56947142363799,
           "nodes": [],
           "category": "reddit",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ],
       "category": "mindmap"
@@ -202,11 +237,11 @@
           "text": "17: get your loved ones off Facebook  ️",
           "note": "By staying on Facebook, you’re granting them permission to collect and use information about you, regardless of you even using the Internet.   And by staying on, the data they collect on you gets used to create models about your closest friends and family, even the ones who opted out.",
           "url": "http://www.salimvirani.com//facebook/",
-          "fx": 118.2089462972499,
-          "fy": 192.02221370194218,
+          "fx": 130.2089462972499,
+          "fy": 190.52221370194218,
           "nodes": [],
           "category": "article",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ],
       "category": "mindmap"
@@ -234,10 +269,10 @@
         {
           "text": "17: microsoft shares windows 10 telemetry data with third parties",
           "url": "https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/",
-          "fx": -29.995212808137126,
-          "fy": 476.19216845922836,
+          "fx": -21.995212808137126,
+          "fy": 463.19216845922836,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
@@ -257,10 +292,10 @@
         {
           "text": "17: whatsapp backdoor allows snooping on encrypted messages",
           "url": "https://www.reddit.com/r/privacy/comments/5nq2kd/whatsapp_backdoor_allows_snooping_on_encrypted/",
-          "fx": -105.50335561935492,
-          "fy": 645.6163866508673,
+          "fx": -97.50335561935492,
+          "fy": 632.6163866508673,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
@@ -288,10 +323,10 @@
         {
           "text": "17: evernote employees can read your notes, and there's no way to opt out",
           "url": "https://www.reddit.com/r/privacy/comments/5ice0v/evernote_employees_can_read_your_notes_and_theres/",
-          "fx": -220.96834630784429,
-          "fy": 930.2980378764687,
+          "fx": -213.96834630784429,
+          "fy": 927.7980378764687,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
@@ -318,10 +353,10 @@
         {
           "text": "17: Amazon wants to put a camera and microphone in your bedroom: \"when asked if echo look photos, videos, and the data gleaned from them would be sold to third parties; the company did not address that question\"",
           "url": "https://www.reddit.com/r/privacy/comments/67rgst/amazon_wants_to_put_a_camera_and_microphone_in/",
-          "fx": -358.0044041999271,
-          "fy": 1236.3244139950634,
+          "fx": -351.0044041999271,
+          "fy": 1215.3244139950634,
           "nodes": [],
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
@@ -358,25 +393,25 @@
     {
       "text": "firefox",
       "url": "https://www.mozilla.org/en-US/firefox/products/",
-      "fx": -249.33109976252865,
-      "fy": 1683.984432293853,
+      "fx": -249.33310317993164,
+      "fy": 1682.7904357910156,
       "nodes": [
         {
           "text": "17: browse against the machine  ️",
           "url": "https://medium.com/the-official-unofficial-firefox-blog/browse-against-the-machine-e793c0fee917",
-          "fx": -97.33109976252865,
-          "fy": 1695.484432293853,
+          "fx": -93.33310317993164,
+          "fy": 1682.7904357910156,
           "nodes": [],
           "category": "article",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
     {
       "text": "brave",
       "url": "https://www.brave.com/",
-      "fx": -256.7255364525878,
-      "fy": 1749.2650870897019,
+      "fx": -256.7275276184082,
+      "fy": 1747.931884765625,
       "nodes": []
     },
     {
@@ -389,8 +424,8 @@
     {
       "text": "ungoogled chromium",
       "url": "https://github.com/Eloston/ungoogled-chromium",
-      "fx": -420.9043022299205,
-      "fy": 1876.4872738497443,
+      "fx": -420.91381072998047,
+      "fy": 1878.202880859375,
       "nodes": []
     }
   ],
@@ -410,15 +445,6 @@
         "x": 46.6475,
         "y": 49.1311
       }
-    },
-    {
-      "source": "google  ️",
-      "target": "duckduckgo",
-      "curve": {
-        "x": 127.697,
-        "y": 100.17
-      },
-      "text": "alternative"
     },
     {
       "source": "invading privacy",
@@ -527,8 +553,8 @@
       "source": "chrome browser",
       "target": "firefox",
       "curve": {
-        "x": 169.933,
-        "y": 5.6407
+        "x": 169.932,
+        "y": 5.0437
       },
       "text": "alternative"
     },
@@ -536,8 +562,8 @@
       "source": "chrome browser",
       "target": "brave",
       "curve": {
-        "x": 165.486,
-        "y": 38.281
+        "x": 165.485,
+        "y": 37.6144
       },
       "text": "alternative"
     },
@@ -554,8 +580,8 @@
       "source": "chrome browser",
       "target": "ungoogled chromium",
       "curve": {
-        "x": 118.897,
-        "y": 101.892
+        "x": 118.892,
+        "y": 102.75
       },
       "text": "alternative"
     },
@@ -589,25 +615,34 @@
       "source": "privacy",
       "target": "basics",
       "curve": {
-        "x": -76.2043,
-        "y": 198.97
+        "x": -115.43,
+        "y": 305.41
       }
     },
     {
       "source": "basics",
       "target": "invading privacy",
       "curve": {
-        "x": -29.4624,
-        "y": 114.111
+        "x": -64.3439,
+        "y": 197.298
       }
     },
     {
       "source": "help",
       "target": "privacy",
       "curve": {
-        "x": -49.8372,
-        "y": -61.6455
+        "x": -57.3569,
+        "y": -91.0212
       }
+    },
+    {
+      "source": "google  ️",
+      "target": "duckduckgo",
+      "curve": {
+        "x": 127.697,
+        "y": 100.17
+      },
+      "text": "alternative"
     }
   ]
 }

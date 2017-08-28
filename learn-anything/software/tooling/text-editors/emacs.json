@@ -92,17 +92,41 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -284.26933508642685,
-      "fy": 257.01653186366104,
+      "fx": -335.72807532080185,
+      "fy": 290.32036487147354,
       "nodes": [
         {
           "text": "1. practical emacs tutorial",
           "url": "http://ergoemacs.org/emacs/emacs.html",
-          "fx": -102.26933508642685,
-          "fy": 268.51653186366104,
+          "fx": -153.72807532080185,
+          "fy": 239.82036487147354,
           "nodes": [],
           "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "1. learn elisp in in Y minutes",
+          "url": "https://learnxinyminutes.com/docs/elisp/",
+          "fx": -153.72807532080185,
+          "fy": 279.82036487147354,
+          "nodes": [],
+          "color": "rgba(36, 170, 255, 1.0)"
+        },
+        {
+          "text": "1. introduction to programming in emacs lisp",
+          "url": "https://www.gnu.org/software/emacs/manual/eintr.html",
+          "fx": -153.72807532080185,
+          "fy": 313.82036487147354,
+          "nodes": [],
+          "color": "rgba(255, 189, 10, 1.0)"
+        },
+        {
+          "text": "1. emacs lisp reference manual",
+          "url": "https://www.gnu.org/software/emacs/manual/elisp.html",
+          "fx": -153.72807532080185,
+          "fy": 369.82036487147354,
+          "nodes": [],
+          "color": "rgba(34, 205, 224, 1.0)"
         }
       ]
     }
@@ -120,8 +144,8 @@
       "source": "emacs",
       "target": "basics",
       "curve": {
-        "x": -99.0996,
-        "y": 217.537
+        "x": -124.829,
+        "y": 234.189
       }
     },
     {
