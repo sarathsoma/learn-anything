@@ -19,7 +19,7 @@
   "scripts": {
     "setup": "node scripts/setup.js && ./scripts/update.sh",
     "setup:prod": "NODE_ENV='production' node scripts/setup.js",
-    "update-maps": "node scripts/fetch.js"
+    "update-maps": "node scripts/fetch.js && ./scripts/update.sh"
   },
   "dependencies": {
     "aws-sdk": "^2.100.0",
@@ -28,7 +28,6 @@
     "es6-promise-pool": "^2.5.0",
     "fs-extra": "^4.0.1",
     "http-aws-es": "^2.0.5",
-    "react-mindmap": "^2.1.4",
     "sitemap": "^1.13.0"
   }
 }
