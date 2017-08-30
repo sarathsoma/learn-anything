@@ -25,7 +25,7 @@ function *walkDir(dirname) {
 
     if (file.endsWith('.json') && !ignoredFiles.includes(file)) {
       // eslint-disable-next-line import/no-dynamic-require, global-require
-      yield require(absPath);
+      yield { data: require(absPath), path: absPath };
     }
   }
 };

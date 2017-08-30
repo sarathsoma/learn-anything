@@ -2,6 +2,7 @@ const AWS = require('aws-sdk');
 const AWS_ES = require('http-aws-es');
 const elasticsearch = require('elasticsearch');
 const walkDir = require(`${__dirname}/walkDir`);
+const fs = require('fs-extra');
 
 let client = elasticsearch.Client({
   host: 'localhost:9200',
@@ -95,16 +96,17 @@ async function createMaps() {
   let id = 0;
 
   for (let map of walkDir('.')) {
-    if (!visited.includes(map.title)) {
-      visited.push(map.title);
-      map.id = id;
+    if (!visited.includes(map.data.title)) {
+      visited.push(map.data.title);
+      map.data.id = id;
       id += 1;
 
       if (process.env.NODE_ENV === 'production') {
         await sleep(200);
+        await fs.writeFile(map.path, JSON.stringify(map.data, null, 2));
       }
 
-      await createMap(map, map.id);
+      await createMap(map.data, map.data.id);
     }
   }
 }
