@@ -14,6 +14,9 @@ const output = process.argv[3];
 // Using for converting URLs with IDs to full URLs.
 const mapsLookup = {};
 
+// Used for getting the last inserted ID on elasticsearch.
+let lastID = 0;
+
 if (input === undefined || output === undefined) {
   // eslint-disable-next-line no-console
   console.log('No files were parsed due to insufficient arguments \nPlease run the parser with the following command: npm run parse "path/to/mindmap/json/folder" "path/to/output/folder"');
@@ -45,7 +48,7 @@ const walkDir = (dirname, fn) => {
       return walkDir(absPath, fn);
     }
 
-    if (typeof fn === 'function') {
+    if (filename.endsWith('.json') && typeof fn === 'function') {
       // eslint-disable-next-line import/no-dynamic-require, global-require
       fn(require(absPath), absPath);
     }
@@ -149,6 +152,14 @@ const parseConn = (conn, lookup) => {
   return parsedConn;
 };
 
+walkDir(`${__dirname}/../..`, (map, filename) => {
+  if (map.id > lastID) {
+    lastID = map.id;
+  }
+});
+
+console.log(lastID);
+
 walkDir(input, (map, filename) => {
   const inputBasePath = `${path.resolve('./', input)}`;
   let relativeFilePath = filename.replace(inputBasePath, '').replace('.json', '');
@@ -193,7 +204,13 @@ walkDir(input, (map, filename) => {
 
   if (fs.existsSync(outputFile)) {
     const prevMap = require(`${__dirname}/../../${outputFile}`);
-    parsedMap.id = prevMap.id;
+
+    if (typeof prevMap.id === 'number') {
+      parsedMap.id = prevMap.id;
+    } else {
+      lastID += 1;
+      parsedMap.id = lastID;
+    }
   }
 
   // Create folder if it doesn't exist.

@@ -18,8 +18,8 @@
   "repository": "nikitavoloboev/learn-anything",
   "scripts": {
     "setup": "node scripts/setup.js && ./scripts/update.sh",
-    "setup:prod": "NODE_ENV='production' node scripts/setup.js",
-    "update-maps": "node scripts/fetch.js && ./scripts/update.sh"
+    "setup:prod": "NODE_ENV='production' node ./scripts/setup.js",
+    "update:prod": "node scripts/fetchAll.js && NODE_ENV='production' ./scripts/update.sh"
   },
   "dependencies": {
     "aws-sdk": "^2.100.0",

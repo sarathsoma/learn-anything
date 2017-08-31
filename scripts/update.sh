@@ -1,7 +1,7 @@
 #!/bin/bash
 
 node scripts/parser/index.js maps .
-# rm -r maps
+rm -r maps
 
 if [[ -f scripts/.last-update ]]; then
   # Get all maps that changed since last uploaded commit.
@@ -17,6 +17,10 @@ else
   exit
 fi
 
-# TODO - Loop all maps and upload to ES.
-echo ${#maps[@]}
-# echo $(git rev-parse HEAD) > scripts/.last-update
+# Loop all maps and upload to ES.
+for map in ${maps[@]}; do
+  node scripts/updateSingle.js $map
+done
+
+# Write hash of last commit
+echo $(git rev-parse HEAD) > scripts/.last-update
