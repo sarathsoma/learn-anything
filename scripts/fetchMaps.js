@@ -2,8 +2,9 @@ const path = require('path');
 const fs = require('fs-extra');
 const axios = require('axios');
 const PromisePool = require('es6-promise-pool');
-const triggers = require(`${__dirname}/triggers.json`);
+const triggers = require(`${__dirname}/utils/triggers.json`);
 
+const maxConcurrentConnections = 6;
 
 // Equivalent to mkdir -p dirname.
 async function mkdirs(dirname) {
@@ -63,7 +64,7 @@ async function fetchMaps() {
     }
 
     return null;
-  }, 10);
+  }, maxConcurrentConnections);
 
   await pool.start();
   const duration = (new Date() - startTime) / 1000;
@@ -76,5 +77,5 @@ fetchMaps()
   .catch((err) => {
     console.error(err.message);
     console.error(err);
-    process.exit();
+    process.exit(1);
   });

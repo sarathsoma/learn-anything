@@ -1,61 +1,20 @@
 #!/usr/bin/env node
 const path = require('path');
 const fs = require('fs');
-const walkSync = require('fs-walk').walkSync;
+const { emojiToCategory, matchEmojis } = require(`${__dirname}/utils/emojis`);
+const { getText, getURL } = require(`${__dirname}/utils/regex`);
+const { walkDir, mkdirs } = require(`${__dirname}/utils/dir`);
 
-const { emojiToCategory, matchEmojis } = require('./emojis');
-const { getText, getURL } = require('./regex');
+const input = path.resolve(__dirname, '../maps');
+const output = path.resolve(__dirname, '..');;
 
 
-// These two arguments must be directories.
-const input = process.argv[2];
-const output = process.argv[3];
-
-// Using for converting URLs with IDs to full URLs.
+// Used for converting URLs with IDs to full URLs.
 const mapsLookup = {};
 
-// Used for getting the last inserted ID on elasticsearch.
+// Used for getting the last ID that was added to elasticsearch.
 let lastID = 0;
-
-if (input === undefined || output === undefined) {
-  // eslint-disable-next-line no-console
-  console.log('No files were parsed due to insufficient arguments \nPlease run the parser with the following command: npm run parse "path/to/mindmap/json/folder" "path/to/output/folder"');
-  process.exit();
-}
-
-/*
- * Equivalent to mkdir -p dirname.
- */
-const mkdirs = (dirname) => {
-  const parentDir = path.dirname(dirname);
-
-  if (!fs.existsSync(parentDir)) {
-    mkdirs(parentDir);
-  }
-
-  fs.mkdirSync(dirname);
-};
-
-/*
- * Recursively walk a directory and call a function on all its files.
- * Imported file and absolute path are the parameters passed to the callback function.
- */
-const walkDir = (dirname, fn) => {
-  walkSync(dirname, (basedir, filename, stat) => {
-    const absPath = path.resolve('./', basedir, filename);
-
-    if (stat.isDirectory()) {
-      return walkDir(absPath, fn);
-    }
-
-    if (filename.endsWith('.json') && typeof fn === 'function') {
-      // eslint-disable-next-line import/no-dynamic-require, global-require
-      fn(require(absPath), absPath);
-    }
-
-    return null;
-  });
-};
+let lastMap;
 
 /*
  * Take a node from MindNode format and return it in the following format:
@@ -67,6 +26,7 @@ const walkDir = (dirname, fn) => {
  *    fx: number,
  *    fy: number,
  *    category: string,
+ *    nodes: array[node],
  *  }
  */
 const parseNode = (node) => {
@@ -76,13 +36,13 @@ const parseNode = (node) => {
     url: getURL(node.title.text),
     fx: node.location.x,
     fy: node.location.y,
-    // eslint-disable-next-line no-use-before-define
     nodes: parseSubnodes(node.nodes),
   };
 
-  // If URL is an internal URL that uses the map ID, switch it to
-  // the full URL with the path.
+  // If the URL is an internal URL that uses the map ID,
+  // convert it to the full URL that contains the path to the map.
   const matchInternalURL = parsedNode.url.match(/\/id\/(\S{40})/);
+
   if (matchInternalURL) {
     parsedNode.url = mapsLookup[matchInternalURL[1]];
   }
@@ -152,65 +112,65 @@ const parseConn = (conn, lookup) => {
   return parsedConn;
 };
 
-walkDir(`${__dirname}/../..`, (map, filename) => {
-  if (map.id > lastID) {
-    lastID = map.id;
+
+for (let map of walkDir(output)) {
+  if (map.data.id > lastID) {
+    lastID = map.data.id;
+    lastMap = map.data.title;
   }
-});
+}
 
-console.log(lastID);
+console.log(`last inserted map: ${lastMap} [${lastID}]`);
 
-walkDir(input, (map, filename) => {
-  const inputBasePath = `${path.resolve('./', input)}`;
-  let relativeFilePath = filename.replace(inputBasePath, '').replace('.json', '');
+for (let map of walkDir(input)) {
+  let relativeFilePath = map.path.replace(input, '').replace('.json', '');
 
   if (relativeFilePath !== '/learn-anything') {
     relativeFilePath = relativeFilePath.replace('/learn-anything', '');
   }
 
-  mapsLookup[map.token] = relativeFilePath;
-});
+  mapsLookup[map.data.token] = relativeFilePath;
+}
 
-walkDir(input, (map, filename) => {
+for (let map of walkDir(input)) {
   const nodesLookup = {};
-  const splitTitle = map.title.split('-');
-  let trigger = map.trigger;
+  const splitTitle = map.data.title.split('-');
+  let trigger = map.data.trigger;
 
   if (splitTitle[splitTitle.length - 1].trim(' ') === trigger) {
     trigger = '';
   }
 
   const parsedMap = {
-    title: map.title,
+    title: map.data.title,
     tag: trigger,
-    description: map.description,
+    description: map.data.description,
   };
 
   // Parse all nodes and populate the lookup table, which will be used for
   // converting IDs to node title on connections.
-  parsedMap.nodes = map.nodes.map((node) => {
+  parsedMap.nodes = map.data.nodes.map((node) => {
     const parsedNode = parseNode(node);
     nodesLookup[node.id] = parsedNode.text;
     return parsedNode;
   });
 
-  parsedMap.connections = map.connections.map(conn => parseConn(conn, nodesLookup));
+  parsedMap.connections = map.data.connections.map(conn => parseConn(conn, nodesLookup));
 
   // Find out the path for the output file.
-  const inputBasePath = path.resolve('./', input);
-  const outputFile = path.join(output, filename.replace(inputBasePath, ''));
+  const outputFile = path.join(output, map.path.replace(input, ''));
   const outputPath = path.dirname(outputFile);
 
-
-  if (fs.existsSync(outputFile)) {
-    const prevMap = require(`${__dirname}/../../${outputFile}`);
-
+  try {
+    const prevMap = require(outputFile);
     if (typeof prevMap.id === 'number') {
       parsedMap.id = prevMap.id;
     } else {
       lastID += 1;
       parsedMap.id = lastID;
     }
+  } catch (err) {
+    console.error(err);
   }
 
   // Create folder if it doesn't exist.
@@ -220,4 +180,4 @@ walkDir(input, (map, filename) => {
 
   // Write parsed map to new location.
   fs.writeFileSync(outputFile, JSON.stringify(parsedMap, null, 2));
-});
+}

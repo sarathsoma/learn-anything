@@ -1,7 +1,12 @@
+/*
+ * This script creates an elasticsearch index called "maps",
+ * and uploads all maps to it. If the index is already present,
+ * it will be deleted along with its content first.
+ */
 const AWS = require('aws-sdk');
 const AWS_ES = require('http-aws-es');
 const elasticsearch = require('elasticsearch');
-const walkDir = require(`${__dirname}/walkDir`);
+const { walkDir } = require(`${__dirname}/utils/dir`);
 const fs = require('fs-extra');
 
 let client = elasticsearch.Client({

@@ -1,8 +1,10 @@
-const { resolve } = require('path');
+const path = require('path');
 const fs = require('fs-extra');
 
+
+// Files and directories to avoid on walkDir.
 const ignoredFiles = ['package.json', 'package-lock.json'];
-const ignoredDirs = ['node_modules', 'media', 'scripts'];
+const ignoredDirs = ['node_modules', 'media', 'scripts', 'maps'];
 
 /*
  * Generator that recursively walks into a specified directory.
@@ -11,7 +13,7 @@ const ignoredDirs = ['node_modules', 'media', 'scripts'];
 function *walkDir(dirname) {
   // Read all files in specified directory and loop through them.
   for (let file of fs.readdirSync(dirname)) {
-    const absPath = resolve('./', dirname, file);
+    const absPath = path.resolve('./', dirname, file);
     const stat = fs.statSync(absPath);
 
     if (stat.isDirectory()) {
@@ -30,4 +32,21 @@ function *walkDir(dirname) {
   }
 };
 
-module.exports = walkDir;
+/*
+ * Equivalent to mkdir -p dirname.
+ */
+function mkdirs(dirname) {
+  const parentDir = path.dirname(dirname);
+
+  if (!fs.existsSync(parentDir)) {
+    mkdirs(parentDir);
+  }
+
+  fs.mkdirSync(dirname);
+}
+
+
+module.exports = {
+  walkDir,
+  mkdirs,
+};
