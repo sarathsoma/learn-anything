@@ -1,6 +1,6 @@
 {
   "title": "learn anything - economics - trading",
-  "tag": "",
+  "tag": "quantitative trading",
   "nodes": [
     {
       "text": "trading",
@@ -69,5 +69,6 @@
         "y": 66.2144
       }
     }
-  ]
+  ],
+  "id": 506
 }

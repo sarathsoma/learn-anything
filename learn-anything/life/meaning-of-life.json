@@ -6,7 +6,7 @@
       "text": "meaning of life",
       "url": "http://www.wikiwand.com/en/Meaning_of_life",
       "fx": 165.972719598989,
-      "fy": -205.67011580339943,
+      "fy": -229.49919939235645,
       "nodes": [],
       "category": "wiki"
     },
@@ -19,47 +19,56 @@
         {
           "text": "1. optimistic nihilism",
           "url": "https://www.youtube.com/watch?v=MBRqu0YOH14",
-          "fx": 359.93521968183927,
-          "fy": -102.7511055795606,
+          "fx": 366.93521968183927,
+          "fy": -129.7511055795606,
           "nodes": [],
           "category": "video",
-          "color": "rgba(209, 21, 88, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
+        },
+        {
+          "text": "1. re: optimistic nihilism  ️",
+          "url": "http://tinyclouds.org/optimistic_nihilism/",
+          "fx": 366.93521968183927,
+          "fy": -87.7511055795606,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(169, 255, 0, 1.0)"
         },
         {
           "text": "1. Alan Watts - the secret of life",
           "url": "https://www.youtube.com/watch?v=iZ8so-ld-l0",
-          "fx": 359.93521968183927,
-          "fy": -62.7511055795606,
+          "fx": 366.93521968183927,
+          "fy": -45.7511055795606,
           "nodes": [],
           "category": "video",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "1. Alan Watts - is there a purpose to living?",
           "url": "https://www.youtube.com/watch?v=21RwqnB8GrE",
-          "fx": 359.93521968183927,
-          "fy": -22.7511055795606,
+          "fx": 366.93521968183927,
+          "fy": -3.751105579560601,
           "nodes": [],
           "category": "video",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         },
         {
           "text": "1. it’s just a ride",
           "url": "https://www.youtube.com/watch?v=KgzQuE1pR1w",
-          "fx": 359.93521968183927,
-          "fy": 39.2488944204394,
+          "fx": 366.93521968183927,
+          "fy": 63.2488944204394,
           "nodes": [],
           "category": "video",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(252, 177, 20, 1.0)"
         },
         {
           "text": "1. Alan Watts - does life have a meaning?",
           "url": "https://www.youtube.com/watch?v=l5vbmY0YwTs",
-          "fx": 359.93521968183927,
-          "fy": 79.2488944204394,
+          "fx": 366.93521968183927,
+          "fy": 105.2488944204394,
           "nodes": [],
           "category": "video",
-          "color": "rgba(34, 205, 224, 1.0)"
+          "color": "rgba(255, 254, 60, 1.0)"
         }
       ]
     },
@@ -86,7 +95,7 @@
       "target": "basics",
       "curve": {
         "x": -6.51875,
-        "y": 95.4595
+        "y": 107.374
       }
     },
     {
@@ -105,5 +114,6 @@
         "y": 80.0327
       }
     }
-  ]
+  ],
+  "id": 689
 }
