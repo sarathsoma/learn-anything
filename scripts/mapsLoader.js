@@ -1,7 +1,7 @@
 const { writeFile } = require('fs');
 const sm = require('sitemap');
 const AWS = require('aws-sdk');
-const walkDir = require(`${__dirname}/walkDirOld`);
+const walkDir = require(`${__dirname}/utils/walkDirOld`);
 
 // Removes all attributes with empty strings from an object.
 const clean = (obj) => {
