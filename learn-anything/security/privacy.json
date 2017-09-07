@@ -74,7 +74,7 @@
           "text": "1. corporate surveillance in everyday life  ️",
           "url": "http://crackedlabs.org/en/corporate-surveillance",
           "fx": 150.5492841771445,
-          "fy": -755.9298928493816,
+          "fy": -789.4298928493816,
           "nodes": [],
           "category": "article",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -83,7 +83,7 @@
           "text": "1. are you anonymous?",
           "url": "http://www.nothingprivate.ml/",
           "fx": 150.5492841771445,
-          "fy": -688.9298928493816,
+          "fy": -722.4298928493816,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
@@ -91,7 +91,7 @@
           "text": "1. click click click",
           "url": "https://clickclickclick.click/#5f76447702ed27638dc3f3d08a66b72c",
           "fx": 150.5492841771445,
-          "fy": -651.9298928493816,
+          "fy": -685.4298928493816,
           "nodes": [],
           "color": "rgba(0, 224, 161, 1.0)"
         },
@@ -99,7 +99,7 @@
           "text": "1. they’re watching you",
           "url": "https://www.youtube.com/watch?v=tabVaoeNtdk",
           "fx": 150.5492841771445,
-          "fy": -614.9298928493816,
+          "fy": -648.4298928493816,
           "nodes": [],
           "category": "video",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -108,13 +108,13 @@
           "text": "1. build a better monster: morality, machine learning and mass surveillance",
           "url": "https://www.infoq.com/presentations/morality-ml-mass-surveillance?utm_content=buffer2a36b&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer",
           "fx": 150.5492841771445,
-          "fy": -572.9298928493816,
+          "fy": -606.4298928493816,
           "nodes": [
             {
               "text": "transcript  ️",
               "url": "http://idlewords.com/talks/build_a_better_monster.htm",
               "fx": 502.5492841771445,
-              "fy": -547.9298928493816,
+              "fy": -581.4298928493816,
               "nodes": [],
               "category": "article",
               "color": "rgba(252, 177, 20, 1.0)"
@@ -127,7 +127,7 @@
           "text": "1. surveillance is “out of sight, out of mind”",
           "url": "https://www.reddit.com/r/privacy/comments/6susiw/70_of_windows_10_users_are_totally_happy_with_our/dlfou2b/",
           "fx": 150.5492841771445,
-          "fy": -480.92989284938164,
+          "fy": -514.4298928493816,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -136,7 +136,7 @@
           "text": "2. security best practices  ️",
           "url": "https://spideroak.com/infosec",
           "fx": 150.5492841771445,
-          "fy": -413.92989284938164,
+          "fy": -447.42989284938164,
           "nodes": [],
           "category": "article",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -145,7 +145,7 @@
           "text": "2. privacy tools",
           "url": "https://privacytoolsio.github.io/privacytools.io/",
           "fx": 150.5492841771445,
-          "fy": -371.92989284938164,
+          "fy": -405.42989284938164,
           "nodes": [],
           "color": "rgba(104, 255, 109, 1.0)"
         },
@@ -153,13 +153,13 @@
           "text": "2. ad blockers",
           "url": "",
           "fx": 150.5492841771445,
-          "fy": -297.92989284938164,
+          "fy": -331.42989284938164,
           "nodes": [
             {
               "text": "adguard",
               "url": "https://adguard.com/en/welcome.html",
               "fx": 351.5492841771445,
-              "fy": -334.92989284938164,
+              "fy": -368.42989284938164,
               "nodes": [],
               "color": "rgba(0, 224, 161, 1.0)"
             },
@@ -167,7 +167,7 @@
               "text": "pi-hole",
               "url": "https://pi-hole.net/",
               "fx": 351.5492841771445,
-              "fy": -297.92989284938164,
+              "fy": -331.42989284938164,
               "nodes": [],
               "color": "rgba(0, 224, 161, 1.0)"
             },
@@ -175,7 +175,7 @@
               "text": "ghostery",
               "url": "https://www.ghostery.com",
               "fx": 351.5492841771445,
-              "fy": -260.92989284938164,
+              "fy": -294.42989284938164,
               "nodes": [],
               "color": "rgba(0, 224, 161, 1.0)"
             }
@@ -186,10 +186,19 @@
           "text": "2. list of privacy tips",
           "url": "https://www.reddit.com/r/privacy/comments/6ivt3g/a_comprehensive_list_of_privacy_tips/",
           "fx": 150.5492841771445,
-          "fy": -223.92989284938164,
+          "fy": -257.42989284938164,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "2. steps to take to secure privacy",
+          "url": "https://www.reddit.com/r/privacy/comments/5ul2j5/what_do_you_douse_to_protect_your_privacy/ddvcjxd/",
+          "fx": 150.5492841771445,
+          "fy": -215.42989284938164,
+          "nodes": [],
+          "category": "reddit",
+          "color": "rgba(255, 254, 60, 1.0)"
         }
       ]
     },

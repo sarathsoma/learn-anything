@@ -5,17 +5,17 @@
     {
       "text": "cryptocurrency",
       "url": "http://www.wikiwand.com/en/Cryptocurrency",
-      "fx": -135.98366043179294,
-      "fy": -484.81565654390937,
+      "fx": 0.19042075591505636,
+      "fy": -591.2779047789593,
       "nodes": [
         {
           "text": "awesome",
           "url": "https://github.com/kasketis/awesome-cryptocurrencies",
-          "fx": 126.01633956820706,
-          "fy": -470.81565654390937,
+          "fx": 278.19042075591506,
+          "fy": -577.2779047789593,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ],
       "category": "wiki"
@@ -23,42 +23,59 @@
     {
       "text": "help",
       "url": "",
-      "fx": 13.500351872288093,
-      "fy": -368.4657438884108,
+      "fx": 173.52766966713853,
+      "fy": -454.1020992663177,
       "nodes": [
         {
           "text": "overview of top cryptocurrencies in the market",
           "url": "https://github.com/kilimchoi/cryptocurrency",
-          "fx": 150.5003518722881,
-          "fy": -384.9657438884108,
+          "fx": 314.5276696671385,
+          "fy": -485.1020992663176,
           "nodes": [],
           "category": "github",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "cryptominded",
           "url": "https://cryptominded.com/",
-          "fx": 150.5003518722881,
-          "fy": -322.9657438884108,
+          "fx": 314.5276696671385,
+          "fy": -393.1020992663177,
           "nodes": [],
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
     },
     {
       "text": "articles",
       "url": "",
-      "fx": 136.07432432432415,
-      "fy": -240.2496229488401,
+      "fx": 315.3538742620324,
+      "fy": -305.0154426124614,
       "nodes": [
         {
           "text": "17: cryptocurrency’s Netscape moment  ️",
           "url": "http://blog.eladgil.com/2017/07/cryptocurrencys-netscape-moment.html",
-          "fx": 298.07432432432415,
-          "fy": -239.7496229488401,
+          "fx": 484.3538742620324,
+          "fy": -305.0154426124614,
           "nodes": [],
           "category": "article",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
+        }
+      ]
+    },
+    {
+      "text": "interesting",
+      "url": "",
+      "fx": 483.46137517508055,
+      "fy": -178.9008243559024,
+      "nodes": [
+        {
+          "text": "17: introduction to cryptocurrencies in haskell",
+          "url": "https://www.youtube.com/watch?v=wjyiOXRuUdo",
+          "fx": 682.4613751750805,
+          "fy": -178.9008243559024,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(104, 255, 109, 1.0)"
         }
       ]
     },
@@ -66,60 +83,60 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -141.252497242309,
-      "fy": -59.980789830850654,
+      "fx": -140.08970654463462,
+      "fy": -131.16084070294391,
       "nodes": [
         {
           "text": "1 how bitcoin and other cryptocurrencies work",
           "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4&amp;t=540s",
-          "fx": 40.747502757690995,
-          "fy": -121.48078983085065,
+          "fx": 48.91029345536538,
+          "fy": -198.16084070294391,
           "nodes": [],
           "category": "video",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "color": "rgba(104, 255, 109, 1.0)"
         },
         {
           "text": "1. bitcoin and cryptocurrency technologies",
           "url": "https://www.coursera.org/learn/cryptocurrency",
-          "fx": 40.747502757690995,
-          "fy": -59.480789830850654,
+          "fx": 48.91029345536538,
+          "fy": -131.16084070294391,
           "nodes": [],
           "category": "course",
-          "color": "rgba(175, 54, 242, 1.0)"
+          "color": "rgba(0, 224, 161, 1.0)"
         },
         {
           "text": "1. starter’s guide to cryptocurrencies  ️",
           "url": "https://cryptominded.com/starters-guide-cryptocurrencies/",
-          "fx": 40.747502757690995,
-          "fy": 2.5192101691493463,
+          "fx": 48.91029345536538,
+          "fy": -64.16084070294391,
           "nodes": [],
           "category": "article",
-          "color": "rgba(255, 189, 10, 1.0)"
+          "color": "rgba(83, 201, 255, 1.0)"
         }
       ]
     },
     {
       "text": "initial coin offering  ️",
       "url": "/cryptocurrency/initial-coin-offering",
-      "fx": -608.7028301886793,
-      "fy": 66.88168238993717,
+      "fx": -624.9514694213867,
+      "fy": 66.88068389892578,
       "nodes": [],
       "category": "mindmap"
     },
     {
-      "text": "currencies",
-      "url": "",
-      "fx": -100.08122822299651,
-      "fy": 70.96515679442507,
-      "nodes": []
-    },
-    {
       "text": "proof-of-work system",
       "url": "http://www.wikiwand.com/en/Proof-of-work_system",
-      "fx": -371.6130599975586,
-      "fy": 68.71059036254883,
+      "fx": -372.8064498901367,
+      "fy": 68.7095832824707,
       "nodes": [],
       "category": "wiki"
+    },
+    {
+      "text": "currencies",
+      "url": "",
+      "fx": -82.66338324546814,
+      "fy": 71.56587982177734,
+      "nodes": []
     },
     {
       "text": "monero",
@@ -151,72 +168,80 @@
       "source": "cryptocurrency",
       "target": "basics",
       "curve": {
-        "x": -15.6344,
-        "y": 212.417
+        "x": -83.14,
+        "y": 230.058
       }
     },
     {
       "source": "help",
       "target": "cryptocurrency",
       "curve": {
-        "x": -43.4921,
-        "y": -56.9249
+        "x": -55.4187,
+        "y": -67.3378
       }
     },
     {
       "source": "basics",
       "target": "currencies",
       "curve": {
-        "x": 22.8356,
-        "y": 65.473
+        "x": 30.9631,
+        "y": 101.363
       }
     },
     {
       "source": "currencies",
       "target": "bitcoin  ️",
       "curve": {
-        "x": -42.1819,
-        "y": 60.6613
+        "x": -50.8908,
+        "y": 60.3609
       }
     },
     {
       "source": "currencies",
       "target": "monero",
       "curve": {
-        "x": 98.8456,
-        "y": 20.0572
+        "x": 90.1367,
+        "y": 19.7568
       }
     },
     {
       "source": "currencies",
       "target": "dash",
       "curve": {
-        "x": 48.3368,
-        "y": 62.0792
+        "x": 39.6279,
+        "y": 61.7788
       }
     },
     {
       "source": "basics",
       "target": "proof-of-work system",
       "curve": {
-        "x": -80.1798,
-        "y": 65.5957
+        "x": -81.3579,
+        "y": 101.185
       }
     },
     {
       "source": "basics",
       "target": "initial coin offering  ️",
       "curve": {
-        "x": -258.001,
-        "y": 35.2374
+        "x": -266.707,
+        "y": 70.8269
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -93.0727,
-        "y": -64.1081
+        "x": -102.699,
+        "y": -74.5434
+      }
+    },
+    {
+      "source": "interesting",
+      "target": "articles",
+      "curve": {
+        "x": -113.07,
+        "y": -63.0573
       }
     }
   ],

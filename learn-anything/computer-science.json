@@ -5,14 +5,14 @@
     {
       "text": "computer science",
       "url": "http://www.wikiwand.com/en/Computer_science",
-      "fx": 610.5205331566151,
-      "fy": -1120.0399433379514,
+      "fx": 733.7913709696775,
+      "fy": -1136.8008841869885,
       "nodes": [
         {
           "text": "️",
           "url": "https://cs.stackexchange.com/",
-          "fx": 899.5205331566151,
-          "fy": -1166.0399433379514,
+          "fx": 1022.7913709696775,
+          "fy": -1182.8008841869885,
           "nodes": [],
           "category": "stack exchange",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -20,8 +20,8 @@
         {
           "text": "",
           "url": "https://www.reddit.com/r/compsci/",
-          "fx": 899.5205331566151,
-          "fy": -1126.0399433379514,
+          "fx": 1022.7913709696775,
+          "fy": -1142.8008841869885,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -29,8 +29,8 @@
         {
           "text": "ask cs",
           "url": "https://www.reddit.com/r/AskComputerScience/",
-          "fx": 899.5205331566151,
-          "fy": -1086.0399433379514,
+          "fx": 1022.7913709696775,
+          "fy": -1102.8008841869885,
           "nodes": [],
           "category": "reddit",
           "color": "rgba(34, 205, 224, 1.0)"
@@ -38,8 +38,8 @@
         {
           "text": "awesome",
           "url": "https://github.com/open-source-society/computer-science",
-          "fx": 899.5205331566151,
-          "fy": -1046.0399433379514,
+          "fx": 1022.7913709696775,
+          "fy": -1062.8008841869885,
           "nodes": [],
           "category": "github",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -50,38 +50,38 @@
     {
       "text": "help",
       "url": "",
-      "fx": 831.7559051513672,
-      "fy": -881.245361328125,
+      "fx": 941.5723114013672,
+      "fy": -947.139892578125,
       "nodes": [
         {
           "text": "cs student resources",
           "url": "http://www.computersciencestudent.com/",
-          "fx": 968.7559051513672,
-          "fy": -931.745361328125,
+          "fx": 1078.5723114013672,
+          "fy": -997.639892578125,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
           "text": "cs concept map",
           "url": "https://fkcd.ca/b7d.svg",
-          "fx": 968.7559051513672,
-          "fy": -897.745361328125,
+          "fx": 1078.5723114013672,
+          "fy": -963.639892578125,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
           "text": "notes to cs freshmen from the future",
           "url": "https://github.com/nushackers/notes-to-cs-freshmen-from-the-future",
-          "fx": 968.7559051513672,
-          "fy": -863.745361328125,
+          "fx": 1078.5723114013672,
+          "fy": -929.639892578125,
           "nodes": [],
           "color": "rgba(209, 21, 88, 1.0)"
         },
         {
           "text": "papers we love",
           "url": "https://github.com/papers-we-love/papers-we-love",
-          "fx": 968.7559051513672,
-          "fy": -807.745361328125,
+          "fx": 1078.5723114013672,
+          "fy": -873.639892578125,
           "nodes": [],
           "category": "github",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -91,14 +91,14 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 919.0687844047186,
-      "fy": -696.247783156851,
+      "fx": 1052.5062844047186,
+      "fy": -774.868876906851,
       "nodes": [
         {
           "text": "what every cs major should know  ️",
           "url": "http://matt.might.net/articles/what-cs-majors-should-know/",
-          "fx": 1081.0687844047186,
-          "fy": -726.747783156851,
+          "fx": 1214.5062844047186,
+          "fy": -805.368876906851,
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -106,8 +106,8 @@
         {
           "text": "17: teach yourself computer science  ️",
           "url": "https://teachyourselfcs.com/",
-          "fx": 1081.0687844047186,
-          "fy": -664.747783156851,
+          "fx": 1214.5062844047186,
+          "fy": -743.368876906851,
           "nodes": [],
           "category": "article",
           "color": "rgba(36, 170, 255, 1.0)"
@@ -118,15 +118,24 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": 679.7246768793616,
-      "fy": -475.0472540266063,
+      "fx": 743.7324893793616,
+      "fy": -491.9691290266063,
       "nodes": [
+        {
+          "text": "1. map of computer science",
+          "url": "https://www.youtube.com/watch?v=SzJ46YA_RaA",
+          "fx": 925.7324893793616,
+          "fy": -630.4691290266063,
+          "nodes": [],
+          "category": "video",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
         {
           "text": "1. code: hidden language",
           "note": "goes over what a computer actually is and what it is made of, starting from the beginning",
           "url": "https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf",
-          "fx": 861.7246768793616,
-          "fy": -593.5472540266063,
+          "fx": 925.7324893793616,
+          "fy": -590.4691290266063,
           "nodes": [],
           "category": "free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -135,8 +144,8 @@
           "text": "1. CS50 from Harvard",
           "note": "first 6 lectures are done in C, the rest are in python",
           "url": "https://cs50.harvard.edu/weeks",
-          "fx": 861.7246768793616,
-          "fy": -553.5472540266063,
+          "fx": 925.7324893793616,
+          "fy": -550.4691290266063,
           "nodes": [],
           "category": "course",
           "color": "rgba(209, 21, 88, 1.0)"
@@ -144,14 +153,14 @@
         {
           "text": "2. structure and interpretation of computer programs",
           "url": "http://sarabander.github.io/sicp/html/index.xhtml",
-          "fx": 861.7246768793616,
-          "fy": -513.5472540266063,
+          "fx": 925.7324893793616,
+          "fy": -510.4691290266063,
           "nodes": [
             {
               "text": "SICP guide",
               "url": "https://github.com/zv/SICP-guile",
-              "fx": 1198.7246768793616,
-              "fy": -502.5472540266063,
+              "fx": 1262.7324893793616,
+              "fy": -499.4691290266063,
               "nodes": [],
               "category": "github",
               "color": "rgba(36, 170, 255, 1.0)"
@@ -163,8 +172,8 @@
         {
           "text": "2. crash course computer science",
           "url": "https://www.youtube.com/watch?v=tpIctyqH29Q&amp;list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
-          "fx": 861.7246768793616,
-          "fy": -451.5472540266063,
+          "fx": 925.7324893793616,
+          "fy": -448.4691290266063,
           "nodes": [],
           "category": "video",
           "color": "rgba(49, 187, 71, 1.0)"
@@ -173,8 +182,8 @@
           "text": "3. build a computer from first principles",
           "note": "will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer",
           "url": "https://www.coursera.org/learn/build-a-computer",
-          "fx": 861.7246768793616,
-          "fy": -411.5472540266063,
+          "fx": 925.7324893793616,
+          "fy": -408.4691290266063,
           "nodes": [],
           "category": "course",
           "color": "rgba(255, 189, 10, 1.0)"
@@ -183,8 +192,8 @@
           "text": "3. mathematics for computer science",
           "note": "goes over the mathematical foundation that you need to do research in this field",
           "url": "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
-          "fx": 861.7246768793616,
-          "fy": -349.5472540266063,
+          "fx": 925.7324893793616,
+          "fy": -346.4691290266063,
           "nodes": [],
           "color": "rgba(34, 205, 224, 1.0)"
         }
@@ -281,104 +290,104 @@
       "source": "computer science",
       "target": "basics",
       "curve": {
-        "x": 1.35202,
-        "y": 321.247
+        "x": -28.2795,
+        "y": 321.167
       }
     },
     {
       "source": "help",
       "target": "computer science",
       "curve": {
-        "x": -72.6177,
-        "y": -118.147
+        "x": -65.8905,
+        "y": -93.5802
       }
     },
     {
       "source": "basics",
       "target": "algorithms  ️",
       "curve": {
-        "x": -253.207,
-        "y": 119.617
+        "x": -285.211,
+        "y": 128.078
       }
     },
     {
       "source": "articles",
       "target": "help",
       "curve": {
-        "x": -77.969,
-        "y": -85.2019
+        "x": -89.7795,
+        "y": -78.8386
       }
     },
     {
       "source": "basics",
       "target": "programming language theory  ️",
       "curve": {
-        "x": 74.4554,
-        "y": 143.736
+        "x": 42.4515,
+        "y": 152.197
       }
     },
     {
       "source": "basics",
       "target": "data structures  ️",
       "curve": {
-        "x": -423.75,
-        "y": 112.821
+        "x": -455.754,
+        "y": 121.282
       }
     },
     {
       "source": "basics",
       "target": "compilers  ️",
       "curve": {
-        "x": -149.973,
-        "y": 118.516
+        "x": -181.977,
+        "y": 126.977
       }
     },
     {
       "source": "basics",
       "target": "virtual machines  ️",
       "curve": {
-        "x": -574.118,
-        "y": 118.059
+        "x": -606.122,
+        "y": 126.52
       }
     },
     {
       "source": "basics",
       "target": "computation  ️",
       "curve": {
-        "x": -48.3372,
-        "y": 120.493
+        "x": -80.3411,
+        "y": 128.954
       }
     },
     {
       "source": "basics",
       "target": "concurrency  ️",
       "curve": {
-        "x": -756.058,
-        "y": 91.2716
+        "x": -788.062,
+        "y": 99.7325
       }
     },
     {
       "source": "basics",
       "target": "recursion  ️",
       "curve": {
-        "x": -969.31,
-        "y": 53.2795
+        "x": -1001.31,
+        "y": 61.7404
       }
     },
     {
       "source": "basics",
       "target": "program analysis  ️",
       "curve": {
-        "x": -1104.71,
-        "y": 47.5073
+        "x": -1136.71,
+        "y": 55.9682
       }
     },
     {
       "source": "basics",
       "target": "automata theory  ️",
       "curve": {
-        "x": -1179.14,
-        "y": -35.4875
+        "x": -1211.14,
+        "y": -27.0266
       }
     }
   ],

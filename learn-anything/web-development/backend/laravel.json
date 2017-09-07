@@ -79,19 +79,10 @@
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
-          "text": "1. laravel 5.4 from scratch",
-          "url": "https://laracasts.com/series/laravel-from-scratch-2017",
-          "fx": 148.12872795643148,
-          "fy": 37.4356684387966,
-          "nodes": [],
-          "category": "course",
-          "color": "rgba(175, 54, 242, 1.0)"
-        },
-        {
           "text": "1. laravel 5 fundamentals",
           "url": "https://laracasts.com/series/laravel-5-fundamentals",
           "fx": 148.12872795643148,
-          "fy": 71.4356684387966,
+          "fy": 37.4356684387966,
           "nodes": [],
           "category": "course",
           "color": "rgba(175, 54, 242, 1.0)"

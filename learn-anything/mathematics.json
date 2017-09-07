@@ -482,14 +482,14 @@
     {
       "text": "articles",
       "url": "",
-      "fx": 1612.8286743164062,
-      "fy": -233.26678466796875,
+      "fx": 1611.966605350889,
+      "fy": -210.46910147831363,
       "nodes": [
         {
           "text": "there’s more to mathematics than rigour and proofs  ️",
           "url": "https://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/",
-          "fx": 1781.8286743164062,
-          "fy": -434.26678466796875,
+          "fx": 1780.966605350889,
+          "fy": -411.46910147831363,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -497,8 +497,8 @@
         {
           "text": "does one have to be a genius to do maths?  ️",
           "url": "https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/",
-          "fx": 1781.8286743164062,
-          "fy": -367.26678466796875,
+          "fx": 1780.966605350889,
+          "fy": -344.46910147831363,
           "nodes": [],
           "category": "article",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -506,8 +506,8 @@
         {
           "text": "16: toward an exploratory medium for mathematics  ️",
           "url": "http://cognitivemedium.com/emm/emm.html",
-          "fx": 1781.8286743164062,
-          "fy": -300.26678466796875,
+          "fx": 1780.966605350889,
+          "fy": -277.46910147831363,
           "nodes": [],
           "category": "article",
           "color": "rgba(83, 201, 255, 1.0)"
@@ -515,8 +515,8 @@
         {
           "text": "how to play mathematics  ️",
           "url": "https://aeon.co/essays/theres-more-maths-in-slugs-and-corals-than-we-can-think-of",
-          "fx": 1781.8286743164062,
-          "fy": -233.26678466796875,
+          "fx": 1780.966605350889,
+          "fy": -210.46910147831363,
           "nodes": [],
           "category": "article",
           "color": "rgba(252, 177, 20, 1.0)"
@@ -524,8 +524,8 @@
         {
           "text": "the unreasonable effectiveness of mathematics in the natural sciences  ️",
           "url": "",
-          "fx": 1781.8286743164062,
-          "fy": -191.26678466796875,
+          "fx": 1780.966605350889,
+          "fy": -168.46910147831363,
           "nodes": [],
           "category": "article",
           "color": "rgba(255, 254, 60, 1.0)"
@@ -533,8 +533,8 @@
         {
           "text": "the reasonable ineffectiveness of mathematics  ️",
           "url": "https://pdfs.semanticscholar.org/462d/7b6b1ee8243b6aa8897be3cf306239fb43c6.pdf",
-          "fx": 1781.8286743164062,
-          "fy": -99.26678466796875,
+          "fx": 1780.966605350889,
+          "fy": -76.46910147831363,
           "nodes": [],
           "category": "article",
           "color": "rgba(169, 255, 0, 1.0)"
@@ -542,8 +542,8 @@
         {
           "text": "John Conway: genius behind the numbers  ️",
           "url": "https://www.52-insights.com/john-conway-genius-behind-the-numbers/",
-          "fx": 1781.8286743164062,
-          "fy": -32.26678466796875,
+          "fx": 1780.966605350889,
+          "fy": -9.469101478313632,
           "nodes": [],
           "category": "article",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -553,14 +553,14 @@
     {
       "text": "interesting",
       "url": "",
-      "fx": 1701.999251719646,
-      "fy": 136.40923345453348,
+      "fx": 1658.2962614179219,
+      "fy": 188.8682851786716,
       "nodes": [
         {
           "text": "math album",
           "url": "http://imgur.com/a/hmK2C",
-          "fx": 1900.999251719646,
-          "fy": 106.90923345453348,
+          "fx": 1857.2962614179219,
+          "fy": 138.3682851786716,
           "nodes": [],
           "category": "image",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -568,8 +568,8 @@
         {
           "text": "geometric math",
           "url": "http://imgur.com/a/7ThWP",
-          "fx": 1900.999251719646,
-          "fy": 148.90923345453348,
+          "fx": 1857.2962614179219,
+          "fy": 180.3682851786716,
           "nodes": [],
           "category": "image",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -577,11 +577,20 @@
         {
           "text": "py wonderland",
           "url": "https://github.com/neozhaoliang/pywonderland",
-          "fx": 1900.999251719646,
-          "fy": 190.90923345453348,
+          "fx": 1857.2962614179219,
+          "fy": 222.3682851786716,
           "nodes": [],
           "category": "github",
           "color": "rgba(83, 201, 255, 1.0)"
+        },
+        {
+          "text": "mesmerising graph",
+          "url": "https://www.desmos.com/calculator/8bofo9jxrf",
+          "fx": 1857.2962614179219,
+          "fy": 264.3682851786716,
+          "nodes": [],
+          "category": "interactive",
+          "color": "rgba(252, 177, 20, 1.0)"
         }
       ]
     }
@@ -799,16 +808,16 @@
       "source": "articles",
       "target": "tools",
       "curve": {
-        "x": -84.831,
-        "y": -136.954
+        "x": -84.4,
+        "y": -148.353
       }
     },
     {
       "source": "interesting",
       "target": "articles",
       "curve": {
-        "x": -68.3431,
-        "y": -181.752
+        "x": -46.9226,
+        "y": -196.583
       }
     },
     {
