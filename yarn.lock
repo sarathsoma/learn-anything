@@ -14,6 +14,12 @@ ansi-styles@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-2.2.1.tgz#b432dd3358b634cf75e1e4664368240533c1ddbe"
 
+async@*:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.5.0.tgz#843190fd6b7357a0b9e1c956edddd5ec8462b54d"
+  dependencies:
+    lodash "^4.14.0"
+
 aws-sdk@^2.100.0:
   version "2.110.0"
   resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.110.0.tgz#ef3a88b08e8100d984c307108e0617a56eb74fdb"
@@ -116,6 +122,12 @@ fs-extra@^4.0.1:
     jsonfile "^3.0.0"
     universalify "^0.1.0"
 
+fs-walk@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/fs-walk/-/fs-walk-0.0.1.tgz#f7fc91c3ae1eead07c998bc5d0dd41f2dbebd335"
+  dependencies:
+    async "*"
+
 graceful-fs@^4.1.2, graceful-fs@^4.1.6:
   version "4.1.11"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.11.tgz#0e8bdfe4d1ddb8854d64e04ea7c00e2a026e5658"
@@ -170,7 +182,7 @@ lodash@2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-2.4.2.tgz#fadd834b9683073da179b3eae6d9c0d15053f73e"
 
-lodash@^4.0.0:
+lodash@^4.0.0, lodash@^4.14.0:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
