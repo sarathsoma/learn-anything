@@ -10,7 +10,7 @@ if (input === undefined) {
   process.exit();
 }
 
-const map = require('../' + input);
+const map = require(`${__dirname}/../${input}`);
 
 let client = elasticsearch.Client({
   host: 'localhost:9200',

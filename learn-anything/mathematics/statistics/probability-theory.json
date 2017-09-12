@@ -5,38 +5,56 @@
     {
       "text": "probability theory",
       "url": "http://www.wikiwand.com/en/Probability_theory",
-      "fx": -112.50800241449315,
-      "fy": -464.9973892188564,
+      "fx": 18.319942987806826,
+      "fy": -567.4084883567871,
       "nodes": [],
       "category": "wiki"
     },
     {
       "text": "help",
       "url": "",
-      "fx": 64.96382996686862,
-      "fy": -325.16313832709153,
+      "fx": 193.03046071399376,
+      "fy": -401.46073171789607,
       "nodes": [
+        {
+          "text": "probability notes  ️",
+          "url": "http://frnsys.com/ai_notes/foundations/probability.html",
+          "fx": 330.03046071399376,
+          "fy": -493.96073171789607,
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(34, 205, 224, 1.0)"
+        },
         {
           "text": "probability theory review for machine learning",
           "url": "https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf",
-          "fx": 201.96382996686862,
-          "fy": -366.66313832709153,
+          "fx": 330.03046071399376,
+          "fy": -453.96073171789607,
           "nodes": [],
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
+          "text": "the probability and statistics cookbook",
+          "url": "https://github.com/mavam/stat-cookbook",
+          "fx": 330.03046071399376,
+          "fy": -397.96073171789607,
+          "nodes": [],
+          "category": "github",
+          "color": "rgba(209, 21, 88, 1.0)"
+        },
+        {
           "text": "probability theory overview",
           "url": "http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/Probability-Theory.pdf",
-          "fx": 201.96382996686862,
-          "fy": -310.66313832709153,
+          "fx": 330.03046071399376,
+          "fy": -335.96073171789607,
           "nodes": [],
           "color": "rgba(36, 170, 255, 1.0)"
         },
         {
           "text": "probability theory for machine learning",
           "url": "http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial1.pdf",
-          "fx": 201.96382996686862,
-          "fy": -276.66313832709153,
+          "fx": 330.03046071399376,
+          "fy": -301.96073171789607,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         }
@@ -46,32 +64,32 @@
       "text": "basics",
       "note": "",
       "url": "",
-      "fx": -67.00595254420102,
-      "fy": -121.64361241383693,
+      "fx": 2.7363247546496723,
+      "fy": -153.0642302299288,
       "nodes": [
         {
           "text": "1. Grinstead and Snell’s introduction to probability",
           "url": "https://www.math.dartmouth.edu//~prob/prob/prob.pdf",
-          "fx": 114.99404745579898,
-          "fy": -178.14361241383693,
+          "fx": 184.73632475464967,
+          "fy": -220.5642302299288,
           "nodes": [],
           "category": "free book",
           "color": "rgba(34, 205, 224, 1.0)"
         },
         {
-          "text": "1. probability notes  ️",
-          "url": "http://frnsys.com/ai_notes/foundations/probability.html",
-          "fx": 114.99404745579898,
-          "fy": -116.14361241383693,
+          "text": "1. probability theory: the logic of science",
+          "url": "http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf",
+          "fx": 184.73632475464967,
+          "fy": -158.5642302299288,
           "nodes": [],
-          "category": "article",
-          "color": "rgba(36, 170, 255, 1.0)"
+          "category": "free book",
+          "color": "rgba(209, 21, 88, 1.0)"
         },
         {
           "text": "1. probability: theory and examples",
           "url": "http://www.goodreads.com/book/show/9632300-probability",
-          "fx": 114.99404745579898,
-          "fy": -76.14361241383693,
+          "fx": 184.73632475464967,
+          "fy": -96.5642302299288,
           "nodes": [],
           "category": "non-free book",
           "color": "rgba(175, 54, 242, 1.0)"
@@ -79,8 +97,8 @@
         {
           "text": "1. review of probability theory",
           "url": "http://cs229.stanford.edu/section/cs229-prob.pdf",
-          "fx": 114.99404745579898,
-          "fy": -36.143612413836934,
+          "fx": 184.73632475464967,
+          "fy": -56.564230229928796,
           "nodes": [],
           "color": "rgba(255, 189, 10, 1.0)"
         }
@@ -173,96 +191,96 @@
       "source": "probability theory",
       "target": "basics",
       "curve": {
-        "x": -8.74899,
-        "y": 170.427
+        "x": -39.2918,
+        "y": 205.922
       }
     },
     {
       "source": "basics",
       "target": "markov chains  ️",
       "curve": {
-        "x": 84.9262,
-        "y": 102.477
+        "x": 50.0551,
+        "y": 118.187
       }
     },
     {
       "source": "basics",
       "target": "prediction market",
       "curve": {
-        "x": -183.614,
-        "y": 102.056
+        "x": -218.485,
+        "y": 117.766
       }
     },
     {
       "source": "basics",
       "target": "probability distributions  ️",
       "curve": {
-        "x": -81.2555,
-        "y": 100.414
+        "x": -116.127,
+        "y": 116.124
       }
     },
     {
       "source": "basics",
       "target": "conditional probability  ️",
       "curve": {
-        "x": -345.508,
-        "y": 77.034
+        "x": -380.379,
+        "y": 92.7443
       }
     },
     {
       "source": "basics",
       "target": "expected value  ️",
       "curve": {
-        "x": -505.071,
-        "y": 52.5798
+        "x": -539.942,
+        "y": 68.2901
       }
     },
     {
       "source": "help",
       "target": "probability theory",
       "curve": {
-        "x": -52.486,
-        "y": -68.6671
+        "x": -51.1054,
+        "y": -81.7238
       }
     },
     {
       "source": "basics",
       "target": "random variables  ️",
       "curve": {
-        "x": -667.502,
-        "y": 30.4235
+        "x": -702.373,
+        "y": 46.1338
       }
     },
     {
       "source": "basics",
       "target": "probability axioms  ️",
       "curve": {
-        "x": -925.02,
-        "y": 60.9818
+        "x": -959.891,
+        "y": 76.6921
       }
     },
     {
       "source": "basics",
       "target": "Kolmogorov extension theorem",
       "curve": {
-        "x": -1068.07,
-        "y": 53.455
+        "x": -1102.94,
+        "y": 69.1653
       }
     },
     {
       "source": "basics",
       "target": "randomness  ️",
       "curve": {
-        "x": -1331.49,
-        "y": 19.2962
+        "x": -1366.36,
+        "y": 35.0065
       }
     },
     {
       "source": "basics",
       "target": "sample space",
       "curve": {
-        "x": -1338.95,
-        "y": -16.0909
+        "x": -1373.82,
+        "y": -0.380591
       }
     }
   ],

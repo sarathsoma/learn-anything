@@ -560,7 +560,7 @@
           "text": "math album",
           "url": "http://imgur.com/a/hmK2C",
           "fx": 1857.2962614179219,
-          "fy": 138.3682851786716,
+          "fy": 159.3682851786716,
           "nodes": [],
           "category": "image",
           "color": "rgba(104, 255, 109, 1.0)"
@@ -569,7 +569,7 @@
           "text": "geometric math",
           "url": "http://imgur.com/a/7ThWP",
           "fx": 1857.2962614179219,
-          "fy": 180.3682851786716,
+          "fy": 201.3682851786716,
           "nodes": [],
           "category": "image",
           "color": "rgba(0, 224, 161, 1.0)"
@@ -578,19 +578,10 @@
           "text": "py wonderland",
           "url": "https://github.com/neozhaoliang/pywonderland",
           "fx": 1857.2962614179219,
-          "fy": 222.3682851786716,
+          "fy": 243.3682851786716,
           "nodes": [],
           "category": "github",
           "color": "rgba(83, 201, 255, 1.0)"
-        },
-        {
-          "text": "mesmerising graph",
-          "url": "https://www.desmos.com/calculator/8bofo9jxrf",
-          "fx": 1857.2962614179219,
-          "fy": 264.3682851786716,
-          "nodes": [],
-          "category": "interactive",
-          "color": "rgba(252, 177, 20, 1.0)"
         }
       ]
     }

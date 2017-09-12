@@ -1068,10 +1068,6 @@
     "id": "ELcJKvcycS3o6xNu8a6pgF88wCyq5wUkZRWvsfnu"
   },
   {
-    "tag": "everything",
-    "id": "KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i"
-  },
-  {
     "tag": "assembly programming",
     "id": "hKbd75qAYjBQtWMN4pzVcVnujGPppqWUKvFyYA2B"
   },
@@ -7732,12 +7728,44 @@
     "id": "UhX4KSXEr5hFFsviHr2sfVnXywjWSwEKGjqPLpc2"
   },
   {
-    "name": "Lissajous curve",
-    "map": "MJ8Rzwujy4N3qsvsw1Hq5tRYaJqkxsw3q1pmBdjQ"
+    "tag": "Lissajous curve",
+    "id": "MJ8Rzwujy4N3qsvsw1Hq5tRYaJqkxsw3q1pmBdjQ"
   },
   {
-    "name": "parametric equations",
-    "map": "VzzeiiqGkHppXx1RbdYpkZA2bakwQGU5Y1Pq5RnF"
+    "tag": "parenting",
+    "id": "https://my.mindnode.com/sq5sLnJk6UQCzFGxdqV2svXSmqNoYqnsvBoRBAaW"
+  },
+  {
+    "tag": "",
+    "id": ""
+  },
+  {
+    "tag": "",
+    "id": ""
+  },
+  {
+    "tag": "",
+    "id": ""
+  },
+  {
+    "tag": "",
+    "id": ""
+  },
+  {
+    "tag": "",
+    "id": ""
+  },
+  {
+    "tag": "",
+    "id": ""
+  },
+  {
+    "tag": "anesthesia",
+    "id": "https://my.mindnode.com/z41GxxcbiMJqxMjZBJ1AqqRHRG2L7XT2skQi3BQX"
+  },
+  {
+    "tag": "parametric equations",
+    "id": "VzzeiiqGkHppXx1RbdYpkZA2bakwQGU5Y1Pq5RnF"
   },
   {
     "tag": "CSS modules",

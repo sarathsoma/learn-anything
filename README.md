@@ -42,6 +42,9 @@ The [main goal of this project](https://github.com/nikitavoloboev/learn-anything
 
 <h1 align="center"> <a href="https://youtu.be/_zYjS2Uicso"> Video Introduction 👀</a></h1>
 
+<h1 align="center"> <a href="https://github.com/learn-anything/maps/wiki/White-Paper-📄"> White Paper 📄</a></h1>
+
+
 
 <h1 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h1>
 

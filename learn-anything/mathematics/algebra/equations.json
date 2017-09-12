@@ -28,9 +28,17 @@
       ]
     },
     {
+      "text": "parametric equations  ️",
+      "url": "/mathematics/algebra/equations/parametric-equations",
+      "fx": -748.9325346887487,
+      "fy": 129.44936577001738,
+      "nodes": [],
+      "category": "mindmap"
+    },
+    {
       "text": "quadratic equations",
       "url": "http://www.wikiwand.com/en/Quadratic_equation",
-      "fx": 374.2013854980469,
+      "fx": 384.6267623901367,
       "fy": 130.6501007080078,
       "nodes": [],
       "category": "wiki"
@@ -38,7 +46,7 @@
     {
       "text": "algebraic equations",
       "url": "http://www.wikiwand.com/en/Algebraic_equation",
-      "fx": -446.1809844970703,
+      "fx": -434.69487380981445,
       "fy": 130.93421936035156,
       "nodes": [],
       "category": "wiki"
@@ -46,7 +54,7 @@
     {
       "text": "simultaneous equations",
       "url": "http://www.wikiwand.com/en/Simultaneous_equations",
-      "fx": -174.0508246421814,
+      "fx": -162.60868310928345,
       "fy": 133.21691513061523,
       "nodes": [],
       "category": "wiki"
@@ -54,7 +62,7 @@
     {
       "text": "linear equations  ️",
       "url": "/mathematics/algebra/equations/linear-equations",
-      "fx": 140.0557403564453,
+      "fx": 150.49700927734375,
       "fy": 133.4662628173828,
       "nodes": [],
       "category": "mindmap"
@@ -73,7 +81,7 @@
       "source": "basics",
       "target": "algebraic equations",
       "curve": {
-        "x": -256.34,
+        "x": -250.597,
         "y": 81.5357
       }
     },
@@ -81,7 +89,7 @@
       "source": "basics",
       "target": "simultaneous equations",
       "curve": {
-        "x": -110.025,
+        "x": -104.304,
         "y": 82.677
       }
     },
@@ -89,7 +97,7 @@
       "source": "basics",
       "target": "linear equations  ️",
       "curve": {
-        "x": 27.2779,
+        "x": 32.4985,
         "y": 82.8017
       }
     },
@@ -97,8 +105,16 @@
       "source": "basics",
       "target": "quadratic equations",
       "curve": {
-        "x": 154.351,
+        "x": 159.564,
         "y": 81.3936
+      }
+    },
+    {
+      "source": "basics",
+      "target": "parametric equations  ️",
+      "curve": {
+        "x": -479.354,
+        "y": 29.3957
       }
     }
   ],
