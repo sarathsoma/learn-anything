@@ -50,6 +50,13 @@
           "nodes": [],
           "category": "article",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+         "text": "2. Promises, Syntax, Races, and All YouTube Playlist",
+          "url": "https://www.youtube.com/watch?v=SmPouEFKOBg&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw",
+          "nodes": [],
+          "category": "video tutorial playlist",
+          "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
     }
