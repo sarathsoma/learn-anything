@@ -42,6 +42,14 @@
           "nodes": [],
           "category": "github",
           "color": "rgba(0, 224, 161, 1.0)"
+        },
+        {
+          "text": "What every software engineer should know about search",
+          "url": "https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d",
+          "fx": 254.06559495549016,
+          "fy": 282.96151131408857,
+          "nodes": [],
+          "category": "article"
         }
       ]
     },
