@@ -74,12 +74,11 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
 Thank you. 💚
 
 
-<h1 align="center"><a href="https://learn-anything.github.io">Stay in touch 👋</a></h1>
+<h1 align="center"><a href="https://learn-anything.netlify.com">Stay in touch 👋</a></h1>
 
 You can follow us on [Twitter](https://twitter.com/learnanything_) where we announce any new awesome changes that were added to the Search Engine.
 
-We also have our own internal [development blog](https://learn-anything.github.io) where we write about interesting challenges we have solved on our way to make the Search Engine and curation of Mind Maps the best it can be.
-
+We also have our own internal [development blog](https://learn-anything.netlify.com) where we write about interesting challenges we have solved on our way to make the Search Engine and curation of Mind Maps the best it can be.
 
 
 <h1 align="center">Improve our Curated Lists</h1>
