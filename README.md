@@ -9,8 +9,8 @@
 	<a href="https://twitter.com/learnanything_">
 		<img src="https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square">
 	</a>
-	<a href="http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7">
-		<img src="https://img.shields.io/badge/Newsletter-🗞-blue.svg">
+	<a href="https://learn-anything.netlify.com">
+		<img src="https://img.shields.io/badge/Blog-✍🏻-blue.svg">
 	</a>
 	<a href="https://github.com/nikitavoloboev/learn-anything/blob/master/LICENSE">
 		<img src="https://img.shields.io/pypi/l/pipenv.svg">
