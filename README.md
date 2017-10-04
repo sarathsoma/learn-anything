@@ -28,34 +28,32 @@ The image above is an [interactive mind map that can be viewed and explored](htt
 
 There are **many mind maps inside** which show the **best step by step guides you can use to learn any subject in depth**. 
   
-Each node with a link has an emoji attached to show where this node leads on the internet. Nodes with 🗺 are other mind maps. 
+Each node with a link has an emoji attached to show where this node leads on the internet. Nodes with 🗺 link to other mind maps. 
 
 Just search for what you wish to learn or [simply explore](https://learn-anything.xyz/learn-anything).
+
+There is also a video introduction to the website, you can watch [here](https://youtu.be/_zYjS2Uicso).
   
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it by clicking the *'impove this map'* button in the bottom right corner of the site. 
 
-The search engine is also [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙
+The website is also [fully open source](https://github.com/learn-anything/learn-anything) and you can help improve it. 💙
 
-The [main goal of this project](https://github.com/nikitavoloboev/learn-anything/wiki/Future-of-learning) is to **expose human knowledge in a [visual and structured way to accelerate learning](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e)**. 
+The [main goal of this project](https://github.com/nikitavoloboev/learn-anything/wiki/Future-of-learning) is to **expose human knowledge in avisual and structured way to accelerate learning**. 
 
-
-<h1 align="center"> <a href="https://youtu.be/_zYjS2Uicso"> Video Introduction 👀</a></h1>
-
-<h1 align="center"> <a href="https://github.com/learn-anything/maps/wiki/White-Paper-📄"> White Paper 📄</a></h1>
-
+For more information, please read our [wiki](https://github.com/learn-anything/maps/wiki) and join our active [Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
 
 <h1 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h1>
 
-Both this project and the search engine [is in active development](https://github.com/learn-anything/search-engine). 
+Both this project and the search engine [is in active development](https://github.com/learn-anything/learn-anything). 
 
-If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to our [Search Engine](https://github.com/learn-anything/search-engine) or create a study group for any branch in the mind map and learn together.  
+If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the [development](https://github.com/learn-anything/search-engine) and adding features to the website or you can create a study group for any branch in the mind map and learn together.  
 
 <h1 align="center"><a href="https://github.com/nikitavoloboev/learn-anything/wiki/Contributing-👬">Contributing 👬</a> </a></h1>
 
-We made a [wiki](https://github.com/nikitavoloboev/learn-anything/wiki) that covers [all the different ways](https://github.com/nikitavoloboev/learn-anything/wiki) in which you can help this project evolve and become better. 
+We made a [wiki](https://github.com/learn-anything/maps/wiki) that covers [all the different ways](https://github.com/learn-anything/maps/wiki) in which you can help this project evolve and become better. 
 
-In there you can also find [why we created this search engine and what problems we are trying to solve](https://github.com/nikitavoloboev/learn-anything/wiki/Future-of-learning-🔭) as well as [our official Roadmap of challenges we have yet to solve](https://github.com/nikitavoloboev/learn-anything/wiki/Roadmap-%F0%9F%9B%A3%EF%B8%8F). 
+In there, you can also find [why we created this website and what problems we are trying to solve](https://github.com/learn-anything/maps/wiki/Future-of-learning-🔭) as well as [our official Roadmap of challenges we have yet to solve](https://github.com/learn-anything/maps/wiki/Roadmap-%F0%9F%9B%A3%EF%B8%8F). 
 
 We use [Slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) for any in-project communication and you can ask any questions you have there.
 
@@ -77,7 +75,7 @@ Thank you. 💚
 
 You can follow us on [Twitter](https://twitter.com/learnanything_) where we announce any new awesome changes that were added to the Search Engine.
 
-We also have our own internal [development blog](https://learn-anything.netlify.com) where we write about interesting challenges we have solved on our way to make the Search Engine and curation of Mind Maps the best it can be.
+We also have our own internal [development blog](http://blog.learn-anything.xyz) where we write about interesting challenges we have solved on our way to make the website and curation of Mind Maps the best it can be.
 
 
 <h1 align="center">Improve our Curated Lists</h1>
