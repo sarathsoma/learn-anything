@@ -6,7 +6,7 @@ const { getText, getURL } = require(`${__dirname}/utils/regex`);
 const { walkDir, mkdirs } = require(`${__dirname}/utils/dir`);
 
 const input = path.resolve(__dirname, '../maps');
-const output = path.resolve(__dirname, '..');;
+const output = path.resolve(__dirname, '..');
 
 
 // Used for converting URLs with IDs to full URLs.
