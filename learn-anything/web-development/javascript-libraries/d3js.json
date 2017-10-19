@@ -143,14 +143,10 @@
           "text": "selection, data and enter",
           "url": "",
           "description": "d3.selection(), d3.data() and d3.enter() are the basics of d3",
-          "fx": ,
-          "fy": ,
           "nodes": [
             {
               "text": "A gentle introduction to D3: how to build a reusable bubble chart",
               "url": "https://medium.freecodecamp.org/a-gentle-introduction-to-d3-how-to-build-a-reusable-bubble-chart-9106dc4f6c46",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "article",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -161,14 +157,10 @@
           "text": "building a graph",
           "url": "",
           "description": "concepts you'lll need to build a graph",
-          "fx": ,
-          "fy": ,
           "nodes": [
             {
               "text": "1. scales",
               "url": "https://github.com/d3/d3-scale/blob/master/README.md",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -176,8 +168,6 @@
             {
               "text": "2. axes",
               "url": "https://github.com/d3/d3-axis/blob/master/README.md",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -188,15 +178,11 @@
           "text": "layouts",
           "url": "",
           "description": "A layout encapsulates a strategy for laying out data elements visually, relative to each other",
-          "fx": ,
-          "fy": ,
           "nodes": [
             {
               "text": "d3.pack",
               "url": "https://github.com/d3/d3-hierarchy/blob/master/README.md#pack",
               "description": "create a new circle-packing layout",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -205,8 +191,6 @@
               "text": "d3.cluster",
               "url": "https://github.com/d3/d3-hierarchy/blob/master/README.md#cluster",
               "description": "create a new cluster (dendrogram) layout",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -215,8 +199,6 @@
               "text": "d3.tree",
               "url": "https://github.com/d3/d3-hierarchy/blob/master/README.md#tree",
               "description": "create a new tidy tree layout",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -225,8 +207,6 @@
               "text": "d3.treemap",
               "url": "https://github.com/d3/d3-hierarchy/blob/master/README.md#treemap",
               "description": "create a new treemap layout",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -235,8 +215,6 @@
               "text": "d3.partition",
               "url": "https://github.com/d3/d3-hierarchy/blob/master/README.md#partition",
               "description": "create a new partition (icicle or sunburst) layout",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -245,8 +223,6 @@
               "text": "d3.chord",
               "url": "https://github.com/d3/d3-chord/blob/master/README.md#chord",
               "description": "create a new chord layout",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -255,8 +231,6 @@
               "text": "d3.voronoi",
               "url": "https://github.com/d3/d3-voronoi/blob/master/README.md#voronoi",
               "description": "create a new Voronoi generator",
-              "fx": ,
-              "fy": ,
               "nodes": [],
               "category": "github",
               "color": "rgba(175, 54, 242, 1.0)"
@@ -294,27 +268,18 @@
     {
       "source": "selection, data and enter",
       "target": "basics",
-      "curve": {
-        "x": ,
-        "y":
-      }
+      "curve": {"{}"}
     }
     ,
     {
       "source": "building a graph",
       "target": "basics",
-      "curve": {
-        "x": ,
-        "y":
-      }
+      "curve": {"{}"}
     },
     {
       "source": "layouts",
       "target": "basics",
-      "curve": {
-        "x": ,
-        "y":
-      }
+      "curve": {"{}"}
     }
   ],
   "id": 1885
