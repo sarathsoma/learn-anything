@@ -290,6 +290,31 @@
         "x": -35.9215,
         "y": -71.8015
       }
+    },
+    {
+      "source": "selection, data and enter",
+      "target": "basics",
+      "curve": {
+        "x": ,
+        "y":
+      }
+    }
+    ,
+    {
+      "source": "building a graph",
+      "target": "basics",
+      "curve": {
+        "x": ,
+        "y":
+      }
+    },
+    {
+      "source": "layouts",
+      "target": "basics",
+      "curve": {
+        "x": ,
+        "y":
+      }
     }
   ],
   "id": 1885
