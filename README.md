@@ -13,7 +13,7 @@
 		<img src="https://img.shields.io/badge/Wiki-📔-brown.svg">
 	</a>
 	<a href="http://blog.learn-anything.xyz/">
-		<img src="https://img.shields.io/badge/Blog-✍🏻-blue.svg">
+		<img src="https://img.shields.io/badge/Blog-🖋️-blue.svg">
 	</a>
 	<a href="https://github.com/nikitavoloboev/learn-anything/blob/master/LICENSE">
 		<img src="https://img.shields.io/pypi/l/pipenv.svg">
