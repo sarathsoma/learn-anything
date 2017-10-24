@@ -9,7 +9,10 @@
 	<a href="https://twitter.com/learnanything_">
 		<img src="https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square">
 	</a>
-	<a href="https://learn-anything.netlify.com">
+		<a href="https://github.com/learn-anything/maps/wiki">
+		<img src="https://img.shields.io/badge/Wiki-📔-brown.svg">
+	</a>
+	<a href="http://blog.learn-anything.xyz/">
 		<img src="https://img.shields.io/badge/Blog-✍🏻-blue.svg">
 	</a>
 	<a href="https://github.com/nikitavoloboev/learn-anything/blob/master/LICENSE">
