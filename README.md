@@ -48,7 +48,7 @@ For more information, please read our [wiki](https://github.com/learn-anything/m
 
 <h1 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h1>
 
-Both this project and the search engine [is in active development](https://github.com/learn-anything/learn-anything). 
+Both this project and the website [is in active development](https://github.com/learn-anything/learn-anything). 
 
 If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the [development](https://github.com/learn-anything/search-engine) and adding features to the website or you can create a study group for any branch in the mind map and learn together.  
 
@@ -67,7 +67,7 @@ This project can only become what it is with your help. Thank you.
 
 This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the mind maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
 
-There are **no advertisements** and **no sponsored content** in this Search Engine as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
+There are **no advertisements** and **no sponsored content** in this website as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
  
 We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.  
 
@@ -76,7 +76,7 @@ Thank you. 💚
 
 <h1 align="center"><a href="https://learn-anything.netlify.com">Stay in touch 👋</a></h1>
 
-You can follow us on [Twitter](https://twitter.com/learnanything_) where we announce any new awesome changes that were added to the Search Engine.
+You can follow us on [Twitter](https://twitter.com/learnanything_) where we announce any new awesome changes that were added to the website.
 
 We also have our own internal [development blog](http://blog.learn-anything.xyz) where we write about interesting challenges we have solved on our way to make the website and curation of Mind Maps the best it can be.
 
@@ -137,7 +137,7 @@ Fun fact. 💡 This project started off as a [single mind map](https://www.dropb
         <a href="https://github.com/nglgzz">Angelo Gazzola</a>
         <p>Lead Web Developer</p>
         <br>
-        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Search Engine</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap"> React Component </a></p>
+        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">website</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap"> React Component </a></p>
       </td> 
 <td align="center" valign="top">
         <img width="150" height="150" src="https://i.imgur.com/1Np4Fra.png">
