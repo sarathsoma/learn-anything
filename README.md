@@ -74,7 +74,7 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
 Thank you. 💚
 
 
-<h1 align="center"><a href="https://learn-anything.netlify.com">Stay in touch 👋</a></h1>
+<h1 align="center"><a href="http://blog.learn-anything.xyz/">Stay in touch 👋</a></h1>
 
 You can follow us on [Twitter](https://twitter.com/learnanything_) where we announce any new awesome changes that were added to the website.
 
@@ -93,7 +93,6 @@ Feel free to explore and improve them if you wish.
 - [Blogs 🗃️](https://github.com/learn-anything/blogs) : Interesting blogs you can read and gain insights from
 - [Humans 👪](https://github.com/learn-anything/humans) : Interesting humans who made a difference
 - [Quotes 💬](https://github.com/learn-anything/quotes) : Interesting quotes all can learn from 
-- [Websites 🌍 ](https://github.com/learn-anything/websites) : All the interesting websites one can use to learn and do new things
 - [Podcasts 🎙](https://github.com/learn-anything/podcasts) : Podcasts all can listen and learn from
 - [Newsletters 📮](https://github.com/learn-anything/newsletters) : Free newsletters all can read to get insights from 
 - [Images 🎨](https://github.com/learn-anything/images) : User curated image albums
