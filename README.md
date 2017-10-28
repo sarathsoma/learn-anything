@@ -42,7 +42,6 @@ The [main goal of this project](https://github.com/nikitavoloboev/learn-anything
 
 For more information, please read our [wiki](https://github.com/learn-anything/maps/wiki) and join our active [Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
-
 <h1 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h1>
 
 Both this project and the website [is in active development](https://github.com/learn-anything/learn-anything). 
@@ -59,7 +58,6 @@ We use [Slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE
 
 This project can only become what it is with your help. Thank you. 
 
-
 <h1 align="center"><a href="https://www.patreon.com/learnanything">Keep this project going 💚</a></h1>
 
 This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the mind maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
@@ -70,13 +68,11 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
 
 Thank you. 💚
 
-
 <h1 align="center"><a href="http://blog.learn-anything.xyz/">Stay in touch 👋</a></h1>
 
 You can follow us on [Twitter](https://twitter.com/learnanything_) where we announce any new awesome changes that were added to the website.
 
 We also have our own internal [development blog](http://blog.learn-anything.xyz) where we write about interesting challenges we have solved on our way to make the website and curation of Mind Maps the best it can be.
-
 
 <h1 align="center">Improve our Curated Lists</h1>
 
@@ -106,7 +102,6 @@ Feel free to explore and improve them if you wish.
 - [Youtube 🎥](https://github.com/learn-anything/youtube) : Interesting youtube channels all can learn from 
 - [Quora ❓](https://github.com/learn-anything/quora) : All the interesting quora communities one can explore
 - [computer games 💻](https://github.com/learn-anything/computer-games) : Interesting computer games one can play in their spare time
-
 
 <h1 align="center"> Join our team 🚀 </h1>
 
@@ -153,13 +148,11 @@ If you have some specific questions about this project our about our team. We wo
 
 <h1 align="center"> <a href="https://github.com/nikitavoloboev/learn-anything/stargazers">🌟 gazers</a> over time</h1>
 
-
 <div align="center">
 	<a href="https://starcharts.herokuapp.com/nikitavoloboev/learn-anything">
 		<img src="https://starcharts.herokuapp.com/nikitavoloboev/learn-anything.svg">
 	</a>
 </div>
-
 
 <h2 align="center"> Thank you 💙 </h2>
 
