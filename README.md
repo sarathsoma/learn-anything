@@ -15,9 +15,6 @@
 	<a href="http://blog.learn-anything.xyz/">
 		<img src="https://img.shields.io/badge/Blog-📝-blue.svg">
 	</a>
-	<a href="https://github.com/nikitavoloboev/learn-anything/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
   <a href="https://learn-anything.xyz/learn-anything">
     <img width="900" heigth="900" src="media/la.png">
   </a>
