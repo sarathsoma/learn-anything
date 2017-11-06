@@ -84,7 +84,7 @@ Feel free to explore and improve them if you wish.
 ## Join our team
 Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together and work on making this vision of visualising and structuring all of world's knowledge a reality. 
 
-<h2 align="center">Current Team</h2>
+### Current Team
 
 <table>
   <tbody>
