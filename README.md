@@ -105,6 +105,15 @@ Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzM
         <br>
         <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Search Engine</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap"> React Component </a></p>
       </td> 
+      </td> 
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://i.imgur.com/1Np4Fra.png">
+        <br>
+        <a href="https://github.com/CristianMoisei"> Cristian Moisei </a>
+        <p>Lead Designer</p>
+        <br>
+        <p> Created new <a href="https://marvelapp.com/344jh3d/screen/31468664">Desktop</a> and <a href="https://marvelapp.com/257b0ge/screen/33233650">Mobile</a> Interfaces for next evolution of Learn Anything</p>
+      </td>
      </tr>
   </tbody>
 </table>
