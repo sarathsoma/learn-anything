@@ -57,29 +57,31 @@ With our goal of providing the most efficient paths for Learning Anything, we al
 
 Feel free to explore and improve them if you wish. 
 
-- [Books 📚](https://github.com/learn-anything/books) : Free and non free books all can learn from
-- [Courses 📝](https://github.com/learn-anything/courses) : Free courses all can learn from
-- [Research Papers 📄](https://github.com/learn-anything/research-papers) : Free research papers all can learn from
-- [Blogs 🗃️](https://github.com/learn-anything/blogs) : Interesting blogs you can read and gain insights from
-- [Humans 👪](https://github.com/learn-anything/humans) : Interesting humans who made a difference
-- [Quotes 💬](https://github.com/learn-anything/quotes) : Interesting quotes all can learn from 
-- [Websites 🌍 ](https://github.com/learn-anything/websites) : All the interesting websites one can use to learn and do new things
-- [Podcasts 🎙](https://github.com/learn-anything/podcasts) : Podcasts all can listen and learn from
-- [Newsletters 📮](https://github.com/learn-anything/newsletters) : Free newsletters all can read to get insights from 
-- [Images 🎨](https://github.com/learn-anything/images) : User curated image albums
-- [Talks 👀](https://github.com/learn-anything/talks) : Interesting talks all can watch
-- [Command Line Tools 🐚](https://github.com/learn-anything/command-line-tools) : Command line utilities all can use to learn and do things faster
-- [macOS apps 💻](https://github.com/learn-anything/macos-apps) : Best macOS apps all can use to learn and do things faster
-- [iOS apps 📱](https://github.com/learn-anything/ios-apps) : Best iOS apps all can use to learn and do things faster
-- [Safari Extensions 🌐](https://github.com/learn-anything/safari-extensions) : Awesome Safari Extensions all can use
-- [Alfred Workflows 🎩](https://github.com/learn-anything/alfred-workflows) : Alfred workflows all can use to learn and do things faster
-- [TV series 🎥](https://github.com/learn-anything/tv-series) : Interesting TV series all can watch
-- [Documentaries 🎥](https://github.com/learn-anything/documentaries) : Free and non free documentaries all can learn from
-- [Movies 🎥](https://github.com/learn-anything/movies) : Interesting movies all can watch
-- [Reddit 🤖](https://github.com/learn-anything/reddit) : All the interesting subreddits all can visit and learn from
-- [Youtube 🎥](https://github.com/learn-anything/youtube) : Interesting youtube channels all can learn from 
-- [Quora ❓](https://github.com/learn-anything/quora) : All the interesting quora communities one can explore
-- [computer games 💻](https://github.com/learn-anything/computer-games) : Interesting computer games one can play in their spare time
+- [Books](https://github.com/learn-anything/books) 
+
+- [Courses](https://github.com/learn-anything/courses)
+- [Research Papers](https://github.com/learn-anything/research-papers) 
+- [Blogs️](https://github.com/learn-anything/blogs) 
+- [Humans](https://github.com/learn-anything/humans)
+- [Quotes](https://github.com/learn-anything/quotes)
+- [Websites](https://github.com/learn-anything/websites)
+- [Podcasts](https://github.com/learn-anything/podcasts)
+- [Newsletters](https://github.com/learn-anything/newsletters) 
+- [Images](https://github.com/learn-anything/images) 
+- [Talks](https://github.com/learn-anything/talks) 
+- [Command Line Tools](https://github.com/learn-anything/command-line-tools) 
+- [macOS apps](https://github.com/learn-anything/macos-apps) 
+- [iOS apps](https://github.com/learn-anything/ios-apps) 
+- [Safari Extensions](https://github.com/learn-anything/safari-extensions) 
+- [Alfred Workflows](https://github.com/learn-anything/alfred-workflows) 
+- [TV series](https://github.com/learn-anything/tv-series) 
+- [Documentaries](https://github.com/learn-anything/documentaries) 
+- [Movies](https://github.com/learn-anything/movies) 
+- [Reddit](https://github.com/learn-anything/reddit)
+- [Youtube](https://github.com/learn-anything/youtube) 
+- [Quora](https://github.com/learn-anything/quora) 
+- [Computer games](https://github.com/learn-anything/computer-games) 
+- [Chrome Extensions](https://github.com/learn-anything/chrome-extensions)
 
 ## Join our team
 Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together and work on making this vision of visualising and structuring all of world's knowledge a reality. 
