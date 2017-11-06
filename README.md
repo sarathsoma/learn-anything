@@ -61,7 +61,7 @@ Feel free to explore and improve them if you wish.
 
 - [Courses](https://github.com/learn-anything/courses)
 - [Research Papers](https://github.com/learn-anything/research-papers) 
-- [Blogs️](https://github.com/learn-anything/blogs) 
+- [Blogs ️](https://github.com/learn-anything/blogs) 
 - [Humans](https://github.com/learn-anything/humans)
 - [Quotes](https://github.com/learn-anything/quotes)
 - [Websites](https://github.com/learn-anything/websites)
