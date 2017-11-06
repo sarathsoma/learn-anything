@@ -1,28 +1,9 @@
-<div align="center">
-<h1><a href="https://learn-anything.xyz">You can learn anything 🔭</a></h1>
-<a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">
-    <img src="https://img.shields.io/badge/Slack-💬-green.svg">
-  </a>
-    <a href="https://www.patreon.com/learnanything">
-    <img src="https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg">
-  </a>
-  <a href="https://twitter.com/learnanything_">
-    <img src="https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square">
-  </a>
-  <a href="https://learn-anything.netlify.com">
-    <img src="https://img.shields.io/badge/Blog-✍🏻-blue.svg">
-  </a>
-  <a href="https://github.com/nikitavoloboev/learn-anything/blob/master/LICENSE">
-    <img src="https://img.shields.io/pypi/l/pipenv.svg">
-  </a>
-  <a href="https://learn-anything.xyz/learn-anything">
-    <img width="900" heigth="900" src="media/la.png">
-  </a>
-  <br>
-  <br>
-  </div>
-  <p align="center"><img src="media/la.gif" alt="img" width="600"></p>
-  </div>
+# Learn Anything [![Slack](https://img.shields.io/badge/Slack%20Group-💬-green.svg)](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+> Search Interactive Mind Maps to Learn Anything
+
+<img src="media/la.png" width="500" alt="img">
+
+<img src="media/la.gif" width="600" alt="img">
   
 The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn-anything) as well as [searched through](https://learn-anything.xyz). 🔎
 
