@@ -57,18 +57,16 @@ With our goal of providing the most efficient paths for Learning Anything, we al
 
 Feel free to explore and improve them if you wish. 
 
-- [Books](https://github.com/learn-anything/books) 
-
-- [Courses](https://github.com/learn-anything/courses)
-- [Research Papers](https://github.com/learn-anything/research-papers) 
-- [Blogs ️](https://github.com/learn-anything/blogs) 
-- [Humans](https://github.com/learn-anything/humans)
-- [Quotes](https://github.com/learn-anything/quotes)
-- [Websites](https://github.com/learn-anything/websites)
-- [Podcasts](https://github.com/learn-anything/podcasts)
-- [Newsletters](https://github.com/learn-anything/newsletters) 
-- [Images](https://github.com/learn-anything/images) 
-- [Talks](https://github.com/learn-anything/talks) 
+- [Books 📚](https://github.com/learn-anything/books) 
+- [Courses 📝](https://github.com/learn-anything/courses)
+- [Research Papers 📃](https://github.com/learn-anything/research-papers) 
+- [Blogs ️🗃️](https://github.com/learn-anything/blogs) 
+- [Humans 👪 ](https://github.com/learn-anything/humans)
+- [Quotes 💬](https://github.com/learn-anything/quotes)
+- [Podcasts 🎙️](https://github.com/learn-anything/podcasts)
+- [Newsletters 📮](https://github.com/learn-anything/newsletters) 
+- [Images 🎨](https://github.com/learn-anything/images) 
+- [Talks 👀](https://github.com/learn-anything/talks) 
 - [Command Line Tools](https://github.com/learn-anything/command-line-tools) 
 - [macOS apps](https://github.com/learn-anything/macos-apps) 
 - [iOS apps](https://github.com/learn-anything/ios-apps) 
