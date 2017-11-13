@@ -103,7 +103,7 @@ Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzM
         <a href="https://github.com/nglgzz">Angelo Gazzola</a>
         <p>Lead Web Developer</p>
         <br>
-        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Search Engine</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap"> React Component </a></p>
+        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Website</a> + our own mind map render system as <a href="https://github.com/learn-anything/la-map"> React Component </a></p>
       </td> 
       </td> 
       <td align="center" valign="top">
