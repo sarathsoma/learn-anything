@@ -30,7 +30,7 @@ Both this project and the search engine [is in active development](https://githu
 If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the [development](https://github.com/learn-anything/search-engine) and adding features to the website or you can create a study group for any branch in the mind map and learn together.  
 
 ## Contributing
-We made a [wiki](https://github.com/learn-anything/maps/wiki) that covers [all the different ways](https://github.com/learn-anything/maps/wiki) in which you can help this project evolve and become better. 
+We made a [wiki](https://github.com/learn-anything/maps/wiki) that covers [all the different ways](https://github.com/learn-anything/maps/wiki/Contributing) in which you can help this project evolve and become better. 
 
 In there, you can also find [why we created this website and what problems we are trying to solve](https://github.com/learn-anything/maps/wiki/Future-of-learning) as well as [our official Roadmap of challenges we have yet to solve](https://github.com/learn-anything/maps/wiki/Roadmap). 
 
