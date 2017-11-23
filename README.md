@@ -19,7 +19,7 @@ If you think that there is a better way one can learn the subject or you wish so
 
 The website is also [fully open source](https://github.com/learn-anything/learn-anything) and you can help improve it. 💙
 
-The [main goal of this project](https://github.com/nikitavoloboev/learn-anything/wiki/Future-of-learning) is to **expose human knowledge in avisual and structured way to accelerate learning**. 
+The [main goal of this project](https://github.com/nikitavoloboev/learn-anything/wiki/Future-of-learning) is to **expose human knowledge in a visual and structured way to accelerate learning**. 
 
 For more information, please read our [wiki](https://github.com/learn-anything/maps/wiki) and join our active [Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
