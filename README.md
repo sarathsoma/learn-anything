@@ -123,11 +123,11 @@ If you have some specific questions about this project our about our team. We wo
 
 Fun fact. 💡 This project started off as a [single mind map](https://www.dropbox.com/s/1rfvd6b0pkoyyko/research-white.png?dl=1) but it grew too big. 
 
-## [🌟 gazers](https://github.com/nikitavoloboev/learn-anything/stargazers) over time
+## [🌟 gazers](https://github.com/learn-anything/maps/stargazers) over time
 
 <div align="center">
-  <a href="https://starcharts.herokuapp.com/nikitavoloboev/learn-anything">
-    <img src="https://starcharts.herokuapp.com/nikitavoloboev/learn-anything.svg">
+  <a href="https://starcharts.herokuapp.com/learn-anything/maps">
+    <img src="https://starcharts.herokuapp.com/learn-anything/maps.svg">
   </a>
 </div>
 
