@@ -8,7 +8,7 @@ import actions from 'constants/actions.json';
  */
 export const fetchMap = id => ({
   type: actions.map.fetch.def,
-  payload: axios.get(`/api/maps/${id.replace(/^\//, '')}`),
+  payload: axios.get(`/api/topics/${id.replace(/^\//, '')}/resources`),
 });
 
 export const clearVotes = () => ({

@@ -8,7 +8,7 @@ export const fetchSuggestions = (query = '') => {
   if (query === '') {
     return {
       type: actions.search.suggestions.fetch.def,
-      payload: axios.get('/api/maps/?q='),
+      payload: axios.get('/api/search/topics/?q='),
     };
   }
 
@@ -41,7 +41,7 @@ export const fetchSuggestions = (query = '') => {
 
 
       // Should check local storage first
-      axios.get(`/api/maps/?q=${query}`)
+      axios.get(`/api/search/topics/?q=${query}`)
         .then((result) => {
           dispatch({
             type: actions.search.suggestions.fetch.fulfilled,

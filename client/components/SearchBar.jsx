@@ -13,9 +13,9 @@ import 'sass/_SearchBar.sass';
 
 
 // Functions for react-autosuggest component.
-const renderSuggestion = ({ id, key }) => (
+const renderSuggestion = ({ id, name }) => (
   <Link to={`/${id}`} className="searchbar-suggestion">
-    <span className="searchbar-suggestion-key">{key}</span>
+    <span className="searchbar-suggestion-name">{name}</span>
   </Link>
 );
 const getSuggestionValue = suggestion => suggestion.key;
@@ -78,7 +78,7 @@ export default class SearchBar extends Component {
     // otherwise, do nothing.
     if (this.props.query === '') {
       if (!this.props.docked) {
-        this.props.history.push(this.props.placeholder.title);
+        this.props.history.push(this.props.placeholder.name);
         this.props.dispatch(fetchSuggestions());
       }
       return;
@@ -103,7 +103,7 @@ export default class SearchBar extends Component {
     event.preventDefault();
 
     // Navigate to map and clear search query.
-    this.props.history.push(suggestion.title);
+    this.props.history.push(suggestion.name);
     this.props.dispatch(clearQuery());
 
     // On mobile hide the searchbar after you selected a suggestion.
@@ -132,7 +132,7 @@ export default class SearchBar extends Component {
       className: inputClassName,
       value: this.props.query,
       onChange: this.onInputChange,
-      placeholder: `e.g. ${this.props.placeholder.key}`,
+      placeholder: `e.g. ${this.props.placeholder.name}`,
     };
 
     if (this.props.docked) {

@@ -4,7 +4,7 @@ import actions from 'constants/actions.json';
 const initialState = {
   query: '',
   suggestions: [],
-  placeholder: { key: '', id: '' },
+  placeholder: { name: '', id: '' },
 };
 
 
@@ -19,7 +19,7 @@ export default (state = initialState, action) => {
 
 
     case actions.search.suggestions.fetch.fulfilled: {
-      const query = action.payload.config.url.replace('/api/maps/?q=', '');
+      const query = action.payload.config.url.replace('/api/search/topics/?q=', '');
       const suggestions = action.payload.data;
 
       // If no query was passed to the API, it means that a random

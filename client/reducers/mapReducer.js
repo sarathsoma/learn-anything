@@ -1,4 +1,3 @@
-import { cleanTitle } from 'utils/Title';
 import actions from 'constants/actions.json';
 
 
@@ -46,22 +45,19 @@ export default (state = initialState, action) => {
       };
 
     case actions.map.fetch.fulfilled: {
-      const map = action.payload.data;
-      const title = cleanTitle(map.title);
+      const resources = action.payload.data;
 
+      // TODO - change this based on the request URL
       // Set HTML title.
-      const titleSplit = title.split(' - ');
-      const topic = titleSplit[titleSplit.length - 1];
-      document.title = `${topic} - Learn Anything`;
+      // const titleSplit = title.split(' - ');
+      // const topic = titleSplit[titleSplit.length - 1];
+      // document.title = `${topic} - Learn Anything`;
 
       return {
         ...state,
-        title,
+        resources,
         loading: false,
         error: undefined,
-        nodes: map.nodes,
-        mapID: map.mapID,
-        resources: map.resources,
       };
     }
 

@@ -8,7 +8,7 @@ import Legend from 'components/Legend';
 import store from 'store/store';
 import actions from 'constants/actions.json';
 import HomePage from './HomePage';
-import MapPage from './MapPage';
+import ResourcesPage from './ResourcesPage';
 
 
 const Callback = () => {
@@ -42,8 +42,7 @@ export default class Router extends Component {
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route path="/callback" component={Callback} />
-          <Route path="/:path(\d*)" component={MapPage} /> {/* redirect to named path */}
-          <Route path="/:path(.*)" component={MapPage} />
+          <Route path="/:topic" component={ResourcesPage} />
         </Switch>
 
         <Dialog />
