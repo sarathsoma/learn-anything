@@ -23,9 +23,10 @@
   ],
 
   "cacheKeys": {
-    "maps": {
-        "byID": "maps.byID|",
-        "search": "maps.search|"
+    "topics": {
+      "search": "topics.search|",
+      "getNodes": "topics.getNodes|",
+      "getResources": "topics.getResources|"
     },
     "mapID": { "byTitle": "mapID.byTitle|" },
     "votes": { "byUserMap": "votes.byUserMap|" },
