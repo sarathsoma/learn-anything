@@ -26,7 +26,7 @@ export default class HomePage extends Component {
             bannerColor="#fff"
             octoColor="#222324"
             size={80}
-            direction="left"
+            direction="right"
           />
         </MediaQuery>
 

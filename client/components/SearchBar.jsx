@@ -170,7 +170,7 @@ export default class SearchBar extends Component {
 
     return (
       <form className={formClassName} onSubmit={this.onFormSubmit}>
-        <MediaQuery maxWidth={queries.s}>
+        <MediaQuery maxWidth={queries.m}>
           {!this.props.isVisible &&
             <button className="searchbar-btn-show" onClick={this.toggleVisibility}>
               <img src="/static/icons/search.svg"></img>
@@ -188,7 +188,7 @@ export default class SearchBar extends Component {
           }
         </MediaQuery>
 
-        <MediaQuery minWidth={queries.s + 1}>
+        <MediaQuery minWidth={queries.m + 1}>
           {this.renderSearchBar()}
         </MediaQuery>
       </form>

@@ -7,4 +7,5 @@ rules:
     - 0
   mixins-before-declarations:
     - 0
-
+  no-important:
+    - 0

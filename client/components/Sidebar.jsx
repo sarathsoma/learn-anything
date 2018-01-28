@@ -2,15 +2,16 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { slide as Menu } from 'react-burger-menu';
-import MediaQuery from 'react-responsive';
+// import MediaQuery from 'react-responsive';
 
 import { showDialog } from 'actions/Dialog';
 import { showLegend } from 'actions/Legend';
-import queries from 'constants/media-queries.json';
+// import queries from 'constants/media-queries.json';
 import 'sass/_Sidebar.sass';
 
 @connect(store => ({
   isVisible: store.header.menu,
+  randomTopic: store.search.placeholder.name,
 }))
 export default class Sidebar extends Component {
   constructor(props) {
@@ -50,6 +51,8 @@ export default class Sidebar extends Component {
   }
 
   render() {
+    const { randomTopic } = this.props;
+
     if (!this.props.isVisible) {
       return null;
     }
@@ -60,9 +63,8 @@ export default class Sidebar extends Component {
         isOpen={this.state.isOpen}
         className="sidebar-menu"
         width={250}
-        right
       >
-        {window.laAuth.isAuthenticated() ? (
+       {/* {window.laAuth.isAuthenticated() ? (
           <div className="sidebar-item">
             <a onClick={this.logout}>{__('sidebar_logout')}</a>
           </div>
@@ -70,7 +72,7 @@ export default class Sidebar extends Component {
             <div className="sidebar-item">
               <a onClick={this.login}>{__('sidebar_login')}</a>
             </div>
-          )}
+          )} */}
 
         <div className="sidebar-item">
           <Link onClick={this.hideSidebar} to="/">
@@ -78,49 +80,44 @@ export default class Sidebar extends Component {
           </Link>
         </div>
 
-        {/* <div className="sidebar-item">
-          <Link onClick={this.hideSidebar} to="/learn-anything">{__('sidebar_all_topics')}</Link>
-        </div> */}
-
         <div className="sidebar-item">
-          <a onClick={this.showAbout}>{__('sidebar_about')}</a>
+          <Link onClick={this.hideSidebar} to={`/learn/${randomTopic}`}>
+            {__('sidebar_learn')}
+          </Link>
         </div>
 
         <div className="sidebar-item">
+          <Link onClick={this.hideSidebar} to={`/explore/${randomTopic}`}>
+            {__('sidebar_explore')}
+          </Link>
+        </div>
+
+        <div className="sidebar-item">
+          <Link onClick={this.hideSidebar} to="/">
+            {__('sidebar_saved')}
+          </Link>
+        </div>
+
+        <div className="sidebar-item">
+          <Link onClick={this.hideSidebar} to="/">
+            {__('sidebar_settings')}
+          </Link>
+        </div>
+
+        <div className="sidebar-footer">
+          <a href="https://github.com/learn-anything/learn-anything" target="_blank">
+            GitHub
+          </a>
           <a href="https://twitter.com/learnanything_" target="_blank">
-            {__('sidebar_twitter')}
+            Twitter
           </a>
-        </div>
-
-        <div className="sidebar-item">
           <a href="https://www.patreon.com/learnanything" target="_blank">
-            {__('sidebar_patreon')}
+            Patreon
+          </a>
+          <a href="https://github.com/learn-anything/learn-anything/wiki/Curated-Lists" target="_blank">
+            {__('sidebar_curated_lists')}
           </a>
         </div>
-
-        <div className="sidebar-item">
-          <a
-            href="https://github.com/learn-anything/learn-anything"
-            target="_blank"
-          >
-            {__('sidebar_github')}
-          </a>
-        </div>
-
-        <div className="sidebar-item">
-          <a
-            href="https://github.com/learn-anything/learn-anything/wiki/Curated-Lists"
-            target="_blank"
-          >
-            {__('sidebar_lists')}
-          </a>
-        </div>
-
-        <MediaQuery maxWidth={queries.s}>
-          <div className="sidebar-item">
-            <a onClick={this.showLegend}>{__('sidebar_legend')}</a>
-          </div>
-        </MediaQuery>
       </Menu>
     );
   }

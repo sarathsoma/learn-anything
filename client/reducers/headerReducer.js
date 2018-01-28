@@ -12,7 +12,7 @@ export default (state = initialState, action) => {
   switch (action.type) {
     case actions.header.showSearchbar:
       return {
-        menu: false,
+        menu: true,
         breadcrumbs: false,
         searchbar: true,
       };
@@ -20,7 +20,7 @@ export default (state = initialState, action) => {
     case actions.header.hideSearchbar:
       return {
         menu: true,
-        breadcrumbs: true,
+        breadcrumbs: false,
         searchbar: false,
       };
 

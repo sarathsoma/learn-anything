@@ -4,25 +4,28 @@
 // Position and sizing of burger button
 .bm-burger-button
   height: 24px
-  margin: 20px 30px
+  margin: 20px
   position: fixed
-  right: 0
+  left: 0
   top: 0
   width: 30px
 
   button
     cursor: pointer
 
+  @media (min-width: $width-m)
+    display: none
+
 .bm-burger-bars
   background: $nevada
   border-radius: 2px
-  height: 2px !important // sass-lint:disable-line no-important
+  height: 2px !important
 
 
 // Styling of overlay
 .bm-overlay
-  background: $overlay !important // sass-lint:disable-line no-important
-  z-index: 2 !important // sass-lint:disable-line no-important
+  background: $overlay !important
+  z-index: 2 !important
 
 // General sidebar styles
 .bm-menu
@@ -31,9 +34,11 @@
   padding: 1.5em 1.5em 0
 
 
-// Wrapper for item list
-.bm-item-list
-  padding: .8em
+.bm-menu-wrap
+  right: initial !important
+
+  @media (min-width: $width-m)
+    transform: translate3d(0, 0, 0) !important
 
 
 .sidebar-item
@@ -41,16 +46,31 @@
   font-weight: bold
   padding: 15px 0
 
-  &:first-child
-    padding: 0 0 15px
-
   a
     color: $shark
     cursor: pointer
     text-decoration: none
 
+.sidebar-footer
+  margin-top: 20px
+  display: flex !important
+  flex-wrap: wrap
+
+  & > a
+    margin-right: 15px
+    font-size: 0.8em
+    line-height: 2em
+    text-decoration: none
+    color: $shark
+
+    &:hover
+      text-decoration: underline
+
 
 +respond-to($width-s)
-  .bm-burger-button
+  .bm-burge-rbutton
     margin: 2.3em 30px
     // position: absolute
+
+  .bm-menu-wrap
+    transform: initial
