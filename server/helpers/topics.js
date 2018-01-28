@@ -30,7 +30,7 @@ async function getNodes(context, name) {
   const session = neo4j.getSession(context);
   let response = await (session.run(`
     MATCH (n1:Topic)-[rel]-(n2:Topic)
-    WHERE toLower(n1.text) = {name}
+    WHERE toLower(n1.name) = {name}
     RETURN n1, rel, n2`,
     { name },
   ));
@@ -48,7 +48,7 @@ async function getResources(context, name) {
   const session = neo4j.getSession(context);
   let response = await (session.run(`
     MATCH (n1:Topic)-[rel]-(n2:Resource)
-    WHERE toLower(n1.text) = {name}
+    WHERE toLower(n1.name) = {name}
     RETURN n1, rel, n2`,
     { name },
   ));
@@ -58,12 +58,28 @@ async function getResources(context, name) {
     throw new APIError(404, 'topic not found');
   }
 
-  return Object.values(response.nodes)
+  const meta = {};
+  Object.values(response.nodes).some((node) => {
+    if (node.labels.includes('Topic')) {
+      meta.wiki = node.properties.wiki;
+      meta.summary = node.properties.summary;
+      return true;
+    }
+
+    return false;
+  });
+
+  const resources = Object.values(response.nodes)
     .filter(node => node.labels.includes('Resource'))
     .map(node => ({
       id: node.id,
       ...node.properties,
     }));
+
+  return {
+    meta,
+    resources,
+  };
 }
 
 /* a specific map by title.
