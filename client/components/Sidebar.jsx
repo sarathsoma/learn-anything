@@ -11,7 +11,7 @@ import 'sass/_Sidebar.sass';
 
 @connect(store => ({
   isVisible: store.header.menu,
-  randomTopic: store.search.placeholder.name,
+  topic: store.topic.name,
 }))
 export default class Sidebar extends Component {
   constructor(props) {
@@ -51,7 +51,7 @@ export default class Sidebar extends Component {
   }
 
   render() {
-    const { randomTopic } = this.props;
+    const { topic } = this.props;
 
     if (!this.props.isVisible) {
       return null;
@@ -81,13 +81,13 @@ export default class Sidebar extends Component {
         </div>
 
         <div className="sidebar-item">
-          <Link onClick={this.hideSidebar} to={`/learn/${randomTopic}`}>
+          <Link onClick={this.hideSidebar} to={`/learn/${topic}`}>
             {__('sidebar_learn')}
           </Link>
         </div>
 
         <div className="sidebar-item">
-          <Link onClick={this.hideSidebar} to={`/explore/${randomTopic}`}>
+          <Link onClick={this.hideSidebar} to={`/explore/${topic}`}>
             {__('sidebar_explore')}
           </Link>
         </div>

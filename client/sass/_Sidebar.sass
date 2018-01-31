@@ -4,9 +4,9 @@
 // Position and sizing of burger button
 .bm-burger-button
   height: 24px
+  left: 0
   margin: 20px
   position: fixed
-  left: 0
   top: 0
   width: 30px
 
@@ -15,6 +15,7 @@
 
   @media (min-width: $width-m)
     display: none
+
 
 .bm-burger-bars
   background: $nevada
@@ -52,16 +53,16 @@
     text-decoration: none
 
 .sidebar-footer
-  margin-top: 20px
   display: flex !important
   flex-wrap: wrap
+  margin-top: 20px
 
   & > a
-    margin-right: 15px
-    font-size: 0.8em
-    line-height: 2em
-    text-decoration: none
     color: $shark
+    font-size: .8em
+    line-height: 2em
+    margin-right: 15px
+    text-decoration: none
 
     &:hover
       text-decoration: underline

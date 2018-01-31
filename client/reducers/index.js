@@ -5,6 +5,7 @@ import dialogReducer from './dialogReducer';
 import legendReducer from './legendReducer';
 import headerReducer from './headerReducer';
 import mapReducer from './mapReducer';
+import topicReducer from './topicReducer';
 
 
 // Bundled reducers used by store/store.js.
@@ -14,4 +15,5 @@ export default combineReducers({
   legend: legendReducer,
   header: headerReducer,
   map: mapReducer,
+  topic: topicReducer,
 });

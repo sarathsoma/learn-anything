@@ -31,6 +31,21 @@
     "toggleEditing": "toggle editing"
   },
 
+  "topic": {
+    "fetchResources": {
+      "def": "FETCH_RESOURCES",
+      "pending": "FETCH_RESOURCES_PENDING",
+      "fulfilled": "FETCH_RESOURCES_FULFILLED",
+      "rejected": "FETCH_RESOURCES_REJECTED"
+    },
+    "fetchNodes": {
+      "def": "FETCH_NODES",
+      "pending": "FETCH_NODES_PENDING",
+      "fulfilled": "FETCH_NODES_FULFILLED",
+      "rejected": "FETCH_NODES_REJECTED"
+    }
+  },
+
   "search": {
     "suggestions": {
       "fetch": {

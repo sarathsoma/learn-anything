@@ -55,3 +55,4 @@ export const setNodeSize = (nodeID, size) => ({
   type: actions.map.nodeSizes.set,
   payload: { nodeID, size },
 });
+
