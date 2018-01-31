@@ -40,7 +40,16 @@ async function getNodes(context, name) {
     throw new APIError(404, 'topic not found');
   }
 
-  return response;
+  const meta = {};
+  const rootNode = response.nodes[response.rootNode];
+  meta.name = rootNode.properties.name;
+  meta.wiki = rootNode.properties.wiki;
+  meta.summary = rootNode.properties.summary;
+
+  return {
+    meta,
+    response,
+  };
 }
 
 // In this function we assume that name is lowecase.
@@ -61,6 +70,7 @@ async function getResources(context, name) {
   const meta = {};
   Object.values(response.nodes).some((node) => {
     if (node.labels.includes('Topic')) {
+      meta.name = node.properties.name;
       meta.wiki = node.properties.wiki;
       meta.summary = node.properties.summary;
       return true;
