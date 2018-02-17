@@ -5,19 +5,34 @@ import { fetchNodes } from 'actions/Topic';
 
 
 @connect(store => ({
-  map: store.topic.map,
+  topic: store.topic,
 }))
 export default class ExplorePage extends Component {
-  componentDidMount() {
+  componentWillMount() {
     const { topic } = this.props.match.params;
-    this.props.dispatch(fetchNodes(topic));
+
+    if (this.props.topic.name.toLowerCase() !== topic.toLowerCase()) {
+      this.props.dispatch(fetchNodes(topic));
+    }
+  }
+
+  componentWillUpdate(nextProps) {
+    const { topic } = nextProps.match.params;
+
+    if (nextProps.topic.name.toLowerCase() !== topic.toLowerCase()) {
+      this.props.dispatch(fetchNodes(topic));
+    }
   }
 
   render() {
     console.log(this.props.map);
 
     return (
-      <div></div>
+      <div>
+        <h1>
+          {this.props.topic.name}
+        </h1>
+      </div>
     );
   }
 }
