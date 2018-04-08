@@ -1,0 +1,14 @@
+@import variables
+
+
+.app-header
+  height: 64px
+  background-color: $athens-gray
+
+
++respond-to($width-m)
+  .app-header
+    align-items: center
+    display: flex
+    justify-content: flex-end
+    padding: 0 20px
