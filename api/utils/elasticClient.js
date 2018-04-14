@@ -43,14 +43,14 @@ function random() {
   //
   // In our case it doesn't really matter though, cause we're using only the
   // first result and that should always be "truly" random.
-  const random_score = { seed: (new Date()).getMilliseconds() };
+  const randomScore = { seed: (new Date()).getMilliseconds() };
 
   return {
     size: 1,
 
     query: {
       function_score: {
-        functions: [{ random_score }],
+        functions: [{ random_score: randomScore }],
       },
     },
   };
