@@ -21,6 +21,7 @@ module.exports = {
     'class-methods-use-this': 'off',
     'no-mixed-operators': ['error', { 'allowSamePrecedence': true }],
     'jsx-a11y/anchor-is-valid': 'off',
+    'react/prop-types': 'off',
   },
 
   parser: 'babel-eslint',

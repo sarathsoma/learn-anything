@@ -50,13 +50,13 @@ config = {
 
   module: {
     rules: [
-      // {
-      //   // Check syntax and styling.
-      //   enforce: 'pre',
-      //   test: /\.jsx?$/,
-      //   exclude: [/node_modules/],
-      //   use: 'eslint-loader',
-      // },
+      {
+        // Check syntax and styling.
+        enforce: 'pre',
+        test: /\.jsx?$/,
+        exclude: [/node_modules/],
+        use: 'eslint-loader',
+      },
       {
         // Convert markdown to HTML.
         test: /\.md$/,

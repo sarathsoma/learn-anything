@@ -44,29 +44,16 @@ export default class SearchBar extends Component {
     this.renderSearchBar = this.renderSearchBar.bind(this);
   }
 
-  toggleVisibility() {
-    if (this.props.isVisible) {
-      this.props.dispatch(hideSearchbar());
-    } else {
-      this.props.dispatch(showSearchbar());
+  componentDidMount() {
+    // If there's no placeholder and the user is on the home page (searchbar
+    // is not docked), fetch it.
+    if (this.props.placeholder.id === '' && !this.props.docked) {
+      this.props.dispatch(fetchSuggestions());
     }
   }
 
   onInputChange(event) {
     this.props.dispatch(updateQuery(event.target.value));
-  }
-
-  renderSuggestionsContainer({ containerProps, children }) {
-    return (
-      <div {...containerProps} className="searchbar-suggestions-container">
-        { this.props.docked ?
-          <div className="searchbar-suggestions-title">
-            {__('searchbar_suggestions_title')}
-          </div> : ''
-        }
-        {children}
-      </div>
-    );
   }
 
   onFormSubmit(event) {
@@ -120,6 +107,27 @@ export default class SearchBar extends Component {
     this.props.dispatch(clearSuggestions());
   }
 
+  toggleVisibility() {
+    if (this.props.isVisible) {
+      this.props.dispatch(hideSearchbar());
+    } else {
+      this.props.dispatch(showSearchbar());
+    }
+  }
+
+  renderSuggestionsContainer({ containerProps, children }) {
+    return (
+      <div {...containerProps} className="searchbar-suggestions-container">
+        { this.props.docked ?
+          <div className="searchbar-suggestions-title">
+            {__('searchbar_suggestions_title')}
+          </div> : ''
+        }
+        {children}
+      </div>
+    );
+  }
+
   renderSearchBar() {
     const inputClassName = classNames({
       'searchbar-input': true,
@@ -143,7 +151,7 @@ export default class SearchBar extends Component {
       <Autosuggest
         inputProps={inputProps}
         renderSuggestion={renderSuggestion}
-        highlightFirstSuggestion={true}
+        highlightFirstSuggestion
         suggestions={this.props.suggestions}
         getSuggestionValue={getSuggestionValue}
         onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
@@ -173,7 +181,7 @@ export default class SearchBar extends Component {
         <MediaQuery maxWidth={queries.m}>
           {!this.props.isVisible &&
             <button className="searchbar-btn-show" onClick={this.toggleVisibility}>
-              <img src="/resources/icons/search.svg"></img>
+              <img src="/resources/icons/search.svg" alt="search" />
             </button>
           }
 
@@ -193,14 +201,6 @@ export default class SearchBar extends Component {
         </MediaQuery>
       </form>
     );
-  }
-
-  componentDidMount() {
-    // If there's no placeholder and the user is on the home page (searchbar
-    // is not docked), fetch it.
-    if (this.props.placeholder.id === '' && !this.props.docked) {
-      this.props.dispatch(fetchSuggestions());
-    }
   }
 }
 

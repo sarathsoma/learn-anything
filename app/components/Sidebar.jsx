@@ -105,16 +105,16 @@ export default class Sidebar extends Component {
         </div>
 
         <div className="sidebar-footer">
-          <a href="https://github.com/learn-anything/learn-anything" target="_blank">
+          <a href="https://github.com/learn-anything/learn-anything" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
-          <a href="https://twitter.com/learnanything_" target="_blank">
+          <a href="https://twitter.com/learnanything_" target="_blank" rel="noopener noreferrer">
             Twitter
           </a>
-          <a href="https://www.patreon.com/learnanything" target="_blank">
+          <a href="https://www.patreon.com/learnanything" target="_blank" rel="noopener noreferrer">
             Patreon
           </a>
-          <a href="https://github.com/learn-anything/learn-anything/wiki/Curated-Lists" target="_blank">
+          <a href="https://github.com/learn-anything/learn-anything/wiki/Curated-Lists" target="_blank" rel="noopener noreferrer">
             {__('sidebar_curated_lists')}
           </a>
         </div>
