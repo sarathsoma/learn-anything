@@ -13,7 +13,7 @@ const directions = {
 
 // Create or modify a vote, update the score of the voted resource, and update
 // the cached map.
-async function vote(userID, resourceID, direction) {
+async function setVote(userID, resourceID, direction) {
   const modifiedAt = (new Date()).toString();
   let createdAt = (new Date()).toString();
 
@@ -33,7 +33,7 @@ async function vote(userID, resourceID, direction) {
   // Remove the previous vote if present.
   if (vote) {
     resource.score[directions[vote.direction]] -= 1;
-    createdAt = vote.createdAt;
+    ({ createdAt } = vote);
   }
 
   // Add the new vote.
@@ -112,5 +112,5 @@ function byUserMap(userID, mapID) {
 module.exports = {
   byUser,
   byUserMap,
-  vote,
+  vote: setVote,
 };

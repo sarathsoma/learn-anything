@@ -1,7 +1,7 @@
 const elastic = require('../utils/elasticClient');
-const { cache } = require('../utils/cache');
+// const { cache } = require('../utils/cache');
 const neo4j = require('../utils/neo4jClient');
-const { cacheKeys } = require('../constants.json');
+// const { cacheKeys } = require('../constants.json');
 const { APIError } = require('../utils/errors');
 
 
@@ -15,21 +15,19 @@ async function fuzzySearch(query) {
   });
 
   // Format results nicely before returning them.
-  return response.hits.hits.map((hit) => {
-    return {
-      name: hit._source.text,
-      id: hit._id,
-      // TODO - consider adding number of resources here.
-    };
-  });
+  return response.hits.hits.map(hit => ({
+    name: hit._source.text,
+    id: hit._id,
+    // TODO - consider adding number of resources here.
+  }));
 }
 
 
 // In this function we assume that name is lowecase.
 async function getNodes(context, name) {
   const session = neo4j.getSession(context);
-  let response = await (session.run(`
-    MATCH (n1:Topic)-[rel]-(n2:Topic)
+  let response = await (session.run(
+    `MATCH (n1:Topic)-[rel]-(n2:Topic)
     WHERE toLower(n1.name) = {name}
     RETURN n1, rel, n2`,
     { name },
@@ -55,8 +53,8 @@ async function getNodes(context, name) {
 // In this function we assume that name is lowecase.
 async function getResources(context, name) {
   const session = neo4j.getSession(context);
-  let response = await (session.run(`
-    MATCH (n1:Topic)-[rel]-(n2:Resource)
+  let response = await (session.run(
+    `MATCH (n1:Topic)-[rel]-(n2:Resource)
     WHERE toLower(n1.name) = {name}
     RETURN n1, rel, n2`,
     { name },

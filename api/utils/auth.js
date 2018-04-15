@@ -5,7 +5,7 @@ const { logger } = require('./errors');
 
 
 // Check JSON web token
-const jwtCheck = (scope) =>
+const jwtCheck = () =>
   jwt({
     secret: jwks.expressJwtSecret({
       cache: true,
@@ -20,10 +20,10 @@ const jwtCheck = (scope) =>
 
 const getUserID = auth =>
   axios('https://learn-anything.auth0.com/userinfo', {
-    headers: { Authorization: auth }
+    headers: { Authorization: auth },
   })
-  .then(({ data }) => data.sub)
-  .catch(err => logger(err));
+    .then(({ data }) => data.sub)
+    .catch(err => logger(err));
 
 
 module.exports = {

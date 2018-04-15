@@ -1,5 +1,4 @@
 const express = require('express');
-const axios = require('axios');
 const xssFilters = require('xss-filters');
 const url = require('url');
 const { jwtCheck, getUserID } = require('../utils/auth');
@@ -33,7 +32,9 @@ router.use((err, req, res, next) => {
 */
 router.post('/', (req, res) => {
   const auth = req.get('Authorization');
-  let { text, URL, category, parentID } = req.body;
+  let { text } = req.body;
+  const { URL, category } = req.body;
+  const parentID = Number(req.body.parentID);
 
   // Check that text is not empty and filter it to prevent XSS attacks.
   if (!text || text.trim().length < 6) {
@@ -43,15 +44,16 @@ router.post('/', (req, res) => {
 
   // Parent ID has to be a number. We still aren't sure at this point that
   // it exists though.
-  if (!parentID || isNaN(parentID)) {
+  // https://stackoverflow.com/questions/46677774/eslint-unexpected-use-of-isnan
+  if (!parentID || Number.isNaN(parentID)) {
     throw new APIError(400, 'parent ID was not specified or is not a number');
   }
-  parentID = Number(parentID);
 
   // Check that the URL is a valid URL.
   try {
+    // eslint-disable-next-line
     new url.URL(URL);
-  } catch(err) {
+  } catch (err) {
     throw new APIError(400, 'invalid URL');
   }
 

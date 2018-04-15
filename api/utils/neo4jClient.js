@@ -15,6 +15,7 @@ const getSession = (context) => {
 
 const parseResponse = response =>
   response.records.reduce((obj, record) => {
+    const newObj = { ...obj };
     record._fields.forEach((field, index) => {
       const newField = {
         id: `${field.identity.low}|${field.identity.high}`,
@@ -23,20 +24,20 @@ const parseResponse = response =>
       delete newField.identity;
 
       if (index === 0) {
-        obj.rootNode = _field.id;
+        newObj.rootNode = newField.id;
       }
 
       // `start` and `end` are present only on relationships.
       if (newField.start && newField.end) {
         newField.start = `${field.start.low}|${field.start.high}`;
         newField.end = `${field.end.low}|${field.end.high}`;
-        obj.relationships[newField.id] = newField;
+        newObj.relationships[newField.id] = newField;
       } else {
-        obj.nodes[newField.id] = newField;
+        newObj.nodes[newField.id] = newField;
       }
     });
 
-    return obj;
+    return newObj;
   }, { relationships: {}, nodes: {} });
 
 

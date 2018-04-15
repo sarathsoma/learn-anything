@@ -1,6 +1,5 @@
 const express = require('express');
 const { jwtCheck, getUserID } = require('../utils/auth');
-const dynamo = require('../utils/dynamoClient');
 const votes = require('../helpers/votes');
 const { cache } = require('../utils/cache');
 const { cacheKeys } = require('../constants.json');
@@ -29,13 +28,11 @@ router.get('/', (req, res) => {
   cache(auth, getUserID(auth), 300, true)
     .then((userID) => {
       if (req.query.mapID) {
+        const key = `${cacheKeys.votes.byUserMap}${userID},${req.query.mapID}`;
+
         // We might want to remove the expiration time and update this list when
         // the user votes on something.
-        return cache(
-          `${cacheKeys.votes.byUserMap}${userID},${req.query.mapID}`,
-          votes.byUserMap(userID, req.query.mapID),
-          300
-        );
+        return cache(key, votes.byUserMap(userID, req.query.mapID), 300);
       }
 
       return votes.byUser(userID);
@@ -54,10 +51,10 @@ router.get('/', (req, res) => {
 */
 router.post('/', (req, res) => {
   const auth = req.get('Authorization');
-  const resourceID = req.body.resourceID;
+  const { resourceID } = req.body;
   const direction = Number(req.body.direction);
 
-  if (isNaN(direction)) {
+  if (Number.isNaN(direction)) {
     throw new APIError(400, 'invalid vote direction');
   }
 

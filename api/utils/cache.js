@@ -12,11 +12,10 @@ if (process.env.MEMCACHED_HOST) {
 }
 
 const memcached = new Memcached([`${host}:11211`]);
-const { logger } = require('./errors');
 
 
 // Return a hash of the given string.
-function hash(str) {
+function getHash(str) {
   const hash = crypto.createHash('sha256');
   hash.update(str);
   return hash.digest('hex');
@@ -42,7 +41,7 @@ function get(key) {
 // Example use:
 //  set('maps.byID.5', map, 3*60*60)
 //    .then(response => console.log(response))
-function set(key, value, lifetime=0) {
+function set(key, value, lifetime = 0) {
   return new Promise((resolve, reject) => {
     memcached.set(key, value, lifetime, (err, data) => {
       if (err) {
@@ -76,7 +75,7 @@ function del(key) {
 // the cached value, and wether the key should be hashed or not.
 function cache(key, fn, lifetime = 0, shouldHash = false) {
   return new Promise((resolve, reject) => {
-    const hashedKey = hash(key);
+    const hashedKey = getHash(key);
     console.log('[MC] Get:', shouldHash ? hashedKey : key);
 
     // If shouldHash is true get the data by hashed key.
@@ -87,7 +86,7 @@ function cache(key, fn, lifetime = 0, shouldHash = false) {
         if (cachedData && (!shouldHash || (shouldHash && cachedData.key === key))) {
           console.log('[MC] Hit:', shouldHash ? hashedKey : key);
           resolve(shouldHash ? cachedData.value : cachedData);
-          return;
+          return null;
         }
 
         if (typeof fn === 'object' && fn.then) {
@@ -115,21 +114,21 @@ function cache(key, fn, lifetime = 0, shouldHash = false) {
 
           set(shouldHash ? hashedKey : key, value, lifetime)
             .then(data => console.log(`[MC] Cached: ${data}`))
-            .catch(err => logger(err));
+            .catch(err => reject(err));
         }
       })
-      .catch(err => logger(err));
+      .catch(err => reject(err));
   });
 }
 
 // Return a promise that resolves immediately, used when memcached
 // is not available.
-function fakePromise(key) {
+function fakePromise() {
   return new Promise(resolve => resolve());
 }
 
 // Fake cache function, used when memcached is not available.
-function fakeCache(key, fn, lifetime, shouldHash) {
+function fakeCache(_, fn) {
   if (typeof fn === 'object' && fn.then) {
     return fn;
   }

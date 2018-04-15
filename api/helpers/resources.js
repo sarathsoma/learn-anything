@@ -13,7 +13,7 @@ async function create(text, url, category, parentID, userID) {
     dynamo('get', {
       TableName: 'Nodes',
       Key: { nodeID: parentID },
-    })
+    }),
   )).Item;
 
   if (!node) {
@@ -44,7 +44,7 @@ async function create(text, url, category, parentID, userID) {
     score: { up: 0, down: 0 },
   };
 
-  const response = await dynamo('put', {
+  await dynamo('put', {
     TableName: 'Resources',
     Item: newResource,
   });
