@@ -1,4 +1,4 @@
-# [![Learn Anything](media/header.png)](https://learn-anything.xyz/)
+# [![Learn Anything](https://i.imgur.com/hNLJjpl.png)](https://learn-anything.xyz/)
 
 # Learn Anything [![Discord](https://img.shields.io/badge/chat-Discord-purple.svg)](https://discord.gg/KKYdWjt) [![Lists](https://img.shields.io/badge/Curated%20Lists-📒-blue.svg)](https://github.com/learn-anything/curated-lists#readme) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
