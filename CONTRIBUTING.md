@@ -9,24 +9,6 @@ There are many ways you can contribute. You can:
 ## Setting Up the project locally
 These instructions will allow you to set up your own instance of Learn Anything to develop with.
 
-### Install dependencies
-1. [node.js](https://nodejs.org)
-2. [DynamoDB](https://aws.amazon.com/dynamodb/). Is a database used to manage and store maps. You can install and run it with:
-
-```Bash
-wget https://s3-us-west-2.amazonaws.com/dynamodb-local/dynamodb_local_latest.zip
-unzip -a dynamodb_local_latest.zip
-java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
-```
-
-3. [Elasticsearch](https://www.elastic.co). Is needed for fetching maps and suggestions on the website. You can install and run it with:
-
-```Bash
-wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.5.2.tar.gz
-tar -zxf elasticsearch-5.5.2.tar.gz
-./elasticsearch-5.5.2/bin/elasticsearch
-```
-
 ### Run the project
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone your fork:
 
@@ -38,9 +20,8 @@ git clone https://github.com/<your-username>/learn-anything.git
 cd learn-anything
 ```
 
-2. `npm install` to install dependencies.
-3. `npm run setup` to initialise DynamoDB and Elasticsearch.
-3. `npm start` to start the app.
+2. Inside [api](api) dir. Run `npm install` to install dependencies. After it is done, run `npm start` to start [Elasticsearch](https://www.elastic.co) & [neo4j](https://neo4j.com).
+3. In another terminal. Inside [app](app) dir. Run `npm install`. Then run `npm start` to start the app.
 4. Connect to [localhost:3000](http://localhost:3000).
 
 The first time it may take a while, as all maps will be added to Elasticsearch.
