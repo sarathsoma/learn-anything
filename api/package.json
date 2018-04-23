@@ -18,7 +18,8 @@
   "repository": "learn-anything/learn-anything",
   "scripts": {
     "lint": "eslint .",
-    "start": "nodemon index.js --exec 'npm run lint && node'"
+    "postinstall": "./setup.sh",
+    "start": "./deps/start.sh && nodemon index.js --exec 'npm run lint && node' && ./deps/stop.sh"
   },
   "dependencies": {
     "aws-sdk": "^2.222.1",

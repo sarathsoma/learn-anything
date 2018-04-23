@@ -6,3 +6,4 @@ yarn.lock
 .vscode
 votes-bak.json
 api/deps
+api/deps.zip
