@@ -6,10 +6,7 @@ There are many ways you can contribute. You can:
 - Contribute to the website via [Pull Requests]([issues](../../pulls/)). Instructions below will provide all necessary information on how you can do that from setting up the website to run locally to how you can add and contribute changes to the code base.
 - Ask questions on [Discord](https://discord.gg/KKYdWjt) and discuss ideas and share thoughts about the project.
 
-## Setting Up the project locally
-These instructions will allow you to set up your own instance of Learn Anything to develop with.
-
-### Run the project
+## Run the project
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone your fork:
 
 ```Bash
@@ -23,9 +20,6 @@ cd learn-anything
 2. Inside [api](api) dir. Run `npm install` to install dependencies. After it is done, run `npm start` to start [Elasticsearch](https://www.elastic.co) & [neo4j](https://neo4j.com).
 3. In another terminal. Inside [app](app) dir. Run `npm install`. Then run `npm start` to start the app.
 4. Connect to [localhost:3000](http://localhost:3000).
-
-The first time it may take a while, as all maps will be added to Elasticsearch.
-After that only `npm start` will be needed.
 
 <!-- ## Testing -->
 <!-- TODO: make tests work -->
